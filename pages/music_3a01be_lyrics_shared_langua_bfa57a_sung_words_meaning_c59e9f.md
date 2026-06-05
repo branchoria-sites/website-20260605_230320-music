@@ -1,0 +1,792 @@
+---
+level: 3
+basename: music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f
+parent_basename: music_3a01be_lyrics_shared_langua_bfa57a
+child_basenames: []
+sibling_basenames:
+- music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0
+- music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261
+- music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043
+- music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870
+tags:
+- music
+- lyrics
+- sung-meaning
+keywords:
+- music
+- lyrics
+- sung-meaning
+affiliate_category: music
+show_ads: true
+description: Words can feel more emotionally charged when melody, rhythm, and voice carry them inside a song.
+hero_summary: Words can feel more emotionally charged when melody, rhythm, and voice carry them inside a song.
+layout: default
+permalink: /sung-meaning/
+sidebar_expanded_urls:
+- /music/
+- /lyrics/
+nav_short_title: Sung Meaning
+title: Why Sung Words Hit Harder Than Spoken Ones
+title_full: Why Sung Words Hit Harder Than Spoken Ones | Lyrics
+display_title_short: Sung Meaning
+display_title: Sung Meaning
+heading_title: Why Sung Words Hit Harder Than Spoken Ones
+page_heading_title: Why Sung Words Hit Harder Than Spoken Ones
+source_count: 26
+infographic_count: 3
+planned_sections:
+- Language meaning inside musical sound
+- Familiar songs versus spoken lyrics
+- How melody and voice amplify emotion
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: single_mechanism
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-03 05:49:24'
+parent_title: How Lyrics Make Feelings Public | Music
+parent_permalink: /lyrics/
+parent_nav_short_title: Lyrics
+parent_heading_title: How Lyrics Make Feelings Public
+ancestor_links:
+- basename: music_3a01be
+  title: Music
+  permalink: /music/
+  short_title: Music
+- basename: music_3a01be_lyrics_shared_langua_bfa57a
+  title: Lyrics | Music
+  permalink: /lyrics/
+  short_title: Lyrics
+  heading_title: How Lyrics Make Feelings Public
+breadcrumb_links:
+- basename: music_3a01be
+  title: Music
+  permalink: /music/
+  short_title: Music
+- basename: music_3a01be_lyrics_shared_langua_bfa57a
+  title: Lyrics | Music
+  permalink: /lyrics/
+  short_title: Lyrics
+  heading_title: How Lyrics Make Feelings Public
+sibling_links:
+- basename: music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0
+  title: Chorus Lines | Lyrics
+  permalink: /chorus-lines/
+  short_title: Chorus Lines
+  heading_title: Why Choruses Turn Feelings Into Catchphrases
+- basename: music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261
+  title: Culture | Lyrics
+  permalink: /culture/
+  short_title: Culture
+  heading_title: Why The Same Lyric Means Different Things
+- basename: music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043
+  title: Identification | Lyrics
+  permalink: /identification/
+  short_title: Identification
+  heading_title: Why Some Lyrics Feel Like Your Story
+- basename: music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870
+  title: Protest Lyrics | Lyrics
+  permalink: /protest-lyrics/
+  short_title: Protest Lyrics
+  heading_title: When Lyrics Leave Songs and Become Slogans
+up_link:
+  basename: music_3a01be_lyrics_shared_langua_bfa57a
+  title: Lyrics | Music
+  permalink: /lyrics/
+  short_title: Lyrics
+  heading_title: How Lyrics Make Feelings Public
+prev_link:
+  basename: music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870
+  title: Protest Lyrics | Lyrics
+  permalink: /protest-lyrics/
+  short_title: Protest Lyrics
+  heading_title: When Lyrics Leave Songs and Become Slogans
+header:
+  og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-social.jpg
+  preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1.webp
+image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Our experience of sung words often feels richer than hearing the same words spoken. A growing body of psychological research shows that music doesn’t just *carry* words — it alters how we perceive, integrate, and emotionally respond to them. Distinct from narrative or semantic content alone, [melody]({{ 'melody/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and vocal expression work together to amplify the emotional meaning listeners intuitively feel in song. This effect helps explain why a lyric can hit harder, linger longer, and feel more universal when it’s sung rather than spoken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+
+
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-dark.svg" | relative_url }}" alt="Sung Meaning illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## How Music Shapes the Perceived Meaning of Words
+
+[Music]({{ 'music/' | relative_url }}) doesn’t simply decorate language; it reshapes how words are interpreted. In experimental studies where participants judged the emotional valence and meaningfulness of the same text presented as sung [lyrics]({{ 'lyrics/' | relative_url }}), spoken speech, or written poetry, listeners consistently rated *sung* lyrics as more impactful — especially when paired with familiar music. Researchers suggest that this happens because the accompaniment carries personal associations and emotional significance that become bound to the words, increasing their perceived meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+
+Neurocognitive evidence also supports this integration: when listeners hear words sung to different melodies, measurable changes appear in brain responses associated with semantic processing. Variations in melody modulate classic markers of meaning processing (such as the N400 ERP component), indicating that musical pitch patterns interact with how semantic information is extracted from lyrics. This shows that melody and language are not processed in isolation but influence each other’s impact on comprehension and meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vumc.org">[Vanderbilt University Medical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vumc.org</span><span class="citation-popover-snippet">Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. | Vanderbi...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wAafVviGxhk" title="Music’s power over your brain, explained | Michael Spitzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wAafVviGxhk" target="_blank" rel="noopener noreferrer">Music’s power over your brain, explained | Michael Spitzer</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wAafVviGxhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wAafVviGxhk">Open on YouTube</a></p></div></div></div>
+
+## Melody and Vocal Expression Amplify Emotional Cues
+
+The *way* words are sung — not just what is sung — matters deeply. Research into vocal [timbre]({{ 'timbre/' | relative_url }}) (the unique colour or texture of a voice) demonstrates that emotional congruence between how a word *sounds* and the intended emotion influences how listeners perceive its meaning. Words sung with a voice that conveys matching emotional valence (for example, a warm, tender timbre for affectionate lyrics) are more readily and accurately interpreted as emotionally consistent than when the vocal quality contradicts the words’ affect. This effect suggests that vocal expression acts as a non‑verbal emotional signal that shapes how meaning is apprehended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</span></span></span>
+
+In practical terms, this means that songs with expressive vocal delivery can make lyrics feel more sincere, poignant, or poignant than if the identical text were read in a neutral tone. Listeners rely on these acoustic cues — pitch inflection, dynamics, breathiness or power — to decode emotion alongside literal semantics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</span></span></span>
+
+
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-2-dark.svg" | relative_url }}" alt="Sung Meaning illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Familiarity, Integration and Lasting Impact
+
+Familiarity with a song further strengthens the bond between music and meaning. As listeners grow accustomed to a piece through repeated exposure, the brain integrates melody and lyrics more tightly, creating stronger associations that enhance both recall and emotional resonance. Studies show that repeated listening to unfamiliar songs increases perceived meaningfulness, suggesting that integration between melody and language is not static but develops with experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+
+This phenomenon also helps explain why [choruses]({{ 'choruses/' | relative_url }}) and [hooks]({{ 'hooks/' | relative_url }}) — the most familiar and repeated sections of popular songs — often feel especially meaningful. Their simple melodic patterns and repetition make them easier to remember and internalise, and the emotional cues embedded in the music amplify how listeners experience the lyric content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-4-s67sdcvU" title="How to Create EMOTIONS with MELODIES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-4-s67sdcvU" target="_blank" rel="noopener noreferrer">How to Create EMOTIONS with MELODIES</a></p><p class="youtube-embed-meta">Channel: EDM Tips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-4-s67sdcvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-4-s67sdcvU">Open on YouTube</a></p></div></div></div>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
+
+## Why Sung Words Hit Harder Than Spoken Words
+
+In essence, music adds layers of emotional and cognitive cues that enrich the meaning of sung language:
+
+* **Acoustic emotion cues:** Melody, [harmony]({{ 'harmony/' | relative_url }}), and vocal timbre convey affective information that frames how words are interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</span></span></span>
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Neural integration:** Musical features influence semantic processing mechanisms in the brain, blending emotional and linguistic channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vumc.org">[Vanderbilt University Medical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vumc.org</span><span class="citation-popover-snippet">Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. | Vanderbi...</span></span></span>
+* **Familiarity and association:** Music evokes personal and cultural associations that make verbal content feel deeper or more significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+* **Repetition and structure:** Predictable melodic patterns and the structure of songs aid memory and emotional resonance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+
+</div>
+
+Together, these mechanisms help explain the common experience that hearing a beloved lyric sung — rather than spoken — can feel profoundly meaningful, emotionally charged, and personally resonant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+
+
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-3-dark.svg" | relative_url }}" alt="Sung Meaning illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Sung Words Hit Harder Than Spoken Ones. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+        </h4>
+        <p class="fr-book-author">By Daniel J. Levitin</p>
+        
+        <p class="fr-book-desc">Directly addresses how music changes the impact of words.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+        </h4>
+        <p class="fr-book-author">By Oliver Sacks</p>
+        
+        <p class="fr-book-desc">Explores music’s unusual emotional and cognitive power.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+        </h4>
+        <p class="fr-book-author">By David Byrne</p>
+        
+        <p class="fr-book-desc">Offers practical and cultural insight into musical communication.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, Language, and the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1126238-M.jpg" alt="Cover for Music, Language, and the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, Language, and the Brain">Music, Language, and the Brain</a>
+        </h4>
+        <p class="fr-book-author">By Aniruddh D. Patel</p>
+        
+        <p class="fr-book-desc">First published 2007. Subjects: Auditory perception, Cognitive neuroscience, Language acquisition, Music, Neurobiology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/719f94d725f5b542b59b.jpg' | relative_url }}" alt="Listing image for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio"><img src="{{ '/assets/images/marketplace-covers/98d0e7caabfa0a73538c.jpg' | relative_url }}" alt="Listing image for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="sung-meaning-why-sung-words-hit-harder-than-spoken-ones-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: research.bond.edu.au  
+   Link: [https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/](https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: vumc.org  
+   Link: [https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence](https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. | Vanderbi...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: journals.sagepub.com  
+   Link: [https://journals.sagepub.com/doi/10.1177/0305735617753996](https://journals.sagepub.com/doi/10.1177/0305735617753996)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Title: On the one hand, dou  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2847603/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2847603/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Melody Are Intertwined in Perception of Sung Words: EEG and Behavioral Evidence - PMCMarch 31, 2010 — INTRODUCTION Strong arguments h...</p></details>
+   Published: March 31, 2010  
+
+### Additional References
+
+5. <a id="endnote-5"></a>
+   Source: frontiersin.org  
+   Link: [https://www.frontiersin.org/article/10.3389/fpsyg.2013.00184/abstract](https://www.frontiersin.org/article/10.3389/fpsyg.2013.00184/abstract)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 24 April 2013 Sec. Emotion Science Volume 4 - 2013 | [https://doi.org/10.3389/fpsyg.2013.00184](https://doi.org/10.3389/fpsyg.2013.00184) This article is part of the Resea...</p></details>
+   Published: April 2013  
+
+6. <a id="endnote-6"></a>
+   Source: frontiersin.org  
+   Link: [https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00809/full](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00809/full)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 04 September 2014 Sec. Cognitive Science Volume 5 - 2014 | [https://doi.org/10.3389/fpsyg.2014.00809](https://doi.org/10.3389/fpsyg.2014.00809) This article is part of the...</p></details>
+   Published: September 2014  
+
+7. <a id="endnote-7"></a>
+   Source: dbc.library.uu.nl  
+   Link: [https://dbc.library.uu.nl/handle/1874/412901](https://dbc.library.uu.nl/handle/1874/412901)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Accompaniment Support the Processing of Song Lyrics and Change the Lyrics&#x27; MeaningSINGING AND ACCOMPANIMENT SUPPORT THE PROCESSING OF...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: rune.une.edu.au  
+   Link: [https://rune.une.edu.au/web/handle/1959.11/26489?mode=full](https://rune.une.edu.au/web/handle/1959.11/26489?mode=full)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>une.edu.auIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional percept...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: mdpi.com  
+   Title: Jacobs^{1,3} ^{1} Department of Experimental and Neurocognitive Psychology, F  
+   Link: [https://www.mdpi.com/2076-3425/8/6/94](https://www.mdpi.com/2076-3425/8/6/94)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sound of Words Evokes Affective Brain Responses | MDPIMay 23, 2018 — 23 May 2018 THE SOUND OF WORDS EVOKES AFFECTIVE BRAIN RESPONSES...</p></details>
+   Published: May 23, 2018  
+
+10. <a id="endnote-10"></a>
+   Source: researchonline.gcu.ac.uk  
+   Title: gcu.ac.uk Popular music and the role of vocal melody in perceived emotion  
+   Link: [https://researchonline.gcu.ac.uk/en/publications/popular-music-and-the-role-of-vocal-melody-in-perceived-emotion](https://researchonline.gcu.ac.uk/en/publications/popular-music-and-the-role-of-vocal-melody-in-perceived-emotion)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>music and the role of vocal melody in perceived emotion - Glasgow Caledonian UniversityMay 1, 2018 — POPULAR MUSIC AND THE ROLE OF VOCAL...</p></details>
+   Published: May 1, 2018  
+
+11. <a id="endnote-11"></a>
+   Source: repozytorium.ukw.edu.pl  
+   Title: ukw.edu.pl The Attribution of Emotion and Meaning to Song Lyrics  
+   Link: [https://repozytorium.ukw.edu.pl/handle/item/852](https://repozytorium.ukw.edu.pl/handle/item/852)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attribution of Emotion and Meaning to Song Lyrics - Repozytorium Uniwersytetu Kazimierza WielkiegoTHE ATTRIBUTION OF EMOTION AND MEANING...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: pure.solent.ac.uk  
+   Title: solent.ac.uk Have we made ourselves clear?  
+   Link: [https://pure.solent.ac.uk/en/publications/have-we-made-ourselves-clear-singers-and-non-singers-perceptions-](https://pure.solent.ac.uk/en/publications/have-we-made-ourselves-clear-singers-and-non-singers-perceptions-)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singers and non-singers’ perceptions of the intelligibility of sung text - Southampton Solent UniversityHAVE WE MADE OURSELVES CLEAR? SIN...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: pubmed.ncbi.nlm.nih.gov  
+   Link: [https://pubmed.ncbi.nlm.nih.gov/22457659/](https://pubmed.ncbi.nlm.nih.gov/22457659/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Mar 19:3:76. doi: 10.3389/fpsyg.2012.00076. eCollection 2012. PERCEPTION OF WORDS AND PITCH PATTERNS IN SONG AND SPEECH Julia Merril...</p></details>

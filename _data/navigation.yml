@@ -1,0 +1,764 @@
+sidebar_generated:
+- title: Music
+  url: /music/
+  children:
+  - title: Afrobeats
+    title_full: How Afrobeats Crossed Global Borders | Music
+    url: /afrobeats/
+    children:
+    - title: Afro Nation
+      title_full: How Festivals Turn Afrobeats Into Travel | Afrobeats
+      url: /afro-nation/
+    - title: Calm Down
+      title_full: Did Calm Down Change Pop Crossover Rules? | Afrobeats
+      url: /calm-down/
+    - title: Charts
+      title_full: Why Afrobeats Needed Its Own Charts | Afrobeats
+      url: /charts/
+    - title: Love Nwantiti
+      title_full: How Love Nwantiti Travelled Beyond Nigeria | Afrobeats
+      url: /love-nwantiti/
+    - title: UK nightlife
+      title_full: Why UK Parties Mattered for Afrobeats | Afrobeats
+      url: /uk-nightlife/
+  - title: AI Flooding
+    title_full: Could AI Flood The Music Market? | Music
+    url: /ai-flooding/
+    children:
+    - title: Bot fraud
+      title_full: How AI Songs Turned Into Streaming Fraud | AI Flooding
+      url: /bot-fraud/
+    - title: Deezer surge
+      title_full: What Deezer's AI Upload Surge Reveals | AI Flooding
+      url: /deezer-surge/
+    - title: Middle market
+      title_full: Where AI Music Hits Working Musicians First | AI Flooding
+      url: /middle-market/
+    - title: Platform rules
+      title_full: Can Platforms Police AI Music Floods? | AI Flooding
+      url: /platform-rules/
+    - title: Training disputes
+      title_full: Why AI Music Lawsuits Matter for Flooding | AI Flooding
+      url: /training-disputes/
+  - title: AI Songs
+    title_full: Who Gets Credit For AI Made Music? | Music
+    url: /ai-songs/
+    children:
+    - title: Assist or Replace
+      title_full: When AI Helps Rather Than Replaces Musicians | AI Songs
+      url: /assist-or-replace/
+    - title: Fake Drake
+      title_full: Why Heart on My Sleeve Was Removed | AI Songs
+      url: /fake-drake/
+    - title: Prompt Copyright
+      title_full: Can a Prompt Make a Song Copyrightable? | AI Songs
+      url: /prompt-copyright/
+    - title: Upload Flood
+      title_full: How AI Tracks Flood Streaming Platforms | AI Songs
+      url: /upload-flood/
+    - title: Voice Clones
+      title_full: When an AI Song Sounds Like a Star | AI Songs
+      url: /voice-clones/
+  - title: AI Training
+    title_full: Can AI Learn From Copyrighted Music? | Music
+    url: /ai-training/
+    children:
+    - title: Fair Use
+      title_full: Can AI music training be fair use? | AI Training
+      url: /fair-use/
+    - title: Licensing
+      title_full: Who gets paid when AI trains on songs? | AI Training
+      url: /licensing/
+    - title: Suno and Udio
+      title_full: Why the Suno and Udio lawsuits matter | AI Training
+      url: /suno-and-udio/
+    - title: Transparency
+      title_full: The hidden dataset problem in AI music | AI Training
+      url: /transparency-d9b91c/
+    - title: Voice Imitation
+      title_full: When AI sounds too much like an artist | AI Training
+      url: /voice-imitation/
+  - title: Albums
+    title_full: Why Albums Still Matter Now | Music
+    url: /albums/
+    children:
+    - title: Album Arc
+      title_full: What Gets Lost When Songs Leave the Album? | Albums
+      url: /album-arc/
+    - title: Album Variants
+      title_full: Are Album Variants Fandom or Chart Strategy? | Albums
+      url: /album-variants/
+    - title: Fan Loyalty
+      title_full: Why Albums Matter Beyond Streaming Numbers | Albums
+      url: /fan-loyalty/
+    - title: Fan Rituals
+      title_full: Why Do Fans Still Gather Around Album Releases? | Albums
+      url: /fan-rituals-ece6aa/
+    - title: Vinyl Album Experien
+      title_full: Vinyl Album Experien | Albums
+      url: /vinyl-album-experien/
+  - title: Algorithms
+    title_full: Do Algorithms Help Or Narrow Music Discovery? | Music
+    url: /algorithms/
+    children:
+    - title: Autoplay
+      title_full: Who chooses the next song? | Algorithms
+      url: /autoplay/
+    - title: Cold Start
+      title_full: Why new artists are hard to recommend | Algorithms
+      url: /cold-start/
+    - title: Diversity Tradeoff
+      title_full: Can recommendations stay relevant and diverse? | Algorithms
+      url: /diversity-tradeoff/
+    - title: Mood Matching
+      title_full: How mood playlists changed music discovery | Algorithms
+      url: /mood-matching/
+    - title: Playlist Loops
+      title_full: Do personalised playlists make taste smaller? | Algorithms
+      url: /playlist-loops/
+  - title: Attention
+    title_full: Why Being Available Is Not Being Heard | Music
+    url: /attention/
+    children:
+    - title: 1 000 Streams
+      title_full: What Does 1,000 Streams Really Signal? | Attention
+      url: /1-000-streams-534c44/
+    - title: Algorithms
+      title_full: Do Music Algorithms Broaden Taste? | Attention
+      url: /algorithms-e34b11/
+    - title: Catalogue Gap
+      title_full: How Big Can The Music Shelf Get? | Attention
+      url: /catalogue-gap/
+    - title: Low Plays
+      title_full: Why Songs Vanish After Release | Attention
+      url: /low-plays/
+    - title: Playlist Power
+      title_full: When A Playlist Frames The Song | Attention
+      url: /playlist-power/
+  - title: Catalogue
+    title_full: Why Old Songs Keep Coming Back | Music
+    url: /catalogue/
+    children:
+    - title: Kate Bush
+      title_full: How Stranger Things revived Kate Bush | Catalogue
+      url: /kate-bush/
+    - title: Playlists
+      title_full: When playlists make old songs useful again | Catalogue
+      url: /playlists-5ecdfd/
+    - title: Saltburn Sync
+      title_full: Why Saltburn sent a pop hit back | Catalogue
+      url: /saltburn-sync/
+    - title: Streaming
+      title_full: Why streaming makes old songs feel current | Catalogue
+      url: /streaming-0007b3/
+    - title: Tik Tok Hooks
+      title_full: Why old hooks spread through short clips | Catalogue
+      url: /tik-tok-hooks/
+  - title: Concerts
+    title_full: Why Concerts Feel Bigger Than Songs | Music
+    url: /concerts/
+    children:
+    - title: Crowd Sync
+      title_full: When a crowd becomes part of the song | Concerts
+      url: /crowd-sync/
+    - title: Fan Rituals
+      title_full: Why concert rituals stick in memory | Concerts
+      url: /fan-rituals/
+    - title: Live Emotion
+      title_full: Why live music hits harder in person | Concerts
+      url: /live-emotion/
+    - title: Phone Clips
+      title_full: Do phone videos help or change memory? | Concerts
+      url: /phone-clips/
+    - title: Setlists
+      title_full: Why the setlist is not the concert | Concerts
+      url: /setlists-2c9d97/
+  - title: Creator Pay
+    title_full: Why A Growing Industry Can Still Feel Unfair | Music
+    url: /creator-pay/
+    children:
+    - title: 1 000 Streams
+      title_full: Who Loses When Streams Fall Below the Line? | Creator Pay
+      url: /1-000-streams/
+    - title: Label Deals
+      title_full: When Old Record Deals Meet Streaming Money | Creator Pay
+      url: /label-deals/
+    - title: Payout Myths
+      title_full: Why There Is No Simple Per Stream Rate | Creator Pay
+      url: /payout-myths/
+    - title: Songwriters
+      title_full: Why Songwriters Wait Longer for Streaming Pay | Creator Pay
+      url: /songwriters/
+    - title: Transparency
+      title_full: Why Bigger Royalty Reports Still Leave Questions | Creator Pay
+      url: /transparency-6c916a/
+  - title: Dance Music
+    title_full: How Dance Music Builds A Room | Music
+    url: /dance-music/
+    children:
+    - title: DJ Curation
+      title_full: How DJs Shape Movement and Energy in Dance Spaces | Dance Music
+      url: /dj-curation/
+    - title: Inclusion Boundaries
+      title_full: Who Belongs on the Dance Floor and Why | Dance Music
+      url: /inclusion-boundaries/
+    - title: Rhythmic Repetition
+      title_full: How Repeated Beats Foster Social Equality on Dance Floors | Dance Music
+      url: /rhythmic-repetition/
+    - title: Sound Systems
+      title_full: Why Sound Systems Direct Collective Movement on Dance Floors | Dance Music
+      url: /sound-systems/
+    - title: Venue Design
+      title_full: How Club Architecture and Lighting Shape Dance Interaction | Dance Music
+      url: /venue-design/
+  - title: Harmony
+    title_full: How Harmony Changes What Music Means | Music
+    url: /harmony/
+    children:
+    - title: Chord Emotion
+      title_full: How Major and Minor Chords Change Listener Emotions | Harmony
+      url: /chord-emotion/
+    - title: Cultural Context
+      title_full: Why Major and Minor Chords Feel Different Across Cultures | Harmony
+      url: /cultural-context/
+    - title: Melody & Harmony
+      title_full: How Harmony Reinterprets the Emotional Meaning of a Melody | Harmony
+      url: /melody-harmony/
+    - title: Tension & Release
+      title_full: How Tension and Release Shape Emotional Impact in Music | Harmony
+      url: /tension-release/
+    - title: Unresolved Harmony
+      title_full: How Unresolved Chords Keep Music Emotionally Open | Harmony
+      url: /unresolved-harmony/
+  - title: Hymns
+    title_full: How Hymns Turn Belief Into Sound | Music
+    url: /hymns/
+    children:
+    - title: Emotion
+      title_full: Why Hymn Tunes Say More Than Words | Hymns
+      url: /emotion/
+    - title: Memory
+      title_full: How Hymns Help Belief Stay Remembered | Hymns
+      url: /memory/
+    - title: Public Grief
+      title_full: Why Hymns Appear at Public Moments of Grief | Hymns
+      url: /public-grief/
+    - title: Reformation
+      title_full: When Hymns Put Worship Into Every Voice | Hymns
+      url: /reformation/
+    - title: Shared Singing
+      title_full: Why Singing Hymns Together Feels So Powerful | Hymns
+      url: /shared-singing/
+  - title: IFPI Data
+    title_full: What Global Music Revenue Numbers Show | Music
+    url: /ifpi-data/
+    children:
+    - title: Artist Income
+      title_full: Why Growth Does Not Mean Artists Earn More | IFPI Data
+      url: /artist-income/
+    - title: Data Sources
+      title_full: Where IFPI's Global Numbers Come From | IFPI Data
+      url: /data-sources/
+    - title: Formats
+      title_full: Why Streaming Is Not The Whole Story | IFPI Data
+      url: /formats/
+    - title: Paid Streaming
+      title_full: How Subscriptions Became The Growth Engine | IFPI Data
+      url: /paid-streaming/
+    - title: Regions
+      title_full: Why Global Growth Looks Different Locally | IFPI Data
+      url: /regions/
+  - title: K Pop
+    title_full: How K Pop Built A Global Fan Machine | Music
+    url: /k-pop/
+    children:
+    - title: Comebacks
+      title_full: How a comeback becomes a fan event | K Pop
+      url: /comebacks/
+    - title: Dance Hooks
+      title_full: Why K pop choruses are built to move | K Pop
+      url: /dance-hooks/
+    - title: Fan Labour
+      title_full: When supporting idols starts to feel like work | K Pop
+      url: /fan-labour/
+    - title: Fan Platforms
+      title_full: Why fan apps matter to K pop's business | K Pop
+      url: /fan-platforms/
+    - title: Photocards
+      title_full: Why fans buy albums they do not play | K Pop
+      url: /photocards/
+  - title: Latin Music
+    title_full: Why Latin Music Travels So Far | Music
+    url: /latin-music/
+    children:
+    - title: Bad Bunny
+      title_full: How Bad Bunny Redefined Mainstream Success | Latin Music
+      url: /bad-bunny/
+    - title: Collabs
+      title_full: Why Latin Collabs Travel So Fast | Latin Music
+      url: /collabs/
+    - title: Despacito
+      title_full: Why Despacito Changed Global Pop Listening | Latin Music
+      url: /despacito/
+    - title: Diaspora
+      title_full: Why Diaspora Listening Powered Latin Streaming | Latin Music
+      url: /diaspora/
+    - title: Viva Latino
+      title_full: How Playlists Became Latin Music's Front Door | Latin Music
+      url: /viva-latino/
+  - title: Live Income
+    title_full: Why Live Music Still Pays Differently | Music
+    url: /live-income/
+    children:
+    - title: Grassroots
+      title_full: Why Tiny Venues Build Real Careers | Live Income
+      url: /grassroots/
+    - title: Live Nation
+      title_full: What Big Concert Numbers Really Prove | Live Income
+      url: /live-nation/
+    - title: Setlists
+      title_full: Why Setlists Decide Who Gets Paid | Live Income
+      url: /setlists-db102e/
+    - title: Small Gigs
+      title_full: When a Small Gig Actually Pays Off | Live Income
+      url: /small-gigs/
+    - title: Ticket Split
+      title_full: Where Your Ticket Money Really Goes | Live Income
+      url: /ticket-split/
+  - title: Lullabies
+    title_full: Why Lullabies Work Across Cultures | Music
+    url: /lullabies/
+    children:
+    - title: Caregiver Cues
+      title_full: Why Singing Matters More Than Playback | Lullabies
+      url: /caregiver-cues/
+    - title: Familiar Songs
+      title_full: Why Familiar Lullabies Feel Safer | Lullabies
+      url: /familiar-songs/
+    - title: Foreign Songs
+      title_full: Can Unknown Lullabies Still Calm Babies? | Lullabies
+      url: /foreign-songs/
+    - title: Repetition
+      title_full: Why Repetition Helps Babies Settle | Lullabies
+      url: /repetition-a8a280/
+    - title: Slow Tempo
+      title_full: Why Slow Lullabies Feel Calming | Lullabies
+      url: /slow-tempo/
+  - title: Lyrics
+    title_full: How Lyrics Make Feelings Public | Music
+    url: /lyrics/
+    children:
+    - title: Chorus Lines
+      title_full: Why Choruses Turn Feelings Into Catchphrases | Lyrics
+      url: /chorus-lines/
+    - title: Culture
+      title_full: Why The Same Lyric Means Different Things | Lyrics
+      url: /culture/
+    - title: Identification
+      title_full: Why Some Lyrics Feel Like Your Story | Lyrics
+      url: /identification/
+    - title: Protest Lyrics
+      title_full: When Lyrics Leave Songs and Become Slogans | Lyrics
+      url: /protest-lyrics/
+    - title: Sung Meaning
+      title_full: Why Sung Words Hit Harder Than Spoken Ones | Lyrics
+      url: /sung-meaning/
+  - title: Melody
+    title_full: Why Some Melodies Stay In Your Head | Music
+    url: /melody/
+    children:
+    - title: Choruses
+      title_full: Why Do Choruses Stay in Your Head? | Melody
+      url: /choruses/
+    - title: Contour
+      title_full: The Shape Your Brain Hums Back | Melody
+      url: /contour/
+    - title: Earworms
+      title_full: What Makes a Tune Become an Earworm? | Melody
+      url: /earworms/
+    - title: Emotion
+      title_full: Why Some Melodies Bring Memories Back | Melody
+      url: /emotion-ad77f9/
+    - title: Surprise
+      title_full: Why Catchy Melodies Need a Twist | Melody
+      url: /surprise/
+  - title: Merch
+    title_full: Why Music Merch Means More Than Branding | Music
+    url: /merch/
+    children:
+    - title: Band Shirts
+      title_full: Why Band Shirts Say More Than Taste | Merch
+      url: /band-shirts/
+    - title: Billie Values
+      title_full: Can Merch Carry An Artist's Values? | Merch
+      url: /billie-values/
+    - title: Collab Fit
+      title_full: Why Some Artist Collabs Feel Fake | Merch
+      url: /collab-fit/
+    - title: Limited Drops
+      title_full: When Scarce Merch Stops Feeling Special | Merch
+      url: /limited-drops/
+    - title: Tour Keepsakes
+      title_full: Why Tour Shirts Become Memory Objects | Merch
+      url: /tour-keepsakes/
+  - title: Metadata
+    title_full: Why Bad Music Data Costs Creators Money | Music
+    url: /metadata/
+    children:
+    - title: Code Links
+      title_full: The two codes behind every paid song | Metadata
+      url: /code-links/
+    - title: DJ Sets
+      title_full: Why DJ royalties are so hard to trace | Metadata
+      url: /dj-sets/
+    - title: Setlists
+      title_full: The setlist is a royalty payment trail | Metadata
+      url: /setlists-535284/
+    - title: Song Splits
+      title_full: Why song splits can freeze royalty money | Metadata
+      url: /song-splits/
+    - title: Unmatched Pools
+      title_full: Where unpaid royalties wait for better data | Metadata
+      url: /unmatched-pools/
+  - title: Physical
+    title_full: Why Fans Still Want Music Objects | Music
+    url: /physical/
+    children:
+    - title: Box Sets
+      title_full: Why Deluxe Box Sets Feel Like Archives | Physical
+      url: /box-sets/
+    - title: CDs & Tapes
+      title_full: Why CDs And Cassettes Still Matter | Physical
+      url: /cds-tapes/
+    - title: Fan Pressure
+      title_full: When Collecting Starts To Feel Like Pressure | Physical
+      url: /fan-pressure/
+    - title: Photo Cards
+      title_full: Why K pop Albums Became Collectible Kits | Physical
+      url: /photo-cards/
+    - title: Signed Copies
+      title_full: Why Signed Albums Feel More Personal | Physical
+      url: /signed-copies/
+  - title: Playlists
+    title_full: Why Playlists Became Music's New Gatekeepers | Music
+    url: /playlists/
+    children:
+    - title: Algotorial
+      title_full: Who Really Curates a Streaming Playlist? | Playlists
+      url: /algotorial/
+    - title: Discover Weekly
+      title_full: Why Discover Weekly Feels So Personal | Playlists
+      url: /discover-weekly/
+    - title: Editorial Adds
+      title_full: Do Editorial Playlists Still Make Hits? | Playlists
+      url: /editorial-adds/
+    - title: Mood Listening
+      title_full: When Music Becomes a Mood Button | Playlists
+      url: /mood-listening/
+    - title: Repetition
+      title_full: How Playlists Make Songs Feel Familiar | Playlists
+      url: /repetition/
+  - title: Protest Songs
+    title_full: Why Protest Songs Still Mobilize People | Music
+    url: /protest-songs/
+    children:
+    - title: Collective Singing
+      title_full: How Group Singing Builds Solidarity in Protests | Protest Songs
+      url: /collective-singing/
+    - title: Digital Protest Music
+      title_full: How Social Media Transforms Protest Songs Online | Protest Songs
+      url: /digital-protest-music/
+    - title: Inclusive Songs
+      title_full: Who Feels Represented by Protest Music? | Protest Songs
+      url: /inclusive-songs/
+    - title: Song Memory
+      title_full: Connecting Modern Movements with Historical Protest Songs | Protest Songs
+      url: /song-memory/
+    - title: Song Simplification
+      title_full: When Protest Songs Flatten Complex Messages | Protest Songs
+      url: /song-simplification/
+  - title: Publishing
+    title_full: How Songs Earn Beyond The Recording | Music
+    url: /publishing/
+    children:
+    - title: Broadcast Income
+      title_full: Why Broadcast Use Can Last for Decades | Publishing
+      url: /broadcast-income/
+    - title: Mechanical Royalties
+      title_full: The Hidden Song Royalties Inside Streaming | Publishing
+      url: /mechanical-royalties/
+    - title: Royalty Splits
+      title_full: Why the Same Song Pays Different People | Publishing
+      url: /royalty-splits/
+    - title: Setlist Gaps
+      title_full: How Missing Setlists Leave Money Unpaid | Publishing
+      url: /setlist-gaps/
+    - title: Sync Earnings
+      title_full: When One Sync Deal Creates More Income | Publishing
+      url: /sync-earnings/
+  - title: Recording
+    title_full: How Recording Changed What Music Is | Music
+    url: /recording/
+    children:
+    - title: Edison Phonograph
+      title_full: How Edison's Phonograph Changed Musical Memory | Recording
+      url: /edison-phonograph/
+    - title: Music Archives
+      title_full: How Archived Recordings Keep Musical History Alive | Recording
+      url: /music-archives/
+    - title: Playback Memory
+      title_full: How Listening to Recordings Reshapes Musical Memory | Recording
+      url: /playback-memory/
+    - title: Portable Players
+      title_full: How Portable Devices Made Music Personal Everywhere | Recording
+      url: /portable-players/
+    - title: Recorded Fame
+      title_full: How Recordings Carried Performer Fame Across Distances | Recording
+      url: /recorded-fame/
+  - title: Regional Scenes
+    title_full: How Local Sounds Become Global | Music
+    url: /regional-scenes/
+    children:
+    - title: Afrobeats
+      title_full: How Afrobeats Turned Diaspora Listening Into Reach | Regional Scenes
+      url: /afrobeats-01714f/
+    - title: Amapiano
+      title_full: Why Amapiano Became A Global Dance Grammar | Regional Scenes
+      url: /amapiano/
+    - title: Data Proof
+      title_full: When Streams Become Proof Of A Scene | Regional Scenes
+      url: /data-proof/
+    - title: Playlist Gate
+      title_full: The New Border Is Platform Visibility | Regional Scenes
+      url: /playlist-gate/
+    - title: Regional Mexican
+      title_full: How Regional Mexican Music Crossed Borders Online | Regional Scenes
+      url: /regional-mexican/
+  - title: Rhythm
+    title_full: Why Rhythm Makes Music Feel Physical | Music
+    url: /rhythm/
+    children:
+    - title: Beat Brain
+      title_full: Why Your Body Hears the Beat First | Rhythm
+      url: /beat-brain/
+    - title: Hooks
+      title_full: Why Chants Stay in the Body | Rhythm
+      url: /hooks/
+    - title: Rhythm Therapy
+      title_full: Can a Beat Help Bodies Move Better? | Rhythm
+      url: /rhythm-therapy/
+    - title: Shared Timing
+      title_full: How Dance Floors Turn Beats Into Belonging | Rhythm
+      url: /shared-timing/
+    - title: Syncopation
+      title_full: Why Off Beat Rhythms Make People Move | Rhythm
+      url: /syncopation/
+  - title: Rights
+    title_full: Why One Song Has So Many Rights | Music
+    url: /rights/
+    children:
+    - title: Cover songs
+      title_full: Why covers need one licence, not two | Rights
+      url: /cover-songs-d042c1/
+    - title: Metadata gaps
+      title_full: How royalties get lost in the data | Rights
+      url: /metadata-gaps/
+    - title: PRS dispute
+      title_full: When royalty societies face their members | Rights
+      url: /prs-dispute/
+    - title: Public play
+      title_full: Why cafes pay to play songs | Rights
+      url: /public-play/
+    - title: Sync rights
+      title_full: Why film music needs double clearance | Rights
+      url: /sync-rights/
+  - title: Royalties
+    title_full: How Streaming Money Actually Reaches Artists | Music
+    url: /royalties/
+    children:
+    - title: Global plays
+      title_full: Why streams abroad pay differently | Royalties
+      url: /global-plays/
+    - title: Master rights
+      title_full: Who gets the recording money first? | Royalties
+      url: /master-rights/
+    - title: Missing royalties
+      title_full: The royalties artists forget to collect | Royalties
+      url: /missing-royalties/
+    - title: Payout rates
+      title_full: Why one stream is not worth one price | Royalties
+      url: /payout-rates/
+    - title: Songwriters
+      title_full: How songwriters get paid from streams | Royalties
+      url: /songwriters-701a60/
+  - title: Setlists
+    title_full: Why Setlists Are More Than Souvenirs | Music
+    url: /setlists/
+    children:
+    - title: Black Box Gigs
+      title_full: Why Grassroots Gig Money Gets Lost | Setlists
+      url: /black-box-gigs/
+    - title: Claim Deadlines
+      title_full: What Happens When Gig Claims Arrive Too Late? | Setlists
+      url: /claim-deadlines/
+    - title: Cover Songs
+      title_full: Do Cover Gigs Pay The Right Writers? | Setlists
+      url: /cover-songs/
+    - title: Paper Setlists
+      title_full: Can A Handwritten Setlist Prove A Royalty Claim? | Setlists
+      url: /paper-setlists/
+    - title: PRS Lawsuit
+      title_full: Why Missing Setlists Are Hard To Sue Over | Setlists
+      url: /prs-lawsuit/
+  - title: Short Clips
+    title_full: How Short Clips Reshape Hit Songs | Music
+    url: /short-clips/
+    children:
+    - title: Artist Discovery
+      title_full: Can Viral Songs Build Lasting Fans? | Short Clips
+      url: /artist-discovery/
+    - title: Clip Tradeoffs
+      title_full: When a Viral Snippet Hurts the Full Song | Short Clips
+      url: /clip-tradeoffs/
+    - title: Early Hooks
+      title_full: How Fast Does a Song Need to Grab You? | Short Clips
+      url: /early-hooks/
+    - title: Song Revivals
+      title_full: How Old Songs Become New Hits Again | Short Clips
+      url: /song-revivals/
+    - title: Viral Moments
+      title_full: Why the Chorus Is No Longer the Only Hook | Short Clips
+      url: /viral-moments/
+  - title: Silence
+    title_full: Why Silence Can Be Music Too | Music
+    url: /silence/
+    children:
+    - title: Cage 4 33
+      title_full: How John Cage’s 4′33″ Redefines Musical Silence | Silence
+      url: /cage-4-33/
+    - title: Emotional Silence
+      title_full: How Silence Communicates Emotion and Meaning in Music | Silence
+      url: /emotional-silence/
+    - title: Pauses & Tension
+      title_full: How Pauses Build Anticipation in Music | Silence
+      url: /pauses-tension/
+    - title: Performance Gestures
+      title_full: How Performers Use Gesture to Shape Silence | Silence
+      url: /performance-gestures/
+    - title: Recording Space
+      title_full: Why Silence Shapes the Impact of Recorded Music | Silence
+      url: /recording-space/
+  - title: Spotify Payouts
+    title_full: What Streaming Payout Claims Really Mean | Music
+    url: /spotify-payouts/
+    children:
+    - title: 1 000 Streams
+      title_full: Who loses under Spotify's 1,000 stream rule? | Spotify Payouts
+      url: /1-000-streams-a35779/
+    - title: Artist Share
+      title_full: Why Spotify money reaches artists unevenly | Spotify Payouts
+      url: /artist-share/
+    - title: Payout Data
+      title_full: What Spotify's big payout numbers leave out | Spotify Payouts
+      url: /payout-data/
+    - title: Per Stream
+      title_full: Why one Spotify stream has no fixed price | Spotify Payouts
+      url: /per-stream/
+    - title: Two Rights
+      title_full: Why one stream creates two royalty trails | Spotify Payouts
+      url: /two-rights/
+  - title: Streaming
+    title_full: How Streaming Changed Listening Habits | Music
+    url: /streaming/
+    children:
+    - title: Access
+      title_full: When Access Became More Useful Than Ownership | Streaming
+      url: /access/
+    - title: Algorithms
+      title_full: Do Music Algorithms Expand Your Taste? | Streaming
+      url: /algorithms-a7ef46/
+    - title: Background
+      title_full: Why Music Now Follows US Everywhere | Streaming
+      url: /background/
+    - title: Playlists
+      title_full: Why Playlists Became the New Album | Streaming
+      url: /playlists-55b3d3/
+    - title: Revenue
+      title_full: What the Money Says About Streaming | Streaming
+      url: /revenue-dbec50/
+  - title: Sync
+    title_full: How Screen Placements Revive Songs | Music
+    url: /sync/
+    children:
+    - title: Ad Sync
+      title_full: How Quiet Songs Win in Loud Advertising | Sync
+      url: /ad-sync/
+    - title: Clearance
+      title_full: Why One Song Often Needs Two Yeses | Sync
+      url: /clearance/
+    - title: Game Deals
+      title_full: When Songs Become Part of Game Worlds | Sync
+      url: /game-deals/
+    - title: Revenue
+      title_full: Why Sync Money Is Big but Not Magic | Sync
+      url: /revenue/
+    - title: Scene Meaning
+      title_full: Why One Scene Can Rewrite a Song | Sync
+      url: /scene-meaning/
+  - title: Timbre
+    title_full: Why The Same Note Can Feel Different | Music
+    url: /timbre/
+    children:
+    - title: Instrument Timbre
+      title_full: Why Instrument Design Makes Sounds Feel Human | Timbre
+      url: /instrument-timbre/
+    - title: Neural Timbre
+      title_full: How the Brain Distinguishes Timbre Instantly | Timbre
+      url: /neural-timbre/
+    - title: Synthetic Timbre
+      title_full: Making Synthesized Sounds Feel Human and Expressive | Timbre
+      url: /synthetic-timbre/
+    - title: Transient Cues
+      title_full: How Brief Attacks Reveal Sound Sources Instantly | Timbre
+      url: /transient-cues/
+    - title: Vocal Formants
+      title_full: How Vocal Tract Formants Define Individual Timbre | Timbre
+      url: /vocal-formants/
+  - title: UK Policy
+    title_full: Can Policy Make Streaming Fairer? | Music
+    url: /uk-policy/
+    children:
+    - title: CMA study
+      title_full: Why competition law did not solve streaming pay | UK Policy
+      url: /cma-study/
+    - title: ER debate
+      title_full: Would equitable remuneration really fix streaming pay? | UK Policy
+      url: /er-debate/
+    - title: Legacy artists
+      title_full: Why old record deals still shape streaming pay | UK Policy
+      url: /legacy-artists/
+    - title: Metadata
+      title_full: The tiny data errors that block music royalties | UK Policy
+      url: /metadata-d16ea8/
+    - title: Transparency
+      title_full: Can better royalty information make streaming fairer? | UK Policy
+      url: /transparency/
+  - title: Vinyl
+    title_full: Why Vinyl Came Back In A Digital Age | Music
+    url: /vinyl/
+    children:
+    - title: Artwork
+      title_full: How Album Art Became Big Again | Vinyl
+      url: /artwork/
+    - title: Ownership
+      title_full: Why Vinyl Still Feels Like Owning Music | Vinyl
+      url: /ownership/
+    - title: Ritual
+      title_full: Why Playing Vinyl Slows Music Down | Vinyl
+      url: /ritual/
+    - title: Scarcity
+      title_full: When Limited Vinyl Becomes the Event | Vinyl
+      url: /scarcity/
+    - title: Variants
+      title_full: Are Vinyl Variants Good for Fans? | Vinyl
+      url: /variants/
