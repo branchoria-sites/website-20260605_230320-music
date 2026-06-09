@@ -211,7 +211,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Afrobeats</span>
-              <span class="ct-node-title-full">How Afrobeats Crossed Global Borders | Music</span>
+              <span class="ct-node-title-full">How Afrobeats Crossed Global Borders</span>
               <span class="ct-node-summary">Afrobeats illustrates how regional scenes can move through streaming, diaspora networks, clubs and global pop collaboration.</span>
             </span>
           </a>
@@ -233,7 +233,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Calm Down</span>
-                  <span class="ct-node-title-full">Did Calm Down Change Pop Crossover Rules? | Afrobeats</span>
+                  <span class="ct-node-title-full">Did Calm Down Change Pop Crossover Rules?</span>
                   <span class="ct-node-summary">Rema&#x27;s Selena Gomez remix shows how global pop collaboration can widen Afrobeats&#x27; audience without making the African artist secondary.</span>
                 </span>
               </a>
@@ -253,7 +253,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Afro Nation</span>
-                  <span class="ct-node-title-full">How Festivals Turn Afrobeats Into Travel | Afrobeats</span>
+                  <span class="ct-node-title-full">How Festivals Turn Afrobeats Into Travel</span>
                   <span class="ct-node-summary">Afro Nation shows how Afrobeats circulation works through destination festivals that connect artists, diaspora travellers and African cities.</span>
                 </span>
               </a>
@@ -273,7 +273,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Love Nwantiti</span>
-                  <span class="ct-node-title-full">How Love Nwantiti Travelled Beyond Nigeria | Afrobeats</span>
+                  <span class="ct-node-title-full">How Love Nwantiti Travelled Beyond Nigeria</span>
                   <span class="ct-node-summary">CKay&#x27;s remix trail shows how one Afrobeats song moved from regional hit to global pop through collaborations, versions and social video.</span>
                 </span>
               </a>
@@ -293,7 +293,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Charts</span>
-                  <span class="ct-node-title-full">Why Afrobeats Needed Its Own Charts | Afrobeats</span>
+                  <span class="ct-node-title-full">Why Afrobeats Needed Its Own Charts</span>
                   <span class="ct-node-summary">Afrobeats-specific charts helped turn scattered listening into public proof that labels, advertisers and casual listeners could understand.</span>
                 </span>
               </a>
@@ -313,7 +313,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">UK nightlife</span>
-                  <span class="ct-node-title-full">Why UK Parties Mattered for Afrobeats | Afrobeats</span>
+                  <span class="ct-node-title-full">Why UK Parties Mattered for Afrobeats</span>
                   <span class="ct-node-summary">UK clubs, student raves and specialist radio helped Afrobeats become socially familiar before mainstream institutions fully caught up.</span>
                 </span>
               </a>
@@ -335,7 +335,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">AI Flooding</span>
-              <span class="ct-node-title-full">Could AI Flood The Music Market? | Music</span>
+              <span class="ct-node-title-full">Could AI Flood The Music Market?</span>
               <span class="ct-node-summary">Generative AI could increase the supply of cheap tracks, making discovery, payment and human creative value harder to protect.</span>
             </span>
           </a>
@@ -357,7 +357,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Platform rules</span>
-                  <span class="ct-node-title-full">Can Platforms Police AI Music Floods? | AI Flooding</span>
+                  <span class="ct-node-title-full">Can Platforms Police AI Music Floods?</span>
                   <span class="ct-node-summary">Spotify and Deezer show two different ways platforms can police AI music through disclosure, filtering and demonetisation.</span>
                 </span>
               </a>
@@ -377,7 +377,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bot fraud</span>
-                  <span class="ct-node-title-full">How AI Songs Turned Into Streaming Fraud | AI Flooding</span>
+                  <span class="ct-node-title-full">How AI Songs Turned Into Streaming Fraud</span>
                   <span class="ct-node-summary">The Michael Smith case shows how AI tracks, fake accounts and bot listening can combine into royalty fraud at scale.</span>
                 </span>
               </a>
@@ -397,7 +397,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Deezer surge</span>
-                  <span class="ct-node-title-full">What Deezer&#x27;s AI Upload Surge Reveals | AI Flooding</span>
+                  <span class="ct-node-title-full">What Deezer&#x27;s AI Upload Surge Reveals</span>
                   <span class="ct-node-summary">Deezer&#x27;s 2026 figures show how cheap AI music can turn catalogue growth into a filtering, storage and trust problem.</span>
                 </span>
               </a>
@@ -417,7 +417,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Middle market</span>
-                  <span class="ct-node-title-full">Where AI Music Hits Working Musicians First | AI Flooding</span>
+                  <span class="ct-node-title-full">Where AI Music Hits Working Musicians First</span>
                   <span class="ct-node-summary">AI threatens the parts of music where listeners mainly want affordable, usable sound rather than a named artist.</span>
                 </span>
               </a>
@@ -437,7 +437,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Training disputes</span>
-                  <span class="ct-node-title-full">Why AI Music Lawsuits Matter for Flooding | AI Flooding</span>
+                  <span class="ct-node-title-full">Why AI Music Lawsuits Matter for Flooding</span>
                   <span class="ct-node-summary">The Suno and Udio lawsuits highlight why musicians fear both unauthorised training and AI-made market substitutes.</span>
                 </span>
               </a>
@@ -459,7 +459,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">AI Songs</span>
-              <span class="ct-node-title-full">Who Gets Credit For AI Made Music? | Music</span>
+              <span class="ct-node-title-full">Who Gets Credit For AI Made Music?</span>
               <span class="ct-node-summary">Machine-made or machine-assisted songs force platforms, labels and listeners to decide what counts as authorship.</span>
             </span>
           </a>
@@ -481,7 +481,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Prompt Copyright</span>
-                  <span class="ct-node-title-full">Can a Prompt Make a Song Copyrightable? | AI Songs</span>
+                  <span class="ct-node-title-full">Can a Prompt Make a Song Copyrightable?</span>
                   <span class="ct-node-summary">Prompt-only tracks test whether selection and taste can count as authorship when the expressive core comes from a generator.</span>
                 </span>
               </a>
@@ -501,7 +501,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Upload Flood</span>
-                  <span class="ct-node-title-full">How AI Tracks Flood Streaming Platforms | AI Songs</span>
+                  <span class="ct-node-title-full">How AI Tracks Flood Streaming Platforms</span>
                   <span class="ct-node-summary">Deezer&#x27;s AI-music figures show how authorship becomes an economic problem when generated tracks flood streaming systems.</span>
                 </span>
               </a>
@@ -521,7 +521,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Assist or Replace</span>
-                  <span class="ct-node-title-full">When AI Helps Rather Than Replaces Musicians | AI Songs</span>
+                  <span class="ct-node-title-full">When AI Helps Rather Than Replaces Musicians</span>
                   <span class="ct-node-summary">AI can either help a musician express human ideas or replace much of the songmaking process, and that difference matters.</span>
                 </span>
               </a>
@@ -541,7 +541,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Voice Clones</span>
-                  <span class="ct-node-title-full">When an AI Song Sounds Like a Star | AI Songs</span>
+                  <span class="ct-node-title-full">When an AI Song Sounds Like a Star</span>
                   <span class="ct-node-summary">Synthetic vocals can make a track sound like an artist endorsed it, even when the singer never performed or approved the song.</span>
                 </span>
               </a>
@@ -561,7 +561,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fake Drake</span>
-                  <span class="ct-node-title-full">Why Heart on My Sleeve Was Removed | AI Songs</span>
+                  <span class="ct-node-title-full">Why Heart on My Sleeve Was Removed</span>
                   <span class="ct-node-summary">The viral Ghostwriter977 track became the clearest public test of whether a new song can still misuse a famous voice.</span>
                 </span>
               </a>
@@ -583,7 +583,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">AI Training</span>
-              <span class="ct-node-title-full">Can AI Learn From Copyrighted Music? | Music</span>
+              <span class="ct-node-title-full">Can AI Learn From Copyrighted Music?</span>
               <span class="ct-node-summary">AI music systems raise disputes over whether copyrighted recordings and compositions can be used for training without consent.</span>
             </span>
           </a>
@@ -605,7 +605,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fair Use</span>
-                  <span class="ct-node-title-full">Can AI music training be fair use? | AI Training</span>
+                  <span class="ct-node-title-full">Can AI music training be fair use?</span>
                   <span class="ct-node-summary">Fair use is the main legal defence for unlicensed training, but music makes the market-harm question especially difficult.</span>
                 </span>
               </a>
@@ -625,7 +625,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Transparency</span>
-                  <span class="ct-node-title-full">The hidden dataset problem in AI music | AI Training</span>
+                  <span class="ct-node-title-full">The hidden dataset problem in AI music</span>
                   <span class="ct-node-summary">Artists cannot meaningfully consent, opt out or negotiate if they cannot see whether their recordings were used for training.</span>
                 </span>
               </a>
@@ -645,7 +645,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Voice Imitation</span>
-                  <span class="ct-node-title-full">When AI sounds too much like an artist | AI Training</span>
+                  <span class="ct-node-title-full">When AI sounds too much like an artist</span>
                   <span class="ct-node-summary">AI songs may avoid copying a track directly while still imitating a singer&#x27;s voice, style or sonic identity.</span>
                 </span>
               </a>
@@ -665,7 +665,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Licensing</span>
-                  <span class="ct-node-title-full">Who gets paid when AI trains on songs? | AI Training</span>
+                  <span class="ct-node-title-full">Who gets paid when AI trains on songs?</span>
                   <span class="ct-node-summary">Training licences can pay musicians and labels, but direct deals, collective licences and opt-outs create very different winners.</span>
                 </span>
               </a>
@@ -685,7 +685,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Suno and Udio</span>
-                  <span class="ct-node-title-full">Why the Suno and Udio lawsuits matter | AI Training</span>
+                  <span class="ct-node-title-full">Why the Suno and Udio lawsuits matter</span>
                   <span class="ct-node-summary">The Suno and Udio cases turned AI music training from a theory into a high-stakes copyright fight over copied recordings.</span>
                 </span>
               </a>
@@ -707,7 +707,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Albums</span>
-              <span class="ct-node-title-full">Why Albums Still Matter Now | Music</span>
+              <span class="ct-node-title-full">Why Albums Still Matter Now</span>
               <span class="ct-node-summary">Albums still give artists a larger statement, a fan ritual and a cultural event even when daily listening is playlist-led.</span>
             </span>
           </a>
@@ -729,7 +729,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Album Variants</span>
-                  <span class="ct-node-title-full">Are Album Variants Fandom or Chart Strategy? | Albums</span>
+                  <span class="ct-node-title-full">Are Album Variants Fandom or Chart Strategy?</span>
                   <span class="ct-node-summary">Multiple editions show how albums can become collectible objects as well as streaming releases.</span>
                 </span>
               </a>
@@ -749,7 +749,6 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Vinyl Album Experien</span>
-                  <span class="ct-node-title-full">Vinyl Album Experien | Albums</span>
                   <span class="ct-node-summary">Vinyl is growing in a world dominated by streaming because it offers something streaming cannot: ownership, physical presence and a deliberate way...</span>
                 </span>
               </a>
@@ -769,7 +768,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Album Arc</span>
-                  <span class="ct-node-title-full">What Gets Lost When Songs Leave the Album? | Albums</span>
+                  <span class="ct-node-title-full">What Gets Lost When Songs Leave the Album?</span>
                   <span class="ct-node-summary">Albums use sequencing and contrast to create meaning that playlist listening often changes or removes.</span>
                 </span>
               </a>
@@ -789,7 +788,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fan Loyalty</span>
-                  <span class="ct-node-title-full">Why Albums Matter Beyond Streaming Numbers | Albums</span>
+                  <span class="ct-node-title-full">Why Albums Matter Beyond Streaming Numbers</span>
                   <span class="ct-node-summary">A successful album often becomes the center of touring, merchandise and long-term audience building.</span>
                 </span>
               </a>
@@ -809,7 +808,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fan Rituals</span>
-                  <span class="ct-node-title-full">Why Do Fans Still Gather Around Album Releases? | Albums</span>
+                  <span class="ct-node-title-full">Why Do Fans Still Gather Around Album Releases?</span>
                   <span class="ct-node-summary">Countdowns, midnight listens and track debates turn major albums into shared experiences that playlists rarely match.</span>
                 </span>
               </a>
@@ -831,7 +830,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Algorithms</span>
-              <span class="ct-node-title-full">Do Algorithms Help Or Narrow Music Discovery? | Music</span>
+              <span class="ct-node-title-full">Do Algorithms Help Or Narrow Music Discovery?</span>
               <span class="ct-node-summary">Recommendation systems help listeners find music but can also reinforce patterns and make visibility harder for outsiders.</span>
             </span>
           </a>
@@ -853,7 +852,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Diversity Tradeoff</span>
-                  <span class="ct-node-title-full">Can recommendations stay relevant and diverse? | Algorithms</span>
+                  <span class="ct-node-title-full">Can recommendations stay relevant and diverse?</span>
                   <span class="ct-node-summary">Spotify&#x27;s own research shows the tension between immediate relevance and broader, more varied listening over time.</span>
                 </span>
               </a>
@@ -873,7 +872,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Playlist Loops</span>
-                  <span class="ct-node-title-full">Do personalised playlists make taste smaller? | Algorithms</span>
+                  <span class="ct-node-title-full">Do personalised playlists make taste smaller?</span>
                   <span class="ct-node-summary">Personalised playlists make discovery easier, but repeated safe matches can turn variety into a smaller comfort zone.</span>
                 </span>
               </a>
@@ -893,7 +892,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Mood Matching</span>
-                  <span class="ct-node-title-full">How mood playlists changed music discovery | Algorithms</span>
+                  <span class="ct-node-title-full">How mood playlists changed music discovery</span>
                   <span class="ct-node-summary">Mood-based systems turn discovery into a moment-by-moment match between music, activity, and emotional setting.</span>
                 </span>
               </a>
@@ -913,7 +912,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Autoplay</span>
-                  <span class="ct-node-title-full">Who chooses the next song? | Algorithms</span>
+                  <span class="ct-node-title-full">Who chooses the next song?</span>
                   <span class="ct-node-summary">Autoplay can turn one deliberate song choice into a longer recommendation path shaped by platform ranking decisions.</span>
                 </span>
               </a>
@@ -933,7 +932,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cold Start</span>
-                  <span class="ct-node-title-full">Why new artists are hard to recommend | Algorithms</span>
+                  <span class="ct-node-title-full">Why new artists are hard to recommend</span>
                   <span class="ct-node-summary">New artists need listener data to be recommended, but often need recommendations before they can collect that data.</span>
                 </span>
               </a>
@@ -955,7 +954,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Attention</span>
-              <span class="ct-node-title-full">Why Being Available Is Not Being Heard | Music</span>
+              <span class="ct-node-title-full">Why Being Available Is Not Being Heard</span>
               <span class="ct-node-summary">Millions of available tracks make access easy, but attention, repetition and cultural visibility remain hard to win.</span>
             </span>
           </a>
@@ -977,7 +976,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Algorithms</span>
-                  <span class="ct-node-title-full">Do Music Algorithms Broaden Taste? | Attention</span>
+                  <span class="ct-node-title-full">Do Music Algorithms Broaden Taste?</span>
                   <span class="ct-node-summary">Recommendation systems can help listeners explore, but optimisation may still favour music that already has strong attention signals.</span>
                 </span>
               </a>
@@ -997,7 +996,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Catalogue Gap</span>
-                  <span class="ct-node-title-full">How Big Can The Music Shelf Get? | Attention</span>
+                  <span class="ct-node-title-full">How Big Can The Music Shelf Get?</span>
                   <span class="ct-node-summary">The scale of streaming catalogues shows how sharply music supply has outgrown the listening time available to any audience.</span>
                 </span>
               </a>
@@ -1017,7 +1016,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">1 000 Streams</span>
-                  <span class="ct-node-title-full">What Does 1,000 Streams Really Signal? | Attention</span>
+                  <span class="ct-node-title-full">What Does 1,000 Streams Really Signal?</span>
                   <span class="ct-node-summary">Spotify&#x27;s royalty threshold shows how platforms separate catalogue presence from the minimum engagement needed to earn recorded royalties.</span>
                 </span>
               </a>
@@ -1037,7 +1036,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Playlist Power</span>
-                  <span class="ct-node-title-full">When A Playlist Frames The Song | Attention</span>
+                  <span class="ct-node-title-full">When A Playlist Frames The Song</span>
                   <span class="ct-node-summary">Playlists can make unfamiliar songs useful in daily life, but they can also reduce artists to background mood and function.</span>
                 </span>
               </a>
@@ -1057,7 +1056,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Plays</span>
-                  <span class="ct-node-title-full">Why Songs Vanish After Release | Attention</span>
+                  <span class="ct-node-title-full">Why Songs Vanish After Release</span>
                   <span class="ct-node-summary">Most tracks are available worldwide, but low early plays can leave them without the signals needed for recommendation and repeat listening.</span>
                 </span>
               </a>
@@ -1079,7 +1078,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Catalogue</span>
-              <span class="ct-node-title-full">Why Old Songs Keep Coming Back | Music</span>
+              <span class="ct-node-title-full">Why Old Songs Keep Coming Back</span>
               <span class="ct-node-summary">Older songs can regain attention through streaming, playlists, film placement, social clips and fan rediscovery.</span>
             </span>
           </a>
@@ -1101,7 +1100,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Kate Bush</span>
-                  <span class="ct-node-title-full">How Stranger Things revived Kate Bush | Catalogue</span>
+                  <span class="ct-node-title-full">How Stranger Things revived Kate Bush</span>
                   <span class="ct-node-summary">Kate Bush&#x27;s 1985 single became a modern chart event after Stranger Things gave it a dramatic new emotional setting.</span>
                 </span>
               </a>
@@ -1121,7 +1120,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Playlists</span>
-                  <span class="ct-node-title-full">When playlists make old songs useful again | Catalogue</span>
+                  <span class="ct-node-title-full">When playlists make old songs useful again</span>
                   <span class="ct-node-summary">Mood and activity playlists let older songs return because they fit a feeling, routine, or rhythm better than a release date.</span>
                 </span>
               </a>
@@ -1141,7 +1140,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tik Tok Hooks</span>
-                  <span class="ct-node-title-full">Why old hooks spread through short clips | Catalogue</span>
+                  <span class="ct-node-title-full">Why old hooks spread through short clips</span>
                   <span class="ct-node-summary">Short-form video can make a few seconds of an older song travel as a joke, dance, transition, mood, or identity signal.</span>
                 </span>
               </a>
@@ -1161,7 +1160,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Saltburn Sync</span>
-                  <span class="ct-node-title-full">Why Saltburn sent a pop hit back | Catalogue</span>
+                  <span class="ct-node-title-full">Why Saltburn sent a pop hit back</span>
                   <span class="ct-node-summary">Sophie Ellis-Bextor&#x27;s dance-pop hit showed how one film scene can push a 2000s single back into charts and social feeds.</span>
                 </span>
               </a>
@@ -1181,7 +1180,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Streaming</span>
-                  <span class="ct-node-title-full">Why streaming makes old songs feel current | Catalogue</span>
+                  <span class="ct-node-title-full">Why streaming makes old songs feel current</span>
                   <span class="ct-node-summary">Streaming makes older tracks searchable, playable, and recommendable at the exact moment a new listener becomes curious.</span>
                 </span>
               </a>
@@ -1203,7 +1202,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Concerts</span>
-              <span class="ct-node-title-full">Why Concerts Feel Bigger Than Songs | Music</span>
+              <span class="ct-node-title-full">Why Concerts Feel Bigger Than Songs</span>
               <span class="ct-node-summary">A concert is a social event, a display of fandom and a risky live encounter rather than just songs played aloud.</span>
             </span>
           </a>
@@ -1225,7 +1224,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Phone Clips</span>
-                  <span class="ct-node-title-full">Do phone videos help or change memory? | Concerts</span>
+                  <span class="ct-node-title-full">Do phone videos help or change memory?</span>
                   <span class="ct-node-summary">Clips can preserve proof of a concert moment, but they also change how fans remember and share what happened.</span>
                 </span>
               </a>
@@ -1245,7 +1244,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Crowd Sync</span>
-                  <span class="ct-node-title-full">When a crowd becomes part of the song | Concerts</span>
+                  <span class="ct-node-title-full">When a crowd becomes part of the song</span>
                   <span class="ct-node-summary">Singing, moving and reacting together can make a concert feel like one collective event rather than many private experiences.</span>
                 </span>
               </a>
@@ -1265,7 +1264,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fan Rituals</span>
-                  <span class="ct-node-title-full">Why concert rituals stick in memory | Concerts</span>
+                  <span class="ct-node-title-full">Why concert rituals stick in memory</span>
                   <span class="ct-node-summary">Bracelets, outfits, chants and signs give fans physical ways to turn a show into a story they can retell.</span>
                 </span>
               </a>
@@ -1285,7 +1284,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Live Emotion</span>
-                  <span class="ct-node-title-full">Why live music hits harder in person | Concerts</span>
+                  <span class="ct-node-title-full">Why live music hits harder in person</span>
                   <span class="ct-node-summary">Live concerts can intensify emotion because performers and audiences react to each other in real time.</span>
                 </span>
               </a>
@@ -1305,7 +1304,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Setlists</span>
-                  <span class="ct-node-title-full">Why the setlist is not the concert | Concerts</span>
+                  <span class="ct-node-title-full">Why the setlist is not the concert</span>
                   <span class="ct-node-summary">Setlists help fans document a show, but they cannot preserve atmosphere, surprise, crowd feeling or personal meaning.</span>
                 </span>
               </a>
@@ -1327,7 +1326,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Creator Pay</span>
-              <span class="ct-node-title-full">Why A Growing Industry Can Still Feel Unfair | Music</span>
+              <span class="ct-node-title-full">Why A Growing Industry Can Still Feel Unfair</span>
               <span class="ct-node-summary">The music market can grow while many creators still struggle because revenue moves through contracts and intermediaries first.</span>
             </span>
           </a>
@@ -1349,7 +1348,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Label Deals</span>
-                  <span class="ct-node-title-full">When Old Record Deals Meet Streaming Money | Creator Pay</span>
+                  <span class="ct-node-title-full">When Old Record Deals Meet Streaming Money</span>
                   <span class="ct-node-summary">Old record-deal terms can decide whether streaming growth reaches an artist quickly, slowly or not at all.</span>
                 </span>
               </a>
@@ -1369,7 +1368,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">1 000 Streams</span>
-                  <span class="ct-node-title-full">Who Loses When Streams Fall Below the Line? | Creator Pay</span>
+                  <span class="ct-node-title-full">Who Loses When Streams Fall Below the Line?</span>
                   <span class="ct-node-summary">Spotify&#x27;s threshold turns a tiny-payment problem into a fairness debate about who counts financially on streaming platforms.</span>
                 </span>
               </a>
@@ -1389,7 +1388,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Transparency</span>
-                  <span class="ct-node-title-full">Why Bigger Royalty Reports Still Leave Questions | Creator Pay</span>
+                  <span class="ct-node-title-full">Why Bigger Royalty Reports Still Leave Questions</span>
                   <span class="ct-node-summary">Royalty reports can show billions moving through the market while still leaving creators unsure what they personally earned and why.</span>
                 </span>
               </a>
@@ -1409,7 +1408,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Songwriters</span>
-                  <span class="ct-node-title-full">Why Songwriters Wait Longer for Streaming Pay | Creator Pay</span>
+                  <span class="ct-node-title-full">Why Songwriters Wait Longer for Streaming Pay</span>
                   <span class="ct-node-summary">Songwriters face separate rights, publishers, societies and data-matching delays that make their streaming income harder to trace.</span>
                 </span>
               </a>
@@ -1429,7 +1428,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Payout Myths</span>
-                  <span class="ct-node-title-full">Why There Is No Simple Per Stream Rate | Creator Pay</span>
+                  <span class="ct-node-title-full">Why There Is No Simple Per Stream Rate</span>
                   <span class="ct-node-summary">Streaming income is shaped by revenue pools, rights-holder deals and contracts, not a simple fixed payment for each play.</span>
                 </span>
               </a>
@@ -1451,7 +1450,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Dance Music</span>
-              <span class="ct-node-title-full">How Dance Music Builds A Room | Music</span>
+              <span class="ct-node-title-full">How Dance Music Builds A Room</span>
               <span class="ct-node-summary">Dance music turns sound systems, venues and crowds into coordinated social environments built around movement.</span>
             </span>
           </a>
@@ -1473,7 +1472,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Venue Design</span>
-                  <span class="ct-node-title-full">How Club Architecture and Lighting Shape Dance Interaction | Dance Music</span>
+                  <span class="ct-node-title-full">How Club Architecture and Lighting Shape Dance Interaction</span>
                   <span class="ct-node-summary">Spatial layout, lighting, and seating influence how dancers engage physically and socially.</span>
                 </span>
               </a>
@@ -1493,7 +1492,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">DJ Curation</span>
-                  <span class="ct-node-title-full">How DJs Shape Movement and Energy in Dance Spaces | Dance Music</span>
+                  <span class="ct-node-title-full">How DJs Shape Movement and Energy in Dance Spaces</span>
                   <span class="ct-node-summary">DJs guide social energy through tempo, transitions, and spatial cues on the dance floor.</span>
                 </span>
               </a>
@@ -1513,7 +1512,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Rhythmic Repetition</span>
-                  <span class="ct-node-title-full">How Repeated Beats Foster Social Equality on Dance Floors | Dance Music</span>
+                  <span class="ct-node-title-full">How Repeated Beats Foster Social Equality on Dance Floors</span>
                   <span class="ct-node-summary">Repeated beats allow dancers to synchronise movements, fostering temporary communitas and shared engagement.</span>
                 </span>
               </a>
@@ -1533,7 +1532,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Inclusion Boundaries</span>
-                  <span class="ct-node-title-full">Who Belongs on the Dance Floor and Why | Dance Music</span>
+                  <span class="ct-node-title-full">Who Belongs on the Dance Floor and Why</span>
                   <span class="ct-node-summary">Social norms, aesthetics, and venue policies affect who feels welcome and how space is used.</span>
                 </span>
               </a>
@@ -1553,7 +1552,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sound Systems</span>
-                  <span class="ct-node-title-full">Why Sound Systems Direct Collective Movement on Dance Floors | Dance Music</span>
+                  <span class="ct-node-title-full">Why Sound Systems Direct Collective Movement on Dance Floors</span>
                   <span class="ct-node-summary">High-powered sound systems coordinate collective bodily movement and focus in dance spaces.</span>
                 </span>
               </a>
@@ -1575,7 +1574,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Harmony</span>
-              <span class="ct-node-title-full">How Harmony Changes What Music Means | Music</span>
+              <span class="ct-node-title-full">How Harmony Changes What Music Means</span>
               <span class="ct-node-summary">Harmony colors expectation, letting the same melody feel warm, tense, sad, triumphant or unresolved.</span>
             </span>
           </a>
@@ -1597,7 +1596,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Melody &amp; Harmony</span>
-                  <span class="ct-node-title-full">How Harmony Reinterprets the Emotional Meaning of a Melody | Harmony</span>
+                  <span class="ct-node-title-full">How Harmony Reinterprets the Emotional Meaning of a Melody</span>
                   <span class="ct-node-summary">The same melody can evoke hope, sadness, or suspense depending on the chords and harmonic setting beneath it.</span>
                 </span>
               </a>
@@ -1617,7 +1616,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Chord Emotion</span>
-                  <span class="ct-node-title-full">How Major and Minor Chords Change Listener Emotions | Harmony</span>
+                  <span class="ct-node-title-full">How Major and Minor Chords Change Listener Emotions</span>
                   <span class="ct-node-summary">Major and minor chords influence feeling, but their effect changes depending on musical context and progression.</span>
                 </span>
               </a>
@@ -1637,7 +1636,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tension &amp; Release</span>
-                  <span class="ct-node-title-full">How Tension and Release Shape Emotional Impact in Music | Harmony</span>
+                  <span class="ct-node-title-full">How Tension and Release Shape Emotional Impact in Music</span>
                   <span class="ct-node-summary">Musical tension arises from dissonance, delayed resolutions, and surprise, shaping emotional responses over time.</span>
                 </span>
               </a>
@@ -1657,7 +1656,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Unresolved Harmony</span>
-                  <span class="ct-node-title-full">How Unresolved Chords Keep Music Emotionally Open | Harmony</span>
+                  <span class="ct-node-title-full">How Unresolved Chords Keep Music Emotionally Open</span>
                   <span class="ct-node-summary">Chords that avoid final resolution keep listeners emotionally engaged, often conveying longing, suspense, or awe.</span>
                 </span>
               </a>
@@ -1677,7 +1676,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cultural Context</span>
-                  <span class="ct-node-title-full">Why Major and Minor Chords Feel Different Across Cultures | Harmony</span>
+                  <span class="ct-node-title-full">Why Major and Minor Chords Feel Different Across Cultures</span>
                   <span class="ct-node-summary">Cultural background, musical exposure, and personal experience influence how listeners interpret major and minor chords emotionally.</span>
                 </span>
               </a>
@@ -1699,7 +1698,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Hymns</span>
-              <span class="ct-node-title-full">How Hymns Turn Belief Into Sound | Music</span>
+              <span class="ct-node-title-full">How Hymns Turn Belief Into Sound</span>
               <span class="ct-node-summary">Hymns show how melody, repetition and group singing can reinforce worship, belonging and shared ritual.</span>
             </span>
           </a>
@@ -1721,7 +1720,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Memory</span>
-                  <span class="ct-node-title-full">How Hymns Help Belief Stay Remembered | Hymns</span>
+                  <span class="ct-node-title-full">How Hymns Help Belief Stay Remembered</span>
                   <span class="ct-node-summary">Familiar hymn texts and melodies make beliefs easier to recall by linking doctrine to repeated musical patterns.</span>
                 </span>
               </a>
@@ -1741,7 +1740,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Reformation</span>
-                  <span class="ct-node-title-full">When Hymns Put Worship Into Every Voice | Hymns</span>
+                  <span class="ct-node-title-full">When Hymns Put Worship Into Every Voice</span>
                   <span class="ct-node-summary">Reformation hymn singing helped move sacred music from specialist performance toward active lay participation in worship.</span>
                 </span>
               </a>
@@ -1761,7 +1760,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emotion</span>
-                  <span class="ct-node-title-full">Why Hymn Tunes Say More Than Words | Hymns</span>
+                  <span class="ct-node-title-full">Why Hymn Tunes Say More Than Words</span>
                   <span class="ct-node-summary">Hymn tunes can carry joy, grief, longing and hope in ways that deepen the meaning of the sung text.</span>
                 </span>
               </a>
@@ -1781,7 +1780,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Public Grief</span>
-                  <span class="ct-node-title-full">Why Hymns Appear at Public Moments of Grief | Hymns</span>
+                  <span class="ct-node-title-full">Why Hymns Appear at Public Moments of Grief</span>
                   <span class="ct-node-summary">Hymns sung at funerals, tragedies and public gatherings can voice shared values when ordinary speech feels inadequate.</span>
                 </span>
               </a>
@@ -1801,7 +1800,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Shared Singing</span>
-                  <span class="ct-node-title-full">Why Singing Hymns Together Feels So Powerful | Hymns</span>
+                  <span class="ct-node-title-full">Why Singing Hymns Together Feels So Powerful</span>
                   <span class="ct-node-summary">Singing hymns together can turn private belief into a felt communal act through voice, rhythm, repetition and shared attention.</span>
                 </span>
               </a>
@@ -1823,7 +1822,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">IFPI Data</span>
-              <span class="ct-node-title-full">What Global Music Revenue Numbers Show | Music</span>
+              <span class="ct-node-title-full">What Global Music Revenue Numbers Show</span>
               <span class="ct-node-summary">IFPI market figures show recorded music revenue, streaming subscriptions and format shifts across the global industry.</span>
             </span>
           </a>
@@ -1845,7 +1844,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Paid Streaming</span>
-                  <span class="ct-node-title-full">How Subscriptions Became The Growth Engine | IFPI Data</span>
+                  <span class="ct-node-title-full">How Subscriptions Became The Growth Engine</span>
                   <span class="ct-node-summary">Paid subscriptions are the main reason recorded music revenue keeps rising even as downloads decline and physical formats fluctuate.</span>
                 </span>
               </a>
@@ -1865,7 +1864,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Data Sources</span>
-                  <span class="ct-node-title-full">Where IFPI&#x27;s Global Numbers Come From | IFPI Data</span>
+                  <span class="ct-node-title-full">Where IFPI&#x27;s Global Numbers Come From</span>
                   <span class="ct-node-summary">IFPI&#x27;s headline figures come from label-supplied data, national industry checks, chart partners and currency conversion rules.</span>
                 </span>
               </a>
@@ -1885,7 +1884,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Regions</span>
-                  <span class="ct-node-title-full">Why Global Growth Looks Different Locally | IFPI Data</span>
+                  <span class="ct-node-title-full">Why Global Growth Looks Different Locally</span>
                   <span class="ct-node-summary">The same global growth number can hide mature subscription markets, fast streaming adoption and local format differences across regions.</span>
                 </span>
               </a>
@@ -1905,7 +1904,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Artist Income</span>
-                  <span class="ct-node-title-full">Why Growth Does Not Mean Artists Earn More | IFPI Data</span>
+                  <span class="ct-node-title-full">Why Growth Does Not Mean Artists Earn More</span>
                   <span class="ct-node-summary">IFPI&#x27;s global totals show what recordings earn, not how that money is split between labels, artists and songwriters.</span>
                 </span>
               </a>
@@ -1925,7 +1924,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Formats</span>
-                  <span class="ct-node-title-full">Why Streaming Is Not The Whole Story | IFPI Data</span>
+                  <span class="ct-node-title-full">Why Streaming Is Not The Whole Story</span>
                   <span class="ct-node-summary">Streaming dominates the total, but vinyl, CDs, performance rights and licensing can still change the shape of recorded music growth.</span>
                 </span>
               </a>
@@ -1947,7 +1946,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">K Pop</span>
-              <span class="ct-node-title-full">How K Pop Built A Global Fan Machine | Music</span>
+              <span class="ct-node-title-full">How K Pop Built A Global Fan Machine</span>
               <span class="ct-node-summary">K-pop shows how songs, videos, performance, merchandise, fandom and online platforms can operate as one coordinated system.</span>
             </span>
           </a>
@@ -1969,7 +1968,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Comebacks</span>
-                  <span class="ct-node-title-full">How a comeback becomes a fan event | K Pop</span>
+                  <span class="ct-node-title-full">How a comeback becomes a fan event</span>
                   <span class="ct-node-summary">A comeback works like a staged calendar of teasers, visuals, performances and purchases that gives fans reasons to return daily.</span>
                 </span>
               </a>
@@ -1989,7 +1988,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fan Labour</span>
-                  <span class="ct-node-title-full">When supporting idols starts to feel like work | K Pop</span>
+                  <span class="ct-node-title-full">When supporting idols starts to feel like work</span>
                   <span class="ct-node-summary">Organised fandom can create friendship and visibility, but it can also make support feel like constant proof through buying, voting and streaming.</span>
                 </span>
               </a>
@@ -2009,7 +2008,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fan Platforms</span>
-                  <span class="ct-node-title-full">Why fan apps matter to K pop&#x27;s business | K Pop</span>
+                  <span class="ct-node-title-full">Why fan apps matter to K pop&#x27;s business</span>
                   <span class="ct-node-summary">Dedicated fan platforms turn artist access, livestreams, memberships and shopping into a measurable direct-to-fan business.</span>
                 </span>
               </a>
@@ -2029,7 +2028,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Photocards</span>
-                  <span class="ct-node-title-full">Why fans buy albums they do not play | K Pop</span>
+                  <span class="ct-node-title-full">Why fans buy albums they do not play</span>
                   <span class="ct-node-summary">K-pop albums sell as collectibles because random photocards, versions and fan-event chances make one release worth buying more than once.</span>
                 </span>
               </a>
@@ -2049,7 +2048,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Dance Hooks</span>
-                  <span class="ct-node-title-full">Why K pop choruses are built to move | K Pop</span>
+                  <span class="ct-node-title-full">Why K pop choruses are built to move</span>
                   <span class="ct-node-summary">A K-pop chorus often becomes a short dance gesture that fans can copy, clip, compare and spread across platforms.</span>
                 </span>
               </a>
@@ -2071,7 +2070,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Latin Music</span>
-              <span class="ct-node-title-full">Why Latin Music Travels So Far | Music</span>
+              <span class="ct-node-title-full">Why Latin Music Travels So Far</span>
               <span class="ct-node-summary">Latin music&#x27;s global reach shows how language, rhythm, diaspora audiences and platform discovery can reshape mainstream charts.</span>
             </span>
           </a>
@@ -2093,7 +2092,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bad Bunny</span>
-                  <span class="ct-node-title-full">How Bad Bunny Redefined Mainstream Success | Latin Music</span>
+                  <span class="ct-node-title-full">How Bad Bunny Redefined Mainstream Success</span>
                   <span class="ct-node-summary">Bad Bunny showed that one of pop&#x27;s biggest streaming careers could be built largely in Spanish rather than translated for English markets.</span>
                 </span>
               </a>
@@ -2113,7 +2112,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Viva Latino</span>
-                  <span class="ct-node-title-full">How Playlists Became Latin Music&#x27;s Front Door | Latin Music</span>
+                  <span class="ct-node-title-full">How Playlists Became Latin Music&#x27;s Front Door</span>
                   <span class="ct-node-summary">Spotify&#x27;s Viva Latino became a front door for Latin music discovery by placing new artists beside stars in a highly visible stream.</span>
                 </span>
               </a>
@@ -2133,7 +2132,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Despacito</span>
-                  <span class="ct-node-title-full">Why Despacito Changed Global Pop Listening | Latin Music</span>
+                  <span class="ct-node-title-full">Why Despacito Changed Global Pop Listening</span>
                   <span class="ct-node-summary">Despacito proved that a Spanish-language hit could dominate global pop listening without waiting for a traditional crossover path.</span>
                 </span>
               </a>
@@ -2153,7 +2152,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Diaspora</span>
-                  <span class="ct-node-title-full">Why Diaspora Listening Powered Latin Streaming | Latin Music</span>
+                  <span class="ct-node-title-full">Why Diaspora Listening Powered Latin Streaming</span>
                   <span class="ct-node-summary">Latino diaspora audiences gave Latin music a ready-made listening network across homes, parties, social feeds and bilingual playlists.</span>
                 </span>
               </a>
@@ -2173,7 +2172,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Collabs</span>
-                  <span class="ct-node-title-full">Why Latin Collabs Travel So Fast | Latin Music</span>
+                  <span class="ct-node-title-full">Why Latin Collabs Travel So Fast</span>
                   <span class="ct-node-summary">Cross-border collaborations helped Latin songs travel by joining fan bases, recommendation systems and genre scenes in one release.</span>
                 </span>
               </a>
@@ -2195,7 +2194,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Live Income</span>
-              <span class="ct-node-title-full">Why Live Music Still Pays Differently | Music</span>
+              <span class="ct-node-title-full">Why Live Music Still Pays Differently</span>
               <span class="ct-node-summary">Concerts can provide artists with income, visibility and fan connection that recorded streaming alone may not deliver.</span>
             </span>
           </a>
@@ -2217,7 +2216,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Live Nation</span>
-                  <span class="ct-node-title-full">What Big Concert Numbers Really Prove | Live Income</span>
+                  <span class="ct-node-title-full">What Big Concert Numbers Really Prove</span>
                   <span class="ct-node-summary">Live Nation&#x27;s huge event numbers show how live music became a global paid experience, even if that scale differs from grassroots touring.</span>
                 </span>
               </a>
@@ -2237,7 +2236,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Small Gigs</span>
-                  <span class="ct-node-title-full">When a Small Gig Actually Pays Off | Live Income</span>
+                  <span class="ct-node-title-full">When a Small Gig Actually Pays Off</span>
                   <span class="ct-node-summary">Small shows rarely make artists rich, but they can turn a local audience into fees, merch sales, contacts and future bookings.</span>
                 </span>
               </a>
@@ -2257,7 +2256,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Ticket Split</span>
-                  <span class="ct-node-title-full">Where Your Ticket Money Really Goes | Live Income</span>
+                  <span class="ct-node-title-full">Where Your Ticket Money Really Goes</span>
                   <span class="ct-node-summary">The ticket price fans see is shared across promoters, venues, ticketing firms, crew, production and the artist&#x27;s own costs.</span>
                 </span>
               </a>
@@ -2277,7 +2276,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Setlists</span>
-                  <span class="ct-node-title-full">Why Setlists Decide Who Gets Paid | Live Income</span>
+                  <span class="ct-node-title-full">Why Setlists Decide Who Gets Paid</span>
                   <span class="ct-node-summary">Songwriters can earn when music is performed live, but missing or inaccurate setlists can leave royalties unclaimed.</span>
                 </span>
               </a>
@@ -2297,7 +2296,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Grassroots</span>
-                  <span class="ct-node-title-full">Why Tiny Venues Build Real Careers | Live Income</span>
+                  <span class="ct-node-title-full">Why Tiny Venues Build Real Careers</span>
                   <span class="ct-node-summary">Grassroots venues give artists the stage time, audience feedback and local demand needed before larger guarantees become realistic.</span>
                 </span>
               </a>
@@ -2319,7 +2318,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Lullabies</span>
-              <span class="ct-node-title-full">Why Lullabies Work Across Cultures | Music</span>
+              <span class="ct-node-title-full">Why Lullabies Work Across Cultures</span>
               <span class="ct-node-summary">Lullabies show how simple musical patterns can soothe children, mark care and carry family memory.</span>
             </span>
           </a>
@@ -2341,7 +2340,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Foreign Songs</span>
-                  <span class="ct-node-title-full">Can Unknown Lullabies Still Calm Babies? | Lullabies</span>
+                  <span class="ct-node-title-full">Can Unknown Lullabies Still Calm Babies?</span>
                   <span class="ct-node-summary">Babies can relax to lullabies from unfamiliar cultures, suggesting that musical structure matters beyond language or familiarity.</span>
                 </span>
               </a>
@@ -2361,7 +2360,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Familiar Songs</span>
-                  <span class="ct-node-title-full">Why Familiar Lullabies Feel Safer | Lullabies</span>
+                  <span class="ct-node-title-full">Why Familiar Lullabies Feel Safer</span>
                   <span class="ct-node-summary">A familiar lullaby can carry memories of safety, making repeated caregiver songs more powerful than sound alone.</span>
                 </span>
               </a>
@@ -2381,7 +2380,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Repetition</span>
-                  <span class="ct-node-title-full">Why Repetition Helps Babies Settle | Lullabies</span>
+                  <span class="ct-node-title-full">Why Repetition Helps Babies Settle</span>
                   <span class="ct-node-summary">Repeated phrases and simple patterns make lullabies easier for babies to process and less likely to startle them.</span>
                 </span>
               </a>
@@ -2401,7 +2400,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Caregiver Cues</span>
-                  <span class="ct-node-title-full">Why Singing Matters More Than Playback | Lullabies</span>
+                  <span class="ct-node-title-full">Why Singing Matters More Than Playback</span>
                   <span class="ct-node-summary">A lullaby often works best as part of caregiving, combining voice, touch, rocking, and emotional reassurance.</span>
                 </span>
               </a>
@@ -2421,7 +2420,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Slow Tempo</span>
-                  <span class="ct-node-title-full">Why Slow Lullabies Feel Calming | Lullabies</span>
+                  <span class="ct-node-title-full">Why Slow Lullabies Feel Calming</span>
                   <span class="ct-node-summary">Slow, softly delivered lullabies can lower arousal by giving the nervous system fewer sudden events to track.</span>
                 </span>
               </a>
@@ -2443,7 +2442,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Lyrics</span>
-              <span class="ct-node-title-full">How Lyrics Make Feelings Public | Music</span>
+              <span class="ct-node-title-full">How Lyrics Make Feelings Public</span>
               <span class="ct-node-summary">Lyrics let private emotion become quotable, communal and politically charged without separating words from sound.</span>
             </span>
           </a>
@@ -2465,7 +2464,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Protest Lyrics</span>
-                  <span class="ct-node-title-full">When Lyrics Leave Songs and Become Slogans | Lyrics</span>
+                  <span class="ct-node-title-full">When Lyrics Leave Songs and Become Slogans</span>
                   <span class="ct-node-summary">A lyric can become a public slogan when a community recognizes its emotional truth and uses it for collective action.</span>
                 </span>
               </a>
@@ -2485,7 +2484,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Chorus Lines</span>
-                  <span class="ct-node-title-full">Why Choruses Turn Feelings Into Catchphrases | Lyrics</span>
+                  <span class="ct-node-title-full">Why Choruses Turn Feelings Into Catchphrases</span>
                   <span class="ct-node-summary">Repeated chorus phrases make private feelings easy to remember, quote, sing together, and reuse in everyday life.</span>
                 </span>
               </a>
@@ -2505,7 +2504,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Identification</span>
-                  <span class="ct-node-title-full">Why Some Lyrics Feel Like Your Story | Lyrics</span>
+                  <span class="ct-node-title-full">Why Some Lyrics Feel Like Your Story</span>
                   <span class="ct-node-summary">Song stories give listeners words for their own losses, longings, memories, and turning points.</span>
                 </span>
               </a>
@@ -2525,7 +2524,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sung Meaning</span>
-                  <span class="ct-node-title-full">Why Sung Words Hit Harder Than Spoken Ones | Lyrics</span>
+                  <span class="ct-node-title-full">Why Sung Words Hit Harder Than Spoken Ones</span>
                   <span class="ct-node-summary">Words can feel more emotionally charged when melody, rhythm, and voice carry them inside a song.</span>
                 </span>
               </a>
@@ -2545,7 +2544,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Culture</span>
-                  <span class="ct-node-title-full">Why The Same Lyric Means Different Things | Lyrics</span>
+                  <span class="ct-node-title-full">Why The Same Lyric Means Different Things</span>
                   <span class="ct-node-summary">Lyrics do not carry fixed meanings, because listeners interpret emotional language through culture, memory, and shared norms.</span>
                 </span>
               </a>
@@ -2567,7 +2566,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Melody</span>
-              <span class="ct-node-title-full">Why Some Melodies Stay In Your Head | Music</span>
+              <span class="ct-node-title-full">Why Some Melodies Stay In Your Head</span>
               <span class="ct-node-summary">Melody gives listeners a line to follow, making songs easier to remember, sing, quote and emotionally attach to.</span>
             </span>
           </a>
@@ -2589,7 +2588,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Contour</span>
-                  <span class="ct-node-title-full">The Shape Your Brain Hums Back | Melody</span>
+                  <span class="ct-node-title-full">The Shape Your Brain Hums Back</span>
                   <span class="ct-node-summary">A melody&#x27;s rising, falling and returning shape can make a song recognizable even when exact notes or rhythms are forgotten.</span>
                 </span>
               </a>
@@ -2609,7 +2608,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Earworms</span>
-                  <span class="ct-node-title-full">What Makes a Tune Become an Earworm? | Melody</span>
+                  <span class="ct-node-title-full">What Makes a Tune Become an Earworm?</span>
                   <span class="ct-node-summary">Earworm melodies often combine repetition, simple contours and distinctive turns that make them unusually easy to replay mentally.</span>
                 </span>
               </a>
@@ -2629,7 +2628,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Surprise</span>
-                  <span class="ct-node-title-full">Why Catchy Melodies Need a Twist | Melody</span>
+                  <span class="ct-node-title-full">Why Catchy Melodies Need a Twist</span>
                   <span class="ct-node-summary">Memorable tunes balance familiar patterns with slight twists that refresh attention without making the melody hard to learn.</span>
                 </span>
               </a>
@@ -2649,7 +2648,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Choruses</span>
-                  <span class="ct-node-title-full">Why Do Choruses Stay in Your Head? | Melody</span>
+                  <span class="ct-node-title-full">Why Do Choruses Stay in Your Head?</span>
                   <span class="ct-node-summary">Choruses stick because repeated, singable melodic patterns give listeners more chances to encode and replay the tune.</span>
                 </span>
               </a>
@@ -2669,7 +2668,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emotion</span>
-                  <span class="ct-node-title-full">Why Some Melodies Bring Memories Back | Melody</span>
+                  <span class="ct-node-title-full">Why Some Melodies Bring Memories Back</span>
                   <span class="ct-node-summary">A melody can become memorable because emotional listening moments tie the tune to people, places and personal events.</span>
                 </span>
               </a>
@@ -2691,7 +2690,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Merch</span>
-              <span class="ct-node-title-full">Why Music Merch Means More Than Branding | Music</span>
+              <span class="ct-node-title-full">Why Music Merch Means More Than Branding</span>
               <span class="ct-node-summary">Merchandise gives fans a visible way to carry belonging beyond the song, album or concert venue.</span>
             </span>
           </a>
@@ -2713,7 +2712,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Billie Values</span>
-                  <span class="ct-node-title-full">Can Merch Carry An Artist&#x27;s Values? | Merch</span>
+                  <span class="ct-node-title-full">Can Merch Carry An Artist&#x27;s Values?</span>
                   <span class="ct-node-summary">Billie Eilish shows how materials, fit, packaging, and sustainability claims can become part of an artist&#x27;s public world.</span>
                 </span>
               </a>
@@ -2733,7 +2732,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Limited Drops</span>
-                  <span class="ct-node-title-full">When Scarce Merch Stops Feeling Special | Merch</span>
+                  <span class="ct-node-title-full">When Scarce Merch Stops Feeling Special</span>
                   <span class="ct-node-summary">Limited drops can make merch feel special, but artificial urgency and repeat variants can turn excitement into fan resentment.</span>
                 </span>
               </a>
@@ -2753,7 +2752,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Band Shirts</span>
-                  <span class="ct-node-title-full">Why Band Shirts Say More Than Taste | Merch</span>
+                  <span class="ct-node-title-full">Why Band Shirts Say More Than Taste</span>
                   <span class="ct-node-summary">Band shirts and artist hoodies let fans make music taste visible, turning private listening into a public signal of belonging.</span>
                 </span>
               </a>
@@ -2773,7 +2772,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Collab Fit</span>
-                  <span class="ct-node-title-full">Why Some Artist Collabs Feel Fake | Merch</span>
+                  <span class="ct-node-title-full">Why Some Artist Collabs Feel Fake</span>
                   <span class="ct-node-summary">Fashion and brand collaborations work best when fans believe the product fits the artist&#x27;s style, audience, and values.</span>
                 </span>
               </a>
@@ -2793,7 +2792,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tour Keepsakes</span>
-                  <span class="ct-node-title-full">Why Tour Shirts Become Memory Objects | Merch</span>
+                  <span class="ct-node-title-full">Why Tour Shirts Become Memory Objects</span>
                   <span class="ct-node-summary">Tour merch turns a live show into a keepsake by tying a physical object to a city, date, venue, and emotional night.</span>
                 </span>
               </a>
@@ -2815,7 +2814,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Metadata</span>
-              <span class="ct-node-title-full">Why Bad Music Data Costs Creators Money | Music</span>
+              <span class="ct-node-title-full">Why Bad Music Data Costs Creators Money</span>
               <span class="ct-node-summary">Credits, ownership splits and setlists must be accurate or royalties can be delayed, misallocated or lost.</span>
             </span>
           </a>
@@ -2837,7 +2836,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Setlists</span>
-                  <span class="ct-node-title-full">The setlist is a royalty payment trail | Metadata</span>
+                  <span class="ct-node-title-full">The setlist is a royalty payment trail</span>
                   <span class="ct-node-summary">Live performance money only reaches writers when songs are registered clearly and performances are reported with usable setlist data.</span>
                 </span>
               </a>
@@ -2857,7 +2856,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Code Links</span>
-                  <span class="ct-node-title-full">The two codes behind every paid song | Metadata</span>
+                  <span class="ct-node-title-full">The two codes behind every paid song</span>
                   <span class="ct-node-summary">Recording and composition identifiers solve different payment problems, and royalties break down when the two sides are not connected.</span>
                 </span>
               </a>
@@ -2877,7 +2876,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Unmatched Pools</span>
-                  <span class="ct-node-title-full">Where unpaid royalties wait for better data | Metadata</span>
+                  <span class="ct-node-title-full">Where unpaid royalties wait for better data</span>
                   <span class="ct-node-summary">Unmatched royalty pools show how usage can generate money before the industry knows which work or rightsholder should receive it.</span>
                 </span>
               </a>
@@ -2897,7 +2896,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">DJ Sets</span>
-                  <span class="ct-node-title-full">Why DJ royalties are so hard to trace | Metadata</span>
+                  <span class="ct-node-title-full">Why DJ royalties are so hard to trace</span>
                   <span class="ct-node-summary">DJ performances contain rapid blends, remixes, edits, and partial tracks, making old reporting systems struggle to identify who should be paid.</span>
                 </span>
               </a>
@@ -2917,7 +2916,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Song Splits</span>
-                  <span class="ct-node-title-full">Why song splits can freeze royalty money | Metadata</span>
+                  <span class="ct-node-title-full">Why song splits can freeze royalty money</span>
                   <span class="ct-node-summary">A known song can still go unpaid when co-writer, publisher, or ownership shares are late, disputed, or registered inconsistently.</span>
                 </span>
               </a>
@@ -2939,7 +2938,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Physical</span>
-              <span class="ct-node-title-full">Why Fans Still Want Music Objects | Music</span>
+              <span class="ct-node-title-full">Why Fans Still Want Music Objects</span>
               <span class="ct-node-summary">CDs, records and deluxe editions turn music into an object fans can display, collect, gift and keep.</span>
             </span>
           </a>
@@ -2961,7 +2960,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fan Pressure</span>
-                  <span class="ct-node-title-full">When Collecting Starts To Feel Like Pressure | Physical</span>
+                  <span class="ct-node-title-full">When Collecting Starts To Feel Like Pressure</span>
                   <span class="ct-node-summary">Multiple versions can make ownership feel exciting, but they can also make loyalty feel expensive, wasteful or manipulative.</span>
                 </span>
               </a>
@@ -2981,7 +2980,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">CDs &amp; Tapes</span>
-                  <span class="ct-node-title-full">Why CDs And Cassettes Still Matter | Physical</span>
+                  <span class="ct-node-title-full">Why CDs And Cassettes Still Matter</span>
                   <span class="ct-node-summary">CDs and cassettes often offer cheaper, smaller and more portable forms of ownership than vinyl or deluxe sets.</span>
                 </span>
               </a>
@@ -3001,7 +3000,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Box Sets</span>
-                  <span class="ct-node-title-full">Why Deluxe Box Sets Feel Like Archives | Physical</span>
+                  <span class="ct-node-title-full">Why Deluxe Box Sets Feel Like Archives</span>
                   <span class="ct-node-summary">Deluxe box sets make an album feel bigger than its tracklist by packaging demos, photos, essays and memorabilia into a keepable archive.</span>
                 </span>
               </a>
@@ -3021,7 +3020,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Photo Cards</span>
-                  <span class="ct-node-title-full">Why K pop Albums Became Collectible Kits | Physical</span>
+                  <span class="ct-node-title-full">Why K pop Albums Became Collectible Kits</span>
                   <span class="ct-node-summary">K-pop albums turn music buying into collecting, trading and display through photo cards, photobooks and member-specific extras.</span>
                 </span>
               </a>
@@ -3041,7 +3040,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Signed Copies</span>
-                  <span class="ct-node-title-full">Why Signed Albums Feel More Personal | Physical</span>
+                  <span class="ct-node-title-full">Why Signed Albums Feel More Personal</span>
                   <span class="ct-node-summary">Signed CDs, sleeves and inserts can make a mass-produced release feel personal, scarce and closer to the artist.</span>
                 </span>
               </a>
@@ -3063,7 +3062,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Playlists</span>
-              <span class="ct-node-title-full">Why Playlists Became Music&#x27;s New Gatekeepers | Music</span>
+              <span class="ct-node-title-full">Why Playlists Became Music&#x27;s New Gatekeepers</span>
               <span class="ct-node-summary">Playlists shape discovery by organizing songs around moods, contexts and platform recommendations instead of only artists or albums.</span>
             </span>
           </a>
@@ -3085,7 +3084,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Editorial Adds</span>
-                  <span class="ct-node-title-full">Do Editorial Playlists Still Make Hits? | Playlists</span>
+                  <span class="ct-node-title-full">Do Editorial Playlists Still Make Hits?</span>
                   <span class="ct-node-summary">Editorial playlist adds can signal legitimacy, but their value now depends on platform data as much as human taste.</span>
                 </span>
               </a>
@@ -3105,7 +3104,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Repetition</span>
-                  <span class="ct-node-title-full">How Playlists Make Songs Feel Familiar | Playlists</span>
+                  <span class="ct-node-title-full">How Playlists Make Songs Feel Familiar</span>
                   <span class="ct-node-summary">Streaming still makes hits through repetition, but the repeats now come from playlists, autoplay and personal libraries.</span>
                 </span>
               </a>
@@ -3125,7 +3124,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Mood Listening</span>
-                  <span class="ct-node-title-full">When Music Becomes a Mood Button | Playlists</span>
+                  <span class="ct-node-title-full">When Music Becomes a Mood Button</span>
                   <span class="ct-node-summary">Mood and activity playlists make music easier to use, but they can also detach songs from artists, albums and scenes.</span>
                 </span>
               </a>
@@ -3145,7 +3144,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Algotorial</span>
-                  <span class="ct-node-title-full">Who Really Curates a Streaming Playlist? | Playlists</span>
+                  <span class="ct-node-title-full">Who Really Curates a Streaming Playlist?</span>
                   <span class="ct-node-summary">Modern playlists often blend editors, algorithms and behavioural data, making curation harder for listeners to see.</span>
                 </span>
               </a>
@@ -3165,7 +3164,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Discover Weekly</span>
-                  <span class="ct-node-title-full">Why Discover Weekly Feels So Personal | Playlists</span>
+                  <span class="ct-node-title-full">Why Discover Weekly Feels So Personal</span>
                   <span class="ct-node-summary">Discover Weekly made recommendation feel intimate by turning listener behaviour into a weekly ritual of unfamiliar songs.</span>
                 </span>
               </a>
@@ -3187,7 +3186,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Protest Songs</span>
-              <span class="ct-node-title-full">Why Protest Songs Still Mobilize People | Music</span>
+              <span class="ct-node-title-full">Why Protest Songs Still Mobilize People</span>
               <span class="ct-node-summary">Protest songs help turn individual anger, grief or hope into a public voice that people can gather around.</span>
             </span>
           </a>
@@ -3209,7 +3208,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Song Memory</span>
-                  <span class="ct-node-title-full">Connecting Modern Movements with Historical Protest Songs | Protest Songs</span>
+                  <span class="ct-node-title-full">Connecting Modern Movements with Historical Protest Songs</span>
                   <span class="ct-node-summary">Songs like Bella ciao link current activism to past struggles, creating a sense of enduring resistance.</span>
                 </span>
               </a>
@@ -3229,7 +3228,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Collective Singing</span>
-                  <span class="ct-node-title-full">How Group Singing Builds Solidarity in Protests | Protest Songs</span>
+                  <span class="ct-node-title-full">How Group Singing Builds Solidarity in Protests</span>
                   <span class="ct-node-summary">Singing together in protests creates shared emotions that strengthen solidarity and morale among participants.</span>
                 </span>
               </a>
@@ -3249,7 +3248,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Digital Protest Music</span>
-                  <span class="ct-node-title-full">How Social Media Transforms Protest Songs Online | Protest Songs</span>
+                  <span class="ct-node-title-full">How Social Media Transforms Protest Songs Online</span>
                   <span class="ct-node-summary">Social media spreads songs widely, but detachment from movements can reduce collective mobilisation impact.</span>
                 </span>
               </a>
@@ -3269,7 +3268,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Song Simplification</span>
-                  <span class="ct-node-title-full">When Protest Songs Flatten Complex Messages | Protest Songs</span>
+                  <span class="ct-node-title-full">When Protest Songs Flatten Complex Messages</span>
                   <span class="ct-node-summary">Catchy refrains unify crowds quickly but may oversimplify complex political issues.</span>
                 </span>
               </a>
@@ -3289,7 +3288,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Inclusive Songs</span>
-                  <span class="ct-node-title-full">Who Feels Represented by Protest Music? | Protest Songs</span>
+                  <span class="ct-node-title-full">Who Feels Represented by Protest Music?</span>
                   <span class="ct-node-summary">Some songs resonate with certain groups, potentially excluding other voices even as they unify participants.</span>
                 </span>
               </a>
@@ -3311,7 +3310,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Publishing</span>
-              <span class="ct-node-title-full">How Songs Earn Beyond The Recording | Music</span>
+              <span class="ct-node-title-full">How Songs Earn Beyond The Recording</span>
               <span class="ct-node-summary">Songs keep earning through performance, broadcast, sync, publishing and public use long after a recording is released.</span>
             </span>
           </a>
@@ -3333,7 +3332,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Setlist Gaps</span>
-                  <span class="ct-node-title-full">How Missing Setlists Leave Money Unpaid | Publishing</span>
+                  <span class="ct-node-title-full">How Missing Setlists Leave Money Unpaid</span>
                   <span class="ct-node-summary">Missing setlists can prevent performance royalties from reaching the songwriters whose work was actually played.</span>
                 </span>
               </a>
@@ -3353,7 +3352,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Mechanical Royalties</span>
-                  <span class="ct-node-title-full">The Hidden Song Royalties Inside Streaming | Publishing</span>
+                  <span class="ct-node-title-full">The Hidden Song Royalties Inside Streaming</span>
                   <span class="ct-node-summary">Streaming services generate composition royalties that depend on ownership records and licensing administration.</span>
                 </span>
               </a>
@@ -3373,7 +3372,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sync Earnings</span>
-                  <span class="ct-node-title-full">When One Sync Deal Creates More Income | Publishing</span>
+                  <span class="ct-node-title-full">When One Sync Deal Creates More Income</span>
                   <span class="ct-node-summary">A sync placement can create an upfront payment while also leading to additional royalties from later uses.</span>
                 </span>
               </a>
@@ -3393,7 +3392,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Broadcast Income</span>
-                  <span class="ct-node-title-full">Why Broadcast Use Can Last for Decades | Publishing</span>
+                  <span class="ct-node-title-full">Why Broadcast Use Can Last for Decades</span>
                   <span class="ct-node-summary">A composition can keep earning for years when broadcasters repeatedly use it as a theme, cue, or background track.</span>
                 </span>
               </a>
@@ -3413,7 +3412,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Royalty Splits</span>
-                  <span class="ct-node-title-full">Why the Same Song Pays Different People | Publishing</span>
+                  <span class="ct-node-title-full">Why the Same Song Pays Different People</span>
                   <span class="ct-node-summary">Performance royalties are commonly divided between writer and publisher shares, making ownership structure crucial to payment.</span>
                 </span>
               </a>
@@ -3435,7 +3434,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Recording</span>
-              <span class="ct-node-title-full">How Recording Changed What Music Is | Music</span>
+              <span class="ct-node-title-full">How Recording Changed What Music Is</span>
               <span class="ct-node-summary">Recording let performances travel beyond the room where they happened, reshaping memory, ownership and fame.</span>
             </span>
           </a>
@@ -3457,7 +3456,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Music Archives</span>
-                  <span class="ct-node-title-full">How Archived Recordings Keep Musical History Alive | Recording</span>
+                  <span class="ct-node-title-full">How Archived Recordings Keep Musical History Alive</span>
                   <span class="ct-node-summary">Libraries and archives preserve recordings across formats, letting listeners experience past performances and styles.</span>
                 </span>
               </a>
@@ -3477,7 +3476,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Edison Phonograph</span>
-                  <span class="ct-node-title-full">How Edison&#x27;s Phonograph Changed Musical Memory | Recording</span>
+                  <span class="ct-node-title-full">How Edison&#x27;s Phonograph Changed Musical Memory</span>
                   <span class="ct-node-summary">Edison&#x27;s phonograph created the first reliable way to record and replay performances, changing how music could be preserved.</span>
                 </span>
               </a>
@@ -3497,7 +3496,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Playback Memory</span>
-                  <span class="ct-node-title-full">How Listening to Recordings Reshapes Musical Memory | Recording</span>
+                  <span class="ct-node-title-full">How Listening to Recordings Reshapes Musical Memory</span>
                   <span class="ct-node-summary">Listening to recordings reorganizes musical memory, associating songs with specific takes, room acoustics, and personal contexts.</span>
                 </span>
               </a>
@@ -3517,7 +3516,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Portable Players</span>
-                  <span class="ct-node-title-full">How Portable Devices Made Music Personal Everywhere | Recording</span>
+                  <span class="ct-node-title-full">How Portable Devices Made Music Personal Everywhere</span>
                   <span class="ct-node-summary">Devices like the Walkman and MP3 player allowed music to move with listeners, making listening personal and mobile.</span>
                 </span>
               </a>
@@ -3537,7 +3536,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Recorded Fame</span>
-                  <span class="ct-node-title-full">How Recordings Carried Performer Fame Across Distances | Recording</span>
+                  <span class="ct-node-title-full">How Recordings Carried Performer Fame Across Distances</span>
                   <span class="ct-node-summary">Recorded music enabled performers to gain recognition far from live venues, creating repeatable and widely distributed fame.</span>
                 </span>
               </a>
@@ -3559,7 +3558,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Regional Scenes</span>
-              <span class="ct-node-title-full">How Local Sounds Become Global | Music</span>
+              <span class="ct-node-title-full">How Local Sounds Become Global</span>
               <span class="ct-node-summary">Streaming can help local and regional genres cross borders while still depending on platform visibility and listener attention.</span>
             </span>
           </a>
@@ -3581,7 +3580,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Afrobeats</span>
-                  <span class="ct-node-title-full">How Afrobeats Turned Diaspora Listening Into Reach | Regional Scenes</span>
+                  <span class="ct-node-title-full">How Afrobeats Turned Diaspora Listening Into Reach</span>
                   <span class="ct-node-summary">Afrobeats travelled faster when diaspora clubs, fan sharing and platform data turned local popularity into visible global demand.</span>
                 </span>
               </a>
@@ -3601,7 +3600,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Regional Mexican</span>
-                  <span class="ct-node-title-full">How Regional Mexican Music Crossed Borders Online | Regional Scenes</span>
+                  <span class="ct-node-title-full">How Regional Mexican Music Crossed Borders Online</span>
                   <span class="ct-node-summary">Regional Mexican music shows how language, migration and bicultural listening can make a local genre a transnational streaming force.</span>
                 </span>
               </a>
@@ -3621,7 +3620,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Playlist Gate</span>
-                  <span class="ct-node-title-full">The New Border Is Platform Visibility | Regional Scenes</span>
+                  <span class="ct-node-title-full">The New Border Is Platform Visibility</span>
                   <span class="ct-node-summary">Streaming lowered distribution barriers, but playlists and recommendation systems now decide which regional tracks become easy to find.</span>
                 </span>
               </a>
@@ -3641,7 +3640,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Data Proof</span>
-                  <span class="ct-node-title-full">When Streams Become Proof Of A Scene | Regional Scenes</span>
+                  <span class="ct-node-title-full">When Streams Become Proof Of A Scene</span>
                   <span class="ct-node-summary">Streaming counts, city-level listening and royalty data can help regional scenes persuade labels, promoters and collaborators that demand exists.</span>
                 </span>
               </a>
@@ -3661,7 +3660,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Amapiano</span>
-                  <span class="ct-node-title-full">Why Amapiano Became A Global Dance Grammar | Regional Scenes</span>
+                  <span class="ct-node-title-full">Why Amapiano Became A Global Dance Grammar</span>
                   <span class="ct-node-summary">Amapiano spread as a recognisable production language that listeners and artists in other countries could dance to, copy and reshape.</span>
                 </span>
               </a>
@@ -3683,7 +3682,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Rhythm</span>
-              <span class="ct-node-title-full">Why Rhythm Makes Music Feel Physical | Music</span>
+              <span class="ct-node-title-full">Why Rhythm Makes Music Feel Physical</span>
               <span class="ct-node-summary">Rhythm turns sound into anticipation, movement and shared physical energy across dances, chants, pop hooks and live crowds.</span>
             </span>
           </a>
@@ -3705,7 +3704,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Rhythm Therapy</span>
-                  <span class="ct-node-title-full">Can a Beat Help Bodies Move Better? | Rhythm</span>
+                  <span class="ct-node-title-full">Can a Beat Help Bodies Move Better?</span>
                   <span class="ct-node-summary">Regular sound cues can help some people organise steps, gait and balance by giving movement an external timing target.</span>
                 </span>
               </a>
@@ -3725,7 +3724,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Shared Timing</span>
-                  <span class="ct-node-title-full">How Dance Floors Turn Beats Into Belonging | Rhythm</span>
+                  <span class="ct-node-title-full">How Dance Floors Turn Beats Into Belonging</span>
                   <span class="ct-node-summary">A strong beat gives crowds a shared clock, making clapping, stepping, chanting and jumping easier to coordinate without words.</span>
                 </span>
               </a>
@@ -3745,7 +3744,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Hooks</span>
-                  <span class="ct-node-title-full">Why Chants Stay in the Body | Rhythm</span>
+                  <span class="ct-node-title-full">Why Chants Stay in the Body</span>
                   <span class="ct-node-summary">Memorable rhythmic hooks work because listeners can feel entrances, pauses and repetitions quickly enough to join in.</span>
                 </span>
               </a>
@@ -3765,7 +3764,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Syncopation</span>
-                  <span class="ct-node-title-full">Why Off Beat Rhythms Make People Move | Rhythm</span>
+                  <span class="ct-node-title-full">Why Off Beat Rhythms Make People Move</span>
                   <span class="ct-node-summary">Groove often feels best when a steady pulse is challenged just enough by off-beat accents, delays and rhythmic surprises.</span>
                 </span>
               </a>
@@ -3785,7 +3784,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Beat Brain</span>
-                  <span class="ct-node-title-full">Why Your Body Hears the Beat First | Rhythm</span>
+                  <span class="ct-node-title-full">Why Your Body Hears the Beat First</span>
                   <span class="ct-node-summary">Beat perception activates motor systems even when listeners sit still, helping explain why rhythm can feel like a bodily invitation.</span>
                 </span>
               </a>
@@ -3807,7 +3806,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Rights</span>
-              <span class="ct-node-title-full">Why One Song Has So Many Rights | Music</span>
+              <span class="ct-node-title-full">Why One Song Has So Many Rights</span>
               <span class="ct-node-summary">One song can involve separate rights in the recording, composition, performance, publishing and licensing uses.</span>
             </span>
           </a>
@@ -3829,7 +3828,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Metadata gaps</span>
-                  <span class="ct-node-title-full">How royalties get lost in the data | Rights</span>
+                  <span class="ct-node-title-full">How royalties get lost in the data</span>
                   <span class="ct-node-summary">Bad or missing registrations can stop collected royalties from reaching the right songwriter, performer or owner.</span>
                 </span>
               </a>
@@ -3849,7 +3848,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">PRS dispute</span>
-                  <span class="ct-node-title-full">When royalty societies face their members | Rights</span>
+                  <span class="ct-node-title-full">When royalty societies face their members</span>
                   <span class="ct-node-summary">The PRS lawsuit shows how collective licensing can create governance fights over costs, rules and royalty distribution.</span>
                 </span>
               </a>
@@ -3869,7 +3868,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Public play</span>
-                  <span class="ct-node-title-full">Why cafes pay to play songs | Rights</span>
+                  <span class="ct-node-title-full">Why cafes pay to play songs</span>
                   <span class="ct-node-summary">Public performance licences explain why background music in ordinary businesses can trigger royalty payments.</span>
                 </span>
               </a>
@@ -3889,7 +3888,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cover songs</span>
-                  <span class="ct-node-title-full">Why covers need one licence, not two | Rights</span>
+                  <span class="ct-node-title-full">Why covers need one licence, not two</span>
                   <span class="ct-node-summary">A cover can avoid the famous master recording, but it still needs permission or a lawful route for the underlying composition.</span>
                 </span>
               </a>
@@ -3909,7 +3908,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sync rights</span>
-                  <span class="ct-node-title-full">Why film music needs double clearance | Rights</span>
+                  <span class="ct-node-title-full">Why film music needs double clearance</span>
                   <span class="ct-node-summary">Putting a track under moving images usually means clearing the composition and the specific recording separately.</span>
                 </span>
               </a>
@@ -3931,7 +3930,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Royalties</span>
-              <span class="ct-node-title-full">How Streaming Money Actually Reaches Artists | Music</span>
+              <span class="ct-node-title-full">How Streaming Money Actually Reaches Artists</span>
               <span class="ct-node-summary">Streaming money depends on rights, contracts, territories, platform rules and listening scale, not just play counts.</span>
             </span>
           </a>
@@ -3953,7 +3952,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Songwriters</span>
-                  <span class="ct-node-title-full">How songwriters get paid from streams | Royalties</span>
+                  <span class="ct-node-title-full">How songwriters get paid from streams</span>
                   <span class="ct-node-summary">A stream can pay songwriters through mechanical and performance royalties, even when they are not the recording artist.</span>
                 </span>
               </a>
@@ -3973,7 +3972,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Missing royalties</span>
-                  <span class="ct-node-title-full">The royalties artists forget to collect | Royalties</span>
+                  <span class="ct-node-title-full">The royalties artists forget to collect</span>
                   <span class="ct-node-summary">Artists who only upload through a distributor may collect master income while leaving publishing royalties unclaimed.</span>
                 </span>
               </a>
@@ -3993,7 +3992,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Master rights</span>
-                  <span class="ct-node-title-full">Who gets the recording money first? | Royalties</span>
+                  <span class="ct-node-title-full">Who gets the recording money first?</span>
                   <span class="ct-node-summary">Recording royalties usually flow first to whoever controls the master, which can make ownership and contract terms decisive.</span>
                 </span>
               </a>
@@ -4013,7 +4012,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Payout rates</span>
-                  <span class="ct-node-title-full">Why one stream is not worth one price | Royalties</span>
+                  <span class="ct-node-title-full">Why one stream is not worth one price</span>
                   <span class="ct-node-summary">Streaming payouts start from revenue pools, so the same number of plays can produce different money in different markets.</span>
                 </span>
               </a>
@@ -4033,7 +4032,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Global plays</span>
-                  <span class="ct-node-title-full">Why streams abroad pay differently | Royalties</span>
+                  <span class="ct-node-title-full">Why streams abroad pay differently</span>
                   <span class="ct-node-summary">International streams can expand an artist&#x27;s reach, but territory prices and ad markets change what those plays are worth.</span>
                 </span>
               </a>
@@ -4055,7 +4054,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Setlists</span>
-              <span class="ct-node-title-full">Why Setlists Are More Than Souvenirs | Music</span>
+              <span class="ct-node-title-full">Why Setlists Are More Than Souvenirs</span>
               <span class="ct-node-summary">Missing live-performance data can stop songwriters from receiving money they are owed when songs are played publicly.</span>
             </span>
           </a>
@@ -4077,7 +4076,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Paper Setlists</span>
-                  <span class="ct-node-title-full">Can A Handwritten Setlist Prove A Royalty Claim? | Setlists</span>
+                  <span class="ct-node-title-full">Can A Handwritten Setlist Prove A Royalty Claim?</span>
                   <span class="ct-node-summary">A scribbled stage setlist can become payment evidence, but only if it is readable, complete, and linked to the right show.</span>
                 </span>
               </a>
@@ -4097,7 +4096,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cover Songs</span>
-                  <span class="ct-node-title-full">Do Cover Gigs Pay The Right Writers? | Setlists</span>
+                  <span class="ct-node-title-full">Do Cover Gigs Pay The Right Writers?</span>
                   <span class="ct-node-summary">Cover gigs can pay the original writers, but only if the songs performed are identified clearly enough to match the right works.</span>
                 </span>
               </a>
@@ -4117,7 +4116,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Claim Deadlines</span>
-                  <span class="ct-node-title-full">What Happens When Gig Claims Arrive Too Late? | Setlists</span>
+                  <span class="ct-node-title-full">What Happens When Gig Claims Arrive Too Late?</span>
                   <span class="ct-node-summary">Small venue claims can disappear from a writer&#x27;s income when performers learn too late that setlists had to be reported.</span>
                 </span>
               </a>
@@ -4137,7 +4136,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Black Box Gigs</span>
-                  <span class="ct-node-title-full">Why Grassroots Gig Money Gets Lost | Setlists</span>
+                  <span class="ct-node-title-full">Why Grassroots Gig Money Gets Lost</span>
                   <span class="ct-node-summary">Grassroots shows are especially vulnerable to unmatched royalties when the venue is licensed but the songs are never reported.</span>
                 </span>
               </a>
@@ -4157,7 +4156,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">PRS Lawsuit</span>
-                  <span class="ct-node-title-full">Why Missing Setlists Are Hard To Sue Over | Setlists</span>
+                  <span class="ct-node-title-full">Why Missing Setlists Are Hard To Sue Over</span>
                   <span class="ct-node-summary">The failed collective claim against PRS shows why missing setlists can be obvious as a problem but hard to prove in court.</span>
                 </span>
               </a>
@@ -4179,7 +4178,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Short Clips</span>
-              <span class="ct-node-title-full">How Short Clips Reshape Hit Songs | Music</span>
+              <span class="ct-node-title-full">How Short Clips Reshape Hit Songs</span>
               <span class="ct-node-summary">Short-form video rewards songs with fast hooks, striking textures and repeatable moments that travel outside the full track.</span>
             </span>
           </a>
@@ -4201,7 +4200,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Artist Discovery</span>
-                  <span class="ct-node-title-full">Can Viral Songs Build Lasting Fans? | Short Clips</span>
+                  <span class="ct-node-title-full">Can Viral Songs Build Lasting Fans?</span>
                   <span class="ct-node-summary">A viral song fragment does not always translate into lasting recognition for the artist behind it.</span>
                 </span>
               </a>
@@ -4221,7 +4220,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Early Hooks</span>
-                  <span class="ct-node-title-full">How Fast Does a Song Need to Grab You? | Short Clips</span>
+                  <span class="ct-node-title-full">How Fast Does a Song Need to Grab You?</span>
                   <span class="ct-node-summary">The opening moments of a song now carry outsized weight because they must earn attention before a viewer scrolls away.</span>
                 </span>
               </a>
@@ -4241,7 +4240,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Song Revivals</span>
-                  <span class="ct-node-title-full">How Old Songs Become New Hits Again | Short Clips</span>
+                  <span class="ct-node-title-full">How Old Songs Become New Hits Again</span>
                   <span class="ct-node-summary">A decades-old recording can find a new audience when one clip-friendly moment spreads across short-form platforms.</span>
                 </span>
               </a>
@@ -4261,7 +4260,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Clip Tradeoffs</span>
-                  <span class="ct-node-title-full">When a Viral Snippet Hurts the Full Song | Short Clips</span>
+                  <span class="ct-node-title-full">When a Viral Snippet Hurts the Full Song</span>
                   <span class="ct-node-summary">Songwriters face a tradeoff between creating a shareable snippet and maintaining depth across the entire track.</span>
                 </span>
               </a>
@@ -4281,7 +4280,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Viral Moments</span>
-                  <span class="ct-node-title-full">Why the Chorus Is No Longer the Only Hook | Short Clips</span>
+                  <span class="ct-node-title-full">Why the Chorus Is No Longer the Only Hook</span>
                   <span class="ct-node-summary">Many modern viral clips come from song sections that were once secondary to the chorus.</span>
                 </span>
               </a>
@@ -4303,7 +4302,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Silence</span>
-              <span class="ct-node-title-full">Why Silence Can Be Music Too | Music</span>
+              <span class="ct-node-title-full">Why Silence Can Be Music Too</span>
               <span class="ct-node-summary">Silence can create tension, space, intimacy and surprise, making absence as expressive as sound.</span>
             </span>
           </a>
@@ -4325,7 +4324,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cage 4 33</span>
-                  <span class="ct-node-title-full">How John Cage’s 4′33″ Redefines Musical Silence | Silence</span>
+                  <span class="ct-node-title-full">How John Cage’s 4′33″ Redefines Musical Silence</span>
                   <span class="ct-node-summary">Cage’s 4′33″ turns attention to ambient sounds, showing that silence is never purely empty.</span>
                 </span>
               </a>
@@ -4345,7 +4344,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Pauses &amp; Tension</span>
-                  <span class="ct-node-title-full">How Pauses Build Anticipation in Music | Silence</span>
+                  <span class="ct-node-title-full">How Pauses Build Anticipation in Music</span>
                   <span class="ct-node-summary">Pauses in music create anticipation and affect listener perception of upcoming notes or phrases.</span>
                 </span>
               </a>
@@ -4365,7 +4364,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Performance Gestures</span>
-                  <span class="ct-node-title-full">How Performers Use Gesture to Shape Silence | Silence</span>
+                  <span class="ct-node-title-full">How Performers Use Gesture to Shape Silence</span>
                   <span class="ct-node-summary">Musicians use breaths, bow lifts, and pauses to signal intentional silence and guide audience perception.</span>
                 </span>
               </a>
@@ -4385,7 +4384,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emotional Silence</span>
-                  <span class="ct-node-title-full">How Silence Communicates Emotion and Meaning in Music | Silence</span>
+                  <span class="ct-node-title-full">How Silence Communicates Emotion and Meaning in Music</span>
                   <span class="ct-node-summary">Pauses can convey grief, humour, suspense, or respect, shaping cultural and emotional listener responses.</span>
                 </span>
               </a>
@@ -4405,7 +4404,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Recording Space</span>
-                  <span class="ct-node-title-full">Why Silence Shapes the Impact of Recorded Music | Silence</span>
+                  <span class="ct-node-title-full">Why Silence Shapes the Impact of Recorded Music</span>
                   <span class="ct-node-summary">Silence in recordings creates clarity and impact, making loud sections feel more powerful.</span>
                 </span>
               </a>
@@ -4427,7 +4426,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Spotify Payouts</span>
-              <span class="ct-node-title-full">What Streaming Payout Claims Really Mean | Music</span>
+              <span class="ct-node-title-full">What Streaming Payout Claims Really Mean</span>
               <span class="ct-node-summary">Spotify&#x27;s industry payouts are large, but creator debates focus on how that money is divided after it leaves the platform.</span>
             </span>
           </a>
@@ -4449,7 +4448,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Payout Data</span>
-                  <span class="ct-node-title-full">What Spotify&#x27;s big payout numbers leave out | Spotify Payouts</span>
+                  <span class="ct-node-title-full">What Spotify&#x27;s big payout numbers leave out</span>
                   <span class="ct-node-summary">Spotify&#x27;s Loud and Clear numbers show huge industry payouts, but they do not reveal each creator&#x27;s final income.</span>
                 </span>
               </a>
@@ -4469,7 +4468,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">1 000 Streams</span>
-                  <span class="ct-node-title-full">Who loses under Spotify&#x27;s 1,000 stream rule? | Spotify Payouts</span>
+                  <span class="ct-node-title-full">Who loses under Spotify&#x27;s 1,000 stream rule?</span>
                   <span class="ct-node-summary">Spotify&#x27;s 1,000-stream rule removes very low-stream tracks from recorded royalty calculations and sharpens the fairness debate.</span>
                 </span>
               </a>
@@ -4489,7 +4488,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Per Stream</span>
-                  <span class="ct-node-title-full">Why one Spotify stream has no fixed price | Spotify Payouts</span>
+                  <span class="ct-node-title-full">Why one Spotify stream has no fixed price</span>
                   <span class="ct-node-summary">Spotify royalties come from a shared revenue pool, so a stream&#x27;s value changes with market, subscription mix and listening share.</span>
                 </span>
               </a>
@@ -4509,7 +4508,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Two Rights</span>
-                  <span class="ct-node-title-full">Why one stream creates two royalty trails | Spotify Payouts</span>
+                  <span class="ct-node-title-full">Why one stream creates two royalty trails</span>
                   <span class="ct-node-summary">A Spotify stream can generate recording and composition royalties, but performers and songwriters often receive them through separate systems.</span>
                 </span>
               </a>
@@ -4529,7 +4528,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Artist Share</span>
-                  <span class="ct-node-title-full">Why Spotify money reaches artists unevenly | Spotify Payouts</span>
+                  <span class="ct-node-title-full">Why Spotify money reaches artists unevenly</span>
                   <span class="ct-node-summary">Two artists with similar Spotify streams can earn very different amounts because their contracts decide what happens after rightsholders are paid.</span>
                 </span>
               </a>
@@ -4551,7 +4550,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Streaming</span>
-              <span class="ct-node-title-full">How Streaming Changed Listening Habits | Music</span>
+              <span class="ct-node-title-full">How Streaming Changed Listening Habits</span>
               <span class="ct-node-summary">Streaming moved listening from owned albums and downloads toward instant access, playlists and algorithmic discovery.</span>
             </span>
           </a>
@@ -4573,7 +4572,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Algorithms</span>
-                  <span class="ct-node-title-full">Do Music Algorithms Expand Your Taste? | Streaming</span>
+                  <span class="ct-node-title-full">Do Music Algorithms Expand Your Taste?</span>
                   <span class="ct-node-summary">Streaming recommendations can make discovery feel personal while quietly narrowing what listeners are most likely to hear next.</span>
                 </span>
               </a>
@@ -4593,7 +4592,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Revenue</span>
-                  <span class="ct-node-title-full">What the Money Says About Streaming | Streaming</span>
+                  <span class="ct-node-title-full">What the Money Says About Streaming</span>
                   <span class="ct-node-summary">Revenue data shows streaming has become recorded music&#x27;s main infrastructure, even though older formats and radio still survive.</span>
                 </span>
               </a>
@@ -4613,7 +4612,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Access</span>
-                  <span class="ct-node-title-full">When Access Became More Useful Than Ownership | Streaming</span>
+                  <span class="ct-node-title-full">When Access Became More Useful Than Ownership</span>
                   <span class="ct-node-summary">Streaming lowered the cost of curiosity, making vast access more important than building and maintaining a personal library.</span>
                 </span>
               </a>
@@ -4633,7 +4632,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Background</span>
-                  <span class="ct-node-title-full">Why Music Now Follows US Everywhere | Streaming</span>
+                  <span class="ct-node-title-full">Why Music Now Follows US Everywhere</span>
                   <span class="ct-node-summary">Streaming made music easier to weave through ordinary routines as atmosphere, company, motivation and emotional regulation.</span>
                 </span>
               </a>
@@ -4653,7 +4652,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Playlists</span>
-                  <span class="ct-node-title-full">Why Playlists Became the New Album | Streaming</span>
+                  <span class="ct-node-title-full">Why Playlists Became the New Album</span>
                   <span class="ct-node-summary">Playlists changed everyday listening by organizing songs around moods, activities and moments instead of only artists or albums.</span>
                 </span>
               </a>
@@ -4675,7 +4674,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Sync</span>
-              <span class="ct-node-title-full">How Screen Placements Revive Songs | Music</span>
+              <span class="ct-node-title-full">How Screen Placements Revive Songs</span>
               <span class="ct-node-summary">Film, games and advertising can turn songs into dramatic cues, memory triggers and fresh income streams.</span>
             </span>
           </a>
@@ -4697,7 +4696,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Ad Sync</span>
-                  <span class="ct-node-title-full">How Quiet Songs Win in Loud Advertising | Sync</span>
+                  <span class="ct-node-title-full">How Quiet Songs Win in Loud Advertising</span>
                   <span class="ct-node-summary">Advertising can revive catalogue songs when repetition and mood make the track feel inseparable from a brand memory.</span>
                 </span>
               </a>
@@ -4717,7 +4716,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Game Deals</span>
-                  <span class="ct-node-title-full">When Songs Become Part of Game Worlds | Sync</span>
+                  <span class="ct-node-title-full">When Songs Become Part of Game Worlds</span>
                   <span class="ct-node-summary">Game sync can make a song part of a playable world, but long usage terms and buyout offers can create disputes.</span>
                 </span>
               </a>
@@ -4737,7 +4736,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Scene Meaning</span>
-                  <span class="ct-node-title-full">Why One Scene Can Rewrite a Song | Sync</span>
+                  <span class="ct-node-title-full">Why One Scene Can Rewrite a Song</span>
                   <span class="ct-node-summary">A screen placement can revive a song by giving it a new emotional role, not just another burst of exposure.</span>
                 </span>
               </a>
@@ -4757,7 +4756,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Clearance</span>
-                  <span class="ct-node-title-full">Why One Song Often Needs Two Yeses | Sync</span>
+                  <span class="ct-node-title-full">Why One Song Often Needs Two Yeses</span>
                   <span class="ct-node-summary">Most sync deals must clear both the written song and the chosen recording before music can legally meet moving images.</span>
                 </span>
               </a>
@@ -4777,7 +4776,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Revenue</span>
-                  <span class="ct-node-title-full">Why Sync Money Is Big but Not Magic | Sync</span>
+                  <span class="ct-node-title-full">Why Sync Money Is Big but Not Magic</span>
                   <span class="ct-node-summary">A hit placement may bring fees, royalties and new listening, but sync remains a small part of recorded music revenue.</span>
                 </span>
               </a>
@@ -4799,7 +4798,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Timbre</span>
-              <span class="ct-node-title-full">Why The Same Note Can Feel Different | Music</span>
+              <span class="ct-node-title-full">Why The Same Note Can Feel Different</span>
               <span class="ct-node-summary">Timbre is why a voice, guitar, synth or drum can feel intimate, rough, bright, artificial or alive.</span>
             </span>
           </a>
@@ -4821,7 +4820,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Transient Cues</span>
-                  <span class="ct-node-title-full">How Brief Attacks Reveal Sound Sources Instantly | Timbre</span>
+                  <span class="ct-node-title-full">How Brief Attacks Reveal Sound Sources Instantly</span>
                   <span class="ct-node-summary">The ear detects quick attacks and decays in notes to identify instruments or voices almost instantly.</span>
                 </span>
               </a>
@@ -4841,7 +4840,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Neural Timbre</span>
-                  <span class="ct-node-title-full">How the Brain Distinguishes Timbre Instantly | Timbre</span>
+                  <span class="ct-node-title-full">How the Brain Distinguishes Timbre Instantly</span>
                   <span class="ct-node-summary">Auditory neurons process spectral and temporal sound features to identify voices and instruments regardless of pitch.</span>
                 </span>
               </a>
@@ -4861,7 +4860,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Vocal Formants</span>
-                  <span class="ct-node-title-full">How Vocal Tract Formants Define Individual Timbre | Timbre</span>
+                  <span class="ct-node-title-full">How Vocal Tract Formants Define Individual Timbre</span>
                   <span class="ct-node-summary">Formants shaped by the human vocal tract create unique timbres that allow instant voice recognition.</span>
                 </span>
               </a>
@@ -4881,7 +4880,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Synthetic Timbre</span>
-                  <span class="ct-node-title-full">Making Synthesized Sounds Feel Human and Expressive | Timbre</span>
+                  <span class="ct-node-title-full">Making Synthesized Sounds Feel Human and Expressive</span>
                   <span class="ct-node-summary">Synthesizers mimic vocal and acoustic cues by modulating harmonics, adding noise, and shaping envelopes to sound alive.</span>
                 </span>
               </a>
@@ -4901,7 +4900,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Instrument Timbre</span>
-                  <span class="ct-node-title-full">Why Instrument Design Makes Sounds Feel Human | Timbre</span>
+                  <span class="ct-node-title-full">Why Instrument Design Makes Sounds Feel Human</span>
                   <span class="ct-node-summary">Physical construction of instruments influences harmonic content and decay, making their sound expressive and human-like.</span>
                 </span>
               </a>
@@ -4923,7 +4922,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">UK Policy</span>
-              <span class="ct-node-title-full">Can Policy Make Streaming Fairer? | Music</span>
+              <span class="ct-node-title-full">Can Policy Make Streaming Fairer?</span>
               <span class="ct-node-summary">UK inquiries and voluntary measures show how governments can pressure the music industry without fully redesigning it.</span>
             </span>
           </a>
@@ -4945,7 +4944,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Transparency</span>
-                  <span class="ct-node-title-full">Can better royalty information make streaming fairer? | UK Policy</span>
+                  <span class="ct-node-title-full">Can better royalty information make streaming fairer?</span>
                   <span class="ct-node-summary">The transparency code aims to improve royalty information, but clearer statements do not automatically change the underlying revenue split.</span>
                 </span>
               </a>
@@ -4965,7 +4964,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Metadata</span>
-                  <span class="ct-node-title-full">The tiny data errors that block music royalties | UK Policy</span>
+                  <span class="ct-node-title-full">The tiny data errors that block music royalties</span>
                   <span class="ct-node-summary">Bad metadata can stop songwriters, performers and contributors from being identified correctly, delaying or blocking the money they are owed.</span>
                 </span>
               </a>
@@ -4985,7 +4984,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">CMA study</span>
-                  <span class="ct-node-title-full">Why competition law did not solve streaming pay | UK Policy</span>
+                  <span class="ct-node-title-full">Why competition law did not solve streaming pay</span>
                   <span class="ct-node-summary">The CMA found streaming competition worked for listeners, pushing the fairness debate away from antitrust and toward copyright and contracts.</span>
                 </span>
               </a>
@@ -5005,7 +5004,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Legacy artists</span>
-                  <span class="ct-node-title-full">Why old record deals still shape streaming pay | UK Policy</span>
+                  <span class="ct-node-title-full">Why old record deals still shape streaming pay</span>
                   <span class="ct-node-summary">Older contracts can leave legacy artists with weak streaming income, making them a key test of whether voluntary label principles go far enough.</span>
                 </span>
               </a>
@@ -5025,7 +5024,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">ER debate</span>
-                  <span class="ct-node-title-full">Would equitable remuneration really fix streaming pay? | UK Policy</span>
+                  <span class="ct-node-title-full">Would equitable remuneration really fix streaming pay?</span>
                   <span class="ct-node-summary">Equitable remuneration promises a new income route for performers, but it also raises hard questions about contracts, labels and investment.</span>
                 </span>
               </a>
@@ -5047,7 +5046,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Vinyl</span>
-              <span class="ct-node-title-full">Why Vinyl Came Back In A Digital Age | Music</span>
+              <span class="ct-node-title-full">Why Vinyl Came Back In A Digital Age</span>
               <span class="ct-node-summary">Vinyl offers touch, ritual, artwork and collectability that streaming cannot replace, even though it is less convenient.</span>
             </span>
           </a>
@@ -5069,7 +5068,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Variants</span>
-                  <span class="ct-node-title-full">Are Vinyl Variants Good for Fans? | Vinyl</span>
+                  <span class="ct-node-title-full">Are Vinyl Variants Good for Fans?</span>
                   <span class="ct-node-summary">Multiple vinyl editions can drive huge sales, but they also raise questions about collecting, waste, and fan expectations.</span>
                 </span>
               </a>
@@ -5089,7 +5088,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Artwork</span>
-                  <span class="ct-node-title-full">How Album Art Became Big Again | Vinyl</span>
+                  <span class="ct-node-title-full">How Album Art Became Big Again</span>
                   <span class="ct-node-summary">Large sleeves, inserts, coloured discs, and gatefolds make albums decorative, giftable, and easier for fans to display.</span>
                 </span>
               </a>
@@ -5109,7 +5108,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Scarcity</span>
-                  <span class="ct-node-title-full">When Limited Vinyl Becomes the Event | Vinyl</span>
+                  <span class="ct-node-title-full">When Limited Vinyl Becomes the Event</span>
                   <span class="ct-node-summary">Limited editions can support independent record shops, but they also turn buying vinyl into a race for exclusive releases.</span>
                 </span>
               </a>
@@ -5129,7 +5128,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Ritual</span>
-                  <span class="ct-node-title-full">Why Playing Vinyl Slows Music Down | Vinyl</span>
+                  <span class="ct-node-title-full">Why Playing Vinyl Slows Music Down</span>
                   <span class="ct-node-summary">Playing a record adds friction, sequence, and focus, making the album feel less like background audio and more like an event.</span>
                 </span>
               </a>
@@ -5149,7 +5148,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Ownership</span>
-                  <span class="ct-node-title-full">Why Vinyl Still Feels Like Owning Music | Vinyl</span>
+                  <span class="ct-node-title-full">Why Vinyl Still Feels Like Owning Music</span>
                   <span class="ct-node-summary">Vinyl turns a favorite album into a visible possession, while streaming often leaves music feeling temporary and platform-bound.</span>
                 </span>
               </a>

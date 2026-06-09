@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-music-rights-complic/
 description: Focused pages that expand on Rights.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_music_rights_complic_6e7958
 parent_title: Rights | Music

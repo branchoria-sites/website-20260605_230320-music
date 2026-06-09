@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-silence-in-music-822765/
 description: Focused pages that expand on Silence.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_silence_in_music_822765
 parent_title: Silence | Music

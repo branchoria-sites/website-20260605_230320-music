@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-timbre-sound-texture/
 description: Focused pages that expand on Timbre.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_timbre_sound_texture_76da17
 parent_title: Timbre | Music

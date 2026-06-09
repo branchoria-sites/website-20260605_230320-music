@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-physical-music-owner/
 description: Focused pages that expand on Physical.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_physical_music_owner_d1771a
 parent_title: Physical | Music

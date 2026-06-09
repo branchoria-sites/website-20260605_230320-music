@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-music-attention-scar/
 description: Focused pages that expand on Attention.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_music_attention_scar_4f6aff
 parent_title: Attention | Music

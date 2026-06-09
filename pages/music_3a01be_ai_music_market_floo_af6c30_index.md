@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-ai-music-market-floo/
 description: Focused pages that expand on AI Flooding.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_ai_music_market_floo_af6c30
 parent_title: AI Flooding | Music

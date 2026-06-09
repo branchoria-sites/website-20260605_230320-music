@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-missing-setlists-roy/
 description: Focused pages that expand on Setlists.
-date: '2026-06-05'
+date: '2026-06-09'
 layout: default
 parent_basename: music_3a01be_missing_setlists_roy_cc2db6
 parent_title: Setlists | Music
