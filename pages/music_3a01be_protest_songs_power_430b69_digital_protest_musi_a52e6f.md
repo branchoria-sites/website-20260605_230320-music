@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90
 - music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad
 tags:
-- music
+- music-3-a01-be
 - protest-songs
 - digital-protest-music
 keywords:
-- music
+- music-3-a01-be
 - protest-songs
 - digital-protest-music
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Social media spreads songs widely, but detachment from movements can reduce collective mobilisation impact.
 hero_summary: Social media spreads songs widely, but detachment from movements can reduce collective mobilisation impact.
 layout: default
 permalink: /digital-protest-music/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /protest-songs/
 nav_short_title: Digital Protest Music
 title: How Social Media Transforms Protest Songs Online
-title_full: How Social Media Transforms Protest Songs Online | Protest Songs
+title_full: How Social Media Transforms Protest Songs Online
 display_title_short: Digital Protest Music
 display_title: Digital Protest Music
 heading_title: How Social Media Transforms Protest Songs Online
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Protest Songs Still Mobilize People | Music
+parent_title: Why Protest Songs Still Mobilize People
 parent_permalink: /protest-songs/
 parent_nav_short_title: Protest Songs
 parent_heading_title: Why Protest Songs Still Mobilize People
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Protest Songs Flatten Complex Messages
 up_link:
   basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -265,7 +265,7 @@ next_link:
   permalink: /inclusive-songs/
   short_title: Inclusive Songs
   heading_title: Who Feels Represented by Protest Music?
-date: '2026-06-09 07:01:36 '
+date: '2026-06-11 23:32:24 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1.webp
@@ -276,18 +276,14 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_mu
 
 In the digital age, the way protest music spreads and is used has changed profoundly. Online platforms like TikTok, YouTube and Twitter enable songs born of social struggle to reach millions in moments, far beyond the reach of traditional physical rallies or [grassroots]({{ 'grassroots/' | relative_url }}) distribution. This **digital dissemination transforms how protest music is encountered, shared and repurposed** — with both empowering and problematic consequences. While songs can become widely recognised symbols of resistance, they are also at risk of being detached from the movements that gave them meaning, reshaped into bite‑sized [background]({{ 'background/' | relative_url }}) sound, or appropriated in ways that erode their social and political context. Understanding this dual dynamic is essential to seeing how protest music functions in the networked era of collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Rapid Viral Sharing of Protest Songs
 
 Digital platforms accelerate the spread of [protest songs]({{ 'protest-songs/' | relative_url }}) in ways that [physical]({{ 'physical/' | relative_url }}) distribution never could. Short‑form video apps like TikTok allow users to embed protest music as background audio, remix it, or incorporate it into creative performances that can garner millions of views in days. These **viral mechanisms — sound identifiers, hashtags, duets and “stitches” — make it easy for protest sounds to circulate widely** and fluidly across networked publics. Users can attach the same audio to diverse visual content, amplifying awareness of a particular song or phrase beyond its original audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-Platforms such as YouTube serve as de facto libraries where protest recordings, mashups, lyric videos and documentary clips reside indefinitely, providing accessible archives that activists and curious audiences can explore globally. Studies of protest [music]({{ 'music/' | relative_url }}) in digital contexts (for example, work analysing music from the Gezi Park protests on YouTube) point to **digital media’s crucial role in production, distribution and consumption** — enabling aesthetic innovation and sustained visibility outside mainstream media filters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.gcu.ac.uk">[Glasgow Caledonian University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.gcu.ac.uk</span><span class="citation-popover-snippet">Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</span></span></span>
+Platforms such as YouTube serve as de facto libraries where protest recordings, mashups, lyric videos and documentary clips reside indefinitely, providing accessible archives that activists and curious audiences can explore globally. Studies of protest music in digital contexts (for example, work analysing music from the Gezi Park protests on YouTube) point to **digital media’s crucial role in production, distribution and consumption** — enabling aesthetic innovation and sustained visibility outside mainstream media filters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.gcu.ac.uk">[Glasgow Caledonian University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.gcu.ac.uk</span><span class="citation-popover-snippet">Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</span></span></span>
 
 However, this very ease of sharing introduces **rapid, decentralised dissemination** that differs from traditional organisational approaches to collective communication. Where earlier movements might have relied on coordinated release and performance of songs at marches or rallies, digital virality is shaped by algorithmic feeds and peer‑to‑peer networks, not by collective strategising. While this can expand reach, it also means that a protest song’s spread is often driven by platform mechanics as much as by its meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## Songs as Personal Expression vs Collective Tools
 
@@ -296,7 +292,6 @@ In digital spaces, protest music often functions as a resource for **connective 
 In this model, songs become **tools for affective connection**. A viral soundclip can signal belonging to a cause, create emotional resonance among scattered supporters, and sustain interest even when users cannot attend physical protests. Individual creators may lip‑sync, dance or remix protest tracks to express defiance, re‑frame their relationship to power structures, or tap into broader cultural conversations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
 Yet this shift also brings tension between **collective movement purposes and individualized expression**. Where traditional protest music was embedded in shared narratives and coordinated performance contexts, on social platforms the political content of a song can be overshadowed by personal aesthetics or entertainment value. A protest track’s appearance in a trending meme or background beat might reflect individual creativity, but it may no longer carry a clear message about the original social cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-2-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Potential Fragmentation of Movement Messaging
@@ -307,12 +302,11 @@ This detachment poses risks on two main fronts. First, it can **diminish the age
 
 Beyond direct appropriation, digital dissemination can also fragment movement messaging. Hashtag economies and algorithmic prioritisation tend to reward content that maximises engagement rather than deep contextual understanding, which means protest music may be encountered primarily through **trending behaviours**, not through critical interaction with the causes they represent. As a result, movements risk having their musical expressions absorbed into broader cultural streams where their political stakes are obscured or misread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balancing Amplification with Context
 
 The digital dissemination of protest music embodies a paradox: it vastly increases a song’s reach while often weakening its connection to collective objectives and meanings. For activists and creators, this suggests a need to **strategise how music is shared and contextualised online** — for example, coupling audio with explanatory metadata, linking to campaign goals, or using platform features to maintain narrative cohesion. Likewise, platforms themselves could explore design choices that foreground provenance and context for protest sounds, helping audiences distinguish between meaningful political expressions and generic viral content. ﹛While current research highlights both opportunities and risks, further exploration of these mechanisms will be crucial for movements seeking to harness digital protest music in ways that build, rather than fragment, collective power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
+<img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Final Considerations
 
 In an increasingly networked world, protest music’s digital life is both a **vehicle for global recognition and a terrain of contested meaning**. Online dissemination enables songs to circulate far beyond their original communities, inviting new supporters and creative interpretations. At the same time, this same openness can erode the political clarity that makes protest music a tool of collective mobilisation. Recognising and navigating this tension — between virality and context, personal expression and shared purpose — remains a central challenge for movements that rely on music to build solidarity and articulate collective demands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
@@ -713,94 +707,94 @@ In an increasingly networked world, protest music’s digital life is both a **v
 
 1. <a id="endnote-1"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20563051221094769](https://journals.sagepub.com/doi/10.1177/20563051221094769)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchonline.gcu.ac.uk  
-   Link: [https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo](https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo)  
+   Link: <a href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
    Title: How Social Media Changed Protest Music  
-   Link: [https://www.youtube.com/watch?v=0kI_Hl3sS-k](https://www.youtube.com/watch?v=0kI_Hl3sS-k)  
+   Link: <a href="https://www.youtube.com/watch?v=0kI_Hl3sS-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0kI_Hl3sS-k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Viral Music on Social Movements...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Impact of Viral Music on Social Movements  
-   Link: [https://www.youtube.com/watch?v=H7-tY9X8K94](https://www.youtube.com/watch?v=H7-tY9X8K94)  
+   Link: <a href="https://www.youtube.com/watch?v=H7-tY9X8K94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H7-tY9X8K94</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Media and the Evolution of Protest Anthems...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Digital Media and the Evolution of Protest Anthems  
-   Link: [https://www.youtube.com/watch?v=i8_66l6i8yY](https://www.youtube.com/watch?v=i8_66l6i8yY)  
+   Link: <a href="https://www.youtube.com/watch?v=i8_66l6i8yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8_66l6i8yY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithms Shape Protest Songs and Activism...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: How Algorithms Shape Protest Songs and Activism  
-   Link: [https://www.youtube.com/watch?v=kYJjZ35O8y4](https://www.youtube.com/watch?v=kYJjZ35O8y4)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJjZ35O8y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJjZ35O8y4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ethics of Appropriating Protest Music Online...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Ethics of Appropriating Protest Music Online  
-   Link: [https://www.youtube.com/watch?v=680_Q5wB1i0](https://www.youtube.com/watch?v=680_Q5wB1i0)  
+   Link: <a href="https://www.youtube.com/watch?v=680_Q5wB1i0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=680_Q5wB1i0</a>  
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader](https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader)  
+   Link: <a href="https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJune 17, 2022 — ONLINE MUSICKING FOR HUMANITY: THE ROLE OF IMAGINED LISTENING AND THE MORAL ECONOMIES OF MUSIC SHARING ON S...</p></details>
    Published: June 17, 2022  
 
 9. <a id="endnote-9"></a>
    Source: hira.hope.ac.uk  
-   Link: [https://hira.hope.ac.uk/id/eprint/2166/](https://hira.hope.ac.uk/id/eprint/2166/)  
+   Link: <a href="https://hira.hope.ac.uk/id/eprint/2166/" target="_blank" rel="noopener noreferrer nofollow">https://hira.hope.ac.uk/id/eprint/2166/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>music, populism, politics and authenticity: the limits and potential of popular music&#x27;s articulation of subversive politics - Hope&#x27;s Inst...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchportal.lsbu.ac.uk  
-   Link: [https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/](https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/)  
+   Link: <a href="https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicking on Social Media: Music Sharing, Sociality and Citizenship - London South Bank UniversityNovember 11, 2019 — UNDERSTANDING MUSIC...</p></details>
    Published: November 11, 2019  
 
 11. <a id="endnote-11"></a>
    Source: benjamins.com  
-   Link: [https://benjamins.com/catalog/jlp.15.4.03way](https://benjamins.com/catalog/jlp.15.4.03way)  
+   Link: <a href="https://benjamins.com/catalog/jlp.15.4.03way" target="_blank" rel="noopener noreferrer nofollow">https://benjamins.com/catalog/jlp.15.4.03way</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15:4 (2016) ► pp.422–445 PROTEST MUSIC, POPULISM, POLITICS AND AUTHENTICITY THE LIMITS AND POTENTIAL OF POPULAR MUSIC’S ARTICULATION OF...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchwith.montclair.edu  
    Title: retweeting in the service of protest digital composition and circ  
-   Link: [https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ](https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ)  
+   Link: <a href="https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ" target="_blank" rel="noopener noreferrer nofollow">https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>montclair.edu(Re)Tweeting in the service of protest: Digital composition and circulation in the Occupy Wall Street movement - Montclair S...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: colab.ws  
    Title: Defiant Amplification or Decontextualized Commercialization?  
-   Link: [https://colab.ws/articles/10.1177%2F20563051221094769](https://colab.ws/articles/10.1177%2F20563051221094769)  
+   Link: <a href="https://colab.ws/articles/10.1177%2F20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1177%2F20563051221094769</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements | CoLabApril 29, 2022 — Social Media and Society, volume 8, issue 2, pages 205630512210947...</p></details>
    Published: April 29, 2022  
 
 15. <a id="endnote-15"></a>
    Source: doaj.org  
    Title: Defiant Amplification or Decontextualized Commercialization?  
-   Link: [https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda](https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda)  
+   Link: <a href="https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements – DOAJSocial Media + Society (Apr 2022) DEFIANT AMPLIFICATION OR DECONTEXTUALIZED COMMERCIALI...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scilove.app  
    Title: Defiant Amplification or Decontextualized Commercialization?  
-   Link: [https://www.scilove.app/article/10.1177/20563051221094769](https://www.scilove.app/article/10.1177/20563051221094769)  
+   Link: <a href="https://www.scilove.app/article/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://www.scilove.app/article/10.1177/20563051221094769</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements (Sadler, 2022) — SciLoveSocial Media and Society 2022 DEFIANT AMPLIFICATION OR DECONTEXTUALIZ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ecpr.eu  
    Title: ‘Who’ll Stop the Rain’?  
-   Link: [https://ecpr.eu/Events/Event/PaperDetails/33043](https://ecpr.eu/Events/Event/PaperDetails/33043)  
+   Link: <a href="https://ecpr.eu/Events/Event/PaperDetails/33043" target="_blank" rel="noopener noreferrer nofollow">https://ecpr.eu/Events/Event/PaperDetails/33043</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dissemination and Regulation of Protest Songs Online‘WHO’LL STOP THE RAIN’? THE DISSEMINATION AND REGULATION OF PROTEST SONGS ONLINE...</p></details>

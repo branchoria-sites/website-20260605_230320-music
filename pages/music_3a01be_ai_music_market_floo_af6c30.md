@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - ai-flooding
 keywords:
-- music
+- music-3-a01-be
 - ai-flooding
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Generative AI could increase the supply of cheap tracks, making discovery, payment and human creative value harder to protect.
 hero_summary: Generative AI could increase the supply of cheap tracks, making discovery, payment and human creative value harder to protect.
 layout: default
 permalink: /ai-flooding/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: AI Flooding
 title: Could AI Flood The Music Market?
-title_full: Could AI Flood The Music Market? | Music
+title_full: Could AI Flood The Music Market?
 display_title_short: AI Flooding
 display_title: AI Flooding
 heading_title: Could AI Flood The Music Market?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 next_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
-date: '2026-06-09 06:15:57 '
+date: '2026-06-11 23:08:37 '
 header:
   og_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30-overview-social.jpg
   preview_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30-overview.webp
@@ -503,18 +503,16 @@ image: /assets/images/music_3a01be_ai_music_market_floo_af6c30-overview-social.j
 
 AI music raises market flooding fears because it changes the economics of supply. A human-made recording usually takes time, skill, coordination and money to write, perform, produce, mix, master and release. Generative AI can produce large numbers of acceptable-sounding tracks quickly and cheaply, especially in genres where listeners are using music as [background]({{ 'background/' | relative_url }}), mood-setting or playlist filler. That does not mean every AI track is worthless, or that human musicians cannot use AI creatively. The fear is more specific: when platforms are paid by [attention]({{ 'attention/' | relative_url }}) and catalogues are already crowded, a surge of cheap synthetic music can make discovery harder, dilute royalty pools, invite fraud and weaken listener trust in whether an artist, voice or backstory is real.
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-overview.webp" | relative_url }}" alt="Overview image for AI Flooding" loading="eager" decoding="sync" fetchpriority="high">
 The clearest warning sign is volume. Deezer said in April 2026 that it was receiving almost 75,000 fully AI-generated tracks per day, roughly 44% of daily uploads, amounting to more than 2 million AI tracks per month. Deezer also said these tracks represented only 1–3% of total streams on its platform, but that 85% of streams on fully AI-generated tracks were detected as fraudulent and demonetised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why cheap generation changes the supply problem
 
-The [music]({{ 'music/' | relative_url }}) market has always had more songs than any one listener could hear. What AI changes is the cost curve. A creator, spammer, agency or anonymous operator can generate multiple tracks in the time it would once have taken to record a demo. The result is not simply “more music”; it is a different kind of supply, optimised for speed, quantity and surface-level adequacy.
+The music market has always had more songs than any one listener could hear. What AI changes is the cost curve. A creator, spammer, agency or anonymous operator can generate multiple tracks in the time it would once have taken to record a demo. The result is not simply “more music”; it is a different kind of supply, optimised for speed, quantity and surface-level adequacy.
 
 That matters because streaming platforms sort music through recommendation systems, playlists, metadata, user behaviour and [catalogue]({{ 'catalogue/' | relative_url }}) ingestion pipelines. A platform can hold millions of tracks, but listener attention remains scarce. When low-cost tracks multiply, the bottleneck moves from production to filtering: which songs get indexed properly, recommended, paid, removed, labelled or trusted?
 
 The strongest flooding fears come from three connected mechanisms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -525,7 +523,6 @@ The strongest flooding fears come from three connected mechanisms:
 </div>
 
 This is why market flooding is not just a taste argument. It is a platform-design problem. A million extra tracks do not harm the market merely by existing; they become disruptive when they are difficult to label, cheap to mass-upload, easy to manipulate and financially eligible under the same systems as human-made music.
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-1-dark.svg" | relative_url }}" alt="AI Flooding illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Low-cost tracks can crowd the middle of the catalogue
@@ -544,10 +541,9 @@ Streaming services do not usually pay per uploaded track. They pay when tracks a
 
 Spotify’s own artist guidance defines artificial streaming as listening that does not reflect genuine user intent, including manipulation through bots or scripts, and warns that undetected artificial streams dilute the royalty pool by shifting revenue from legitimate artists to bad actors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Artificial Streaming – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Artificial Streaming – Spotify for Artists</span></span></span>
 
-The Michael Smith case shows how this can move from theoretical risk to criminal fraud. In March 2026, the U.S. Attorney’s Office for the Southern District of New York announced that Smith had pleaded guilty after creating hundreds of thousands of AI-generated songs and using bots to stream them billions of times, mimicking genuine consumer activity in order to obtain royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Michael Smith case shows how this can move from theoretical risk to criminal fraud. In March 2026, the U.S. Attorney’s Office for the Southern District of New York announced that Smith had pleaded guilty after creating hundreds of thousands of AI-generated songs and using bots to stream them billions of times, mimicking genuine consumer activity in order to obtain [royalties]({{ 'royalties/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That case is important because it shows why “AI flooding” is not just about mediocre songs appearing in search results. It can combine three scalable systems: automated music generation, automated account creation and automated listening. Each part amplifies the others. The more tracks a fraudster can generate, the easier it is to spread streams thinly enough to look less suspicious; the more fake listening can be distributed, the more royalty extraction can be hidden among ordinary platform traffic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j7G3RUplSjU" title="Lawyer Reacts To MASSIVE $10 Million Streaming Scam: AI-Generated Songs Exposed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j7G3RUplSjU" target="_blank" rel="noopener noreferrer">Lawyer Reacts To MASSIVE $10 Million Streaming Scam: AI-Generated Songs Exposed</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 11.9K &middot; Uploaded: September 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j7G3RUplSjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j7G3RUplSjU">Open on YouTube</a></p></div></div></div>
 
@@ -571,7 +567,6 @@ For human creators, the flooding fear is therefore double-edged. First, AI music
 
 That is why many musicians object less to “technology” in the abstract than to an industrial pattern: scrape creative work, build a generator, flood the market with substitutes, then ask the original creators to compete against the machine.
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-2-dark.svg" | relative_url }}" alt="AI Flooding illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Listener trust becomes harder to protect
 
@@ -582,7 +577,6 @@ A Deezer-Ipsos survey reported by Reuters in November 2025 found that 97% of lis
 The Velvet Sundown became a vivid example of this anxiety. Reuters reported that the AI band attracted one million monthly Spotify listeners before its synthetic origins were exposed. The issue was not just that listeners heard AI-generated music; it was that the project blurred music, image and identity in ways that made ordinary fan judgement less reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 That distinction is crucial. Some listeners may happily choose AI music when it is labelled, especially for background use. The trust problem arises when AI music enters the market disguised as a human act, mimics an existing artist, or uses a fictional backstory to capture attention that listeners thought they were giving to real people.
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-3-dark.svg" | relative_url }}" alt="AI Flooding illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why platforms are splitting into different policy camps
@@ -595,7 +589,6 @@ Spotify’s approach, by contrast, has focused more on impersonation, spam filte
 
 The unresolved question is whether labelling and filtering will be enough. If AI music remains a small share of actual listening, platforms may be able to contain the risk. If upload volumes keep rising and synthetic tracks become harder to detect, the cost of policing catalogues may rise sharply.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X690ZObNf_w" title="Velvet Sundown, or, How Scared Should We Be of AI Music?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X690ZObNf_w" target="_blank" rel="noopener noreferrer">Velvet Sundown, or, How Scared Should We Be of AI Music?</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 5.1K &middot; Uploaded: July 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X690ZObNf_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X690ZObNf_w">Open on YouTube</a></p></div></div></div>
 
 ## The real fear is a worse music market, not simply more music
@@ -606,9 +599,7 @@ The harm would not be evenly distributed. Major artists with loyal fanbases, tou
 
 That is why the debate over AI flooding is ultimately about market design. The key choices are not whether AI music can exist, but whether platforms require disclosure, whether synthetic tracks are eligible for the same recommendations and payouts, whether training is licensed, whether impersonation is quickly removed, and whether fraud systems can keep up with industrial-scale generation. Without those safeguards, the fear is not a future with too many songs. It is a future in which cheap synthetic abundance makes human musical value harder to find, fund and trust.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S-3_EG4CXl0" title="AI Is Taking Over The Music Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S-3_EG4CXl0" target="_blank" rel="noopener noreferrer">AI Is Taking Over The Music Industry</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 27.4K &middot; Uploaded: January 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S-3_EG4CXl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S-3_EG4CXl0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1006,149 +997,149 @@ That is why the debate over AI flooding is ultimately about market design. The k
 
 1. <a id="endnote-1"></a>
    Source: cisac.org  
-   Link: [https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai](https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai)  
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai</a>  
 
 2. <a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: for Artists Artificial Streaming – Spotify for Artists  
-   Link: [https://artists.spotify.com/en/artificial-streaming](https://artists.spotify.com/en/artificial-streaming)  
+   Link: <a href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/artificial-streaming</a>  
 
 3. <a id="endnote-3"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0](https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0)  
+   Link: <a href="https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0</a>  
 
 4. <a id="endnote-4"></a>
    Source: newsroom.spotify.com  
    Title: Strengthens AI Protections for Artists, Songwriters, and Producers — Spotify  
-   Link: [https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/](https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/)  
+   Link: <a href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/](https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12/](https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/are-you-listening-bots-survey-shows-ai-music-is-virtually-undetectable-2025-11-12/</a>  
 
 7. <a id="endnote-7"></a>
    Source: blog.bandcamp.com  
    Title: Updates Bandcamp’s Mission and Our Approach to Generative AI  
-   Link: [https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/)  
+   Link: <a href="https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/" target="_blank" rel="noopener noreferrer nofollow">https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/</a>  
 
 8. <a id="endnote-8"></a>
    Source: support.spotify.com  
    Title: third party services that guarantee streams  
-   Link: [https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/](https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/</a>  
 
 9. <a id="endnote-9"></a>
    Source: cisac.org  
-   Link: [https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study](https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study)  
+   Link: <a href="https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study</a>  
 
 10. <a id="endnote-10"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)  
+   Link: <a href="https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence</a>  
 
 11. <a id="endnote-11"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/usao-sdny/media/1366241/dl](https://www.justice.gov/usao-sdny/media/1366241/dl)  
+   Link: <a href="https://www.justice.gov/usao-sdny/media/1366241/dl" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao-sdny/media/1366241/dl</a>  
 
 12. <a id="endnote-12"></a>
    Source: get.bandcamp.help  
-   Link: [https://get.bandcamp.help/en/articles/15263124-bandcamp-s-acceptable-use-and-moderation-policy](https://get.bandcamp.help/en/articles/15263124-bandcamp-s-acceptable-use-and-moderation-policy)  
+   Link: <a href="https://get.bandcamp.help/en/articles/15263124-bandcamp-s-acceptable-use-and-moderation-policy" target="_blank" rel="noopener noreferrer nofollow">https://get.bandcamp.help/en/articles/15263124-bandcamp-s-acceptable-use-and-moderation-policy</a>  
 
 13. <a id="endnote-13"></a>
    Source: newsroom-deezer.com  
-   Link: [https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/](https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/)  
+   Link: <a href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MixmagMagazine/posts/spotify-has-announced-a-crackdown-on-ai-revealing-it-has-removed-75-million-spam/1213225667514090/](https://www.facebook.com/MixmagMagazine/posts/spotify-has-announced-a-crackdown-on-ai-revealing-it-has-removed-75-million-spam/1213225667514090/)  
+   Link: <a href="https://www.facebook.com/MixmagMagazine/posts/spotify-has-announced-a-crackdown-on-ai-revealing-it-has-removed-75-million-spam/1213225667514090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MixmagMagazine/posts/spotify-has-announced-a-crackdown-on-ai-revealing-it-has-removed-75-million-spam/1213225667514090/</a>  
 
 15. <a id="endnote-15"></a>
    Source: consequence.net  
    Title: spotify ai protections  
-   Link: [https://consequence.net/2025/09/spotify-ai-protections/](https://consequence.net/2025/09/spotify-ai-protections/)  
+   Link: <a href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://consequence.net/2025/09/spotify-ai-protections/</a>  
 
 16. <a id="endnote-16"></a>
    Source: apraamcos.com.au  
    Title: cisac ai report  
-   Link: [https://www.apraamcos.com.au/about-us/news-and-events/cisac-ai-report](https://www.apraamcos.com.au/about-us/news-and-events/cisac-ai-report)  
+   Link: <a href="https://www.apraamcos.com.au/about-us/news-and-events/cisac-ai-report" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/cisac-ai-report</a>  
 
 17. <a id="endnote-17"></a>
    Source: prsformusic.com  
    Title: cisac generative ai study music creators future at risk  
-   Link: [https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk](https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk</a>  
 
 18. <a id="endnote-18"></a>
    Source: imusician.pro  
    Title: spotify ai policy in 2025 artist protection transparency  
-   Link: [https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency](https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency)  
+   Link: <a href="https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency</a>  
 
 19. <a id="endnote-19"></a>
    Source: forbes.com  
    Title: spotify tightens ai policy and trims catalog  
-   Link: [https://www.forbes.com/sites/billrosenblatt/2025/09/26/spotify-tightens-ai-policy-and-trims-catalog/](https://www.forbes.com/sites/billrosenblatt/2025/09/26/spotify-tightens-ai-policy-and-trims-catalog/)  
+   Link: <a href="https://www.forbes.com/sites/billrosenblatt/2025/09/26/spotify-tightens-ai-policy-and-trims-catalog/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/billrosenblatt/2025/09/26/spotify-tightens-ai-policy-and-trims-catalog/</a>  
 
 20. <a id="endnote-20"></a>
    Source: entertainment.slashdot.org  
    Title: spotify announces new ai safeguards says its removed 75 million spammy tracks  
-   Link: [https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks](https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks)  
+   Link: <a href="https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks" target="_blank" rel="noopener noreferrer nofollow">https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks</a>  
 
 21. <a id="endnote-21"></a>
    Source: socanmagazine.ca  
    Title: cisac releases study of ais economic impact on music and screen media  
-   Link: [https://www.socanmagazine.ca/news/cisac-releases-study-of-ais-economic-impact-on-music-and-screen-media/](https://www.socanmagazine.ca/news/cisac-releases-study-of-ais-economic-impact-on-music-and-screen-media/)  
+   Link: <a href="https://www.socanmagazine.ca/news/cisac-releases-study-of-ais-economic-impact-on-music-and-screen-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.socanmagazine.ca/news/cisac-releases-study-of-ais-economic-impact-on-music-and-screen-media/</a>  
 
 22. <a id="endnote-22"></a>
    Source: theverge.com  
    Title: spotify ai slop impersonation disclosure  
-   Link: [https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure)  
+   Link: <a href="https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure</a>  
 
 23. <a id="endnote-23"></a>
    Source: musiccreatorsna.org  
    Title: cisac genai study 2024  
-   Link: [https://www.musiccreatorsna.org/cisac-genai-study-2024/](https://www.musiccreatorsna.org/cisac-genai-study-2024/)  
+   Link: <a href="https://www.musiccreatorsna.org/cisac-genai-study-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.musiccreatorsna.org/cisac-genai-study-2024/</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: AI music and the battle for royalties  
-   Link: [https://www.youtube.com/watch?v=G3cZq0k8wT0](https://www.youtube.com/watch?v=G3cZq0k8wT0)  
+   Link: <a href="https://www.youtube.com/watch?v=G3cZq0k8wT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3cZq0k8wT0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how the low cost and high volume of AI-generated content overwhelm streaming platforms, creating discovery congestio...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DZCLxGljpQ9/?img_index=2](https://www.instagram.com/p/DZCLxGljpQ9/?img_index=2)  
+   Link: <a href="https://www.instagram.com/p/DZCLxGljpQ9/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZCLxGljpQ9/?img_index=2</a>  
 
 26. <a id="endnote-26"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/](https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/</a>  
 
 27. <a id="endnote-27"></a>
    Source: goldmedia.com  
-   Link: [https://www.goldmedia.com/fileadmin/goldmedia/Studie/2023/GEMA-SACEM_AI-and-Music/AI_and_Music_GEMA_SACEM_Goldmedia.pdf](https://www.goldmedia.com/fileadmin/goldmedia/Studie/2023/GEMA-SACEM_AI-and-Music/AI_and_Music_GEMA_SACEM_Goldmedia.pdf)  
+   Link: <a href="https://www.goldmedia.com/fileadmin/goldmedia/Studie/2023/GEMA-SACEM_AI-and-Music/AI_and_Music_GEMA_SACEM_Goldmedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.goldmedia.com/fileadmin/goldmedia/Studie/2023/GEMA-SACEM_AI-and-Music/AI_and_Music_GEMA_SACEM_Goldmedia.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/](https://www.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)  
+   Link: <a href="https://www.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/uchicago/posts/ai-music-is-flooding-streaming-platformsaccounting-for-about-half-of-all-new-son/1405448544947773/](https://www.facebook.com/uchicago/posts/ai-music-is-flooding-streaming-platformsaccounting-for-about-half-of-all-new-son/1405448544947773/)  
+   Link: <a href="https://www.facebook.com/uchicago/posts/ai-music-is-flooding-streaming-platformsaccounting-for-about-half-of-all-new-son/1405448544947773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uchicago/posts/ai-music-is-flooding-streaming-platformsaccounting-for-about-half-of-all-new-son/1405448544947773/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/indieheads/comments/1lmwgff/aigenerated_psychrock_band_the_velvet_sundown/](https://www.reddit.com/r/indieheads/comments/1lmwgff/aigenerated_psychrock_band_the_velvet_sundown/)  
+   Link: <a href="https://www.reddit.com/r/indieheads/comments/1lmwgff/aigenerated_psychrock_band_the_velvet_sundown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/1lmwgff/aigenerated_psychrock_band_the_velvet_sundown/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2703779406444247/posts/3494933250662188/](https://www.facebook.com/groups/2703779406444247/posts/3494933250662188/)  
+   Link: <a href="https://www.facebook.com/groups/2703779406444247/posts/3494933250662188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2703779406444247/posts/3494933250662188/</a>  
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYsg9cSlpdP/](https://www.instagram.com/p/DYsg9cSlpdP/)  
+   Link: <a href="https://www.instagram.com/p/DYsg9cSlpdP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYsg9cSlpdP/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/djmagazine/posts/a-new-report-shared-by-deezer-has-revealed-that-28-of-music-uploaded-to-the-plat/1327629069031267/](https://www.facebook.com/djmagazine/posts/a-new-report-shared-by-deezer-has-revealed-that-28-of-music-uploaded-to-the-plat/1327629069031267/)  
+   Link: <a href="https://www.facebook.com/djmagazine/posts/a-new-report-shared-by-deezer-has-revealed-that-28-of-music-uploaded-to-the-plat/1327629069031267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/djmagazine/posts/a-new-report-shared-by-deezer-has-revealed-that-28-of-music-uploaded-to-the-plat/1327629069031267/</a>

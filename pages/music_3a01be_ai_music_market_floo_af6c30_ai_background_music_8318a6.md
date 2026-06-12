@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_music_market_floo_af6c30_deezer_ai_upload_sur_c5e003
 - music_3a01be_ai_music_market_floo_af6c30_suno_udio_substituti_3ed676
 tags:
-- music
+- music-3-a01-be
 - ai-flooding
 - middle-market
 keywords:
-- music
+- music-3-a01-be
 - ai-flooding
 - middle-market
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: AI threatens the parts of music where listeners mainly want affordable, usable sound rather than a named artist.
 hero_summary: AI threatens the parts of music where listeners mainly want affordable, usable sound rather than a named artist.
 layout: default
 permalink: /middle-market/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-flooding/
 nav_short_title: Middle market
 title: Where AI Music Hits Working Musicians First
-title_full: Where AI Music Hits Working Musicians First | AI Flooding
+title_full: Where AI Music Hits Working Musicians First
 display_title_short: Middle market
 display_title: Middle market
 heading_title: Where AI Music Hits Working Musicians First
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could AI Flood The Music Market? | Music
+parent_title: Could AI Flood The Music Market?
 parent_permalink: /ai-flooding/
 parent_nav_short_title: AI Flooding
 parent_heading_title: Could AI Flood The Music Market?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why AI Music Lawsuits Matter for Flooding
 up_link:
   basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
@@ -265,7 +265,7 @@ next_link:
   permalink: /platform-rules/
   short_title: Platform rules
   heading_title: Can Platforms Police AI Music Floods?
-date: '2026-06-09 06:49:33 '
+date: '2026-06-11 23:26:06 '
 header:
   og_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-1.webp
@@ -276,20 +276,19 @@ image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_mus
 
 The most immediate economic threat from AI music is not necessarily to global superstars. It is to the large group of working musicians whose income comes from functional music: production libraries, corporate videos, advertising cues, podcast beds, ambient playlists, low-budget media projects and modest [catalogue]({{ 'catalogue/' | relative_url }}) [royalties]({{ 'royalties/' | relative_url }}). In these markets, buyers often want music that is affordable, quick to obtain and fit for purpose rather than music associated with a particular artist identity.
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-1-dark.svg" | relative_url }}" alt="Middle market illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because generative AI excels at producing [music]({{ 'music/' | relative_url }}) that fulfils a brief. It can generate mood-based instrumentals, [background]({{ 'background/' | relative_url }}) textures and genre imitations at a scale that would have been impossible for human composers alone. Industry studies increasingly identify music libraries and background-use sectors as especially exposed to substitution, with one major forecast suggesting AI-generated music could account for roughly 60% of music library revenues by 2028 if current trends continue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-snippet">CISACCISAC/PMP Strategy AI StudyKey findings of the study: Music · Gen AI outputs in Music will be worth a cumulative €40Bn over the next...</span></span></span>
+That distinction matters because generative AI excels at producing music that fulfils a brief. It can generate mood-based instrumentals, [background]({{ 'background/' | relative_url }}) textures and genre imitations at a scale that would have been impossible for human composers alone. Industry studies increasingly identify music libraries and background-use sectors as especially exposed to substitution, with one major forecast suggesting AI-generated music could account for roughly 60% of music library revenues by 2028 if current trends continue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-snippet">CISAC/PMP Strategy AI StudyKey findings of the study: Music · Gen AI outputs in Music will be worth a cumulative €40Bn over the next...</span></span></span>
 
 ## Why Background Genres Are Easier to Substitute
 
 Not all music is valued in the same way. A fan attending a concert by a favourite artist is buying more than sound. They are responding to personality, reputation, community, performance and emotional attachment.
 
-[Background music]({{ 'background/' | relative_url }}) often serves a different purpose. It may be used to:
+Background music often serves a different purpose. It may be used to:
 
+* Fill [silence]({{ 'silence/' | relative_url }}) in a retail environment.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Fill silence in a retail environment.
 * Support a corporate presentation.
 * Accompany a YouTube video.
 * Provide focus or relaxation.
@@ -299,10 +298,9 @@ Not all music is valued in the same way. A fan attending a concert by a favourit
 
 In these situations, the listener frequently pays little [attention]({{ 'attention/' | relative_url }}) to authorship. The music's job is functional rather than expressive. If a track creates the desired atmosphere, the buyer may not care whether it came from a composer, a production library or an AI system.
 
-This is where AI's economics become significant. Generative systems can create thousands of variations of “uplifting corporate”, “cinematic tension”, “lo-fi focus”, “meditation ambience” or “acoustic background” tracks quickly and cheaply. As supply expands, the bargaining power of composers who previously specialised in those areas can weaken because clients gain access to abundant substitutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popakademie.de/media/?download=&amp;file=978_241021-ki-whitepaper-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popakademie.de">[popakademie.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popakademie.de</span><span class="citation-popover-snippet">Generative AI in the Music BusinessAI and Music Production describes how current models for music generation work, groups them into a new...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000606361/From_Bits_to_Hits%3A_The_advance_of_AI_in_music_prod.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dbresearch.com">[Deutsche Bank Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dbresearch.com</span><span class="citation-popover-title">From Bits to Hits: The advance of AI in music prod</span><span class="citation-popover-snippet">Deutsche Bank ResearchFrom Bits to Hits: The advance of AI in music production20 Oct 2025 — AIrtists producing good-quality, commercially...</span></span></span>
+This is where AI's economics become significant. Generative systems can create thousands of variations of “uplifting corporate”, “cinematic tension”, “lo-fi focus”, “meditation ambience” or “acoustic background” tracks quickly and cheaply. As supply expands, the bargaining power of composers who previously specialised in those areas can weaken because clients gain [access]({{ 'access/' | relative_url }}) to abundant substitutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popakademie.de/media/?download=&amp;file=978_241021-ki-whitepaper-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popakademie.de">[popakademie.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popakademie.de</span><span class="citation-popover-snippet">Generative AI in the Music BusinessAI and Music Production describes how current models for music generation work, groups them into a new...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000606361/From_Bits_to_Hits%3A_The_advance_of_AI_in_music_prod.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dbresearch.com">[Deutsche Bank Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dbresearch.com</span><span class="citation-popover-title">From Bits to Hits: The advance of AI in music prod</span><span class="citation-popover-snippet">Deutsche Bank ResearchFrom Bits to Hits: The advance of AI in music production20 Oct 2025 — AIrtists producing good-quality, commercially...</span></span></span>
 
 The concern is therefore less about AI replacing every musical role and more about AI competing most effectively where music is already treated as a utility.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0g06zPgwuKs" title="How AI and TikTok Are Breaking the Music Industry - Rick Beato" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0g06zPgwuKs" target="_blank" rel="noopener noreferrer">How AI and TikTok Are Breaking the Music Industry - Rick Beato</a></p><p class="youtube-embed-meta">Channel: Chris Williamson &middot; Views: 367.8K &middot; Uploaded: July 2025 &middot; Length: 2 hours 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0g06zPgwuKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0g06zPgwuKs">Open on YouTube</a></p></div></div></div>
 
@@ -312,9 +310,9 @@ Many professional musicians do not earn most of their money from hit records. Ca
 
 ### The Importance of Production Libraries
 
-Production music libraries license pre-made tracks for television, advertising, online video, games and corporate media. For thousands of composers, these catalogues provide recurring income through licensing fees and performance royalties.
+Production music libraries license pre-made tracks for television, advertising, online video, games and corporate media. For thousands of composers, these catalogues provide recurring income through [licensing]({{ 'licensing/' | relative_url }}) fees and performance royalties.
 
-The vulnerability of this sector is reflected in economic forecasts commissioned by CISAC, the international confederation of authors' societies. Its 2024 study projected that AI-generated music could capture around 60% of music-library revenues by 2028 while placing a significant share of creators' overall music income at risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">global economic study shows human creators future risk generative ai</span><span class="citation-popover-snippet">CISACGlobal economic study shows human creators&#x27; future at risk...2 Dec 2024 — Revenues at risk of loss for creators by 2028: 24% in mus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-snippet">CISACCISAC/PMP Strategy AI StudyKey findings of the study: Music · Gen AI outputs in Music will be worth a cumulative €40Bn over the next...</span></span></span>
+The vulnerability of this sector is reflected in economic forecasts commissioned by CISAC, the international confederation of authors' societies. Its 2024 study projected that AI-generated music could capture around 60% of music-library revenues by 2028 while placing a significant share of creators' overall music income at risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">global economic study shows human creators future risk generative ai</span><span class="citation-popover-snippet">Global economic study shows human creators&#x27; future at risk...2 Dec 2024 — Revenues at risk of loss for creators by 2028: 24% in mus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-snippet">CISAC/PMP Strategy AI StudyKey findings of the study: Music · Gen AI outputs in Music will be worth a cumulative €40Bn over the next...</span></span></span>
 
 The risk is not simply that a single AI track replaces a single composer. Instead, buyers may increasingly choose automated systems capable of generating endless bespoke cues rather than licensing tracks from human-created catalogues.
 
@@ -324,8 +322,7 @@ A similar pressure can emerge in lower-budget commissioned work.
 
 Historically, a small business, independent creator or agency might hire a composer to produce a short instrumental piece. AI tools now allow non-specialists to generate rough alternatives themselves. Even when the final result still requires human refinement, the amount of paid work available can shrink if clients commission fewer original compositions.
 
-Musicians discussing industry changes frequently identify session-style and utility-focused work as particularly exposed because clients in these segments often prioritise speed and cost over artistic reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/musicindustry/comments/1kwkm0c/whats_the_future_of_the_music_industry_after_ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWhat&#x27;s the future of the music industry after AI?AI tools will definitely replace sample libraries and normal VST plugins (virtual...</span></span></span>
-
+Musicians discussing industry changes frequently identify session-style and utility-focused work as particularly exposed because clients in these segments often prioritise speed and cost over artistic reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/musicindustry/comments/1kwkm0c/whats_the_future_of_the_music_industry_after_ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What&#x27;s the future of the music industry after AI?AI tools will definitely replace sample libraries and normal VST plugins (virtual...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-2-dark.svg" | relative_url }}" alt="Middle market illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Value of Small Royalty Streams
@@ -340,8 +337,7 @@ One reason the middle market attracts attention is that AI can affect economics 
 
 Streaming platforms already manage enormous catalogues. The challenge is increasingly one of discovery rather than storage. When AI dramatically increases the number of available tracks, the competition for playlist slots, search results and recommendation-system exposure intensifies.
 
-Deezer reported in April 2026 that it was receiving nearly 75,000 fully AI-generated tracks per day, representing about 44% of daily uploads. Yet those tracks accounted for only a small share of listening activity. The significance of the figure is not that listeners suddenly abandoned human music. It is that platform infrastructure must now process a vastly larger volume of content competing for attention. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch For working musicians]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">deezer says 44 of songs uploaded to its platform daily are ai generated</span><span class="citation-popover-snippet">TechCrunchDeezer says 44% of songs uploaded to its platform daily...20 Apr 2026 — Deezer announced on Monday that AI-generated tracks no...</span></span></span>, this creates a practical concern. A composer does not need to lose every listener to suffer economically. Losing visibility, licensing opportunities or recommendation-system exposure can be enough to reduce income.
-
+Deezer reported in April 2026 that it was receiving nearly 75,000 fully AI-generated tracks per day, representing about 44% of daily uploads. Yet those tracks accounted for only a small share of listening activity. The significance of the figure is not that listeners suddenly abandoned human music. It is that platform infrastructure must now process a vastly larger volume of content competing for attention. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch For working musicians]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">deezer says 44 of songs uploaded to its platform daily are ai generated</span><span class="citation-popover-snippet">Deezer says 44% of songs uploaded to its platform daily...20 Apr 2026 — Deezer announced on Monday that AI-generated tracks no...</span></span></span>, this creates a practical concern. A composer does not need to lose every listener to suffer economically. Losing visibility, licensing opportunities or recommendation-system exposure can be enough to reduce income.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jHrkQ928VNI" title="Will AI Generated Music Take Over The Music Industry? | Rick Beato" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jHrkQ928VNI" target="_blank" rel="noopener noreferrer">Will AI Generated Music Take Over The Music Industry? | Rick Beato</a></p><p class="youtube-embed-meta">Channel: Chris Williamson &middot; Views: 266.1K &middot; Uploaded: July 2025 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jHrkQ928VNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jHrkQ928VNI">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +346,6 @@ Deezer reported in April 2026 that it was receiving nearly 75,000 fully AI-gener
 The vulnerability of background music markets should not be confused with the challenges facing artist-centred careers.
 
 Artists who build dedicated audiences possess advantages that are difficult to automate:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -367,7 +362,6 @@ An AI-generated ambient track and a human-generated ambient track may be interch
 
 This does not mean artist-led careers are immune. AI can still contribute to discovery problems, imitation concerns and royalty disputes. However, the economic mechanism differs. In fan-driven markets, the value often resides in the creator as much as the recording. In background and library markets, value is more likely to reside in the recording's function. That makes substitution easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI is blowing up music</span><span class="citation-popover-snippet">How should the Grammys handle it?June 1, 2026 — In a far-reaching interview with Harvey Mason Jr., CEO of the Recording Academy, he addre...</span><span class="citation-popover-meta">Published: June 1, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-3-dark.svg" | relative_url }}" alt="Middle market illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Central Debate: Replacement or Compression?
 
@@ -379,9 +373,7 @@ This distinction is important. The middle market does not have to disappear for 
 
 That is why concerns about AI music flooding are concentrated in background music, production libraries and other functional-use sectors. These are the areas where the gap between “music people love” and “music that simply does a job” is largest—and where generative systems are most capable of providing a low-cost substitute.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GNbyDl-DRfc" title="🤖 Why I&#x27;m Letting AI Train Off My Music! And Why You Should Too! #aimusic #musician" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GNbyDl-DRfc" target="_blank" rel="noopener noreferrer">🤖 Why I&#x27;m Letting AI Train Off My Music! And Why You Should Too! #aimusic #musician</a></p><p class="youtube-embed-meta">Channel: Make Music Income &middot; Views: 754 &middot; Uploaded: July 2024 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GNbyDl-DRfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GNbyDl-DRfc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -500,15 +492,15 @@ That is why concerns about AI music flooding are concentrated in background musi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for It&#x27;s only rock and roll Waterproof Matte vinyl Sticker Pack (4 pcs) Music"><img src="{{ '/assets/images/marketplace-covers/ff47666a6c043ab63a05.jpg' | relative_url }}" alt="Listing image for It&#x27;s only rock and roll Waterproof Matte vinyl Sticker Pack (4 pcs) Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cactus World News ‎– Years Later PROMO WITH PRESS POSTER 7&quot; NEAR MINT EX SHOP"><img src="https://i.ebayimg.com/images/g/WEUAAOSw7iRmKkoB/s-l225.jpg" alt="Listing image for Cactus World News ‎– Years Later PROMO WITH PRESS POSTER 7&quot; NEAR MINT EX SHOP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s only rock and roll Waterproof Matte vinyl Sticker Pack (4 pcs) Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Cactus World News ‎– Years Later PROMO WITH PRESS POSTER 7&quot; NEAR MINT EX SHOP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +508,15 @@ That is why concerns about AI music flooding are concentrated in background musi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock and Roll Music Stickers, 200Pcs Trendy Music Band Stickers Packs for Classi"><img src="{{ '/assets/images/marketplace-covers/4947b4cb217fce636d4f.jpg' | relative_url }}" alt="Listing image for Rock and Roll Music Stickers, 200Pcs Trendy Music Band Stickers Packs for Classi" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tiesto In Concert US Tour 2005 Poster Music Industry Original"><img src="https://i.ebayimg.com/images/g/brAAAeSwK89p2kAt/s-l225.jpg" alt="Listing image for Tiesto In Concert US Tour 2005 Poster Music Industry Original" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">Rock and Roll Music Stickers, 200Pcs Trendy Music Band Stickers Packs for Classi</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Tiesto In Concert US Tour 2005 Poster Music Industry Original</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +524,15 @@ That is why concerns about AI music flooding are concentrated in background musi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock and Roll 100PCS Trendy Music Band Stickers Packs for Adults Teens, Vinyl Wa"><img src="{{ '/assets/images/marketplace-covers/3db4b49d8f2d9384183a.jpg' | relative_url }}" alt="Listing image for Rock and Roll 100PCS Trendy Music Band Stickers Packs for Adults Teens, Vinyl Wa" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1969 Orig &quot;Try&quot; UNIVERSAL JOINT Psychedelic Concert Poster Spokane WA. John Werr"><img src="https://i.ebayimg.com/images/g/utIAAOSw0Ypn~d8m/s-l225.jpg" alt="Listing image for 1969 Orig &quot;Try&quot; UNIVERSAL JOINT Psychedelic Concert Poster Spokane WA. John Werr" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">Rock and Roll 100PCS Trendy Music Band Stickers Packs for Adults Teens, Vinyl Wa</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1969 Orig &quot;Try&quot; UNIVERSAL JOINT Psychedelic Concert Poster Spokane WA. John Werr</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +540,15 @@ That is why concerns about AI music flooding are concentrated in background musi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack"><img src="{{ '/assets/images/marketplace-covers/879300663ca5c8f9eb0b.jpg' | relative_url }}" alt="Listing image for 50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tony Pilley: Off the hook 7&quot; EX plus poster POWERPOP"><img src="https://i.ebayimg.com/images/g/ByUAAOSwYUJmKkoI/s-l225.jpg" alt="Listing image for Tony Pilley: Off the hook 7&quot; EX plus poster POWERPOP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Tony Pilley: Off the hook 7&quot; EX plus poster POWERPOP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +556,7 @@ That is why concerns about AI music flooding are concentrated in background musi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="middle-market-where-ai-music-hits-working-musicians-first-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-music-hits-working-musicians-first-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-ai-music-hits-working-musicians-first-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -779,81 +771,81 @@ That is why concerns about AI music flooding are concentrated in background musi
 
 1. <a id="endnote-1"></a>
    Source: cisac.org  
-   Link: [https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study](https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISACCISAC/PMP Strategy AI StudyKey findings of the study: Music · Gen AI outputs in Music will be worth a cumulative €40Bn over the next...</p></details>
+   Link: <a href="https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISAC/PMP Strategy AI StudyKey findings of the study: Music · Gen AI outputs in Music will be worth a cumulative €40Bn over the next...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cisac.org  
    Title: global economic study shows human creators future risk generative ai  
-   Link: [https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai](https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISACGlobal economic study shows human creators&#x27; future at risk...2 Dec 2024 — Revenues at risk of loss for creators by 2028: 24% in mus...</p></details>
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/global-economic-study-shows-human-creators-future-risk-generative-ai</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global economic study shows human creators&#x27; future at risk...2 Dec 2024 — Revenues at risk of loss for creators by 2028: 24% in mus...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: popakademie.de  
-   Link: [https://www.popakademie.de/media/?download=&file=978_241021-ki-whitepaper-en.pdf](https://www.popakademie.de/media/?download=&file=978_241021-ki-whitepaper-en.pdf)  
+   Link: <a href="https://www.popakademie.de/media/?download=&amp;file=978_241021-ki-whitepaper-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.popakademie.de/media/?download=&amp;file=978_241021-ki-whitepaper-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI in the Music BusinessAI and Music Production describes how current models for music generation work, groups them into a new...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: iacis.org  
-   Link: [https://www.iacis.org/iis/2024/3_iis_2024_267-276.pdf](https://www.iacis.org/iis/2024/3_iis_2024_267-276.pdf)  
+   Link: <a href="https://www.iacis.org/iis/2024/3_iis_2024_267-276.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iacis.org/iis/2024/3_iis_2024_267-276.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of artificial intelligence on musiciansby M Fox · 2024 · Cited by 16 — The proliferation of AI-generated music could dilute th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/1kwkm0c/whats_the_future_of_the_music_industry_after_ai/](https://www.reddit.com/r/musicindustry/comments/1kwkm0c/whats_the_future_of_the_music_industry_after_ai/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhat&#x27;s the future of the music industry after AI?AI tools will definitely replace sample libraries and normal VST plugins (virtual...</p></details>
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1kwkm0c/whats_the_future_of_the_music_industry_after_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1kwkm0c/whats_the_future_of_the_music_industry_after_ai/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the future of the music industry after AI?AI tools will definitely replace sample libraries and normal VST plugins (virtual...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: techcrunch.com  
    Title: deezer says 44 of songs uploaded to its platform daily are ai generated  
-   Link: [https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechCrunchDeezer says 44% of songs uploaded to its platform daily...20 Apr 2026 — Deezer announced on Monday that AI-generated tracks no...</p></details>
+   Link: <a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer says 44% of songs uploaded to its platform daily...20 Apr 2026 — Deezer announced on Monday that AI-generated tracks no...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: AI vs. Human Composers: The Future of AI in Sync Licensing  
-   Link: [http://www.youtube.com/watch?v=141sMlH3ZpI](http://www.youtube.com/watch?v=141sMlH3ZpI)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Will [AI Generated Music](&amp;#123;&amp;#123; &#x27;ai-songs/&#x27; | relative_url &amp;#125;&amp;#125;) Take Over The Music Industry? | Rick Beato...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=141sMlH3ZpI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=141sMlH3ZpI</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Will AI Generated Music Take Over The Music Industry? | Rick Beato...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Will AI Generated Music Take Over The Music Industry? | Rick Beato  
-   Link: [http://www.youtube.com/watch?v=jHrkQ928VNI](http://www.youtube.com/watch?v=jHrkQ928VNI)  
+   Link: <a href="http://www.youtube.com/watch?v=jHrkQ928VNI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jHrkQ928VNI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Will AI replace composers? What stops Music Libraries/TV Networks from using AI to generate music?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=15DE6LyWf0M](http://www.youtube.com/watch?v=15DE6LyWf0M)  
+   Link: <a href="http://www.youtube.com/watch?v=15DE6LyWf0M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=15DE6LyWf0M</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why I&#x27;m Letting AI Train Off My Music! And Why You Should Too...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Why I'm Letting AI Train Off My Music! And Why You Should Too!  
-   Link: [http://www.youtube.com/watch?v=GNbyDl-DRfc](http://www.youtube.com/watch?v=GNbyDl-DRfc)  
+   Link: <a href="http://www.youtube.com/watch?v=GNbyDl-DRfc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GNbyDl-DRfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music Lawsuits: This can only help composers...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: AI Music Lawsuits: This can only help composers  
-   Link: [http://www.youtube.com/watch?v=1rSCVWS3Wqo](http://www.youtube.com/watch?v=1rSCVWS3Wqo)  
+   Link: <a href="http://www.youtube.com/watch?v=1rSCVWS3Wqo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1rSCVWS3Wqo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music impact on composers and stock music libraries AI vs. Human Composers: The Future of AI in Sync Licensing xJ-Will...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dbresearch.com  
    Title: From Bits to Hits: The advance of AI in music prod  
-   Link: [https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000606361/From_Bits_to_Hits%3A_The_advance_of_AI_in_music_prod.pdf](https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000606361/From_Bits_to_Hits%3A_The_advance_of_AI_in_music_prod.pdf)  
+   Link: <a href="https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000606361/From_Bits_to_Hits%3A_The_advance_of_AI_in_music_prod.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000606361/From_Bits_to_Hits%3A_The_advance_of_AI_in_music_prod.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deutsche Bank ResearchFrom Bits to Hits: The advance of AI in music production20 Oct 2025 — AIrtists producing good-quality, commercially...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: prsformusic.com  
    Title: cisac generative ai study music creators future at risk  
-   Link: [https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk](https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/cisac-generative-ai-study-music-creators-future-at-risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicNew economic study warns music creators&#x27; future &#x27;at risk...5 Dec 2024 — A new global economic study from CISAC has warned t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theverge.com  
    Title: The Verge AI is blowing up music  
-   Link: [https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason](https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason)  
+   Link: <a href="https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How should the Grammys handle it?June 1, 2026 — In a far-reaching interview with Harvey Mason Jr., CEO of the Recording Academy, he addre...</p></details>
    Published: June 1, 2026  
 
@@ -861,35 +853,35 @@ That is why concerns about AI music flooding are concentrated in background musi
 
 15. <a id="endnote-15"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry](https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry)  
+   Link: <a href="https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionAI and the Music Industry | Protecting your original materialThe Musicians&#x27; Union is fighting for consent, credit and rem...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: prnewswire.com  
-   Link: [https://www.prnewswire.com/news-releases/global-economic-study-shows-human-creators-future-at-risk-from-generative-ai-302320867.html](https://www.prnewswire.com/news-releases/global-economic-study-shows-human-creators-future-at-risk-from-generative-ai-302320867.html)  
+   Link: <a href="https://www.prnewswire.com/news-releases/global-economic-study-shows-human-creators-future-at-risk-from-generative-ai-302320867.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/global-economic-study-shows-human-creators-future-at-risk-from-generative-ai-302320867.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireGlobal economic study shows human creators&#x27; future at risk...Dec 4, 2024 — Revenues at risk of loss for creators by 2028: 24%...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nme.com  
    Title: now almost half of all songs uploaded to deezer are ai 3943980  
-   Link: [https://www.nme.com/news/music/now-almost-half-of-all-songs-uploaded-to-deezer-are-ai-3943980](https://www.nme.com/news/music/now-almost-half-of-all-songs-uploaded-to-deezer-are-ai-3943980)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NMENow almost half of all songs uploaded to Deezer are AI4 May 2026 — The French music streaming service has said there are now roughly 7...</p></details>
+   Link: <a href="https://www.nme.com/news/music/now-almost-half-of-all-songs-uploaded-to-deezer-are-ai-3943980" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/now-almost-half-of-all-songs-uploaded-to-deezer-are-ai-3943980</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now almost half of all songs uploaded to Deezer are AI4 May 2026 — The French music streaming service has said there are now roughly 7...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: newyorker.com  
    Title: The New Yorker Inside the Music Industry's High-Stakes A.I  
-   Link: [https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)  
+   Link: <a href="https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExperimentsSir Lucian Grainge, CEO of Universal Music Group (UMG), is known for his strategic innovation in the music industry, leveragin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: newsroom-deezer.com  
    Title: Deezer's AI  
-   Link: [https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/](https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/)  
+   Link: <a href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...20 Apr 2026 — Deezer, is receiving nearly 75,000 fully AI-gene...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtu.be  
    Title: Chris Williamson  
-   Link: [https://youtu.be/0g06zPgwuKs?si=eCtbJo3Z-SKSeGl3](https://youtu.be/0g06zPgwuKs?si=eCtbJo3Z-SKSeGl3)  
+   Link: <a href="https://youtu.be/0g06zPgwuKs?si=eCtbJo3Z-SKSeGl3" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/0g06zPgwuKs?si=eCtbJo3Z-SKSeGl3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🤖 Why I&#x27;m Letting AI Train Off My Music! And Why You Should Too! #aimusic #musician Make Music Income...</p></details>

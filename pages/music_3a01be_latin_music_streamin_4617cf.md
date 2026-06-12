@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - latin-music
 keywords:
-- music
+- music-3-a01-be
 - latin-music
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Latin music's global reach shows how language, rhythm, diaspora audiences and platform discovery can reshape mainstream charts.
 hero_summary: Latin music's global reach shows how language, rhythm, diaspora audiences and platform discovery can reshape mainstream charts.
 layout: default
 permalink: /latin-music/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Latin Music
 title: Why Latin Music Travels So Far
-title_full: Why Latin Music Travels So Far | Music
+title_full: Why Latin Music Travels So Far
 display_title_short: Latin Music
 display_title: Latin Music
 heading_title: Why Latin Music Travels So Far
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 next_link:
   basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
-date: '2026-06-09 06:18:46 '
+date: '2026-06-11 23:10:11 '
 header:
   og_image: /assets/images/music_3a01be_latin_music_streamin_4617cf-overview-social.jpg
   preview_image: /assets/images/music_3a01be_latin_music_streamin_4617cf-overview.webp
@@ -501,106 +501,98 @@ image: /assets/images/music_3a01be_latin_music_streamin_4617cf-overview-social.j
 
 ## Introduction
 
-Latin music became a streaming power because streaming rewarded the things it already did well: rhythmic immediacy, cross-border collaboration, strong [diaspora]({{ 'diaspora/' | relative_url }}) audiences, bilingual listening habits and fast social discovery. Instead of waiting for English-language radio, [physical]({{ 'physical/' | relative_url }}) distribution or a formal “crossover” campaign, artists could reach listeners through playlists, short-form sharing, algorithmic recommendations and fan networks that stretched from Latin America to the United States, Europe and beyond. The change is visible in the numbers: in the US, Latin music reached a record US$1.4 billion in 2024, with more than 98% of its revenue coming from streaming; globally, Spotify says Latin music rose from 8% of worldwide listening a decade ago to 27% in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024 Year End US Market Latin Music Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year End US Market Latin Music Revenue Report</span></span></span>
-
+Latin music became a streaming power because streaming rewarded the things it already did well: rhythmic immediacy, cross-border collaboration, strong [diaspora]({{ 'diaspora/' | relative_url }}) audiences, bilingual listening habits and fast social discovery. Instead of waiting for English-language radio, [physical]({{ 'physical/' | relative_url }}) distribution or a formal crossover campaign, artists could reach listeners through playlists, short-form sharing, algorithmic recommendations and fan networks that stretched from Latin America to the United States, Europe and beyond. The change is visible in the numbers: in the US, Latin music reached a record US$1.4 billion in 2024, with more than 98% of its revenue coming from streaming; globally, Spotify says Latin music rose from 8% of worldwide listening a decade ago to 27% in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024 Year End US Market Latin Music Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year End US Market Latin Music Revenue Report</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-overview.webp" | relative_url }}" alt="Overview image for Latin Music" loading="eager" decoding="sync" fetchpriority="high">
 The result is not just a bigger market for a single style. It is a reshaping of mainstream pop, where songs in Spanish and Portuguese, [regional scenes]({{ 'regional-scenes/' | relative_url }}), diasporic taste and platform discovery now help decide what becomes global.
 
 ## Why streaming suited Latin music so well
 
-Latin [music]({{ 'music/' | relative_url }})’s rise did not begin with streaming. Salsa, Latin pop, reggaeton, bachata, [regional Mexican]({{ 'regional-mexican/' | relative_url }}) music, Brazilian music and many other scenes already had deep local and diasporic audiences. What changed was the friction. A song no longer needed a CD supply chain, an English-language remix, or heavy support from US radio to move from San Juan, Medellín, Mexico City, Buenos Aires, São Paulo or Madrid into a listener’s headphones elsewhere.
+Latin musics rise did not begin with streaming. Salsa, Latin pop, reggaeton, bachata, [regional Mexican]({{ 'regional-mexican/' | relative_url }}) music, Brazilian music and many other scenes already had deep local and diasporic audiences. What changed was the friction. A song no longer needed a CD supply chain, an English-language remix, or heavy support from US radio to move from San Juan, Medelln, Mexico City, Buenos Aires, So Paulo or Madrid into a listeners headphones elsewhere.
 
 Streaming turned listening into a borderless habit. A teenager in Los Angeles, Madrid or London could hear a Puerto Rican or Colombian track at the same time as fans in Latin America. A bilingual household could move between English-language pop and Spanish-language songs without treating them as separate cultural worlds. A playlist could place a new artist beside an established superstar, and a recommendation system could carry a local hit into an unexpected market.
 
-The economic data shows how decisive that shift became. IFPI reported that Latin America’s recorded music revenues rose 22.5% in 2024, far ahead of global growth, with streaming accounting for 87.8% of recorded music revenues in the region. Brazil grew 21.7%, while Mexico rose 15.6% and became the world’s tenth-largest recorded music market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpicr.cz">[IFPICR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpicr.cz</span><span class="citation-popover-title">global music report 2025</span><span class="citation-popover-snippet">IFPICRGlobal Music Report 2025 | ČNS IFPI...</span></span></span> In the US Latin market, the pattern is even more concentrated: RIAA found that streaming generated more than 98% of Latin music revenue in 2024, compared with physical formats making up less than 1%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
+The economic data shows how decisive that shift became. IFPI reported that Latin Americas recorded music revenues rose 22.5% in 2024, far ahead of global growth, with streaming accounting for 87.8% of recorded music revenues in the region. Brazil grew 21.7%, while Mexico rose 15.6% and became the worlds tenth-largest recorded music market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpicr.cz">[IFPICR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpicr.cz</span><span class="citation-popover-title">global music report 2025</span><span class="citation-popover-snippet">Global Music Report 2025 &#124; NS IFPI...</span></span></span> In the US Latin market, the pattern is even more concentrated: RIAA found that streaming generated more than 98% of Latin music revenue in 2024, compared with physical [formats]({{ 'formats/' | relative_url }}) making up less than 1%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
 
-That matters because Latin music’s streaming power is not just about famous artists doing well on global platforms. It shows how a music culture with large, connected audiences can leap over older industry bottlenecks and become measurable in daily listening data.
+That matters because Latin musics streaming power is not just about famous artists doing well on global platforms. It shows how a music [culture]({{ 'culture/' | relative_url }}) with large, connected audiences can leap over older industry bottlenecks and become measurable in daily listening data.
 
-
-<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-dark.svg" | relative_url }}" alt="Latin Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Language became a bridge, not a barrier
 
-For decades, the mainstream US and UK music industries often treated Spanish-language success as something that required “crossing over” into English. Earlier stars such as Gloria Estefan, Ricky Martin, Shakira and Enrique Iglesias navigated that model: Spanish-language roots, English-language releases, and carefully staged access to Anglo-American pop markets.
+For decades, the mainstream US and UK music industries often treated Spanish-language success as something that required crossing over into English. Earlier stars such as Gloria Estefan, Ricky Martin, Shakira and Enrique Iglesias navigated that model: Spanish-language roots, English-language releases, and carefully staged access to Anglo-American pop markets.
 
 Streaming weakened that assumption. Listeners did not need every lyric translated to respond to rhythm, melody, mood, danceability or emotional performance. Just as K-pop and Afrobeats showed that language difference need not block global listening, Latin music proved that Spanish-language songs could become everyday pop without becoming English-language products.
 
-“Despacito” was a major turning point. Luis Fonsi and Daddy Yankee’s hit, later amplified by a Justin Bieber remix, became the first Spanish-language song to spend 16 weeks at No. 1 on the Billboard Hot 100 and was reported in 2017 as the most-streamed song in history at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Also, the global hit remains at No.Read more</span><span class="citation-popover-snippet">Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018 — On the Billboard charts, “Despacito” is the first Spanish...</span></span></span> Its importance was not only that it was enormous. It showed labels, platforms and artists that a Spanish-language song could dominate global listening at internet speed.
+Despacito was a major turning point. Luis Fonsi and Daddy Yankees hit, later amplified by a Justin Bieber remix, became the first Spanish-language song to spend 16 weeks at No. 1 on the Billboard Hot 100 and was reported in 2017 as the most-streamed song in history at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Also, the global hit remains at No.Read more</span><span class="citation-popover-snippet">Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018  On the Billboard charts, Despacito is the first Spanish...</span></span></span> Its importance was not only that it was enormous. It showed labels, platforms and artists that a Spanish-language song could dominate global listening at internet speed.
 
-Yet the post-“Despacito” story is more interesting than one hit. Bad Bunny built one of the world’s biggest careers largely without switching into English. His 2022 album became a streaming landmark: Billboard reported in 2023 that it had become Spotify’s most-streamed album in history, while Guinness World Records noted that it was Spotify’s most-streamed album of 2023 with 4.5 billion streams that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny un verano sin ti most streamed album spotify history 1235368920</span><span class="citation-popover-snippet">bad bunny un verano sin ti most streamed album spotify history 1235368920</span></span></span> That changed the symbolic centre of pop success. The question was no longer whether Latin artists could enter the mainstream, but whether the mainstream could keep pretending Spanish-language music was outside it.
+Yet the post-Despacito story is more interesting than one hit. Bad Bunny built one of the worlds biggest careers largely without switching into English. His 2022 album became a streaming landmark: Billboard reported in 2023 that it had become Spotifys most-streamed album in history, while Guinness World Records noted that it was Spotifys most-streamed album of 2023 with 4.5 billion streams that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny un verano sin ti most streamed album spotify history 1235368920</span><span class="citation-popover-snippet">bad bunny un verano sin ti most streamed album spotify history 1235368920</span></span></span> That changed the symbolic centre of pop success. The question was no longer whether Latin artists could enter the mainstream, but whether the mainstream could keep pretending Spanish-language music was outside it.
 
+<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-dark.svg" | relative_url }}" alt="Latin Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rhythm, repetition and collaboration helped songs travel
 
-Streaming rewards songs that survive repeated listening. Latin music’s global rise has been helped by styles built around strong rhythmic identity: reggaeton’s steady pulse, dembow-derived patterns, bachata’s romantic sway, salsa’s dance energy, regional Mexican music’s guitar and brass textures, and pop hybrids that can fit both clubs and headphones.
+Streaming rewards songs that survive repeated listening. Latin musics global rise has been helped by styles built around strong rhythmic identity: reggaetons steady pulse, dembow-derived patterns, bachatas romantic sway, salsas dance energy, regional Mexican musics guitar and brass textures, and pop hybrids that can fit both clubs and headphones.
 
 This does not mean Latin music is formulaic. The opposite is often true: its streaming strength comes from recognisable rhythmic anchors combined with constant variation. A reggaeton hit can lean pop, trap, dancehall, electronic, romantic or abrasive. A regional Mexican song can draw on older folk forms while borrowing from hip-hop, trap or pop production. A global collaboration can make a local style legible to new listeners without erasing its origin.
 
 Collaboration also accelerated discovery. Artists moved across scenes: Colombian reggaeton stars worked with Puerto Rican rappers; Argentine producers connected with Spanish and Latin American vocalists; Mexican acts collaborated with pop and urban artists; US-based Latino performers bridged English and Spanish audiences. These collaborations are unusually useful in streaming because they join fan bases, trigger platform recommendations and create multiple entry points into a song.
 
-The clearest recent example is regional Mexican music. Associated Press reported that Eslabon Armado and Peso Pluma’s “Ella Baila Sola” surpassed one billion Spotify streams and became the first regional Mexican Top 10 hit on Billboard’s all-genre Hot 100, peaking at No. 4. Luminate data cited by AP showed regional Mexican music growing 60% in the US in 2023, with 21.9 billion on-demand audio streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon | AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon | AP News</span></span></span> That success was not simply a novelty. It showed that streaming could globalise a style long sustained by Mexican and Mexican American audiences, while allowing younger artists to update its sound for a new generation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cwtxkge_xfo" title="Reggaeton Latin Music to BOOST Your Focus and Productivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer">Reggaeton Latin Music to BOOST Your Focus and Productivity</a></p><p class="youtube-embed-meta">Channel: Null Core Music &middot; Views: 87 &middot; Uploaded: May 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cwtxkge_xfo">Open on YouTube</a></p></div></div></div>
+The clearest recent example is regional Mexican music. Associated Press reported that Eslabon Armado and Peso Plumas Ella Baila Sola surpassed one billion Spotify streams and became the first regional Mexican Top 10 hit on Billboards all-genre Hot 100, peaking at No. 4. Luminate data cited by AP showed regional Mexican music growing 60% in the US in 2023, with 21.9 billion on-demand audio streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon &#124; AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon &#124; AP News</span></span></span> That success was not simply a novelty. It showed that streaming could globalise a style long sustained by Mexican and Mexican American audiences, while allowing younger artists to update its sound for a new generation.
 
 ## Diaspora audiences gave platforms a ready-made network
 
-Latin music’s streaming power depends heavily on diaspora audiences. The US is the clearest case because it is both the world’s largest recorded music market and home to a large Latino population with varied ties to Mexico, Puerto Rico, Cuba, the Dominican Republic, Central America, South America and other communities.
+Latin musics streaming power depends heavily on diaspora audiences. The US is the clearest case because it is both the worlds largest recorded music market and home to a large Latino population with varied ties to Mexico, Puerto Rico, Cuba, the Dominican Republic, Central America, South America and other communities.
 
 Language is one part of that network. Pew Research Center reported in 2023 that Spanish is the most commonly spoken non-English language in the United States, with close to 40 million Latinos speaking Spanish at home. It also found that 75% of US Latinos say they can carry on a conversation in Spanish at least pretty well, though ability varies sharply by generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For music, this creates a large audience for Spanish-language songs, but not a closed one. Many listeners are bilingual, bicultural or genre-fluid; they may stream Latin music alongside hip-hop, country, pop, rock, Afrobeats and [dance music]({{ 'dance-music/' | relative_url }}).
 
 This helps explain why Latin music performs so strongly on streaming compared with older formats. A listener does not need to live near a specialist record shop or wait for a local radio programmer to validate a song. Family chats, social media clips, parties, car listening, gym playlists and algorithmic recommendations can all carry tracks through diaspora networks.
 
-The US revenue figures show the commercial result. RIAA reported that Latin music hit US$1.4 billion in US recorded music revenue in 2024, up 6%, and represented 8.1% of total US recorded music revenue. Paid subscriptions contributed more than two-thirds of Latin music revenue, while ad-supported on-demand streaming, including services such as YouTube, Vevo, free Spotify and social media platforms, made up nearly a quarter of Latin music’s value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">YEAR END 2023 Latin RIAA Revenue Statistics</span><span class="citation-popover-snippet">YEAR END 2023 Latin RIAA Revenue Statistics</span></span></span> That mix matters: Latin music has benefited both from committed paid listeners and from broad, shareable, free-access discovery.
+The US revenue figures show the commercial result. RIAA reported that Latin music hit US$1.4 billion in US recorded music revenue in 2024, up 6%, and represented 8.1% of total US recorded music revenue. Paid subscriptions contributed more than two-thirds of Latin music revenue, while ad-supported on-demand streaming, including services such as YouTube, Vevo, free Spotify and social media platforms, made up nearly a quarter of Latin musics value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">YEAR END 2023 Latin RIAA Revenue Statistics</span><span class="citation-popover-snippet">YEAR END 2023 Latin RIAA Revenue Statistics</span></span></span> That mix matters: Latin music has benefited both from committed paid listeners and from broad, shareable, free-access discovery.
 
+<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-dark.svg" | relative_url }}" alt="Latin Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playlists turned scenes into global front doors
 
-A streaming platform is not neutral shelf space. Editorial playlists, algorithmic playlists and user-generated playlists shape what listeners encounter. Latin music’s rise was helped by the fact that platforms built visible front doors for it at the same time that audience demand was rising.
+A streaming platform is not neutral shelf space. Editorial playlists, algorithmic playlists and user-generated playlists shape what listeners encounter. Latin musics rise was helped by the fact that platforms built visible front doors for it at the same time that audience demand was rising.
 
-Spotify’s “Viva Latino” is the most obvious example. Spotify says the playlist launched in 2015 as one of the first major Latin music playlists on a streaming platform. By its tenth anniversary in 2025, the company said global Latin music streams on Spotify had grown by more than 2,500%, adding more than 587 billion streams, and Latin music accounted for 27% of all listening worldwide on the platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">SpotifyCelebrating 10 Years of Spotify’s Viva Latino Playlist and the Global Rise of Latin Music — Spotify...</span></span></span>
+Spotifys Viva Latino is the most obvious example. Spotify says the playlist launched in 2015 as one of the first major Latin music playlists on a streaming platform. By its tenth anniversary in 2025, the company said global Latin music streams on Spotify had grown by more than 2,500%, adding more than 587 billion streams, and Latin music accounted for 27% of all listening worldwide on the platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Celebrating 10 Years of Spotifys Viva Latino Playlist and the Global Rise of Latin Music  Spotify...</span></span></span>
 
 Playlists matter because they make a sprawling field easier to enter. A listener may not know the difference between reggaeton, Latin trap, bachata, regional Mexican music or Latin pop, but a playlist can offer a path in. Once the listener engages, algorithms can push them deeper: more Bad Bunny, then Feid, Karol G or Rauw Alejandro; one Peso Pluma track, then Fuerza Regida, Junior H or Eslabon Armado; one Shakira collaboration, then a chain of Argentine, Colombian or Spanish-language pop.
 
 There is a trade-off. Playlist visibility can concentrate attention around certain sounds and artists, especially those already supported by labels, marketing budgets or platform editors. But for Latin music overall, the playlist era made genre boundaries more porous. It allowed mainstream listeners to enter through a hit and then discover regional or local variety that older radio formats might never have offered.
 
-
-<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-dark.svg" | relative_url }}" alt="Latin Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The charts changed because the unit of success changed
 
 The streaming era changed what counts as popularity. In the sales era, a hit was often measured by purchases, radio play and chart reporting systems that favoured established distribution. In the streaming era, a hit can be built from repeated plays across many territories, fan mobilisation, playlist placement, social sharing and rapid cross-border discovery.
 
 That shift helped Latin music compete on more equal terms. The same listener who once might have bought one album can now stream dozens of songs from different countries in a week. A track can accumulate global volume even if it is not dominant in every single national market. A fan base can respond immediately to an album drop, pushing many tracks into charts at once.
 
-Bad Bunny’s rise illustrates this new chart logic. His success was not just a single viral moment; it came through sustained streaming depth across albums, collaborations and catalogue listening. Regional Mexican music shows another pattern: a style that had long been important in specific communities suddenly became visible in all-genre streaming data once younger listeners, platform discovery and cross-border networks aligned.
+Bad Bunnys rise illustrates this new chart logic. His success was not just a single viral moment; it came through sustained streaming depth across albums, collaborations and catalogue listening. Regional Mexican music shows another pattern: a style that had long been important in specific communities suddenly became visible in all-genre streaming data once younger listeners, platform discovery and cross-border networks aligned.
 
-Luminate’s 2024 midyear analysis found that Latin music led all US core genres in on-demand audio streaming growth by share-point change in the first half of 2024, powered by 15.1% growth in on-demand audio streaming volume. It also identified regional Mexican as the largest Latin subgenre in the US, with Peso Pluma, Fuerza Regida and Junior H among the major streaming drivers outside Bad Bunny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? | Luminate</span><span class="citation-popover-snippet">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? | Luminate</span></span></span>
+Luminates 2024 midyear analysis found that Latin music led all US core genres in on-demand audio streaming growth by share-point change in the first half of 2024, powered by 15.1% growth in on-demand audio streaming volume. It also identified regional Mexican as the largest Latin subgenre in the US, with Peso Pluma, Fuerza Regida and Junior H among the major streaming drivers outside Bad Bunny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? &#124; Luminate</span><span class="citation-popover-snippet">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? &#124; Luminate</span></span></span>
 
-This is why Latin music’s streaming story is bigger than a few superstars. Streaming made previously undercounted listening visible. It also made local and diasporic enthusiasm legible to the global industry in numbers that could affect investment, touring, awards, collaborations and marketing.
+This is why Latin musics streaming story is bigger than a few superstars. Streaming made previously undercounted listening visible. It also made local and diasporic enthusiasm legible to the global industry in numbers that could affect investment, touring, awards, collaborations and marketing.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cwtxkge_xfo" title="Reggaeton Latin Music to BOOST Your Focus and Productivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer">Reggaeton Latin Music to BOOST Your Focus and Productivity</a></p><p class="youtube-embed-meta">Channel: Null Core Music &middot; Views: 87 &middot; Uploaded: May 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cwtxkge_xfo">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-dark.svg" | relative_url }}" alt="Latin Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mainstream success did not erase local variety
 
-One easy misunderstanding is to treat “Latin music” as a single sound. Streaming has made the category more powerful, but also more internally varied. Reggaeton and Latin trap were central to the 2010s boom, but the 2020s made clear that the streaming audience is not limited to urban pop.
+One easy misunderstanding is to treat Latin music as a single sound. Streaming has made the category more powerful, but also more internally varied. Reggaeton and Latin trap were central to the 2010s boom, but the 2020s made clear that the streaming audience is not limited to urban pop.
 
-Regional Mexican music is the strongest proof. Its global rise did not replace reggaeton; it expanded what Latin success could sound like. AP described regional Mexican as a broad term covering mariachi, banda, corridos, norteño, sierreño and other genres, and noted that streaming helped democratise listening by allowing people who might not otherwise encounter the music to discover it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon | AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon | AP News</span></span></span>
+Regional Mexican music is the strongest proof. Its global rise did not replace reggaeton; it expanded what Latin success could sound like. AP described regional Mexican as a broad term covering mariachi, banda, corridos, norteo, sierreo and other genres, and noted that streaming helped democratise listening by allowing people who might not otherwise encounter the music to discover it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon &#124; AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon &#124; AP News</span></span></span>
 
-Other scenes have their own routes. Colombian artists have been central to reggaeton, pop and urban Latin music. Puerto Rico remains foundational to reggaeton and Latin trap. Argentina has become highly visible through producers, rappers and pop collaborations. Spain has contributed artists who connect flamenco, pop, electronic and urban influences. Brazil’s Portuguese-language market has its own enormous scale, with local styles travelling differently from Spanish-language music.
+Other scenes have their own routes. Colombian artists have been central to reggaeton, pop and urban Latin music. Puerto Rico remains foundational to reggaeton and Latin trap. Argentina has become highly visible through producers, rappers and pop collaborations. Spain has contributed artists who connect flamenco, pop, electronic and urban influences. Brazils Portuguese-language market has its own enormous scale, with local styles travelling differently from Spanish-language music.
 
-Streaming’s effect is therefore double. It creates global stars, but it also lets local scenes remain local enough to feel specific. A song can travel because of its rhythm or celebrity collaboration, yet still carry accent, slang, instrumentation, regional pride or community [memory]({{ 'memory/' | relative_url }}). That balance between accessibility and specificity is one reason Latin music has not simply dissolved into generic global pop.
+Streamings effect is therefore double. It creates global stars, but it also lets local scenes remain local enough to feel specific. A song can travel because of its rhythm or celebrity collaboration, yet still carry accent, slang, instrumentation, regional pride or community [memory]({{ 'memory/' | relative_url }}). That balance between accessibility and specificity is one reason Latin music has not simply dissolved into generic global pop.
 
 ## What the Latin streaming boom changed for the music business
 
-Latin music’s streaming rise changed how the industry thinks about language, market development and global repertoire. Labels and platforms now have stronger incentives to invest in Latin A&R, playlist teams, local offices, data analysis, collaborations and international touring. A Spanish-language hit no longer looks like a specialist product; it can be a global asset from day one.
+Latin musics streaming rise changed how the industry thinks about language, market development and global repertoire. Labels and platforms now have stronger incentives to invest in Latin A&R, playlist teams, local offices, data analysis, collaborations and international touring. A Spanish-language hit no longer looks like a specialist product; it can be a global asset from day one.
 
 It also changed the role of the United States. The US Latin market is not just a domestic ethnic niche. It is a launchpad where Latin American, US Latino and global listening patterns intersect. A track can break through US Latino audiences, rise on streaming charts, spread to Latin America or Europe, and then return with greater prestige to mainstream US media.
 
 For artists, the opportunity is real but uneven. Streaming gives more routes to discovery, but the rewards still depend on rights ownership, contract terms, playlist access, touring capacity and fan conversion. A billion streams can create cultural power while still raising questions about how income is divided among performers, songwriters, producers, labels, publishers and platforms.
 
-For listeners, the change is easier to feel: the mainstream has become less English-only. Latin music’s streaming power has made global pop more rhythmically diverse, more multilingual and more responsive to diaspora taste. It has also shown that the future of music discovery may be shaped less by old national borders than by connected audiences who know what they want before traditional gatekeepers catch up.
+For listeners, the change is easier to feel: the mainstream has become less English-only. Latin musics streaming power has made global pop more rhythmically diverse, more multilingual and more responsive to diaspora taste. It has also shown that the future of music discovery may be shaped less by old national borders than by connected audiences who know what they want before traditional gatekeepers catch up.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-dark.svg" | relative_url }}" alt="Latin Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -672,7 +664,7 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
         </h4>
         <p class="fr-book-author">By Raquel Z. Rivera, Deborah Pacini Hernandez</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: ReggaetoÌ�n, History and criticism, ReggaetÃ³n, Reggae music, Reggaeton.</p>
+        <p class="fr-book-desc">First published 2009. Subjects: Reggaeton, History and criticism, Reggaetón, Reggae music, Reggaeton.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -999,248 +991,248 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
 1. <a id="endnote-1"></a>
    Source: riaa.com  
    Title: RIAA 2024 Year End US Market Latin Music Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/](https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyCelebrating 10 Years of Spotify’s Viva Latino Playlist and the Global Rise of Latin Music — Spotify...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 10 Years of Spotifys Viva Latino Playlist and the Global Rise of Latin Music  Spotify...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ifpicr.cz  
    Title: global music report 2025  
-   Link: [https://ifpicr.cz/global_music_report_2025](https://ifpicr.cz/global_music_report_2025)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPICRGlobal Music Report 2025 | ČNS IFPI...</p></details>
+   Link: <a href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow">https://ifpicr.cz/global_music_report_2025</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Report 2025 | NS IFPI...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: billboard.com  
    Title: Also, the global hit remains at No.Read more  
-   Link: [https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/](https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018 — On the Billboard charts, “Despacito” is the first Spanish...</p></details>
+   Link: <a href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018  On the Billboard charts, Despacito is the first Spanish...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: billboard.com  
    Title: bad bunny un verano sin ti most streamed album spotify history 1235368920  
-   Link: [https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/](https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/)  
+   Link: <a href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: ifpi.org  
    Title: Global Music Report 2023 State of the Industry  
-   Link: [https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/](https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
 
 9. <a id="endnote-9"></a>
    Source: riaa.com  
    Title: YEAR END 2023 Latin RIAA Revenue Statistics  
-   Link: [https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf](https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/](https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/)  
+   Link: <a href="https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/</a>  
 
 11. <a id="endnote-11"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/](https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/)  
+   Link: <a href="https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/</a>  
 
 12. <a id="endnote-12"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/</a>  
 
 13. <a id="endnote-13"></a>
    Source: billboard.com  
    Title: non english songs hot 100 top  
-   Link: [https://www.billboard.com/lists/non-english-songs-hot-100-top/](https://www.billboard.com/lists/non-english-songs-hot-100-top/)  
+   Link: <a href="https://www.billboard.com/lists/non-english-songs-hot-100-top/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/non-english-songs-hot-100-top/</a>  
 
 14. <a id="endnote-14"></a>
    Source: billboard.com  
    Title: bad bunny number 1 top latin artists 21st century chart  
-   Link: [https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/](https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/)  
+   Link: <a href="https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/</a>  
 
 15. <a id="endnote-15"></a>
    Source: billboard.com  
    Title: latin music revenue record high mid year 2023 riaa  
-   Link: [https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/](https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/)  
+   Link: <a href="https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/</a>  
 
 16. <a id="endnote-16"></a>
    Source: billboard.com  
    Title: peso pluma eslabon armado regional mexican music surge  
-   Link: [https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/](https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/)  
+   Link: <a href="https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/</a>  
 
 17. <a id="endnote-17"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5)  
+   Link: <a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5</a>  
 
 18. <a id="endnote-18"></a>
    Source: open.spotify.com  
    Title: 3Lk Ur Qcb YOr7Bdp HFVNx Sv  
-   Link: [https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv](https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv)  
+   Link: <a href="https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv</a>  
 
 19. <a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI](https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI)  
+   Link: <a href="https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI</a>  
 
 20. <a id="endnote-20"></a>
    Source: open.spotify.com  
    Title: 79Eow409jinf8v D1jf Wuko  
-   Link: [https://open.spotify.com/track/79Eow409jinf8vD1jfWuko](https://open.spotify.com/track/79Eow409jinf8vD1jfWuko)  
+   Link: <a href="https://open.spotify.com/track/79Eow409jinf8vD1jfWuko" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/79Eow409jinf8vD1jfWuko</a>  
 
 21. <a id="endnote-21"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5](https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5)  
+   Link: <a href="https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5</a>  
 
 22. <a id="endnote-22"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0](https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0)  
+   Link: <a href="https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0</a>  
 
 23. <a id="endnote-23"></a>
    Source: variety.com  
    Title: latin music revenue exceeds one billion third year riaa report 1236353141  
-   Link: [https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/](https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/)  
+   Link: <a href="https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Cwtxkge_xfo](https://www.youtube.com/watch?v=Cwtxkge_xfo)  
+   Link: <a href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cwtxkge_xfo</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How Bad Bunny and Latin Music Conquered the Global Stage  
-   Link: [https://www.youtube.com/watch?v=F00sS3k1kZg](https://www.youtube.com/watch?v=F00sS3k1kZg)  
+   Link: <a href="https://www.youtube.com/watch?v=F00sS3k1kZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F00sS3k1kZg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Streaming Revolution: How Latin Music Became a Global Force...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Streaming Revolution: How Latin Music Became a Global Force  
-   Link: [https://www.youtube.com/watch?v=uD5o6n9z458](https://www.youtube.com/watch?v=uD5o6n9z458)  
+   Link: <a href="https://www.youtube.com/watch?v=uD5o6n9z458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD5o6n9z458</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Latin Music Dominates Streaming Services Worldwide...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why Latin Music Dominates Streaming Services Worldwide  
-   Link: [https://www.youtube.com/watch?v=TfL_348T8f4](https://www.youtube.com/watch?v=TfL_348T8f4)  
+   Link: <a href="https://www.youtube.com/watch?v=TfL_348T8f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TfL_348T8f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithms and Playlists Changed Latin Music Forever...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: How Algorithms and Playlists Changed Latin Music Forever  
-   Link: [https://www.youtube.com/watch?v=kYJv8P-XG-g](https://www.youtube.com/watch?v=kYJv8P-XG-g)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJv8P-XG-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJv8P-XG-g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Global Latin Pop in the Digital Era...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Rise of Global Latin Pop in the Digital Era  
-   Link: [https://www.youtube.com/watch?v=cQ1308V1y3Q](https://www.youtube.com/watch?v=cQ1308V1y3Q)  
+   Link: <a href="https://www.youtube.com/watch?v=cQ1308V1y3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQ1308V1y3Q</a>  
 
 30. <a id="endnote-30"></a>
    Source: guinnessworldrecords.com  
-   Link: [https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559](https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559)  
+   Link: <a href="https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559</a>  
 
 31. <a id="endnote-31"></a>
    Source: apnews.com  
    Title: AP News How regional Mexican music became a global phenomenon | AP News  
-   Link: [https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4](https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4)  
+   Link: <a href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4</a>  
 
 32. <a id="endnote-32"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/](https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/)  
+   Link: <a href="https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/</a>  
 
 33. <a id="endnote-33"></a>
    Source: luminatedata.com  
    Title: Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? | Luminate  
-   Link: [https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/](https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/)  
+   Link: <a href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Title: luminates 2025 report shows the us dominating [global streaming](&#123;&#123; 'global-plays/' | relative_url &#125;&#125;) with 15 trillion  
-   Link: [https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/](https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/)  
+   Title: luminates 2025 report shows the us dominating global streaming with 15 trillion  
+   Link: <a href="https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/](https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/</a>  
 
 36. <a id="endnote-36"></a>
    Source: pewresearch.org  
    Title: how hispanic americans get their news  
-   Link: [https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/](https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/)  
+   Link: <a href="https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/</a>  
 
 37. <a id="endnote-37"></a>
    Source: luminatedata.com  
    Title: Latin Music Grows the Most Among Genres in Q1  
-   Link: [https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/](https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/)  
+   Link: <a href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/</a>  
 
 38. <a id="endnote-38"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en](https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en</a>  
 
 39. <a id="endnote-39"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year](https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year)  
+   Link: <a href="https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year</a>  
 
 40. <a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Despacito](https://en.wikipedia.org/wiki/Despacito)  
+   Link: <a href="https://en.wikipedia.org/wiki/Despacito" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Despacito</a>  
 
 41. <a id="endnote-41"></a>
    Source: grandviewresearch.com  
    Title: latin america  
-   Link: [https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america](https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america)  
+   Link: <a href="https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america" target="_blank" rel="noopener noreferrer nofollow">https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america</a>  
 
 42. <a id="endnote-42"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: [https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024](https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024)  
+   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
 
 43. <a id="endnote-43"></a>
    Source: chartlex.com  
-   Link: [https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY](https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY)  
+   Link: <a href="https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber](https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber)  
+   Link: <a href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DOE-PcVEyzN/?hl=en](https://www.instagram.com/p/DOE-PcVEyzN/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DOE-PcVEyzN/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOE-PcVEyzN/?hl=en</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/](https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/)  
+   Link: <a href="https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/](https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/](https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/)  
+   Link: <a href="https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/](https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/](https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/](https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/)  
+   Link: <a href="https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/</a>  
 
 52. <a id="endnote-52"></a>
    Source: playmysong.com  
-   Link: [https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html](https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html)  
+   Link: <a href="https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html" target="_blank" rel="noopener noreferrer nofollow">https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html</a>  
 
 53. <a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados](https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados)  
+   Link: <a href="https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados</a>

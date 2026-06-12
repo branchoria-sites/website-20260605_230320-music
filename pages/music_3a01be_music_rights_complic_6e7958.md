@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - rights
 keywords:
-- music
+- music-3-a01-be
 - rights
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: One song can involve separate rights in the recording, composition, performance, publishing and licensing uses.
 hero_summary: One song can involve separate rights in the recording, composition, performance, publishing and licensing uses.
 layout: default
 permalink: /rights/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Rights
 title: Why One Song Has So Many Rights
-title_full: Why One Song Has So Many Rights | Music
+title_full: Why One Song Has So Many Rights
 display_title_short: Rights
 display_title: Rights
 heading_title: Why One Song Has So Many Rights
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 next_link:
   basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
-date: '2026-06-09 06:22:31 '
+date: '2026-06-11 23:12:07 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958-overview-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958-overview.webp
@@ -503,15 +503,14 @@ image: /assets/images/music_3a01be_music_rights_complic_6e7958-overview-social.j
 
 One song can be legally many things at once. There is the musical work — the melody, [lyrics]({{ 'lyrics/' | relative_url }}) and composition — and there is the sound [recording]({{ 'recording/' | relative_url }}) — the particular performance captured on a master. Each can have different owners, different royalty routes, different collecting societies and different rules depending on whether the music is streamed, broadcast, played in a café, pressed on vinyl, used in a film, performed live or licensed across borders. That is why music rights feel so complicated: the system is not built around the listener’s experience of “one track”, but around a bundle of permissions attached to different uses.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-overview.webp" | relative_url }}" alt="Overview image for Rights" loading="eager" decoding="sync" fetchpriority="high">
-The complexity matters because it decides who gets paid, who must give permission, and why money can be delayed or missed even when [music]({{ 'music/' | relative_url }}) is being used legally. Modern reforms such as the US Music Modernization Act and Europe’s collective-management rules have tried to make [licensing]({{ 'licensing/' | relative_url }}) more efficient, but they have not removed the basic problem: music is governed by overlapping rights, intermediaries and territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/music-modernization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">music modernization</span><span class="citation-popover-snippet">Copyright OfficeThe Music Modernization Act | U.S. Copyright OfficeThe Music Modernization Act (MMA) updates the copyright law to make st...</span></span></span>. Copyright Office
+The complexity matters because it decides who gets paid, who must give permission, and why money can be delayed or missed even when music is being used legally. Modern reforms such as the US Music Modernization Act and Europe’s collective-management rules have tried to make [licensing]({{ 'licensing/' | relative_url }}) more efficient, but they have not removed the basic problem: music is governed by overlapping rights, intermediaries and territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/music-modernization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">music modernization</span><span class="citation-popover-snippet">Copyright OfficeThe Music Modernization Act &#124; U.S. Copyright OfficeThe Music Modernization Act (MMA) updates the copyright law to make st...</span></span></span>. Copyright Office
 
 ## One song, two core copyrights
 
 The most important split is between the **composition** and the **recording**. The composition is the underlying song: words, [melody]({{ 'melody/' | relative_url }}), [harmony]({{ 'harmony/' | relative_url }}) and structure. The sound recording is a specific recorded version of that song. A songwriter may own the composition while a record label owns the master recording; a singer may perform on the recording without owning the song; a producer may have royalty rights without controlling the copyright.
 
-This is why a cover version can be lawful even though it does not use the famous recording. A new artist can record the same composition, subject to the correct composition licence, without licensing the original master. But if a film, advert or game wants to use the recognisable original recording, it generally needs both sides cleared: permission for the composition and permission for the master. ASCAP, for example, states that it licenses public performance rights in musical works, not the right to record music or use it in an audiovisual work; master rights must be cleared elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Open source on ascap.com.</span></span></span>
+This is why a cover version can be lawful even though it does not use the famous recording. A new artist can record the same composition, subject to the correct composition licence, without licensing the original master. But if a film, advert or game wants to use the recognisable original recording, it generally needs both sides cleared: permission for the composition and permission for the master. ASCAP, for example, states that it licenses public performance rights in musical works, not the right to record music or use it in an audiovisual work; [master rights]({{ 'master-rights/' | relative_url }}) must be cleared elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Open source on ascap.com.</span></span></span>
 
 The confusion grows because everyday language blurs these layers. Fans say “that song” when they mean the released track. Lawyers and royalty systems ask a different question: which copyright is being used, in what way, in which territory, and under which licence?
 
@@ -525,7 +524,6 @@ The composition side is often called **publishing**, because publishers historic
 
 The same split exists in other forms in other countries. In the United States, SoundExchange collects and distributes statutory digital performance royalties for sound recordings, while organisations such as ASCAP, BMI and SESAC deal with public performance of musical works. SoundExchange’s own licensing explanation makes the distinction plainly: digital audio transmission of a musical recording will usually require licensing both the sound recording and the underlying musical work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundexchange.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundexchange.com">[SoundExchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundexchange.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-1-dark.svg" | relative_url }}" alt="Rights illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Publishers, labels and collecting societies
 
@@ -538,7 +536,6 @@ Collective licensing solves one problem while creating another. It would be impo
 But collective systems introduce questions about data, fees, distribution rules and bargaining power. The 2024 UK lawsuit brought by songwriters including members of the Jesus and Mary Chain and Robert Fripp against PRS for Music shows how governance disputes can arise inside the royalty system itself. The claim challenged how live performance royalties and administrative costs were handled; PRS denied the allegations and said it would defend its position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For creators, this means “register your music” is not a single action. A songwriter, recording artist or independent label may need to register works, recordings, performer shares and publishing information with different bodies. Missing metadata can mean money is collected but not matched to the correct owner.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mwx9m6-z0fE" title="Understanding Music Licensing with PPL and PRS for Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mwx9m6-z0fE" target="_blank" rel="noopener noreferrer">Understanding Music Licensing with PPL and PRS for Music</a></p><p class="youtube-embed-meta">Channel: PPL &middot; Views: 51.6K &middot; Uploaded: June 2014 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mwx9m6-z0fE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mwx9m6-z0fE">Open on YouTube</a></p></div></div></div>
 
@@ -556,13 +553,12 @@ The same track can generate different rights depending on how it is used. The ca
 
 This is why a small production can find music clearance surprisingly hard. It is not enough to ask, “Can we use this song?” The real clearance question is: “Can we use this composition, can we use this recording, for this programme, in these territories, on these platforms, for this length of time?”
 
-
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-2-dark.svg" | relative_url }}" alt="Rights illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Streaming made the old machinery more visible
 
 Streaming did not invent music-rights complexity, but it exposed it at enormous scale. A single stream may involve the recording owner, the performer, the songwriter, the publisher, the platform, a distributor, one or more collecting societies and sometimes a mechanical licensing body. The user hears one play; the back end sees data, splits, licences and territory-specific accounting.
 
-The US Music Modernization Act was designed partly to address this problem for digital music services. It created a new blanket mechanical licensing system for eligible digital uses and established the Mechanical Licensing Collective, which administers mechanical royalties for musical works, not sound recordings. The US Copyright Office stresses that the MLC does not distribute statutory royalties for sound recordings; those are handled separately by SoundExchange. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/music-modernization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">music modernization</span><span class="citation-popover-snippet">Copyright OfficeThe Music Modernization Act | U.S. Copyright OfficeThe Music Modernization Act (MMA) updates the copyright law to make st...</span></span></span>. Copyright Office
+The US Music Modernization Act was designed partly to address this problem for digital music services. It created a new blanket mechanical licensing system for eligible digital uses and established the Mechanical Licensing Collective, which administers mechanical royalties for musical works, not sound recordings. The US Copyright Office stresses that the MLC does not distribute statutory royalties for sound recordings; those are handled separately by SoundExchange. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/music-modernization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">music modernization</span><span class="citation-popover-snippet">Copyright OfficeThe Music Modernization Act &#124; U.S. Copyright OfficeThe Music Modernization Act (MMA) updates the copyright law to make st...</span></span></span>. Copyright Office
 
 The MLC’s work also shows why data quality is central. Historical unmatched royalties existed because services had used music but could not reliably match all usage to the correct musical-work owners. The MLC reported in its 2024 annual report that, by June 2025, it had distributed large shares of previously unmatched historical royalties across earlier rate periods, but the need for a historical royalties process itself illustrates the administrative challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-title">the mechanical licensing collective</span><span class="citation-popover-snippet">the mechanical licensing collective</span></span></span>
 
@@ -577,7 +573,6 @@ PRS says it has representation agreements with societies in 100 countries so tha
 The European Union has tried to reduce friction for online music by regulating collective management and multi-territorial licensing. The European Commission’s collective-management framework requires organisations that grant multi-territory licences for online musical works to meet standards intended to improve governance and licensing efficiency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://europa.eu/rapid/press-release_MEMO-14-79_en.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europa.eu">[European Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europa.eu</span><span class="citation-popover-snippet">European UnionDirective on collective management of copyrightIn order to be able to grant multi-territory licences covering authors&#x27; righ...</span></span></span>
 
 Even so, global platforms do not erase territorial rights. A streaming service may operate internationally, but the rights underneath its catalogue still have to be cleared, reported and paid according to contracts, local law and society relationships. That is one reason a song may be available in one country and unavailable in another, or why royalty statements may arrive from multiple sources months apart.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGgan_kzNwU" title="Breaking Down the MMA: Part 1 - Introduction to the Music Copyright Law Protections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGgan_kzNwU" target="_blank" rel="noopener noreferrer">Breaking Down the MMA: Part 1 - Introduction to the Music Copyright Law Protections</a></p><p class="youtube-embed-meta">Channel: U.S. Copyright Office &middot; Views: 4.2K &middot; Uploaded: April 2020 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGgan_kzNwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGgan_kzNwU">Open on YouTube</a></p></div></div></div>
 
@@ -601,7 +596,6 @@ The result is a system with several recurring failure points:
 
 None of this means the system is irrational. It reflects a long history of trying to pay different contributors for different kinds of value: writing a song, performing it, financing a recording, distributing it, broadcasting it, streaming it or placing it in a film. The difficulty is that all those values are bundled into what the public experiences as one piece of music.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-3-dark.svg" | relative_url }}" alt="Rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the complexity is unlikely to disappear
 
@@ -611,9 +605,7 @@ But simplification has limits. A single licence can make access easier for users
 
 The most realistic future is therefore not a world where music has only one right, but one where the machinery becomes less leaky: better metadata, clearer creator registration, more transparent society rules, simpler blanket licensing for common uses and stronger tools for matching recordings to compositions. The core structure will remain complicated because music itself is not just one asset. It is a composition, a recording, a performance, a business relationship and a licensed use — all at once.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnUtUq25ECI" title="What is Synchronization License &amp; Sync Licensing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnUtUq25ECI" target="_blank" rel="noopener noreferrer">What is Synchronization License &amp; Sync Licensing?</a></p><p class="youtube-embed-meta">Channel: The Modern Musician &middot; Views: 42.9K &middot; Uploaded: July 2018 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnUtUq25ECI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnUtUq25ECI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -732,15 +724,15 @@ The most realistic future is therefore not a world where music has only one righ
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BIG BROTHER &amp; HOLDING CO 1968 GRANDE BALLROOM CONCERT POSTER FD-38(2) 1992"><img src="https://i.ebayimg.com/images/g/YQMAAOSwPXxn2eLt/s-l225.jpg" alt="Listing image for BIG BROTHER &amp; HOLDING CO 1968 GRANDE BALLROOM CONCERT POSTER FD-38(2) 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">BIG BROTHER &amp; HOLDING CO 1968 GRANDE BALLROOM CONCERT POSTER FD-38(2) 1992</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -748,15 +740,15 @@ The most realistic future is therefore not a world where music has only one righ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP"><img src="https://i.ebayimg.com/images/g/~yYAAOSwAGZmKknO/s-l225.jpg" alt="Listing image for Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -764,15 +756,15 @@ The most realistic future is therefore not a world where music has only one righ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers"><img src="https://i.ebayimg.com/images/g/0-gAAOSw9IxiVGk4/s-l225.jpg" alt="Listing image for Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -780,15 +772,15 @@ The most realistic future is therefore not a world where music has only one righ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tiesto In Concert US Tour 2005 Poster Music Industry Original"><img src="https://i.ebayimg.com/images/g/brAAAeSwK89p2kAt/s-l225.jpg" alt="Listing image for Tiesto In Concert US Tour 2005 Poster Music Industry Original" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Tiesto In Concert US Tour 2005 Poster Music Industry Original</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -796,7 +788,7 @@ The most realistic future is therefore not a world where music has only one righ
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rights-why-one-song-has-so-many-rights-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="rights-why-one-song-has-so-many-rights-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-song-has-so-many-rights-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="why-one-song-has-so-many-rights-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1012,242 +1004,242 @@ The most realistic future is therefore not a world where music has only one righ
 1. <a id="endnote-1"></a>
    Source: copyright.gov  
    Title: music modernization  
-   Link: [https://www.copyright.gov/music-modernization/](https://www.copyright.gov/music-modernization/)  
+   Link: <a href="https://www.copyright.gov/music-modernization/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeThe Music Modernization Act | U.S. Copyright OfficeThe Music Modernization Act (MMA) updates the copyright law to make st...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing](https://www.ascap.com/help/ascap-licensing)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
 
 3. <a id="endnote-3"></a>
    Source: ppluk.com  
-   Link: [https://www.ppluk.com/royalties/uk-royalties/performers/](https://www.ppluk.com/royalties/uk-royalties/performers/)  
+   Link: <a href="https://www.ppluk.com/royalties/uk-royalties/performers/" target="_blank" rel="noopener noreferrer nofollow">https://www.ppluk.com/royalties/uk-royalties/performers/</a>  
 
 4. <a id="endnote-4"></a>
    Source: ppluk.com  
-   Link: [https://www.ppluk.com/licensing/](https://www.ppluk.com/licensing/)  
+   Link: <a href="https://www.ppluk.com/licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.ppluk.com/licensing/</a>  
 
 5. <a id="endnote-5"></a>
    Source: soundexchange.com  
-   Link: [https://www.soundexchange.com/frequently-asked-questions/](https://www.soundexchange.com/frequently-asked-questions/)  
+   Link: <a href="https://www.soundexchange.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/frequently-asked-questions/</a>  
 
 6. <a id="endnote-6"></a>
    Source: soundexchange.com  
    Title: Sound Exchange Licensing 101  
-   Link: [https://www.soundexchange.com/service-provider/licensing-101/](https://www.soundexchange.com/service-provider/licensing-101/)  
+   Link: <a href="https://www.soundexchange.com/service-provider/licensing-101/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/service-provider/licensing-101/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/themusiclicence/](https://pplprs.co.uk/themusiclicence/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/</a>  
 
 8. <a id="endnote-8"></a>
    Source: soundexchange.com  
-   Link: [https://www.soundexchange.com/](https://www.soundexchange.com/)  
+   Link: <a href="https://www.soundexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/</a>  
 
 9. <a id="endnote-9"></a>
    Source: soundexchange.com  
-   Link: [https://www.soundexchange.com/what-we-do/for-digital-service-providers/](https://www.soundexchange.com/what-we-do/for-digital-service-providers/)  
+   Link: <a href="https://www.soundexchange.com/what-we-do/for-digital-service-providers/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/what-we-do/for-digital-service-providers/</a>  
 
 10. <a id="endnote-10"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help](https://www.ascap.com/help)  
+   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
 
 11. <a id="endnote-11"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/music-business-101/youtube-faq-uploaders](https://www.ascap.com/help/music-business-101/youtube-faq-uploaders)  
+   Link: <a href="https://www.ascap.com/help/music-business-101/youtube-faq-uploaders" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/music-business-101/youtube-faq-uploaders</a>  
 
 12. <a id="endnote-12"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/music-users/types/website-mobile-app-condensed-faqs](https://www.ascap.com/music-users/types/website-mobile-app-condensed-faqs)  
+   Link: <a href="https://www.ascap.com/music-users/types/website-mobile-app-condensed-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-users/types/website-mobile-app-condensed-faqs</a>  
 
 13. <a id="endnote-13"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/~/media/files/pdf/licensing/brochures/musiccopyright101.pdf](https://www.ascap.com/~/media/files/pdf/licensing/brochures/musiccopyright101.pdf)  
+   Link: <a href="https://www.ascap.com/~/media/files/pdf/licensing/brochures/musiccopyright101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/~/media/files/pdf/licensing/brochures/musiccopyright101.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/music-modernization/faq.html](https://www.copyright.gov/music-modernization/faq.html)  
+   Link: <a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: copyright.gov  
    Title: ML C-Ex-Parte-Meeting  
-   Link: [https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf](https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Breaking Down the MMA: Part 1  
-   Link: [https://www.youtube.com/watch?v=oGgan_kzNwU](https://www.youtube.com/watch?v=oGgan_kzNwU)  
+   Link: <a href="https://www.youtube.com/watch?v=oGgan_kzNwU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oGgan_kzNwU</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mwx9m6-z0fE](https://www.youtube.com/watch?v=Mwx9m6-z0fE)  
+   Link: <a href="https://www.youtube.com/watch?v=Mwx9m6-z0fE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mwx9m6-z0fE</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rnUtUq25ECI](https://www.youtube.com/watch?v=rnUtUq25ECI)  
+   Link: <a href="https://www.youtube.com/watch?v=rnUtUq25ECI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnUtUq25ECI</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Everything You Need to Know About Music Licensing  
-   Link: [https://www.youtube.com/watch?v=F3G955sY_lQ](https://www.youtube.com/watch?v=F3G955sY_lQ)  
+   Link: <a href="https://www.youtube.com/watch?v=F3G955sY_lQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3G955sY_lQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties 101: Understanding Master vs. Publishing...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Music Royalties 101: Understanding Master vs. Publishing  
-   Link: [https://www.youtube.com/watch?v=kYJ7x-w7Y8k](https://www.youtube.com/watch?v=kYJ7x-w7Y8k)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ7x-w7Y8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ7x-w7Y8k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Copyright Actually Works...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How Music Copyright Actually Works  
-   Link: [https://www.youtube.com/watch?v=YI5KsYv3aUk](https://www.youtube.com/watch?v=YI5KsYv3aUk)  
+   Link: <a href="https://www.youtube.com/watch?v=YI5KsYv3aUk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YI5KsYv3aUk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Music Rights Are So Complicated...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Why Music Rights Are So Complicated  
-   Link: [https://www.youtube.com/watch?v=eZbgOuw4HdU](https://www.youtube.com/watch?v=eZbgOuw4HdU)  
+   Link: <a href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZbgOuw4HdU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Music Publishing and Master Rights...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Understanding Music Publishing and Master Rights  
-   Link: [https://www.youtube.com/watch?v=p499j1Jb-Jk](https://www.youtube.com/watch?v=p499j1Jb-Jk)  
+   Link: <a href="https://www.youtube.com/watch?v=p499j1Jb-Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p499j1Jb-Jk</a>  
 
 24. <a id="endnote-24"></a>
    Source: europa.eu  
-   Link: [https://europa.eu/rapid/press-release_MEMO-14-79_en.htm](https://europa.eu/rapid/press-release_MEMO-14-79_en.htm)  
+   Link: <a href="https://europa.eu/rapid/press-release_MEMO-14-79_en.htm" target="_blank" rel="noopener noreferrer nofollow">https://europa.eu/rapid/press-release_MEMO-14-79_en.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionDirective on collective management of copyrightIn order to be able to grant multi-territory licences covering authors&#x27; righ...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do/prs-and-mcps](https://www.prsformusic.com/what-we-do/prs-and-mcps)  
+   Link: <a href="https://www.prsformusic.com/what-we-do/prs-and-mcps" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/prs-and-mcps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS and MCPS: Who does what?PRS pay royalties to our members when their works are: broadcast on TV or radio; performed or pl...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do](https://www.prsformusic.com/what-we-do)  
+   Link: <a href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do</a>  
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties](https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties)  
+   Link: <a href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties</a>  
 
 28. <a id="endnote-28"></a>
    Source: mpaonline.org.uk  
    Title: Music Publishers Association MCPS  
-   Link: [https://mpaonline.org.uk/about/mcps/](https://mpaonline.org.uk/about/mcps/)  
+   Link: <a href="https://mpaonline.org.uk/about/mcps/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/about/mcps/</a>  
 
 29. <a id="endnote-29"></a>
    Source: help.harryfox.com  
-   Link: [https://help.harryfox.com/what-is-a-synchronization-license](https://help.harryfox.com/what-is-a-synchronization-license)  
+   Link: <a href="https://help.harryfox.com/what-is-a-synchronization-license" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/what-is-a-synchronization-license</a>  
 
 30. <a id="endnote-30"></a>
    Source: themlc.com  
    Title: The MLC 2024 Annual Report  
-   Link: [https://www.themlc.com/hubfs/The%20MLC%202024%20Annual%20Report.pdf](https://www.themlc.com/hubfs/The%20MLC%202024%20Annual%20Report.pdf)  
+   Link: <a href="https://www.themlc.com/hubfs/The%20MLC%202024%20Annual%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/hubfs/The%20MLC%202024%20Annual%20Report.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/historical-royalties](https://www.themlc.com/historical-royalties)  
+   Link: <a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
 
 32. <a id="endnote-32"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
 
 33. <a id="endnote-33"></a>
    Source: library.mi.edu  
-   Link: [https://library.mi.edu/musiccopyright/licensing](https://library.mi.edu/musiccopyright/licensing)  
+   Link: <a href="https://library.mi.edu/musiccopyright/licensing" target="_blank" rel="noopener noreferrer nofollow">https://library.mi.edu/musiccopyright/licensing</a>  
 
 34. <a id="endnote-34"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news](https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news)  
+   Link: <a href="https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news</a>  
 
 35. <a id="endnote-35"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour](https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour)  
+   Link: <a href="https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour</a>  
 
 36. <a id="endnote-36"></a>
    Source: soundcharts.com  
    Title: mechanical royalties  
-   Link: [https://soundcharts.com/en/blog/mechanical-royalties](https://soundcharts.com/en/blog/mechanical-royalties)  
+   Link: <a href="https://soundcharts.com/en/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/mechanical-royalties</a>  
 
 37. <a id="endnote-37"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
 
 38. <a id="endnote-38"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties](https://www.prsformusic.com/royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties</a>  
 
 39. <a id="endnote-39"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do/who-we-work-with/ppl](https://www.prsformusic.com/what-we-do/who-we-work-with/ppl)  
+   Link: <a href="https://www.prsformusic.com/what-we-do/who-we-work-with/ppl" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/who-we-work-with/ppl</a>  
 
 40. <a id="endnote-40"></a>
    Source: orphiq.com  
    Title: soundexchange digital royalties  
-   Link: [https://orphiq.com/resources/soundexchange-digital-royalties](https://orphiq.com/resources/soundexchange-digital-royalties)  
+   Link: <a href="https://orphiq.com/resources/soundexchange-digital-royalties" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/soundexchange-digital-royalties</a>  
 
 41. <a id="endnote-41"></a>
    Source: Wikipedia  
    Title: PRS for Music  
-   Link: [https://en.wikipedia.org/wiki/PRS_for_Music](https://en.wikipedia.org/wiki/PRS_for_Music)  
+   Link: <a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
 
 42. <a id="endnote-42"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/music/music-modernization-act](https://www.ebsco.com/research-starters/music/music-modernization-act)  
+   Link: <a href="https://www.ebsco.com/research-starters/music/music-modernization-act" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/music/music-modernization-act</a>  
 
 43. <a id="endnote-43"></a>
    Source: hallboothsmith.com  
    Title: music modernization act  
-   Link: [https://hallboothsmith.com/music-modernization-act/](https://hallboothsmith.com/music-modernization-act/)  
+   Link: <a href="https://hallboothsmith.com/music-modernization-act/" target="_blank" rel="noopener noreferrer nofollow">https://hallboothsmith.com/music-modernization-act/</a>  
 
 44. <a id="endnote-44"></a>
    Source: blog.songtrust.com  
    Title: the mechanical licensing collective  
-   Link: [https://blog.songtrust.com/the-mechanical-licensing-collective](https://blog.songtrust.com/the-mechanical-licensing-collective)  
+   Link: <a href="https://blog.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/the-mechanical-licensing-collective</a>  
 
 ### Additional References
 
 45. <a id="endnote-45"></a>
    Source: umusicpub.com  
-   Link: [https://www.umusicpub.com/nl/How-To-License-Music.aspx](https://www.umusicpub.com/nl/How-To-License-Music.aspx)  
+   Link: <a href="https://www.umusicpub.com/nl/How-To-License-Music.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.umusicpub.com/nl/How-To-License-Music.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Music PublishingLicensing Music- The second set of rights you need to clear are the Master Rights which are for the actual soun...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: uspto.gov  
-   Link: [https://www.uspto.gov/sites/default/files/documents/SoundExchange_Comments.pdf](https://www.uspto.gov/sites/default/files/documents/SoundExchange_Comments.pdf)  
+   Link: <a href="https://www.uspto.gov/sites/default/files/documents/SoundExchange_Comments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uspto.gov/sites/default/files/documents/SoundExchange_Comments.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/](https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/</a>  
 
 48. <a id="endnote-48"></a>
    Source: foximusic.com  
-   Link: [https://www.foximusic.com/7-types-of-music-licenses/](https://www.foximusic.com/7-types-of-music-licenses/)  
+   Link: <a href="https://www.foximusic.com/7-types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.foximusic.com/7-types-of-music-licenses/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TeacherMpamire/posts/according-to-copy-right-laws-neighbouring-rights-or-related-rights-are-not-about/1463868558425378/](https://www.facebook.com/TeacherMpamire/posts/according-to-copy-right-laws-neighbouring-rights-or-related-rights-are-not-about/1463868558425378/)  
+   Link: <a href="https://www.facebook.com/TeacherMpamire/posts/according-to-copy-right-laws-neighbouring-rights-or-related-rights-are-not-about/1463868558425378/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TeacherMpamire/posts/according-to-copy-right-laws-neighbouring-rights-or-related-rights-are-not-about/1463868558425378/</a>  
 
 50. <a id="endnote-50"></a>
    Source: classicalmusicrising.org  
-   Link: [https://classicalmusicrising.org/wp-content/uploads/Music-Rights-Weisbroth_Digital_Music_Licensing_Guide.pdf](https://classicalmusicrising.org/wp-content/uploads/Music-Rights-Weisbroth_Digital_Music_Licensing_Guide.pdf)  
+   Link: <a href="https://classicalmusicrising.org/wp-content/uploads/Music-Rights-Weisbroth_Digital_Music_Licensing_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://classicalmusicrising.org/wp-content/uploads/Music-Rights-Weisbroth_Digital_Music_Licensing_Guide.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: soundtrack.io  
-   Link: [https://www.soundtrack.io/blog/paying-ascap-and-bmi/](https://www.soundtrack.io/blog/paying-ascap-and-bmi/)  
+   Link: <a href="https://www.soundtrack.io/blog/paying-ascap-and-bmi/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundtrack.io/blog/paying-ascap-and-bmi/</a>  
 
 52. <a id="endnote-52"></a>
    Source: exploration.io  
-   Link: [https://exploration.io/how-does-the-music-modernization-act-work/](https://exploration.io/how-does-the-music-modernization-act-work/)  
+   Link: <a href="https://exploration.io/how-does-the-music-modernization-act-work/" target="_blank" rel="noopener noreferrer nofollow">https://exploration.io/how-does-the-music-modernization-act-work/</a>  
 
 53. <a id="endnote-53"></a>
    Source: ipoi.gov.ie  
-   Link: [https://www.ipoi.gov.ie/en/types-of-ip/copyright1/copyright-licensing-bodies/collective-management-of-copyright-related-rights/](https://www.ipoi.gov.ie/en/types-of-ip/copyright1/copyright-licensing-bodies/collective-management-of-copyright-related-rights/)  
+   Link: <a href="https://www.ipoi.gov.ie/en/types-of-ip/copyright1/copyright-licensing-bodies/collective-management-of-copyright-related-rights/" target="_blank" rel="noopener noreferrer nofollow">https://www.ipoi.gov.ie/en/types-of-ip/copyright1/copyright-licensing-bodies/collective-management-of-copyright-related-rights/</a>  
 
 54. <a id="endnote-54"></a>
    Source: itsright.it  
-   Link: [https://www.itsright.it/en/producers/](https://www.itsright.it/en/producers/)  
+   Link: <a href="https://www.itsright.it/en/producers/" target="_blank" rel="noopener noreferrer nofollow">https://www.itsright.it/en/producers/</a>

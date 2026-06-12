@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675
 - music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1
 tags:
-- music
+- music-3-a01-be
 - royalties
 - missing-royalties
 keywords:
-- music
+- music-3-a01-be
 - royalties
 - missing-royalties
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Artists who only upload through a distributor may collect master income while leaving publishing royalties unclaimed.
 hero_summary: Artists who only upload through a distributor may collect master income while leaving publishing royalties unclaimed.
 layout: default
 permalink: /missing-royalties/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /royalties/
 nav_short_title: Missing royalties
 title: The royalties artists forget to collect
-title_full: The royalties artists forget to collect | Royalties
+title_full: The royalties artists forget to collect
 display_title_short: Missing royalties
 display_title: Missing royalties
 heading_title: The royalties artists forget to collect
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Streaming Money Actually Reaches Artists | Music
+parent_title: How Streaming Money Actually Reaches Artists
 parent_permalink: /royalties/
 parent_nav_short_title: Royalties
 parent_heading_title: How Streaming Money Actually Reaches Artists
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How songwriters get paid from streams
 up_link:
   basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -265,7 +265,7 @@ next_link:
   permalink: /payout-rates/
   short_title: Payout rates
   heading_title: Why one stream is not worth one price
-date: '2026-06-09 07:53:12 '
+date: '2026-06-11 23:58:19 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishin
 ## Introduction
 
 Many independent artists believe that once a song is uploaded through a distributor, all streaming income will automatically reach them. In reality, distribution usually covers only the sound recording, or “master”, side of the business. The songwriting side operates through separate registration and collection systems. As a result, artists can receive recording [royalties]({{ 'royalties/' | relative_url }}) from Spotify, Apple Music or Amazon Music while leaving [publishing]({{ 'publishing/' | relative_url }}) royalties uncollected for the very same streams. This gap is one of the most common causes of missing music income, particularly among self-releasing artists who write their own songs. The problem is not usually that the money does not exist; it is that the systems responsible for paying songwriters cannot identify who should receive it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1-dark.svg" | relative_url }}" alt="Missing royalties illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why distribution is not the same as publishing administration
@@ -290,10 +289,9 @@ The consequence is straightforward: a self-releasing singer-songwriter can succe
 
 ### Missing mechanical royalty registrations
 
-In the United States, interactive streaming services send digital mechanical royalties to The MLC, which then matches usage reports to registered musical works and pays eligible rights holders. If a songwriter or publisher has not properly registered the composition, the money can accumulate without being paid to the correct owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span>
+In the United States, interactive streaming services send digital mechanical royalties to The MLC, which then matches usage reports to registered musical works and pays eligible [rights]({{ 'rights/' | relative_url }}) holders. If a songwriter or publisher has not properly registered the composition, the money can accumulate without being paid to the correct owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span>
 
 The scale of the issue has been significant. The MLC inherited hundreds of millions of dollars in historical unmatched and unclaimed royalties connected to works that could not be properly identified or matched. The organisation's matching and claiming systems were created specifically because large volumes of songwriter income were failing to reach the correct owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC Is Here to...It happens so much that we, as an organization, received $424 million in historical unmatched and unclaimed royalti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/songwriters-claim-mlc-money/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">Ari&#x27;s Take The MLC is Sitting On $423 Million, How Songwriters Can</span><span class="citation-popover-snippet">Ari&#x27;s TakeThe MLC is Sitting On $423 Million, How Songwriters Can...May 5, 2021 — It collects mechanical royalties from DSPs (streaming...</span><span class="citation-popover-meta">Published: May 5, 2021</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BJP6kpdtDtc" title="The MLC Portal: How to Use the Claiming Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BJP6kpdtDtc" target="_blank" rel="noopener noreferrer">The MLC Portal: How to Use the Claiming Tool</a></p><p class="youtube-embed-meta">Channel: The MLC &middot; Views: 3.1K &middot; Uploaded: November 2022 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BJP6kpdtDtc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BJP6kpdtDtc">Open on YouTube</a></p></div></div></div>
 
@@ -309,11 +307,10 @@ Even when songs are registered, inaccurate metadata can create payment problems.
 
 For collaborative songwriting, these errors can become especially costly because one incorrect share allocation can affect multiple royalty streams across many territories and services.
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-2-dark.svg" | relative_url }}" alt="Missing royalties illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### International publishing gaps
 
-Publishing income is often collected through a network of territorial societies and administrators. Artists who self-administer may successfully collect domestic royalties while missing foreign mechanical or performance income because they lack registrations or representation in overseas markets. Research into unpaid [music]({{ 'music/' | relative_url }}) royalties has identified foreign publishing collections as a frequent source of missing income for independent songwriters who are unaware of the relevant administrative requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://remix.berklee.edu/cgi/viewcontent.cgi?article=1277&amp;context=graduate-studies-global-entertainment-business&amp;filename=0&amp;type=additional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remix.berklee.edu">[remix.berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remix.berklee.edu</span><span class="citation-popover-snippet">○ Songwriters and Publishers can miss out foreign mechanical royalties if they are not aware of the...</span></span></span>
+Publishing income is often collected through a network of territorial societies and administrators. Artists who self-administer may successfully collect domestic royalties while missing foreign mechanical or performance income because they lack registrations or representation in overseas markets. Research into unpaid music royalties has identified foreign publishing collections as a frequent source of missing income for independent songwriters who are unaware of the relevant administrative requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://remix.berklee.edu/cgi/viewcontent.cgi?article=1277&amp;context=graduate-studies-global-entertainment-business&amp;filename=0&amp;type=additional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remix.berklee.edu">[remix.berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remix.berklee.edu</span><span class="citation-popover-snippet">○ Songwriters and Publishers can miss out foreign mechanical royalties if they are not aware of the...</span></span></span>
 
 ## The hidden risk of unmatched and black-box royalties
 
@@ -322,7 +319,6 @@ When collecting organisations receive royalty money but cannot confidently ident
 This creates a structural risk for artists who fail to register their works. The royalties may continue to exist, but they may not remain available indefinitely in a simple holding account. The MLC holds unmatched royalties for a period while attempting to identify owners. After statutory processes are exhausted, remaining unmatched funds can be distributed according to market-share-based formulas rather than being individually assigned to the songwriter who failed to register properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.themlc.com">[blog.themlc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.themlc.com</span><span class="citation-popover-snippet">January 1, 2021, will be held for a minimum of 3 years to find &amp; pay the rightful owner...</span><span class="citation-popover-meta">Published: January 1, 2021</span></span></span>
 
 The broader music industry has long referred to these pools as “black box” royalties: money generated by music usage but not successfully connected to a rights owner. While collection societies continue improving matching systems, registration failures remain one of the main reasons these pools exist. U.S. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2020/06/02/2020-11893/unclaimed-royalties-study-notice-of-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">Federal Register Unclaimed Royalties Study: Notice of Inquiry</span><span class="citation-popover-snippet">Unclaimed Royalties Study: Notice of Inquiry - Federal RegisterJune 2, 2020 — The US Copyright Office is undertaking a study as directed...</span><span class="citation-popover-meta">Published: June 2, 2020</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-34kxLpXKTQ" title="Spotify vs. MLC: The Bundled Royalties Showdown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-34kxLpXKTQ" target="_blank" rel="noopener noreferrer">Spotify vs. MLC: The Bundled Royalties Showdown</a></p><p class="youtube-embed-meta">Channel: Sound Connections Podcast &middot; Views: 1.9K &middot; Uploaded: August 2024 &middot; Length: 3 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-34kxLpXKTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-34kxLpXKTQ">Open on YouTube</a></p></div></div></div>
 
@@ -340,21 +336,18 @@ Key checks include:
 
 * **Check songwriter splits and ownership percentages** before release so that all co-writers are correctly identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span>
 * **Review metadata regularly**, including song titles, writer names and recording identifiers, to improve matching accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span>
-* **Determine whether a publishing administrator is already acting on your behalf.** Duplicate or conflicting registrations can create additional complications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[Musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">MusosoupMechanical Licensing Collective: What It Is and How to Get...Individuals who own their publishing rights must join the MLC direc...</span></span></span>
+* **Determine whether a publishing administrator is already acting on your behalf.** Duplicate or conflicting registrations can create additional complications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[Musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">Mechanical Licensing Collective: What It Is and How to Get...Individuals who own their publishing rights must join the MLC direc...</span></span></span>
 
 </div>
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-3-dark.svg" | relative_url }}" alt="Missing royalties illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this remains a persistent problem
 
 The modern streaming economy generates revenue through interconnected databases rather than a single payment channel. Recording royalties often reach artists quickly because distributors make the process relatively simple. Publishing income, however, depends on ownership records, collection societies, matching systems and territory-specific administration. The result is a persistent gap between music being streamed and songwriters being fully paid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</span></span></span>
 
-For many independent artists, the missing money is not caused by low streaming volume but by incomplete registration. A song can generate master royalties and songwriter royalties simultaneously, yet only the master side may arrive if the publishing infrastructure has been neglected. That administrative oversight is one of the most common and costly leaks in the [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/mlc-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">mlc mechanical licensing collective</span><span class="citation-popover-snippet">OrphiqThe MLC (Mechanical Licensing Collective) ExplainedMar 15, 2026 — What the MLC does, how to register, and why every songwriter need...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC Is Here to...It happens so much that we, as an organization, received $424 million in historical unmatched and unclaimed royalti...</span></span></span>
-
+For many independent artists, the missing money is not caused by low streaming volume but by incomplete registration. A song can generate master royalties and songwriter royalties simultaneously, yet only the master side may arrive if the publishing infrastructure has been neglected. That administrative oversight is one of the most common and costly leaks in the streaming revenue chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/mlc-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">mlc mechanical licensing collective</span><span class="citation-popover-snippet">The MLC (Mechanical Licensing Collective) ExplainedMar 15, 2026 — What the MLC does, how to register, and why every songwriter need...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC Is Here to...It happens so much that we, as an organization, received $424 million in historical unmatched and unclaimed royalti...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MkRO-Fj3cig" title="Independent Music Distributors — Learn How to Access Unclaimed Royalties for DIY Artists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MkRO-Fj3cig" target="_blank" rel="noopener noreferrer">Independent Music Distributors — Learn How to Access Unclaimed Royalties for DIY Artists</a></p><p class="youtube-embed-meta">Channel: The MLC &middot; Views: 1.8K &middot; Uploaded: October 2022 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MkRO-Fj3cig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MkRO-Fj3cig">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +466,15 @@ For many independent artists, the missing money is not caused by low streaming v
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="{{ '/assets/images/marketplace-covers/aafd49b6541a0d191524.jpg' | relative_url }}" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe"><img src="https://i.ebayimg.com/images/g/rhgAAOSw5cVoVmvQ/s-l225.jpg" alt="Listing image for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +482,15 @@ For many independent artists, the missing money is not caused by low streaming v
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL"><img src="{{ '/assets/images/marketplace-covers/dd41612c1da6de007428.jpg' | relative_url }}" alt="Listing image for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Singer Songwriter Washed T shirt"><img src="https://i.ebayimg.com/images/g/lbIAAeSwDgxqDCgY/s-l225.jpg" alt="Listing image for Retro Singer Songwriter Washed T shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Singer Songwriter Washed T shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +498,15 @@ For many independent artists, the missing money is not caused by low streaming v
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/c17eefb77a846028fdca.jpg' | relative_url }}" alt="Listing image for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORLD&#x27;S GREATEST SONGWRITER T-SHIRT cool funny gift idea"><img src="https://i.ebayimg.com/images/g/z58AAOSwP2poAT~0/s-l225.jpg" alt="Listing image for WORLD&#x27;S GREATEST SONGWRITER T-SHIRT cool funny gift idea" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WORLD&#x27;S GREATEST SONGWRITER T-SHIRT cool funny gift idea</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +514,15 @@ For many independent artists, the missing money is not caused by low streaming v
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747"><img src="{{ '/assets/images/marketplace-covers/696295e8f4efb55facc4.jpg' | relative_url }}" alt="Listing image for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Joke Definition Mens T-Shirt Gift Band Singer Writer Songwriter Lyrics"><img src="https://i.ebayimg.com/images/g/O-0AAOSwtOZcdptE/s-l225.jpg" alt="Listing image for Lyricist Joke Definition Mens T-Shirt Gift Band Singer Writer Songwriter Lyrics" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Joke Definition Mens T-Shirt Gift Band Singer Writer Songwriter Lyrics</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +530,7 @@ For many independent artists, the missing money is not caused by low streaming v
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="missing-royalties-the-royalties-artists-forget-to-collect-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-royalties-artists-forget-to-collect-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="the-royalties-artists-forget-to-collect-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,95 +745,95 @@ For many independent artists, the missing money is not caused by low streaming v
 
 1. <a id="endnote-1"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/resources-songwriters](https://www.themlc.com/resources-songwriters)  
+   Link: <a href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-songwriters</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveResources - SongwritersRegistering your musical works with The MLC does not replace other registration act...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/how-it-works](https://www.themlc.com/how-it-works)  
+   Link: <a href="https://www.themlc.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/how-it-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHow It WorksThe MLC administers blanket mechanical licenses for eligible streaming and download services i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC Is Here to...It happens so much that we, as an organization, received $424 million in historical unmatched and unclaimed royalti...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: help.themlc.com  
-   Link: [https://help.themlc.com/en/support/what-are-historical-unmatched-royalties](https://help.themlc.com/en/support/what-are-historical-unmatched-royalties)  
+   Link: <a href="https://help.themlc.com/en/support/what-are-historical-unmatched-royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.themlc.com/en/support/what-are-historical-unmatched-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>are historical unmatched royalties?Historical unmatched royalties are digital audio mechanical royalties that were generated before Janua...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: orphiq.com  
    Title: mlc mechanical licensing collective  
-   Link: [https://orphiq.com/resources/mlc-mechanical-licensing-collective](https://orphiq.com/resources/mlc-mechanical-licensing-collective)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqThe MLC (Mechanical Licensing Collective) ExplainedMar 15, 2026 — What the MLC does, how to register, and why every songwriter need...</p></details>
+   Link: <a href="https://orphiq.com/resources/mlc-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/mlc-mechanical-licensing-collective</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC (Mechanical Licensing Collective) ExplainedMar 15, 2026 — What the MLC does, how to register, and why every songwriter need...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/tools](https://www.themlc.com/tools)  
+   Link: <a href="https://www.themlc.com/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/tools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveThe MLC&#x27;s ToolsThe MLC offers a suite of tools to help you find, register, claim, and manage your musical...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/historical-royalties](https://www.themlc.com/historical-royalties)  
+   Link: <a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHistorical RoyaltiesOnce Members have used the Claiming Tool to find their unclaimed shares, they can use...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: remix.berklee.edu  
-   Link: [https://remix.berklee.edu/cgi/viewcontent.cgi?article=1277&context=graduate-studies-global-entertainment-business&filename=0&type=additional](https://remix.berklee.edu/cgi/viewcontent.cgi?article=1277&context=graduate-studies-global-entertainment-business&filename=0&type=additional)  
+   Link: <a href="https://remix.berklee.edu/cgi/viewcontent.cgi?article=1277&amp;context=graduate-studies-global-entertainment-business&amp;filename=0&amp;type=additional" target="_blank" rel="noopener noreferrer nofollow">https://remix.berklee.edu/cgi/viewcontent.cgi?article=1277&amp;context=graduate-studies-global-entertainment-business&amp;filename=0&amp;type=additional</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>○ Songwriters and Publishers can miss out foreign mechanical royalties if they are not aware of the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: blog.themlc.com  
-   Link: [https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties](https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties)  
+   Link: <a href="https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2021, will be held for a minimum of 3 years to find &amp; pay the rightful owner...</p></details>
    Published: January 1, 2021  
 
 11. <a id="endnote-11"></a>
    Source: copyright.gov  
    Title: unclaimed royalties final report  
-   Link: [https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf](https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf)  
+   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office[PDF] Unclaimed Royalties: Best Practice Recommendations for the...July 8, 2021 — This report reflects the dedication an...</p></details>
    Published: July 8, 2021  
 
 12. <a id="endnote-12"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/mechanical-licensing-collective](https://musosoup.com/blog/mechanical-licensing-collective)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusosoupMechanical Licensing Collective: What It Is and How to Get...Individuals who own their publishing rights must join the MLC direc...</p></details>
+   Link: <a href="https://musosoup.com/blog/mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/mechanical-licensing-collective</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing Collective: What It Is and How to Get...Individuals who own their publishing rights must join the MLC direc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/statutory-terminations](https://www.themlc.com/statutory-terminations)  
+   Link: <a href="https://www.themlc.com/statutory-terminations" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/statutory-terminations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statutory TerminationsThe MLC offers a suite of tools to help you find, register, claim, and manage your musical works (aka song) data so...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/](https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressThe Breakdown: What Songwriters Need to Know about...Apr 13, 2020 — The MLC will only distribute mechanical royal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/](https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC&#x27;s most important job is to identify and locate musical work copyright owners and match...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aristake.com  
    Title: Ari's Take The MLC is Sitting On $423 Million, How Songwriters Can  
-   Link: [https://aristake.com/songwriters-claim-mlc-money/](https://aristake.com/songwriters-claim-mlc-money/)  
+   Link: <a href="https://aristake.com/songwriters-claim-mlc-money/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/songwriters-claim-mlc-money/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ari&#x27;s TakeThe MLC is Sitting On $423 Million, How Songwriters Can...May 5, 2021 — It collects mechanical royalties from DSPs (streaming...</p></details>
    Published: May 5, 2021  
 
 17. <a id="endnote-17"></a>
    Source: federalregister.gov  
    Title: Federal Register Unclaimed Royalties Study: Notice of Inquiry  
-   Link: [https://www.federalregister.gov/documents/2020/06/02/2020-11893/unclaimed-royalties-study-notice-of-inquiry](https://www.federalregister.gov/documents/2020/06/02/2020-11893/unclaimed-royalties-study-notice-of-inquiry)  
+   Link: <a href="https://www.federalregister.gov/documents/2020/06/02/2020-11893/unclaimed-royalties-study-notice-of-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2020/06/02/2020-11893/unclaimed-royalties-study-notice-of-inquiry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclaimed Royalties Study: Notice of Inquiry - Federal RegisterJune 2, 2020 — The US Copyright Office is undertaking a study as directed...</p></details>
    Published: June 2, 2020  
 
@@ -848,54 +841,54 @@ For many independent artists, the missing money is not caused by low streaming v
 
 18. <a id="endnote-18"></a>
    Source: musicreports.com  
-   Link: [https://www.musicreports.com/html_pages/faq](https://www.musicreports.com/html_pages/faq)  
+   Link: <a href="https://www.musicreports.com/html_pages/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.musicreports.com/html_pages/faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQThe MLC also manages a publicly available music rights ownership database and a music claiming system similar to the one Music Reports...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BJP6kpdtDtc](https://www.youtube.com/watch?v=BJP6kpdtDtc)  
+   Link: <a href="https://www.youtube.com/watch?v=BJP6kpdtDtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJP6kpdtDtc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC Portal: How to Use the Claiming ToolThe MLC Claiming Tool helps Members claim their share of songs that are already registered in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-34kxLpXKTQ](https://www.youtube.com/watch?v=-34kxLpXKTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=-34kxLpXKTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-34kxLpXKTQ</a>  
 
 21. <a id="endnote-21"></a>
    Source: diymusician.cdbaby.com  
    Title: DIY Musician What is the Mechanical Licensing Collective?  
-   Link: [https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/](https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| DIY Musician8 Feb 2022 — The good news for international artists is that you can still collect mechanical royalties from the MLC if you...</p></details>
+   Link: <a href="https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIY Musician8 Feb 2022 — The good news for international artists is that you can still collect mechanical royalties from the MLC if you...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: Songtrust acts as your **Publishing Administrator**,  
-   Link: [https://www.facebook.com/ONLY1GEEGEEMILLER/posts/if-you-have-songtrust-you-do-not-need-to-register-your-music-directly-with-the-m/10109208516426437/](https://www.facebook.com/ONLY1GEEGEEMILLER/posts/if-you-have-songtrust-you-do-not-need-to-register-your-music-directly-with-the-m/10109208516426437/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookIf you have **Songtrust**, you do **NOT** need to register...If you have **Songtrust**, you do **NOT** need to register your mus...</p></details>
+   Link: <a href="https://www.facebook.com/ONLY1GEEGEEMILLER/posts/if-you-have-songtrust-you-do-not-need-to-register-your-music-directly-with-the-m/10109208516426437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ONLY1GEEGEEMILLER/posts/if-you-have-songtrust-you-do-not-need-to-register-your-music-directly-with-the-m/10109208516426437/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you have **Songtrust**, you do **NOT** need to register...If you have **Songtrust**, you do **NOT** need to register your mus...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: songtrust.com  
-   Link: [https://www.songtrust.com/the-mechanical-licensing-collective](https://www.songtrust.com/the-mechanical-licensing-collective)  
+   Link: <a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mechanical Licensing Collective (The MLC)Songwriters, composers, lyricists and music publishers do not pay to use The MLC...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8](https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8)  
+   Link: <a href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ates the royalties due for each song and sends its members the...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-insanity-of-the-mlc-b7afb2533b3a](https://medium.com/%40JPriceOfMusic/the-insanity-of-the-mlc-b7afb2533b3a)  
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-insanity-of-the-mlc-b7afb2533b3a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-insanity-of-the-mlc-b7afb2533b3a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e needed information to allow us to resolve conflicts or...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: chartlex.com  
-   Link: [https://www.chartlex.com/blog/money/mlc-unclaimed-royalties-claim-guide-2026?srsltid=AfmBOoqDF0H6s6UInKW_NV8myvCFwOkovG7AwlPjOCME6JJZeEp2G1rV](https://www.chartlex.com/blog/money/mlc-unclaimed-royalties-claim-guide-2026?srsltid=AfmBOoqDF0H6s6UInKW_NV8myvCFwOkovG7AwlPjOCME6JJZeEp2G1rV)  
+   Link: <a href="https://www.chartlex.com/blog/money/mlc-unclaimed-royalties-claim-guide-2026?srsltid=AfmBOoqDF0H6s6UInKW_NV8myvCFwOkovG7AwlPjOCME6JJZeEp2G1rV" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/money/mlc-unclaimed-royalties-claim-guide-2026?srsltid=AfmBOoqDF0H6s6UInKW_NV8myvCFwOkovG7AwlPjOCME6JJZeEp2G1rV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Claim Your Share of the MLC&#x27;s $424M Black Box...May 16, 2026 — The MLC inherited a $424M black box pool of unmatched mechanical r...</p></details>
    Published: May 16, 2026  
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
    Title: Unclaimed royalties don't wait forever  
-   Link: [https://www.instagram.com/reel/DSfcfKIja9V/](https://www.instagram.com/reel/DSfcfKIja9V/)  
+   Link: <a href="https://www.instagram.com/reel/DSfcfKIja9V/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSfcfKIja9V/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you released music years...December 20, 2025 — The MLC holds unmatched royalties, but if you don&#x27;t register your songs correctly, tha...</p></details>
-   Published: December 20, 2025  
+   Published: December 20, 2025

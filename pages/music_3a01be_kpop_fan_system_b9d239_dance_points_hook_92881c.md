@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1
 - music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79
 tags:
-- music
+- music-3-a01-be
 - k-pop
 - dance-hooks
 keywords:
-- music
+- music-3-a01-be
 - k-pop
 - dance-hooks
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A K-pop chorus often becomes a short dance gesture that fans can copy, clip, compare and spread across platforms.
 hero_summary: A K-pop chorus often becomes a short dance gesture that fans can copy, clip, compare and spread across platforms.
 layout: default
 permalink: /dance-hooks/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /k-pop/
 nav_short_title: Dance Hooks
 title: Why K pop choruses are built to move
-title_full: Why K pop choruses are built to move | K Pop
+title_full: Why K pop choruses are built to move
 display_title_short: Dance Hooks
 display_title: Dance Hooks
 heading_title: Why K pop choruses are built to move
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How K Pop Built A Global Fan Machine | Music
+parent_title: How K Pop Built A Global Fan Machine
 parent_permalink: /k-pop/
 parent_nav_short_title: K Pop
 parent_heading_title: How K Pop Built A Global Fan Machine
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why fans buy albums they do not play
 up_link:
   basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -265,7 +265,7 @@ next_link:
   permalink: /fan-labour/
   short_title: Fan Labour
   heading_title: When supporting idols starts to feel like work
-date: '2026-06-09 06:28:36 '
+date: '2026-06-11 23:15:34 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_9288
 ## Introduction
 
 A K-pop hit is often designed to be remembered not only through its [melody]({{ 'melody/' | relative_url }}) but through a specific movement. Industry insiders and scholars commonly call this a “point choreography” or “point dance”: a short, recognisable gesture, sequence or pose that condenses the identity of a song into something fans can learn, imitate and share. Rather than treating choreography as decoration around the music, K-pop frequently builds [choruses]({{ 'choruses/' | relative_url }}) around movements that can be recognised within seconds. The result is a repeatable hook that travels across music shows, dance covers, TikTok clips, fan gatherings and casual social media posts. In the broader K-pop fan system, this transforms listening into participation and gives a song a second life beyond streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentK-Pop Dance Music Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-dark.svg" | relative_url }}" alt="Dance Hooks illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How point choreography turns songs into routines
@@ -294,29 +293,27 @@ Several characteristics make a dance point effective:
 
 This is one reason why some K-pop choreographies remain culturally visible long after release. Even when people forget verses or production details, they often remember the signature move.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B6CiKeNLUUQ" title="K pop Dance Fandom Lecture &amp; Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B6CiKeNLUUQ" target="_blank" rel="noopener noreferrer">K pop Dance Fandom Lecture &amp; Performance</a></p><p class="youtube-embed-meta">Channel: Dr. Chuyun Oh &middot; Views: 17.4K &middot; Uploaded: October 2022 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B6CiKeNLUUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B6CiKeNLUUQ">Open on YouTube</a></p></div></div></div>
 
 ## Why K-pop choruses are built to move
 
 In many pop markets, a chorus is primarily an audio event. In K-pop, it is frequently designed as an audio-visual event. The strongest choruses often coincide with the choreography's defining moment, creating a link between what listeners hear and what they see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentK-Pop Dance Music Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</span></span></span>
 
-This approach changes how songs spread. A catchy melody can be replayed, but a catchy movement can be replayed, performed, filmed and compared. Every fan who learns the routine effectively becomes a small-scale distributor of the song. The dance point therefore functions as a mechanism that converts spectators into participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Post45Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
+This approach changes how songs spread. A catchy melody can be replayed, but a catchy movement can be replayed, performed, filmed and compared. Every fan who learns the routine effectively becomes a small-scale distributor of the song. The dance point therefore functions as a mechanism that converts spectators into participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
 
-The strategy can also reduce the barrier to entry for new audiences. Someone encountering a challenge clip may engage first with the movement and only later become interested in the full song or artist. The choreography becomes an alternative discovery path into the [music]({{ 'music/' | relative_url }}) itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spir.aoir.org">[AoIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spir.aoir.org</span><span class="citation-popover-snippet">AoIREXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</span></span></span>
+The strategy can also reduce the barrier to entry for new audiences. Someone encountering a challenge clip may engage first with the movement and only later become interested in the full song or artist. The choreography becomes an alternative discovery path into the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spir.aoir.org">[AoIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spir.aoir.org</span><span class="citation-popover-snippet">EXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</span></span></span>
 
 ## Why dance practices and covers extend a comeback
 
 A K-pop comeback rarely ends when promotion on television finishes. Dance practices, performance videos and cover performances allow choreography to continue circulating after the initial release period.
 
-Dance practice videos are particularly important because they present choreography without the distractions of costumes, editing or stage effects. Fans can study formations, timing and technique directly. The popularity of these videos demonstrates that audiences often consume choreography as content in its own right rather than merely as accompaniment to a song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivywxy.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivywxy.medium.com</span><span class="citation-popover-snippet">MediumPoint Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</span></span></span>
+Dance practice videos are particularly important because they present choreography without the distractions of costumes, editing or stage effects. Fans can study formations, timing and technique directly. The popularity of these videos demonstrates that audiences often consume choreography as content in its own right rather than merely as accompaniment to a song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivywxy.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivywxy.medium.com</span><span class="citation-popover-snippet">Point Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</span></span></span>
 
 Cover [culture]({{ 'culture/' | relative_url }}) extends this cycle further. Around the world, fans learn routines individually or in groups, upload performances and organise public events centred on K-pop choreography. Research on K-pop dance communities shows that imitation is not simply copying; it is a form of participation through which fans build identity, social connections and visibility within fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
 
-Random Play Dance events illustrate the mechanism clearly. Participants gather in public spaces, songs are played unpredictably, and anyone who knows the choreography jumps in. Success depends on the existence of widely recognised dance points. These events turn shared choreographic knowledge into a social activity and keep older songs culturally active long after their release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Post45Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
+Random Play Dance events illustrate the mechanism clearly. Participants gather in public spaces, songs are played unpredictably, and anyone who knows the choreography jumps in. Success depends on the existence of widely recognised dance points. These events turn shared choreographic knowledge into a social activity and keep older songs culturally active long after their release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
 
-The growing popularity of dedicated K-pop dance classes outside Korea reflects the same dynamic. Fans are not only consuming recordings; they are learning physical routines associated with them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">the classes just keep growing how k pop dancing is taking off in the uk</span><span class="citation-popover-snippet">Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</span></span></span>
-
+The growing popularity of dedicated K-pop dance classes outside Korea reflects the same dynamic. Fans are not only consuming recordings; they are learning [physical]({{ 'physical/' | relative_url }}) routines associated with them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">the classes just keep growing how k pop dancing is taking off in the uk</span><span class="citation-popover-snippet">Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-2-dark.svg" | relative_url }}" alt="Dance Hooks illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where participation becomes promotion
@@ -329,9 +326,7 @@ K-pop companies increasingly design choreography with this environment in mind. 
 
 The viral spread of challenge culture demonstrates how effective this can be. Fan-created dance trends have sometimes become large enough that artists themselves join them, reversing the traditional relationship between promoter and audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue NCT 127 Did a &quot;Kick It&quot; Challenge Started by Three Chicago Teens</span><span class="citation-popover-snippet">NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8fFewqdVd8E" title="Cigarettes After Sex - K. (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer">Cigarettes After Sex - K. (Lyrics)</a></p><p class="youtube-embed-meta">Channel: Dan Music &middot; Views: 11.8K &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8fFewqdVd8E">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-dark.svg" | relative_url }}" alt="Dance Hooks illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The balance between simplicity and spectacle
 
 A useful tension sits at the centre of K-pop choreography. Entire routines are often demanding, requiring precision, stamina and synchronisation. Yet the most memorable section is frequently much simpler.
@@ -340,17 +335,13 @@ This balance is deliberate. Spectacle gives performances their professional appe
 
 Synchronisation remains a major part of K-pop's visual identity, but the dance point provides the entry point through which audiences engage with that synchronisation. Fans may not learn an entire routine, yet they can still perform the song's defining gesture and feel connected to the performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ukmW3Yg59Uc" title="KPOP RANDOM PLAY DANCE 2026 |WITH CHALLENGES|" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ukmW3Yg59Uc" target="_blank" rel="noopener noreferrer">KPOP RANDOM PLAY DANCE 2026 |WITH CHALLENGES|</a></p><p class="youtube-embed-meta">Channel: kpop stufff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ukmW3Yg59Uc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ukmW3Yg59Uc">Open on YouTube</a></p></div></div></div>
-
 ## Why dance hooks matter to the fan system
 
 The importance of K-pop dance points goes beyond choreography itself. They solve a distribution problem. Music can be heard, but movements can be demonstrated, copied and socially verified. A memorable dance point creates a repeatable behaviour that fans can perform publicly, compare with others and share across platforms.
 
-That makes choreography more than stagecraft. It becomes infrastructure for fandom. A song with a successful dance point is not only listened to; it is rehearsed, filmed, taught, challenged, covered and replayed through bodies as well as speakers. In K-pop's fan system, that repeatability is what turns a chorus into a community activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[2Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Post45Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
+That makes choreography more than stagecraft. It becomes infrastructure for fandom. A song with a successful dance point is not only listened to; it is rehearsed, filmed, taught, challenged, covered and replayed through bodies as well as speakers. In K-pop's fan system, that repeatability is what turns a chorus into a community activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[2Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-dark.svg" | relative_url }}" alt="Dance Hooks illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8fFewqdVd8E" title="Cigarettes After Sex - K. (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer">Cigarettes After Sex - K. (Lyrics)</a></p><p class="youtube-embed-meta">Channel: Dan Music &middot; Views: 11.8K &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8fFewqdVd8E">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,108 +739,108 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
 
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2](https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2)  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentK-Pop [Dance Music](&amp;#123;&amp;#123; &#x27;dance-music/&#x27; | relative_url &amp;#125;&amp;#125;) Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html](https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html)  
+   Link: <a href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ocial media. Based on five years of ethnographic fieldwork.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ivywxy.medium.com  
-   Link: [https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2](https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumPoint Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</p></details>
+   Link: <a href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow">https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Point Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: post45.org  
-   Link: [https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/](https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Post45Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</p></details>
+   Link: <a href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow">https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: spir.aoir.org  
-   Link: [https://spir.aoir.org/ojs/index.php/spir/article/view/13983](https://spir.aoir.org/ojs/index.php/spir/article/view/13983)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AoIREXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</p></details>
+   Link: <a href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow">https://spir.aoir.org/ojs/index.php/spir/article/view/13983</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2112.13384](https://arxiv.org/abs/2112.13384)  
+   Link: <a href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.13384</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.19917](https://arxiv.org/pdf/2503.19917)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Study on the Matching Rate of Dance Movements Using...March 6, 2025 — by A Simojo · 2025 — In this study, we analyzed SEVENTEEN&#x27;s...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2503.19917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.19917</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on the Matching Rate of Dance Movements Using...March 6, 2025 — by A Simojo · 2025 — In this study, we analyzed SEVENTEEN&#x27;s...</p></details>
    Published: March 6, 2025  
 
 8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9](https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9)  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dancing to K-Pop (Part III)2 Mar 2023 — Point choreography facilitates what Mark Franko called “democratization” of participatory dance t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: the classes just keep growing how [k pop](&#123;&#123; 'k-pop/' | relative_url &#125;&#125;) dancing is taking off in the uk  
-   Link: [https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk](https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk)  
+   Link: <a href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: teenvogue.com  
    Title: Teen Vogue NCT 127 Did a "Kick It" Challenge Started by Three Chicago Teens  
-   Link: [https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens](https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens)  
+   Link: <a href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics](https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics)  
+   Link: <a href="https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music-Driven Synchronous Dance Generation...20 Mar 2026 — In this paper, we propose the K-pop dance generation model in an autoreg...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pagesix.com  
-   Link: [https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/](https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/)  
+   Link: <a href="https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighting viral hits like the &quot;Dumb Dumb&quot; dance challenge and songs such as &quot;Closer&quot; and &quot;Fast Forward,&quot; Tutin explores how choreograp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=B6CiKeNLUUQ](https://www.youtube.com/watch?v=B6CiKeNLUUQ)  
+   Link: <a href="https://www.youtube.com/watch?v=B6CiKeNLUUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B6CiKeNLUUQ</a>  
 
 14. <a id="endnote-14"></a>
    Source: psfa.sdsu.edu  
    Title: assistant professor chuyun oh explores impact k pop dance social media  
-   Link: [https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media](https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media)  
+   Link: <a href="https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media" target="_blank" rel="noopener noreferrer nofollow">https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Chuyun Oh explores the impact of K-pop...22 Sept 2022 — Ethnographic study of K-pop dance and its fandom traces the evolution...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China](https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China)  
+   Link: <a href="https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Through qualitative analysis, it explores the characteristics of dynamic music...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/](https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o simply show the choreography, to, an up-scale performance that is pretty...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
    Title: K pop dance in the US higher education  
-   Link: [https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education](https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education)  
+   Link: <a href="https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) K-pop dance in the US higher education17 Jan 2026 — Employing (auto)ethnography and critical dance studies, this article examines t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nhsjs.com  
    Title: analysis of mathematical elements and physical principles in k pop dance  
-   Link: [https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/](https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/)  
+   Link: <a href="https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/" target="_blank" rel="noopener noreferrer nofollow">https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Its core elements consist of synchronization, simple and memorable ” Point Dance...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: Journal of Fandom Studies  
-   Link: [https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf](https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 3 Number 1 2015This scholarship addresses how fans reshape their gendered iden- tities in online fan culture through active consum...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Cigarettes After Sex  
-   Link: [https://www.youtube.com/watch?v=8fFewqdVd8E](https://www.youtube.com/watch?v=8fFewqdVd8E)  
+   Link: <a href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fFewqdVd8E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>K. (Lyrics)Cigarettes After Sex - K. (Lyrics) Stream &quot;K.&quot; by Cigarettes After Sex: [https://cigsaftersex.lnk.to/cas](https://cigsaftersex.lnk.to/cas) Follow Cigarettes Afte...</p></details>

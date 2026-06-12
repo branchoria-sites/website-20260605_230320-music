@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-music-metadata-payme/
 description: Focused pages that expand on Metadata.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_music_metadata_payme_5a11f4
-parent_title: Metadata | Music
+parent_title: Metadata
 parent_nav_short_title: Metadata
 parent_permalink: /metadata/
 ---

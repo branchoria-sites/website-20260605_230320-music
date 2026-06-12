@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - hymns
 keywords:
-- music
+- music-3-a01-be
 - hymns
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Hymns show how melody, repetition and group singing can reinforce worship, belonging and shared ritual.
 hero_summary: Hymns show how melody, repetition and group singing can reinforce worship, belonging and shared ritual.
 layout: default
 permalink: /hymns/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Hymns
 title: How Hymns Turn Belief Into Sound
-title_full: How Hymns Turn Belief Into Sound | Music
+title_full: How Hymns Turn Belief Into Sound
 display_title_short: Hymns
 display_title: Hymns
 heading_title: How Hymns Turn Belief Into Sound
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 next_link:
   basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
-date: '2026-06-09 06:10:45 '
+date: '2026-06-11 23:05:39 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview.webp
@@ -501,49 +501,35 @@ image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview-social.jp
 
 ## Introduction
 
-Hymns are one of the most enduring ways **music and belief intertwine in communal life**. Across Christian traditions and beyond, hymns are not just songs but sonic expressions of faith that carry doctrinal meaning, shape identity and [ritual]({{ 'ritual/' | relative_url }}), and anchor collective [memory]({{ 'memory/' | relative_url }}). They transform theological ideas into melodies and communal performance, enabling participants to embody belief as much as articulate it. Throughout history, the practice of singing hymns in worship and public life has helped **turn private convictions into shared experience** and **reinforce belonging to a particular community of faith**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">SciELOSinging and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
-
+Hymns are one of the most enduring ways **music and belief intertwine in communal life**. Across Christian traditions and beyond, hymns are not just songs but sonic expressions of faith that carry doctrinal meaning, shape identity and [ritual]({{ 'ritual/' | relative_url }}), and anchor collective [memory]({{ 'memory/' | relative_url }}). They transform theological ideas into melodies and communal performance, enabling participants to embody belief as much as articulate it. Throughout history, the practice of singing hymns in worship and public life has helped **turn private convictions into shared experience** and **reinforce belonging to a particular community of faith**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">Singing and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview.webp" | relative_url }}" alt="Overview image for Hymns" loading="eager" decoding="sync" fetchpriority="high">
 ## Congregational Singing and Memory
 
-Central to the connection between [music]({{ 'music/' | relative_url }}) and belief in hymns is **participation in singing** itself. Unlike performances where professionals sing for a passive audience, **congregational hymn singing invites everyone to contribute their voice**, reinforcing a sense of active engagement in worship. This participation can deepen the internalisation of beliefs — as people sing together, theological concepts and prayerful sentiments are memorised through repetition and [melody]({{ 'melody/' | relative_url }}). Research in liturgical settings shows that **many worshippers associate singing with feelings of unity and spiritual experience**, and that group singing in services often amplifies both social bonding and personal spirituality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | “He Who Sings, Prays Twice”? Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predi...</span></span></span>
+Central to the connection between music and belief in hymns is **participation in singing** itself. Unlike performances where professionals sing for a passive audience, **congregational hymn singing invites everyone to contribute their voice**, reinforcing a sense of active engagement in worship. This participation can deepen the internalisation of beliefs — as people sing together, theological concepts and prayerful sentiments are memorised through repetition and [melody]({{ 'melody/' | relative_url }}). Research in liturgical settings shows that **many worshippers associate singing with feelings of unity and spiritual experience**, and that group singing in services often amplifies both social bonding and personal spirituality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; “He Who Sings, Prays Twice”? Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predi...</span></span></span>
 
 This participatory dynamic also **weaves hymns into personal and collective memory**. Familiar melodies and recurring texts enable congregants to recall core doctrinal themes across seasons and rites, turning simple tunes into mnemonic devices that embed stories of redemption, hope, lament and praise. Over time, this musical memory contributes to a shared historical consciousness within the faith community, giving individuals a sense of continuity with past generations who sang the same hymns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-title">Birmingham ETheses UBIRA ETheses</span><span class="citation-popover-snippet">Birmingham EThesesUBIRA ETheses - Hymnody and identity: congregational singing as a construct of Christian community identity...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-1-dark.svg" | relative_url }}" alt="Hymns illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ritual, Identity and Place
 
 Hymns function as **ritualised expressions of belief** in worship. They punctuate liturgies, mark the flow of holy days and embed sacred narratives in sound. The act of singing together becomes a ritual in its own right. In many traditions, congregational singing was formalised as part of worship during the **Protestant [Reformation]({{ 'reformation/' | relative_url }})** to ensure lay participation, moving music beyond performances by choirs into the hands of the whole assembly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Congregational_singing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Congregational singing</span><span class="citation-popover-snippet">Congregational singing</span></span></span>
 
-Within these rituals, the **music conveys meaning beyond words**. Melody, [harmony]({{ 'harmony/' | relative_url }}) and [rhythm]({{ 'rhythm/' | relative_url }}) help express emotional valence — joy, sorrow, longing — that can be harder to capture in speech alone. In some communities, the shared practice of singing particular hymns signals membership in that tradition, forging identity through **collective cultural memory and repeated performance**. Hymnody thus becomes a symbolic space where belief is not just stated but lived, shaping group identity and anchoring individuals within a larger narrative of faith.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hts.org.za/index.php/hts/article/view/3036" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hts.org.za">[hts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hts.org.za</span><span class="citation-popover-snippet">skap | Kloppers | HTS Teologiese Studies / Theological StudiesOctober 14, 2015...</span><span class="citation-popover-meta">Published: October 14, 2015</span></span></span>
+Within these rituals, the **music conveys meaning beyond words**. Melody, [harmony]({{ 'harmony/' | relative_url }}) and [rhythm]({{ 'rhythm/' | relative_url }}) help express emotional valence — joy, sorrow, longing — that can be harder to capture in speech alone. In some communities, the shared practice of singing particular hymns signals membership in that tradition, forging identity through **collective cultural memory and repeated performance**. Hymnody thus becomes a symbolic space where belief is not just stated but lived, shaping group identity and anchoring individuals within a larger narrative of faith.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hts.org.za/index.php/hts/article/view/3036" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hts.org.za">[hts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hts.org.za</span><span class="citation-popover-snippet">skap &#124; Kloppers &#124; HTS Teologiese Studies / Theological StudiesOctober 14, 2015...</span><span class="citation-popover-meta">Published: October 14, 2015</span></span></span>
 
-Moreover, hymns can take on public significance beyond formal worship. Historical and contemporary examples show people singing hymns collectively at funerals, national tragedies, or public festivals, where music becomes a way to articulate **shared values and hopes** even in secular or post-secular contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">SciELOSinging and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
+Moreover, hymns can take on public significance beyond formal worship. Historical and contemporary examples show people singing hymns collectively at funerals, national tragedies, or public festivals, where music becomes a way to articulate **shared values and hopes** even in secular or post-secular contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">Singing and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-3-dark.svg" | relative_url }}" alt="Hymns illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nb9QbzbCiCk" title="God Most Musical (A Theology of Music)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nb9QbzbCiCk" target="_blank" rel="noopener noreferrer">God Most Musical (A Theology of Music)</a></p><p class="youtube-embed-meta">Channel: Theopolis Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nb9QbzbCiCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nb9QbzbCiCk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-2-dark.svg" | relative_url }}" alt="Hymns illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tradition, Adaptation and Controversy
 
 The role of hymns in connecting music and belief is not static. Traditions evolve, and debates about hymn use reflect broader tensions within religious communities about how belief should be expressed musically. Some argue that traditional hymnody, with its structured melodies and theological depth, best fosters reflection and communal identity, while others embrace contemporary worship songs that may prioritise emotional immediacy or personal testimony. These discussions often centre on how different musical forms **serve or reshape the experience of worship**.
 
-At the same time, hymns illustrate how music can carry **ideological and cultural meanings** that extend beyond strictly devotional purposes. In some historical contexts, hymn singing has been entwined with national identity or political movements, showing how sacred music can be repurposed to express broader social narratives — for better or worse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">SciELOSinging and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
+At the same time, hymns illustrate how music can carry **ideological and cultural meanings** that extend beyond strictly devotional purposes. In some historical contexts, hymn singing has been entwined with national identity or political movements, showing how sacred music can be repurposed to express broader social narratives — for better or worse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">Singing and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OfDbrZ2h-EI" title="Why Do We Sing? | The Purpose and Power of Congregational Singing | Ephesians 5:19–20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OfDbrZ2h-EI" target="_blank" rel="noopener noreferrer">Why Do We Sing? | The Purpose and Power of Congregational Singing | Ephesians 5:19–20</a></p><p class="youtube-embed-meta">Channel: Decatur Church of Christ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OfDbrZ2h-EI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OfDbrZ2h-EI">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-2-dark.svg" | relative_url }}" alt="Hymns illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-3-dark.svg" | relative_url }}" alt="Hymns illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
-In sacred contexts, hymns are more than a musical genre: they are **vehicles of belief**, encoding doctrine in melody, reinforcing communal bonds through shared performance, and acting as ritual markers in the rhythms of faith. By engaging body and voice, memory and emotion, hymn singing transforms abstract belief into lived experience. Through both tradition and adaptation, hymns continue to connect music and belief, shaping not only how communities worship but how individuals **feel and remember what they profess to believe**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">SciELOSinging and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/szgXgMS4r08" title="Jeremy Begbie on the four ways music shapes us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=szgXgMS4r08" target="_blank" rel="noopener noreferrer">Jeremy Begbie on the four ways music shapes us</a></p><p class="youtube-embed-meta">Channel: Giving to Duke “Giving to Duke”</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=szgXgMS4r08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=szgXgMS4r08">Open on YouTube</a></p></div></div></div>
-
+In sacred contexts, hymns are more than a musical genre: they are **vehicles of belief**, encoding doctrine in melody, reinforcing communal bonds through shared performance, and acting as ritual markers in the rhythms of faith. By engaging body and voice, memory and emotion, hymn singing transforms abstract belief into lived experience. Through both tradition and adaptation, hymns continue to connect music and belief, shaping not only how communities worship but how individuals **feel and remember what they profess to believe**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-title">Sci ELOSinging and Sounding the Sacred</span><span class="citation-popover-snippet">Singing and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -662,15 +648,15 @@ In sacred contexts, hymns are more than a musical genre: they are **vehicles of 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/34b8fc060d35064ece42.jpg' | relative_url }}" alt="Listing image for Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -678,15 +664,15 @@ In sacred contexts, hymns are more than a musical genre: they are **vehicles of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/f40a19463d62d09585fd.jpg' | relative_url }}" alt="Listing image for Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -694,15 +680,15 @@ In sacred contexts, hymns are more than a musical genre: they are **vehicles of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MY CHEMICAL ROMANCE BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/efe73630922d47b586a8.jpg' | relative_url }}" alt="Listing image for MY CHEMICAL ROMANCE BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">MY CHEMICAL ROMANCE BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -710,15 +696,15 @@ In sacred contexts, hymns are more than a musical genre: they are **vehicles of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sombr The Late Nights Young Romance Europe Tour 2026 Music Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/40e71beb3f1d70660c78.jpg' | relative_url }}" alt="Listing image for Sombr The Late Nights Young Romance Europe Tour 2026 Music Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Sombr The Late Nights Young Romance Europe Tour 2026 Music Poster Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -726,7 +712,7 @@ In sacred contexts, hymns are more than a musical genre: they are **vehicles of 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="hymns-how-hymns-turn-belief-into-sound-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-hymns-turn-belief-into-sound-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -942,92 +928,92 @@ In sacred contexts, hymns are more than a musical genre: they are **vehicles of 
 1. <a id="endnote-1"></a>
    Source: scielo.org.za  
    Title: Sci ELOSinging and Sounding the Sacred  
-   Link: [https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&script=sci_abstract](https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&script=sci_abstract)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciELOSinging and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</p></details>
+   Link: <a href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract" target="_blank" rel="noopener noreferrer nofollow">https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_abstract</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing and Sounding the Sacred - the Function of Religious Songs and Hymns in the Public Sphere...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570189](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570189)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570189" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570189</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | “He Who Sings, Prays Twice”? Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: etheses.bham.ac.uk  
    Title: Birmingham ETheses UBIRA ETheses  
-   Link: [https://etheses.bham.ac.uk/5257/](https://etheses.bham.ac.uk/5257/)  
+   Link: <a href="https://etheses.bham.ac.uk/5257/" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesUBIRA ETheses - Hymnody and identity: congregational singing as a construct of Christian community identity...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Congregational singing  
-   Link: [https://en.wikipedia.org/wiki/Congregational_singing](https://en.wikipedia.org/wiki/Congregational_singing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Congregational_singing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Congregational_singing</a>  
 
 5. <a id="endnote-5"></a>
    Source: hts.org.za  
-   Link: [https://hts.org.za/index.php/hts/article/view/3036](https://hts.org.za/index.php/hts/article/view/3036)  
+   Link: <a href="https://hts.org.za/index.php/hts/article/view/3036" target="_blank" rel="noopener noreferrer nofollow">https://hts.org.za/index.php/hts/article/view/3036</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>skap | Kloppers | HTS Teologiese Studies / Theological StudiesOctober 14, 2015...</p></details>
    Published: October 14, 2015  
 
 6. <a id="endnote-6"></a>
    Source: scielo.org.za  
    Title: Singing and Sounding the Sacred  
-   Link: [https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&script=sci_arttext](https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&script=sci_arttext)  
+   Link: <a href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDY RELIG. VOL.33 N.1 PRETORIA 2020 [https://DOI.ORG/10.17159/2413-3027/2020/V33N1A2](https://DOI.ORG/10.17159/2413-3027/2020/V33N1A2) ARTICLES...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: hts.org.za  
-   Link: [https://hts.org.za/index.php/hts/article/view/4584/11603](https://hts.org.za/index.php/hts/article/view/4584/11603)  
+   Link: <a href="https://hts.org.za/index.php/hts/article/view/4584/11603" target="_blank" rel="noopener noreferrer nofollow">https://hts.org.za/index.php/hts/article/view/4584/11603</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theological StudiesSeptember 5, 2018 — Home ▶ Vol 74, No 1 (2018) ▶ Odewole * Abstract * Introduction * Hymnody roles in worship in Angli...</p></details>
    Published: September 5, 2018  
 
 8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/studies-in-church-history/article/institutionalization-of-the-congregational-singing-of-metrical-psalms-in-the-elizabethan-reformation/F3DEE28FFB919DE26A1629F83CFAB8CC](https://www.cambridge.org/core/journals/studies-in-church-history/article/institutionalization-of-the-congregational-singing-of-metrical-psalms-in-the-elizabethan-reformation/F3DEE28FFB919DE26A1629F83CFAB8CC)  
+   Link: <a href="https://www.cambridge.org/core/journals/studies-in-church-history/article/institutionalization-of-the-congregational-singing-of-metrical-psalms-in-the-elizabethan-reformation/F3DEE28FFB919DE26A1629F83CFAB8CC" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/studies-in-church-history/article/institutionalization-of-the-congregational-singing-of-metrical-psalms-in-the-elizabethan-reformation/F3DEE28FFB919DE26A1629F83CFAB8CC</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mbridge CoreMay 21, 2021 — THE INSTITUTIONALIZATION OF THE CONGREGATIONAL SINGING OF METRICAL PSALMS IN THE ELIZABETHAN REFORMATION Publi...</p></details>
    Published: May 21, 2021  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0304422X04000312](https://www.sciencedirect.com/science/article/pii/S0304422X04000312)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectPOETICS Volume 32, Issues 3–4, June–August 2004, Pages 311-324 “BLESSED BE THE TIE THAT BINDS”: COMMUNITY AND SPIRITUALITY A...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0304422X04000312" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0304422X04000312</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>POETICS Volume 32, Issues 3–4, June–August 2004, Pages 311-324 “BLESSED BE THE TIE THAT BINDS”: COMMUNITY AND SPIRITUALITY A...</p></details>
    Published: August 2004  
 
 10. <a id="endnote-10"></a>
    Source: verbumetecclesia.org.za  
-   Link: [https://verbumetecclesia.org.za/index.php/ve/article/view/1910/3684](https://verbumetecclesia.org.za/index.php/ve/article/view/1910/3684)  
+   Link: <a href="https://verbumetecclesia.org.za/index.php/ve/article/view/1910/3684" target="_blank" rel="noopener noreferrer nofollow">https://verbumetecclesia.org.za/index.php/ve/article/view/1910/3684</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kgatle Image: Email Department of Christian Spirituality, Church History and Missiology, University of South Africa, Pretoria, South Afri...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: verbumetecclesia.org.za  
    Title: Liturgical singing as ritual symbol | Calitz | Verbum et Ecclesia  
-   Link: [https://verbumetecclesia.org.za/index.php/ve/article/view/430/0](https://verbumetecclesia.org.za/index.php/ve/article/view/430/0)  
+   Link: <a href="https://verbumetecclesia.org.za/index.php/ve/article/view/430/0" target="_blank" rel="noopener noreferrer nofollow">https://verbumetecclesia.org.za/index.php/ve/article/view/430/0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 17, 2011 — Home ▶ Vol 32, No 1 (2011) ▶ Calitz ORIGINAL RESEARCH LITURGICAL SINGING AS RITUAL SYMBOL Coenie Calitz Verbum et Eccle...</p></details>
    Published: August 17, 2011  
 
 12. <a id="endnote-12"></a>
    Source: journals.uj.ac.za  
-   Link: [https://journals.uj.ac.za/index.php/ReligionStudy/article/view/276](https://journals.uj.ac.za/index.php/ReligionStudy/article/view/276)  
+   Link: <a href="https://journals.uj.ac.za/index.php/ReligionStudy/article/view/276" target="_blank" rel="noopener noreferrer nofollow">https://journals.uj.ac.za/index.php/ReligionStudy/article/view/276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KLOPPERS MAIN ARTICLE CONTENT Elsabé C. Kloppers KEYWORDS Religious songs, hymns, hymnolo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predicted by Religious and Musical Attitudes - PMCSepte...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2077-1444/14/9/1206](https://www.mdpi.com/2077-1444/14/9/1206)  
+   Link: <a href="https://www.mdpi.com/2077-1444/14/9/1206" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2077-1444/14/9/1206</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Communitas, Worship, and Music: Using Music to Revitalize the Post-Modern Church | MDPISeptember 20, 2023 — * Image: Open [Access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) 20 Septe...</p></details>
    Published: September 20, 2023  
 
 15. <a id="endnote-15"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2077-1444/6/2/543](https://www.mdpi.com/2077-1444/6/2/543)  
+   Link: <a href="https://www.mdpi.com/2077-1444/6/2/543" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2077-1444/6/2/543</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“There Is a Higher Height in the Lord”: Music, Worship, and Communication with God | MDPIApril 29, 2015 — 29 April 2015 “THERE IS A HIGHE...</p></details>
    Published: April 29, 2015  
 
 16. <a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/00393207221145773](https://journals.sagepub.com/doi/10.1177/00393207221145773)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00393207221145773" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00393207221145773</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With the Heavens: How Can Contemporary Sacred Choral Music Be Used to Meet the Liturgical Expectation of UK Charismatic Evangelicals to “...</p></details>

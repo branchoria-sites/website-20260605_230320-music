@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - recording
 keywords:
-- music
+- music-3-a01-be
 - recording
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Recording let performances travel beyond the room where they happened, reshaping memory, ownership and fame.
 hero_summary: Recording let performances travel beyond the room where they happened, reshaping memory, ownership and fame.
 layout: default
 permalink: /recording/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Recording
 title: How Recording Changed What Music Is
-title_full: How Recording Changed What Music Is | Music
+title_full: How Recording Changed What Music Is
 display_title_short: Recording
 display_title: Recording
 heading_title: How Recording Changed What Music Is
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 next_link:
   basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
-date: '2026-06-09 06:11:56 '
+date: '2026-06-11 23:06:13 '
 header:
   og_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d-overview-social.jpg
   preview_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d-overview-social.jp
 
 ## Introduction
 
-Recorded [music]({{ 'music/' | relative_url }}) changed music by loosening it from the single time and place of performance. Before recording, most listeners had to be present while music happened, or reproduce it themselves from [memory]({{ 'memory/' | relative_url }}), notation or domestic performance. After recording, a song, voice or instrumental take could become a repeatable object: replayed at home, sold in shops, broadcast by radio, carried in a pocket, archived for later generations and used as evidence of a style, a career or a moment in history. That shift did not simply make music more convenient. It changed what counted as a performance, how musical memory worked, how fame travelled, and how listeners judged the “real” version of a song. The key change was not that live music disappeared, but that music gained a second life as playback: separated from the room where it was made, yet powerful enough to reshape rooms everywhere else.
-
+Recorded music changed music by loosening it from the single time and place of performance. Before recording, most listeners had to be present while music happened, or reproduce it themselves from [memory]({{ 'memory/' | relative_url }}), notation or domestic performance. After recording, a song, voice or instrumental take could become a repeatable object: replayed at home, sold in shops, broadcast by radio, carried in a pocket, archived for later generations and used as evidence of a style, a career or a moment in history. That shift did not simply make music more convenient. It changed what counted as a performance, how musical memory worked, how fame travelled, and how listeners judged the “real” version of a song. The key change was not that live music disappeared, but that music gained a second life as playback: separated from the room where it was made, yet powerful enough to reshape rooms everywhere else.
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-overview.webp" | relative_url }}" alt="Overview image for Recording" loading="eager" decoding="sync" fetchpriority="high">
 ## From Event to Repeatable Object
@@ -511,10 +510,9 @@ The earliest sound recording machines were startling because they made sound app
 
 This changed time in a basic way. Live performance is irreversible: a wrong note, a held breath, a tempo choice or an unusually moving phrase passes once. A recording made those moments returnable. That returnability created new habits: listening again for detail, memorising a particular rendition, learning from a distant performer, and treating a specific take as definitive. It also made music collectible. The record, cylinder, tape, disc or file could sit on a shelf, in an archive, in a radio library or on a device, waiting to be reactivated.
 
-The change was not instant. The Library of Congress notes that early wax-cylinder phonographs were first aimed at uses such as dictation, but when that market disappointed, Edison’s company began selling pre-recorded popular music for use in offices, homes and coin-operated machines in public venues; by the early 1890s, a rudimentary recording industry had begun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Gramophone | Articles and Essays | Emile Berliner and the Birth of the Recording Industry | Digital Collections | Library of Congress...</span></span></span> In other words, recorded music emerged not only from invention, but from a discovery about listeners: people would pay to hear a performance without the performer being present.
+The change was not instant. The Library of Congress notes that early wax-cylinder phonographs were first aimed at uses such as dictation, but when that market disappointed, Edison’s company began selling pre-recorded popular music for use in offices, homes and coin-operated machines in public venues; by the early 1890s, a rudimentary recording industry had begun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Gramophone &#124; Articles and Essays &#124; Emile Berliner and the Birth of the Recording Industry &#124; Digital Collections &#124; Library of Congress...</span></span></span> In other words, recorded music emerged not only from invention, but from a discovery about listeners: people would pay to hear a performance without the performer being present.
 
 The record also made comparison easier. A listener could hear the same aria, ballad or dance tune repeatedly, then judge other performances against it. Over time, this encouraged the idea that a recording could be the version of a song rather than merely a trace of one event. That distinction matters because it shifted [attention]({{ 'attention/' | relative_url }}) from music as an activity to music as a reproducible artefact.
-
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-1-dark.svg" | relative_url }}" alt="Recording illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Records, Radio and Portable Listening
@@ -527,7 +525,6 @@ Portable listening intensified that transformation. The boombox made recorded mu
 
 Radio changed place in a different way. It synchronised listeners. A record lets many people hear the same performance at different times; a broadcast lets many people hear a performance, programme or hit record at the same time while remaining physically apart. Together, recording and broadcasting created modern musical mass [culture]({{ 'culture/' | relative_url }}): not one crowd in one hall, but dispersed audiences linked by the same sound.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LSkwqUAfoJw" title="A Brief History of Recording Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LSkwqUAfoJw" target="_blank" rel="noopener noreferrer">A Brief History of Recording Sound</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered &middot; Views: 100.3K &middot; Uploaded: December 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LSkwqUAfoJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LSkwqUAfoJw">Open on YouTube</a></p></div></div></div>
 
 ## How Playback Reshaped Memory
@@ -536,10 +533,9 @@ Recording did not simply preserve memory; it reorganised it. Before recording, m
 
 This made recorded music unusually intimate. A recording can feel like a time machine because it brings a past performance into the present. The British Library’s Save Our Sounds programme was built around precisely this value: historic recordings can bring “events, sounds and voices from our past” into the present, but many [formats]({{ 'formats/' | relative_url }}) risk being lost through decay or obsolete playback equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagefund.org.uk">[The National Lottery Heritage Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagefund.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That archival urgency shows a paradox at the heart of recorded music. Recording promises preservation, yet each medium has its own fragility: wax cylinders wear down, shellac breaks, tape degrades, discs scratch, files corrupt and playback machines vanish.
 
-Archives reveal how much recorded music has changed historical imagination. The Library of Congress says it holds about 3.5 million sound recordings, including music, spoken word and radio broadcasts, across more than 110 years of sound-recording history and many formats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Major Audio Collections at the Library of Congress | Tools &amp; Resources | National Recording Preservation Plan | Programs | Library of Con...</span></span></span> Such collections allow listeners to hear voices, styles, accents and performance practices that would otherwise be known only through written description. They also expose gaps: not everything was recorded, not everything was preserved, and not every community had equal control over how its music was captured, labelled or circulated.
+Archives reveal how much recorded music has changed historical imagination. The Library of Congress says it holds about 3.5 million sound recordings, including music, spoken word and radio broadcasts, across more than 110 years of sound-recording history and many formats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Major Audio Collections at the Library of Congress &#124; Tools &amp; Resources &#124; National Recording Preservation Plan &#124; Programs &#124; Library of Con...</span></span></span> Such collections allow listeners to hear voices, styles, accents and performance practices that would otherwise be known only through written description. They also expose gaps: not everything was recorded, not everything was preserved, and not every community had equal control over how its music was captured, labelled or circulated.
 
 Memory through recording is therefore powerful but selective. Playback can make the past vivid, but it can also over-represent what companies, collectors, broadcasters or scholars chose to record. A surviving disc can become the “sound” of an era partly because other sounds were never fixed, or were fixed and then lost.
-
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-2-dark.svg" | relative_url }}" alt="Recording illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fame Could Travel Without the Performer
@@ -552,19 +548,17 @@ The result was a new kind of stardom. Recording made singers, bands and instrume
 
 This did not remove the importance of live performance. Instead, it changed the relationship between live and recorded music. Audiences often went to [concerts]({{ 'concerts/' | relative_url }}) hoping to hear songs as they knew them from records, while performers faced the challenge of either recreating the recording or making the live version feel newly alive. Playback created expectations that live music then had to negotiate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GYd1XGBUPJg" title="Why Everyone&#x27;s Buying the Walkman Again." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GYd1XGBUPJg" target="_blank" rel="noopener noreferrer">Why Everyone&#x27;s Buying the Walkman Again.</a></p><p class="youtube-embed-meta">Channel: Switch and Click &middot; Views: 759.0K &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GYd1XGBUPJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GYd1XGBUPJg">Open on YouTube</a></p></div></div></div>
 
 ## What Is Lost and Gained in Playback
 
-The gain is obvious: recorded music multiplies access. It lets a listener hear a singer from another country, a musician from another century, a rare local tradition, a studio experiment or a private demo. It supports study, pleasure, fandom, preservation and global circulation. It also allows repetition, which deepens attention. A complex rhythm, lyric, [harmony]({{ 'harmony/' | relative_url }}) or production detail may only become clear after repeated listening.
+The gain is obvious: recorded music multiplies access. It lets a listener hear a singer from another country, a musician from another century, a rare local tradition, a studio experiment or a private demo. It supports study, pleasure, fandom, preservation and global circulation. It also allows repetition, which deepens attention. A complex [rhythm]({{ 'rhythm/' | relative_url }}), lyric, [harmony]({{ 'harmony/' | relative_url }}) or production detail may only become clear after repeated listening.
 
 But something is lost when music is removed from its original time and place. A recording cannot fully reproduce the social setting of a performance: the room, the bodies, the acoustics, the risk, the audience response, the ceremony, the dancing, the weather, the fatigue, the local knowledge. Early recording also compressed and distorted sound. Acoustic recording before microphones had limited frequency and dynamic range, so musicians often had to adapt their placement, balance and style to the machine rather than simply “capture” a natural performance. Furini notes that early recording often created the illusion of live performance through deliberate recording strategies rather than offering a transparent copy of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sibetrans.com">[sibetrans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sibetrans.com</span><span class="citation-popover-snippet">TRANS - Revista Transcultural de Música - Transcultural Music Review...</span></span></span>
 
 Playback can also standardise taste. When one recording becomes famous, it can crowd out other local versions, improvisations or traditions of variation. The repeated object becomes a benchmark. That can be artistically productive, giving musicians a shared reference point, but it can also narrow the imagination of what a song might be.
 
 At the same time, recording opened creative possibilities that live performance alone could not offer. Tape and later digital tools made sound not only reproducible but alterable: sounds could be cut, layered, reversed, slowed, sped up, looped and transformed. One account of technology’s impact on musical experience notes that tape allowed composers to manipulate not only sound quality but also timespan, including compressing long works or stretching brief sounds into extended textures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.org">[www.music.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.org</span><span class="citation-popover-title">www.music.org The Impact of Technology on the Musical Experience</span><span class="citation-popover-snippet">www.music.org The Impact of Technology on the Musical Experience</span></span></span> In that sense, recording did not merely preserve music. It became a musical instrument.
-
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-3-dark.svg" | relative_url }}" alt="Recording illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Recording Became a Place of Its Own
@@ -575,9 +569,7 @@ This is why recorded music changed both time and place rather than simply improv
 
 That tension is not a flaw. It is the modern condition of music. Live performance still matters because presence, risk and shared space matter. Recording matters because return, circulation and preservation matter. Most contemporary music culture lives between the two: we use recordings to remember performances we never attended, attend concerts shaped by recordings we already know, and build private histories around sounds that began somewhere else.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JwyD-4rFomA" title="Technology That Changed Recording History (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JwyD-4rFomA" target="_blank" rel="noopener noreferrer">Technology That Changed Recording History (Part 1)</a></p><p class="youtube-embed-meta">Channel: Audio University &middot; Views: 64.1K &middot; Uploaded: April 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JwyD-4rFomA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JwyD-4rFomA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -976,113 +968,113 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
 1. <a id="endnote-1"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: [https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/](https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/)  
+   Link: <a href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gramophone | Articles and Essays | Emile Berliner and the Birth of the Recording Industry | Digital Collections | Library of Congress...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6](https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6)  
+   Link: <a href="https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentFrom Talking Machines to Music Machines: The Early Years of Recorded Sound and Playback in Picture...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: [https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/](https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/)  
+   Link: <a href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Audio Collections at the Library of Congress | Tools &amp; Resources | National Recording Preservation Plan | Programs | Library of Con...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sibetrans.com  
-   Link: [https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music](https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music)  
+   Link: <a href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow">https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS - Revista Transcultural de Música - Transcultural Music Review...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: music.org  
    Title: www.music.org The Impact of Technology on the Musical Experience  
-   Link: [https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html](https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html)  
+   Link: <a href="https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: assets.cambridge.org  
    Title: 9780521863094 frontmatter  
-   Link: [https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf](https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf)  
+   Link: <a href="https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723](https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723)  
+   Link: <a href="https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723</a>  
 
 8. <a id="endnote-8"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine How the Phonograph Changed Music Forever  
-   Link: [https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/](https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/)  
+   Link: <a href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/</a>  
 
 9. <a id="endnote-9"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6](https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6)  
+   Link: <a href="https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderWalkman Turns 40 Today: How Listening to Music Changed Over the Years - Business Insider...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: heritagefund.org.uk  
-   Link: [https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost](https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost)  
+   Link: <a href="https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost</a>  
 
 11. <a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: British Library  
-   Link: [https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/](https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=w4fMVk_30Z0](https://www.youtube.com/watch?v=w4fMVk_30Z0)  
+   Link: <a href="https://www.youtube.com/watch?v=w4fMVk_30Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w4fMVk_30Z0</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=o1bljsbKP-U](https://www.youtube.com/watch?v=o1bljsbKP-U)  
+   Link: <a href="https://www.youtube.com/watch?v=o1bljsbKP-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o1bljsbKP-U</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Walkman](https://en.wikipedia.org/wiki/Walkman)  
+   Link: <a href="https://en.wikipedia.org/wiki/Walkman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman</a>  
 
 15. <a id="endnote-15"></a>
    Source: electronicsound.co.uk  
    Title: save our sounds  
-   Link: [https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/](https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/)  
+   Link: <a href="https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: thereeltoreelrambler.com  
-   Link: [https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/](https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/)  
+   Link: <a href="https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/" target="_blank" rel="noopener noreferrer nofollow">https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/</a>  
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTAvzc1k8az/?hl=en](https://www.instagram.com/reel/DTAvzc1k8az/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTAvzc1k8az/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTAvzc1k8az/?hl=en</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/](https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/)  
+   Link: <a href="https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/</a>  
 
 19. <a id="endnote-19"></a>
    Source: ief.hr  
-   Link: [https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf](https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf)  
+   Link: <a href="https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: liverpoolmuseums.org.uk  
-   Link: [https://www.liverpoolmuseums.org.uk/early-recording-technologies](https://www.liverpoolmuseums.org.uk/early-recording-technologies)  
+   Link: <a href="https://www.liverpoolmuseums.org.uk/early-recording-technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolmuseums.org.uk/early-recording-technologies</a>  
 
 21. <a id="endnote-21"></a>
    Source: smithsonianeducation.org  
-   Link: [https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf](https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf)  
+   Link: <a href="https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUL3GdUgbrv/](https://www.instagram.com/p/DUL3GdUgbrv/)  
+   Link: <a href="https://www.instagram.com/p/DUL3GdUgbrv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUL3GdUgbrv/</a>  
 
 23. <a id="endnote-23"></a>
    Source: volofun.com  
-   Link: [https://volofun.com/history-of-music-machines/](https://volofun.com/history-of-music-machines/)  
+   Link: <a href="https://volofun.com/history-of-music-machines/" target="_blank" rel="noopener noreferrer nofollow">https://volofun.com/history-of-music-machines/</a>  
 
 24. <a id="endnote-24"></a>
    Source: classicalbumsundays.com  
-   Link: [https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/](https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/)  
+   Link: <a href="https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/" target="_blank" rel="noopener noreferrer nofollow">https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/](https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/)  
+   Link: <a href="https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/</a>

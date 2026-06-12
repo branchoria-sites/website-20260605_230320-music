@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b
 - music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b
 tags:
-- music
+- music-3-a01-be
 - timbre
 - instrument-timbre
 keywords:
-- music
+- music-3-a01-be
 - timbre
 - instrument-timbre
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Physical construction of instruments influences harmonic content and decay, making their sound expressive and human-like.
 hero_summary: Physical construction of instruments influences harmonic content and decay, making their sound expressive and human-like.
 layout: default
 permalink: /instrument-timbre/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /timbre/
 nav_short_title: Instrument Timbre
 title: Why Instrument Design Makes Sounds Feel Human
-title_full: Why Instrument Design Makes Sounds Feel Human | Timbre
+title_full: Why Instrument Design Makes Sounds Feel Human
 display_title_short: Instrument Timbre
 display_title: Instrument Timbre
 heading_title: Why Instrument Design Makes Sounds Feel Human
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The Same Note Can Feel Different | Music
+parent_title: Why The Same Note Can Feel Different
 parent_permalink: /timbre/
 parent_nav_short_title: Timbre
 parent_heading_title: Why The Same Note Can Feel Different
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Vocal Tract Formants Define Individual Timbre
 up_link:
   basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -259,7 +259,7 @@ next_link:
   permalink: /neural-timbre/
   short_title: Neural Timbre
   heading_title: How the Brain Distinguishes Timbre Instantly
-date: '2026-06-09 07:54:19 '
+date: '2026-06-11 23:58:45 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1.webp
@@ -270,45 +270,32 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design
 
 In music, why some instruments feel more *expressive* or *vividly human‑like* than others is deeply rooted in **how their [physical]({{ 'physical/' | relative_url }}) design shapes [timbre]({{ 'timbre/' | relative_url }})** — the sonic identity that differentiates two sounds with the same pitch and loudness. Acoustic instrument design determines not just *what* frequencies are present, but *how* they evolve over time and interact with the performer’s actions and the listener’s perception. Understanding these design factors helps explain why the rich character of a violin or a flute feels more organic and alive than a basic synthetic tone. Modern acoustics research frames timbre as a multidimensional blend of **spectral and temporal cues** — and instrument construction is the primary source of this complexity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.caa-aca.ca">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.caa-aca.ca</span><span class="citation-popover-snippet">March 1, 2009...</span><span class="citation-popover-meta">Published: March 1, 2009</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Harmonic Shaping by Material and Body
 
-At the heart of timbre lies the **harmonic spectrum** — the set of frequencies that accompany a note’s fundamental pitch. Acoustic instruments rarely emit pure sine waves; instead, they produce **complex vibrations** composed of a fundamental frequency and a series of overtones, or *harmonics*. The **relative amplitudes of these harmonics** are largely determined by the instrument’s construction: the shape of its resonant body, the elasticity and tension of strings, the geometry of an air column, and the material properties of wood, metal or other components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/[music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation | Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation | StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+At the heart of timbre lies the **harmonic spectrum** — the set of frequencies that accompany a note’s fundamental pitch. Acoustic instruments rarely emit pure sine waves; instead, they produce **complex vibrations** composed of a fundamental frequency and a series of overtones, or *harmonics*. The **relative amplitudes of these harmonics** are largely determined by the instrument’s construction: the shape of its resonant body, the elasticity and tension of strings, the geometry of an air column, and the material properties of wood, metal or other components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-For example, a violin’s body and wooden top plate selectively amplify certain harmonics from the vibrating string while damping others, giving its tone a warm, rich spectrum distinct from the brighter, more direct profile of a metal flute. Similarly, a clarinet’s cylindrical bore emphasises mostly *odd harmonics*, contributing to its woody, hollow timbre, whereas a trumpet’s flare and coiled tubing produce a brighter harmonic balance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers | Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
+For example, a violin’s body and wooden top plate selectively amplify certain harmonics from the vibrating string while damping others, giving its tone a warm, rich spectrum distinct from the brighter, more direct profile of a metal flute. Similarly, a clarinet’s cylindrical bore emphasises mostly *odd harmonics*, contributing to its woody, hollow timbre, whereas a trumpet’s flare and coiled tubing produce a brighter harmonic balance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
 
 Scientific analyses of musical timbre show that listeners are highly sensitive to **spectral envelope shape** — the overall pattern of energy distribution across harmonics — and that this pattern is a principal cue for identifying instrument sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.caa-aca.ca">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.caa-aca.ca</span><span class="citation-popover-snippet">March 1, 2009...</span><span class="citation-popover-meta">Published: March 1, 2009</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AjJLAcDb_MU" title="What is Timbre? | Beginner | Music Production | Berklee Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AjJLAcDb_MU" target="_blank" rel="noopener noreferrer">What is Timbre? | Beginner | Music Production | Berklee Online</a></p><p class="youtube-embed-meta">Channel: Berklee Online</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AjJLAcDb_MU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AjJLAcDb_MU">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Attack and Decay in Musical Expression
 
 Beyond steady‑state harmonic content, **temporal features** — particularly how a sound begins (*attack*) and fades (*decay*) — are central to the perception of liveliness and expressivity. The attack phase is the initial rise in amplitude when a note is initiated; its speed and spectral content depend on design and playing mechanism (plucked, bowed, struck, or blown). The decay and sustain phases depend on how the instrument continues to radiate energy after the initial impulse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-title">Hyper Physics Sound Quality or Timbre</span><span class="citation-popover-snippet">Hyper Physics Sound Quality or Timbre</span></span></span>
 
-Acoustic instruments vary widely here. A piano hammer striking a string yields a sharp, percussive attack and a complex transient spectrum, while a bowed violin string produces a more gradual onset with pronounced vibrational nuances. The body materials — from dense spruce to brass — and coupling between vibrating elements and resonator shape how quickly energy dissipates, shaping both the *envelope* and *spectral evolution* over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/[music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation | Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation | StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+Acoustic instruments vary widely here. A piano hammer striking a string yields a sharp, percussive attack and a complex transient spectrum, while a bowed violin string produces a more gradual onset with pronounced vibrational nuances. The body materials — from dense spruce to brass — and coupling between vibrating elements and resonator shape how quickly energy dissipates, shaping both the *envelope* and *spectral evolution* over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-Psychophysical studies reinforce that listeners use **rise time** and amplitude envelope features as key timbre cues, often distinguishing instruments within tens of milliseconds of onset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers | Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c3udLCvoCC0" title="Synthesizer Basics: Amplitude, Oscillators, Timbre | Music Production | Berklee Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c3udLCvoCC0" target="_blank" rel="noopener noreferrer">Synthesizer Basics: Amplitude, Oscillators, Timbre | Music Production | Berklee Online</a></p><p class="youtube-embed-meta">Channel: Berklee Online</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c3udLCvoCC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c3udLCvoCC0">Open on YouTube</a></p></div></div></div>
-
+Psychophysical studies reinforce that listeners use **rise time** and amplitude envelope features as key timbre cues, often distinguishing instruments within tens of milliseconds of onset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-3-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing Acoustic vs Synthetic Sounds
 
-When acoustic instruments are compared with synthetic tones, their human‑like timbre emerges from **complex spectral‑temporal interactions** that are challenging to replicate through simple purely electronic synthesis. Synthesised sine waves lack rich harmonic spectra and the nuanced attack‑decay contours that natural resonators and materials produce. Even sophisticated digital instruments must model or sample the *dynamic interactions* between vibrating elements, resonant bodies and performer control to approach the expressivity of acoustic timbre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/[music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation | Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation | StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+When acoustic instruments are compared with synthetic tones, their human‑like timbre emerges from **complex spectral‑temporal interactions** that are challenging to replicate through simple purely electronic synthesis. Synthesised sine waves lack rich harmonic spectra and the nuanced attack‑decay contours that natural resonators and materials produce. Even sophisticated digital instruments must model or sample the *dynamic interactions* between vibrating elements, resonant bodies and performer control to approach the expressivity of acoustic timbre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-Acoustic instrument design also introduces **dynamic directivity** — the way sound radiation patterns vary with pitch and note intensity — and performers’ movements further modulate timbre in ways that strengthen the perception of “liveness.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Musical instruments as dynamic sound sources</span><span class="citation-popover-snippet">PubMedApril 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
+Acoustic instrument design also introduces **dynamic directivity** — the way sound radiation patterns vary with pitch and note intensity — and performers’ movements further modulate timbre in ways that strengthen the perception of “liveness.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Musical instruments as dynamic sound sources</span><span class="citation-popover-snippet">April 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
 
 Together, these design factors — harmonic shaping by materials and body, temporal envelope contours, and performer interaction — form the physical foundation for the distinct, expressive, and human‑like timbre of acoustic instruments in musical performance.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNKaIe3VTy4" title="What makes instruments sound different?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNKaIe3VTy4" target="_blank" rel="noopener noreferrer">What makes instruments sound different?</a></p><p class="youtube-embed-meta">Channel: Drew Lyton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNKaIe3VTy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNKaIe3VTy4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -706,71 +693,71 @@ Together, these design factors — harmonic shaping by materials and body, tempo
 
 1. <a id="endnote-1"></a>
    Source: jcaa.caa-aca.ca  
-   Link: [https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111)  
+   Link: <a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow">https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2009...</p></details>
    Published: March 1, 2009  
 
 2. <a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Musical instruments as dynamic sound sources  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38557737/](https://pubmed.ncbi.nlm.nih.gov/38557737/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedApril 1, 2024...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38557737/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2024...</p></details>
    Published: April 1, 2024  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and vibrotactile interactions in perception of timbre acoustic features - PMCOctober 30, 2025 — STIMULI Stimuli were generated by additiv...</p></details>
    Published: October 30, 2025  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2013 Nov 13;7:88. doi: 10.3389/fnsys.2013.00088 NEURAL AND BEHAVIORAL INVESTIGATIONS INTO TIMBRE PERCEPTION Stephen M Town STEPHEN M TOWN...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>structure of the five perceptual dimensions of timbre in orchestral instrument tones - PMCJanuary 1, 2013 — RESULTS This study evaluated...</p></details>
    Published: January 1, 2013  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RESONANCE SCALE IN MUSICAL INSTRUMENTS The wave forms of a trumpet and a trombone are shown in Fig. 2, which shows that they both have a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4OAM31b9/](https://ouci.dntb.gov.ua/en/works/4OAM31b9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4OAM31b9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4OAM31b9/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the perceptual relevance of onset transients for musical instrument identificationSPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088)  
+   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088</a>  
 
 9. <a id="endnote-9"></a>
    Source: studysmarter.co.uk  
    Title: Study Smarter UKInstrumental Timbre: Explained & Variation | Study Smarter  
-   Link: [https://www.studysmarter.co.uk/explanations/[music](https://www.studysmarter.co.uk/explanations/[music)  
+   Link: <a href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>StudySmarter UKInstrumental Timbre: Explained &amp; Variation | StudySmarterOctober 1, 2024...</p></details>
    Published: October 1, 2024  
 
 10. <a id="endnote-10"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
    Title: Hyper Physics Sound Quality or Timbre  
-   Link: [https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html](https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html)  
+   Link: <a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
    Title: The underlying fe  
-   Link: [https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract](https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract)  
+   Link: <a href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers | Neural and behavioral investigations into timbre perceptionNovember 13, 2013 — MUSICAL AND ENVIRONMENTAL TIMBRE Timbre also d...</p></details>
    Published: November 13, 2013  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers | Neural and behavioral investigations into timbre perception  
-   Link: [https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full)  
+   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) Published in Frontiers in Systems Neuroscien...</p></details>
    Published: November 2013  
 
@@ -778,64 +765,64 @@ Together, these design factors — harmonic shaping by materials and body, tempo
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC](https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC)  
+   Link: <a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1946 — THE TONAL SPECTRA OF WIND INSTRUMENTS Published online by Cambridge University Press: 01 January 1946 Bernard Hague Sho...</p></details>
    Published: January 1, 1946  
 
 14. <a id="endnote-14"></a>
    Source: cir.nii.ac.jp  
    Title: nii.ac.jp Musical instruments as dynamic sound sources | Ci Nii Research  
-   Link: [https://cir.nii.ac.jp/crid/1360870489828760320](https://cir.nii.ac.jp/crid/1360870489828760320)  
+   Link: <a href="https://cir.nii.ac.jp/crid/1360870489828760320" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360870489828760320</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>instruments as dynamic sound sources | CiNii ResearchApril 1, 2024 — MUSICAL INSTRUMENTS AS DYNAMIC SOUND SOURCES DOI PDF 1 Citations * D...</p></details>
    Published: April 1, 2024  
 
 15. <a id="endnote-15"></a>
    Source: whizmath.com  
    Title: Acoustics & Musical Instruments: The Physics of Sound  
-   Link: [https://whizmath.com/acoustics-intermediate.html](https://whizmath.com/acoustics-intermediate.html)  
+   Link: <a href="https://whizmath.com/acoustics-intermediate.html" target="_blank" rel="noopener noreferrer nofollow">https://whizmath.com/acoustics-intermediate.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIMBRE: THE UNIQUE QUALITY OF SOUND While pitch (frequency) and loudness (amplitude) describe two main characteristics of a musical note...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.tue.nl  
    Title: nl Sound production in recorder-like instruments: I  
-   Link: [https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp](https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp)  
+   Link: <a href="https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dimensionless amplitude of the internal acoustic field - Research portal Eindhoven University of TechnologySOUND PRODUCTION IN RECORDER-L...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scales.arabpsychology.com  
    Title: PSYCHOLOGICAL SCALESTimbre Definition & Meaning  
-   Link: [https://scales.arabpsychology.com/?p=35988](https://scales.arabpsychology.com/?p=35988)  
+   Link: <a href="https://scales.arabpsychology.com/?p=35988" target="_blank" rel="noopener noreferrer nofollow">https://scales.arabpsychology.com/?p=35988</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ACOUSTIC DETERMINANTS OF TIMBRE The physical foundation of timbre resides in the fact that most musical sounds are not pure sine wave...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bridportmusic.co.uk  
    Title: What is Timbre in Music: Understanding the Factors that Shape Musical Sound  
-   Link: [https://www.bridportmusic.co.uk/what-is-timbre-in-music/](https://www.bridportmusic.co.uk/what-is-timbre-in-music/)  
+   Link: <a href="https://www.bridportmusic.co.uk/what-is-timbre-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.bridportmusic.co.uk/what-is-timbre-in-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These factors contribute to the nuanced differences between different instruments or voices...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: citedrive.com  
    Title: musical instruments as dynamic sound sources  
-   Link: [https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/](https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/)  
+   Link: <a href="https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Musical instruments as dynamic sound sources | CiteDriveDOI: 10.1121/10.0025463 ISSN: 0001-4966 MUSICAL INSTRUMENTS AS DYNAMIC SOUN...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rex.libraries.wsu.edu  
    Title: A common perceptual space for harmonic  
-   Link: [https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842](https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842)  
+   Link: <a href="https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842" target="_blank" rel="noopener noreferrer nofollow">https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>common perceptual space for harmonic and percussive timbres - Washington State UniversityOctober 1, 2000 — Image: A common perceptual spa...</p></details>
    Published: October 1, 2000  
 
 21. <a id="endnote-21"></a>
    Source: fabfilter.com  
    Title: It is what makes it possible to tell  
-   Link: [https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds](https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds)  
+   Link: <a href="https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FabFilter Learn - The science of sound - Timbre: understanding and crafting complex soundsFebruary 15, 2022 — TIMBRE: UNDERSTANDING AND C...</p></details>
    Published: February 15, 2022  
 
 22. <a id="endnote-22"></a>
    Source: museprep.com  
    Title: What Is Timbre in Music?  
-   Link: [https://museprep.com/timbre-in-music/](https://museprep.com/timbre-in-music/)  
+   Link: <a href="https://museprep.com/timbre-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://museprep.com/timbre-in-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Color of SoundNovember 7, 2025 — ELEMENTS OF TIMBRE: ATTACK, RESONANCE, TEXTURE To truly understand and describe timbre, we need to b...</p></details>
-   Published: November 7, 2025  
+   Published: November 7, 2025

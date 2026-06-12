@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437
 - music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007
 tags:
-- music
+- music-3-a01-be
 - concerts
 - setlists
 keywords:
-- music
+- music-3-a01-be
 - concerts
 - setlists
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Setlists help fans document a show, but they cannot preserve atmosphere, surprise, crowd feeling or personal meaning.
 hero_summary: Setlists help fans document a show, but they cannot preserve atmosphere, surprise, crowd feeling or personal meaning.
 layout: default
 permalink: /setlists-2c9d97/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /concerts/
 nav_short_title: Setlists
 title: Why the setlist is not the concert
-title_full: Why the setlist is not the concert | Concerts
+title_full: Why the setlist is not the concert
 display_title_short: Setlists
 display_title: Setlists
 heading_title: Why the setlist is not the concert
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Concerts Feel Bigger Than Songs | Music
+parent_title: Why Concerts Feel Bigger Than Songs
 parent_permalink: /concerts/
 parent_nav_short_title: Concerts
 parent_heading_title: Why Concerts Feel Bigger Than Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do phone videos help or change memory?
 up_link:
   basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
@@ -259,7 +259,7 @@ prev_link:
   permalink: /phone-clips/
   short_title: Phone Clips
   heading_title: Do phone videos help or change memory?
-date: '2026-06-09 06:53:03 '
+date: '2026-06-11 23:27:54 '
 header:
   og_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-1.webp
@@ -270,12 +270,8 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_li
 
 A setlist can tell you what happened at a concert, but it cannot tell you what the concert felt like. For fans trying to remember a show years later, the song list is often the first thing they look up. It provides a reliable record of which songs were played, in what order, and how a performance differed from other dates on the same tour. Yet many of the memories that make a concert meaningful sit outside that record entirely.
 
-
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-1-dark.svg" | relative_url }}" alt="Setlists illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tension explains why setlists remain valuable while also being incomplete. They capture the structure of a show but not its atmosphere. They preserve musical choices but not emotional reactions. In the story of how [concerts]({{ 'concerts/' | relative_url }}) create fan [memory]({{ 'memory/' | relative_url }}), setlists are best understood as archives: useful maps of an event rather than the event itself.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqIwEbCyxBo" title="Fragrance To Fire - Dunsin Oyekan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqIwEbCyxBo" target="_blank" rel="noopener noreferrer">Fragrance To Fire - Dunsin Oyekan</a></p><p class="youtube-embed-meta">Channel: Dunsin Oyekan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqIwEbCyxBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqIwEbCyxBo">Open on YouTube</a></p></div></div></div>
 
 ## Setlists as fan archives
 
@@ -284,7 +280,6 @@ One reason setlists matter is that they solve a practical problem. Concerts disa
 For memory, this archival function is powerful. A fan may remember attending a show but forget whether a favourite song appeared early in the set or during the encore. Looking up the setlist can restore details that have faded over time. Concert-tracking platforms and personal concert journals frequently use setlists as the backbone around which memories are organised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://concertsremembered.com/blogs/news/setlists-for-your-concert-journal?srsltid=AfmBOopMb_gXn4Cza7xfIbabPELIzLnEY6Z2u7-T3JLyAjmMf6ed74gi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concertsremembered.com">[Concerts Remembered]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concertsremembered.com</span><span class="citation-popover-title">setlists for your concert journal</span><span class="citation-popover-snippet">Concerts RememberedHow to Add Setlists to Your Concert Journal22 Nov 2024 — How to add setlists to your concert journal so you actually r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.concertarchives.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concertarchives.org">[Concert Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concertarchives.org</span><span class="citation-popover-title">Tag friends, share concert photos and videos, see setlists, and more!</span><span class="citation-popover-snippet">Concert ArchivesConcert Archives - The concert database for fans, by fans.Easily create your own concert history or database of all the c...</span></span></span>
 
 Setlists are especially useful because they preserve information that is difficult to reconstruct later:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,9 +295,6 @@ For artists known for changing their performances, these records become part of 
 
 In this sense, the setlist functions much like a box score in sport. It records what happened, but not necessarily why the event mattered.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oyohAMyJbY8" title="Concert Etiquette: 7 things you MUST know before attending a Classical Concert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oyohAMyJbY8" target="_blank" rel="noopener noreferrer">Concert Etiquette: 7 things you MUST know before attending a Classical Concert</a></p><p class="youtube-embed-meta">Channel: Dr. Mephisto</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oyohAMyJbY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oyohAMyJbY8">Open on YouTube</a></p></div></div></div>
-
 ## The missing atmosphere problem
 
 The biggest limitation of a setlist is that it reduces a multidimensional experience to a list of titles.
@@ -311,7 +303,7 @@ Two concerts can share an identical setlist and feel completely different. The w
 
 None of that appears in the song list.
 
-This matters because research on live [music]({{ 'music/' | relative_url }}) increasingly points to shared emotional experience as a central source of concert meaning. Studies of live events describe phenomena such as synchronised [attention]({{ 'attention/' | relative_url }}), collective participation and "collective effervescence"—the feeling of connection and intensity that emerges when large groups experience something together. These social experiences are strongly associated with enjoyment, meaning and lasting positive memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Let the Music Play: Live Music Fosters Collective</span><span class="citation-popover-snippet">ResearchGate(PDF) Let the Music Play: Live Music Fosters Collective...October 17, 2024 — This work examined the power of live music even...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psypost.org/live-music-experiences-create-lasting-happiness-by-fostering-collective-effervescence-study-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psypost.org">[PsyPost -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psypost.org</span><span class="citation-popover-title">Psy Post</span><span class="citation-popover-snippet">PsyPost - Psychology NewsLive music experiences create lasting happiness by...16 Mar 2025 — The researchers hypothesized that collective...</span></span></span>
+This matters because research on live music increasingly points to shared emotional experience as a central source of concert meaning. Studies of live events describe phenomena such as synchronised [attention]({{ 'attention/' | relative_url }}), collective participation and "collective effervescence"—the feeling of connection and intensity that emerges when large groups experience something together. These social experiences are strongly associated with enjoyment, meaning and lasting positive memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Let the Music Play: Live Music Fosters Collective</span><span class="citation-popover-snippet">ResearchGate(PDF) Let the Music Play: Live Music Fosters Collective...October 17, 2024 — This work examined the power of live music even...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psypost.org/live-music-experiences-create-lasting-happiness-by-fostering-collective-effervescence-study-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psypost.org">[PsyPost -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psypost.org</span><span class="citation-popover-title">Psy Post</span><span class="citation-popover-snippet">Psychology NewsLive music experiences create lasting happiness by...16 Mar 2025 — The researchers hypothesized that collective...</span></span></span>
 
 A setlist records that a song was played. It does not record:
 
@@ -324,7 +316,6 @@ A setlist records that a song was played. It does not record:
 Fans often discover this limitation when revisiting old concerts. The setlist may trigger memory, but the memories themselves usually involve people, emotions, sounds, mistakes, conversations and reactions rather than track names alone.
 
 This gap has led some critics to argue that setlist culture can encourage an overly reductive view of live performance. If a concert is judged primarily by which songs appeared, the broader experience risks being overlooked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aestheticsforbirds.com">[Aesthetics for Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aestheticsforbirds.com</span><span class="citation-popover-snippet">Aesthetics for BirdsWhat&#x27;s Wrong with Setlist.fm?October 19, 2023 — 19 Oct 2023 — Setlist.fm encourages us to embrace a reductive view of...</span><span class="citation-popover-meta">Published: October 19, 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-2-dark.svg" | relative_url }}" alt="Setlists illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rare songs versus lived experience
@@ -343,9 +334,7 @@ This reveals a recurring tension in fan memory. Setlists privilege what can be c
 
 The distinction becomes especially clear when fans tell stories about concerts years later. They rarely begin with a numbered list of songs. Instead they describe the atmosphere in the room, the journey to the venue, the unexpected moment everyone reacted together, or the feeling created by a particular performance. Only afterwards do they often consult the setlist to confirm details.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BIY_lEg8kBA" title="Kehlani: Tiny Desk Concert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BIY_lEg8kBA" target="_blank" rel="noopener noreferrer">Kehlani: Tiny Desk Concert</a></p><p class="youtube-embed-meta">Channel: NPR Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BIY_lEg8kBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BIY_lEg8kBA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-3-dark.svg" | relative_url }}" alt="Setlists illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why fans keep returning to setlists anyway
 
 Despite their limitations, setlists remain one of the most valuable tools for preserving concert history.
@@ -355,9 +344,6 @@ Memory is reconstructive rather than perfect. Details fade, merge and change ove
 The most effective concert archives therefore combine setlists with other forms of evidence: photographs, ticket stubs, recordings, personal notes and stories. Fan-created archives increasingly integrate these elements because they recognise that a song list alone cannot recreate the experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magbtm.com/concert-archives-the-digital-archive-for-all-your-favourite-gigs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magbtm.com">[Music Archive Gallery: Beyond The Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magbtm.com</span><span class="citation-popover-snippet">Music Archive Gallery: Beyond The MusicConcert Archives: the digital archive for all your favourite gigsFebruary 20, 2023 — Concert Archi...</span><span class="citation-popover-meta">Published: February 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.concertarchives.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concertarchives.org">[Concert Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concertarchives.org</span><span class="citation-popover-title">Tag friends, share concert photos and videos, see setlists, and more!</span><span class="citation-popover-snippet">Concert ArchivesConcert Archives - The concert database for fans, by fans.Easily create your own concert history or database of all the c...</span></span></span>
 
 The setlist is not the concert. It is the framework around which concert memory is built. It preserves the skeleton of the event, while the atmosphere, surprise, emotion and personal meaning remain stored elsewhere—in photographs, conversations and the memories of the people who were there.
-
-
-<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-3-dark.svg" | relative_url }}" alt="Setlists illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -476,15 +462,15 @@ The setlist is not the concert. It is the framework around which concert memory 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harry Styles Together Tour 2026 London T-Shirt Wembley Fan Concert Gift Tee Top"><img src="{{ '/assets/images/marketplace-covers/4905ca07a1b485560c87.jpg' | relative_url }}" alt="Listing image for Harry Styles Together Tour 2026 London T-Shirt Wembley Fan Concert Gift Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Setlist Poster Print Canvas Red Ticket - Any Artist, Date, Gig, Venue"><img src="https://i.ebayimg.com/images/g/MP8AAOSwrfNnc9k7/s-l225.jpg" alt="Listing image for Concert Setlist Poster Print Canvas Red Ticket - Any Artist, Date, Gig, Venue" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Harry Styles Together Tour 2026 London T-Shirt Wembley Fan Concert Gift Tee Top</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Concert Setlist Poster Print Canvas Red Ticket - Any Artist, Date, Gig, Venue</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for setlist not concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: setlist not concert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +478,15 @@ The setlist is not the concert. It is the framework around which concert memory 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boyzone One For The Road Concert 2026 T-Shirt - Gift For Music Lover Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/ee01333a95943da7a919.jpg' | relative_url }}" alt="Listing image for Boyzone One For The Road Concert 2026 T-Shirt - Gift For Music Lover Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Setlist Poster Print Canvas White Ticket - Any Artist, Date, Gig, Venue"><img src="https://i.ebayimg.com/images/g/YaMAAOSwep5nc9lz/s-l225.jpg" alt="Listing image for Concert Setlist Poster Print Canvas White Ticket - Any Artist, Date, Gig, Venue" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Boyzone One For The Road Concert 2026 T-Shirt - Gift For Music Lover Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Concert Setlist Poster Print Canvas White Ticket - Any Artist, Date, Gig, Venue</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for setlist not concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: setlist not concert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +494,15 @@ The setlist is not the concert. It is the framework around which concert memory 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HARRY STYLES TOGETHER TOGETHER CONCERT TOUR HIGH QUALITY HEAVY COTTON T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5330ae911042ae636608.jpg' | relative_url }}" alt="Listing image for HARRY STYLES TOGETHER TOGETHER CONCERT TOUR HIGH QUALITY HEAVY COTTON T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Setlist Poster Print Canvas Music Concert - Any Artist Date Gig Venue"><img src="https://i.ebayimg.com/images/g/kRYAAOSwF5Bnc9lo/s-l225.jpg" alt="Listing image for Concert Setlist Poster Print Canvas Music Concert - Any Artist Date Gig Venue" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HARRY STYLES TOGETHER TOGETHER CONCERT TOUR HIGH QUALITY HEAVY COTTON T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Concert Setlist Poster Print Canvas Music Concert - Any Artist Date Gig Venue</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for setlist not concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: setlist not concert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +510,15 @@ The setlist is not the concert. It is the framework around which concert memory 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for One For The Road Music Fan T Shirt Inspired Concert Style Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c31a82030a8731594933.jpg' | relative_url }}" alt="Listing image for One For The Road Music Fan T Shirt Inspired Concert Style Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Setlist Poster Print Canvas Doodle - Any Artist, Date, Gig, Venue"><img src="https://i.ebayimg.com/images/g/xqIAAOSwwdlndvzG/s-l225.jpg" alt="Listing image for Concert Setlist Poster Print Canvas Doodle - Any Artist, Date, Gig, Venue" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer">One For The Road Music Fan T Shirt Inspired Concert Style Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Concert Setlist Poster Print Canvas Doodle - Any Artist, Date, Gig, Venue</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for setlist not concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: setlist not concert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +526,7 @@ The setlist is not the concert. It is the framework around which concert memory 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert t shirt" data-ebay-reference="setlists-2c9d97-why-the-setlist-is-not-the-concert-music-concert-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=setlist+not+concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-setlist-is-not-the-concert-setlist-not-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="setlist not concert poster" data-ebay-reference="why-the-setlist-is-not-the-concert-setlist-not-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -755,197 +741,197 @@ The setlist is not the concert. It is the framework around which concert memory 
 
 1. <a id="endnote-1"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/](https://www.setlist.fm/)  
+   Link: <a href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the setlist wikiOver 10090000 concert setlists of more than 453000 artists including tour and song statistics, personal statistics, video...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/guidelines](https://www.setlist.fm/guidelines)  
+   Link: <a href="https://www.setlist.fm/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/guidelines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for editing setlists10 Feb 2026 — Setlist.fm is a place to keep track of the actual order of played songs at concerts. It is perfectly fi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/artists](https://www.setlist.fm/artists)  
+   Link: <a href="https://www.setlist.fm/artists" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/artists</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artist SetlistsTop artists by concertgoers; Foo Fighters 1592 setlists, 40889; Iron Maiden 2630 setlists, 37706; Red Hot Chili Peppers...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Let the Music Play: Live Music Fosters Collective  
-   Link: [https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes](https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Let the Music Play: Live Music Fosters Collective...October 17, 2024 — This work examined the power of live music even...</p></details>
    Published: October 17, 2024  
 
 5. <a id="endnote-5"></a>
    Source: psypost.org  
    Title: Psy Post  
-   Link: [https://www.psypost.org/live-music-experiences-create-lasting-happiness-by-fostering-collective-effervescence-study-finds/](https://www.psypost.org/live-music-experiences-create-lasting-happiness-by-fostering-collective-effervescence-study-finds/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PsyPost - Psychology NewsLive music experiences create lasting happiness by...16 Mar 2025 — The researchers hypothesized that collective...</p></details>
+   Link: <a href="https://www.psypost.org/live-music-experiences-create-lasting-happiness-by-fostering-collective-effervescence-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/live-music-experiences-create-lasting-happiness-by-fostering-collective-effervescence-study-finds/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology NewsLive music experiences create lasting happiness by...16 Mar 2025 — The researchers hypothesized that collective...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/setlists](https://www.setlist.fm/setlists)  
+   Link: <a href="https://www.setlist.fm/setlists" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top setlists by concertgoersTop setlists by concertgoers; The Cure Hyde Park, London, England, 881; Slipknot Donington Park (Apex Stage...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: setlist.fm  
    Title: Archive Concert Setlists Get Archive setlists  
-   Link: [https://www.setlist.fm/setlists/archive-13d6d13d.html](https://www.setlist.fm/setlists/archive-13d6d13d.html)  
+   Link: <a href="https://www.setlist.fm/setlists/archive-13d6d13d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/archive-13d6d13d.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archive Concert SetlistsGet Archive setlists - view them, share them, discuss them with other Archive fans for free on setlist.fm...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: setlist.fm  
    Title: Past Concert Setlists Get Past setlists  
-   Link: [https://www.setlist.fm/setlists/past-2bc29032.html](https://www.setlist.fm/setlists/past-2bc29032.html)  
+   Link: <a href="https://www.setlist.fm/setlists/past-2bc29032.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/past-2bc29032.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Past Concert SetlistsGet Past setlists - view them, share them, discuss them with other Past fans for free on setlist.fm...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: setlist.fm  
    Title: Archive Concert Setlists Get Archive setlists  
-   Link: [https://www.setlist.fm/setlists/archive-6bc2fab2.html](https://www.setlist.fm/setlists/archive-6bc2fab2.html)  
+   Link: <a href="https://www.setlist.fm/setlists/archive-6bc2fab2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/archive-6bc2fab2.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archive Concert SetlistsGet Archive setlists - view them, share them, discuss them with other Archive fans for free on setlist.fm...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: setlist.fm  
    Title: Database Concert Setlists Get Database setlists  
-   Link: [https://www.setlist.fm/setlists/database-73d3ea75.html](https://www.setlist.fm/setlists/database-73d3ea75.html)  
+   Link: <a href="https://www.setlist.fm/setlists/database-73d3ea75.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/database-73d3ea75.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Database Concert SetlistsGet Database setlists - view them, share them, discuss them with other Database fans for free on setlist.fm...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/statistics](https://www.setlist.fm/statistics)  
+   Link: <a href="https://www.setlist.fm/statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/statistics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert StatisticsUnited States (21234 setlists); United Kingdom (5690 setlists); Germany (3043 setlists). Top cities. London, England (1...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: setlist.fm  
    Title: Brand New Concert Setlists Get Brand New setlists  
-   Link: [https://www.setlist.fm/setlists/brand-new-4bd69b82.html](https://www.setlist.fm/setlists/brand-new-4bd69b82.html)  
+   Link: <a href="https://www.setlist.fm/setlists/brand-new-4bd69b82.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/brand-new-4bd69b82.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brand New Concert SetlistsGet Brand New setlists - view them, share them, discuss them with other Brand New fans for free on setlist.fm...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: setlist.fm  
    Title: Public Memory Concert Setlists Get Public Memory setlists  
-   Link: [https://www.setlist.fm/setlists/public-memory-73c2eef5.html](https://www.setlist.fm/setlists/public-memory-73c2eef5.html)  
+   Link: <a href="https://www.setlist.fm/setlists/public-memory-73c2eef5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/public-memory-73c2eef5.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Memory Concert SetlistsGet Public Memory setlists - view them, share them, discuss them with other Public Memory fans for free on...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: setlist.fm  
    Title: Export user data, Forum Get setlists  
-   Link: [https://www.setlist.fm/forum/setlistfm/setlistfm-api/export-user-data-3d6b1b3](https://www.setlist.fm/forum/setlistfm/setlistfm-api/export-user-data-3d6b1b3)  
+   Link: <a href="https://www.setlist.fm/forum/setlistfm/setlistfm-api/export-user-data-3d6b1b3" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/forum/setlistfm/setlistfm-api/export-user-data-3d6b1b3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Export user data, ForumGet setlists - view them, share them, discuss them with other fans for free on setlist.fm...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: setlist.fm  
    Title: PAS T Concert Setlists Get PAST setlists  
-   Link: [https://www.setlist.fm/setlists/past-53c2438d.html](https://www.setlist.fm/setlists/past-53c2438d.html)  
+   Link: <a href="https://www.setlist.fm/setlists/past-53c2438d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/past-53c2438d.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PAST Concert SetlistsGet PAST setlists - view them, share them, discuss them with other PAST fans for free on setlist.fm...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/faq](https://www.setlist.fm/faq)  
+   Link: <a href="https://www.setlist.fm/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked QuestionsQ: How can I add myself to the list of festival attendees? A: Go to the setlists of the concerts you attended a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: setlist.fm  
    Title: Archives Concert Setlists Get Archives setlists  
-   Link: [https://www.setlist.fm/setlists/archives-43d7cb8f.html](https://www.setlist.fm/setlists/archives-43d7cb8f.html)  
+   Link: <a href="https://www.setlist.fm/setlists/archives-43d7cb8f.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/archives-43d7cb8f.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Concert SetlistsGet Archives setlists - view them, share them, discuss them with other Archives fans for free on setlist.fm...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/setlists/live-13d6b90d.html](https://www.setlist.fm/setlists/live-13d6b90d.html)  
+   Link: <a href="https://www.setlist.fm/setlists/live-13d6b90d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/live-13d6b90d.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Concert SetlistsOperation Spirit (The Tyranny of Tradition) · Selling the Drama · Freaks · All Over You · Pain Lies on the Riverside...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: concertsremembered.com  
    Title: setlists for your concert journal  
-   Link: [https://concertsremembered.com/blogs/news/setlists-for-your-concert-journal?srsltid=AfmBOopMb_gXn4Cza7xfIbabPELIzLnEY6Z2u7-T3JLyAjmMf6ed74gi](https://concertsremembered.com/blogs/news/setlists-for-your-concert-journal?srsltid=AfmBOopMb_gXn4Cza7xfIbabPELIzLnEY6Z2u7-T3JLyAjmMf6ed74gi)  
+   Link: <a href="https://concertsremembered.com/blogs/news/setlists-for-your-concert-journal?srsltid=AfmBOopMb_gXn4Cza7xfIbabPELIzLnEY6Z2u7-T3JLyAjmMf6ed74gi" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/setlists-for-your-concert-journal?srsltid=AfmBOopMb_gXn4Cza7xfIbabPELIzLnEY6Z2u7-T3JLyAjmMf6ed74gi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concerts RememberedHow to Add Setlists to Your Concert Journal22 Nov 2024 — How to add setlists to your concert journal so you actually r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: concertarchives.org  
    Title: Tag friends, share concert photos and videos, see setlists, and more!  
-   Link: [https://www.concertarchives.org/](https://www.concertarchives.org/)  
+   Link: <a href="https://www.concertarchives.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.concertarchives.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert ArchivesConcert Archives - The concert database for fans, by fans.Easily create your own concert history or database of all the c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aestheticsforbirds.com  
-   Link: [https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/](https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/)  
+   Link: <a href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow">https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aesthetics for BirdsWhat&#x27;s Wrong with Setlist.fm?October 19, 2023 — 19 Oct 2023 — Setlist.fm encourages us to embrace a reductive view of...</p></details>
    Published: October 19, 2023  
 
 22. <a id="endnote-22"></a>
    Source: magbtm.com  
-   Link: [https://magbtm.com/concert-archives-the-digital-archive-for-all-your-favourite-gigs/](https://magbtm.com/concert-archives-the-digital-archive-for-all-your-favourite-gigs/)  
+   Link: <a href="https://magbtm.com/concert-archives-the-digital-archive-for-all-your-favourite-gigs/" target="_blank" rel="noopener noreferrer nofollow">https://magbtm.com/concert-archives-the-digital-archive-for-all-your-favourite-gigs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Archive Gallery: Beyond The MusicConcert Archives: the digital archive for all your favourite gigsFebruary 20, 2023 — Concert Archi...</p></details>
    Published: February 20, 2023  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Concerts/comments/1ildnsu/concert_archives/](https://www.reddit.com/r/Concerts/comments/1ildnsu/concert_archives/)  
+   Link: <a href="https://www.reddit.com/r/Concerts/comments/1ildnsu/concert_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Concerts/comments/1ildnsu/concert_archives/</a>  
 
 24. <a id="endnote-24"></a>
    Source: concertarchives.uservoice.com  
    Title: 15173322 let users import past concert data from setlist fm  
-   Link: [https://concertarchives.uservoice.com/forums/232754-general/suggestions/15173322-let-users-import-past-concert-data-from-setlist-fm](https://concertarchives.uservoice.com/forums/232754-general/suggestions/15173322-let-users-import-past-concert-data-from-setlist-fm)  
+   Link: <a href="https://concertarchives.uservoice.com/forums/232754-general/suggestions/15173322-let-users-import-past-concert-data-from-setlist-fm" target="_blank" rel="noopener noreferrer nofollow">https://concertarchives.uservoice.com/forums/232754-general/suggestions/15173322-let-users-import-past-concert-data-from-setlist-fm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>users Import past concert data from Setlist.fm.I&#x27;m happy to let you know that we now offer Setlist.fm imports! We just made a post with m...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_US&id=benoitd.com.setlist](https://play.google.com/store/apps/details?hl=en_US&id=benoitd.com.setlist)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=benoitd.com.setlist" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=benoitd.com.setlist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert for Setlist.fm - Apps on Google PlayMar 6, 2026 — Setlist Concerts is powered by one of the largest live music setlist databases...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/b1c9c4466a2db409a83523ad84b79d62](https://apnews.com/article/b1c9c4466a2db409a83523ad84b79d62)  
+   Link: <a href="https://apnews.com/article/b1c9c4466a2db409a83523ad84b79d62" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b1c9c4466a2db409a83523ad84b79d62</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One of his earliest and most notable recordings was Nirvana&#x27;s 1989 debut performance in Chicago. Over four decades, Jacobs captured perfo...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/336211666471793/posts/26572720019060933/](https://www.facebook.com/groups/336211666471793/posts/26572720019060933/)  
+   Link: <a href="https://www.facebook.com/groups/336211666471793/posts/26572720019060933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/336211666471793/posts/26572720019060933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking concerts attended with setlist.fmI made a free account on a site called setlist.fm. You can track all the concerts you have atte...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Concerts/comments/1mnql7l/any_of_you_use_setlistfm_for_keeping_a_list_of/](https://www.reddit.com/r/Concerts/comments/1mnql7l/any_of_you_use_setlistfm_for_keeping_a_list_of/)  
+   Link: <a href="https://www.reddit.com/r/Concerts/comments/1mnql7l/any_of_you_use_setlistfm_for_keeping_a_list_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Concerts/comments/1mnql7l/any_of_you_use_setlistfm_for_keeping_a_list_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At first I wanted to keep a list of the concerts I&#x27;ve been to on my phone&#x27;s notes app but later decided that it was a better...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: gigvault.app  
-   Link: [https://gigvault.app/blog/how-to-remember-every-concert](https://gigvault.app/blog/how-to-remember-every-concert)  
+   Link: <a href="https://gigvault.app/blog/how-to-remember-every-concert" target="_blank" rel="noopener noreferrer nofollow">https://gigvault.app/blog/how-to-remember-every-concert</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Log every concert, build your concert history, save setlists, and get your Concert Wrapped automatically...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
    Title: How to find past concert setlists and bands for a specific tour?Hi all!  
-   Link: [https://www.facebook.com/groups/octanefanclub/posts/10160013165137709/](https://www.facebook.com/groups/octanefanclub/posts/10160013165137709/)  
+   Link: <a href="https://www.facebook.com/groups/octanefanclub/posts/10160013165137709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/octanefanclub/posts/10160013165137709/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I was wondering if anyone knows of a place to look up past concerts. Meaning as in a concert I went to several years ago, but I can&#x27;t rem...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bps.org.uk  
    Title: British Psychological Society Why do we love live music so much?  
-   Link: [https://www.bps.org.uk/research-digest/why-do-we-love-live-music-so-much](https://www.bps.org.uk/research-digest/why-do-we-love-live-music-so-much)  
+   Link: <a href="https://www.bps.org.uk/research-digest/why-do-we-love-live-music-so-much" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/why-do-we-love-live-music-so-much</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do we love live music so much? | BPS15 May 2026 — This is sometimes referred to as &#x27;collective effervescence&#x27;: a shared sense of inte...</p></details>
    Published: May 2026  
 
 32. <a id="endnote-32"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4](https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4)  
+   Link: <a href="https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orted increased happiness and meaning for up to a week. The...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Music/comments/1n36ezu/how_do_you_all_keep_track_of_the_concerts_youve/](https://www.reddit.com/r/Music/comments/1n36ezu/how_do_you_all_keep_track_of_the_concerts_youve/)  
+   Link: <a href="https://www.reddit.com/r/Music/comments/1n36ezu/how_do_you_all_keep_track_of_the_concerts_youve/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1n36ezu/how_do_you_all_keep_track_of_the_concerts_youve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ff someone else&#x27;s creation, it links directly with Setlist.FM...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: buffalo.edu  
-   Link: [https://www.buffalo.edu/news/releases/2026/02/koefler-live-music-collective-effervescence.html](https://www.buffalo.edu/news/releases/2026/02/koefler-live-music-collective-effervescence.html)  
+   Link: <a href="https://www.buffalo.edu/news/releases/2026/02/koefler-live-music-collective-effervescence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.buffalo.edu/news/releases/2026/02/koefler-live-music-collective-effervescence.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Come together,&#x27; right now: UB study shows why live music...26 Feb 2026 — This is collective effervescence (CE), and it has an important...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: samwoolfe.com  
    Title: collective effervescence concerts  
-   Link: [https://www.samwoolfe.com/2025/01/collective-effervescence-concerts.html](https://www.samwoolfe.com/2025/01/collective-effervescence-concerts.html)  
+   Link: <a href="https://www.samwoolfe.com/2025/01/collective-effervescence-concerts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.samwoolfe.com/2025/01/collective-effervescence-concerts.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Collective Effervescence Through Live Music20 Jan 2025 — As the writer Mark Vernon states in an article for Aeon, collective effe...</p></details>

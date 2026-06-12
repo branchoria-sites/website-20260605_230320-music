@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043
 - music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870
 tags:
-- music
+- music-3-a01-be
 - lyrics
 - sung-meaning
 keywords:
-- music
+- music-3-a01-be
 - lyrics
 - sung-meaning
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Words can feel more emotionally charged when melody, rhythm, and voice carry them inside a song.
 hero_summary: Words can feel more emotionally charged when melody, rhythm, and voice carry them inside a song.
 layout: default
 permalink: /sung-meaning/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /lyrics/
 nav_short_title: Sung Meaning
 title: Why Sung Words Hit Harder Than Spoken Ones
-title_full: Why Sung Words Hit Harder Than Spoken Ones | Lyrics
+title_full: Why Sung Words Hit Harder Than Spoken Ones
 display_title_short: Sung Meaning
 display_title: Sung Meaning
 heading_title: Why Sung Words Hit Harder Than Spoken Ones
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Lyrics Make Feelings Public | Music
+parent_title: How Lyrics Make Feelings Public
 parent_permalink: /lyrics/
 parent_nav_short_title: Lyrics
 parent_heading_title: How Lyrics Make Feelings Public
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Lyrics Leave Songs and Become Slogans
 up_link:
   basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -259,7 +259,7 @@ prev_link:
   permalink: /protest-lyrics/
   short_title: Protest Lyrics
   heading_title: When Lyrics Leave Songs and Become Slogans
-date: '2026-06-09 06:45:05 '
+date: '2026-06-11 23:23:54 '
 header:
   og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1.webp
@@ -268,55 +268,38 @@ image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meanin
 
 ## Introduction
 
-Our experience of sung words often feels richer than hearing the same words spoken. A growing body of psychological research shows that music doesn’t just *carry* words — it alters how we perceive, integrate, and emotionally respond to them. Distinct from narrative or semantic content alone, [melody]({{ 'melody/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and vocal expression work together to amplify the emotional meaning listeners intuitively feel in song. This effect helps explain why a lyric can hit harder, linger longer, and feel more universal when it’s sung rather than spoken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
-
+Our experience of sung words often feels richer than hearing the same words spoken. A growing body of psychological research shows that music doesnt just *carry* words  it alters how we perceive, integrate, and emotionally respond to them. Distinct from narrative or semantic content alone, [melody]({{ 'melody/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and vocal expression work together to amplify the emotional meaning listeners intuitively feel in song. This effect helps explain why a lyric can hit harder, linger longer, and feel more universal when its sung rather than spoken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-dark.svg" | relative_url }}" alt="Sung Meaning illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Music Shapes the Perceived Meaning of Words
 
-[Music]({{ 'music/' | relative_url }}) doesn’t simply decorate language; it reshapes how words are interpreted. In experimental studies where participants judged the emotional valence and meaningfulness of the same text presented as sung [lyrics]({{ 'lyrics/' | relative_url }}), spoken speech, or written poetry, listeners consistently rated *sung* lyrics as more impactful — especially when paired with familiar music. Researchers suggest that this happens because the accompaniment carries personal associations and emotional significance that become bound to the words, increasing their perceived meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+Music doesnt simply decorate language; it reshapes how words are interpreted. In experimental studies where participants judged the emotional valence and meaningfulness of the same text presented as sung [lyrics]({{ 'lyrics/' | relative_url }}), spoken speech, or written poetry, listeners consistently rated *sung* lyrics as more impactful  especially when paired with familiar music. Researchers suggest that this happens because the accompaniment carries personal associations and emotional significance that become bound to the words, increasing their perceived meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
-Neurocognitive evidence also supports this integration: when listeners hear words sung to different melodies, measurable changes appear in brain responses associated with semantic processing. Variations in melody modulate classic markers of meaning processing (such as the N400 ERP component), indicating that musical pitch patterns interact with how semantic information is extracted from lyrics. This shows that melody and language are not processed in isolation but influence each other’s impact on comprehension and meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vumc.org">[Vanderbilt University Medical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vumc.org</span><span class="citation-popover-snippet">Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. | Vanderbi...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
+Neurocognitive evidence also supports this integration: when listeners hear words sung to different melodies, measurable changes appear in brain responses associated with semantic processing. Variations in melody modulate classic markers of meaning processing (such as the N400 ERP component), indicating that musical pitch patterns interact with how semantic information is extracted from lyrics. This shows that melody and language are not processed in isolation but influence each others impact on comprehension and meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vumc.org">[Vanderbilt University Medical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vumc.org</span><span class="citation-popover-snippet">Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. &#124; Vanderbi...</span></span></span>
 
 ## Melody and Vocal Expression Amplify Emotional Cues
 
-The *way* words are sung — not just what is sung — matters deeply. Research into vocal [timbre]({{ 'timbre/' | relative_url }}) (the unique colour or texture of a voice) demonstrates that emotional congruence between how a word *sounds* and the intended emotion influences how listeners perceive its meaning. Words sung with a voice that conveys matching emotional valence (for example, a warm, tender timbre for affectionate lyrics) are more readily and accurately interpreted as emotionally consistent than when the vocal quality contradicts the words’ affect. This effect suggests that vocal expression acts as a non‑verbal emotional signal that shapes how meaning is apprehended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</span></span></span>
+The *way* words are sung  not just what is sung  matters deeply. Research into vocal [timbre]({{ 'timbre/' | relative_url }}) (the unique colour or texture of a voice) demonstrates that emotional congruence between how a word *sounds* and the intended emotion influences how listeners perceive its meaning. Words sung with a voice that conveys matching emotional valence (for example, a warm, tender timbre for affectionate lyrics) are more readily and accurately interpreted as emotionally consistent than when the vocal quality contradicts the words affect. This effect suggests that vocal expression acts as a nonverbal emotional signal that shapes how meaning is apprehended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIts not what you sing, its how you sing it: How the emotional valence of vocal timbre influences listeners emotional perc...</span></span></span>
 
-In practical terms, this means that songs with expressive vocal delivery can make lyrics feel more sincere, poignant, or poignant than if the identical text were read in a neutral tone. Listeners rely on these acoustic cues — pitch inflection, dynamics, breathiness or power — to decode emotion alongside literal semantics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</span></span></span>
-
+In practical terms, this means that songs with expressive vocal delivery can make lyrics feel more sincere, poignant, or poignant than if the identical text were read in a neutral tone. Listeners rely on these acoustic cues  pitch inflection, dynamics, breathiness or power  to decode emotion alongside literal semantics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIts not what you sing, its how you sing it: How the emotional valence of vocal timbre influences listeners emotional perc...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-2-dark.svg" | relative_url }}" alt="Sung Meaning illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Familiarity, Integration and Lasting Impact
 
 Familiarity with a song further strengthens the bond between music and meaning. As listeners grow accustomed to a piece through repeated exposure, the brain integrates melody and lyrics more tightly, creating stronger associations that enhance both recall and emotional resonance. Studies show that repeated listening to unfamiliar songs increases perceived meaningfulness, suggesting that integration between melody and language is not static but develops with experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
-This phenomenon also helps explain why [choruses]({{ 'choruses/' | relative_url }}) and [hooks]({{ 'hooks/' | relative_url }}) — the most familiar and repeated sections of popular songs — often feel especially meaningful. Their simple melodic patterns and repetition make them easier to remember and internalise, and the emotional cues embedded in the music amplify how listeners experience the lyric content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KVX8j5s53Os" title="From Perception to Pleasure: How Music Changes the Brain | Dr. Robert Zatorre | TEDxHECMontréal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KVX8j5s53Os" target="_blank" rel="noopener noreferrer">From Perception to Pleasure: How Music Changes the Brain | Dr. Robert Zatorre | TEDxHECMontréal</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KVX8j5s53Os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KVX8j5s53Os">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qPGqucPpqoo" title="Discover The REAL Secret To Creating Emotional Connections Through Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qPGqucPpqoo" target="_blank" rel="noopener noreferrer">Discover The REAL Secret To Creating Emotional Connections Through Music</a></p><p class="youtube-embed-meta">Channel: Reelon Lofi Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qPGqucPpqoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qPGqucPpqoo">Open on YouTube</a></p></div></div></div>
+This phenomenon also helps explain why [choruses]({{ 'choruses/' | relative_url }}) and [hooks]({{ 'hooks/' | relative_url }})  the most familiar and repeated sections of popular songs  often feel especially meaningful. Their simple melodic patterns and repetition make them easier to remember and internalise, and the emotional cues embedded in the music amplify how listeners experience the lyric content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
 ## Why Sung Words Hit Harder Than Spoken Words
 
 In essence, music adds layers of emotional and cognitive cues that enrich the meaning of sung language:
 
-* **Acoustic emotion cues:** Melody, [harmony]({{ 'harmony/' | relative_url }}), and vocal timbre convey affective information that frames how words are interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</span></span></span>
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
-* **Neural integration:** Musical features influence semantic processing mechanisms in the brain, blending emotional and linguistic channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vumc.org">[Vanderbilt University Medical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vumc.org</span><span class="citation-popover-snippet">Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. | Vanderbi...</span></span></span>
+* **Acoustic emotion cues:** Melody, [harmony]({{ 'harmony/' | relative_url }}), and vocal timbre convey affective information that frames how words are interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIts not what you sing, its how you sing it: How the emotional valence of vocal timbre influences listeners emotional perc...</span></span></span>
+* **Neural integration:** Musical features influence semantic processing mechanisms in the brain, blending emotional and linguistic channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vumc.org">[Vanderbilt University Medical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vumc.org</span><span class="citation-popover-snippet">Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. &#124; Vanderbi...</span></span></span>
 * **Familiarity and association:** Music evokes personal and cultural associations that make verbal content feel deeper or more significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
-* **Repetition and structure:** Predictable melodic patterns and the structure of songs aid memory and emotional resonance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+* **Repetition and structure:** Predictable melodic patterns and the structure of songs aid [memory]({{ 'memory/' | relative_url }}) and emotional resonance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
-</div>
-
-Together, these mechanisms help explain the common experience that hearing a beloved lyric sung — rather than spoken — can feel profoundly meaningful, emotionally charged, and personally resonant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
-
+Together, these mechanisms help explain the common experience that hearing a beloved lyric sung  rather than spoken  can feel profoundly meaningful, emotionally charged, and personally resonant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-3-dark.svg" | relative_url }}" alt="Sung Meaning illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -356,7 +339,7 @@ Together, these mechanisms help explain the common experience that hearing a bel
         </h4>
         <p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores musicâ€™s unusual emotional and cognitive power.</p>
+        <p class="fr-book-desc">Explores music’s unusual emotional and cognitive power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -716,77 +699,77 @@ Together, these mechanisms help explain the common experience that hearing a bel
 
 1. <a id="endnote-1"></a>
    Source: research.bond.edu.au  
-   Link: [https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/](https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/)  
+   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vumc.org  
-   Link: [https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence](https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence)  
+   Link: <a href="https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.vumc.org/music-cognition-lab/publication/words-and-melody-are-intertwined-perception-sung-words-eeg-and-behavioral-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt University Medical CenterWords and melody are intertwined in perception of sung words: EEG and behavioral evidence. | Vanderbi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0305735617753996](https://journals.sagepub.com/doi/10.1177/0305735617753996)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional perc...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735617753996" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735617753996</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIts not what you sing, its how you sing it: How the emotional valence of vocal timbre influences listeners emotional perc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: On the one hand, dou  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2847603/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2847603/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Melody Are Intertwined in Perception of Sung Words: EEG and Behavioral Evidence - PMCMarch 31, 2010 — INTRODUCTION Strong arguments h...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2847603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2847603/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Melody Are Intertwined in Perception of Sung Words: EEG and Behavioral Evidence - PMCMarch 31, 2010  INTRODUCTION Strong arguments h...</p></details>
    Published: March 31, 2010  
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/article/10.3389/fpsyg.2013.00184/abstract](https://www.frontiersin.org/article/10.3389/fpsyg.2013.00184/abstract)  
+   Link: <a href="https://www.frontiersin.org/article/10.3389/fpsyg.2013.00184/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fpsyg.2013.00184/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 24 April 2013 Sec. Emotion Science Volume 4 - 2013 | [https://doi.org/10.3389/fpsyg.2013.00184](https://doi.org/10.3389/fpsyg.2013.00184) This article is part of the Resea...</p></details>
    Published: April 2013  
 
 6. <a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00809/full](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00809/full)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00809/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00809/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 04 September 2014 Sec. Cognitive Science Volume 5 - 2014 | [https://doi.org/10.3389/fpsyg.2014.00809](https://doi.org/10.3389/fpsyg.2014.00809) This article is part of the...</p></details>
    Published: September 2014  
 
 7. <a id="endnote-7"></a>
    Source: dbc.library.uu.nl  
-   Link: [https://dbc.library.uu.nl/handle/1874/412901](https://dbc.library.uu.nl/handle/1874/412901)  
+   Link: <a href="https://dbc.library.uu.nl/handle/1874/412901" target="_blank" rel="noopener noreferrer nofollow">https://dbc.library.uu.nl/handle/1874/412901</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Accompaniment Support the Processing of Song Lyrics and Change the Lyrics&#x27; MeaningSINGING AND ACCOMPANIMENT SUPPORT THE PROCESSING OF...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: rune.une.edu.au  
-   Link: [https://rune.une.edu.au/web/handle/1959.11/26489?mode=full](https://rune.une.edu.au/web/handle/1959.11/26489?mode=full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>une.edu.auIt’s not what you sing, it’s how you sing it: How the emotional valence of vocal timbre influences listeners’ emotional percept...</p></details>
+   Link: <a href="https://rune.une.edu.au/web/handle/1959.11/26489?mode=full" target="_blank" rel="noopener noreferrer nofollow">https://rune.une.edu.au/web/handle/1959.11/26489?mode=full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>une.edu.auIts not what you sing, its how you sing it: How the emotional valence of vocal timbre influences listeners emotional percept...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
    Title: Jacobs^{1,3} ^{1} Department of Experimental and Neurocognitive Psychology, F  
-   Link: [https://www.mdpi.com/2076-3425/8/6/94](https://www.mdpi.com/2076-3425/8/6/94)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sound of Words Evokes Affective Brain Responses | MDPIMay 23, 2018 — 23 May 2018 THE SOUND OF WORDS EVOKES AFFECTIVE BRAIN RESPONSES...</p></details>
+   Link: <a href="https://www.mdpi.com/2076-3425/8/6/94" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3425/8/6/94</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sound of Words Evokes Affective Brain Responses | MDPIMay 23, 2018  23 May 2018 THE SOUND OF WORDS EVOKES AFFECTIVE BRAIN RESPONSES...</p></details>
    Published: May 23, 2018  
 
 10. <a id="endnote-10"></a>
    Source: researchonline.gcu.ac.uk  
    Title: gcu.ac.uk Popular music and the role of vocal melody in perceived emotion  
-   Link: [https://researchonline.gcu.ac.uk/en/publications/popular-music-and-the-role-of-vocal-melody-in-perceived-emotion](https://researchonline.gcu.ac.uk/en/publications/popular-music-and-the-role-of-vocal-melody-in-perceived-emotion)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>music and the role of vocal melody in perceived emotion - Glasgow Caledonian UniversityMay 1, 2018 — POPULAR MUSIC AND THE ROLE OF VOCAL...</p></details>
+   Link: <a href="https://researchonline.gcu.ac.uk/en/publications/popular-music-and-the-role-of-vocal-melody-in-perceived-emotion" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/popular-music-and-the-role-of-vocal-melody-in-perceived-emotion</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>music and the role of vocal melody in perceived emotion - Glasgow Caledonian UniversityMay 1, 2018  POPULAR MUSIC AND THE ROLE OF VOCAL...</p></details>
    Published: May 1, 2018  
 
 11. <a id="endnote-11"></a>
    Source: repozytorium.ukw.edu.pl  
    Title: ukw.edu.pl The Attribution of Emotion and Meaning to Song Lyrics  
-   Link: [https://repozytorium.ukw.edu.pl/handle/item/852](https://repozytorium.ukw.edu.pl/handle/item/852)  
+   Link: <a href="https://repozytorium.ukw.edu.pl/handle/item/852" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.ukw.edu.pl/handle/item/852</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Attribution of Emotion and Meaning to Song Lyrics - Repozytorium Uniwersytetu Kazimierza WielkiegoTHE ATTRIBUTION OF EMOTION AND MEANING...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pure.solent.ac.uk  
    Title: solent.ac.uk Have we made ourselves clear?  
-   Link: [https://pure.solent.ac.uk/en/publications/have-we-made-ourselves-clear-singers-and-non-singers-perceptions-](https://pure.solent.ac.uk/en/publications/have-we-made-ourselves-clear-singers-and-non-singers-perceptions-)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singers and non-singers’ perceptions of the intelligibility of sung text - Southampton Solent UniversityHAVE WE MADE OURSELVES CLEAR? SIN...</p></details>
+   Link: <a href="https://pure.solent.ac.uk/en/publications/have-we-made-ourselves-clear-singers-and-non-singers-perceptions-" target="_blank" rel="noopener noreferrer nofollow">https://pure.solent.ac.uk/en/publications/have-we-made-ourselves-clear-singers-and-non-singers-perceptions-</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singers and non-singers perceptions of the intelligibility of sung text - Southampton Solent UniversityHAVE WE MADE OURSELVES CLEAR? SIN...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22457659/](https://pubmed.ncbi.nlm.nih.gov/22457659/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22457659/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22457659/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Mar 19:3:76. doi: 10.3389/fpsyg.2012.00076. eCollection 2012. PERCEPTION OF WORDS AND PITCH PATTERNS IN SONG AND SPEECH Julia Merril...</p></details>

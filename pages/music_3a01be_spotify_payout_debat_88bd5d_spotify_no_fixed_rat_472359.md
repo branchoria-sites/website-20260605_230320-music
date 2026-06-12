@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626
 - music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df
 tags:
-- music
+- music-3-a01-be
 - spotify-payouts
 - per-stream
 keywords:
-- music
+- music-3-a01-be
 - spotify-payouts
 - per-stream
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Spotify royalties come from a shared revenue pool, so a stream's value changes with market, subscription mix and listening share.
 hero_summary: Spotify royalties come from a shared revenue pool, so a stream's value changes with market, subscription mix and listening share.
 layout: default
 permalink: /per-stream/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /spotify-payouts/
 nav_short_title: Per Stream
 title: Why one Spotify stream has no fixed price
-title_full: Why one Spotify stream has no fixed price | Spotify Payouts
+title_full: Why one Spotify stream has no fixed price
 display_title_short: Per Stream
 display_title: Per Stream
 heading_title: Why one Spotify stream has no fixed price
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Streaming Payout Claims Really Mean | Music
+parent_title: What Streaming Payout Claims Really Mean
 parent_permalink: /spotify-payouts/
 parent_nav_short_title: Spotify Payouts
 parent_heading_title: What Streaming Payout Claims Really Mean
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one stream creates two royalty trails
 up_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -265,7 +265,7 @@ next_link:
   permalink: /two-rights/
   short_title: Two Rights
   heading_title: Why one stream creates two royalty trails
-date: '2026-06-09 07:51:26 '
+date: '2026-06-11 23:57:41 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_
 
 ## Introduction
 
-One of the most persistent myths in [music]({{ 'music/' | relative_url }}) streaming is that Spotify pays a set amount every time a song is played. In reality, Spotify does not attach a fixed price to each stream. Instead, it uses a revenue-sharing system known as *streamshare*, in which royalty pools are created from subscription and advertising income and then divided according to each rightsholder’s share of listening. As a result, the value of any individual stream changes over time and across markets. A play in one country may contribute more or less revenue than a play in another, and the same song can generate different effective rates from month to month. Spotify itself has repeatedly stated that there is no fixed per-stream payment and that [royalties]({{ 'royalties/' | relative_url }}) are calculated from listening share rather than a universal price per play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span>
-
+One of the most persistent myths in music streaming is that Spotify pays a set amount every time a song is played. In reality, Spotify does not attach a fixed price to each stream. Instead, it uses a revenue-sharing system known as *streamshare*, in which royalty pools are created from subscription and advertising income and then divided according to each rightsholder’s share of listening. As a result, the value of any individual stream changes over time and across markets. A play in one country may contribute more or less revenue than a play in another, and the same song can generate different effective rates from month to month. Spotify itself has repeatedly stated that there is no fixed per-stream payment and that [royalties]({{ 'royalties/' | relative_url }}) are calculated from listening share rather than a universal price per play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1-dark.svg" | relative_url }}" alt="Per Stream illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How streamshare replaces a fixed per-play rate
@@ -283,7 +282,6 @@ One of the most persistent myths in [music]({{ 'music/' | relative_url }}) strea
 The key reason Spotify does not pay a fixed per-stream rate is that listeners do not buy streams individually. Most users either pay a monthly subscription for unlimited listening or use an advertising-supported tier. That money is pooled rather than assigned to specific songs. Spotify then allocates a large portion of music revenue to [rights]({{ 'rights/' | relative_url }}) holders and distributes it according to each [catalogue]({{ 'catalogue/' | relative_url }})’s share of total eligible streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span>
 
 A simplified version of the process works like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -297,7 +295,6 @@ A simplified version of the process works like this:
 If a catalogue represents 1% of all eligible streams in a market during a period, it receives roughly 1% of the relevant royalty pool. The calculation is based on relative listening share, not a pre-set payment attached to each play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearYour Questions, Answered - Loud and ClearYou get paid based on your percentage of total streams, not a fixed rate per strea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span>
 
 This means a stream is not a standalone unit with a fixed cash value. Its effective worth depends on the size of the pool being divided and the number of streams competing for that pool. Spotify describes this model as streamshare, while many industry observers refer to it as a pro-rata system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Spotify Unveils &#x27;Loud and Clear,&#x27; a Detailed Guide to Its...Spotify says they pay rights holders &quot;roughly 2/3 of every dollar [they] mak...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqgVEX6v1d0" title="Fact-Checking Spotify&#x27;s &quot;Loud &amp; Clear&quot; Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqgVEX6v1d0" target="_blank" rel="noopener noreferrer">Fact-Checking Spotify&#x27;s &quot;Loud &amp; Clear&quot; Report</a></p><p class="youtube-embed-meta">Channel: Prof John &middot; Views: 400 &middot; Uploaded: March 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqgVEX6v1d0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqgVEX6v1d0">Open on YouTube</a></p></div></div></div>
 
@@ -317,20 +314,16 @@ Subscription prices vary widely around the world. Advertising markets also diffe
 
 As a result, one million streams generated primarily in a high-revenue market can yield different royalties from one million streams generated in lower-revenue markets.
 
-
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-2-dark.svg" | relative_url }}" alt="Per Stream illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Premium and ad-supported listeners contribute differently
 
-Premium subscribers pay monthly fees, while free-tier listeners generate advertising revenue. These revenue sources are not equal. In general, Premium listening contributes more money to royalty pools than ad-supported listening. Consequently, a catalogue with a larger share of Premium streams often produces higher royalty earnings than one with the same number of streams coming mainly from free users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[Musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">MusosoupSpotify Royalties Per Stream: Current Rates and How They...The exact payout depends on a streamshare model, which means artists...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://groover.co/en/lp/free-tools/streaming-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groover.co">[Groover]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groover.co</span><span class="citation-popover-snippet">GrooverSpotify Royalty Calculator: See What Your Streams Are WorthUse our free Spotify royalties calculator to see how much Spotify, Appl...</span></span></span>
+Premium subscribers pay monthly fees, while free-tier listeners generate advertising revenue. These revenue sources are not equal. In general, Premium listening contributes more money to royalty pools than ad-supported listening. Consequently, a catalogue with a larger share of Premium streams often produces higher royalty earnings than one with the same number of streams coming mainly from free users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[Musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">Spotify Royalties Per Stream: Current Rates and How They...The exact payout depends on a streamshare model, which means artists...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://groover.co/en/lp/free-tools/streaming-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groover.co">[Groover]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groover.co</span><span class="citation-popover-snippet">Spotify Royalty Calculator: See What Your Streams Are WorthUse our free Spotify royalties calculator to see how much Spotify, Appl...</span></span></span>
 
 ### Total listening volume matters
 
 Even when revenue remains stable, the effective value of a stream can change if the number of total streams changes.
 
 Imagine a royalty pool worth £100 million. If the platform generates twice as many streams while the pool remains the same size, each stream represents a smaller fraction of the total listening share. This is one reason industry observers caution against treating average per-stream figures as permanent rates. The denominator—the total number of streams—is constantly changing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearYour Questions, Answered - Loud and ClearYou get paid based on your percentage of total streams, not a fixed rate per strea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">spotify 11 billion in royalties</span><span class="citation-popover-snippet">However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U4sPD5JAj58" title="Spotify Explains How Spotify Pays Music Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U4sPD5JAj58" target="_blank" rel="noopener noreferrer">Spotify Explains How Spotify Pays Music Royalties</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 1.4K &middot; Uploaded: May 2026 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U4sPD5JAj58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U4sPD5JAj58">Open on YouTube</a></p></div></div></div>
 
 ## Common mistakes in per-stream royalty estimates
 
@@ -340,7 +333,7 @@ Several common misunderstandings follow from this distinction.
 
 **Mistake 1: Assuming every stream pays the same amount**
 
-A stream from a Premium subscriber in one country and a stream from a free user in another country do not necessarily contribute the same amount to royalty pools. Treating them as identical oversimplifies the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[Musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">MusosoupSpotify Royalties Per Stream: Current Rates and How They...The exact payout depends on a streamshare model, which means artists...</span></span></span>
+A stream from a Premium subscriber in one country and a stream from a free user in another country do not necessarily contribute the same amount to royalty pools. Treating them as identical oversimplifies the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[Musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">Spotify Royalties Per Stream: Current Rates and How They...The exact payout depends on a streamshare model, which means artists...</span></span></span>
 
 **Mistake 2: Multiplying streams by a single headline rate**
 
@@ -354,7 +347,6 @@ Even after a royalty amount is calculated, the money typically goes first to lab
 
 A service can appear to pay more per stream simply because it has a different subscriber mix, pricing structure or listening volume. Spotify argues that headline per-stream comparisons often obscure the underlying revenue-sharing mechanics used across major streaming platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearYour Questions, Answered - Loud and ClearYou get paid based on your percentage of total streams, not a fixed rate per strea...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-3-dark.svg" | relative_url }}" alt="Per Stream illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the absence of a fixed rate matters in the streaming debate
 
@@ -362,9 +354,7 @@ The question “How much does Spotify pay per stream?” sounds simple but point
 
 This distinction explains why public discussions frequently produce conflicting numbers. Average per-stream estimates can be useful shorthand, but they are retrospective averages rather than guaranteed rates. Spotify’s royalty system is designed around revenue pools and listening share, which means the value of a stream is always variable by market, subscription type, advertising income and overall platform activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kvzmusic.com/royalties/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kvzmusic.com">[kvzmusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kvzmusic.com</span><span class="citation-popover-snippet">Streaming Royalties in 2025: How Spotify, Apple...No fixed per-stream rate: Spotify explicitly says payouts are not a flat rate per play...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream.... The MMF&#x27;s guide helps songwriters understa...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0-f4dOJ78Fs" title="Spotify Royalties Explained: How Streaming Money Really Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer">Spotify Royalties Explained: How Streaming Money Really Works</a></p><p class="youtube-embed-meta">Channel: Joey Dale Music &middot; Views: 962 &middot; Uploaded: around November 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0-f4dOJ78Fs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U4sPD5JAj58" title="Spotify Explains How Spotify Pays Music Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U4sPD5JAj58" target="_blank" rel="noopener noreferrer">Spotify Explains How Spotify Pays Music Royalties</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 1.4K &middot; Uploaded: May 2026 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U4sPD5JAj58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U4sPD5JAj58">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,209 +752,209 @@ This distinction explains why public discussions frequently produce conflicting 
 
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/royalties-guide](https://artists.spotify.com/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kvzmusic.com  
-   Link: [https://www.kvzmusic.com/royalties/index.html](https://www.kvzmusic.com/royalties/index.html)  
+   Link: <a href="https://www.kvzmusic.com/royalties/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kvzmusic.com/royalties/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Royalties in 2025: How Spotify, Apple...No fixed per-stream rate: Spotify explicitly says payouts are not a flat rate per play...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/](https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Unveils &#x27;Loud and Clear,&#x27; a Detailed Guide to Its...Spotify says they pay rights holders &quot;roughly 2/3 of every dollar [they] mak...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: groover.co  
-   Link: [https://groover.co/en/lp/free-tools/streaming-royalties-calculator/](https://groover.co/en/lp/free-tools/streaming-royalties-calculator/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GrooverSpotify Royalty Calculator: See What Your Streams Are WorthUse our free Spotify royalties calculator to see how much Spotify, Appl...</p></details>
+   Link: <a href="https://groover.co/en/lp/free-tools/streaming-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://groover.co/en/lp/free-tools/streaming-royalties-calculator/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalty Calculator: See What Your Streams Are WorthUse our free Spotify royalties calculator to see how much Spotify, Appl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/spotify-royalties-per-stream](https://musosoup.com/blog/spotify-royalties-per-stream)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MusosoupSpotify Royalties Per Stream: Current Rates and How They...The exact payout depends on a streamshare model, which means artists...</p></details>
+   Link: <a href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties-per-stream</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties Per Stream: Current Rates and How They...The exact payout depends on a streamshare model, which means artists...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: artist.tools  
    Title: how much per stream on spotify a guide for artists  
-   Link: [https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists](https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists)  
+   Link: <a href="https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2026 — Alright, let&#x27;s get straight to the number everyone wants to know: on average, Spotify pays artists between $0.003 and $0.00...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: artists.spotify.com  
    Title: royalties guide  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream.... The MMF&#x27;s guide helps songwriters understa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/](https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/)  
+   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — [Spotify payouts](&amp;#123;&amp;#123; &#x27;spotify-payouts/&#x27; | relative_url &amp;#125;&amp;#125;) grew more than 10% year-over-year—more than double t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: creators.spotify.com  
-   Link: [https://creators.spotify.com/pod/profile/what-are-we-doing-pod/episodes/Logan-Paul--Soulja-Boy--Smart-Business-or-Scammers---What-are-We-Doing-Podcast-Episode-213-e3alrn5](https://creators.spotify.com/pod/profile/what-are-we-doing-pod/episodes/Logan-Paul--Soulja-Boy--Smart-Business-or-Scammers---What-are-We-Doing-Podcast-Episode-213-e3alrn5)  
+   Link: <a href="https://creators.spotify.com/pod/profile/what-are-we-doing-pod/episodes/Logan-Paul--Soulja-Boy--Smart-Business-or-Scammers---What-are-We-Doing-Podcast-Episode-213-e3alrn5" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/what-are-we-doing-pod/episodes/Logan-Paul--Soulja-Boy--Smart-Business-or-Scammers---What-are-We-Doing-Podcast-Episode-213-e3alrn5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are We Doing Podcast Episode 213 by What Are...8 Nov 2025 — For the latest full episodes &amp; podcast clips, visit: www.wawdpod.com...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/12l1uph/question_anybody_know_how_streaming_royalties_are/](https://www.reddit.com/r/musicbusiness/comments/12l1uph/question_anybody_know_how_streaming_royalties_are/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/12l1uph/question_anybody_know_how_streaming_royalties_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/12l1uph/question_anybody_know_how_streaming_royalties_are/</a>  
 
 13. <a id="endnote-13"></a>
    Source: artist.tools  
    Title: a guide to royalties for spotify  
-   Link: [https://www.artist.tools/post/a-guide-to-royalties-for-spotify](https://www.artist.tools/post/a-guide-to-royalties-for-spotify)  
+   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025 — Getting a handle on royalties for Spotify is way simpler than it seems. The biggest myth is that Spotify pays a fixed rate e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: artist.tools  
    Title: how much does spotify pay find out the real numbers  
-   Link: [https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers](https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers)  
+   Link: <a href="https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Much Does Spotify Pay? Find Out the Real NumbersSep 19, 2025 — The short answer you&#x27;ll see everywhere is that Spotify pays artists so...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/faq/](https://loudandclear.byspotify.com/faq/)  
+   Link: <a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearYour Questions, Answered - Loud and ClearYou get paid based on your percentage of total streams, not a fixed rate per strea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/](https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/)  
+   Link: <a href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aristake.com  
    Title: spotify loud and clear 2023  
-   Link: [https://aristake.com/spotify-loud-and-clear-2023/](https://aristake.com/spotify-loud-and-clear-2023/)  
+   Link: <a href="https://aristake.com/spotify-loud-and-clear-2023/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/spotify-loud-and-clear-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What this means is, you get paid on the number of...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theverge.com  
    Title: spotify 11 billion in royalties  
-   Link: [https://www.theverge.com/news/869523/spotify-11-billion-in-royalties](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)  
+   Link: <a href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/869523/spotify-11-billion-in-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: viewmaniac.com  
    Title: spotify royalties calculator  
-   Link: [https://viewmaniac.com/spotify-royalties-calculator/](https://viewmaniac.com/spotify-royalties-calculator/)  
+   Link: <a href="https://viewmaniac.com/spotify-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://viewmaniac.com/spotify-royalties-calculator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify does not publish one fixed number that applies to every stream. Most figures you see online are blended averages.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hypeddit.com  
    Title: how much does spotify pay per stream  
-   Link: [https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/](https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/)  
+   Link: <a href="https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow">https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in 2026, but that&#x27;s an estimate, not a fixed r...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/](https://loudandclear.byspotify.com/)  
+   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/](https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/)  
+   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>not pay royalties on any songs receiving less than 1,000 streams per annum.... Spotify doesn&#x27;t pay a fixed “per-stream” rate. Each month...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/james-harness-62b2b633_our-annual-loud-clear-report-is-out-now-activity-7437521693507682304-Dtj9](https://www.linkedin.com/posts/james-harness-62b2b633_our-annual-loud-clear-report-is-out-now-activity-7437521693507682304-Dtj9)  
+   Link: <a href="https://www.linkedin.com/posts/james-harness-62b2b633_our-annual-loud-clear-report-is-out-now-activity-7437521693507682304-Dtj9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/james-harness-62b2b633_our-annual-loud-clear-report-is-out-now-activity-7437521693507682304-Dtj9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Loud &amp; Clear Report Reveals Artist EarningsSpotify alone has now paid out nearly $70 billion all-time to music rights holders t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW](https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW)  
+   Link: <a href="https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>persistent myth: there is no fixed...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: hypebot.com  
    Title: spotify streaming payouts explained is it enough  
-   Link: [https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/](https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/)  
+   Link: <a href="https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Explains Why There&#x27;s No &#x27;Per-Stream Rate&#x27; – Artists...2 Dec 2025 — Spotify has published a new explanation of how Spotify stream...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0-f4dOJ78Fs](https://www.youtube.com/watch?v=0-f4dOJ78Fs)  
+   Link: <a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0-f4dOJ78Fs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>m,” and what really happens behind the scenes of music streaming...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: twostorymelody.com  
    Title: How Much Does Spotify Pay Per Stream?  
-   Link: [https://twostorymelody.com/spotify-pay-per-stream/](https://twostorymelody.com/spotify-pay-per-stream/)  
+   Link: <a href="https://twostorymelody.com/spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow">https://twostorymelody.com/spotify-pay-per-stream/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2023)15 Sept 2022 — Spotify does not split the pool on a fixed rate per stream, as users do not pay per stream; premium users pay for ac...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: techcrunch.com  
    Title: spotify says its payouts are getting better but artists still disagree  
-   Link: [https://techcrunch.com/2025/03/11/spotify-says-its-payouts-are-getting-better-but-artists-still-disagree/](https://techcrunch.com/2025/03/11/spotify-says-its-payouts-are-getting-better-but-artists-still-disagree/)  
+   Link: <a href="https://techcrunch.com/2025/03/11/spotify-says-its-payouts-are-getting-better-but-artists-still-disagree/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/03/11/spotify-says-its-payouts-are-getting-better-but-artists-still-disagree/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify says its payouts are getting better, but artists still...11 Mar 2025 — It found that Spotify paid artists $3 per 1,000 streams...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: virpp.com  
-   Link: [https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/)  
+   Link: <a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThis article explains how it all works in the United States for Spotify and all other interactiv...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thetimes.com  
-   Link: [https://www.thetimes.com/[culture](https://www.thetimes.com/[culture)  
+   Link: <a href="https://www.thetimes.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/[culture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite 9.3 million total streams across all platforms—of which Spotify contributed 75%—the band earned only £31,940, with Spotify paying...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/mnvibe/posts/10164399266283653/](https://www.facebook.com/groups/mnvibe/posts/10164399266283653/)  
+   Link: <a href="https://www.facebook.com/groups/mnvibe/posts/10164399266283653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mnvibe/posts/10164399266283653/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Each month it pools subscription + ad revenue by market/product, retains the remainder after...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: royaltyexchange.com  
    Title: how music streaming platforms calculate payouts per stream 2025  
-   Link: [https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025](https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025)  
+   Link: <a href="https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Platforms Calculate Payouts Per...4 Mar 2025 — For instance, Spotify allocates about 65–70% of its revenue to rights...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: rebelmusicdistribution.com  
-   Link: [https://rebelmusicdistribution.com/2023/08/02/how-much-spotify-pays-per-stream-a-comprehensive-guide/](https://rebelmusicdistribution.com/2023/08/02/how-much-spotify-pays-per-stream-a-comprehensive-guide/)  
+   Link: <a href="https://rebelmusicdistribution.com/2023/08/02/how-much-spotify-pays-per-stream-a-comprehensive-guide/" target="_blank" rel="noopener noreferrer nofollow">https://rebelmusicdistribution.com/2023/08/02/how-much-spotify-pays-per-stream-a-comprehensive-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Much Spotify Pays per Stream: A Comprehensive Guide2 Aug 2023 — The payout per stream is not a fixed amount and can vary significantly...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: printify.com  
    Title: how do artists make money on spotify  
-   Link: [https://printify.com/blog/how-do-artists-make-money-on-spotify/](https://printify.com/blog/how-do-artists-make-money-on-spotify/)  
+   Link: <a href="https://printify.com/blog/how-do-artists-make-money-on-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://printify.com/blog/how-do-artists-make-money-on-spotify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How much do artists make on Spotify in 2026?Spotify pays artists about $0.003 to $0.005 per stream, meaning a million streams generates r...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: art-classes.co.uk  
    Title: Will Spotify Pay You?  
-   Link: [https://art-classes.co.uk/will-spotify-pay-you-a-deep-dive-into-streaming-royalties](https://art-classes.co.uk/will-spotify-pay-you-a-deep-dive-into-streaming-royalties)  
+   Link: <a href="https://art-classes.co.uk/will-spotify-pay-you-a-deep-dive-into-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://art-classes.co.uk/will-spotify-pay-you-a-deep-dive-into-streaming-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into Streaming Royalties13 Oct 2025 — Spotify pays between $0.003-$0.005 per stream, but your actual earnings depend on: Perc...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Debunking Myths About Spotify Payouts  
-   Link: [https://www.youtube.com/watch?v=S4g58f9_rY0](https://www.youtube.com/watch?v=S4g58f9_rY0)  
+   Link: <a href="https://www.youtube.com/watch?v=S4g58f9_rY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4g58f9_rY0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the mechanics of the &quot;streamshare&quot; or pro-rata royalty model, detailing why royalty payouts fluctuate and why there...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: orphiq.com  
    Title: how streaming royalties calculated  
-   Link: [https://orphiq.com/resources/how-streaming-royalties-calculated](https://orphiq.com/resources/how-streaming-royalties-calculated)  
+   Link: <a href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/how-streaming-royalties-calculated</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It pays you a percentage of a pool that works out to roughly $0.003 to $0.005 after all the variables...Read more...</p></details>

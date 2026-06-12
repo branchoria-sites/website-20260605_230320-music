@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0
 - music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919
 tags:
-- music
+- music-3-a01-be
 - short-clips
 - song-revivals
 keywords:
-- music
+- music-3-a01-be
 - short-clips
 - song-revivals
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A decades-old recording can find a new audience when one clip-friendly moment spreads across short-form platforms.
 hero_summary: A decades-old recording can find a new audience when one clip-friendly moment spreads across short-form platforms.
 layout: default
 permalink: /song-revivals/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /short-clips/
 nav_short_title: Song Revivals
 title: How Old Songs Become New Hits Again
-title_full: How Old Songs Become New Hits Again | Short Clips
+title_full: How Old Songs Become New Hits Again
 display_title_short: Song Revivals
 display_title: Song Revivals
 heading_title: How Old Songs Become New Hits Again
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Short Clips Reshape Hit Songs | Music
+parent_title: How Short Clips Reshape Hit Songs
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: How Short Clips Reshape Hit Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the Chorus Is No Longer the Only Hook
 up_link:
   basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -265,7 +265,7 @@ next_link:
   permalink: /viral-moments/
   short_title: Viral Moments
   heading_title: Why the Chorus Is No Longer the Only Hook
-date: '2026-06-09 06:41:17 '
+date: '2026-06-11 23:21:56 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1.webp
@@ -276,32 +276,29 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals
 
 A striking feature of the short-form video era is that songs no longer need to be new to become hits. In 2025, Connie Francis’s 1962 [recording]({{ 'recording/' | relative_url }}) “Pretty Little Baby” became one of the clearest examples of how a decades-old track can suddenly find a global audience when a single clip-friendly moment spreads across social platforms. A song that was never one of Francis’s signature chart smashes returned to mainstream listening more than sixty years after it was recorded, generating millions of user-created videos, major streaming growth and new chart appearances. The revival demonstrated that, in the age of [short clips]({{ 'short-clips/' | relative_url }}), musical age matters less than whether a recording contains a moment people want to reuse, share and reinterpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Deeply moved by the renewed attention, she joined TikTok and shared her excitement with fans. “Pretty Little Baby” subsequently earned ov...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1-dark.svg" | relative_url }}" alt="Song Revivals illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Old Songs Become New Hits Again
 
 ### The Pretty Little Baby Revival
 
-“Pretty Little Baby” was originally recorded during Connie Francis’s early-1960s peak and appeared as a relatively obscure album track and B-side rather than a defining hit. For decades it sat largely outside popular discussion of her [catalogue]({{ 'catalogue/' | relative_url }}). Even Francis herself later said she barely remembered recording it until its unexpected resurgence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stereogum.com">[Stereogum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stereogum.com</span><span class="citation-popover-snippet">StereogumConnie Francis Reacts To 1963 Deep Cut &quot;Pretty Little...May 23, 2025 — 23 May 2025 — &quot;Pretty Little Baby&quot; first appeared on the...</span><span class="citation-popover-meta">Published: May 23, 2025</span></span></span>
+“Pretty Little Baby” was originally recorded during Connie Francis’s early-1960s peak and appeared as a relatively obscure album track and B-side rather than a defining hit. For decades it sat largely outside popular discussion of her [catalogue]({{ 'catalogue/' | relative_url }}). Even Francis herself later said she barely remembered recording it until its unexpected resurgence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stereogum.com">[Stereogum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stereogum.com</span><span class="citation-popover-snippet">Connie Francis Reacts To 1963 Deep Cut &quot;Pretty Little...May 23, 2025 — 23 May 2025 — &quot;Pretty Little Baby&quot; first appeared on the...</span><span class="citation-popover-meta">Published: May 23, 2025</span></span></span>
 
-The revival began when creators on TikTok started using a short section of the song in videos featuring babies, pets, family moments, nostalgic imagery, fashion clips and light-hearted lip-sync performances. The track’s gentle [melody]({{ 'melody/' | relative_url }}) and affectionate [lyrics]({{ 'lyrics/' | relative_url }}) proved unusually adaptable across different kinds of content. Rather than requiring listeners to know the full song, a few seconds communicated the mood immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">KSATConnie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
+The revival began when creators on TikTok started using a short section of the song in videos featuring babies, pets, family moments, nostalgic imagery, fashion clips and light-hearted lip-sync performances. The track’s gentle [melody]({{ 'melody/' | relative_url }}) and affectionate [lyrics]({{ 'lyrics/' | relative_url }}) proved unusually adaptable across different kinds of content. Rather than requiring listeners to know the full song, a few seconds communicated the mood immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
 
 What followed was extraordinary by catalogue-music standards:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Millions of videos incorporated the recording.
 * The song accumulated tens of billions of video views across the platform.
 * Streaming numbers surged, making it Francis’s most-streamed song on Spotify.
-* The track entered contemporary chart conversations despite originating in 1962. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">KSATConnie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
+* The track entered contemporary chart conversations despite originating in 1962. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
 
 </div>
 
 The scale of the comeback was large enough that TikTok later identified “Pretty Little Baby” as its top global song of 2025, a remarkable outcome for a recording created more than six decades earlier. Rolling Stone <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.udiscovermusic.com/news/connie-francis-pretty-little-baby-is-tiktoks-2025-track-of-the-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: udiscovermusic.com">[2uDiscover Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">udiscovermusic.com</span><span class="citation-popover-title">connie francis pretty little baby is tiktoks 2025 track of the year</span><span class="citation-popover-snippet">The pop singer&#x27;s 1962 single was used over 28.4 million times on the...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A1MdThqGarI" title="Connie Francis - Pretty Little Baby (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A1MdThqGarI" target="_blank" rel="noopener noreferrer">Connie Francis - Pretty Little Baby (Official Audio)</a></p><p class="youtube-embed-meta">Channel: Connie Francis - Official &middot; Views: 41.7M &middot; Uploaded: May 2025 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A1MdThqGarI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A1MdThqGarI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=A1MdThqGarI" target="_blank" rel="noopener noreferrer">Link</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A1MdThqGarI" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A1MdThqGarI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A1MdThqGarI">Open on YouTube</a></p></div></div></div>
 
 ## Why Vintage Tracks Resurface
 
@@ -315,16 +312,14 @@ Third, nostalgia on short-form platforms is not limited to people who lived thro
 
 The result is a reversal of traditional music-industry assumptions. Historically, catalogue songs tended to decline unless they were tied to films, anniversaries or reissues. Short-form platforms allow ordinary users to become the mechanism of rediscovery, turning forgotten recordings into shared cultural references. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalmusic.ca/press-releases/connie-francis-pretty-little-baby-taking-the-world-by-storm-63-years-after-it-was-first-released/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalmusic.ca">[universalmusic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalmusic.ca</span><span class="citation-popover-snippet">CONNIE FRANCIS&#x27; “PRETTY LITTLE BABY” TAKING THE...19 May 2025 — 19 MAY 2025 (TORONTO, ON) – Connie Francis&#x27; 1962 song “Pretty Little Bab...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-2-dark.svg" | relative_url }}" alt="Song Revivals illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Made This Revival Different
 
 Not every old song experiences a comeback. The Connie Francis example succeeded because several factors aligned at once.
 
-The recording contained a clear, emotionally understandable hook. Users did not need background knowledge about Francis or early-1960s pop music to understand the feeling being expressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">KSATConnie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
+The recording contained a clear, emotionally understandable hook. Users did not need background knowledge about Francis or early-1960s pop music to understand the feeling being expressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
 
 The song was also highly versatile. It worked with:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -337,28 +332,20 @@ The song was also highly versatile. It worked with:
 
 </div>
 
-This flexibility increased the number of communities that could adopt it. A trend limited to one format often fades quickly; a sound that works across many [formats]({{ 'formats/' | relative_url }}) can continue spreading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">KSATConnie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
+This flexibility increased the number of communities that could adopt it. A trend limited to one format often fades quickly; a sound that works across many [formats]({{ 'formats/' | relative_url }}) can continue spreading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
 
 Another notable element was the human story surrounding the revival. Francis was 87 years old when the song resurfaced and openly expressed surprise that younger audiences had discovered her work. Her reaction became part of the story, creating a bridge between generations of listeners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/connie-francis-forgot-about-pretty-little-baby-before-tiktok-comeback-exclusive-11738928" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Her deep cut “Pretty...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4w00Je0Sqik" title="David Pomeranz - The Old Songs - (Official Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4w00Je0Sqik" target="_blank" rel="noopener noreferrer">David Pomeranz - The Old Songs - (Official Lyric Video)</a></p><p class="youtube-embed-meta">Channel: polyeastrecords</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4w00Je0Sqik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4w00Je0Sqik">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-3-dark.svg" | relative_url }}" alt="Song Revivals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lessons for Today's Songwriters
 
 The Connie Francis revival offers an important lesson for discussions about how short clips influence songwriting.
 
-The success of “Pretty Little Baby” does not show that songs must be written specifically for TikTok. After all, the recording was created more than sixty years before the platform existed. Instead, it suggests that songs often contain portable moments that may gain new significance in different media environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stereogum.com">[Stereogum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stereogum.com</span><span class="citation-popover-snippet">StereogumConnie Francis Reacts To 1963 Deep Cut &quot;Pretty Little...May 23, 2025 — 23 May 2025 — &quot;Pretty Little Baby&quot; first appeared on the...</span><span class="citation-popover-meta">Published: May 23, 2025</span></span></span>
+The success of “Pretty Little Baby” does not show that songs must be written specifically for TikTok. After all, the recording was created more than sixty years before the platform existed. Instead, it suggests that songs often contain portable moments that may gain new significance in different media environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stereogum.com">[Stereogum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stereogum.com</span><span class="citation-popover-snippet">Connie Francis Reacts To 1963 Deep Cut &quot;Pretty Little...May 23, 2025 — 23 May 2025 — &quot;Pretty Little Baby&quot; first appeared on the...</span><span class="citation-popover-meta">Published: May 23, 2025</span></span></span>
 
-For contemporary writers, the takeaway is less about copying vintage styles and more about understanding emotional clarity. The section of “Pretty Little Baby” that spread online communicated its mood instantly. It was recognisable, adaptable and emotionally legible without requiring the listener to hear the full composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">KSATConnie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
+For contemporary writers, the takeaway is less about copying vintage styles and more about understanding emotional clarity. The section of “Pretty Little Baby” that spread online communicated its mood instantly. It was recognisable, adaptable and emotionally legible without requiring the listener to hear the full composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-snippet">Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</span></span></span>
 
-The case also challenges the assumption that music has a fixed commercial lifespan. A song can spend decades in relative obscurity and still become culturally relevant if a new audience discovers a reusable moment within it. In the short-form era, catalogue music competes alongside new releases, and sometimes wins. Connie Francis’s unexpected return to charts and streaming playlists demonstrates just how dramatically the relationship between old recordings and new listeners has changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://billboard.substack.com/p/connie-francis-pretty-little-baby-chart-42-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.substack.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.substack.com</span><span class="citation-popover-snippet">BillboardConnie Francis Returns to the Charts for First Time in 42...After a 42-year break from the charts, the 87-year-old singer retur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Deeply moved by the renewed attention, she joined TikTok and shared her excitement with fans. “Pretty Little Baby” subsequently earned ov...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-3-dark.svg" | relative_url }}" alt="Song Revivals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The case also challenges the assumption that music has a fixed commercial lifespan. A song can spend decades in relative obscurity and still become culturally relevant if a new audience discovers a reusable moment within it. In the short-form era, catalogue music competes alongside new releases, and sometimes wins. Connie Francis’s unexpected return to charts and streaming playlists demonstrates just how dramatically the relationship between old recordings and new listeners has changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://billboard.substack.com/p/connie-francis-pretty-little-baby-chart-42-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.substack.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.substack.com</span><span class="citation-popover-snippet">Connie Francis Returns to the Charts for First Time in 42...After a 42-year break from the charts, the 87-year-old singer retur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Deeply moved by the renewed attention, she joined TikTok and shared her excitement with fans. “Pretty Little Baby” subsequently earned ov...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,15 +464,15 @@ The case also challenges the assumption that music has a fixed commercial lifesp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE MUSIC POSTER PRINT WALL ART LARGE SIZE A4 A2 A1 A0"><img src="{{ '/assets/images/marketplace-covers/07d1e1cd016db97f0499.jpg' | relative_url }}" alt="Listing image for VINTAGE MUSIC POSTER PRINT WALL ART LARGE SIZE A4 A2 A1 A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Concert Gig Poster - FILLMORE - A4,A3,A2,A1"><img src="https://i.ebayimg.com/images/g/mz4AAOSwwFRicRQV/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Concert Gig Poster - FILLMORE - A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE MUSIC POSTER PRINT WALL ART LARGE SIZE A4 A2 A1 A0</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Concert Gig Poster - FILLMORE - A4,A3,A2,A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +480,15 @@ The case also challenges the assumption that music has a fixed commercial lifesp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick"><img src="{{ '/assets/images/marketplace-covers/d9b13d00309be0dd1f4d.jpg' | relative_url }}" alt="Listing image for Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3"><img src="https://i.ebayimg.com/images/g/1PQAAeSwgYNoxqOx/s-l225.jpg" alt="Listing image for Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +496,15 @@ The case also challenges the assumption that music has a fixed commercial lifesp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art"><img src="{{ '/assets/images/marketplace-covers/2c69503fc41d724ec9ca.jpg' | relative_url }}" alt="Listing image for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLEETWOOD MAC VINTAGE MUSIC POSTER -FRAMED WALL ART PICTURE PRINT 4 SIZES"><img src="https://i.ebayimg.com/images/g/1WEAAOSwM5Fhe8xs/s-l225.jpg" alt="Listing image for FLEETWOOD MAC VINTAGE MUSIC POSTER -FRAMED WALL ART PICTURE PRINT 4 SIZES" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer">FLEETWOOD MAC VINTAGE MUSIC POSTER -FRAMED WALL ART PICTURE PRINT 4 SIZES</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +512,15 @@ The case also challenges the assumption that music has a fixed commercial lifesp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/2d9bf3d02a1200e09d0d.jpg' | relative_url }}" alt="Listing image for Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Edith Piaf Je Ne Regrette Rien Song Advertising Print A3 A4"><img src="https://i.ebayimg.com/images/g/tEgAAOSwC1Fgp5l3/s-l225.jpg" alt="Listing image for Vintage Music Poster Edith Piaf Je Ne Regrette Rien Song Advertising Print A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Edith Piaf Je Ne Regrette Rien Song Advertising Print A3 A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +528,7 @@ The case also challenges the assumption that music has a fixed commercial lifesp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="song-revivals-how-old-songs-become-new-hits-again-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-old-songs-become-new-hits-again-vintage-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster" data-ebay-reference="how-old-songs-become-new-hits-again-vintage-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -756,146 +743,146 @@ The case also challenges the assumption that music has a fixed commercial lifesp
 
 1. <a id="endnote-1"></a>
    Source: people.com  
-   Link: [https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240](https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240)  
+   Link: <a href="https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240" target="_blank" rel="noopener noreferrer nofollow">https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deeply moved by the renewed [attention](&amp;#123;&amp;#123; &#x27;attention/&#x27; | relative_url &amp;#125;&amp;#125;), she joined TikTok and shared her excitement with fans. “Pretty Little Baby” subsequently earned ov...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stereogum.com  
-   Link: [https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news](https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StereogumConnie Francis Reacts To 1963 Deep Cut &quot;Pretty Little...May 23, 2025 — 23 May 2025 — &quot;Pretty Little Baby&quot; first appeared on the...</p></details>
+   Link: <a href="https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news" target="_blank" rel="noopener noreferrer nofollow">https://stereogum.com/2309273/connie-francis-reacts-to-1963-deep-cut-pretty-little-baby-going-viral-i-didnt-even-remember-the-song/news</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Connie Francis Reacts To 1963 Deep Cut &quot;Pretty Little...May 23, 2025 — 23 May 2025 — &quot;Pretty Little Baby&quot; first appeared on the...</p></details>
    Published: May 23, 2025  
 
 3. <a id="endnote-3"></a>
    Source: people.com  
-   Link: [https://people.com/connie-francis-forgot-about-pretty-little-baby-before-tiktok-comeback-exclusive-11738928](https://people.com/connie-francis-forgot-about-pretty-little-baby-before-tiktok-comeback-exclusive-11738928)  
+   Link: <a href="https://people.com/connie-francis-forgot-about-pretty-little-baby-before-tiktok-comeback-exclusive-11738928" target="_blank" rel="noopener noreferrer nofollow">https://people.com/connie-francis-forgot-about-pretty-little-baby-before-tiktok-comeback-exclusive-11738928</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Her deep cut “Pretty...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ksat.com  
-   Link: [https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/](https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KSATConnie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</p></details>
+   Link: <a href="https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/entertainment/2025/07/17/connie-francis-pretty-little-baby-became-an-unexpected-tiktok-hit-63-years-after-its-release/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; became an unexpected...Jul 17, 2025 — As of Thursday, more than 22.5 million TikTok videos have...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: universalmusic.ca  
-   Link: [https://www.universalmusic.ca/press-releases/connie-francis-pretty-little-baby-taking-the-world-by-storm-63-years-after-it-was-first-released/](https://www.universalmusic.ca/press-releases/connie-francis-pretty-little-baby-taking-the-world-by-storm-63-years-after-it-was-first-released/)  
+   Link: <a href="https://www.universalmusic.ca/press-releases/connie-francis-pretty-little-baby-taking-the-world-by-storm-63-years-after-it-was-first-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalmusic.ca/press-releases/connie-francis-pretty-little-baby-taking-the-world-by-storm-63-years-after-it-was-first-released/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONNIE FRANCIS&#x27; “PRETTY LITTLE BABY” TAKING THE...19 May 2025 — 19 MAY 2025 (TORONTO, ON) – Connie Francis&#x27; 1962 song “Pretty Little Bab...</p></details>
    Published: May 2025  
 
 6. <a id="endnote-6"></a>
    Source: open.spotify.com  
    Title: 1ejdpp0rh0w6ppf EYlc Zdx  
-   Link: [https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx](https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx)  
+   Link: <a href="https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Connie on Spotify. Artist · 175.4K monthly listeners...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: open.spotify.com  
    Title: 5GQPBzo RBDxc Ajw SSlu QXD  
-   Link: [https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD)  
+   Link: <a href="https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Song · Connie Francis · 1962.... Single • 2025 · Spanish And Latin American Favorites. Album • 1960 · Connie Francis...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
    Title: DNY9g PDv TTL  
-   Link: [https://www.instagram.com/reel/DNY9gPDvTTL/?hl=ne](https://www.instagram.com/reel/DNY9gPDvTTL/?hl=ne)  
+   Link: <a href="https://www.instagram.com/reel/DNY9gPDvTTL/?hl=ne" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNY9gPDvTTL/?hl=ne</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Pretty Little Baby” by Connie Francis, originally released in...&quot;Pretty Little Baby&quot; by Connie Francis is a 1962 romantic pop song cele...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Connie Francis  
-   Link: [https://www.youtube.com/watch?v=S0T0Vj2k0yM](https://www.youtube.com/watch?v=S0T0Vj2k0yM)  
+   Link: <a href="https://www.youtube.com/watch?v=S0T0Vj2k0yM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T0Vj2k0yM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Old Songs Go Viral on TikTok...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: noughties tv music nostalgia trends tiktok  
-   Link: [https://www.theguardian.com/technology/2025/jun/04/noughties-tv-music-nostalgia-trends-tiktok](https://www.theguardian.com/technology/2025/jun/04/noughties-tv-music-nostalgia-trends-tiktok)  
+   Link: <a href="https://www.theguardian.com/technology/2025/jun/04/noughties-tv-music-nostalgia-trends-tiktok" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/04/noughties-tv-music-nostalgia-trends-tiktok</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The hashtag #noughtiesnostalgia has seen a 36% year-over-year increase in usage, highlighting renewed interest in TV shows, music, and fa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: billboard.substack.com  
-   Link: [https://billboard.substack.com/p/connie-francis-pretty-little-baby-chart-42-years](https://billboard.substack.com/p/connie-francis-pretty-little-baby-chart-42-years)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardConnie Francis Returns to the Charts for First Time in 42...After a 42-year break from the charts, the 87-year-old singer retur...</p></details>
+   Link: <a href="https://billboard.substack.com/p/connie-francis-pretty-little-baby-chart-42-years" target="_blank" rel="noopener noreferrer nofollow">https://billboard.substack.com/p/connie-francis-pretty-little-baby-chart-42-years</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connie Francis Returns to the Charts for First Time in 42...After a 42-year break from the charts, the 87-year-old singer retur...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: udiscovermusic.com  
    Title: connie francis pretty little baby is tiktoks 2025 track of the year  
-   Link: [https://www.udiscovermusic.com/news/connie-francis-pretty-little-baby-is-tiktoks-2025-track-of-the-year/](https://www.udiscovermusic.com/news/connie-francis-pretty-little-baby-is-tiktoks-2025-track-of-the-year/)  
+   Link: <a href="https://www.udiscovermusic.com/news/connie-francis-pretty-little-baby-is-tiktoks-2025-track-of-the-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.udiscovermusic.com/news/connie-francis-pretty-little-baby-is-tiktoks-2025-track-of-the-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The pop singer&#x27;s 1962 single was used over 28.4 million times on the...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Connie Francis  
-   Link: [https://www.youtube.com/watch?v=A1MdThqGarI](https://www.youtube.com/watch?v=A1MdThqGarI)  
+   Link: <a href="https://www.youtube.com/watch?v=A1MdThqGarI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A1MdThqGarI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pretty Little Baby (Official Audio)Official audio for &quot;Pretty Little Baby&quot; performed by Connie Francis, from the album Connie Francis Sin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
    Title: Connie Francis  
-   Link: [https://www.instagram.com/p/DJjod3pgrv5/](https://www.instagram.com/p/DJjod3pgrv5/)  
+   Link: <a href="https://www.instagram.com/p/DJjod3pgrv5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJjod3pgrv5/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pretty Little BabyThe song gained massive, unexpected viral popularity on TikTok in 2025, over 60 years after its release, often used for...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: disney.fandom.com  
-   Link: [https://disney.fandom.com/wiki/Connie](https://disney.fandom.com/wiki/Connie)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Disney Wiki - FandomConnie is a character from the 2020 Disney/Pixar animated feature film, Soul. She is a twelve-year-old girl who is...</p></details>
+   Link: <a href="https://disney.fandom.com/wiki/Connie" target="_blank" rel="noopener noreferrer nofollow">https://disney.fandom.com/wiki/Connie</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disney Wiki - FandomConnie is a character from the 2020 Disney/Pixar animated feature film, Soul. She is a twelve-year-old girl who is...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: spy-x-family.fandom.com  
-   Link: [https://spy-x-family.fandom.com/wiki/Connie](https://spy-x-family.fandom.com/wiki/Connie)  
+   Link: <a href="https://spy-x-family.fandom.com/wiki/Connie" target="_blank" rel="noopener noreferrer nofollow">https://spy-x-family.fandom.com/wiki/Connie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spy x Family Wiki - FandomConnie (コニー, Konī?) is a first-year student at Eden Academy in Cecile Hall, Class 3, and is Anya Forger&#x27;s class...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KOST103.5/posts/conniefrancis-has-reacted-to-her-song-pretty-little-baby-going-viral-after-63-ye/1127344242769194/](https://www.facebook.com/KOST103.5/posts/conniefrancis-has-reacted-to-her-song-pretty-little-baby-going-viral-after-63-ye/1127344242769194/)  
+   Link: <a href="https://www.facebook.com/KOST103.5/posts/conniefrancis-has-reacted-to-her-song-pretty-little-baby-going-viral-after-63-ye/1127344242769194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KOST103.5/posts/conniefrancis-has-reacted-to-her-song-pretty-little-baby-going-viral-after-63-ye/1127344242769194/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#ConnieFrancis has reacted to her song &#x27;Pretty Little Baby&#x27;...#ConnieFrancis has reacted to her song ‘Pretty Little Baby’ going viral af...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PopCultureUpdates/posts/connie-francis-pretty-little-baby-debuts-at-195-on-the-global-spotify-chart-63-y/716864210695261/](https://www.facebook.com/PopCultureUpdates/posts/connie-francis-pretty-little-baby-debuts-at-195-on-the-global-spotify-chart-63-y/716864210695261/)  
+   Link: <a href="https://www.facebook.com/PopCultureUpdates/posts/connie-francis-pretty-little-baby-debuts-at-195-on-the-global-spotify-chart-63-y/716864210695261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopCultureUpdates/posts/connie-francis-pretty-little-baby-debuts-at-195-on-the-global-spotify-chart-63-y/716864210695261/</a>  
 
 19. <a id="endnote-19"></a>
    Source: parade.com  
-   Link: [https://parade.com/news/classic-60s-release-just-named-top-global-song-2025-chart-resurgence-connie-francis-pretty-little-baby](https://parade.com/news/classic-60s-release-just-named-top-global-song-2025-chart-resurgence-connie-francis-pretty-little-baby)  
+   Link: <a href="https://parade.com/news/classic-60s-release-just-named-top-global-song-2025-chart-resurgence-connie-francis-pretty-little-baby" target="_blank" rel="noopener noreferrer nofollow">https://parade.com/news/classic-60s-release-just-named-top-global-song-2025-chart-resurgence-connie-francis-pretty-little-baby</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Classic &#x27;60s Release Was Just Named Top Global Song...Dec 9, 2025 — “Pretty Little Baby” by Connie Francis went viral in 2025 via TikT...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: worldmusicviews.com  
-   Link: [https://worldmusicviews.com/connie-francis-pretty-little-baby-surpasses-100m-streams-on-spotify-as-elephant-mans-dancehall-remake-capitalize/](https://worldmusicviews.com/connie-francis-pretty-little-baby-surpasses-100m-streams-on-spotify-as-elephant-mans-dancehall-remake-capitalize/)  
+   Link: <a href="https://worldmusicviews.com/connie-francis-pretty-little-baby-surpasses-100m-streams-on-spotify-as-elephant-mans-dancehall-remake-capitalize/" target="_blank" rel="noopener noreferrer nofollow">https://worldmusicviews.com/connie-francis-pretty-little-baby-surpasses-100m-streams-on-spotify-as-elephant-mans-dancehall-remake-capitalize/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Connie Francis&#x27; “Pretty Little Baby” Surpasses 100M...16 Aug 2025 — Connie Francis&#x27; “Pretty Little Baby” Surpasses 100M Streams on Spoti...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: a 1962 song just broke tiktok63 years later connie francis pretty little baby b  
-   Link: [https://www.facebook.com/happymagtv/posts/-a-1962-song-just-broke-tiktok63-years-later-connie-francis-pretty-little-baby-b/1148530997309125/](https://www.facebook.com/happymagtv/posts/-a-1962-song-just-broke-tiktok63-years-later-connie-francis-pretty-little-baby-b/1148530997309125/)  
+   Link: <a href="https://www.facebook.com/happymagtv/posts/-a-1962-song-just-broke-tiktok63-years-later-connie-francis-pretty-little-baby-b/1148530997309125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/happymagtv/posts/-a-1962-song-just-broke-tiktok63-years-later-connie-francis-pretty-little-baby-b/1148530997309125/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🎶 A 1962 song just broke TikTok—63 years later! Connie...&quot;Pretty Little Baby&quot; by Connie Francis, was written by Bill Newman [US], Don St...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: lakesmedianetwork.com  
    Title: connie francis pretty little baby is tiktoks top global song of the year  
-   Link: [https://www.lakesmedianetwork.com/classic-hits/connie-francis-pretty-little-baby-is-tiktoks-top-global-song-of-the-year/](https://www.lakesmedianetwork.com/classic-hits/connie-francis-pretty-little-baby-is-tiktoks-top-global-song-of-the-year/)  
+   Link: <a href="https://www.lakesmedianetwork.com/classic-hits/connie-francis-pretty-little-baby-is-tiktoks-top-global-song-of-the-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.lakesmedianetwork.com/classic-hits/connie-francis-pretty-little-baby-is-tiktoks-top-global-song-of-the-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Connie Francis&#x27; &#x27;Pretty Little Baby&#x27; is TikTok&#x27;s top global...Dec 9, 2025 — Connie Francis&#x27; “Pretty Little Baby” was all over TikTok in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rollingstone.com  
    Title: connie francis pretty little baby tiktok viral reaction 1235343866  
-   Link: [https://www.rollingstone.com/music/music-news/connie-francis-pretty-little-baby-tiktok-viral-reaction-1235343866/](https://www.rollingstone.com/music/music-news/connie-francis-pretty-little-baby-tiktok-viral-reaction-1235343866/)  
+   Link: <a href="https://www.rollingstone.com/music/music-news/connie-francis-pretty-little-baby-tiktok-viral-reaction-1235343866/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/connie-francis-pretty-little-baby-tiktok-viral-reaction-1235343866/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Connie Francis Reacts to &#x27;Pretty Little Baby&#x27; Going TikTok...20 May 2025 — Connie Francis&#x27; 1960s B-side &quot;Pretty Little Baby&quot; is viral on...</p></details>
    Published: May 2025  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/1kni7zt/connie_francis_pretty_little_baby_becomes_viral/](https://www.reddit.com/r/popheads/comments/1kni7zt/connie_francis_pretty_little_baby_becomes_viral/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/1kni7zt/connie_francis_pretty_little_baby_becomes_viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/1kni7zt/connie_francis_pretty_little_baby_becomes_viral/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I hope it goes to #1 to give her the 4th #1 hit. It&#x27;s currently #10 on...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: rollingstone.com  
    Title: tiktok connie francis 2025 top global song 1235480832  
-   Link: [https://www.rollingstone.com/music/music-news/tiktok-connie-francis-2025-top-global-song-1235480832/](https://www.rollingstone.com/music/music-news/tiktok-connie-francis-2025-top-global-song-1235480832/)  
+   Link: <a href="https://www.rollingstone.com/music/music-news/tiktok-connie-francis-2025-top-global-song-1235480832/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/tiktok-connie-francis-2025-top-global-song-1235480832/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneTikTok&#x27;s Top Global Song of the Year Is a 63-Year-Old Hit...Dec 9, 2025 — TikTok names Connie Francis&#x27; 1962 hit &#x27;Pretty Lit...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/connie-francis-says-pretty-little-baby-going-viral-gives-me-a-new-lease-on-life/1073063611360883/](https://www.facebook.com/Billboard/posts/connie-francis-says-pretty-little-baby-going-viral-gives-me-a-new-lease-on-life/1073063611360883/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/connie-francis-says-pretty-little-baby-going-viral-gives-me-a-new-lease-on-life/1073063611360883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/connie-francis-says-pretty-little-baby-going-viral-gives-me-a-new-lease-on-life/1073063611360883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l resurgence with her 1962 deep cut, &quot;Pretty Little Baby.&quot; The song...Read more...</p></details>

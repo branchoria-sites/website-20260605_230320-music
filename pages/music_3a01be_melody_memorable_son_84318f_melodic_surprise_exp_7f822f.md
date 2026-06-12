@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f
 - music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72
 tags:
-- music
+- music-3-a01-be
 - melody
 - surprise
 keywords:
-- music
+- music-3-a01-be
 - melody
 - surprise
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Memorable tunes balance familiar patterns with slight twists that refresh attention without making the melody hard to learn.
 hero_summary: Memorable tunes balance familiar patterns with slight twists that refresh attention without making the melody hard to learn.
 layout: default
 permalink: /surprise/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /melody/
 nav_short_title: Surprise
 title: Why Catchy Melodies Need a Twist
-title_full: Why Catchy Melodies Need a Twist | Melody
+title_full: Why Catchy Melodies Need a Twist
 display_title_short: Surprise
 display_title: Surprise
 heading_title: Why Catchy Melodies Need a Twist
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some Melodies Stay In Your Head | Music
+parent_title: Why Some Melodies Stay In Your Head
 parent_permalink: /melody/
 parent_nav_short_title: Melody
 parent_heading_title: Why Some Melodies Stay In Your Head
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Some Melodies Bring Memories Back
 up_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -259,7 +259,7 @@ prev_link:
   permalink: /emotion-ad77f9/
   short_title: Emotion
   heading_title: Why Some Melodies Bring Memories Back
-date: '2026-06-09 07:34:18 '
+date: '2026-06-11 23:47:54 '
 header:
   og_image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1.webp
@@ -270,14 +270,12 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_
 
 Catchy melodies are rarely built from surprise alone. A tune becomes memorable when listeners can quickly learn its pattern and then encounter a small deviation that refreshes [attention]({{ 'attention/' | relative_url }}). In other words, memorable melodies sit between complete predictability and complete novelty. The listener's brain forms expectations about where the tune is heading, and a carefully placed twist makes that expectation meaningful. Research in music cognition consistently shows that prediction is central to how people perceive, enjoy and remember melodies. When a [melody]({{ 'melody/' | relative_url }}) offers a manageable surprise rather than chaos, it becomes easier to recall and more emotionally engaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-dark.svg" | relative_url }}" alt="Surprise illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Listeners Predict Musical Patterns
 
-People do not hear melodies as isolated notes. As a tune unfolds, listeners unconsciously learn its regularities and begin forecasting what might come next. This predictive process happens even without formal musical training. Studies of musical expectation describe prediction as a core mechanism of [music]({{ 'music/' | relative_url }}) perception, with listeners continuously generating expectations about upcoming pitches and melodic directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
+People do not hear melodies as isolated notes. As a tune unfolds, listeners unconsciously learn its regularities and begin forecasting what might come next. This predictive process happens even without formal musical training. Studies of musical expectation describe prediction as a core mechanism of music perception, with listeners continuously generating expectations about upcoming pitches and melodic directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
 
 A melody establishes expectations through familiar features such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,19 +290,15 @@ Once these patterns are recognised, the brain can process the melody efficiently
 
 Importantly, prediction is not a side effect of listening. It is part of the pleasure of listening. Research on musical enjoyment suggests that anticipation itself contributes to reward, making expectation a central ingredient of musical experience. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment15</span><span class="citation-popover-snippet">More specifically, we found...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
-
 ## Why Total Predictability Becomes Forgettable
 
 A perfectly predictable melody may be easy to follow, but it risks becoming invisible. When every note arrives exactly as expected, attention gradually declines because the brain receives little new information.
 
-Psychological research on musical pleasure has repeatedly found evidence for a middle ground. Listeners tend to prefer music with intermediate predictive complexity rather than music that is either extremely predictable or highly unpredictable. This balance creates an environment where learning remains possible while curiosity remains active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">PMCby AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
+Psychological research on musical pleasure has repeatedly found evidence for a middle ground. Listeners tend to prefer music with intermediate predictive complexity rather than music that is either extremely predictable or highly unpredictable. This balance creates an environment where learning remains possible while curiosity remains active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
 
 From a [memory]({{ 'memory/' | relative_url }}) perspective, total predictability creates another problem: nothing stands out. If every phrase behaves exactly like the last one, there are few distinctive moments to anchor recollection. The melody may be pleasant while it is playing, but later it can blur together with countless similar patterns.
 
-This helps explain why many simple nursery tunes and popular melodies include at least one distinctive feature. Familiarity makes the tune easy to absorb, while a small deviation prevents it from disappearing into the background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswise.com">[Newswise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswise.com</span><span class="citation-popover-title">psychologists identify key characteristics of earworms</span><span class="citation-popover-snippet">Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</span></span></span>
-
+This helps explain why many simple nursery tunes and popular melodies include at least one distinctive feature. Familiarity makes the tune easy to absorb, while a small deviation prevents it from disappearing into the [background]({{ 'background/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswise.com">[Newswise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswise.com</span><span class="citation-popover-title">psychologists identify key characteristics of earworms</span><span class="citation-popover-snippet">Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-2-dark.svg" | relative_url }}" alt="Surprise illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Small Melodic Surprises Create Landmarks
@@ -313,13 +307,9 @@ The most effective surprises are usually modest rather than dramatic. A melody m
 
 These moments function as mental landmarks. Because listeners have already learned the surrounding pattern, the deviation becomes highly noticeable. The surprise is not memorable despite the established pattern; it is memorable because of it.
 
-Music psychologist David Huron's work on expectation argues that emotional responses to music emerge from the interaction between prediction and outcome. Anticipation creates a framework, and the eventual fulfilment or violation of that expectation generates a meaningful emotional reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</span><span class="citation-popover-meta">Published: April 14, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</span></span></span>
+Music psychologist David Huron's work on expectation argues that emotional responses to music emerge from the interaction between prediction and outcome. Anticipation creates a framework, and the eventual fulfilment or violation of that expectation generates a meaningful emotional reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</span><span class="citation-popover-meta">Published: April 14, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</span></span></span>
 
 A useful way to think about melodic surprise is as a contrast effect:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2bJMTtAgpb4" title="Can Music Transform Your Brain? With Dr. Daniel J. Levitin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2bJMTtAgpb4" target="_blank" rel="noopener noreferrer">Can Music Transform Your Brain? With Dr. Daniel J. Levitin</a></p><p class="youtube-embed-meta">Channel: Museum of Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2bJMTtAgpb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2bJMTtAgpb4">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -330,22 +320,20 @@ A useful way to think about melodic surprise is as a contrast effect:
 
 </div>
 
-Because the departure is temporary and understandable, listeners experience novelty without losing their sense of orientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">PMCby BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">govmusical groove in brain, body, and social interactions</span><span class="citation-popover-snippet">groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</span></span></span>
+Because the departure is temporary and understandable, listeners experience novelty without losing their sense of orientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">govmusical groove in brain, body, and social interactions</span><span class="citation-popover-snippet">groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</span></span></span>
 
+<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-dark.svg" | relative_url }}" alt="Surprise illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Earworms Show the Formula in Action
 
 Research on [earworms]({{ 'earworms/' | relative_url }})—songs that become stuck in people's minds—offers a particularly clear example of this mechanism. Studies led by Kelly Jakubowski found that earworm melodies often combine common, easy-to-process melodic contours with unusual intervals, repetitions or other distinctive features. The melodies are familiar enough to learn quickly but distinctive enough to resist being forgotten. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
 
 Analyses of frequently reported earworm songs reveal the same pattern repeatedly. Their melodic shapes are generally straightforward and accessible, yet they contain small twists that make them recognisable after only a few notes. Researchers describe these songs as balancing familiarity with novelty rather than maximising either one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">new study uncovers songs become earworms</span><span class="citation-popover-snippet">PRS for MusicNew study uncovers why some songs become &#x27;earworms&#x27;4 Nov 2016 — The study then analysed these tracks, finding that earworms...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Why Do Songs Get Stuck in Your Head?</span><span class="citation-popover-snippet">New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</span></span></span> This balance helps explain why some melodies linger in memory for years while technically more complex melodies may not. The memorable tune provides just enough challenge to reward prediction without overwhelming it.
 
-
-<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-dark.svg" | relative_url }}" alt="Surprise illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Sweet Spot Between Familiar and New
 
-The effectiveness of a melodic surprise depends on context. A note that feels shocking in one melody may feel ordinary in another because listeners evaluate events relative to the pattern they have already learned. Studies of predictability and musical pleasure show that enjoyment often peaks when uncertainty is manageable rather than extreme. Listeners appear to value situations where predictions can be tested, adjusted and occasionally overturned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">PMCby AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
+The effectiveness of a melodic surprise depends on context. A note that feels shocking in one melody may feel ordinary in another because listeners evaluate events relative to the pattern they have already learned. Studies of predictability and musical pleasure show that enjoyment often peaks when uncertainty is manageable rather than extreme. Listeners appear to value situations where predictions can be tested, adjusted and occasionally overturned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
 
 For melody, this creates a powerful recipe for memorability:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,11 +344,7 @@ For melody, this creates a powerful recipe for memorability:
 
 </div>
 
-A melody without predictability offers no foundation for expectation. A melody without surprise offers no reason to remember specific moments. The tunes that stay with listeners tend to succeed because they combine both, turning a simple sequence of notes into a pattern that the mind actively tracks, anticipates and revisits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">PMCby BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YHyJLxvCUQ8" title="How to Craft An Unforgettable Melody" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YHyJLxvCUQ8" target="_blank" rel="noopener noreferrer">How to Craft An Unforgettable Melody</a></p><p class="youtube-embed-meta">Channel: Zach Heyde</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YHyJLxvCUQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YHyJLxvCUQ8">Open on YouTube</a></p></div></div></div>
-
+A melody without predictability offers no foundation for expectation. A melody without surprise offers no reason to remember specific moments. The tunes that stay with listeners tend to succeed because they combine both, turning a simple sequence of notes into a pattern that the mind actively tracks, anticipates and revisits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -759,154 +743,154 @@ A melody without predictability offers no foundation for expectation. A melody w
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Predictive information processing in music cognition  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898](https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961](https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTemporal hierarchies in the predictive processing of melodyby K Basiński · 2023 · Cited by 9 — In this article, we review em...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal hierarchies in the predictive processing of melodyby K Basiński · 2023 · Cited by 9 — In this article, we review em...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCContext changes judgments of liking and predictability  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment15  
-   Link: [https://www.cambridge.org/core/books/[culture](https://www.cambridge.org/core/books/[culture)  
+   Link: <a href="https://www.cambridge.org/core/books/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/[culture</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, we found...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC](https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC)  
+   Link: <a href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredictability and Uncertainty in the Pleasure of Music  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: newswise.com  
    Title: psychologists identify key characteristics of earworms  
-   Link: [https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms](https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms)  
+   Link: <a href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pitchfork.com  
    Title: Why Do Songs Get Stuck in Your Head?  
-   Link: [https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer](https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer)  
+   Link: <a href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation](https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</p></details>
    Published: April 14, 2006  
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84](https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84)  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f Aesthetics, Creativity, and the Arts, 11(2)...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure](https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure)  
+   Link: <a href="https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expectation is crucial for our enjoyment of music, yet the underlying...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf](https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: durham-repository.worktribe.com  
-   Link: [https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery](https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery)  
+   Link: <a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
    Title: new study uncovers songs become earworms  
-   Link: [https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms](https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicNew study uncovers why some songs become &#x27;earworms&#x27;4 Nov 2016 — The study then analysed these tracks, finding that earworms...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Earworm](https://en.wikipedia.org/wiki/Earworm)  
+   Link: <a href="https://en.wikipedia.org/wiki/Earworm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earworm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworma catchy or memorable piece of music or saying that continuously occupies a person&#x27;s mind even after it is no longer being play...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1](https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1)  
+   Link: <a href="https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perception - Oxford AcademicAbstract. Music perception covers all aspects of psychological and neural processing invoked while listening...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration](https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Perception and Sensorimotor IntegrationMusic perception and sensorimotor integration encompass the processes by which the brain dec...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: musicscience.net  
-   Link: [https://musicscience.net/research/music-memory/earworms/](https://musicscience.net/research/music-memory/earworms/)  
+   Link: <a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday terms as hav...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: posgrado.unam.mx  
-   Link: [https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf](https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf)  
+   Link: <a href="https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PERCEPTION AND COGNITIONby TC Justus · Cited by 101 — Music perception and cognition is the area of cognitive psychology devoted to deter...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783](https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783)  
+   Link: <a href="https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He shows how music creates expectations of pattern, from simple [rhythm](&amp;#123;&amp;#123; &#x27;rhythm/&#x27; | relative_url &amp;#125;&amp;#125;) up to very complex patterns (the concerto...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Predictive information processing in music cognition  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22245599/](https://pubmed.ncbi.nlm.nih.gov/22245599/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22245599/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22245599/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govmusical groove in brain, body, and social interactions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: soundsofintent.org  
    Title: Output 55 Review of Sweet Anticipation, Psychology of Music, 2008  
-   Link: [https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf](https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf)  
+   Link: <a href="https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review articleHURON, Sweet Anticipation: Music and the Psychology of Expectation. Cambridge, MA: The MIT Press (A Bradford Book), 2006. 4...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pure.au.dk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: [https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/](https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/)  
+   Link: <a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — Involuntary musical imagery (INMI or &quot;earworm...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: musicianscience.org  
-   Link: [https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/](https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/)  
+   Link: <a href="https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a “common global [contour](&amp;#123;&amp;#123; &#x27;contour/&#x27; | relative_url &amp;#125;&amp;#125;)”, meaning the overall...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: marcus-pearce.com  
-   Link: [https://www.marcus-pearce.com/assets/papers/huron06-review.pdf](https://www.marcus-pearce.com/assets/papers/huron06-review.pdf)  
+   Link: <a href="https://www.marcus-pearce.com/assets/papers/huron06-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus-pearce.com/assets/papers/huron06-review.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s to introduce psychologically-based insights about music to musicians and musicologists.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sites.evergreen.edu  
-   Link: [https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf](https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf)  
+   Link: <a href="https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What gives anticipation or surprise their distinctive phenomenological. Page...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: stefan-koelsch.de  
    Title: Predictive information processing in music cognition  
-   Link: [https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf](https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf)  
+   Link: <a href="https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>

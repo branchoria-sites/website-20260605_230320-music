@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a
 - music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a
 tags:
-- music
+- music-3-a01-be
 - recording
 - portable-players
 keywords:
-- music
+- music-3-a01-be
 - recording
 - portable-players
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Devices like the Walkman and MP3 player allowed music to move with listeners, making listening personal and mobile.
 hero_summary: Devices like the Walkman and MP3 player allowed music to move with listeners, making listening personal and mobile.
 layout: default
 permalink: /portable-players/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /recording/
 nav_short_title: Portable Players
 title: How Portable Devices Made Music Personal Everywhere
-title_full: How Portable Devices Made Music Personal Everywhere | Recording
+title_full: How Portable Devices Made Music Personal Everywhere
 display_title_short: Portable Players
 display_title: Portable Players
 heading_title: How Portable Devices Made Music Personal Everywhere
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Recording Changed What Music Is | Music
+parent_title: How Recording Changed What Music Is
 parent_permalink: /recording/
 parent_nav_short_title: Recording
 parent_heading_title: How Recording Changed What Music Is
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Recordings Carried Performer Fame Across Distances
 up_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -265,7 +265,7 @@ next_link:
   permalink: /recorded-fame/
   short_title: Recorded Fame
   heading_title: How Recordings Carried Performer Fame Across Distances
-date: '2026-06-09 07:04:14 '
+date: '2026-06-11 23:33:26 '
 header:
   og_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_dev
 
 ## Introduction
 
-Portable listening devices fundamentally reshaped the experience of recorded [music]({{ 'music/' | relative_url }}) by detaching sound from fixed places and times and embedding it into everyday life. As compact, battery‑powered players evolved from bulky boomboxes to sleeker Walkmans, Discmen, MP3 players and, eventually, smartphones with wireless earbuds, they gave individuals unprecedented control over what, when and where they listened. This shift did more than enhance convenience: it altered social behaviour, redefined public and private space, and helped normalise personalised soundscapes that travel with us through work, travel and leisure.[Wikipedia]
-
+Portable listening devices fundamentally reshaped the experience of recorded music by detaching sound from fixed places and times and embedding it into everyday life. As compact, battery‑powered players evolved from bulky boomboxes to sleeker Walkmans, Discmen, MP3 players and, eventually, smartphones with wireless earbuds, they gave individuals unprecedented control over what, when and where they listened. This shift did more than enhance convenience: it altered social behaviour, redefined public and private space, and helped normalise personalised soundscapes that travel with us through work, travel and leisure.[Wikipedia]
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-1-dark.svg" | relative_url }}" alt="Portable Players illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From Boomboxes to Personal Soundtracks
@@ -283,9 +282,6 @@ Portable listening devices fundamentally reshaped the experience of recorded [mu
 Before truly personal portable players existed, portable music was already on the move in the form of boomboxes — large, battery‑powered stereos with loudspeakers carried via handles. While boomboxes made music mobile, they broadcast sound outward into shared space and became culturally associated with community scenes, especially in urban America where they were entwined with the rise of hip hop and street [culture]({{ 'culture/' | relative_url }}).[Wikipedia]
 
 The Walkman, introduced by Sony in 1979, marked a clear break from this outward musical projection. Unlike boomboxes, it foregrounded headphones and solitary listening, enabling users to carry their own curated soundtracks through public and private spaces without imposing them on others. Its portability and emphasis on personal choice crystallised a new mode of engagement with music — one where the listener, not the location or community, set the terms of the experience.[Wikipedia]
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yalXw0HPK4w" title="The Yellow Box That Made Music Portable - A Tech Tale for Sleep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yalXw0HPK4w" target="_blank" rel="noopener noreferrer">The Yellow Box That Made Music Portable - A Tech Tale for Sleep</a></p><p class="youtube-embed-meta">Channel: Sleepy Silicon Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yalXw0HPK4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yalXw0HPK4w">Open on YouTube</a></p></div></div></div>
 
 ## Shift to Private Listening
 
@@ -295,7 +291,6 @@ Music historian Shuhei Hosokawa coined the term the *Walkman effect* to describe
 
 Empirical research on mobile music listening underscores how this portability embeds music into routines such as commuting and travel. Studies show that a vast majority of users listen to music on the move, reporting that portable devices function both as companions and as tools for managing social situations and sensations during travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20592043211032852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsOn the Move: Principal Components of the Functions and Experiences of Mobile Music Listening - Mia Kuch, Clemens Wöllner, 20...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-2-dark.svg" | relative_url }}" alt="Portable Players illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social Reactions and Cultural Critiques
 
@@ -303,17 +298,13 @@ The personal, often solitary nature of portable listening devices provoked a ran
 
 These concerns reflect broader cultural negotiations over public space and technology: while many embraced the ability to curate personal soundtracks in public, others saw it as eroding community norms and shared [attention]({{ 'attention/' | relative_url }}). Such debates foreshadowed later discussions about smartphone and wireless earbud use in public life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Initially reliant on headphones for nearly every daily activity, the author came to realize how pervasive and escapist their usage had be...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/abGdOkHSpec" title="How Sony&#x27;s Walkman Changed The History Of Music Forever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=abGdOkHSpec" target="_blank" rel="noopener noreferrer">How Sony&#x27;s Walkman Changed The History Of Music Forever</a></p><p class="youtube-embed-meta">Channel: Scope.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=abGdOkHSpec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=abGdOkHSpec">Open on YouTube</a></p></div></div></div>
-
 ## Mobile Music and Cultural Change
 
 ### Everyday Life and Identity
 
-Portable listening devices did more than make music transportable; they were woven into users’ identities and daily rhythms. The ability to carry extensive libraries of songs — from customised mixtapes in the Walkman era to large digital collections on MP3 players — altered how people experienced time, mood and social transitions. Music became a personal backdrop to walking, working out, or commuting, reinforcing patterns of mood regulation and self‑expression on the go.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indianexpress.com">[The Indian Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indianexpress.com</span><span class="citation-popover-snippet">The Indian ExpressRewind, Replay: How the Walkman changed the way we hear music | Technology News - The Indian Express...</span></span></span>
+Portable listening devices did more than make music transportable; they were woven into users’ identities and daily rhythms. The ability to carry extensive libraries of songs — from customised mixtapes in the Walkman era to large digital collections on MP3 players — altered how people experienced time, mood and social transitions. Music became a personal backdrop to walking, working out, or commuting, reinforcing patterns of mood regulation and self‑expression on the go.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indianexpress.com">[The Indian Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indianexpress.com</span><span class="citation-popover-snippet">The Indian ExpressRewind, Replay: How the Walkman changed the way we hear music &#124; Technology News - The Indian Express...</span></span></span>
 
 As digital [formats]({{ 'formats/' | relative_url }}) like MP3 compressed entire music collections into pocket‑sized memories, the locus of music shifted further from public institutions (radio, record stores, communal hi‑fi systems) to individuals’ bodies and routines. This accelerated a broader cultural move toward personalised media consumption, making music an intimate, ever‑present companion rather than a staged event.[CHM]
-
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-3-dark.svg" | relative_url }}" alt="Portable Players illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Broader Impacts and Legacy
@@ -323,10 +314,6 @@ The personal listening revolution also left visible marks on commerce and techno
 ## Conclusion
 
 Portable listening devices transformed recorded music from a stationary, communal phenomenon into an intimate, mobile companion. Starting with devices like the boombox and crystallised through the Sony Walkman and its descendants, this shift empowered individuals to curate their own soundscapes amidst the routines of everyday life. The social impact of this transformation is visible in how we navigate public space, relate to personal and shared experiences of sound, and understand music as both a private refuge and a cultural artefact woven into the rhythms of daily life.[Wikipedia]
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T9AKk3-EFQc" title="The History of Personal Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T9AKk3-EFQc" target="_blank" rel="noopener noreferrer">The History of Personal Music</a></p><p class="youtube-embed-meta">Channel: Compact History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T9AKk3-EFQc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T9AKk3-EFQc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -445,15 +432,15 @@ Portable listening devices transformed recorded music from a stationary, communa
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 Guitar Rock Music Vinyl Sticker Pack - Waterproof Decals - Peel &amp; Stick"><img src="{{ '/assets/images/marketplace-covers/d034f576ca9bd8314c98.jpg' | relative_url }}" alt="Listing image for 20 Guitar Rock Music Vinyl Sticker Pack - Waterproof Decals - Peel &amp; Stick" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo"><img src="https://i.ebayimg.com/images/g/z~AAAeSwuTFqKNmz/s-l225.jpg" alt="Listing image for REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">20 Guitar Rock Music Vinyl Sticker Pack - Waterproof Decals - Peel &amp; Stick</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -461,15 +448,15 @@ Portable listening devices transformed recorded music from a stationary, communa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack"><img src="{{ '/assets/images/marketplace-covers/879300663ca5c8f9eb0b.jpg' | relative_url }}" alt="Listing image for 50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sony walkman vintage"><img src="https://i.ebayimg.com/images/g/OrMAAeSwh8lqLGyO/s-l225.jpg" alt="Listing image for sony walkman vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">sony walkman vintage</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +464,15 @@ Portable listening devices transformed recorded music from a stationary, communa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack"><img src="{{ '/assets/images/marketplace-covers/8c499d54bd8b4baae0e1.jpg' | relative_url }}" alt="Listing image for 15x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT"><img src="https://i.ebayimg.com/images/g/stgAAeSww81qLDsP/s-l225.jpg" alt="Listing image for SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">15x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +480,15 @@ Portable listening devices transformed recorded music from a stationary, communa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock and Roll Music Stickers, 200Pcs Trendy Music Band Stickers Packs for Classi"><img src="{{ '/assets/images/marketplace-covers/4947b4cb217fce636d4f.jpg' | relative_url }}" alt="Listing image for Rock and Roll Music Stickers, 200Pcs Trendy Music Band Stickers Packs for Classi" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sony Walkman WM-B15 cassette player"><img src="https://i.ebayimg.com/images/g/TmgAAeSwPQNqLHme/s-l225.jpg" alt="Listing image for Sony Walkman WM-B15 cassette player" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">Rock and Roll Music Stickers, 200Pcs Trendy Music Band Stickers Packs for Classi</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">Sony Walkman WM-B15 cassette player</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,7 +496,7 @@ Portable listening devices transformed recorded music from a stationary, communa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="portable-players-how-portable-devices-made-music-personal-everywhere-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -724,99 +711,99 @@ Portable listening devices transformed recorded music from a stationary, communa
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Walkman](https://en.wikipedia.org/wiki/Walkman)  
+   Link: <a href="https://en.wikipedia.org/wiki/Walkman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Boombox](https://en.wikipedia.org/wiki/Boombox)  
+   Link: <a href="https://en.wikipedia.org/wiki/Boombox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boombox</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Walkman effect  
-   Link: [https://en.wikipedia.org/wiki/Walkman_effect](https://en.wikipedia.org/wiki/Walkman_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Walkman_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman_effect</a>  
 
 4. <a id="endnote-4"></a>
    Source: indianexpress.com  
-   Link: [https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/](https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/)  
+   Link: <a href="https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/" target="_blank" rel="noopener noreferrer nofollow">https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Indian ExpressRewind, Replay: How the Walkman changed the way we hear music | Technology News - The Indian Express...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20592043211032852](https://journals.sagepub.com/doi/10.1177/20592043211032852)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043211032852" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043211032852</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOn the Move: Principal Components of the Functions and Experiences of Mobile Music Listening - Mia Kuch, Clemens Wöllner, 20...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/13548565211060297](https://journals.sagepub.com/doi/10.1177/13548565211060297)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13548565211060297" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13548565211060297</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe epitome of reprehensible individualism: The Dutch response to the Walkman, 1980–1995 - Jesper Verhoef, 2022April 19, 2022...</p></details>
    Published: April 19, 2022  
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world](https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world)  
+   Link: <a href="https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially reliant on headphones for nearly every daily activity, the author came to realize how pervasive and escapist their usage had be...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/](https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/)  
+   Link: <a href="https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Walkman&#x27;s Invention 40 Years Ago Launched a Cultural RevolutionTHE WALKMAN’S INVENTION 40 YEARS AGO LAUNCHED A CULTURAL REVOLUTION IN...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cir.nii.ac.jp  
-   Link: [https://cir.nii.ac.jp/crid/1390853649843071232](https://cir.nii.ac.jp/crid/1390853649843071232)  
+   Link: <a href="https://cir.nii.ac.jp/crid/1390853649843071232" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1390853649843071232</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portable Music Player as the Landmark Commodity: In Case of Sony&#x27;s Walkman | CiNii ResearchMarch 15, 2007 — THE PORTABLE MUSIC PLAYER AS...</p></details>
    Published: March 15, 2007  
 
 10. <a id="endnote-10"></a>
    Source: pmamagazine.org  
-   Link: [https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/](https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/)  
+   Link: <a href="https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/" target="_blank" rel="noopener noreferrer nofollow">https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boombox Bonanza: The History and Evolution of Portable Music PlayersJuly 23, 2024 — BOOMBOX BONANZA: THE HISTORY AND EVOLUTION OF PORTABL...</p></details>
    Published: July 23, 2024  
 
 11. <a id="endnote-11"></a>
    Source: allhist.com  
-   Link: [https://allhist.com/walkman](https://allhist.com/walkman)  
+   Link: <a href="https://allhist.com/walkman" target="_blank" rel="noopener noreferrer nofollow">https://allhist.com/walkman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e that resonates with the hiss of magnetic tape and the vibrant pulse of 1980s pop culture, was far more than a mere gad...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: neuroetpsycho.com  
    Title: They slip quietly into our daily lives, unnoticed at first, until we can n  
-   Link: [https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/](https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/)  
+   Link: <a href="https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Walkman: From shared [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) to solitary symphony - Neuro &amp; PsychoJune 20, 2025 — THE WALKMAN: FROM SHARED MELODY TO SOLITARY SYMPHONY...</p></details>
    Published: June 20, 2025  
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
    Title: The walkman effect* | Popular Music | Cambridge Core  
-   Link: [https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035](https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035)  
+   Link: <a href="https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2008 — THE WALKMAN EFFECT* Published online by Cambridge University Press: 11 November 2008 Shuhei Hosokawa * * * Article co...</p></details>
    Published: November 11, 2008  
 
 14. <a id="endnote-14"></a>
    Source: throwbacks.com  
    Title: The Rise and Fall of the Walkman Era | Throwbacks  
-   Link: [https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era](https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era)  
+   Link: <a href="https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era" target="_blank" rel="noopener noreferrer nofollow">https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 10, 2026 — THE RISE AND FALL OF THE WALKMAN ERA By Wren AnderssonApril 10, 2026 Music &amp; AudioSony Walkman 90s Nostalgia Portable Au...</p></details>
    Published: April 10, 2026  
 
 15. <a id="endnote-15"></a>
    Source: blog.oup.com  
-   Link: [https://blog.oup.com/2012/07/introduction-walkman-transform-listening/](https://blog.oup.com/2012/07/introduction-walkman-transform-listening/)  
+   Link: <a href="https://blog.oup.com/2012/07/introduction-walkman-transform-listening/" target="_blank" rel="noopener noreferrer nofollow">https://blog.oup.com/2012/07/introduction-walkman-transform-listening/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>transformation of listening with the Walkman | OUPblogJuly 1, 2012 — THE TRANSFORMATION OF LISTENING WITH THE WALKMAN Image THE SOCIAL AN...</p></details>
    Published: July 1, 2012  
 
 16. <a id="endnote-16"></a>
    Source: generationxnow.com  
    Title: Why Was The Sony Walkman Important?  
-   Link: [https://www.generationxnow.com/why-was-the-sony-walkman-important/](https://www.generationxnow.com/why-was-the-sony-walkman-important/)  
+   Link: <a href="https://www.generationxnow.com/why-was-the-sony-walkman-important/" target="_blank" rel="noopener noreferrer nofollow">https://www.generationxnow.com/why-was-the-sony-walkman-important/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generation X NowMarch 28, 2025 — WHY WAS THE SONY WALKMAN IMPORTANT? generationxnow_5c2o4a March 28, 2025 Image: image March 27th 2025: T...</p></details>
    Published: March 28, 2025  
 
 17. <a id="endnote-17"></a>
    Source: newyorker.com  
    Title: The Walkman, Forty Years On | The New Yorker  
-   Link: [https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on](https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on)  
+   Link: <a href="https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By Matt Alt June 29, 2020 Image: The Walkman TPSL2 model The Walkman débuted in Japan, in 1979, to near [silence](&amp;#123;&amp;#123; &#x27;silence/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
-   Published: June 29, 2020  
+   Published: June 29, 2020

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b
 - music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e
 tags:
-- music
+- music-3-a01-be
 - dance-music
 - inclusion-boundaries
 keywords:
-- music
+- music-3-a01-be
 - dance-music
 - inclusion-boundaries
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Social norms, aesthetics, and venue policies affect who feels welcome and how space is used.
 hero_summary: Social norms, aesthetics, and venue policies affect who feels welcome and how space is used.
 layout: default
 permalink: /inclusion-boundaries/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /dance-music/
 nav_short_title: Inclusion Boundaries
 title: Who Belongs on the Dance Floor and Why
-title_full: Who Belongs on the Dance Floor and Why | Dance Music
+title_full: Who Belongs on the Dance Floor and Why
 display_title_short: Inclusion Boundaries
 display_title: Inclusion Boundaries
 heading_title: Who Belongs on the Dance Floor and Why
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Dance Music Builds A Room | Music
+parent_title: How Dance Music Builds A Room
 parent_permalink: /dance-music/
 parent_nav_short_title: Dance Music
 parent_heading_title: How Dance Music Builds A Room
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Club Architecture and Lighting Shape Dance Interaction
 up_link:
   basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -265,7 +265,7 @@ next_link:
   permalink: /rhythmic-repetition/
   short_title: Rhythmic Repetition
   heading_title: How Repeated Beats Foster Social Equality on Dance Floors
-date: '2026-06-09 07:24:23 '
+date: '2026-06-11 23:43:43 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-1.webp
@@ -274,13 +274,12 @@ image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclu
 
 ## Introduction
 
-[Dance music]({{ 'dance-music/' | relative_url }}) spaces are often described as places of freedom, collective energy and temporary escape from everyday social divisions. Yet dance floors do not automatically produce openness. Every scene develops boundaries—through door policies, social expectations, aesthetic preferences, pricing, geography and ideas about who is considered a “real” participant. These boundaries help create community, but they can also exclude people who do not fit prevailing norms. The result is a persistent tension at the heart of dance [culture]({{ 'culture/' | relative_url }}): the same mechanisms that protect a scene's identity and safety may also limit access, visibility and belonging. Research across club cultures, queer nightlife and urban studies shows that questions of inclusion are not peripheral to dance music spaces; they are central to how those spaces are organised and experienced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateClub cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
-
+[Dance music]({{ 'dance-music/' | relative_url }}) spaces are often described as places of freedom, collective energy and temporary escape from everyday social divisions. Yet dance floors do not automatically produce openness. Every scene develops boundaries—through door policies, social expectations, aesthetic preferences, pricing, geography and ideas about who is considered a “real” participant. These boundaries help create community, but they can also exclude people who do not fit prevailing norms. The result is a persistent tension at the heart of dance [culture]({{ 'culture/' | relative_url }}): the same mechanisms that protect a scene's identity and safety may also limit access, visibility and belonging. Research across club cultures, queer nightlife and urban studies shows that questions of inclusion are not peripheral to dance music spaces; they are central to how those spaces are organised and experienced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Club cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-1-dark.svg" | relative_url }}" alt="Inclusion Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Codes of Conduct and Social Norms
 
-Formal rules are only one way dance spaces define membership. Many communities rely just as heavily on unwritten expectations concerning dress, behaviour, musical knowledge and etiquette. Sociologists of club culture have long noted that scenes generate forms of symbolic status—sometimes called “subcultural capital”—through which participants distinguish insiders from outsiders. Knowing the [music]({{ 'music/' | relative_url }}), understanding the venue's customs or displaying the right aesthetic can become markers of belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateClub cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span>
+Formal rules are only one way dance spaces define membership. Many communities rely just as heavily on unwritten expectations concerning dress, behaviour, musical knowledge and etiquette. Sociologists of club culture have long noted that scenes generate forms of symbolic status—sometimes called “subcultural capital”—through which participants distinguish insiders from outsiders. Knowing the music, understanding the venue's customs or displaying the right aesthetic can become markers of belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Club cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span>
 
 These informal boundaries are not always exclusionary in intent. They can help preserve environments that participants value. For example, many contemporary clubs and festivals publish codes of conduct centred on consent, respect and spatial awareness. Such policies are designed to reduce harassment and create conditions in which marginalised groups can participate more safely. Clubs and dance organisations increasingly emphasise privacy, anti-discrimination measures and accountability for harmful behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.queerhoven.org/code-of-conduct" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: queerhoven.org">[Queerhoven]</a><span class="citation-popover" role="note"><span class="citation-popover-source">queerhoven.org</span><span class="citation-popover-title">Code of Conduct</span><span class="citation-popover-snippet">a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and includ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clubraum.nl/code" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clubraum.nl">[Club RAUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clubraum.nl</span><span class="citation-popover-snippet">Club RAUMCode of Conduct29 Aug 2023 — Upon entering Club RAUM, you commit to upholding the guidelines set in this code of conduct, which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://leguesswho.com/house-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leguesswho.com">[3Le Guess Who?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leguesswho.com</span><span class="citation-popover-snippet">Code of Conduct &amp; House RulesRespect each other&#x27;s boundaries and always ask for consent before engaging in any physical or intimate conta...</span></span></span>
 
@@ -296,10 +295,9 @@ Several factors commonly affect perceptions of inclusion:
 * **Cultural familiarity**, such as knowledge of genres, artists or scene-specific norms.
 * **Representation**, including whether attendees see people like themselves among performers, staff and audiences.
 * **Safety expectations**, especially concerning harassment, racism, homophobia, transphobia or ableism.
-* **Geographic accessibility**, including whether venues are located in areas that feel welcoming or reachable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0016718523000246" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe (re)production of whiteness in Amsterdam-based...by T Koren · 2023 · Cited by 4 — This article investigates the spatial...</span></span></span>
+* **Geographic accessibility**, including whether venues are located in areas that feel welcoming or reachable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0016718523000246" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The (re)production of whiteness in Amsterdam-based...by T Koren · 2023 · Cited by 4 — This article investigates the spatial...</span></span></span>
 
 These factors often interact. A venue may publicly promote diversity while remaining financially inaccessible. Another may attract a demographically diverse audience but tolerate behaviour that discourages participation by women or queer attendees. Inclusion therefore depends not only on formal [access]({{ 'access/' | relative_url }}) but on whether people can participate without feeling surveilled, tokenised or vulnerable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZwOb0cP6VCY" title="Making Contemporary Dance Inclusive for All" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZwOb0cP6VCY" target="_blank" rel="noopener noreferrer">Making Contemporary Dance Inclusive for All</a></p><p class="youtube-embed-meta">Channel: Great Big Story &middot; Views: 320.5K &middot; Uploaded: March 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZwOb0cP6VCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZwOb0cP6VCY">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +309,6 @@ Because of this history, many contemporary scenes treat boundary-making as a pol
 
 At the same time, tensions emerge when formerly marginal spaces become fashionable. As queer and underground venues attract broader audiences, organisers often confront difficult questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How open should a protected community be?
@@ -322,18 +319,16 @@ At the same time, tensions emerge when formerly marginal spaces become fashionab
 
 These debates rarely have simple answers. Studies of electronic music cultures have documented concerns that scenes rooted in marginalised communities can become detached from their social origins as they gain mainstream visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A858020/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">DIVA PortalExploring Exclusion through Diversity in Berlin&#x27;s Electronic...by NA Rodgers · 2015 · Cited by 6 — In &#x27;An Alternative History...</span></span></span>
 
-Race also remains a significant issue. Research on nightlife and cultural production has shown how dance music forms that originated within Black and minority communities can become associated with predominantly white audiences and institutions, sometimes reproducing broader patterns of social inequality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016718523000246" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe (re)production of whiteness in Amsterdam-based...by T Koren · 2023 · Cited by 4 — This article investigates the spatial...</span></span></span>
-
+Race also remains a significant issue. Research on nightlife and cultural production has shown how dance music forms that originated within Black and minority communities can become associated with predominantly white audiences and institutions, sometimes reproducing broader patterns of social inequality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016718523000246" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The (re)production of whiteness in Amsterdam-based...by T Koren · 2023 · Cited by 4 — This article investigates the spatial...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-2-dark.svg" | relative_url }}" alt="Inclusion Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Politics of Authenticity
 
 One of the most powerful forms of exclusion in dance culture is the idea of authenticity. Participants often distinguish between those perceived as genuinely committed to a scene and those viewed as tourists, trend-followers or commercial opportunists.
 
-Authenticity can strengthen community bonds by rewarding participation and shared knowledge. However, it can also become a mechanism for policing behaviour, taste and identity. Newcomers may feel unwelcome if they lack familiarity with particular genres or social codes. People from different class, racial or cultural backgrounds may be judged according to standards they had little role in creating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateClub cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span>
+Authenticity can strengthen community bonds by rewarding participation and shared knowledge. However, it can also become a mechanism for policing behaviour, taste and identity. Newcomers may feel unwelcome if they lack familiarity with particular genres or social codes. People from different class, racial or cultural backgrounds may be judged according to standards they had little role in creating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Club cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span>
 
 This dynamic helps explain why exclusion in dance spaces is not always overt. Rather than explicit discrimination, individuals may encounter subtle signals that they do not belong: dismissive attitudes, assumptions about competence, scepticism regarding their motivations, or pressure to conform to established styles of dress and behaviour.
-
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-3-dark.svg" | relative_url }}" alt="Inclusion Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact of Urban Policies and Branding
@@ -344,18 +339,15 @@ These changes affect who can access nightlife. As venues become more commerciall
 
 Municipal nightlife strategies increasingly recognise this problem. Policy discussions in cities such as Amsterdam have highlighted concerns that nightlife's earlier inclusiveness can diminish when cultural spaces are displaced or commercialised. Advocates argue that preserving affordable and independent venues is important not only for entertainment but for sustaining communities, artistic experimentation and youth cultures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.amsterdam.nl/publish/pages/1032233/nachtvisie_engels.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.amsterdam.nl">[Amsterdam.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.amsterdam.nl</span><span class="citation-popover-title">nl Space for night culture</span><span class="citation-popover-snippet">There are also places of cultural value, which are important for new music, the creation...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QXY5TyCUTlo" title="Inclusion Makes the World More Vibrant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QXY5TyCUTlo" target="_blank" rel="noopener noreferrer">Inclusion Makes the World More Vibrant</a></p><p class="youtube-embed-meta">Channel: Uniting &middot; Views: 876.1K &middot; Uploaded: December 2017 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QXY5TyCUTlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QXY5TyCUTlo">Open on YouTube</a></p></div></div></div>
 
 ## The Persistent Tension Between Openness and Protection
 
 The central challenge for dance music communities is that inclusion is not simply the absence of boundaries. Every dance floor requires some form of regulation, whether through security staff, codes of conduct, community norms or curatorial decisions. Without boundaries, participants may experience harassment, intimidation or the erosion of the qualities that made a space meaningful in the first place. Yet boundaries can also reproduce inequalities, exclude newcomers and reinforce social hierarchies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clubraum.nl/code" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clubraum.nl">[Club RAUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clubraum.nl</span><span class="citation-popover-snippet">Club RAUMCode of Conduct29 Aug 2023 — Upon entering Club RAUM, you commit to upholding the guidelines set in this code of conduct, which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://leguesswho.com/house-rules" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leguesswho.com">[2Le Guess Who?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leguesswho.com</span><span class="citation-popover-snippet">Code of Conduct &amp; House RulesRespect each other&#x27;s boundaries and always ask for consent before engaging in any physical or intimate conta...</span></span></span>
 
-Understanding exclusion in dance spaces therefore requires moving beyond a simple contrast between open and closed venues. The more useful question is how boundaries are drawn, who benefits from them, who bears their costs and whether affected communities have a voice in shaping them. Dance music organises social space not only through [rhythm]({{ 'rhythm/' | relative_url }}) and movement but through ongoing negotiations over belonging, safety, identity and access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateClub cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
-
+Understanding exclusion in dance spaces therefore requires moving beyond a simple contrast between open and closed venues. The more useful question is how boundaries are drawn, who benefits from them, who bears their costs and whether affected communities have a voice in shaping them. Dance music organises social space not only through [rhythm]({{ 'rhythm/' | relative_url }}) and movement but through ongoing negotiations over belonging, safety, identity and access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Club cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</span><span class="citation-popover-meta">Published: April 27, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KeKjG9bJk6A" title="Netflix Culture: Brené Brown and Vernā Myers Discuss Inclusion and Diversity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KeKjG9bJk6A" target="_blank" rel="noopener noreferrer">Netflix Culture: Brené Brown and Vernā Myers Discuss Inclusion and Diversity</a></p><p class="youtube-embed-meta">Channel: WeAreNetflix &middot; Views: 31.8K &middot; Uploaded: April 2019 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KeKjG9bJk6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KeKjG9bJk6A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -474,15 +466,15 @@ Understanding exclusion in dance spaces therefore requires moving beyond a simpl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boy George Culture Club Fantastic Young POSTER"><img src="{{ '/assets/images/marketplace-covers/25fa97b342275a087190.jpg' | relative_url }}" alt="Listing image for Boy George Culture Club Fantastic Young POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Boy George Culture Club Fantastic Young POSTER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for club culture poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: club culture poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +482,15 @@ Understanding exclusion in dance spaces therefore requires moving beyond a simpl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Culture Club Greatest Moments CD/Album Shop Album Promo Poster."><img src="{{ '/assets/images/marketplace-covers/4b657f7bc24390279b42.jpg' | relative_url }}" alt="Listing image for Culture Club Greatest Moments CD/Album Shop Album Promo Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Culture Club Greatest Moments CD/Album Shop Album Promo Poster.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for club culture poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: club culture poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +498,15 @@ Understanding exclusion in dance spaces therefore requires moving beyond a simpl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boy George Culture Club Fantastic Young POSTER"><img src="{{ '/assets/images/marketplace-covers/f177377a0ede571ee1ea.jpg' | relative_url }}" alt="Listing image for Boy George Culture Club Fantastic Young POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Boy George Culture Club Fantastic Young POSTER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for club culture poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: club culture poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +514,15 @@ Understanding exclusion in dance spaces therefore requires moving beyond a simpl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Culture Club - Colour By Numbers Fine Art Album Poster"><img src="{{ '/assets/images/marketplace-covers/43da3ef0943652637c30.jpg' | relative_url }}" alt="Listing image for Culture Club - Colour By Numbers Fine Art Album Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Culture Club - Colour By Numbers Fine Art Album Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for club culture poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: club culture poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,7 +530,7 @@ Understanding exclusion in dance spaces therefore requires moving beyond a simpl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=club+culture+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="club culture poster -book -books" data-ebay-reference="inclusion-boundaries-who-belongs-on-the-dance-floor-and-why-music-club-culture-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-belongs-on-the-dance-floor-and-why-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -753,159 +745,159 @@ Understanding exclusion in dance spaces therefore requires moving beyond a simpl
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness](https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateClub cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286636275_Club_cultures_Boundaries_identities_and_otherness</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Club cultures: Boundaries, identities, and othernessApril 27, 2011 — This book explores contemporary club and dance cultures...</p></details>
    Published: April 27, 2011  
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/elements/liberation-on-the-dance-floor/5084A33B043CCA81806EF905D2B630D3](https://www.cambridge.org/core/elements/liberation-on-the-dance-floor/5084A33B043CCA81806EF905D2B630D3)  
+   Link: <a href="https://www.cambridge.org/core/elements/liberation-on-the-dance-floor/5084A33B043CCA81806EF905D2B630D3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/liberation-on-the-dance-floor/5084A33B043CCA81806EF905D2B630D3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentLiberation on the Dance Floorby C Jennex · 2025 — Lesbian and gay liberation movements of the twen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: clubraum.nl  
-   Link: [https://www.clubraum.nl/code](https://www.clubraum.nl/code)  
+   Link: <a href="https://www.clubraum.nl/code" target="_blank" rel="noopener noreferrer nofollow">https://www.clubraum.nl/code</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Club RAUMCode of Conduct29 Aug 2023 — Upon entering Club RAUM, you commit to upholding the guidelines set in this code of conduct, which...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: queerhoven.org  
    Title: Code of Conduct  
-   Link: [https://www.queerhoven.org/code-of-conduct](https://www.queerhoven.org/code-of-conduct)  
+   Link: <a href="https://www.queerhoven.org/code-of-conduct" target="_blank" rel="noopener noreferrer nofollow">https://www.queerhoven.org/code-of-conduct</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and includ...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016718523000246](https://www.sciencedirect.com/science/article/pii/S0016718523000246)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe (re)production of whiteness in Amsterdam-based...by T Koren · 2023 · Cited by 4 — This article investigates the spatial...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016718523000246" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016718523000246</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The (re)production of whiteness in Amsterdam-based...by T Koren · 2023 · Cited by 4 — This article investigates the spatial...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A858020/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A858020/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A858020/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A858020/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIVA PortalExploring Exclusion through Diversity in Berlin&#x27;s Electronic...by NA Rodgers · 2015 · Cited by 6 — In &#x27;An Alternative History...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate From dancefloors to tables: socially distanced clubbing  
-   Link: [https://www.researchgate.net/publication/358075620_From_dancefloors_to_tables_socially_distanced_clubbing_temporary_urbanism_and_the_gentrification_of_London%27s_nightlife](https://www.researchgate.net/publication/358075620_From_dancefloors_to_tables_socially_distanced_clubbing_temporary_urbanism_and_the_gentrification_of_London%27s_nightlife)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateFrom dancefloors to tables: socially distanced clubbing...January 24, 2022 — 24 Jan 2022 — As recent research indicates a co...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/358075620_From_dancefloors_to_tables_socially_distanced_clubbing_temporary_urbanism_and_the_gentrification_of_London%27s_nightlife" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358075620_From_dancefloors_to_tables_socially_distanced_clubbing_temporary_urbanism_and_the_gentrification_of_London%27s_nightlife</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From dancefloors to tables: socially distanced clubbing...January 24, 2022 — 24 Jan 2022 — As recent research indicates a co...</p></details>
    Published: January 24, 2022  
 
 8. <a id="endnote-8"></a>
    Source: acme-journal.org  
-   Link: [https://acme-journal.org/index.php/acme/article/download/911/767/2772](https://acme-journal.org/index.php/acme/article/download/911/767/2772)  
+   Link: <a href="https://acme-journal.org/index.php/acme/article/download/911/767/2772" target="_blank" rel="noopener noreferrer nofollow">https://acme-journal.org/index.php/acme/article/download/911/767/2772</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gentrification and Politicization of Nightlife in New York Cityby L Hae · 2011 · Cited by 29 — In this paper, I examine the specific poli...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: assets.amsterdam.nl  
    Title: nl Space for night culture  
-   Link: [https://assets.amsterdam.nl/publish/pages/1032233/nachtvisie_engels.pdf](https://assets.amsterdam.nl/publish/pages/1032233/nachtvisie_engels.pdf)  
+   Link: <a href="https://assets.amsterdam.nl/publish/pages/1032233/nachtvisie_engels.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.amsterdam.nl/publish/pages/1032233/nachtvisie_engels.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are also places of cultural value, which are important for new music, the creation...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Are public spaces designed for girls good for everyone?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0264275124001203](https://www.sciencedirect.com/science/article/pii/S0264275124001203)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264275124001203" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264275124001203</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Sandström · 2024 · Cited by 20 — Public spaces designed exclusively for girls aim to address gender imbalances. Spaces for girls are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/249670066_The_Dance_Floor_Nightlife_Civilizing_Process_and_Multiculturalism_in_Canada](https://www.researchgate.net/publication/249670066_The_Dance_Floor_Nightlife_Civilizing_Process_and_Multiculturalism_in_Canada)  
+   Link: <a href="https://www.researchgate.net/publication/249670066_The_Dance_Floor_Nightlife_Civilizing_Process_and_Multiculturalism_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249670066_The_Dance_Floor_Nightlife_Civilizing_Process_and_Multiculturalism_in_Canada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Dance Floor: Nightlife, Civilizing Process, and...This article is based on a study of dance floors of Whyte Avenue in the city...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/13675494231165923](https://journals.sagepub.com/doi/10.1177/13675494231165923)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13675494231165923" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13675494231165923</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCultural production as a form of spatial regulation in...1 May 2023 — I examine the workings of power in urban cultural eco...</p></details>
    Published: May 2023  
 
 13. <a id="endnote-13"></a>
    Source: leguesswho.com  
-   Link: [https://leguesswho.com/house-rules](https://leguesswho.com/house-rules)  
+   Link: <a href="https://leguesswho.com/house-rules" target="_blank" rel="noopener noreferrer nofollow">https://leguesswho.com/house-rules</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Code of Conduct &amp; House RulesRespect each other&#x27;s boundaries and always ask for consent before engaging in any [physical](&amp;#123;&amp;#123; &#x27;physical/&#x27; | relative_url &amp;#125;&amp;#125;) or intimate conta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/00420980241236384](https://journals.sagepub.com/doi/10.1177/00420980241236384)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00420980241236384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00420980241236384</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow nightclub promoters attune their curatorial practices to...by T Koren · 2024 · Cited by 11 — This paper examines the in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thesis.eur.nl  
-   Link: [https://thesis.eur.nl/pub/57120/Pelsy-Theotime.pdf](https://thesis.eur.nl/pub/57120/Pelsy-Theotime.pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/57120/Pelsy-Theotime.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/57120/Pelsy-Theotime.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: theestablishment.co  
-   Link: [https://theestablishment.co/promoting-consent-the-business-of-safer-spaces/index.html](https://theestablishment.co/promoting-consent-the-business-of-safer-spaces/index.html)  
+   Link: <a href="https://theestablishment.co/promoting-consent-the-business-of-safer-spaces/index.html" target="_blank" rel="noopener noreferrer nofollow">https://theestablishment.co/promoting-consent-the-business-of-safer-spaces/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting Consent: The Business Of Safer Spaces17 Dec 2018 — The inclusivity and safety of many queer clubs and roaming parties underscor...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: swinginutrecht.nl  
    Title: code of conduct  
-   Link: [https://swinginutrecht.nl/code-of-conduct/](https://swinginutrecht.nl/code-of-conduct/)  
+   Link: <a href="https://swinginutrecht.nl/code-of-conduct/" target="_blank" rel="noopener noreferrer nofollow">https://swinginutrecht.nl/code-of-conduct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Oct 2024 — Everyone is welcome at our events regardless of gender, gender identity, sexual orientation, race, ethnicity, nationality...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scholarworks.wmich.edu  
-   Link: [https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5154&context=masters_theses](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5154&context=masters_theses)  
+   Link: <a href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5154&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5154&amp;context=masters_theses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Club Culture - ScholarWorks at WMUby AM Iseler · 2006 — The issues I address in my research include dance club music, music videos, alcoh...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dsda.nl  
    Title: Code of Conduct  
-   Link: [https://dsda.nl/wp-content/uploads/2025/11/BSS-Code-of-Conduct.pdf](https://dsda.nl/wp-content/uploads/2025/11/BSS-Code-of-Conduct.pdf)  
+   Link: <a href="https://dsda.nl/wp-content/uploads/2025/11/BSS-Code-of-Conduct.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dsda.nl/wp-content/uploads/2025/11/BSS-Code-of-Conduct.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Suede Shoes- Be aware of others on the dance floor and dance in a way that considers everyone&#x27;s space and safety. - As an experience...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: dancewithjoystudios.com  
-   Link: [https://dancewithjoystudios.com/safety-code-of-conduct](https://dancewithjoystudios.com/safety-code-of-conduct)  
+   Link: <a href="https://dancewithjoystudios.com/safety-code-of-conduct" target="_blank" rel="noopener noreferrer nofollow">https://dancewithjoystudios.com/safety-code-of-conduct</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Respect &amp; Consent · 2. Harassment &amp; Discrimination · 3. Dance Floor Safety · 4. Feedback &amp; Teaching...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
    Title: Just a quick reminder of our rules for those we'll be seeing  
-   Link: [https://www.instagram.com/p/DQZhgayDHgE/](https://www.instagram.com/p/DQZhgayDHgE/)  
+   Link: <a href="https://www.instagram.com/p/DQZhgayDHgE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQZhgayDHgE/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COMMUNITY. BECAUSE MUSIC SCENES SHOULD BE SPACES WHERE EVERYONE CAN FEEL SAFE, SEEN AND FREE to EXPRESS THEMSELVES- -ON AND OFF THE DANCE...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: voidnetwork.gr  
-   Link: [https://voidnetwork.gr/wp-content/uploads/2016/09/Clubbing-Dancing-Ecstasy-and-Vitality-by-Ben-Malbon.pdf](https://voidnetwork.gr/wp-content/uploads/2016/09/Clubbing-Dancing-Ecstasy-and-Vitality-by-Ben-Malbon.pdf)  
+   Link: <a href="https://voidnetwork.gr/wp-content/uploads/2016/09/Clubbing-Dancing-Ecstasy-and-Vitality-by-Ben-Malbon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://voidnetwork.gr/wp-content/uploads/2016/09/Clubbing-Dancing-Ecstasy-and-Vitality-by-Ben-Malbon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Void NetworkClubbing Dancing, Ecstasy and Vitality, by Ben MalbonClubbing: Dancing, Ecstasy and Vitality explores the cultures and spaces...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ntia.co.uk  
-   Link: [https://ntia.co.uk/nightlife-article-105-can-nightlife-survive-gentrification/](https://ntia.co.uk/nightlife-article-105-can-nightlife-survive-gentrification/)  
+   Link: <a href="https://ntia.co.uk/nightlife-article-105-can-nightlife-survive-gentrification/" target="_blank" rel="noopener noreferrer nofollow">https://ntia.co.uk/nightlife-article-105-can-nightlife-survive-gentrification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NTIA Night-Time IndustryNightlife Article #105: Can Nightlife Survive Gentrification?These interventions suggest that nightlife and gentr...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dsp-groep.nl  
-   Link: [https://www.dsp-groep.nl/wp-content/uploads/2025/04/Transforming-Urban-Nightlife-and-the-Development-of-Smart-Public-Spaces-Manja-PaulvS-Randy.pdf](https://www.dsp-groep.nl/wp-content/uploads/2025/04/Transforming-Urban-Nightlife-and-the-Development-of-Smart-Public-Spaces-Manja-PaulvS-Randy.pdf)  
+   Link: <a href="https://www.dsp-groep.nl/wp-content/uploads/2025/04/Transforming-Urban-Nightlife-and-the-Development-of-Smart-Public-Spaces-Manja-PaulvS-Randy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dsp-groep.nl/wp-content/uploads/2025/04/Transforming-Urban-Nightlife-and-the-Development-of-Smart-Public-Spaces-Manja-PaulvS-Randy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>future research, the nightlife economy can implement urban policies for resili...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=ILgFgxftOnA](http://www.youtube.com/watch?v=ILgFgxftOnA)  
+   Link: <a href="http://www.youtube.com/watch?v=ILgFgxftOnA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ILgFgxftOnA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusion and inclusion in club culture and dance spaces Making Contemporary Dance Inclusive for All Great Big Story...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
    Title: The Dance Floor  
-   Link: [https://www.academia.edu/428993/The_Dance_Floor](https://www.academia.edu/428993/The_Dance_Floor)  
+   Link: <a href="https://www.academia.edu/428993/The_Dance_Floor" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/428993/The_Dance_Floor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Dance Floor11 Oct 2025 — The study interprets dance floor phenomena as reflections of Canada&#x27;s multicultural emotional history...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/12983819.pdf](https://core.ac.uk/download/pdf/12983819.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/12983819.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/12983819.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DANCE, SPACE AND SUBJECTIVITYby VA Briginshaw · 2001 · Cited by 259 — Thisthesis, by examining relationships between dancing bodies and s...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Inclusion Makes the World More Vibrant  
-   Link: [http://www.youtube.com/watch?v=QXY5TyCUTlo](http://www.youtube.com/watch?v=QXY5TyCUTlo)  
+   Link: <a href="http://www.youtube.com/watch?v=QXY5TyCUTlo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QXY5TyCUTlo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flashmob 2484 - a community dancing for social inclusion...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Netflix Culture: Brené Brown and Vernā Myers Discuss Inclusion and Diversity  
-   Link: [http://www.youtube.com/watch?v=KeKjG9bJk6A](http://www.youtube.com/watch?v=KeKjG9bJk6A)  
+   Link: <a href="http://www.youtube.com/watch?v=KeKjG9bJk6A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KeKjG9bJk6A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inclusion Makes the World More Vibrant...</p></details>

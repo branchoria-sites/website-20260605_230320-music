@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a
 - music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a
 tags:
-- music
+- music-3-a01-be
 - recording
 - edison-phonograph
 keywords:
-- music
+- music-3-a01-be
 - recording
 - edison-phonograph
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Edison's phonograph created the first reliable way to record and replay performances, changing how music could be preserved.
 hero_summary: Edison's phonograph created the first reliable way to record and replay performances, changing how music could be preserved.
 layout: default
 permalink: /edison-phonograph/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /recording/
 nav_short_title: Edison Phonograph
 title: How Edison's Phonograph Changed Musical Memory
-title_full: How Edison's Phonograph Changed Musical Memory | Recording
+title_full: How Edison's Phonograph Changed Musical Memory
 display_title_short: Edison Phonograph
 display_title: Edison Phonograph
 heading_title: How Edison's Phonograph Changed Musical Memory
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Recording Changed What Music Is | Music
+parent_title: How Recording Changed What Music Is
 parent_permalink: /recording/
 parent_nav_short_title: Recording
 parent_heading_title: How Recording Changed What Music Is
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Recordings Carried Performer Fame Across Distances
 up_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -259,7 +259,7 @@ next_link:
   permalink: /music-archives/
   short_title: Music Archives
   heading_title: How Archived Recordings Keep Musical History Alive
-date: '2026-06-09 07:03:27 '
+date: '2026-06-11 23:33:06 '
 header:
   og_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_
 
 ## Introduction
 
-In the history of [music]({{ 'music/' | relative_url }}) and sound, the invention of the phonograph by **Thomas Edison** in 1877 stands as a genuine turning point because it made the first **reliable audio [recording]({{ 'recording/' | relative_url }}) and playback** possible. Before Edison’s machine, sound could be notated, remembered orally, or inscribed visually — but never *replayed* mechanically. The phonograph’s ability to fix a performance as an object that could be stored, carried, compared and later reproduced laid the groundwork for preserving musical performances far beyond the temporal and spatial limits of a live event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
+In the history of music and sound, the invention of the phonograph by **Thomas Edison** in 1877 stands as a genuine turning point because it made the first **reliable audio [recording]({{ 'recording/' | relative_url }}) and playback** possible. Before Edison’s machine, sound could be notated, remembered orally, or inscribed visually — but never *replayed* mechanically. The phonograph’s ability to fix a performance as an object that could be stored, carried, compared and later reproduced laid the groundwork for preserving musical performances far beyond the temporal and spatial limits of a live event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Invention and Technical Breakthroughs
@@ -280,7 +279,6 @@ While Edison’s earliest device was rudimentary, subsequent improvements replac
 
 From a preservation perspective, these early formats were–for the first time–**physical repositories** of performances that did not vanish when an artist stopped singing or playing. Instead of dependent [memory]({{ 'memory/' | relative_url }}) or notation, music could be stored and revisited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.sciencemuseumgroup.org.uk">[Science Museum Group Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.sciencemuseumgroup.org.uk</span><span class="citation-popover-snippet">Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_2DRLhFviFE" title="The Edison Cylinder Phonograph: How Audio Recording Changed the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_2DRLhFviFE" target="_blank" rel="noopener noreferrer">The Edison Cylinder Phonograph: How Audio Recording Changed the World</a></p><p class="youtube-embed-meta">Channel: Our Own Devices &middot; Views: 24.0K &middot; Uploaded: January 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_2DRLhFviFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_2DRLhFviFE">Open on YouTube</a></p></div></div></div>
 
 ## Early Music Applications
@@ -289,7 +287,6 @@ Although Edison initially viewed his phonograph as a novelty and a tool for dict
 
 The **commercialisation of music recordings** in the 1890s, including the establishment of companies such as **Edison Records**, marked the phonograph’s transition to a medium for preserving performances for listeners who might never hear live versions. Edison Records produced many tens of thousands of recordings before the company ceased operations in 1929, and some of these early discs remain preserved today in archives and libraries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edison_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edison Records</span><span class="citation-popover-snippet">Edison Records</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-2-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Preserving Cultural and Musical Memory
 
@@ -297,12 +294,7 @@ Beyond commercial music, phonographs became tools for **ethnographic and field r
 
 Institutional collections, such as the **Cylinder Audio Archive** maintained by the University of California, Santa Barbara Library, have digitised thousands of phonograph cylinders — many originally produced by Edison’s companies — making them accessible to researchers and the public as enduring historical resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cylinder_Audio_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cylinder Audio Archive</span><span class="citation-popover-snippet">Cylinder Audio Archive</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dXSJ8CYnMHA" title="The Phonograph - An Invention That Changed Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dXSJ8CYnMHA" target="_blank" rel="noopener noreferrer">The Phonograph - An Invention That Changed Music</a></p><p class="youtube-embed-meta">Channel: Music Theories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dXSJ8CYnMHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dXSJ8CYnMHA">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pnsizkVjGm8" title="One of a kind Wax Cylinder breaks on camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pnsizkVjGm8" target="_blank" rel="noopener noreferrer">One of a kind Wax Cylinder breaks on camera</a></p><p class="youtube-embed-meta">Channel: jessieawebb</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pnsizkVjGm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pnsizkVjGm8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cultural Impact of Repeatable Sound
 
 Edison’s phonograph changed music by making performances **repeatable and collectible**, not just ephemeral. For the first time, listeners could hear a specific rendition over and over, compare interpretations, memorise details from distant performers, and build personal or scholarly collections of recorded sound. This fostered new listening practices and altered concepts of musical memory and authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.sciencemuseumgroup.org.uk">[Science Museum Group Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.sciencemuseumgroup.org.uk</span><span class="citation-popover-snippet">Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</span></span></span>
@@ -310,9 +302,6 @@ Edison’s phonograph changed music by making performances **repeatable and coll
 The existence of recordings transformed how music could be preserved across generations. Rather than relying solely on written scores or oral transmission, recorded sound became a material trace of performance. This shift has enduring consequences: modern preservationists now work to digitise fragile analog media like cylinders to safeguard early recordings against physical deterioration, expanding [access]({{ 'access/' | relative_url }}) while respecting the phonograph’s role as the genesis of audio preservation practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 These early mechanical recordings thus mark the origin of a long continuum of **audio archiving and music preservation** that stretches from wax cylinders to today’s digital libraries, enabling us to experience, analyse and appreciate performances across time and place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clir.org/pubs/reports/pub137/part1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[clir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-snippet">Part OneThe recording and playback of sound began with Thomas Edison&#x27;s invention of the phonograph in 1877. In the wake of that landmark...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -710,129 +699,129 @@ These early mechanical recordings thus mark the origin of a long continuum of **
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Phonograph](https://en.wikipedia.org/wiki/Phonograph)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phonograph</a>  
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/technology/phonograph](https://www.britannica.com/technology/phonograph)  
+   Link: <a href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/phonograph</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Phonograph cylinder  
-   Link: [https://en.wikipedia.org/wiki/Phonograph_cylinder](https://en.wikipedia.org/wiki/Phonograph_cylinder)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phonograph_cylinder" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phonograph_cylinder</a>  
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Music recording  
-   Link: [https://www.britannica.com/topic/music-recording/The-development-of-musical-recording](https://www.britannica.com/topic/music-recording/The-development-of-musical-recording)  
+   Link: <a href="https://www.britannica.com/topic/music-recording/The-development-of-musical-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/The-development-of-musical-recording</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Audio Technology, Preservation, History | Britannica...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Edison Records  
-   Link: [https://en.wikipedia.org/wiki/Edison_Records](https://en.wikipedia.org/wiki/Edison_Records)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edison_Records" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edison_Records</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Cylinder Audio Archive  
-   Link: [https://en.wikipedia.org/wiki/Cylinder_Audio_Archive](https://en.wikipedia.org/wiki/Cylinder_Audio_Archive)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cylinder_Audio_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cylinder_Audio_Archive</a>  
 
 7. <a id="endnote-7"></a>
    Source: clir.org  
-   Link: [https://www.clir.org/pubs/reports/pub137/part1/](https://www.clir.org/pubs/reports/pub137/part1/)  
+   Link: <a href="https://www.clir.org/pubs/reports/pub137/part1/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub137/part1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part OneThe recording and playback of sound began with Thomas Edison&#x27;s invention of the phonograph in 1877. In the wake of that landmark...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/technology/cylinder-recording](https://www.britannica.com/technology/cylinder-recording)  
+   Link: <a href="https://www.britannica.com/technology/cylinder-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/cylinder-recording</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1904. CYLINDER RECORDING phonograph record Written and fact-checked by Britannica Editors History [Button: Ask Anything ] Table...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: blog.sciencemuseumgroup.org.uk  
-   Link: [https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/](https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/)  
+   Link: <a href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow">https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: loc.gov  
    Title: The Library of Congress Bill Klinger; Association for Recorded Sound Collections  
-   Link: [https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf)  
+   Link: <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressBill Klinger; Association for Recorded Sound CollectionsJune 7, 2007 — As early as 1890, academic researchers were...</p></details>
    Published: June 7, 2007  
 
 11. <a id="endnote-11"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/innovation/inventions/phonograph.htm](https://science.howstuffworks.com/innovation/inventions/phonograph.htm)  
+   Link: <a href="https://science.howstuffworks.com/innovation/inventions/phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/innovation/inventions/phonograph.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Phonograph Revolutionized Sound Recording | HowStuffWorksJuly 18, 2023 — HOW THE PHONOGRAPH REVOLUTIONIZED SOUND RECORDING By: Desire...</p></details>
    Published: July 18, 2023  
 
 12. <a id="endnote-12"></a>
    Source: scalar.oberlincollegelibrary.org  
    Title: the phonograph 1  
-   Link: [https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1](https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1)  
+   Link: <a href="https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1" target="_blank" rel="noopener noreferrer nofollow">https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonograph - ScalarThe invention of the phonograph, which allowed sound to be recorded for the first time, changed the way people conduct...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: americanhistory.si.edu  
    Title: replaying sound  
-   Link: [https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound](https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound)  
+   Link: <a href="https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound" target="_blank" rel="noopener noreferrer nofollow">https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound | National Museum of American HistoryREPLAYING SOUND THOMAS EDISON (1847–1931) * Hear My Voice * Explore Online * Picturing Sound *...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/)  
+   Link: <a href="https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Cylinder PhonographThe phonograph was developed as a result of Thomas Edison&#x27;s work on two other inventions, the telegraph...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nps.gov  
-   Link: [https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm](https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm)  
+   Link: <a href="https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: EDISON&#x27;S PATH TO THE PHONOGRAPH Image: Scott phonautograph and Edison p...</p></details>
    Published: July 17, 2017  
 
 16. <a id="endnote-16"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/arts-[culture](https://www.smithsonianmag.com/arts-[culture)  
+   Link: <a href="https://www.smithsonianmag.com/arts-[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-[culture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Phonograph Changed Music ForeverHOW THE PHONOGRAPH CHANGED MUSIC FOREVER MUCH LIKE STREAMING MUSIC SERVICES TODAY ARE RESHAPING O...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: hibar-research.org  
-   Link: [https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/](https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/)  
+   Link: <a href="https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/" target="_blank" rel="noopener noreferrer nofollow">https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The HIBAR Research AllianceRestoring and Preserving Historical Audio RecordingsIRENE is currently in use by a number of archives and inst...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: recordinghistory.org  
-   Link: [https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/](https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/)  
+   Link: <a href="https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/" target="_blank" rel="noopener noreferrer nofollow">https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: on this day in 1878 the phonograph patent changed music forever did you know how  
-   Link: [https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/](https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/)  
+   Link: <a href="https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1878: The Phonograph Patent changed...On this day in 1878: The Phonograph Patent changed music forever 🔄🎶 Did you know ho...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: home.nps.gov  
    Title: origins of sound recording edisons path to the phonograph  
-   Link: [https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm](https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm)  
+   Link: <a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — Edison’s Embossing Translating Telegraph made evident the many advantages of recording messages on...</p></details>
    Published: July 17, 2017  
 
 21. <a id="endnote-21"></a>
    Source: loc.gov  
    Title: Edison on hearing his voice play back to him from  
-   Link: [https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-)  
+   Link: <a href="https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Edison Sound Recordings | Articles and Essays | Inventing Entertainment: The Early Motion Pictures and Sound Recordings of the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: home.nps.gov  
    Title: origins of sound recording the inventors  
-   Link: [https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm](https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm)  
+   Link: <a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: THE INVENTORS Edouard-Léon Scott de Martinville (1817-1879) WHO INVENTE...</p></details>
    Published: July 17, 2017  
 
 23. <a id="endnote-23"></a>
    Source: home.nps.gov  
    Title: origins of sound recording thomas edison  
-   Link: [https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm](https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm)  
+   Link: <a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: THE INVENTORS Image: Thomas Edison Thomas Edison (1847-1931) National P...</p></details>
-   Published: July 17, 2017  
+   Published: July 17, 2017

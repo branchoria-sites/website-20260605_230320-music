@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_streaming_listening_72e5f3_playlists_replaced_a_41e543
 - music_3a01be_streaming_listening_72e5f3_streaming_revenue_ha_aa040a
 tags:
-- music
+- music-3-a01-be
 - streaming
 - access
 keywords:
-- music
+- music-3-a01-be
 - streaming
 - access
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming lowered the cost of curiosity, making vast access more important than building and maintaining a personal library.
 hero_summary: Streaming lowered the cost of curiosity, making vast access more important than building and maintaining a personal library.
 layout: default
 permalink: /access/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /streaming/
 nav_short_title: Access
 title: When Access Became More Useful Than Ownership
-title_full: When Access Became More Useful Than Ownership | Streaming
+title_full: When Access Became More Useful Than Ownership
 display_title_short: Access
 display_title: Access
 heading_title: When Access Became More Useful Than Ownership
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Streaming Changed Listening Habits | Music
+parent_title: How Streaming Changed Listening Habits
 parent_permalink: /streaming/
 parent_nav_short_title: Streaming
 parent_heading_title: How Streaming Changed Listening Habits
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What the Money Says About Streaming
 up_link:
   basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
@@ -259,7 +259,7 @@ next_link:
   permalink: /algorithms-a7ef46/
   short_title: Algorithms
   heading_title: Do Music Algorithms Expand Your Taste?
-date: '2026-06-09 06:47:38 '
+date: '2026-06-11 23:25:04 '
 header:
   og_image: /assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-1.webp
@@ -268,24 +268,20 @@ image: /assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownershi
 
 ## Introduction
 
-Streaming changed music [ownership]({{ 'ownership/' | relative_url }}) habits because it made access more valuable than possession for everyday listening. Instead of deciding which albums or songs were worth buying and storing, listeners gained immediate access to tens of millions of tracks for a relatively low monthly fee. The practical advantages were difficult to ignore: no shelves to fill, no files to manage, no need to predict what music might be wanted next week or even five minutes later. As streaming became the dominant way of consuming recorded music, many people stopped treating music as a collection to build and began treating it as a service that was always available. Research consistently identifies convenience, breadth of [catalogue]({{ 'catalogue/' | relative_url }}) and low-cost exploration as key reasons listeners moved from CDs and downloads to streaming platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Switching to Music Streaming Services: Understanding</span><span class="citation-popover-snippet">ResearchGateSwitching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
-
+Streaming changed music [ownership]({{ 'ownership/' | relative_url }}) habits because it made access more valuable than possession for everyday listening. Instead of deciding which albums or songs were worth buying and storing, listeners gained immediate access to tens of millions of tracks for a relatively low monthly fee. The practical advantages were difficult to ignore: no shelves to fill, no files to manage, no need to predict what music might be wanted next week or even five minutes later. As streaming became the dominant way of consuming recorded music, many people stopped treating music as a collection to build and began treating it as a service that was always available. Research consistently identifies convenience, breadth of [catalogue]({{ 'catalogue/' | relative_url }}) and low-cost exploration as key reasons listeners moved from CDs and downloads to streaming platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Switching to Music Streaming Services: Understanding</span><span class="citation-popover-snippet">Switching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-1-dark.svg" | relative_url }}" alt="Access illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This shift did not eliminate ownership entirely. Rather, it changed when and why ownership mattered. Everyday listening increasingly moved to access-based services, while [physical]({{ 'physical/' | relative_url }}) purchases became more closely tied to collecting, fandom, identity and support for artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doras.dcu.ie">[DORAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doras.dcu.ie</span><span class="citation-popover-title">DORASPsychological ownership and music streaming</span><span class="citation-popover-snippet">August 26, 2020 — by G Sinclair · 2016 · Cited by 355 — The aim of this study is to explore how motivations and antecedents of psychologi...</span><span class="citation-popover-meta">Published: August 26, 2020</span></span></span>
 
 ## From Buying Records to Renting Catalogues
 
-For most of the twentieth century and much of the early digital era, listening required ownership. Whether the format was vinyl, cassette, CD or a downloaded file, access depended on acquiring a copy. Building a [music]({{ 'music/' | relative_url }}) library involved spending money track by track or album by album, organising the collection and maintaining playback equipment.
+For most of the twentieth century and much of the early digital era, listening required ownership. Whether the format was [vinyl]({{ 'vinyl/' | relative_url }}), cassette, CD or a downloaded file, access depended on acquiring a copy. Building a music library involved spending money track by track or album by album, organising the collection and maintaining playback equipment.
 
 Streaming reversed that relationship. Instead of purchasing individual recordings, users effectively rented access to a vast catalogue. A subscription granted entry to millions of songs, often far exceeding what any individual could realistically own. The value proposition shifted from “Which album should I buy?” to “What do I want to hear right now?”
 
-The scale of this transition can be seen in industry revenues. Streaming first overtook digital downloads as a major source of music revenue in the mid-2010s and has since become the dominant format. By 2025, paid subscriptions and other streaming services accounted for the overwhelming majority of recorded music revenue in major markets, while download revenues had fallen to a small fraction of the business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2016/03/RIAA-2015-Year-End-shipments-memo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Proportion of Total US Music Revenues From Streaming</span><span class="citation-popover-snippet">RIAAProportion of Total US Music Revenues From StreamingMarch 22, 2016 — For the first time, streaming was the largest component of indus...</span><span class="citation-popover-meta">Published: March 22, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year-End Revenue ReportStreaming continued to account for the vast majority of recorded music revenues in 2024. Paid subscripti...</span></span></span>
+The scale of this transition can be seen in industry revenues. Streaming first overtook digital downloads as a major source of music revenue in the mid-2010s and has since become the dominant format. By 2025, paid subscriptions and other streaming services accounted for the overwhelming majority of recorded music revenue in major markets, while download revenues had fallen to a small fraction of the business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2016/03/RIAA-2015-Year-End-shipments-memo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Proportion of Total US Music Revenues From Streaming</span><span class="citation-popover-snippet">Proportion of Total US Music Revenues From StreamingMarch 22, 2016 — For the first time, streaming was the largest component of indus...</span><span class="citation-popover-meta">Published: March 22, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year-End Revenue ReportStreaming continued to account for the vast majority of recorded music revenues in 2024. Paid subscripti...</span></span></span>
 
 The practical implication was profound. Ownership once functioned as the gateway to listening. Streaming turned ownership into an optional extra.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1bZ0OSEViyo" title="The Real Reason Why Music Is Getting Worse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1bZ0OSEViyo" target="_blank" rel="noopener noreferrer">The Real Reason Why Music Is Getting Worse</a></p><p class="youtube-embed-meta">Channel: Rick Beato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1bZ0OSEViyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1bZ0OSEViyo">Open on YouTube</a></p></div></div></div>
 
 ## Convenience and the Falling Cost of Curiosity
 
@@ -295,10 +291,9 @@ Under the ownership model, exploring unfamiliar music involved risk. Buying an a
 
 Streaming removed most of those costs. A listener can sample a new artist, hear a recommended song, revisit a forgotten genre or explore a decades-old catalogue almost instantly. If the music disappoints, the user simply skips to something else.
 
-Research on streaming adoption highlights exactly these factors. A 2025 study of college students found that convenience and access to enormous song catalogues at a reasonable price were the main reasons participants switched from CDs and downloads to streaming services. The same research found that discovery of new music became a central use of these platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Switching to Music Streaming Services: Understanding</span><span class="citation-popover-snippet">ResearchGateSwitching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+Research on streaming adoption highlights exactly these factors. A 2025 study of college students found that convenience and access to enormous song catalogues at a reasonable price were the main reasons participants switched from CDs and downloads to streaming services. The same research found that discovery of new music became a central use of these platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Switching to Music Streaming Services: Understanding</span><span class="citation-popover-snippet">Switching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 This lowered barrier changed behaviour in several ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +305,6 @@ This lowered barrier changed behaviour in several ways:
 </div>
 
 The result was a shift from accumulation to exploration. The size of a personal collection mattered less because the effective collection was the platform catalogue itself.
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-2-dark.svg" | relative_url }}" alt="Access illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ownership Started to Feel Less Necessary
@@ -325,21 +319,17 @@ This convenience changed the psychological meaning of a music collection. Resear
 
 As a result, many listeners no longer experienced ownership as essential. The important thing was not possessing a file but knowing that the music would be available when needed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Cw1NbsZdqI" title="You Don&#x27;t Actually Own Your Digital Content | Here&#x27;s Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Cw1NbsZdqI" target="_blank" rel="noopener noreferrer">You Don&#x27;t Actually Own Your Digital Content | Here&#x27;s Why</a></p><p class="youtube-embed-meta">Channel: Vee Dries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Cw1NbsZdqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Cw1NbsZdqI">Open on YouTube</a></p></div></div></div>
-
 ## Discovery Became More Valuable Than Possession
 
 Access-based listening also benefited from network effects that ownership could not easily match.
 
-Modern streaming services combine catalogue access with [editorial playlists]({{ 'editorial-adds/' | relative_url }}), algorithmic recommendations and search tools. Researchers describe these systems as multiple pathways to discovery that help users navigate enormous catalogues and adopt new music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXivTracing Affordance and Item Adoption on Music Streaming PlatformsSeptember 8, 2021...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
+Modern streaming services combine catalogue access with editorial playlists, algorithmic recommendations and search tools. Researchers describe these systems as multiple pathways to discovery that help users navigate enormous catalogues and adopt new music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">Tracing Affordance and Item Adoption on Music Streaming PlatformsSeptember 8, 2021...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
 
 This matters because discovery itself became part of the product. A purchased collection is limited to what someone already knows or chooses to buy. A streaming service continually introduces possibilities beyond the listener's existing preferences.
 
-The consequence is that the value of the service grows with the size and accessibility of its catalogue. Owning one thousand albums may be impressive, but instant access to tens of millions of tracks offers a different kind of utility. For many listeners, especially younger ones who entered music culture during the streaming era, access became the more attractive proposition.
+The consequence is that the value of the service grows with the size and accessibility of its catalogue. Owning one thousand [albums]({{ 'albums/' | relative_url }}) may be impressive, but instant access to tens of millions of tracks offers a different kind of utility. For many listeners, especially younger ones who entered music [culture]({{ 'culture/' | relative_url }}) during the streaming era, access became the more attractive proposition.
 
-The rise of social media-driven discovery reinforced this pattern. Viral clips, recommendations and shared links can send listeners directly to a song within seconds. Access-based platforms are particularly well suited to this kind of spontaneous exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXivTracing Affordance and Item Adoption on Music Streaming PlatformsSeptember 8, 2021...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
-
+The rise of social media-driven discovery reinforced this pattern. Viral clips, recommendations and shared links can send listeners directly to a song within seconds. Access-based platforms are particularly well suited to this kind of spontaneous exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">Tracing Affordance and Item Adoption on Music Streaming PlatformsSeptember 8, 2021...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-3-dark.svg" | relative_url }}" alt="Access illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Physical Formats Still Matter
@@ -347,7 +337,6 @@ The rise of social media-driven discovery reinforced this pattern. Viral clips, 
 The move towards access did not eliminate demand for ownership. Instead, it changed the reasons people choose to own music.
 
 Physical formats increasingly serve purposes that streaming cannot fully replicate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,18 +348,15 @@ Physical formats increasingly serve purposes that streaming cannot fully replica
 
 </div>
 
-Industry data reflects this continuing role. While streaming dominates everyday consumption, physical music has remained resilient, particularly vinyl. Global physical-format revenues have continued to grow in recent years, with vinyl [recording]({{ 'recording/' | relative_url }}) nearly two decades of consecutive growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming was the key driver of growth, with an increase of 9.5%, whilst ad-suppor...</span></span></span>
+Industry data reflects this continuing role. While streaming dominates everyday consumption, physical music has remained resilient, particularly vinyl. Global physical-format revenues have continued to grow in recent years, with vinyl recording nearly two decades of consecutive growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming was the key driver of growth, with an increase of 9.5%, whilst ad-suppor...</span></span></span>
 
 The persistence of vinyl and the renewed interest in CDs suggest that ownership has not disappeared. Instead, ownership has become more selective. People increasingly stream for convenience and buy physical formats for meaning.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-KndtiBWEEA" title="I Begged My Cold Wife For A Divorce,Then She Became Obsessed With Me Overnight!（2）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-KndtiBWEEA" target="_blank" rel="noopener noreferrer">I Begged My Cold Wife For A Divorce,Then She Became Obsessed With Me Overnight!（2）</a></p><p class="youtube-embed-meta">Channel: King&#x27;s Manhwa Recap2</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-KndtiBWEEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-KndtiBWEEA">Open on YouTube</a></p></div></div></div>
 
 ## Access Changed the Default Choice
 
 The most significant change was not that ownership vanished, but that it stopped being the default way of engaging with recorded music.
 
-In the ownership era, listeners needed a reason not to buy music. In the streaming era, they need a reason to buy it. Access now satisfies most everyday listening needs at lower cost, with greater flexibility and far less effort. Research, revenue trends and consumer behaviour all point to the same conclusion: streaming succeeded because it made availability more valuable than possession for routine music consumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming was the key driver of growth, with an increase of 9.5%, whilst ad-suppor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Switching to Music Streaming Services: Understanding</span><span class="citation-popover-snippet">ResearchGateSwitching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">American Journal of Qualitative ResearchUnderstanding College Students&#x27; Music Listening Habits...by F Jia · 2025 · Cited by 1 — The resu...</span></span></span>
+In the ownership era, listeners needed a reason not to buy music. In the streaming era, they need a reason to buy it. Access now satisfies most everyday listening needs at lower cost, with greater flexibility and far less effort. Research, revenue trends and consumer behaviour all point to the same conclusion: streaming succeeded because it made availability more valuable than possession for routine music consumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming was the key driver of growth, with an increase of 9.5%, whilst ad-suppor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Switching to Music Streaming Services: Understanding</span><span class="citation-popover-snippet">Switching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">American Journal of Qualitative ResearchUnderstanding College Students&#x27; Music Listening Habits...by F Jia · 2025 · Cited by 1 — The resu...</span></span></span>
 
 Ownership remains important for collectors, devoted fans and those who value permanence. Yet for millions of listeners, the central question is no longer “Do I own this album?” but “Can I play it right now?” That shift from possession to availability is the core reason access changed music ownership habits.
 
@@ -491,15 +477,15 @@ Ownership remains important for collectors, devoted fans and those who value per
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Notes Wall Art Sticker, Decal living room UK SH94"><img src="{{ '/assets/images/marketplace-covers/7ebec7c59a68bb0ae3e8.jpg' | relative_url }}" alt="Listing image for Music Notes Wall Art Sticker, Decal living room UK SH94" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Record Collection Bundle Job Lot – Mystery Starter Pack BRAND NEW LPs"><img src="https://i.ebayimg.com/images/g/3pQAAOSw8LZnmQdg/s-l225.jpg" alt="Listing image for Vinyl Record Collection Bundle Job Lot – Mystery Starter Pack BRAND NEW LPs" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Music Notes Wall Art Sticker, Decal living room UK SH94</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer">Vinyl Record Collection Bundle Job Lot – Mystery Starter Pack BRAND NEW LPs</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +493,15 @@ Ownership remains important for collectors, devoted fans and those who value per
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches"><img src="{{ '/assets/images/marketplace-covers/7f34e612858ce96cd4e3.jpg' | relative_url }}" alt="Listing image for Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINYL RECORD JOB LOT AROUND 100 RECORDS MIXED GENRE."><img src="https://i.ebayimg.com/images/g/U2sAAeSwTVFqLB-6/s-l225.jpg" alt="Listing image for VINYL RECORD JOB LOT AROUND 100 RECORDS MIXED GENRE." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer">VINYL RECORD JOB LOT AROUND 100 RECORDS MIXED GENRE.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +509,15 @@ Ownership remains important for collectors, devoted fans and those who value per
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art"><img src="{{ '/assets/images/marketplace-covers/192d30de036d9d1ec182.jpg' | relative_url }}" alt="Listing image for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motown …Disco, Dance, , Soul, , 20 x 7 “ vinyl JOB LOT. Superb lot"><img src="https://i.ebayimg.com/images/g/oKUAAOSwLFtnPx29/s-l225.jpg" alt="Listing image for Motown …Disco, Dance, , Soul, , 20 x 7 “ vinyl JOB LOT. Superb lot" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer">Motown …Disco, Dance, , Soul, , 20 x 7 “ vinyl JOB LOT. Superb lot</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +525,15 @@ Ownership remains important for collectors, devoted fans and those who value per
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINYL RECORD JOB LOT 30KG AROUND 120 RECORDS MIXED GENRE WITH FREE SHIPPING"><img src="https://i.ebayimg.com/images/g/ulMAAOSwrUNm9D00/s-l225.jpg" alt="Listing image for VINYL RECORD JOB LOT 30KG AROUND 120 RECORDS MIXED GENRE WITH FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer">VINYL RECORD JOB LOT 30KG AROUND 120 RECORDS MIXED GENRE WITH FREE SHIPPING</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record lot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +541,7 @@ Ownership remains important for collectors, devoted fans and those who value per
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-when-access-became-more-useful-than-ownership-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="access-when-access-became-more-useful-than-ownership-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-access-became-more-useful-than-ownership-vinyl-record-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record lot" data-ebay-reference="when-access-became-more-useful-than-ownership-vinyl-record-lot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,135 +757,135 @@ Ownership remains important for collectors, devoted fans and those who value per
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Switching to Music Streaming Services: Understanding  
-   Link: [https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services](https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSwitching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394619315_Switching_to_Music_Streaming_Services_Understanding_College_Students%27_Music_Listening_Habits_on_Music_Streaming_Services</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Switching to Music Streaming Services: Understanding...August 1, 2025 — 19 Aug 2025 — The results showed that college studen...</p></details>
    Published: August 1, 2025  
 
 2. <a id="endnote-2"></a>
    Source: doras.dcu.ie  
    Title: DORASPsychological ownership and music streaming  
-   Link: [https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf](https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf)  
+   Link: <a href="https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 26, 2020 — by G Sinclair · 2016 · Cited by 355 — The aim of this study is to explore how motivations and antecedents of psychologi...</p></details>
    Published: August 26, 2020  
 
 3. <a id="endnote-3"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming was the key driver of growth, with an increase of 9.5%, whilst ad-suppor...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming was the key driver of growth, with an increase of 9.5%, whilst ad-suppor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: riaa.com  
    Title: Proportion of Total US Music Revenues From Streaming  
-   Link: [https://www.riaa.com/wp-content/uploads/2016/03/RIAA-2015-Year-End-shipments-memo.pdf](https://www.riaa.com/wp-content/uploads/2016/03/RIAA-2015-Year-End-shipments-memo.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAAProportion of Total US Music Revenues From StreamingMarch 22, 2016 — For the first time, streaming was the largest component of indus...</p></details>
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2016/03/RIAA-2015-Year-End-shipments-memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2016/03/RIAA-2015-Year-End-shipments-memo.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proportion of Total US Music Revenues From StreamingMarch 22, 2016 — For the first time, streaming was the largest component of indus...</p></details>
    Published: March 22, 2016  
 
 5. <a id="endnote-5"></a>
    Source: riaa.com  
    Title: RIAA 2024Year End Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA 2024 Year-End Revenue ReportStreaming continued to account for the vast majority of recorded music revenues in 2024. Paid subscripti...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms  
-   Link: [https://arxiv.org/abs/2109.03538](https://arxiv.org/abs/2109.03538)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTracing Affordance and Item Adoption on Music Streaming PlatformsSeptember 8, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03538</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing Affordance and Item Adoption on Music Streaming PlatformsSeptember 8, 2021...</p></details>
    Published: September 8, 2021  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2405.14999](https://arxiv.org/abs/2405.14999)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Impact of Social Media on Music Demand: Evidence from a Quasi-Natural ExperimentMay 23, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.14999" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.14999</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Social Media on Music Demand: Evidence from a Quasi-Natural ExperimentMay 23, 2024...</p></details>
    Published: May 23, 2024  
 
 8. <a id="endnote-8"></a>
    Source: riaa.com  
    Title: RIA A Reports: US Recorded Music Annual Revenue Achieves  
-   Link: [https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/](https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
 
 9. <a id="endnote-9"></a>
    Source: riaa.com  
    Title: 2025 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year-End Music Industry Revenue ReportThe RIAA released its 2025 Year-End Recorded Music Revenue Report, which reported that US whol...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/gold-platinum/](https://www.riaa.com/gold-platinum/)  
+   Link: <a href="https://www.riaa.com/gold-platinum/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Gold &amp; PlatinumRIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to hon...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/u-s-sales-database/](https://www.riaa.com/u-s-sales-database/)  
+   Link: <a href="https://www.riaa.com/u-s-sales-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/u-s-sales-database/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Music Revenue DatabaseOther Digital: Digital music licensing revenues from kiosks, music video downloads, digital jukeboxes, and embed...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/](https://www.riaa.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA: HomeSTREAMING ACCOUNTS FOR MORE THAN 80% OF U.S. MUSIC INDUSTRY REVENUES. ALL MUSIC FACTS · More Facts &amp; Research. Record Labels To...</p></details>
+   Link: <a href="https://www.riaa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeSTREAMING ACCOUNTS FOR MORE THAN 80% OF U.S. MUSIC INDUSTRY REVENUES. ALL MUSIC FACTS · More Facts &amp; Research. Record Labels To...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ajqr.org  
-   Link: [https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf](https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf)  
+   Link: <a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Journal of Qualitative ResearchUnderstanding College Students&#x27; Music Listening Habits...by F Jia · 2025 · Cited by 1 — The resu...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: mce.dataobservatory.eu  
-   Link: [https://mce.dataobservatory.eu/empirical.html](https://mce.dataobservatory.eu/empirical.html)  
+   Link: <a href="https://mce.dataobservatory.eu/empirical.html" target="_blank" rel="noopener noreferrer nofollow">https://mce.dataobservatory.eu/empirical.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Music Creator&#x27;s EarningsA research document provided for the Music Creators&#x27; Earnings Project commissioned by the UK Intellectual Prope...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: heise.de  
-   Link: [https://www.heise.de/en/news/IFPI-Global-music-market-grows-for-the-tenth-year-in-a-row-vinyl-for-18-years-10322972.html](https://www.heise.de/en/news/IFPI-Global-music-market-grows-for-the-tenth-year-in-a-row-vinyl-for-18-years-10322972.html)  
+   Link: <a href="https://www.heise.de/en/news/IFPI-Global-music-market-grows-for-the-tenth-year-in-a-row-vinyl-for-18-years-10322972.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heise.de/en/news/IFPI-Global-music-market-grows-for-the-tenth-year-in-a-row-vinyl-for-18-years-10322972.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: Global music market grows for the tenth year in a row...20 Mar 2025 — The global music industry has recorded its tenth consecutiv...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/](https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming accounted for 70% of global music income, with paid subscription streaming growing 8.8% to reach over 52% of total revenues and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: forbes.com  
    Title: music streaming subscriptions hit 46 million amid streaming boom riaa reports  
-   Link: [https://www.forbes.com/sites/kimberleespeakman/2021/09/13/music-streaming-subscriptions-hit-46-million-amid-streaming-boom-riaa-reports/](https://www.forbes.com/sites/kimberleespeakman/2021/09/13/music-streaming-subscriptions-hit-46-million-amid-streaming-boom-riaa-reports/)  
+   Link: <a href="https://www.forbes.com/sites/kimberleespeakman/2021/09/13/music-streaming-subscriptions-hit-46-million-amid-streaming-boom-riaa-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/kimberleespeakman/2021/09/13/music-streaming-subscriptions-hit-46-million-amid-streaming-boom-riaa-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Subscriptions Surpass 80 Million Amid...Sep 13, 2021 — A majority of music revenue over the past year came from streamin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wipo.int  
    Title: ifpi looks at a decade of digital transformation in the music industry 73661  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661](https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661)  
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — [IFPI data](&amp;#123;&amp;#123; &#x27;ifpi-data/&#x27; | relative_url &amp;#125;&amp;#125;) shows that music industry revenue has doubled to...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pitchfork.com  
    Title: streaming made up 80 of music industry revenue in 2019 riaa says  
-   Link: [https://pitchfork.com/news/streaming-made-up-80-of-music-industry-revenue-in-2019-riaa-says/](https://pitchfork.com/news/streaming-made-up-80-of-music-industry-revenue-in-2019-riaa-says/)  
+   Link: <a href="https://pitchfork.com/news/streaming-made-up-80-of-music-industry-revenue-in-2019-riaa-says/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-made-up-80-of-music-industry-revenue-in-2019-riaa-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Made Up 80% of Music Industry Revenue in...Feb 25, 2020 — Revenue as a whole jumped to $11.1 billion, with digital downloads...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/](https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/)  
+   Link: <a href="https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA 2025 Music Report: Revenue Tops $11.5B as...Mar 16, 2026 — Overall streaming revenue hit $9.47 billion, up 3.1% year-over-year...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theverge.com  
    Title: riaa music streaming revenue 100 million subscriptions  
-   Link: [https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions](https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions)  
+   Link: <a href="https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The increase in revenue, up by $0.5 billion from the previous year, was driven by various services such as paid subscriptions, ad-support...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musikindustrie.de  
    Title: Global Music Report 2024 State of the Industry Final  
-   Link: [https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf](https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf)  
+   Link: <a href="https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Music Report 2024 – State of the Industry21 Mar 2024 — Subscription streaming, performance [rights](&amp;#123;&amp;#123; &#x27;rights/&#x27; | relative_url &amp;#125;&amp;#125;), and physical formats like...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Recording Industry Association of America  
-   Link: [https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America](https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America)  
+   Link: <a href="https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recording Industry Association of AmericaThe Recording Industry Association of America (RIAA) is a trade organization representing the...</p></details>

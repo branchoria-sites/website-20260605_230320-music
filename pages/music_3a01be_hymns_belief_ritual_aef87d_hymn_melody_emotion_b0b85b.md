@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2
 - music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e
 tags:
-- music
+- music-3-a01-be
 - hymns
 - emotion
 keywords:
-- music
+- music-3-a01-be
 - hymns
 - emotion
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Hymn tunes can carry joy, grief, longing and hope in ways that deepen the meaning of the sung text.
 hero_summary: Hymn tunes can carry joy, grief, longing and hope in ways that deepen the meaning of the sung text.
 layout: default
 permalink: /emotion/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /hymns/
 nav_short_title: Emotion
 title: Why Hymn Tunes Say More Than Words
-title_full: Why Hymn Tunes Say More Than Words | Hymns
+title_full: Why Hymn Tunes Say More Than Words
 display_title_short: Emotion
 display_title: Emotion
 heading_title: Why Hymn Tunes Say More Than Words
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Hymns Turn Belief Into Sound | Music
+parent_title: How Hymns Turn Belief Into Sound
 parent_permalink: /hymns/
 parent_nav_short_title: Hymns
 parent_heading_title: How Hymns Turn Belief Into Sound
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Singing Hymns Together Feels So Powerful
 up_link:
   basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
@@ -259,7 +259,7 @@ next_link:
   permalink: /memory/
   short_title: Memory
   heading_title: How Hymns Help Belief Stay Remembered
-date: '2026-06-09 06:44:14 '
+date: '2026-06-11 23:23:35 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1.webp
@@ -268,49 +268,39 @@ image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotio
 
 ## Introduction
 
-Hymn melodies have a distinctive power to express emotions that seem to go beyond the literal meaning of the words they accompany. While the text of a hymn conveys theological content and doctrinal teaching, the tune itself plays a crucial role in shaping the emotional experience of worshippers. This emotional impact arises from specific musical mechanisms — such as melodic [contour]({{ 'contour/' | relative_url }}), [harmony]({{ 'harmony/' | relative_url }}), rhythm and tempo — that interact in predictable ways with human perception and cultural associations. Scholars in music psychology describe how these musical features can carry emotional “meaning” independently of the lyrics, influencing listeners’ feelings of joy, sorrow, longing or hope in ways that words alone cannot achieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
-
+Hymn melodies have a distinctive power to express emotions that seem to go beyond the literal meaning of the words they accompany. While the text of a hymn conveys theological content and doctrinal teaching, the tune itself plays a crucial role in shaping the emotional experience of worshippers. This emotional impact arises from specific musical mechanisms — such as melodic [contour]({{ 'contour/' | relative_url }}), [harmony]({{ 'harmony/' | relative_url }}), rhythm and tempo — that interact in predictable ways with human perception and cultural associations. Scholars in music psychology describe how these musical features can carry emotional “meaning” independently of the lyrics, influencing listeners’ feelings of joy, sorrow, longing or hope in ways that words alone cannot achieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-dark.svg" | relative_url }}" alt="Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Melody Shapes the Feeling of Belief
 
-The **melodic line** — the sequence of pitches that form the hymn’s tune — is one of the primary carriers of emotional expression. [Music]({{ 'music/' | relative_url }}) psychologists have long observed that certain melodic patterns are commonly associated with broad emotional characters. For example, rising scales and intervals often evoke feelings of anticipation or joy, while descending lines tend to suggest introspection or melancholy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Power of Melody and Harmony: How Music Evokes</span><span class="citation-popover-snippet">MediumThe Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
+The **melodic line** — the sequence of pitches that form the hymn’s tune — is one of the primary carriers of emotional expression. Music psychologists have long observed that certain melodic patterns are commonly associated with broad emotional characters. For example, rising scales and intervals often evoke feelings of anticipation or joy, while descending lines tend to suggest introspection or melancholy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Power of Melody and Harmony: How Music Evokes</span><span class="citation-popover-snippet">The Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
 
-Beyond these contour effects, formal research in musical emotion shows that humans are fairly consistent in perceiving emotional qualities in music. Studies asking listeners to rate pieces of music find broad agreement on whether music sounds happy, sad, tender or solemn, suggesting that [melody]({{ 'melody/' | relative_url }}) can reliably communicate specific emotional qualities even without [lyrics]({{ 'lyrics/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat does music express? Basic emotions and beyond</span><span class="citation-popover-snippet">PMCSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
+Beyond these contour effects, formal research in musical emotion shows that humans are fairly consistent in perceiving emotional qualities in music. Studies asking listeners to rate pieces of music find broad agreement on whether music sounds happy, sad, tender or solemn, suggesting that [melody]({{ 'melody/' | relative_url }}) can reliably communicate specific emotional qualities even without [lyrics]({{ 'lyrics/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat does music express? Basic emotions and beyond</span><span class="citation-popover-snippet">September 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
 
 In the context of hymnody, this means a hymn tune can *colour* the text’s meaning through its melodic shape. A hymn about lament and grief may be set to a melody with stepwise, lower-range movement and longer, sustained notes, which naturally slow the pace and invite somber reflection. Conversely, [hymns]({{ 'hymns/' | relative_url }}) of praise often use broader melodic leaps and higher pitches that feel uplifting. While these associations are not universal in every detail, they tap into widely documented psychological responses to pitch and melodic contour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Power of HymnsMusic can also bring a sense of unity and togetherness among worshipers by synchronizing their voices, movements, emoti...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xugt0hF6CNs" title="What is MELODY and HARMONY in music?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xugt0hF6CNs" target="_blank" rel="noopener noreferrer">What is MELODY and HARMONY in music?</a></p><p class="youtube-embed-meta">Channel: Melo Dojo &middot; Views: 245.4K &middot; Uploaded: June 2020 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xugt0hF6CNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xugt0hF6CNs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-dark.svg" | relative_url }}" alt="Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Harmony and Rhythm Matter in Worship
 
 Melody does not act alone. **Harmony** — the chordal underpinning of a tune — enriches and intensifies emotional expression by providing a tonal context that supports the melody’s affective direction. Western harmony functions through progressions of chords that can suggest stability, tension, resolution, or unrest. A progression in a major key, for instance, commonly evokes warmth or brightness, whereas minor harmonies can suggest gravity or introspection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicstudio.ca">[The Music Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicstudio.ca</span><span class="citation-popover-snippet">The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</span></span></span>
 
 This interaction between melody and harmony is central in hymns, which traditionally employ four‑part harmonised settings designed for congregational singing. The harmony broadens the emotional landscape of a simple tune and reinforces the listener’s sense of fullness and communal participation. Together with [rhythm]({{ 'rhythm/' | relative_url }}) and tempo — the speed and regularity of the beats — harmony helps shape emotional pacing: a slow, steady tempo invites contemplation, while a quicker pace can convey energetic devotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicstudio.ca">[The Music Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicstudio.ca</span><span class="citation-popover-snippet">The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</span></span></span>
 
-Music psychologists also distinguish between *expressed* emotion (what the music sounds like objectively expresses) and *felt* emotion (what the listener personally experiences), and research shows that these two can align strongly when melody and harmony are carefully balanced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDecember 17, 2013...</span><span class="citation-popover-meta">Published: December 17, 2013</span></span></span>
+Music psychologists also distinguish between *expressed* emotion (what the music sounds like objectively expresses) and *felt* emotion (what the listener personally experiences), and research shows that these two can align strongly when melody and harmony are carefully balanced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 17, 2013...</span><span class="citation-popover-meta">Published: December 17, 2013</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xugt0hF6CNs" title="What is MELODY and HARMONY in music?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xugt0hF6CNs" target="_blank" rel="noopener noreferrer">What is MELODY and HARMONY in music?</a></p><p class="youtube-embed-meta">Channel: Melo Dojo &middot; Views: 245.4K &middot; Uploaded: June 2020 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xugt0hF6CNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xugt0hF6CNs">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g_nKpiHWcC0" title="How Music Moves Us | Anna Kasdan | TEDxBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g_nKpiHWcC0" target="_blank" rel="noopener noreferrer">How Music Moves Us | Anna Kasdan | TEDxBU</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g_nKpiHWcC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g_nKpiHWcC0">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-dark.svg" | relative_url }}" alt="Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Emotion Helps Hymns Become Meaningful Rituals
 
-The emotional character of a hymn tune contributes directly to its [ritual]({{ 'ritual/' | relative_url }}) significance in worship. In many Christian traditions, hymns are chosen not just for their doctrinal content but for their capacity to evoke appropriate affective states — calm praise, penitential sorrow, triumphant assurance or hopeful longing — at particular points in a service. The emotional force of the melody helps prepare the congregation’s hearts and minds for prayer or reflection in ways that speech alone often cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">TidingsUnderstanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
+The emotional character of a hymn tune contributes directly to its [ritual]({{ 'ritual/' | relative_url }}) significance in worship. In many Christian traditions, hymns are chosen not just for their doctrinal content but for their capacity to evoke appropriate affective states — calm praise, penitential sorrow, triumphant assurance or hopeful longing — at particular points in a service. The emotional force of the melody helps prepare the congregation’s hearts and minds for prayer or reflection in ways that speech alone often cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
 
 Historically, the pairing of text and tune has been viewed by hymn editors as an interpretive act: editors seek melodies that not only fit the meter of the words but also **enhance the text’s expressive intent**, aligning musical peaks with key moments of theological emphasis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hymn_tune" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hymn tune</span><span class="citation-popover-snippet">Hymn tune</span></span></span> This deliberate matching underscores how much composers and editors have long recognised the emotional power of melody and harmony as essential to the worship experience.
 
-In practice, when congregations sing familiar tunes with emotional contours that reinforce the lyrics’ message, the music becomes more than an aesthetic choice — it becomes a lived expression of belief. The melody carries the emotional weight of the words into the bodies and hearts of worshippers, allowing communal singing to anchor faith in both mind and feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">TidingsUnderstanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
+In practice, when congregations sing familiar tunes with emotional contours that reinforce the lyrics’ message, the music becomes more than an aesthetic choice — it becomes a lived expression of belief. The melody carries the emotional weight of the words into the bodies and hearts of worshippers, allowing communal singing to anchor faith in both mind and feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
 
-Through these mechanisms — melodic contour, harmonic context, rhythmic pacing and cultural familiarity — hymn tunes do indeed say more than words alone, making them central to how believers experience and express religious emotions within ritual settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
+Through these mechanisms — melodic contour, harmonic context, rhythmic pacing and cultural familiarity — hymn tunes do indeed say more than words alone, making them central to how believers experience and express religious emotions within ritual settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -709,104 +699,104 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
 1. <a id="endnote-1"></a>
    Source: medium.com  
    Title: The Power of Melody and Harmony: How Music Evokes  
-   Link: [https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3](https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumThe Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</p></details>
+   Link: <a href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</p></details>
    Published: March 20, 2024  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat does music express? Basic emotions and beyond  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSeptember 6, 2013...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 6, 2013...</p></details>
    Published: September 6, 2013  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 17, 2013...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2013...</p></details>
    Published: December 17, 2013  
 
 4. <a id="endnote-4"></a>
    Source: tidings.org  
    Title: Understanding and Emotion in Our Songs of Worship  
-   Link: [https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/](https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TidingsUnderstanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</p></details>
+   Link: <a href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow">https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</p></details>
    Published: October 25, 2020  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Hymn tune  
-   Link: [https://en.wikipedia.org/wiki/Hymn_tune](https://en.wikipedia.org/wiki/Hymn_tune)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hymn_tune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hymn_tune</a>  
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14](https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14)  
+   Link: <a href="https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of HymnsMusic can also bring a sense of unity and togetherness among worshipers by synchronizing their voices, movements, emoti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | What does music express? Basic emotions and beyondSeptember 6, 2013...</p></details>
    Published: September 6, 2013  
 
 8. <a id="endnote-8"></a>
    Source: themusicstudio.ca  
-   Link: [https://themusicstudio.ca/melody-and-harmony/](https://themusicstudio.ca/melody-and-harmony/)  
+   Link: <a href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow">https://themusicstudio.ca/melody-and-harmony/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: ibelieve.com  
-   Link: [https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html](https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html)  
+   Link: <a href="https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Hymns with Messages for Christians in Times of CrisisHere are 10 hymns that will inspire, encourage, and challenge you during these st...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027716301366](https://www.sciencedirect.com/science/article/pii/S0010027716301366)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSeptember 1, 2016 — COGNITION Volume 154, September 2016, Pages 174-181 Original Articles The source dilemma hypothesis: Per...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027716301366" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027716301366</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2016 — COGNITION Volume 154, September 2016, Pages 174-181 Original Articles The source dilemma hypothesis: Per...</p></details>
    Published: September 1, 2016  
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In his essay “On the Origin and Function of Music,” Herbert Spen  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vocal basis for the affective character of musical mode in melody - PMCJuly 31, 2013 — A VOCAL BASIS FOR THE AFFECTIVE CHARACTER OF MUSIC...</p></details>
    Published: July 31, 2013  
 
 12. <a id="endnote-12"></a>
    Source: research.ed.ac.uk  
    Title: metrical psalm singing and emotion in scottish protestant affecti  
-   Link: [https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti](https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti)  
+   Link: <a href="https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>psalm-singing and emotion in Scottish Protestant affective piety, 1560-1650 - University of Edinburgh Research ExplorerMay 21, 2021 — MET...</p></details>
    Published: May 21, 2021  
 
 14. <a id="endnote-14"></a>
    Source: scholars.northwestern.edu  
    Title: emotional ornamentation in performances of a handel sonata  
-   Link: [https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata](https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata)  
+   Link: <a href="https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata" target="_blank" rel="noopener noreferrer nofollow">https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ornamentation in performances of a Handel sonata - Northwestern ScholarsEMOTIONAL ORNAMENTATION IN PERFORMANCES OF A HANDEL SONATA Renee...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: academic.oup.com  
    Title: Expand Front Matter 2. 1 How do people communicate us  
-   Link: [https://academic.oup.com/view-large/321111487](https://academic.oup.com/view-large/321111487)  
+   Link: <a href="https://academic.oup.com/view-large/321111487" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/view-large/321111487</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mimesis to catharsis: expression, perception, and induction of emotion in music | Musical Communication | Oxford AcademicJuly 14, 2005 —...</p></details>
    Published: July 14, 2005  
 
 16. <a id="endnote-16"></a>
    Source: goodfaithmedia.org  
    Title: music matters embracing emotion in worship music  
-   Link: [https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/](https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/)  
+   Link: <a href="https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/" target="_blank" rel="noopener noreferrer nofollow">https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Matters | Embracing Emotion in Worship Music5 Feb 2020 — Musical meaning is often constructed around – and uses the material of – i...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchconnect.suny.edu  
    Title: final ritardandi and the expression of musical emotion  
-   Link: [https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/](https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/)  
+   Link: <a href="https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman * Psychology University at Albany Research output: Contribution to journal › Article › peer-review 2 Scopus citations...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18729581/](https://pubmed.ncbi.nlm.nih.gov/18729581/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18729581/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18729581/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2008 Aug;8(4):494-521. doi: 10.1037/1528-3542.8.4.494. EMOTIONS EVOKED BY THE SOUND OF MUSIC: CHARACTERIZATION, CLASSIFICATION, AND MEASU...</p></details>

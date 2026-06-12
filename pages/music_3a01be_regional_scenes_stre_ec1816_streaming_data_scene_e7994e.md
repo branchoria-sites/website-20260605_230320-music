@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8
 - music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a
 tags:
-- music
+- music-3-a01-be
 - regional-scenes
 - data-proof
 keywords:
-- music
+- music-3-a01-be
 - regional-scenes
 - data-proof
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming counts, city-level listening and royalty data can help regional scenes persuade labels, promoters and collaborators that demand exists.
 hero_summary: Streaming counts, city-level listening and royalty data can help regional scenes persuade labels, promoters and collaborators that demand exists.
 layout: default
 permalink: /data-proof/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /regional-scenes/
 nav_short_title: Data Proof
 title: When Streams Become Proof Of A Scene
-title_full: When Streams Become Proof Of A Scene | Regional Scenes
+title_full: When Streams Become Proof Of A Scene
 display_title_short: Data Proof
 display_title: Data Proof
 heading_title: When Streams Become Proof Of A Scene
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Local Sounds Become Global | Music
+parent_title: How Local Sounds Become Global
 parent_permalink: /regional-scenes/
 parent_nav_short_title: Regional Scenes
 parent_heading_title: How Local Sounds Become Global
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Regional Mexican Music Crossed Borders Online
 up_link:
   basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -265,7 +265,7 @@ next_link:
   permalink: /playlist-gate/
   short_title: Playlist Gate
   heading_title: The New Border Is Platform Visibility
-date: '2026-06-09 07:47:04 '
+date: '2026-06-11 23:55:03 '
 header:
   og_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_sc
 
 ## Introduction
 
-Streaming platforms have changed more than [music]({{ 'music/' | relative_url }}) distribution. They have created a new form of evidence. For regional music scenes trying to attract label investment, festival bookings, media [attention]({{ 'attention/' | relative_url }}) or international collaborators, listening data can now function as proof that an audience exists. Instead of relying solely on local reputation, radio support or anecdotal buzz, artists and scene organisers can point to measurable patterns: streams, listener locations, playlist additions, audience growth and royalty flows. These metrics help transform a local cultural movement into something that looks legible to investors and gatekeepers. At the same time, the power of data introduces governance questions about who controls measurement, which signals count as success, and what forms of cultural value remain invisible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>
-
+Streaming platforms have changed more than music distribution. They have created a new form of evidence. For regional music scenes trying to attract label investment, festival bookings, media [attention]({{ 'attention/' | relative_url }}) or international collaborators, listening data can now function as proof that an audience exists. Instead of relying solely on local reputation, radio support or anecdotal buzz, artists and scene organisers can point to measurable patterns: streams, listener locations, playlist additions, audience growth and royalty flows. These metrics help transform a local cultural movement into something that looks legible to investors and gatekeepers. At the same time, the power of data introduces governance questions about who controls measurement, which signals count as success, and what forms of cultural value remain invisible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-dark.svg" | relative_url }}" alt="Data Proof illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Streaming Data Can Prove
@@ -289,7 +288,7 @@ Streaming platforms and music analytics services can reveal: <span class="citati
 * How much listening comes from outside the scene's home region.
 * Which songs trigger international discovery.
 * Whether listeners save tracks, revisit artists and engage repeatedly.
-* Where [royalties]({{ 'royalties/' | relative_url }}) are actually being generated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">OrphiqSpotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-snippet">SoundchartsSpotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</span></span></span> For a promoter considering a first booking, city-level concentration can matter more than national popularity. A regional scene from one country may discover unexpectedly strong audiences in London, Paris, Toronto or Mexico City. Those patterns become evidence that travel, marketing and venue investment might be justified. Analytics platforms such as Chartmetric and Soundcharts were built partly around this need to translate audience geography into actionable business intelligence. How Music [Charts]({{ 'charts/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water and Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-title">how the touring industry will use data in 2021 even in a pandemic</span><span class="citation-popover-snippet">Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</span></span></span>
+* Where [royalties]({{ 'royalties/' | relative_url }}) are actually being generated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-snippet">Spotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</span></span></span> For a promoter considering a first booking, city-level concentration can matter more than national popularity. A regional scene from one country may discover unexpectedly strong audiences in London, Paris, Toronto or Mexico City. Those patterns become evidence that travel, marketing and venue investment might be justified. Analytics platforms such as Chartmetric and Soundcharts were built partly around this need to translate audience geography into actionable business intelligence. How Music [Charts]({{ 'charts/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water and Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-title">how the touring industry will use data in 2021 even in a pandemic</span><span class="citation-popover-snippet">Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</span></span></span>
 
 Royalty data adds another layer of proof. Spotify's Loud & Clear reporting has repeatedly shown that international listening is increasingly important to [artist income]({{ 'artist-income/' | relative_url }}). By 2026, Spotify reported that artists on average received more than half of their royalties from outside their home country only two years after debuting. This matters because it demonstrates that streaming demand is not merely symbolic attention; it can generate measurable economic activity across borders. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</span></span></span>
 
@@ -308,7 +307,6 @@ For example, a cluster of growing listeners across multiple cities may suggest t
 Promoters often compare streaming locations with venue capacity, ticket history and social engagement. A city showing strong streaming numbers may justify a trial booking, support slot or festival invitation. Tour planners increasingly use streaming geography to decide routing, venue size and local partnerships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
 
 This does not mean streams automatically translate into ticket sales. Industry analytics guides consistently warn that streaming data is only one input among many. Experienced promoters cross-reference listening patterns with local fan activity, historical attendance and community engagement before committing resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-2-dark.svg" | relative_url }}" alt="Data Proof illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When Regional Scenes Become Export Markets
@@ -329,8 +327,7 @@ A regional scene can use streaming evidence to demonstrate:
 
 **Sustained momentum.** Growth over months or years is more persuasive than a brief viral spike.
 
-**Economic significance.** Royalty flows provide evidence that attention is creating financial value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">OrphiqSpotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Spotify This kind of evidence is particularly useful when scenes seek festival representation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[artists.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>, cultural funding, export support programmes or international partnerships. Numbers help convert cultural claims into arguments that institutions recognise.
-
+**Economic significance.** Royalty flows provide evidence that attention is creating financial value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Spotify This kind of evidence is particularly useful when scenes seek festival representation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[artists.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>, cultural funding, export support programmes or international partnerships. Numbers help convert cultural claims into arguments that institutions recognise.
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-3-dark.svg" | relative_url }}" alt="Data Proof illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Data Can Misrepresent Real Cultural Value
@@ -343,13 +340,13 @@ A stream measures a listening event, not cultural commitment. A city with high s
 
 ### Platform Metrics Reflect Platform Priorities
 
-Streaming data is created inside systems designed by private companies. Platforms decide which metrics are visible, how listeners are counted and which forms of engagement receive emphasis. Researchers have long noted that artist-facing analytics encourage musicians to view audiences through measurable indicators, potentially narrowing definitions of success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Data Matters</span><span class="citation-popover-snippet">2017)May 2, 2017 — 5 May 2017 — PDF | On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) | Find...</span><span class="citation-popover-meta">Published: May 2, 2017</span></span></span>
+Streaming data is created inside systems designed by private companies. Platforms decide which metrics are visible, how listeners are counted and which forms of engagement receive emphasis. Researchers have long noted that artist-facing analytics encourage musicians to view audiences through measurable indicators, potentially narrowing definitions of success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Data Matters</span><span class="citation-popover-snippet">2017)May 2, 2017 — 5 May 2017 — PDF &#124; On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) &#124; Find...</span><span class="citation-popover-meta">Published: May 2, 2017</span></span></span>
 
 A regional scene may therefore optimise for what platforms can count rather than what local [culture]({{ 'culture/' | relative_url }}) values. Community influence, artistic innovation, [grassroots]({{ 'grassroots/' | relative_url }}) mentorship and local identity often resist simple quantification.
 
 ### Economic Transparency Has Limits
 
-Royalty statistics provide useful evidence of international demand, but they do not necessarily reveal how revenue is distributed after labels, distributors, publishers and other rights holders receive their shares. Critics of streaming economics argue that platform-level transparency can obscure continuing inequalities within the wider music industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spotify is trumpeting big paydays for artists</span><span class="citation-popover-snippet">The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</span></span></span>, strong streaming data should not automatically be interpreted as proof that a scene is financially healthy or that most participants are benefiting equally.
+Royalty statistics provide useful evidence of international demand, but they do not necessarily reveal how revenue is distributed after labels, distributors, publishers and other [rights]({{ 'rights/' | relative_url }}) holders receive their shares. Critics of streaming economics argue that platform-level transparency can obscure continuing inequalities within the wider music industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spotify is trumpeting big paydays for artists</span><span class="citation-popover-snippet">The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</span></span></span>, strong streaming data should not automatically be interpreted as proof that a scene is financially healthy or that most participants are benefiting equally.
 
 ## Why Data Proof Matters
 
@@ -752,131 +749,131 @@ Streaming has given regional scenes a language that powerful institutions alread
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
    Title: how to read your spotify for artists data  
-   Link: [https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data](https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data)  
+   Link: <a href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: orphiq.com  
    Title: spotify for artists listener locations  
-   Link: [https://orphiq.com/resources/spotify-for-artists-listener-locations](https://orphiq.com/resources/spotify-for-artists-listener-locations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqSpotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</p></details>
+   Link: <a href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-for-artists-listener-locations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: soundcharts.com  
-   Link: [https://soundcharts.com/en/spotify-analytics](https://soundcharts.com/en/spotify-analytics)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SoundchartsSpotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</p></details>
+   Link: <a href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/spotify-analytics</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: chartmetric.com  
-   Link: [https://chartmetric.com/](https://chartmetric.com/)  
+   Link: <a href="https://chartmetric.com/" target="_blank" rel="noopener noreferrer nofollow">https://chartmetric.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Track listener age distributions, geographic...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hmc.chartmetric.com  
    Title: how to plan a tour using streaming data part 3  
-   Link: [https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/](https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/)  
+   Link: <a href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</p></details>
    Published: April 16, 2020  
 
 6. <a id="endnote-6"></a>
    Source: newsroom.spotify.com  
    Title: As Spotify Turns 20, the Most Global and Diverse Music  
-   Link: [https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/](https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/)  
+   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On average, artists see more than half of their royalties coming from outside their home country...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: artists.popfiltr.com  
    Title: Pop Filtr for Artists Chartmetric  
-   Link: [https://artists.popfiltr.com/resources/chartmetric](https://artists.popfiltr.com/resources/chartmetric)  
+   Link: <a href="https://artists.popfiltr.com/resources/chartmetric" target="_blank" rel="noopener noreferrer nofollow">https://artists.popfiltr.com/resources/chartmetric</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PopFiltr for ArtistsChartmetric - Empowering Artists with Data26 Jun 2024 — Chartmetric empowers artists with the data-driven insights th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reports.chartmetric.com  
    Title: trigger cities  
-   Link: [https://reports.chartmetric.com/trigger-cities/2024](https://reports.chartmetric.com/trigger-cities/2024)  
+   Link: <a href="https://reports.chartmetric.com/trigger-cities/2024" target="_blank" rel="noopener noreferrer nofollow">https://reports.chartmetric.com/trigger-cities/2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chartmetric ReportsChartmetric Trigger Cities 2024Explore Chartmetric&#x27;s trigger cities and learn how emerging artists and A&amp;R executives...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hmc.chartmetric.com  
    Title: how to route a tour using streaming data part 1 tour planning series  
-   Link: [https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/](https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/)  
+   Link: <a href="https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsHow to Route a Tour Using Streaming Data: Part 1March 19, 2020 — 19 Mar 2020 — Streaming and social data will only help y...</p></details>
    Published: March 19, 2020  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Data Matters  
-   Link: [https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017](https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017)  
+   Link: <a href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017)May 2, 2017 — 5 May 2017 — PDF | On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) | Find...</p></details>
    Published: May 2, 2017  
 
 11. <a id="endnote-11"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative](https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative)  
+   Link: <a href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: waterandmusic.com  
    Title: how the touring industry will use data in 2021 even in a pandemic  
-   Link: [https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/](https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/)  
+   Link: <a href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/](https://loudandclear.byspotify.com/)  
+   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Spotify is trumpeting big paydays for artists  
-   Link: [https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report](https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report)  
+   Link: <a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM](https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInSpotify Loud &amp; Clear Report: Artist Royalties and Earningsmore than 13,800 artists generated over $100K artists at all levels now...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud &amp; Clear Report: Artist Royalties and Earningsmore than 13,800 artists generated over $100K artists at all levels now...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicradar.com  
    Title: Music Radar"Spotify is the highest-paying retailer globally  
-   Link: [https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report](https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report)  
+   Link: <a href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: midiaresearch.com  
    Title: spotifys loud and clear is about fandom not royalties  
-   Link: [https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties](https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties)  
+   Link: <a href="https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchSpotify&#x27;s Loud and Clear is about fandom, not royalties24 Mar 2022 — Spotify has updated its Loud &amp; Clear website exploring...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: How Labels Use Streaming Data to Find New Talent  
-   Link: [https://www.youtube.com/watch?v=J32R2m195pU](https://www.youtube.com/watch?v=J32R2m195pU)  
+   Link: <a href="https://www.youtube.com/watch?v=J32R2m195pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J32R2m195pU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turning Music Trends Into Business Decisions...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Making Sense of Spotify for Artists Data  
-   Link: [https://www.youtube.com/watch?v=QpT6a02iT1w](https://www.youtube.com/watch?v=QpT6a02iT1w)  
+   Link: <a href="https://www.youtube.com/watch?v=QpT6a02iT1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpT6a02iT1w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Labels Use Streaming Data to Find New Talent...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Using Data to Build Your Music Career  
-   Link: [https://www.youtube.com/watch?v=kY05G8eD-mI](https://www.youtube.com/watch?v=kY05G8eD-mI)  
+   Link: <a href="https://www.youtube.com/watch?v=kY05G8eD-mI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY05G8eD-mI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Making Sense of Spotify for Artists Data...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How Music Analytics Tools Are Changing the Industry  
-   Link: [https://www.youtube.com/watch?v=Fj-yO2G_d0s](https://www.youtube.com/watch?v=Fj-yO2G_d0s)  
+   Link: <a href="https://www.youtube.com/watch?v=Fj-yO2G_d0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj-yO2G_d0s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data to Build Your Music Career...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Turning Music Trends Into Business Decisions  
-   Link: [https://www.youtube.com/watch?v=H74t4PqT59o](https://www.youtube.com/watch?v=H74t4PqT59o)  
+   Link: <a href="https://www.youtube.com/watch?v=H74t4PqT59o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H74t4PqT59o</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_streaming_listening_72e5f3_playlists_replaced_a_41e543
 - music_3a01be_streaming_listening_72e5f3_streaming_revenue_ha_aa040a
 tags:
-- music
+- music-3-a01-be
 - streaming
 - background
 keywords:
-- music
+- music-3-a01-be
 - streaming
 - background
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming made music easier to weave through ordinary routines as atmosphere, company, motivation and emotional regulation.
 hero_summary: Streaming made music easier to weave through ordinary routines as atmosphere, company, motivation and emotional regulation.
 layout: default
 permalink: /background/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /streaming/
 nav_short_title: Background
 title: Why Music Now Follows US Everywhere
-title_full: Why Music Now Follows US Everywhere | Streaming
+title_full: Why Music Now Follows US Everywhere
 display_title_short: Background
 display_title: Background
 heading_title: Why Music Now Follows US Everywhere
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Streaming Changed Listening Habits | Music
+parent_title: How Streaming Changed Listening Habits
 parent_permalink: /streaming/
 parent_nav_short_title: Streaming
 parent_heading_title: How Streaming Changed Listening Habits
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What the Money Says About Streaming
 up_link:
   basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
@@ -265,7 +265,7 @@ next_link:
   permalink: /playlists-55b3d3/
   short_title: Playlists
   heading_title: Why Playlists Became the New Album
-date: '2026-06-09 07:08:26 '
+date: '2026-06-11 23:35:36 '
 header:
   og_image: /assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1.webp
@@ -274,20 +274,16 @@ image: /assets/images/music_3a01be_streaming_listening_72e5f3_background_music_u
 
 ## Introduction
 
-Streaming did more than make [music]({{ 'music/' | relative_url }}) easier to find. It changed the role music plays in daily life. Instead of being an activity that often required deliberate [attention]({{ 'attention/' | relative_url }})—putting on a record, choosing a CD, loading a playlist onto a device—music became a service that can accompany almost any moment. Through smartphones, smart speakers, laptops, televisions, headphones and connected cars, music is now available continuously and with minimal effort. As a result, many listening sessions happen while people are working, exercising, commuting, cooking, cleaning, studying or relaxing rather than sitting down specifically to listen. Researchers have argued that streaming platforms have accelerated the shift of music towards a background or secondary activity, while industry and audience studies show that listeners increasingly use music to shape moods, routines and environments throughout the day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">ResearchGateMusic Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
-
+Streaming did more than make music easier to find. It changed the role music plays in daily life. Instead of being an activity that often required deliberate [attention]({{ 'attention/' | relative_url }})—putting on a record, choosing a CD, loading a playlist onto a device—music became a service that can accompany almost any moment. Through smartphones, smart speakers, laptops, televisions, headphones and connected cars, music is now available continuously and with minimal effort. As a result, many listening sessions happen while people are working, exercising, commuting, cooking, cleaning, studying or relaxing rather than sitting down specifically to listen. Researchers have argued that streaming platforms have accelerated the shift of music towards a background or secondary activity, while industry and audience studies show that listeners increasingly use music to shape moods, routines and environments throughout the day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-dark.svg" | relative_url }}" alt="Background illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Continuous Listening Across Devices
 
 One reason streaming turned music into a background utility is that it removed the practical boundaries that once separated listening occasions. A listener no longer needs to decide in advance what music to carry or where to play it. The same account follows them from phone to car, from office desk to kitchen speaker, and from headphones during a commute to a television or smart speaker at home. Cross-device playback and synchronisation features reinforce the sense that music is a continuous service rather than a discrete event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">With version 8.26.51 of the app, users can now resume listening on a different device without starting over, similar to a feature Spotify...</span></span></span>
 
-This availability changes behaviour. Earlier forms of music consumption often involved a beginning and an end: selecting a record, changing a disc or managing a library. Streaming systems encourage uninterrupted listening through [autoplay]({{ 'autoplay/' | relative_url }}), personalised queues, recommendations and algorithmic mixes. Music can continue indefinitely unless the listener actively stops it. Researchers studying streaming have described this as a key mechanism behind the growth of background listening, because the platforms make it easy for music to accompany other activities rather than demand exclusive attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">ResearchGateMusic Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
+This availability changes behaviour. Earlier forms of music consumption often involved a beginning and an end: selecting a record, changing a disc or managing a library. Streaming systems encourage uninterrupted listening through [autoplay]({{ 'autoplay/' | relative_url }}), personalised queues, recommendations and algorithmic mixes. Music can continue indefinitely unless the listener actively stops it. Researchers studying streaming have described this as a key mechanism behind the growth of background listening, because the platforms make it easy for music to accompany other activities rather than demand exclusive attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
 
 The growth of connected listening environments has reinforced this pattern. Ofcom's UK audio research shows that streamed music is increasingly integrated into everyday audio habits, including listening in cars and through smart speakers. Music is no longer tied to a single location or device; it travels with the listener through the day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">audio report 2026</span><span class="citation-popover-snippet">Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u_riK8SuNVg" title="Background Music Too Loud | Knowledge Network" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u_riK8SuNVg" target="_blank" rel="noopener noreferrer">Background Music Too Loud | Knowledge Network</a></p><p class="youtube-embed-meta">Channel: Knowledge Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u_riK8SuNVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u_riK8SuNVg">Open on YouTube</a></p></div></div></div>
 
 ## Music for Focus, Sleep, Exercise and Chores
 
@@ -306,32 +302,24 @@ Concrete examples are easy to see:
 
 In these cases, music functions less as the central object of attention and more as an environmental tool that helps shape behaviour, mood or productivity.
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-2-dark.svg" | relative_url }}" alt="Background illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Playlists Became More Important Than Albums
 
 The rise of background utility is closely linked to the rise of playlists. Albums traditionally asked listeners to enter an artist's world for a fixed period of time. Playlists, especially activity-based playlists, ask a different question: what kind of atmosphere does the listener need?
 
-Industry analysis has documented the growing importance of playlists in streaming [culture]({{ 'culture/' | relative_url }}). Platform-generated playlists often become major routes to discovery, and research suggests that streaming listeners are frequently guided towards curated or algorithmic collections rather than individual albums. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span>
+Industry analysis has documented the growing importance of playlists in streaming [culture]({{ 'culture/' | relative_url }}). Platform-generated playlists often become major routes to discovery, and research suggests that streaming listeners are frequently guided towards curated or algorithmic collections rather than individual albums. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span>
 
-For background listening, playlists have a practical advantage. They can run for hours, adapt to changing moods and provide consistency across activities. A listener working for an afternoon may prefer a six-hour focus playlist to a sequence of unrelated albums requiring repeated decisions. The playlist becomes a service layer that reduces effort and keeps attention on the primary task rather than on the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">ResearchGateMusic Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
+For background listening, playlists have a practical advantage. They can run for hours, adapt to changing moods and provide consistency across activities. A listener working for an afternoon may prefer a six-hour focus playlist to a sequence of unrelated albums requiring repeated decisions. The playlist becomes a service layer that reduces effort and keeps attention on the primary task rather than on the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
 
 This helps explain why many streaming experiences are organised around categories such as "chill", "focus" or "workout". The value being offered is not simply [access]({{ 'access/' | relative_url }}) to songs but the creation of a desired environment.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D-h_OHhtvPU" title="The Death of Music Genres" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D-h_OHhtvPU" target="_blank" rel="noopener noreferrer">The Death of Music Genres</a></p><p class="youtube-embed-meta">Channel: Rick Beato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D-h_OHhtvPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D-h_OHhtvPU">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PuF6BSFJ-D8" title="Warren Zeiders - You For A Reason (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PuF6BSFJ-D8" target="_blank" rel="noopener noreferrer">Warren Zeiders - You For A Reason (Official Music Video)</a></p><p class="youtube-embed-meta">Channel: Warren Zeiders</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PuF6BSFJ-D8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PuF6BSFJ-D8">Open on YouTube</a></p></div></div></div>
 
 ## The Trade-Off Between Atmosphere and Attention
 
 The transformation of music into a background utility has clear benefits. Listeners can tailor their environments, regulate emotions, reduce boredom during repetitive tasks and bring music into more moments of daily life. Streaming gives people unprecedented control over when, where and how music is used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">American Journal of Qualitative ResearchSwitching to Music Streaming Services: Understanding College...The results showed that college s...</span></span></span>
 
-At the same time, critics argue that convenience can come at the cost of attention. If music is mainly consumed as atmosphere, listeners may spend less time engaging deeply with albums, artists or musical details. Some researchers and commentators suggest that streaming's emphasis on passive, "lean-back" listening encourages music to blend into the background rather than command focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">ResearchGateMusic Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgeratings.com">[Bridge Ratings Media Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgeratings.com</span><span class="citation-popover-snippet">Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</span><span class="citation-popover-meta">Published: March 9, 2025</span></span></span>
+At the same time, critics argue that convenience can come at the cost of attention. If music is mainly consumed as atmosphere, listeners may spend less time engaging deeply with albums, artists or musical details. Some researchers and commentators suggest that streaming's emphasis on passive, "lean-back" listening encourages music to blend into the background rather than command focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgeratings.com">[Bridge Ratings Media Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgeratings.com</span><span class="citation-popover-snippet">Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</span><span class="citation-popover-meta">Published: March 9, 2025</span></span></span>
 
-This tension appears in the design of many streaming platforms. Features such as autoplay, personalised mixes and endless recommendations maximise continuity, but they can also reduce moments of deliberate choice. Music becomes easier to live with, yet potentially easier to ignore. The listener receives a constant soundtrack, while individual songs and artists may receive less sustained attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">ResearchGateMusic Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span> The result is not that attentive listening has disappeared. People still gather around major releases, favourite artists and meaningful albums. However, streaming has expanded another mode of listening: music as infrastructure. Like lighting, heating or internet access, it is increasingly expected to be available whenever needed. What changed was not only access to songs but the integration of music into the ordinary flow of everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Audio listening in the UK</span><span class="citation-popover-snippet">listening in the UK - 202416 Apr 2024 — Listening to music through a streaming service and listening to live radio are the most common ac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">audio report 2026</span><span class="citation-popover-snippet">Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+This tension appears in the design of many streaming platforms. Features such as autoplay, personalised mixes and endless recommendations maximise continuity, but they can also reduce moments of deliberate choice. Music becomes easier to live with, yet potentially easier to ignore. The listener receives a constant soundtrack, while individual songs and artists may receive less sustained attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span> The result is not that attentive listening has disappeared. People still gather around major releases, favourite artists and meaningful albums. However, streaming has expanded another mode of listening: music as infrastructure. Like lighting, heating or internet access, it is increasingly expected to be available whenever needed. What changed was not only access to songs but the integration of music into the ordinary flow of everyday life. [www.ofcom.org.uk+2www.ofcom.org.uk]
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-3-dark.svg" | relative_url }}" alt="Background illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -732,153 +720,153 @@ This tension appears in the design of many streaming platforms. Features such as
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Music Streaming and the Hastening of Audio as Background  
-   Link: [https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background](https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateMusic Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</p></details>
    Published: April 17, 2024  
 
 2. <a id="endnote-2"></a>
    Source: ofcom.org.uk  
    Title: audio report 2026  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first](https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first)  
+   Link: <a href="https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With version 8.26.51 of the app, users can now resume listening on a different device without starting over, similar to a feature Spotify...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Listening in the UK 2025May 19, 2025 — 21 May 2025 — A fifth of time spent listening to audio in cars is now to music streaming services...</p></details>
    Published: May 19, 2025  
 
 5. <a id="endnote-5"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Audio listening in the UK  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>listening in the UK - 202416 Apr 2024 — Listening to music through a streaming service and listening to live radio are the most common ac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2211.07250](https://arxiv.org/abs/2211.07250)  
+   Link: <a href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.07250</a>  
 
 7. <a id="endnote-7"></a>
    Source: informs.org  
    Title: New Research How Spotify Shapes Your Music Listening Habits with Playlists  
-   Link: [https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists](https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</p></details>
+   Link: <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>caregivers use music and music technologies in everyday caring...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.01040](https://arxiv.org/abs/2402.01040)  
+   Link: <a href="https://arxiv.org/abs/2402.01040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.01040</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Mood Classification Using Listening Data  
-   Link: [https://arxiv.org/abs/2010.11512](https://arxiv.org/abs/2010.11512)  
+   Link: <a href="https://arxiv.org/abs/2010.11512" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.11512</a>  
 
 11. <a id="endnote-11"></a>
    Source: wired.com  
    Title: How to Build the Perfect Pump-Up Playlist  
-   Link: [https://www.wired.com/story/music-productivity-playlist-spotify-pandora](https://www.wired.com/story/music-productivity-playlist-spotify-pandora)  
+   Link: <a href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/music-productivity-playlist-spotify-pandora</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 347890300 Music consumption today behaviors sources and discovery  
-   Link: [https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery](https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery)  
+   Link: <a href="https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music consumption today: behaviors, sources and discovery25 Dec 2020 — This research paper aims at showing evidence about factors involv...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ajqr.org  
-   Link: [https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556](https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556)  
+   Link: <a href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Journal of Qualitative ResearchSwitching to Music Streaming Services: Understanding College...The results showed that college s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bridgeratings.com  
-   Link: [https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners](https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners)  
+   Link: <a href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</p></details>
    Published: March 9, 2025  
 
 15. <a id="endnote-15"></a>
    Source: wired-gov.net  
-   Link: [https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=](https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=)  
+   Link: <a href="https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top trends from our latest audio listening research | Ofcom21 May 2026 — Ofcom published thier latest research into the audio listening h...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: bridgeratings.com  
    Title: spotifys playlist ecosystem the mood machine at work  
-   Link: [https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work](https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work)  
+   Link: <a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Playlist Ecosystem: The Mood Machine at Work6 Mar 2025 — Spotify&#x27;s playlists function as a passive, algorithm-driven experience...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ads.spotify.com  
    Title: what streaming habits reveal about your audience  
-   Link: [https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/](https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/)  
+   Link: <a href="https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Habits Reveal About Your Audience18 Jan 2018 — Our data team has been working to identify streaming habits that can help us und...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3](https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3)  
+   Link: <a href="https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Music: Analyzing a Decade of Spotify Listening DataListening volume peaks in summer: Listening is consistent during summer months,w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)  
+   Link: <a href="https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially created as an advertising company, Spotify&#x27;s transformation into a streaming giant has profoundly changed how artists do busine...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ajqr.org  
-   Link: [https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf](https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf)  
+   Link: <a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hal.science  
    Title: Modeling and Influencing Music Preferences on Streaming Platforms  
-   Link: [https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf](https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf)  
+   Link: <a href="https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling and Influencing Music Preferences on Streaming...by K Matrosova · 2024 · Cited by 3 — Music preferences and listening habits ca...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/](https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/)  
+   Link: <a href="https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2018 — Consistently listening to music was associated with up to a 39% reduced risk of dementia in older adults, while regula...</p></details>
    Published: October 12, 2018  
 
 23. <a id="endnote-23"></a>
    Source: lse.ac.uk  
    Title: [PDF] Datafication of Music Streaming Services  
-   Link: [https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf](https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LSEThe questions start from respondents&#x27; everyday habits of music listening, and then enquire their experiences and preferences of using...</p></details>
+   Link: <a href="https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The questions start from respondents&#x27; everyday habits of music listening, and then enquire their experiences and preferences of using...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ifpi.org  
    Title: IFPI Engaging With Music 2023 full report  
-   Link: [https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf](https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s Engaging with Music 202311 Dec 2023 — IFPI&#x27;s Engaging with Music 2023 explores the ways that people listen to, discover, and engag...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: talkerresearch.com  
    Title: Survey finds more Americans believe streaming music is “superior  
-   Link: [https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical](https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical)  
+   Link: <a href="https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical" target="_blank" rel="noopener noreferrer nofollow">https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adults found 38% believe streaming services like Apple Music and Spotify are superior to physical music...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk](https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk)  
+   Link: <a href="https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from UK media regulator Ofcom details the battle for...1 Aug 2025 — For music streaming, all the findings and indicators in the Ofcom re...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research Chart Of The Week  
-   Link: [https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening](https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening)  
+   Link: <a href="https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists 1, Albums 0 – How Streaming...21 Mar 2016 — 31% consumers mainly listen to playlists, 29% mainly listen to albums. Not too sha...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4
 - music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510
 tags:
-- music
+- music-3-a01-be
 - publishing
 - royalty-splits
 keywords:
-- music
+- music-3-a01-be
 - publishing
 - royalty-splits
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Performance royalties are commonly divided between writer and publisher shares, making ownership structure crucial to payment.
 hero_summary: Performance royalties are commonly divided between writer and publisher shares, making ownership structure crucial to payment.
 layout: default
 permalink: /royalty-splits/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /publishing/
 nav_short_title: Royalty Splits
 title: Why the Same Song Pays Different People
-title_full: Why the Same Song Pays Different People | Publishing
+title_full: Why the Same Song Pays Different People
 display_title_short: Royalty Splits
 display_title: Royalty Splits
 heading_title: Why the Same Song Pays Different People
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Songs Earn Beyond The Recording | Music
+parent_title: How Songs Earn Beyond The Recording
 parent_permalink: /publishing/
 parent_nav_short_title: Publishing
 parent_heading_title: How Songs Earn Beyond The Recording
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When One Sync Deal Creates More Income
 up_link:
   basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -265,7 +265,7 @@ next_link:
   permalink: /setlist-gaps/
   short_title: Setlist Gaps
   heading_title: How Missing Setlists Leave Money Unpaid
-date: '2026-06-09 07:50:33 '
+date: '2026-06-11 23:57:09 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1.webp
@@ -276,22 +276,20 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_
 
 When a song earns performance income, the money often does not go to a single person. Instead, it is divided between two legally distinct interests: the writer’s share and the publisher’s share. This split is one of the most important mechanisms in music [publishing]({{ 'publishing/' | relative_url }}) because it determines who gets paid, who controls the [catalogue]({{ 'catalogue/' | relative_url }}), and whether royalties reach all entitled parties. In many performance-rights systems, the income is effectively divided 50/50 between writers and publishers, even though listeners experience the song as a single work. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-title">whats the difference between writers share and publishers share</span><span class="citation-popover-snippet">The Ivors AcademyWhat&#x27;s the difference between writer&#x27;s share and...9 Jul 2025 — The music industry operates on a fundamental principle...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1-dark.svg" | relative_url }}" alt="Royalty Splits illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding this division explains why two people connected to the same song can receive different payments, why publishing [ownership]({{ 'ownership/' | relative_url }}) has long-term value, and why independent songwriters must pay [attention]({{ 'attention/' | relative_url }}) not only to creating songs but also to collecting the publisher side of their income.
 
 ## How Writer and Publisher Shares Work
 
-The writer’s share belongs to the songwriter or songwriters who created the composition. The publisher’s share belongs to whoever owns or administers the publishing [rights]({{ 'rights/' | relative_url }}), whether that is a traditional [music]({{ 'music/' | relative_url }}) publisher, a co-publisher, or the songwriter acting as their own publisher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-title">whats the difference between writers share and publishers share</span><span class="citation-popover-snippet">The Ivors AcademyWhat&#x27;s the difference between writer&#x27;s share and...9 Jul 2025 — The music industry operates on a fundamental principle...</span></span></span>
+The writer’s share belongs to the songwriter or songwriters who created the composition. The publisher’s share belongs to whoever owns or administers the publishing [rights]({{ 'rights/' | relative_url }}), whether that is a traditional music publisher, a co-publisher, or the songwriter acting as their own publisher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-title">whats the difference between writers share and publishers share</span><span class="citation-popover-snippet">The Ivors AcademyWhat&#x27;s the difference between writer&#x27;s share and...9 Jul 2025 — The music industry operates on a fundamental principle...</span></span></span>
 
-For performance royalties, the industry convention is that the revenue is split into two equal halves:
+For performance [royalties]({{ 'royalties/' | relative_url }}), the industry convention is that the revenue is split into two equal halves:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://vi-control.net/community/threads/50-writers-share.82143/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vi-control.net">[* 50% writer’s share]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vi-control.net</span><span class="citation-popover-title">50 writers share.82143</span><span class="citation-popover-snippet">50% Writers share15 May 2019 — The writer of a track gets 50% of the whole royalties, and the publisher gets the other 50% percent. In yo...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicteam.com/the-writers-share-vs-the-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicteam.com">[* 50% publisher’s share]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicteam.com</span><span class="citation-popover-title">the writers share vs the publishers share</span><span class="citation-popover-snippet">MusicTeamThe writer&#x27;s share vs. the publisher&#x27;s shareDec 13, 2022 — With BMI, the royalties are equal to 200% (100% Writer&#x27;s share and 10...</span></span></span>
+* 50% writer’s share <span class="citation-chip-wrap"><a class="citation-chip" href="https://vi-control.net/community/threads/50-writers-share.82143/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vi-control.net">[vi-control.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vi-control.net</span><span class="citation-popover-title">50 writers share.82143</span><span class="citation-popover-snippet">50% Writers share15 May 2019 — The writer of a track gets 50% of the whole royalties, and the publisher gets the other 50% percent. In yo...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> * 50% publisher’s share <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicteam.com/the-writers-share-vs-the-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicteam.com">[musicteam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicteam.com</span><span class="citation-popover-title">the writers share vs the publishers share</span><span class="citation-popover-snippet">The writer&#x27;s share vs. the publisher&#x27;s shareDec 13, 2022 — With BMI, the royalties are equal to 200% (100% Writer&#x27;s share and 10...</span></span></span>
 
-ASCAP states that performance royalties are distributed with half going to writers and half to publishers. PRS for Music similarly recognises separate writer and publisher interests and limits publisher performance participation to a maximum 50% share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPHelp CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s)...</span></span></span>
+ASCAP states that performance royalties are distributed with half going to writers and half to publishers. PRS for Music similarly recognises separate writer and publisher interests and limits publisher performance participation to a maximum 50% share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s)...</span></span></span>
 
 A simplified example illustrates the mechanism:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,18 +301,17 @@ A simplified example illustrates the mechanism:
 
 If one songwriter wrote the entire composition and has a traditional publishing deal, the songwriter receives the writer share while the publisher receives the publisher share. If there are multiple writers, the writer half is divided according to their agreed songwriting percentages. The publisher half is divided according to the publishing ownership structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/publisher-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">Publisher agreementsPRS for Music will not accept agreements that entitle the publisher to more than a 50% performance share. Publisher t...</span></span></span>
 
-The important point is that songwriting ownership percentages and publishing ownership percentages are related but not always identical. A writer may own part of the publisher side through a co-publishing arrangement, or may have assigned it entirely to a publisher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/music-business-101/200809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPsongwriter and music publisher agreementsUnder the participation agreement, the writer shares in the publisher&#x27;s income similar to t...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8doQmyGkK_0" title="SONGWRITING ROYALTIES VS PUBLISHING ROYALTIES VS PRODUCER ROYALTIES | SPLITS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer">SONGWRITING ROYALTIES VS PUBLISHING ROYALTIES VS PRODUCER ROYALTIES | SPLITS</a></p><p class="youtube-embed-meta">Channel: Tynia Coats &middot; Views: 173.7K &middot; Uploaded: May 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8doQmyGkK_0">Open on YouTube</a></p></div></div></div>
+The important point is that songwriting ownership percentages and publishing ownership percentages are related but not always identical. A writer may own part of the publisher side through a co-publishing arrangement, or may have assigned it entirely to a publisher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/music-business-101/200809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">songwriter and music publisher agreementsUnder the participation agreement, the writer shares in the publisher&#x27;s income similar to t...</span></span></span>
 
 ### Why Performing Rights Organisations Separate the Shares
 
 The split is not merely an accounting convention. It reflects the idea that song creation and song exploitation are separate contributions.
 
-Traditionally, publishers invested in promoting songs, securing recordings, arranging licences, collecting royalties internationally and enforcing rights. In return, they received the publisher portion of income. Writers retained their writer share as compensation for creating the composition itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/ome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPJoin ASCAP | ASCAP.comASCAP royalties are split 50/50 between writers and publishers. Joining as both ensures that you can collect a...</span></span></span>
+Traditionally, publishers invested in promoting songs, securing recordings, arranging licences, collecting royalties internationally and enforcing rights. In return, they received the publisher portion of income. Writers retained their writer share as compensation for creating the composition itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/ome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Join ASCAP &#124; ASCAP.comASCAP royalties are split 50/50 between writers and publishers. Joining as both ensures that you can collect a...</span></span></span>
 
 Many performing rights organisations therefore pay the writer share and publisher share separately. The writer's portion is often protected so that it cannot simply be redirected through publishing contracts in the same way as publisher income. PRS explicitly maintains policies governing writer-share assignments, while industry guidance from organisations such as ASCAP emphasises direct payment of writer income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/publisher-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">Publisher agreementsPRS for Music will not accept agreements that entitle the publisher to more than a 50% performance share. Publisher t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/registering-your-music/Splitsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">What Co-Writers Need to Know About Songwriting SplitsWhen you&#x27;re registering music with ASCAP, make sure that all of the writer splits ad...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8doQmyGkK_0" title="SONGWRITING ROYALTIES VS PUBLISHING ROYALTIES VS PRODUCER ROYALTIES | SPLITS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer">SONGWRITING ROYALTIES VS PUBLISHING ROYALTIES VS PRODUCER ROYALTIES | SPLITS</a></p><p class="youtube-embed-meta">Channel: Tynia Coats &middot; Views: 173.7K &middot; Uploaded: May 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8doQmyGkK_0">Open on YouTube</a></p></div></div></div>
 
 ## Collecting Income Without a Publishing Deal
 
@@ -322,14 +319,13 @@ One of the most common misunderstandings is that an independent songwriter autom
 
 Ownership and collection are not the same thing.
 
-A songwriter without a publishing agreement may still own both the writer and publisher interests. However, they must ensure that both sides are registered and collectable. ASCAP notes that creators who want to collect the full royalty stream should be affiliated in both capacities because royalties are split between writer and publisher accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPHelp CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s)...</span></span></span>
+A songwriter without a publishing agreement may still own both the writer and publisher interests. However, they must ensure that both sides are registered and collectable. ASCAP notes that creators who want to collect the full royalty stream should be affiliated in both capacities because royalties are split between writer and publisher accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s)...</span></span></span>
 
 The practical consequences vary by organisation:
 
 * Some societies require separate writer and publisher registrations to collect both shares.
 * Some systems allow self-published writers to receive publisher income directly.
-* Administrative publishing companies may collect the publisher share while leaving ownership with the songwriter. BMI.com MusicTeam This distinction explains why industry advisers often warn independent writers about <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicteam.com/the-writers-share-vs-the-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicteam.com">[musicteam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicteam.com</span><span class="citation-popover-title">the writers share vs the publishers share</span><span class="citation-popover-snippet">MusicTeamThe writer&#x27;s share vs. the publisher&#x27;s shareDec 13, 2022 — With BMI, the royalties are equal to 200% (100% Writer&#x27;s share and 10...</span></span></span>“leaving money on the table”. A creator can own 100% of a song yet fail to collect all available royalties if the publisher side is not properly administered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/music-business-101/200809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPsongwriter and music publisher agreementsUnder the participation agreement, the writer shares in the publisher&#x27;s income similar to t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-publishing-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-snippet">Royalty ExchangePublishing Royalties: How They Work &amp; How to Collect ThemApr 3, 2026 — Publishing royalties are split into two equal halv...</span></span></span>
-
+* Administrative publishing companies may collect the publisher share while leaving ownership with the songwriter. BMI.com MusicTeam This distinction explains why industry advisers often warn independent writers about <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicteam.com/the-writers-share-vs-the-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicteam.com">[musicteam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicteam.com</span><span class="citation-popover-title">the writers share vs the publishers share</span><span class="citation-popover-snippet">The writer&#x27;s share vs. the publisher&#x27;s shareDec 13, 2022 — With BMI, the royalties are equal to 200% (100% Writer&#x27;s share and 10...</span></span></span>“leaving money on the table”. A creator can own 100% of a song yet fail to collect all available royalties if the publisher side is not properly administered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/music-business-101/200809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">songwriter and music publisher agreementsUnder the participation agreement, the writer shares in the publisher&#x27;s income similar to t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-publishing-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-snippet">Royalty ExchangePublishing Royalties: How They Work &amp; How to Collect ThemApr 3, 2026 — Publishing royalties are split into two equal halv...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-2-dark.svg" | relative_url }}" alt="Royalty Splits illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Multiple Writers, Multiple Payments
@@ -345,30 +341,21 @@ The writer share would be divided equally between them. If Writer A has a publis
 
 This is why accurate registration data matters. Performing rights organisations require works to be registered with writer names, publisher information and royalty percentages. Incorrect ownership information can delay or misdirect payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/publisher-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">Publisher agreementsPRS for Music will not accept agreements that entitle the publisher to more than a 50% performance share. Publisher t...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 ## Why Catalogue Ownership Gains Value
 
 The publisher share is often the asset that attracts investors, music companies and catalogue buyers.
 
-A song that continues to generate radio plays, streams, television broadcasts, live performances and other [public performances]({{ 'public-play/' | relative_url }}) may produce publishing income for decades. Whoever controls the publisher share receives a continuing claim on that revenue stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/publisher-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">Publisher agreementsPRS for Music will not accept agreements that entitle the publisher to more than a 50% performance share. Publisher t...</span></span></span>
+A song that continues to generate radio plays, streams, television broadcasts, live performances and other public performances may produce publishing income for decades. Whoever controls the publisher share receives a continuing claim on that revenue stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/publisher-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">Publisher agreementsPRS for Music will not accept agreements that entitle the publisher to more than a 50% performance share. Publisher t...</span></span></span>
 
 This helps explain the value of catalogue acquisitions. Buyers are not purchasing memories or cultural prestige alone; they are purchasing rights to future royalty flows. The publisher share can therefore function like a long-lived income-producing asset.
 
 Different publishing agreements change how much of that future value remains with the songwriter:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * **Traditional publishing deals** typically grant the publisher the publisher share while the writer keeps the writer share.
 * **Co-publishing deals** often allow the writer to retain part of the publisher side as well.
-* **Administration deals** generally focus on collection and licensing while leaving ownership largely with the writer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/ome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPJoin ASCAP | ASCAP.comASCAP royalties are split 50/50 between writers and publishers. Joining as both ensures that you can collect a...</span></span></span>
-
-</div>
+* **Administration deals** generally focus on collection and [licensing]({{ 'licensing/' | relative_url }}) while leaving ownership largely with the writer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/ome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Join ASCAP &#124; ASCAP.comASCAP royalties are split 50/50 between writers and publishers. Joining as both ensures that you can collect a...</span></span></span>
 
 Because catalogue value depends on future royalty streams, even a small change in ownership percentages can have major financial consequences over time.
-
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-3-dark.svg" | relative_url }}" alt="Royalty Splits illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Split Still Causes Disputes
@@ -384,10 +371,6 @@ These controversies highlight why ownership records, publishing agreements and r
 The writer share rewards the creation of the song. The publisher share rewards ownership and administration of the composition rights. In many performance-royalty systems, those two interests divide the income equally, creating separate payment streams even though they arise from the same musical work. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-title">whats the difference between writers share and publishers share</span><span class="citation-popover-snippet">The Ivors AcademyWhat&#x27;s the difference between writer&#x27;s share and...9 Jul 2025 — The music industry operates on a fundamental principle...</span></span></span>
 
 For songwriters, the critical question is not only “What percentage of the song do I own?” but also “Who owns and collects the publisher side?” The answer determines whether a song's royalties flow to a publisher, a catalogue owner, an administrator, or back to the writer who created it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/creators/royalty/general_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">General Royalty InformationBMI considers payments to songwriters or composers and to publishers as a single unit equal to 200%. Where the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/bmi-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-snippet">BMI Royalties: How They Work, What&#x27;s Collected, and...2 days ago — BMI royalties, also known as BMI music royalties or BMI performance r...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -506,15 +489,15 @@ For songwriters, the critical question is not only “What percentage of the son
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL"><img src="{{ '/assets/images/marketplace-covers/91c26cb93a1fd08b6e2c.jpg' | relative_url }}" alt="Listing image for NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pretenders Band Rock British American Founding Songwriter T-Shirt - 250218"><img src="https://i.ebayimg.com/images/g/tYgAAeSwYodpEw2I/s-l225.jpg" alt="Listing image for Pretenders Band Rock British American Founding Songwriter T-Shirt - 250218" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pretenders Band Rock British American Founding Songwriter T-Shirt - 250218</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +505,15 @@ For songwriters, the critical question is not only “What percentage of the son
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="{{ '/assets/images/marketplace-covers/aafd49b6541a0d191524.jpg' | relative_url }}" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747"><img src="https://i.ebayimg.com/images/g/xSQAAeSwLHJpEpT3/s-l225.jpg" alt="Listing image for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +521,15 @@ For songwriters, the critical question is not only “What percentage of the son
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL"><img src="{{ '/assets/images/marketplace-covers/dd41612c1da6de007428.jpg' | relative_url }}" alt="Listing image for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Burt Bacharach T-Shirt | Songwriter | This Guys In Love With You | 60s | Retro"><img src="https://i.ebayimg.com/images/g/g6QAAOSwyetj5SNb/s-l225.jpg" alt="Listing image for Burt Bacharach T-Shirt | Songwriter | This Guys In Love With You | 60s | Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Burt Bacharach T-Shirt | Songwriter | This Guys In Love With You | 60s | Retro</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +537,15 @@ For songwriters, the critical question is not only “What percentage of the son
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747"><img src="{{ '/assets/images/marketplace-covers/696295e8f4efb55facc4.jpg' | relative_url }}" alt="Listing image for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL"><img src="https://i.ebayimg.com/images/g/9eIAAOSwyt1nq2qd/s-l225.jpg" alt="Listing image for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,7 +553,7 @@ For songwriters, the critical question is not only “What percentage of the son
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="royalty-splits-why-the-same-song-pays-different-people-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-song-pays-different-people-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="why-the-same-song-pays-different-people-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -785,139 +768,139 @@ For songwriters, the critical question is not only “What percentage of the son
 
 1. <a id="endnote-1"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help](https://www.ascap.com/help)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPHelp CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s)...</p></details>
+   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/creators/royalty/general_information](https://www.bmi.com/creators/royalty/general_information)  
+   Link: <a href="https://www.bmi.com/creators/royalty/general_information" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty/general_information</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Royalty InformationBMI considers payments to songwriters or composers and to publishers as a single unit equal to 200%. Where the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/music-business-101/200809](https://www.ascap.com/help/music-business-101/200809)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPsongwriter and music publisher agreementsUnder the participation agreement, the writer shares in the publisher&#x27;s income similar to t...</p></details>
+   Link: <a href="https://www.ascap.com/help/music-business-101/200809" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/music-business-101/200809</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>songwriter and music publisher agreementsUnder the participation agreement, the writer shares in the publisher&#x27;s income similar to t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/ome](https://www.ascap.com/ome)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPJoin ASCAP | ASCAP.comASCAP royalties are split 50/50 between writers and publishers. Joining as both ensures that you can collect a...</p></details>
+   Link: <a href="https://www.ascap.com/ome" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/ome</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Join ASCAP | ASCAP.comASCAP royalties are split 50/50 between writers and publishers. Joining as both ensures that you can collect a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/faq/entry/how_does_bmi_split_royalties_between_songwriters_and_publishers](https://www.bmi.com/faq/entry/how_does_bmi_split_royalties_between_songwriters_and_publishers)  
+   Link: <a href="https://www.bmi.com/faq/entry/how_does_bmi_split_royalties_between_songwriters_and_publishers" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/entry/how_does_bmi_split_royalties_between_songwriters_and_publishers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you do not have a publisher, you will also receive the publisher&#x27;s share as a writer. If you do not own a publishing...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: musicteam.com  
    Title: the writers share vs the publishers share  
-   Link: [https://musicteam.com/the-writers-share-vs-the-publishers-share/](https://musicteam.com/the-writers-share-vs-the-publishers-share/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicTeamThe writer&#x27;s share vs. the publisher&#x27;s shareDec 13, 2022 — With BMI, the royalties are equal to 200% (100% Writer&#x27;s share and 10...</p></details>
+   Link: <a href="https://musicteam.com/the-writers-share-vs-the-publishers-share/" target="_blank" rel="noopener noreferrer nofollow">https://musicteam.com/the-writers-share-vs-the-publishers-share/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The writer&#x27;s share vs. the publisher&#x27;s shareDec 13, 2022 — With BMI, the royalties are equal to 200% (100% Writer&#x27;s share and 10...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/faq/category/royalties](https://www.bmi.com/faq/category/royalties)  
+   Link: <a href="https://www.bmi.com/faq/category/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/category/royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties | FAQ | BMI.comAnswers to questions about becoming a BMI songwriter or publisher, royalty distribution, copyright protection, h...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/](https://www.bmi.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI | BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
+   Link: <a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bmi.com  
    Title: royalty policy manual  
-   Link: [https://www.bmi.com/creators/royalty-policy-manual](https://www.bmi.com/creators/royalty-policy-manual)  
+   Link: <a href="https://www.bmi.com/creators/royalty-policy-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty-policy-manual</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI Royalty Policy ManualAug 18, 2025 — How Royalties are Divided. BMI considers payments to songwriters or composers and to publishers a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/registering-your-music/Splitsville](https://www.ascap.com/help/registering-your-music/Splitsville)  
+   Link: <a href="https://www.ascap.com/help/registering-your-music/Splitsville" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/Splitsville</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Co-Writers Need to Know About Songwriting SplitsWhen you&#x27;re registering music with ASCAP, make sure that all of the writer splits ad...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Writer's Share vs. The Publisher's Share  
-   Link: [https://www.youtube.com/watch?v=Fj-w16z9w-4](https://www.youtube.com/watch?v=Fj-w16z9w-4)  
+   Link: <a href="https://www.youtube.com/watch?v=Fj-w16z9w-4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj-w16z9w-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Songwriter Royalties: Writer&#x27;s Share vs. Publisher&#x27;s Share...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ivorsacademy.com  
    Title: whats the difference between writers share and publishers share  
-   Link: [https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/](https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/)  
+   Link: <a href="https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/faq/whats-the-difference-between-writers-share-and-publishers-share/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat&#x27;s the difference between writer&#x27;s share and...9 Jul 2025 — The music industry operates on a fundamental principle...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/publisher-agreements](https://www.prsformusic.com/works/publisher-agreements)  
+   Link: <a href="https://www.prsformusic.com/works/publisher-agreements" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/publisher-agreements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher agreementsPRS for Music will not accept agreements that entitle the publisher to more than a 50% performance share. Publisher t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/how-copyright-works/music-registration-policy](https://www.prsformusic.com/works/how-copyright-works/music-registration-policy)  
+   Link: <a href="https://www.prsformusic.com/works/how-copyright-works/music-registration-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/how-copyright-works/music-registration-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicMusic registration policyWorks should be registered by our members. A registered work will identify the: work&#x27;s title; its w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/join/prs-publisher-joining-criteria](https://www.prsformusic.com/join/prs-publisher-joining-criteria)  
+   Link: <a href="https://www.prsformusic.com/join/prs-publisher-joining-criteria" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/join/prs-publisher-joining-criteria</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS Publisher joining criteriaYou have an interest in the performing right or have a share of the income that&#x27;s generated by...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/writer-share-assignment-policy](https://www.prsformusic.com/works/writer-share-assignment-policy)  
+   Link: <a href="https://www.prsformusic.com/works/writer-share-assignment-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/writer-share-assignment-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS Writer Share Assignment PolicyOur Policy sets out when PRS will give effect to a direction or assignment by a PRS writer...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: royaltyexchange.com  
-   Link: [https://royaltyexchange.com/blog/music-royalties-101-publishing-royalties](https://royaltyexchange.com/blog/music-royalties-101-publishing-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/music-royalties-101-publishing-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-publishing-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangePublishing Royalties: How They Work &amp; How to Collect ThemApr 3, 2026 — Publishing royalties are split into two equal halv...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: elizabethalexander.com  
    Title: ASCA P Composer + BMI Lyricist  
-   Link: [https://www.elizabethalexander.com/how-to-register-new-works-whose-entitled-parties-belong-to-different-performing-rights-organizations-pros/](https://www.elizabethalexander.com/how-to-register-new-works-whose-entitled-parties-belong-to-different-performing-rights-organizations-pros/)  
+   Link: <a href="https://www.elizabethalexander.com/how-to-register-new-works-whose-entitled-parties-belong-to-different-performing-rights-organizations-pros/" target="_blank" rel="noopener noreferrer nofollow">https://www.elizabethalexander.com/how-to-register-new-works-whose-entitled-parties-belong-to-different-performing-rights-organizations-pros/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Yikes, what&#x27;s a self-...16 Oct 2016 — PUBLISHER SHARE: Seafarer Press (ASCAP) 50% · WRITER SHARES: Elizabeth Alexander (ASCAP) 25% and F...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/registering-works](https://www.prsformusic.com/works/registering-works)  
+   Link: <a href="https://www.prsformusic.com/works/registering-works" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/registering-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicRegistering works | PRS for MusicWe can only distribute royalties for the use of works that have been registered. Who should...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/blur-drummer-dave-rowntree-royalties-kfb02qf3b](https://www.thetimes.co.uk/article/blur-drummer-dave-rowntree-royalties-kfb02qf3b)  
+   Link: <a href="https://www.thetimes.co.uk/article/blur-drummer-dave-rowntree-royalties-kfb02qf3b" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/blur-drummer-dave-rowntree-royalties-kfb02qf3b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The claim, filed at the competition appeal tribunal, argues that the PRS&#x27;s distribution of &quot;black box&quot; income—royalties that cannot be al...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe pay royalties to our members for the use of their work while protecting the fut...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/searching-works](https://www.prsformusic.com/works/searching-works)  
+   Link: <a href="https://www.prsformusic.com/works/searching-works" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/searching-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching worksOnce you&#x27;re logged-in, you can use our search tool to search for your own works, as well as the works by other writers and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding publishing rights14 May 2021 — A PRO is an agency that ensures songwriters and publishers are paid for the use of their mus...</p></details>
    Published: May 2021  
 
 24. <a id="endnote-24"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/join](https://www.prsformusic.com/join)  
+   Link: <a href="https://www.prsformusic.com/join" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/join</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JoinPRS represents performing rights and collects royalties for the performance of its members&#x27; work. MCPS represents mechanical rights a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: royaltyexchange.com  
-   Link: [https://royaltyexchange.com/blog/bmi-royalties](https://royaltyexchange.com/blog/bmi-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/bmi-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/bmi-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI Royalties: How They Work, What&#x27;s Collected, and...2 days ago — BMI royalties, also known as BMI music royalties or BMI performance r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: vi-control.net  
    Title: 50 writers share.82143  
-   Link: [https://vi-control.net/community/threads/50-writers-share.82143/](https://vi-control.net/community/threads/50-writers-share.82143/)  
+   Link: <a href="https://vi-control.net/community/threads/50-writers-share.82143/" target="_blank" rel="noopener noreferrer nofollow">https://vi-control.net/community/threads/50-writers-share.82143/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50% Writers share15 May 2019 — The writer of a track gets 50% of the whole royalties, and the publisher gets the other 50% percent. In yo...</p></details>
    Published: May 2019  
 
@@ -925,50 +908,50 @@ For songwriters, the critical question is not only “What percentage of the son
 
 27. <a id="endnote-27"></a>
    Source: prsguitars.com  
-   Link: [https://prsguitars.com/artists](https://prsguitars.com/artists)  
+   Link: <a href="https://prsguitars.com/artists" target="_blank" rel="noopener noreferrer nofollow">https://prsguitars.com/artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ArtistsSignature Artists · Carlos Santana · David Grissom · Ed Sheeran · Herman Li · John Mayer · Mark Holcomb · Mark Lettieri · Mark Tre...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: calculator.net  
-   Link: [https://www.calculator.net/bmi-calculator.html](https://www.calculator.net/bmi-calculator.html)  
+   Link: <a href="https://www.calculator.net/bmi-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/bmi-calculator.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI CalculatorBMI is a measurement of a person&#x27;s leanness or corpulence based on their height and weight, and is intended to quantify tis...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MusicDistribution/comments/1nzsnto/bmi_publishing_and_distribution/](https://www.reddit.com/r/MusicDistribution/comments/1nzsnto/bmi_publishing_and_distribution/)  
+   Link: <a href="https://www.reddit.com/r/MusicDistribution/comments/1nzsnto/bmi_publishing_and_distribution/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MusicDistribution/comments/1nzsnto/bmi_publishing_and_distribution/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI, Publishing, and Distribution: r/MusicDistributionBMI&#x27;s 200% means 100% Writer&#x27;s Share and 100% Publisher&#x27;s Share. The split depends...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-7-a-publishers-collection-network](https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-7-a-publishers-collection-network)  
+   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-7-a-publishers-collection-network" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-7-a-publishers-collection-network</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 7: A Publisher&#x27;s Collection NetworkPRS will collect local royalties directly and will collect both the publisher&#x27;s and writer&#x27;s sh...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: prsguitars.com  
-   Link: [https://prsguitars.com/](https://prsguitars.com/)  
+   Link: <a href="https://prsguitars.com/" target="_blank" rel="noopener noreferrer nofollow">https://prsguitars.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Guitars | Electric and Acoustic Guitars, Basses, Amplifiers...Maryland-based Manufacturer of Electric Guitars, Acoustic Guitars, Bas...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1g9b0id/songwriter_publisher_share/](https://www.reddit.com/r/musicbusiness/comments/1g9b0id/songwriter_publisher_share/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSongwriter &amp; publisher share: r/musicbusinessIf you sign to a publisher, a straight pub deal means writer keeps 100% of writers sh...</p></details>
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1g9b0id/songwriter_publisher_share/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1g9b0id/songwriter_publisher_share/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Songwriter &amp; publisher share: r/musicbusinessIf you sign to a publisher, a straight pub deal means writer keeps 100% of writers sh...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties](https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties)  
+   Link: <a href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: support.tunecore.com  
-   Link: [https://support.tunecore.com/hc/en-gb/articles/115006689148-What-s-the-Difference-Between-the-Writer-s-Share-and-the-Publisher-s-Share](https://support.tunecore.com/hc/en-gb/articles/115006689148-What-s-the-Difference-Between-the-Writer-s-Share-and-the-Publisher-s-Share)  
+   Link: <a href="https://support.tunecore.com/hc/en-gb/articles/115006689148-What-s-the-Difference-Between-the-Writer-s-Share-and-the-Publisher-s-Share" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-gb/articles/115006689148-What-s-the-Difference-Between-the-Writer-s-Share-and-the-Publisher-s-Share</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tunecore.comWhat&#x27;s the Difference Between the Writer&#x27;s Share and...The writer&#x27;s share is the right attributed to the songwriter/composer...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8doQmyGkK_0](https://www.youtube.com/watch?v=8doQmyGkK_0)  
+   Link: <a href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8doQmyGkK_0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[SONGWRITING ROYALTIES](&amp;#123;&amp;#123; &#x27;publishing/&#x27; | relative_url &amp;#125;&amp;#125;) VS PUBLISHING ROYALTIES...In today&#x27;s episode we are getting into songwriter royalties versus publisher royalties a...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: texasheart.org  
-   Link: [https://www.texasheart.org/heart-health/heart-information-center/topics/body-mass-index-bmi-calculator/](https://www.texasheart.org/heart-health/heart-information-center/topics/body-mass-index-bmi-calculator/)  
+   Link: <a href="https://www.texasheart.org/heart-health/heart-information-center/topics/body-mass-index-bmi-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasheart.org/heart-health/heart-information-center/topics/body-mass-index-bmi-calculator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Body Mass Index (BMI) CalculatorOne measure for obesity is determined by body mass index (BMI), which is a formula of kilograms divided b...</p></details>

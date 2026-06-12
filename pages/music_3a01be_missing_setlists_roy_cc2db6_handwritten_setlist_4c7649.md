@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf
 - music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e
 tags:
-- music
+- music-3-a01-be
 - setlists
 - paper-setlists
 keywords:
-- music
+- music-3-a01-be
 - setlists
 - paper-setlists
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A scribbled stage setlist can become payment evidence, but only if it is readable, complete, and linked to the right show.
 hero_summary: A scribbled stage setlist can become payment evidence, but only if it is readable, complete, and linked to the right show.
 layout: default
 permalink: /paper-setlists/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /setlists/
 nav_short_title: Paper Setlists
 title: Can A Handwritten Setlist Prove A Royalty Claim?
-title_full: Can A Handwritten Setlist Prove A Royalty Claim? | Setlists
+title_full: Can A Handwritten Setlist Prove A Royalty Claim?
 display_title_short: Paper Setlists
 display_title: Paper Setlists
 heading_title: Can A Handwritten Setlist Prove A Royalty Claim?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Setlists Are More Than Souvenirs | Music
+parent_title: Why Setlists Are More Than Souvenirs
 parent_permalink: /setlists/
 parent_nav_short_title: Setlists
 parent_heading_title: Why Setlists Are More Than Souvenirs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Missing Setlists Are Hard To Sue Over
 up_link:
   basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -265,7 +265,7 @@ next_link:
   permalink: /prs-lawsuit/
   short_title: PRS Lawsuit
   heading_title: Why Missing Setlists Are Hard To Sue Over
-date: '2026-06-09 06:58:10 '
+date: '2026-06-11 23:30:40 '
 header:
   og_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setli
 ## Introduction
 
 A handwritten setlist can help prove a royalty claim, but only when it can be transformed from a piece of paper into reliable performance data. For collecting societies and royalty systems, a setlist is not valuable because it is handwritten; it is valuable because it can identify which songs were performed, by whom, where, and when. If those details are missing, unclear, or impossible to verify, the setlist becomes weak evidence and may not support payment. Conversely, a clear setlist linked to a specific concert can become the key record that connects a live performance to the songwriters who should be paid. Collecting societies such as PRS for Music, ASCAP and SOCAN all depend on accurate performance reporting and song [identification]({{ 'identification/' | relative_url }}) when processing live-performance [royalties]({{ 'royalties/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP OnStageASCAP OnStage gets you paid when you play your music live. You can collect royalties when you play your music live at an ASC...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-1-dark.svg" | relative_url }}" alt="Paper Setlists illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Details A Usable Setlist Must Contain
@@ -289,7 +288,7 @@ For a setlist to support a royalty claim, it generally needs to be connected to 
 * **The performer or act name** associated with the show.
 * **The songs performed**, preferably with complete and recognisable titles.
 * **Evidence that the performance actually happened**, such as tickets, contracts, programmes, venue records or promoter information.
-* **Accurate work identification**, allowing songs to be matched to registered compositions and songwriter records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</span></span></span> SOCAN This explains why many royalty systems ultimately convert informal setlists into structured databases. PRS for Music's reporting process asks <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[socan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">SOCANFAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span> members to identify the works performed and connect them to a specific performance. SOCAN similarly requires setlists to be attached to performance submissions, while ASCAP's OnStage programme relies on reported song and event information to process eligible claims. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">SOCANFAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span>, the handwritten sheet taped to a monitor wedge is rarely the final evidence. Instead, it becomes a source document used to build a verified performance record.
+* **Accurate work identification**, allowing songs to be matched to registered compositions and songwriter records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</span></span></span> SOCAN This explains why many royalty systems ultimately convert informal setlists into structured databases. PRS for Music's reporting process asks <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[socan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">FAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span> members to identify the works performed and connect them to a specific performance. SOCAN similarly requires setlists to be attached to performance submissions, while ASCAP's OnStage programme relies on reported song and event information to process eligible claims. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">FAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span>, the handwritten sheet taped to a monitor wedge is rarely the final evidence. Instead, it becomes a source document used to build a verified performance record.
 
 ## Why A Scribbled Setlist Is Not Automatically Proof
 
@@ -319,14 +318,12 @@ Many surviving setlists exist only as mobile-phone photographs. Blurred images, 
 
 What appears obvious to the performer may be unreadable to someone processing claims months or years later.
 
-
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-2-dark.svg" | relative_url }}" alt="Paper Setlists illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Evidence Chain Matters More Than The Paper
 
 The strongest royalty claims do not rely on a handwritten setlist alone. They rely on an evidence chain.
 
 A robust chain might include:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -340,17 +337,16 @@ A robust chain might include:
 
 When these elements support one another, the handwritten document becomes credible evidence rather than an isolated artefact.
 
-This principle is visible in royalty systems that allow creators to submit performance claims. SOCAN, for example, asks members to provide performance information and, in some cases, supporting proof such as contracts, programmes or ticket stubs alongside setlist information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">SOCANFAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span>
+This principle is visible in royalty systems that allow creators to submit performance claims. SOCAN, for example, asks members to provide performance information and, in some cases, supporting proof such as contracts, programmes or ticket stubs alongside setlist information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">FAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span>
 
 The paper itself therefore functions less like a final legal document and more like a source record within a larger verification process.
-
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-3-dark.svg" | relative_url }}" alt="Paper Setlists illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Missing Or Unclear Setlists Create Royalty Gaps
 
 The importance of usable setlists becomes clearer when performance data is absent.
 
-Collecting societies have repeatedly encouraged members to submit live-performance information because unidentified performances can leave royalties unallocated or delayed. PRS for [Music]({{ 'music/' | relative_url }}) emphasises that reporting setlists allows royalties to be matched and paid correctly, while SOCAN maintains processes specifically for [concerts]({{ 'concerts/' | relative_url }}) where no setlist was initially available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> SOCAN The consequences are particularly significant for smaller writers and independent performers. A stadium act may have extensive tour administr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[socan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">SOCANFAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span> ation and dedicated reporting systems, but local artists often depend on personal records, photographs and handwritten notes to reconstruct performances after the event.
+Collecting societies have repeatedly encouraged members to submit live-performance information because unidentified performances can leave royalties unallocated or delayed. PRS for Music emphasises that reporting setlists allows royalties to be matched and paid correctly, while SOCAN maintains processes specifically for [concerts]({{ 'concerts/' | relative_url }}) where no setlist was initially available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> SOCAN The consequences are particularly significant for smaller writers and independent performers. A stadium act may have extensive tour administr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[socan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">FAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span> ation and dedicated reporting systems, but local artists often depend on personal records, photographs and handwritten notes to reconstruct performances after the event.
 
 Recent debate in the UK over unidentified live-performance data has highlighted how missing or unmatched performance information can contribute to pools of royalties that cannot immediately be allocated to the correct creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span><span class="citation-popover-meta">Published: July 4, 2025</span></span></span>
 
@@ -358,7 +354,7 @@ Recent debate in the UK over unidentified live-performance data has highlighted 
 
 The limitations of paper explain why the industry increasingly treats digitisation as an evidence-management problem.
 
-Modern reporting systems already encourage performers to enter song information directly into online databases rather than relying solely on physical records. PRS allows performers to upload and reuse existing setlists, while newer SOCAN workflows separate setlist creation from performance submission so records can be tracked and managed more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
+Modern reporting systems already encourage performers to enter song information directly into online databases rather than relying solely on [physical]({{ 'physical/' | relative_url }}) records. PRS allows performers to upload and reuse existing setlists, while newer SOCAN workflows separate setlist creation from performance submission so records can be tracked and managed more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
 
 Digitisation offers several advantages:
 
@@ -366,7 +362,7 @@ Digitisation offers several advantages:
 * **Automatic date and venue capture** strengthens verification.
 * **Persistent records** are less likely to be lost than paper sheets.
 * **Reuse of previous setlists** reduces administrative mistakes.
-* **Faster matching to registered works** improves royalty distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> SOCAN Research into automated setlist identification has gone even further <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[socan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">SOCANFAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span>, exploring systems that analyse concert recordings and identify songs directly from audio. Although current methods remain imperfect, they demonstrate a future in which missing or incomplete paper records can be supplemented by machine-assisted identification rather than relying entirely on handwritten evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivInvestigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</span><span class="citation-popover-meta">Published: January 6, 2021</span></span></span>
+* **Faster matching to registered works** improves royalty distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> SOCAN Research into automated setlist identification has gone even further <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[socan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">FAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</span></span></span>, exploring systems that analyse concert recordings and identify songs directly from audio. Although current methods remain imperfect, they demonstrate a future in which missing or incomplete paper records can be supplemented by machine-assisted identification rather than relying entirely on handwritten evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Investigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</span><span class="citation-popover-meta">Published: January 6, 2021</span></span></span>
 
 ## Why Paper Setlists Still Matter
 
@@ -491,15 +487,15 @@ Their value lies in their ability to preserve information that might otherwise d
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for David Bowie - Car Window Sticker -Glam Rock Music Decal Sign Ziggy Stardust -V02"><img src="{{ '/assets/images/marketplace-covers/a6d79ad2a7421bf43763.jpg' | relative_url }}" alt="Listing image for David Bowie - Car Window Sticker -Glam Rock Music Decal Sign Ziggy Stardust -V02" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">David Bowie - Car Window Sticker -Glam Rock Music Decal Sign Ziggy Stardust -V02</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +503,15 @@ Their value lies in their ability to preserve information that might otherwise d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200 Rock Stickers Metal Punk Bands Guitar Amp Music Decal Stickerbomb Skateboard"><img src="{{ '/assets/images/marketplace-covers/4546906114776ba07ce4.jpg' | relative_url }}" alt="Listing image for 200 Rock Stickers Metal Punk Bands Guitar Amp Music Decal Stickerbomb Skateboard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">200 Rock Stickers Metal Punk Bands Guitar Amp Music Decal Stickerbomb Skateboard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +519,15 @@ Their value lies in their ability to preserve information that might otherwise d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK 50 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard"><img src="{{ '/assets/images/marketplace-covers/b94035e21fc434e40bf7.jpg' | relative_url }}" alt="Listing image for UK 50 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">UK 50 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +535,15 @@ Their value lies in their ability to preserve information that might otherwise d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billy Fury - Car Window Sticker - Country Rock &amp; Roll Music Decal Rockabilly V01"><img src="{{ '/assets/images/marketplace-covers/b2743a0161d796b43303.jpg' | relative_url }}" alt="Listing image for Billy Fury - Car Window Sticker - Country Rock &amp; Roll Music Decal Rockabilly V01" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">Billy Fury - Car Window Sticker - Country Rock &amp; Roll Music Decal Rockabilly V01</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +551,7 @@ Their value lies in their ability to preserve information that might otherwise d
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="paper-setlists-can-a-handwritten-setlist-prove-a-royalty-claim-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="can-a-handwritten-setlist-prove-a-royalty-claim-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,129 +766,129 @@ Their value lies in their ability to preserve information that might otherwise d
 
 1. <a id="endnote-1"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/music-creators/ascap-onstage](https://www.ascap.com/music-creators/ascap-onstage)  
+   Link: <a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStageASCAP OnStage gets you paid when you play your music live. You can collect royalties when you play your music live at an ASC...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: socan.com  
-   Link: [https://www.socan.com/frequently-asked-questions/](https://www.socan.com/frequently-asked-questions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCANFAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</p></details>
+   Link: <a href="https://www.socan.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/frequently-asked-questions/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQHow am I paid for my live-music performances? +. To receive concert royalties, you must complete and submit a Notification of Liv...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: socan.com  
-   Link: [https://www.socan.com/wp-content/uploads/2026/01/Live-Performances-Setlist-Submissions-EN.pdf](https://www.socan.com/wp-content/uploads/2026/01/Live-Performances-Setlist-Submissions-EN.pdf)  
+   Link: <a href="https://www.socan.com/wp-content/uploads/2026/01/Live-Performances-Setlist-Submissions-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/wp-content/uploads/2026/01/Live-Performances-Setlist-Submissions-EN.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Performances and Set List SubmissionsIn the new portal, live performance submissions take place in 2 steps. 1. Create your set list...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment](https://www.ascap.com/help/royalties-and-payment)  
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentAny writer members who perform their songs live can submit eligible performance claims through OnStage. However, ASC...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: socan.com  
-   Link: [https://www.socan.com/resource-centre/](https://www.socan.com/resource-centre/)  
+   Link: <a href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/resource-centre/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resource CentreSign in to your SOCAN account. In the Performances &amp; Repertoire tab, click Unidentified Performances, then Concerts with N...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2101.02098](https://arxiv.org/abs/2101.02098)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInvestigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.02098</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</p></details>
    Published: January 6, 2021  
 
 7. <a id="endnote-7"></a>
    Source: socan.com  
-   Link: [https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf](https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf)  
+   Link: <a href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>then. Concerts with no Set List. You are now...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage](https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage)  
+   Link: <a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maximize Your Membership with ASCAP OnStageThe OnStage landing page contains two sections: &quot;Performances&quot; and &quot;Set Lists.&quot; The “Set Lists...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances  
-   Link: [https://www.prsformusic.com/royalties/report-live-performances](https://www.prsformusic.com/royalties/report-live-performances)  
+   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: diymusician.cdbaby.com  
    Title: missing live performance royalties  
-   Link: [https://diymusician.cdbaby.com/music-[rights](https://diymusician.cdbaby.com/music-[rights)  
+   Link: <a href="https://diymusician.cdbaby.com/music-[rights" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-[rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStage. If you&#x27;re affiliated with ASCAP, you can submit...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: socanmagazine.ca  
    Title: the breakdown getting paid via socan for live performances  
-   Link: [https://www.socanmagazine.ca/sound-advice/the-breakdown-getting-paid-via-socan-for-live-performances/](https://www.socanmagazine.ca/sound-advice/the-breakdown-getting-paid-via-socan-for-live-performances/)  
+   Link: <a href="https://www.socanmagazine.ca/sound-advice/the-breakdown-getting-paid-via-socan-for-live-performances/" target="_blank" rel="noopener noreferrer nofollow">https://www.socanmagazine.ca/sound-advice/the-breakdown-getting-paid-via-socan-for-live-performances/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCAN Words and MusicThe Breakdown: Getting Paid via SOCAN for Live...17 Dec 2018 — Simply sign in, then go to SOCAN Performances &amp; Repe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
    Published: July 4, 2025  
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
    Title: when do i need to report my setlists by  
-   Link: [https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by](https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by)  
+   Link: <a href="https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReport all your live shows6 May 2025 — Report your live shows to us via your online account. You can also re-use or adapt yo...</p></details>
    Published: May 2025  
 
 15. <a id="endnote-15"></a>
    Source: prsformusic.com  
    Title: perform live report your show get paid  
-   Link: [https://www.prsformusic.com/members-news/2025/perform-live-report-your-show-get-paid](https://www.prsformusic.com/members-news/2025/perform-live-report-your-show-get-paid)  
+   Link: <a href="https://www.prsformusic.com/members-news/2025/perform-live-report-your-show-get-paid" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/2025/perform-live-report-your-show-get-paid</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jun 2025 — You can earn royalties every time you perform by letting us know what you played and where. It&#x27;s quick and easy, and you ca...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/dj-royalties](https://www.prsformusic.com/royalties/dj-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalties correctly...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/online-live-concert](https://www.prsformusic.com/licences/online-live-concert)  
+   Link: <a href="https://www.prsformusic.com/licences/online-live-concert" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/online-live-concert</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Live Concert LicenceYes, we are asking everyone to submit a setlist for their events. To pay royalties to the songwriters, compose...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: help.prsformusic.com  
-   Link: [https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties](https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties)  
+   Link: <a href="https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>long after submitting a setlist will I receive the royalties?As you may already know, PRS distributes royalties quarterly in April, July...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: prsformusic.com  
    Title: how to maximise opportunities when playing live atlanta cobb  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb](https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If music is your job, you...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/terms-of-use/reporting-live-performances](https://www.prsformusic.com/terms-of-use/reporting-live-performances)  
+   Link: <a href="https://www.prsformusic.com/terms-of-use/reporting-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/terms-of-use/reporting-live-performances</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting live performances terms and conditionsMembers of the Performing Right Society Limited (“PRS”) can report their live performance...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prsformusic.com  
    Title: Self-administering / Direct [licensing](&#123;&#123; 'licensing/' | relative_url &#125;&#125;) Report live performances  
-   Link: [https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances](https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances)  
+   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that by law only the local CMO is mandated to manage live concert rights and you will have to claim royalties directly...Read...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: prsformusic.com  
    Title: played live this year earn royalties by reporting your performances  
-   Link: [https://www.prsformusic.com/members-news/played-live-this-year-earn-royalties-by-reporting-your-performances](https://www.prsformusic.com/members-news/played-live-this-year-earn-royalties-by-reporting-your-performances)  
+   Link: <a href="https://www.prsformusic.com/members-news/played-live-this-year-earn-royalties-by-reporting-your-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/played-live-this-year-earn-royalties-by-reporting-your-performances</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remember to report all your shows. Live performances of your music can earn you money in the UK and around the world.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: help.prsformusic.com  
    Title: how do i report a performance to you  
-   Link: [https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you](https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you)  
+   Link: <a href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You can find it on your homepage after logging into your online account, or under the Royalties...Read more...</p></details>
 
 ### Additional References
@@ -900,51 +896,51 @@ Their value lies in their ability to preserve information that might otherwise d
 24. <a id="endnote-24"></a>
    Source: muzooka.com  
    Title: SOCA N Setlist Reporting  
-   Link: [https://www.muzooka.com/performing-rights-organization/socan](https://www.muzooka.com/performing-rights-organization/socan)  
+   Link: <a href="https://www.muzooka.com/performing-rights-organization/socan" target="_blank" rel="noopener noreferrer nofollow">https://www.muzooka.com/performing-rights-organization/socan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCAN Setlist Reporting - Submit &amp; Collect with MuzookaSubmit your live setlist performance directly to SOCAN using Muzooka&#x27;s automated r...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DJs/comments/1r6czs8/does_anyone_submit_setlists_to_performing_rights/](https://www.reddit.com/r/DJs/comments/1r6czs8/does_anyone_submit_setlists_to_performing_rights/)  
+   Link: <a href="https://www.reddit.com/r/DJs/comments/1r6czs8/does_anyone_submit_setlists_to_performing_rights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DJs/comments/1r6czs8/does_anyone_submit_setlists_to_performing_rights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ic at a venue that pays fees to said PRO, theoretically you can submit...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/494929453962326/posts/7528418260613375/](https://www.facebook.com/groups/494929453962326/posts/7528418260613375/)  
+   Link: <a href="https://www.facebook.com/groups/494929453962326/posts/7528418260613375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/494929453962326/posts/7528418260613375/</a>  
 
 27. <a id="endnote-27"></a>
    Source: zachbornheimermusic.com  
    Title: how to make money from live performances legally 2  
-   Link: [https://zachbornheimermusic.com/music-business/how-to-make-money-from-live-performances-legally-2/](https://zachbornheimermusic.com/music-business/how-to-make-money-from-live-performances-legally-2/)  
+   Link: <a href="https://zachbornheimermusic.com/music-business/how-to-make-money-from-live-performances-legally-2/" target="_blank" rel="noopener noreferrer nofollow">https://zachbornheimermusic.com/music-business/how-to-make-money-from-live-performances-legally-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find &quot;ASCAP OnStage&quot; under Member [Access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;). Enter event details and your setlist. Submit and wait for royalty...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/](https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The songs don&#x27;t need to be recorded or released yet and it pays roughly $1-$2+ per original song...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: aristake.com  
    Title: live performance royalties  
-   Link: [https://aristake.com/live-performance-royalties/](https://aristake.com/live-performance-royalties/)  
+   Link: <a href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/live-performance-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If You Perform Live, You Could Be Missing Out On Lots of...1 Dec 2020 — If you perform original music, your Performing Rights Organizati...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/](https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/)  
+   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicSubmit your setlists – PRS for Music allows your clients to earn royalties when their music is performed live. Learn how at...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DQHYQnCjgLI/](https://www.instagram.com/p/DQHYQnCjgLI/)  
+   Link: <a href="https://www.instagram.com/p/DQHYQnCjgLI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQHYQnCjgLI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There was one gig every 137 seconds...FACT: DJs can — and should — submit setlists via the Report Live Performances tool so we can pay t...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: blog.songtrust.com  
    Title: how to collect live performance royalties  
-   Link: [https://blog.songtrust.com/how-to-collect-live-performance-royalties](https://blog.songtrust.com/how-to-collect-live-performance-royalties)  
+   Link: <a href="https://blog.songtrust.com/how-to-collect-live-performance-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-to-collect-live-performance-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You need to provide the basic...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/](https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/</a>

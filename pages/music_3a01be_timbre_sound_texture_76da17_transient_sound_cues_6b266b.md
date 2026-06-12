@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275
 - music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b
 tags:
-- music
+- music-3-a01-be
 - timbre
 - transient-cues
 keywords:
-- music
+- music-3-a01-be
 - timbre
 - transient-cues
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The ear detects quick attacks and decays in notes to identify instruments or voices almost instantly.
 hero_summary: The ear detects quick attacks and decays in notes to identify instruments or voices almost instantly.
 layout: default
 permalink: /transient-cues/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /timbre/
 nav_short_title: Transient Cues
 title: How Brief Attacks Reveal Sound Sources Instantly
-title_full: How Brief Attacks Reveal Sound Sources Instantly | Timbre
+title_full: How Brief Attacks Reveal Sound Sources Instantly
 display_title_short: Transient Cues
 display_title: Transient Cues
 heading_title: How Brief Attacks Reveal Sound Sources Instantly
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The Same Note Can Feel Different | Music
+parent_title: Why The Same Note Can Feel Different
 parent_permalink: /timbre/
 parent_nav_short_title: Timbre
 parent_heading_title: Why The Same Note Can Feel Different
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Vocal Tract Formants Define Individual Timbre
 up_link:
   basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -265,7 +265,7 @@ next_link:
   permalink: /vocal-formants/
   short_title: Vocal Formants
   heading_title: How Vocal Tract Formants Define Individual Timbre
-date: '2026-06-09 07:55:28 '
+date: '2026-06-11 23:59:14 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1.webp
@@ -274,52 +274,40 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_c
 
 ## Introduction
 
-Our ability to tell *what* made a sound — whether it’s a violin’s bow, a breathy soprano, or a struck piano string — doesn’t wait for hundreds of milliseconds of listening. Instead, the auditory system picks up **transient sound cues** — rapid changes in acoustic energy that occur at the very beginning and end of sounds — to recognise sources remarkably quickly. These quick onsets and offsets, along with tiny variations in how sound rises and falls, form part of the **[timbre]({{ 'timbre/' | relative_url }})** that lets us instantly identify voices and instruments. Scientific research shows that listeners can categorise sound sources accurately even when only a few tens of milliseconds of acoustic information are available, and that the ear and brain are particularly sensitive to these fleeting cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
-
+Our ability to tell *what* made a sound — whether it’s a violin’s bow, a breathy soprano, or a struck piano string — doesn’t wait for hundreds of milliseconds of listening. Instead, the auditory system picks up **transient sound cues** — rapid changes in acoustic energy that occur at the very beginning and end of sounds — to recognise sources remarkably quickly. These quick onsets and offsets, along with tiny variations in how sound rises and falls, form part of the **[timbre]({{ 'timbre/' | relative_url }})** that lets us instantly identify voices and instruments. Scientific research shows that listeners can categorise sound sources accurately even when only a few tens of milliseconds of acoustic information are available, and that the ear and brain are particularly sensitive to these fleeting cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-dark.svg" | relative_url }}" alt="Transient Cues illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Transient Attacks and Decays: The Acoustic Signature of Sound Sources
 
 Every sound has a *temporal envelope* — the pattern of how its amplitude rises and falls over time — composed of phases typically described as attack, sustain, decay, and release. Among these, the **attack phase** is critical for recognition: it contains a burst of energy when a sound begins, often rich in high-frequency and non‑periodic components that are not present once a note has stabilised. This burst, known as a **transient**, arises when the [physical]({{ 'physical/' | relative_url }}) mechanism of the sound — a plucked string, a vocal fold vibration onset, a mallet strike — suddenly shifts the status of the sound production system. Such rapid changes carry distinct acoustic fingerprints that the auditory system uses to differentiate between sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.ircam.fr">[support.ircam.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.ircam.fr</span><span class="citation-popover-title">Transients Method</span><span class="citation-popover-snippet">Introduction - Transient Detection Principles...</span></span></span>
 
-Research specifically probing the *role of attack transients* in instrumental timbre supports their relevance: experiments that selectively remove or alter transient content show that identity judgements become harder, confirming that listeners rely on rapid onset information, though even segments beyond the strict onset also contribute to recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSpecifying the perceptual relevance of onset transients for musical instrument identification - PubMed...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2VBMgwwCj2M" title="What are Audio Transients? (Triple Threat Quick Tip)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2VBMgwwCj2M" target="_blank" rel="noopener noreferrer">What are Audio Transients? (Triple Threat Quick Tip)</a></p><p class="youtube-embed-meta">Channel: Zion Brock</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2VBMgwwCj2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2VBMgwwCj2M">Open on YouTube</a></p></div></div></div>
+Research specifically probing the *role of attack transients* in instrumental timbre supports their relevance: experiments that selectively remove or alter transient content show that identity judgements become harder, confirming that listeners rely on rapid onset information, though even segments beyond the strict onset also contribute to recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Specifying the perceptual relevance of onset transients for musical instrument identification - PubMed...</span></span></span>
 
 ## How Fast Can the Auditory System Recognise a Sound Source?
 
-A striking line of evidence comes from behavioural experiments using rapid presentation paradigms. In these studies, extremely short sound snippets — sometimes just a few tens of milliseconds long — are embedded in sequences of distractors. Listeners are asked to detect or categorise a target sound (e.g., a voice among musical instruments). Remarkably, humans can recognise sound sources at presentation rates up to **30 sounds per second**, corresponding to only **≈33 ms per item**, and performance remains above chance even for durations at or below this level. Recognition for voices is consistently stronger and faster than for other instrument categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+A striking line of evidence comes from behavioural experiments using rapid presentation paradigms. In these studies, extremely short sound snippets — sometimes just a few tens of milliseconds long — are embedded in sequences of distractors. Listeners are asked to detect or categorise a target sound (e.g., a voice among musical instruments). Remarkably, humans can recognise sound sources at presentation rates up to **30 sounds per second**, corresponding to only **≈33 ms per item**, and performance remains above chance even for durations at or below this level. Recognition for voices is consistently stronger and faster than for other instrument categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
-These results indicate that recognition does not require long, stable portions of sound. Instead, the auditory system can extract sufficient timbre cues — likely including transient features — from very brief acoustic windows. The rapid processing implied by these findings places strict temporal constraints on neural models of sound recognition: to succeed, mechanisms must operate on tens of milliseconds timescales, not hundreds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
-
+These results indicate that recognition does not require long, stable portions of sound. Instead, the auditory system can extract sufficient timbre cues — likely including transient features — from very brief acoustic windows. The rapid processing implied by these findings places strict temporal constraints on neural models of sound recognition: to succeed, mechanisms must operate on tens of milliseconds timescales, not hundreds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-2-dark.svg" | relative_url }}" alt="Transient Cues illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Auditory System Sensitivity to Transients
 
 Neurophysiological research supports the behavioural data: the peripheral and central auditory system shows enhanced responsiveness to transient events. Fast response peaks in auditory evoked potentials arise when sound onsets or offsets occur, reflecting synchronous firing across a broad range of cochlear [regions]({{ 'regions/' | relative_url }}) for abrupt sounds. These transient responses are larger and occur earlier for sharper attack characteristics, meaning that cues in the first few milliseconds of a sound play a disproportionately large role in driving neural activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRecognition of brief sounds in rapid serial auditory presentation</span><span class="citation-popover-snippet">2023 Apr 13;18(4):e0284396. doi: 10.1371/journal.pone.0284396 RECOGNITION OF BRIEF SOUNDS IN RAPID SERIAL AUDITORY PRESENTATION Merve Akç...</span></span></span>
 
-This high sensitivity to change is consistent with how the cochlea and auditory brainstem prioritise sudden acoustic energy shifts over steady-state periods, helping the brain detect and encode salient acoustic events quickly. Such mechanisms contribute both to basic sound recognition and to more complex auditory scene analysis (segregating multiple sound sources). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The role of transients in auditory processing</span><span class="citation-popover-snippet">ScienceDirectThe role of transients in auditory processing - ScienceDirectMay 1, 2007...</span><span class="citation-popover-meta">Published: May 1, 2007</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+This high sensitivity to change is consistent with how the cochlea and auditory brainstem prioritise sudden acoustic energy shifts over steady-state periods, helping the brain detect and encode salient acoustic events quickly. Such mechanisms contribute both to basic sound recognition and to more complex auditory scene analysis (segregating multiple sound sources). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The role of transients in auditory processing</span><span class="citation-popover-snippet">The role of transients in auditory processing - ScienceDirectMay 1, 2007...</span><span class="citation-popover-meta">Published: May 1, 2007</span></span></span>
 
 ## Why Transients Matter for Expressive and Emotional Perception
 
-Beyond recognising *what* produced the sound, transient cues also influence how sound feels expressive. Subtle differences in attack and decay characteristics are part of a source’s signature and can convey information about *how* a sound was produced — whether a note was struck firmly or gently, sung breathily or forcefully. These variations feed into our perception of *expressivity* and emotional content because they reflect dynamic aspects of performance familiar to listeners. Rapid temporal cues thus enrich not just source identity but the *affective quality* of sound, anchoring timbre’s human‑like expressiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
-
+Beyond recognising *what* produced the sound, transient cues also influence how sound feels expressive. Subtle differences in attack and decay characteristics are part of a source’s signature and can convey information about *how* a sound was produced — whether a note was struck firmly or gently, sung breathily or forcefully. These variations feed into our perception of *expressivity* and emotional content because they reflect dynamic aspects of performance familiar to listeners. Rapid temporal cues thus enrich not just source identity but the *affective quality* of sound, anchoring timbre’s human‑like expressiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-3-dark.svg" | relative_url }}" alt="Transient Cues illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Interplay With Other Timbre Cues
 
-Transient cues do not work in isolation; they interplay with spectral characteristics such as harmonic content and spectral evolution over time. However, what makes transients particularly powerful for rapid recognition is their **early availability** in the signal. While sustained portions of sound provide complementary identity cues based on frequency content, transients offer the earliest available information the auditory system can exploit, especially when listening conditions are dynamic or cluttered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+Transient cues do not work in isolation; they interplay with spectral characteristics such as harmonic content and spectral evolution over time. However, what makes transients particularly powerful for rapid recognition is their **early availability** in the signal. While sustained portions of sound provide complementary identity cues based on frequency content, transients offer the earliest available information the auditory system can exploit, especially when listening conditions are dynamic or cluttered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 ## Summary
 
-Transient sound cues — especially rapid attack and decay patterns — are critical for the auditory system’s ability to recognise sound sources quickly and accurately. Behavioural studies show that listeners can identify voices and instruments with only a few dozen milliseconds of acoustic information, and neurophysiology reveals enhanced sensory sensitivity to these brief acoustic changes. These transient features not only support rapid source recognition but also contribute to emotional and expressive aspects of timbre, reinforcing timbre’s central role in how sounds *feel* human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+Transient sound cues — especially rapid attack and decay patterns — are critical for the auditory system’s ability to recognise sound sources quickly and accurately. Behavioural studies show that listeners can identify voices and instruments with only a few dozen milliseconds of acoustic information, and neurophysiology reveals enhanced sensory sensitivity to these brief acoustic changes. These transient features not only support rapid source recognition but also contribute to emotional and expressive aspects of timbre, reinforcing timbre’s central role in how sounds *feel* human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -717,120 +705,120 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-019-43126-5](https://www.nature.com/articles/s41598-019-43126-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-43126-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</p></details>
    Published: May 29, 2019  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRecognition of brief sounds in rapid serial auditory presentation  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Apr 13;18(4):e0284396. doi: 10.1371/journal.pone.0284396 RECOGNITION OF BRIEF SOUNDS IN RAPID SERIAL AUDITORY PRESENTATION Merve Akç...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: support.ircam.fr  
    Title: Transients Method  
-   Link: [https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html](https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html)  
+   Link: <a href="https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html" target="_blank" rel="noopener noreferrer nofollow">https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction - Transient Detection Principles...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAuditory brainstem response to complex sounds: a tutorial  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The role of transients in auditory processing  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577](https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe role of transients in auditory processing - ScienceDirectMay 1, 2007...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of transients in auditory processing - ScienceDirectMay 1, 2007...</p></details>
    Published: May 1, 2007  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213](https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAugust 1, 2006 — HEARING RESEARCH Volume 218, Issues 1–2, August 2006, Pages 50-63 Research paper From noise to pitch: Trans...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2006 — HEARING RESEARCH Volume 218, Issues 1–2, August 2006, Pages 50-63 Research paper From noise to pitch: Trans...</p></details>
    Published: August 1, 2006  
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30823780/](https://pubmed.ncbi.nlm.nih.gov/30823780/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSpecifying the perceptual relevance of onset transients for musical instrument [identification](&amp;#123;&amp;#123; &#x27;identification/&#x27; | relative_url &amp;#125;&amp;#125;) - PubMed...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30823780/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying the perceptual relevance of onset transients for musical instrument [identification](&amp;#123;&amp;#123; &#x27;identification/&#x27; | relative_url &amp;#125;&amp;#125;) - PubMed...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31142750/](https://pubmed.ncbi.nlm.nih.gov/31142750/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31142750/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31142750/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 May 29;9(1):8005. doi: 10.1038/s41598-019-43126-5. THE TIME COURSE OF AUDITORY RECOGNITION MEASURED WITH RAPID SEQUENCES OF SHORT NA...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20084007/](https://pubmed.ncbi.nlm.nih.gov/20084007/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20084007/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20084007/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient and sustained features in… Figure 1. Transient and sustained features in the cABR to /dɑ/ Time-domain representation of a… Figu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22559384/](https://pubmed.ncbi.nlm.nih.gov/22559384/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22559384/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22559384/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 May;131(5):4124-33. doi: 10.1121/1.3701865. FAST RECOGNITION OF MUSICAL SOUNDS BASED ON TIMBRE Trevor R Agus^{ 1 }, Clara Suied, Sim...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: [https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html](https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html)  
+   Link: <a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound &quot;quality&quot; or &quot;timbre&quot; describes those characteristics of sound which allow the ear to distinguish sounds which have...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognition Volume 8 - 2017 | [https://doi.org/10.3389/fpsyg.2017.00587](https://doi.org/10.3389/fpsyg.2017.00587) PERCEPTUALLY SALIENT REGIONS OF THE MODULATION POWER SPECTRUM FOR MU...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/3860853](https://zenodo.org/records/3860853)  
+   Link: <a href="https://zenodo.org/records/3860853" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/3860853</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2019 — Published February 26, 2019 | Version v1 Journal article Open SPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
    Published: February 26, 2019  
 
 14. <a id="endnote-14"></a>
    Source: colab.ws  
-   Link: [https://colab.ws/articles/10.1121%2F1.5091778](https://colab.ws/articles/10.1121%2F1.5091778)  
+   Link: <a href="https://colab.ws/articles/10.1121%2F1.5091778" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1121%2F1.5091778</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying the perceptual relevance of onset transients for musical instrument identification | CoLabFebruary 1, 2019 — Journal of the Ac...</p></details>
    Published: February 1, 2019  
 
 15. <a id="endnote-15"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4OAM31b9/](https://ouci.dntb.gov.ua/en/works/4OAM31b9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4OAM31b9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4OAM31b9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the perceptual relevance of onset transients for musical instrument identificationSPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pure.qub.ac.uk  
    Title: qub.ac.uk Auditory gist: Recognition of very short sounds from timbre cues  
-   Link: [https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/](https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/)  
+   Link: <a href="https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/" target="_blank" rel="noopener noreferrer nofollow">https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agus *, Simon J. Thorpe *, Nima Mesgarani *, Daniel Pressnitzer Research output: Contribution to jour...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: audiolabs-erlangen.de  
    Title: An overview of onset detection methods can also be found  
-   Link: [https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html)  
+   Link: <a href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C6S1_OnsetDetectionONSET DETECTION Following Section 6.1 of [Müller, FMP, Springer 2015], we introduce in this notebook the task referred...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Jul 12;118(4):2358–2370. doi: 10.1152/jn.01048.2015 INFLUENCE OF ENVELOPE WAVEFORM ON ITD SENSITIVITY OF NEURONS IN THE AUDITORY MID...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Analyzing Attack Transients: The Fingerprints of Musical Instruments  
-   Link: [https://www.youtube.com/watch?v=gJ9i_B6Z76g](https://www.youtube.com/watch?v=gJ9i_B6Z76g)  
+   Link: <a href="https://www.youtube.com/watch?v=gJ9i_B6Z76g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gJ9i_B6Z76g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing the Beginning: The Perceptual Role of Rapid Onset Cues...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Science of Sound: Why Transients Matter for Recognition  
-   Link: [https://www.youtube.com/watch?v=kYyAedLpe60](https://www.youtube.com/watch?v=kYyAedLpe60)  
+   Link: <a href="https://www.youtube.com/watch?v=kYyAedLpe60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYyAedLpe60</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Attack Transients: The Fingerprints of Musical Instruments...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Hearing the Beginning: The Perceptual Role of Rapid Onset Cues  
-   Link: [https://www.youtube.com/watch?v=I78s7-j_kXo](https://www.youtube.com/watch?v=I78s7-j_kXo)  
+   Link: <a href="https://www.youtube.com/watch?v=I78s7-j_kXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I78s7-j_kXo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Engineering Essentials: Shaping and Detecting Transients...</p></details>

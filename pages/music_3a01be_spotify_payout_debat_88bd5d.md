@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - spotify-payouts
 keywords:
-- music
+- music-3-a01-be
 - spotify-payouts
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Spotify's industry payouts are large, but creator debates focus on how that money is divided after it leaves the platform.
 hero_summary: Spotify's industry payouts are large, but creator debates focus on how that money is divided after it leaves the platform.
 layout: default
 permalink: /spotify-payouts/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Spotify Payouts
 title: What Streaming Payout Claims Really Mean
-title_full: What Streaming Payout Claims Really Mean | Music
+title_full: What Streaming Payout Claims Really Mean
 display_title_short: Spotify Payouts
 display_title: Spotify Payouts
 heading_title: What Streaming Payout Claims Really Mean
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 next_link:
   basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
-date: '2026-06-09 06:27:06 '
+date: '2026-06-11 23:14:51 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d-overview-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d-overview.webp
@@ -503,35 +503,30 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d-overview-social.j
 
 Spotify payout claims sit at the centre of the streaming debate because they describe two different realities at once. Spotify can truthfully say it pays very large sums to the music industry: more than US$11 billion in 2025, nearly US$70 billion over its lifetime, and roughly two-thirds of its music revenue to recording and [publishing]({{ 'publishing/' | relative_url }}) rightsholders. Yet many artists can also truthfully say that their personal streaming income is small, unpredictable or hard to understand. The missing link is that Spotify usually pays rightsholders, not artists directly. Labels, distributors, publishers, collecting societies, managers and contracts then determine what reaches performers and songwriters. Spotify’s payout numbers therefore frame the debate less as a simple question of “how much [per stream]({{ 'per-stream/' | relative_url }})?” and more as a question of where the money goes after it leaves the platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Royalties Guide – Spotify for Artists</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties Guide – Spotify for Artists...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-overview.webp" | relative_url }}" alt="Overview image for Spotify Payouts" loading="eager" decoding="sync" fetchpriority="high">
 ## Platform Payouts Versus Artist Income
 
 The first confusion in Spotify payout debates is the word “payout”. In ordinary conversation, people often hear it as “what artists are paid”. In Spotify’s own reporting, it usually means money paid to the music industry’s rightsholders. Those rightsholders include record labels, distributors, publishers and collecting societies, which then pass money on according to their own contracts and royalty rules. Spotify’s royalty guide states that it allocates roughly two-thirds of its music revenue from Premium subscriptions and advertising to [recording]({{ 'recording/' | relative_url }}) and publishing [royalties]({{ 'royalties/' | relative_url }}), with about four-fifths of that royalty pool going to recordings and one-fifth to publishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Royalties Guide – Spotify for Artists</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties Guide – Spotify for Artists...</span></span></span>
 
-That distinction is why two apparently conflicting claims can both be grounded in evidence. On one side, Spotify’s 2026 Loud & Clear report says the company paid more than US$11 billion to the [music]({{ 'music/' | relative_url }}) industry in 2025, up more than 10% year on year, and that about half of royalties were generated by independent artists and labels. On the other side, individual musicians may see only a small share of that system once rightsholder splits, recoupment, publisher administration, collaborator shares, management commissions and tax are applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span>
+That distinction is why two apparently conflicting claims can both be grounded in evidence. On one side, Spotify’s 2026 Loud & Clear report says the company paid more than US$11 billion to the music industry in 2025, up more than 10% year on year, and that about half of royalties were generated by independent artists and labels. On the other side, individual musicians may see only a small share of that system once rightsholder splits, recoupment, publisher administration, collaborator shares, management commissions and tax are applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span>
 
 The debate becomes even more confused when people reduce Spotify to a single “per-stream rate”. Spotify says it does not pay a fixed royalty for each play. Instead, it uses “streamshare”: it totals streams in a given period and market, then pays rightsholders according to their share of listening. If a rightsholder’s [catalogue]({{ 'catalogue/' | relative_url }}) accounts for a certain proportion of eligible streams in a country, that rightsholder receives the corresponding share of the relevant royalty pool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Royalties Guide – Spotify for Artists</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties Guide – Spotify for Artists...</span></span></span>
 
-This means a stream is not a small coin with the same value everywhere. Its effective value depends on factors such as the country, the mix of Premium and ad-supported listening, subscription prices, advertising revenue, currency, and the total number of streams competing for the same pool. A song can gain more plays while the implied average value per play changes, because the system divides a pool rather than attaching a permanent price tag to every listen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">Understanding Spotify royalties</span><span class="citation-popover-snippet">SpotifyUnderstanding Spotify royalties - Spotify...</span></span></span>
+This means a stream is not a small coin with the same value everywhere. Its effective value depends on factors such as the country, the mix of Premium and ad-supported listening, subscription prices, advertising revenue, currency, and the total number of streams competing for the same pool. A song can gain more plays while the implied average value per play changes, because the system divides a pool rather than attaching a permanent price tag to every listen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">Understanding Spotify royalties</span><span class="citation-popover-snippet">Understanding Spotify royalties - Spotify...</span></span></span>
 
 For readers trying to understand streaming economics, the useful question is therefore not simply “what does Spotify pay per stream?” A better question is: “What share of Spotify’s royalty pool goes to this recording or composition, who receives it first, and what contractual path determines the creator’s eventual income?”
 
-
-<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-1-dark.svg" | relative_url }}" alt="Spotify Payouts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Big Payout Numbers Do Not End The Argument
 
 Spotify’s public data is designed to answer one major criticism: that streaming has not built a real music economy. Its Loud & Clear figures show a platform that is now one of the largest financial engines in recorded music. In 2025, Spotify said more than 13,800 artists generated at least US$100,000 from Spotify alone, more than 1,500 artists generated over US$1 million, and the 100,000th highest-earning artist made more than US$7,300, compared with about US$350 in 2015. Those figures matter because they show that meaningful income is not limited only to the most visible global superstars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span>
 
 But the same figures also reveal the central tension. Spotify is describing gross royalties generated on the platform before each artist’s individual deal structure is applied. A self-releasing artist using a distributor may retain a very different share from an artist signed to a traditional label contract. A songwriter may receive money through different publishing and collecting-society routes from the performer on the recording. A band may divide its final income among members, producers, featured artists and other collaborators. The platform-level number is therefore a starting point, not the artist’s take-home pay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Royalties Guide – Spotify for Artists</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties Guide – Spotify for Artists...</span></span></span>
 
-The UK Competition and Markets Authority reached a similarly careful conclusion in its 2022 music and streaming market study. It found that streaming had helped consumers through access and low prices, and had been pivotal in the sector’s recovery from piracy. It also found that some conditions for artists had improved, including more ways to distribute music and higher average royalty rates in major-label deals for new artists. At the same time, it recognised that creators face more competition than ever because low barriers to distribution mean far more artists and songs are competing for attention and streaming revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Music and streaming market study</span><span class="citation-popover-snippet">Music and streaming market study</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The UK Competition and Markets Authority reached a similarly careful conclusion in its 2022 music and streaming market study. It found that streaming had helped consumers through access and low prices, and had been pivotal in the sector’s recovery from piracy. It also found that some conditions for artists had improved, including more ways to distribute music and higher average royalty rates in major-[label deals]({{ 'label-deals/' | relative_url }}) for new artists. At the same time, it recognised that creators face more competition than ever because low barriers to distribution mean far more artists and songs are competing for attention and streaming revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Music and streaming market study</span><span class="citation-popover-snippet">Music and streaming market study</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
 That is the deeper reason Spotify payouts remain contested. The platform can increase the total amount flowing into the industry while the average creator still experiences streaming as crowded, low-margin and hard to convert into a living. More money in the system does not automatically mean more bargaining power for every artist.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yAq_D-m3qEs" title="How The Economics of Streaming Actually Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yAq_D-m3qEs" target="_blank" rel="noopener noreferrer">How The Economics of Streaming Actually Work</a></p><p class="youtube-embed-meta">Channel: CuriousReason</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yAq_D-m3qEs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yAq_D-m3qEs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-1-dark.svg" | relative_url }}" alt="Spotify Payouts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Labels, Publishers And The Long Route To The Creator
 
 Spotify sits near the start of a payment chain, not at the end of it. When a song is streamed, there are usually two broad [rights]({{ 'rights/' | relative_url }}) systems involved: the recording, often called the master, and the composition, meaning the underlying song. The recording side usually pays a label or distributor, which then pays the artist according to the recording agreement. The composition side usually involves publishers, collecting societies and mechanical or performance royalty systems, which then pay songwriters and publishers according to registrations and splits. Spotify’s own guide describes this as money moving through labels, distributors, publishers and collective management organisations before reaching artists and songwriters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Royalties Guide – Spotify for Artists</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties Guide – Spotify for Artists...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">music streaming royalties</span></span></span>
@@ -544,8 +539,6 @@ The CMA’s findings show why this debate cannot be reduced to a single villain.
 
 For artists, the most practical consequence is that “Spotify paid X” does not answer “what did I earn?” The answer depends on ownership, contract terms, recoupment, territory, streamshare, publishing registrations, collaborator splits and administrative accuracy.
 
-
-<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-2-dark.svg" | relative_url }}" alt="Spotify Payouts illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1,000-Stream Rule Shows The Distribution Fight
 
 Spotify’s 2024 monetisation threshold is a useful concrete example of how payout rules shape the debate. Since April 2024, tracks must have reached at least 1,000 streams in the previous 12 months to be included in Spotify’s recorded music royalty pool calculation. Spotify says the rule is intended to strengthen the royalty ecosystem and reduce manipulation, with an undisclosed minimum number of unique listeners also required to prevent users gaming the system by repeatedly streaming their own tracks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">modernizing our royalty system</span><span class="citation-popover-snippet">modernizing our royalty system</span></span></span>
@@ -556,9 +549,7 @@ Critics see a different risk. For a new artist, experimental musician, niche com
 
 This episode shows why Spotify payouts frame a wider argument about power. The company is not merely distributing a fixed pot; it is also setting eligibility rules, fraud policies and platform norms that influence who can earn, who is counted and how money is redistributed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HslzN_XgazM" title="How Do Music Streaming Services Pay Musicians? Pro Rata vs User-Centric Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HslzN_XgazM" target="_blank" rel="noopener noreferrer">How Do Music Streaming Services Pay Musicians? Pro Rata vs User-Centric Royalties</a></p><p class="youtube-embed-meta">Channel: Happily Ever Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HslzN_XgazM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HslzN_XgazM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-2-dark.svg" | relative_url }}" alt="Spotify Payouts illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Transparency Remains Contested
 
 Spotify created Loud & Clear to make streaming economics easier to understand, and it has undeniably made some platform-level information more visible. The site explains streamshare, publishes aggregate payout milestones, and gives examples of how many artists cross different annual royalty thresholds. For listeners and policymakers, that is more useful than vague claims about streaming being either a miracle or a disaster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span>
@@ -571,14 +562,11 @@ Artist and performer groups have pushed for reforms such as equitable remunerati
 
 Spotify’s critics also use transparency in a broader sense. They are not only asking for the size of Spotify’s royalty pool. They are asking who benefits from playlist placement, how recommendation systems shape listening, how artificial streaming is detected, what private licensing terms exist between platforms and major rightsholders, and how much money is lost or delayed because metadata is incomplete. Those questions are harder to answer with a single annual payout figure.
 
-
-<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-3-dark.svg" | relative_url }}" alt="Spotify Payouts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How To Read Spotify Payout Claims
 
 Spotify payout claims are most useful when read as claims about the size and direction of the streaming economy, not as simple measures of artist fairness. The company’s large annual payout figures show that streaming has become a major source of recorded music and publishing revenue. They do not prove that every creator is fairly paid, that contracts are balanced, or that the system is easy to audit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and Clear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Royalties Guide – Spotify for Artists</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties Guide – Spotify for Artists...</span></span></span>
 
 A careful reader should separate five questions that are often mixed together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -594,9 +582,7 @@ The streaming debate persists because Spotify is both a solution and a pressure 
 
 Spotify payouts therefore frame the streaming debate precisely because they are large enough to prove that streaming is economically important, but not specific enough to prove that the money reaches creators in ways they experience as fair, transparent or durable.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-3-dark.svg" | relative_url }}" alt="Spotify Payouts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -995,187 +981,187 @@ Spotify payouts therefore frame the streaming debate precisely because they are 
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
    Title: for Artists Royalties Guide – Spotify for Artists  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties Guide – Spotify for Artists...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.spotify.com  
    Title: Understanding Spotify royalties  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding Spotify royalties - Spotify...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify royalties - Spotify...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Music and streaming market study  
-   Link: [https://www.gov.uk/cma-cases/music-and-streaming-market-study](https://www.gov.uk/cma-cases/music-and-streaming-market-study)  
+   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Music and streaming final report: executive  
-   Link: [https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf](https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: support.spotify.com  
    Title: Track monetization eligibility  
-   Link: [https://support.spotify.com/us/artists/article/track-monetization-eligibility/](https://support.spotify.com/us/artists/article/track-monetization-eligibility/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/track-monetization-eligibility/</a>  
 
 6. <a id="endnote-6"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
 
 7. <a id="endnote-7"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout](https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout)  
+   Link: <a href="https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout</a>  
 
 8. <a id="endnote-8"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/work/646/economics-of-music-streaming/](https://committees.parliament.uk/work/646/economics-of-music-streaming/)  
+   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/</a>  
 
 9. <a id="endnote-9"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf](https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk](https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
 
 12. <a id="endnote-12"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/18910/pdf/](https://committees.parliament.uk/writtenevidence/18910/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/18910/pdf/</a>  
 
 13. <a id="endnote-13"></a>
    Source: newsroom.spotify.com  
    Title: 2025 music industry payouts whats next for artists  
-   Link: [https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/](https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/)  
+   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
 
 14. <a id="endnote-14"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/](https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/)  
+   Link: <a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
 
 15. <a id="endnote-15"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/publications/33512/documents/182096/default/](https://committees.parliament.uk/publications/33512/documents/182096/default/)  
+   Link: <a href="https://committees.parliament.uk/publications/33512/documents/182096/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/33512/documents/182096/default/</a>  
 
 16. <a id="endnote-16"></a>
    Source: artist.tools  
    Title: how much per stream on spotify a guide for artists  
-   Link: [https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists](https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists)  
+   Link: <a href="https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-much-per-stream-on-spotify-a-guide-for-artists</a>  
 
 17. <a id="endnote-17"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Takeaways  
-   Link: [https://loudandclear.byspotify.com/takeaways/](https://loudandclear.byspotify.com/takeaways/)  
+   Link: <a href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearTakeaways - Loud and Clear...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming royalties  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
 
 19. <a id="endnote-19"></a>
    Source: bura.brunel.ac.uk  
    Title: Full Text  
-   Link: [https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf](https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf)  
+   Link: <a href="https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: euronews.com  
    Title: spotify has officially demonetised all songs with less than 1000 streams  
-   Link: [https://www.euronews.com/culture/2024/04/08/spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams](https://www.euronews.com/culture/2024/04/08/spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams)  
+   Link: <a href="https://www.euronews.com/culture/2024/04/08/spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/culture/2024/04/08/spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams</a>  
 
 21. <a id="endnote-21"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/](https://loudandclear.byspotify.com/)  
+   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/](https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/)  
+   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: spotifys 2026 loud clear report shows record royalty payouts despite sustained c  
-   Link: [https://www.facebook.com/RelixMagazine/posts/spotifys-2026-loud-clear-report-shows-record-royalty-payouts-despite-sustained-c/1385614346699218/](https://www.facebook.com/RelixMagazine/posts/spotifys-2026-loud-clear-report-shows-record-royalty-payouts-despite-sustained-c/1385614346699218/)  
+   Link: <a href="https://www.facebook.com/RelixMagazine/posts/spotifys-2026-loud-clear-report-shows-record-royalty-payouts-despite-sustained-c/1385614346699218/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RelixMagazine/posts/spotifys-2026-loud-clear-report-shows-record-royalty-payouts-despite-sustained-c/1385614346699218/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: spotify has officially demonetised all songs with less than 1000 streams on apr  
-   Link: [https://www.facebook.com/kofiansahh/posts/-spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams-on-apr/407935565311467/](https://www.facebook.com/kofiansahh/posts/-spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams-on-apr/407935565311467/)  
+   Link: <a href="https://www.facebook.com/kofiansahh/posts/-spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams-on-apr/407935565311467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kofiansahh/posts/-spotify-has-officially-demonetised-all-songs-with-less-than-1000-streams-on-apr/407935565311467/</a>  
 
 25. <a id="endnote-25"></a>
    Source: djmag.com  
    Title: spotify officially demonetises all tracks under 1000 streams  
-   Link: [https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)  
+   Link: <a href="https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams</a>  
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVvk02mDuKR/](https://www.instagram.com/p/DVvk02mDuKR/)  
+   Link: <a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
 
 27. <a id="endnote-27"></a>
    Source: unchainedmusic.io  
    Title: spotify loud clear a comprehensive overview of the music streaming economy  
-   Link: [https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy](https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy)  
+   Link: <a href="https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy" target="_blank" rel="noopener noreferrer nofollow">https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy</a>  
 
 28. <a id="endnote-28"></a>
    Source: aepo-artis.org  
    Title: spotifys loud but not so clear  
-   Link: [https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/](https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/)  
+   Link: <a href="https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/</a>  
 
 29. <a id="endnote-29"></a>
    Source: thequietus.com  
    Title: spotify officially demonetises all uploads with under 1 000 streams  
-   Link: [https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/](https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/)  
+   Link: <a href="https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/" target="_blank" rel="noopener noreferrer nofollow">https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/</a>  
 
 30. <a id="endnote-30"></a>
    Source: wlv.openrepository.com  
-   Link: [https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content](https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content)  
+   Link: <a href="https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content" target="_blank" rel="noopener noreferrer nofollow">https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model](https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model)  
+   Link: <a href="https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curve News: Pro Rata Vs User Centric Streaming Model12 Oct 2025 — The pro-rata streaming model is the system currently used by most major...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/](https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/)  
+   Link: <a href="https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/altvenuesforjazz/posts/2415188575484570/](https://www.facebook.com/groups/altvenuesforjazz/posts/2415188575484570/)  
+   Link: <a href="https://www.facebook.com/groups/altvenuesforjazz/posts/2415188575484570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/altvenuesforjazz/posts/2415188575484570/</a>  
 
 34. <a id="endnote-34"></a>
    Source: revelator.com  
-   Link: [https://revelator.com/blog/how-music-streaming-royalties-work](https://revelator.com/blog/how-music-streaming-royalties-work)  
+   Link: <a href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-music-streaming-royalties-work</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MusicWeekNews/posts/independent-labels-give-evidence-to-mps-at-the-streaming-inquiry-heres-our-round/3823989710955769/](https://www.facebook.com/MusicWeekNews/posts/independent-labels-give-evidence-to-mps-at-the-streaming-inquiry-heres-our-round/3823989710955769/)  
+   Link: <a href="https://www.facebook.com/MusicWeekNews/posts/independent-labels-give-evidence-to-mps-at-the-streaming-inquiry-heres-our-round/3823989710955769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MusicWeekNews/posts/independent-labels-give-evidence-to-mps-at-the-streaming-inquiry-heres-our-round/3823989710955769/</a>  
 
 36. <a id="endnote-36"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
 
 37. <a id="endnote-37"></a>
    Source: legalblogs.wolterskluwer.com  
-   Link: [https://legalblogs.wolterskluwer.com/copyright-blog/music-streaming-debates-2025-roundup-wrap-up-for-the-streaming-services-as-we-know-them-part-1/](https://legalblogs.wolterskluwer.com/copyright-blog/music-streaming-debates-2025-roundup-wrap-up-for-the-streaming-services-as-we-know-them-part-1/)  
+   Link: <a href="https://legalblogs.wolterskluwer.com/copyright-blog/music-streaming-debates-2025-roundup-wrap-up-for-the-streaming-services-as-we-know-them-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://legalblogs.wolterskluwer.com/copyright-blog/music-streaming-debates-2025-roundup-wrap-up-for-the-streaming-services-as-we-know-them-part-1/</a>  
 
 38. <a id="endnote-38"></a>
    Source: thetrichordist.com  
-   Link: [https://thetrichordist.com/2021/07/14/press-release-house-of-commons-digital-culture-media-and-sport-committee-new-report-economics-of-music-streaming/](https://thetrichordist.com/2021/07/14/press-release-house-of-commons-digital-culture-media-and-sport-committee-new-report-economics-of-music-streaming/)  
+   Link: <a href="https://thetrichordist.com/2021/07/14/press-release-house-of-commons-digital-culture-media-and-sport-committee-new-report-economics-of-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://thetrichordist.com/2021/07/14/press-release-house-of-commons-digital-culture-media-and-sport-committee-new-report-economics-of-music-streaming/</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Why Artists Are Paid So Little From Spotify  
-   Link: [https://www.youtube.com/watch?v=cM1-dZ030-k](https://www.youtube.com/watch?v=cM1-dZ030-k)  
+   Link: <a href="https://www.youtube.com/watch?v=cM1-dZ030-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cM1-dZ030-k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where the Money Goes: The Streaming Revenue Explained...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ipbusinessacademy.org  
    Title: economics of streaming the rise of the music artists rights and compensation  
-   Link: [https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation](https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation)  
+   Link: <a href="https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation" target="_blank" rel="noopener noreferrer nofollow">https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation</a>

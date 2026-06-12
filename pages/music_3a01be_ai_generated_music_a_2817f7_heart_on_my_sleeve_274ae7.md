@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c
 - music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add
 tags:
-- music
+- music-3-a01-be
 - ai-songs
 - fake-drake
 keywords:
-- music
+- music-3-a01-be
 - ai-songs
 - fake-drake
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The viral Ghostwriter977 track became the clearest public test of whether a new song can still misuse a famous voice.
 hero_summary: The viral Ghostwriter977 track became the clearest public test of whether a new song can still misuse a famous voice.
 layout: default
 permalink: /fake-drake/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-songs/
 nav_short_title: Fake Drake
 title: Why Heart on My Sleeve Was Removed
-title_full: Why Heart on My Sleeve Was Removed | AI Songs
+title_full: Why Heart on My Sleeve Was Removed
 display_title_short: Fake Drake
 display_title: Fake Drake
 heading_title: Why Heart on My Sleeve Was Removed
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets Credit For AI Made Music? | Music
+parent_title: Who Gets Credit For AI Made Music?
 parent_permalink: /ai-songs/
 parent_nav_short_title: AI Songs
 parent_heading_title: Who Gets Credit For AI Made Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When an AI Song Sounds Like a Star
 up_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -265,7 +265,7 @@ next_link:
   permalink: /prompt-copyright/
   short_title: Prompt Copyright
   heading_title: Can a Prompt Make a Song Copyrightable?
-date: '2026-06-09 06:42:07 '
+date: '2026-06-11 23:22:27 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleev
 
 In April 2023, an anonymous creator known as Ghostwriter977 released “Heart on My Sleeve”, a song that sounded uncannily like a new collaboration between Drake and The Weeknd. Neither artist had participated. The vocals had been generated with AI voice-cloning tools, while the underlying song itself was reportedly written and produced by Ghostwriter977. Within days, the track had accumulated hundreds of thousands of streams and millions of views before being removed from major platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ai song featuring fake drake and weeknd vocals pulled from streaming services</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed...</span></span></span> Wikipedia The episode became the defining early test of AI music authorship because it exposed a gap between traditional copyright rules and the public <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heart on My Sleeve (Ghostwriter977 song</span><span class="citation-popover-snippet">Heart on My Sleeve (Ghostwriter977 song</span></span></span> perception of musical identity. Listeners were not merely hearing an AI-assisted composition. They were hearing what appeared to be a new Drake performance. That distinction transformed a niche technology story into a mainstream debate about [ownership]({{ 'ownership/' | relative_url }}), consent, artistic identity and platform responsibility. Harvard Law School <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The track, created by an anonymous user known as Ghostwriter977, gained massive traction online, with over 15 million streams on TikTok a...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1-dark.svg" | relative_url }}" alt="Fake Drake illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Made the Track Legally and Culturally Different
 
-Many earlier AI [music]({{ 'music/' | relative_url }}) experiments involved obvious parody, novelty covers or synthetic versions of existing songs. “Heart on My Sleeve” felt different because it was presented as a plausible commercial release. The song did not simply imitate Drake's style; it reproduced a vocal performance close enough that many listeners initially believed it was genuine. It then shifted to a simulated Weeknd vocal for the second section, creating the impression of a major-label collaboration that had never occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2023/music/news/fake-ai-generated-drake-weeknd-collaboration-heart-on-my-sleeve-1235585451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">fake ai generated drake weeknd collaboration heart on my sleeve 1235585451</span><span class="citation-popover-snippet">VarietyAI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration Alarms...Apr 17, 2023 — A fake Drake/Weeknd collaboration that was apparently AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">A Harvard Law expert explains why AI-generated art doesn&#x27;t qualify for copyright...</span></span></span> The track's success demonstrated that a famous voice could function as a valuable creative asset independent of the person behind it. Reports at the time indicated that the song attracted roughly 600,000 Spotify streams, hundreds of thousands of YouTube views and around 15 million TikTok views before widespread removals occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsAI Drake and The Weeknd: Song called Heart On My Sleeve18 Apr 2023 — A song featuring the cloned voices of Drake and The Weeknd...</span></span></span>
+Many earlier AI music experiments involved obvious parody, novelty covers or synthetic versions of existing songs. “Heart on My Sleeve” felt different because it was presented as a plausible commercial release. The song did not simply imitate Drake's style; it reproduced a vocal performance close enough that many listeners initially believed it was genuine. It then shifted to a simulated Weeknd vocal for the second section, creating the impression of a major-label collaboration that had never occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2023/music/news/fake-ai-generated-drake-weeknd-collaboration-heart-on-my-sleeve-1235585451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">fake ai generated drake weeknd collaboration heart on my sleeve 1235585451</span><span class="citation-popover-snippet">AI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration Alarms...Apr 17, 2023 — A fake Drake/Weeknd collaboration that was apparently AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">A Harvard Law expert explains why AI-generated art doesn&#x27;t qualify for copyright...</span></span></span> The track's success demonstrated that a famous voice could function as a valuable creative asset independent of the person behind it. Reports at the time indicated that the song attracted roughly 600,000 Spotify streams, hundreds of thousands of YouTube views and around 15 million TikTok views before widespread removals occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsAI Drake and The Weeknd: Song called Heart On My Sleeve18 Apr 2023 — A song featuring the cloned voices of Drake and The Weeknd...</span></span></span>
 
 Culturally, this was significant because listeners often judged the song on its musical merits rather than treating it as a technical demonstration. Some praised it as sounding like a convincing Drake release. Others viewed it as evidence that celebrity vocal identity could be separated from human performance and reproduced at scale. The debate therefore shifted from “Can AI generate music?” to “Can someone else release music that effectively uses another artist’s voice as raw material?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The track, created by an anonymous user known as Ghostwriter977, gained massive traction online, with over 15 million streams on TikTok a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6273529/drake-the-weeknd-ai-song/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Created by TikTok user @ghostwriter977, the song stirred debate on social media about its quality and the ethical implications of using A...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HuDVfmA29tU" title="Drake &amp; The Weeknd AI Song &#x27;Heart On My Sleeve&#x27; -- Reaction and Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HuDVfmA29tU" target="_blank" rel="noopener noreferrer">Drake &amp; The Weeknd AI Song &#x27;Heart On My Sleeve&#x27; -- Reaction and Analysis</a></p><p class="youtube-embed-meta">Channel: Tyler Bryden &middot; Views: 649 &middot; Uploaded: April 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HuDVfmA29tU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HuDVfmA29tU">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +289,7 @@ Culturally, this was significant because listeners often judged the song on its 
 
 At first glance, the removals appeared to be a simple copyright enforcement action. In practice, the legal basis was much more complicated.
 
-Traditional music copyright protects compositions and sound recordings. “Heart on My Sleeve” reportedly used an original composition rather than directly sampling a Drake or Weeknd master [recording]({{ 'recording/' | relative_url }}). That meant the most obvious form of infringement was not necessarily present. Legal commentators quickly noted that copyright law had not clearly answered whether a generated vocal imitation, by itself, infringed copyright. Harvard Law School <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engadget.com">[engadget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engadget.com</span><span class="citation-popover-snippet">EngadgetAI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</span></span></span> Universal Music Group(UMG), which represents both artists, argued that AI systems trained on copyrighted recordings and used to generate artist imitations raised copyright concerns and violated artists' [rights]({{ 'rights/' | relative_url }}). The company also framed the issue as an ethical responsibility for platforms, not merely a narrow legal dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engadget.com">[Engadget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engadget.com</span><span class="citation-popover-snippet">EngadgetAI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</span></span></span>
+Traditional music copyright protects compositions and sound recordings. “Heart on My Sleeve” reportedly used an original composition rather than directly sampling a Drake or Weeknd master [recording]({{ 'recording/' | relative_url }}). That meant the most obvious form of infringement was not necessarily present. Legal commentators quickly noted that copyright law had not clearly answered whether a generated vocal imitation, by itself, infringed copyright. Harvard Law School <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engadget.com">[engadget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engadget.com</span><span class="citation-popover-snippet">AI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</span></span></span> Universal Music Group(UMG), which represents both artists, argued that AI systems trained on copyrighted recordings and used to generate artist imitations raised copyright concerns and violated artists' [rights]({{ 'rights/' | relative_url }}). The company also framed the issue as an ethical responsibility for platforms, not merely a narrow legal dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engadget.com">[Engadget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engadget.com</span><span class="citation-popover-snippet">AI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</span></span></span>
 
 The uncertainty arose because several different legal theories overlapped:
 
@@ -302,7 +300,6 @@ The uncertainty arose because several different legal theories overlapped:
 
 This mixture of claims explains why the case became such a useful authorship test. The central dispute was not merely who wrote the song. It was whether vocal identity itself deserved protection when separated from a human performer.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rQssjhX31Z0" title="Ghostwriter - Heart on my sleeve Drake ft. The Weeknd (Remastered AI Song) BUKO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rQssjhX31Z0" target="_blank" rel="noopener noreferrer">Ghostwriter - Heart on my sleeve Drake ft. The Weeknd (Remastered AI Song) BUKO</a></p><p class="youtube-embed-meta">Channel: BUKO &middot; Views: 1.3M &middot; Uploaded: April 2023 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rQssjhX31Z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rQssjhX31Z0">Open on YouTube</a></p></div></div></div>
 
 ### The Voice Problem
@@ -312,7 +309,6 @@ One reason the case attracted legal [attention]({{ 'attention/' | relative_url }
 Legal scholars and commentators pointed to earlier publicity-rights cases involving celebrity soundalikes as potentially relevant analogies. Those cases suggested that using a recognisable imitation of a performer could create liability even without copying a specific recording. AI voice cloning intensified that issue because the imitation could be far more precise than a human impersonator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">When the beat goes on without you</span><span class="citation-popover-snippet">On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 As a result, “Heart on My Sleeve” became less a copyright case than a stress test for multiple legal systems at once.
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-2-dark.svg" | relative_url }}" alt="Fake Drake illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Case Changed Platform Expectations
@@ -326,8 +322,7 @@ The case accelerated several expectations across the industry:
 * Platforms would need policies specifically addressing AI impersonation.
 * Labels would push for stronger detection and removal systems.
 * Artists would seek more explicit control over digital replicas of their voices.
-* AI developers would face scrutiny regarding training data and model outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engadget.com">[Engadget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engadget.com</span><span class="citation-popover-snippet">EngadgetAI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6273529/drake-the-weeknd-ai-song/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Created by TikTok user @ghostwriter977, the song stirred debate on social media about its quality and the ethical implications of using A...</span></span></span> The controversy also influenced later debates about awards eligibility and commercial distribution. Even when some observers argued that thesongwriting itself involved human creativity, questions surrounding voice rights and legal [clearance]({{ 'clearance/' | relative_url }}) prevented the track from being treated like a normal commercial release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/music/ai-fake-drake-weeknd-song-not-eligible-for-grammys/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Recording Academy CEO Harvey Mason Jr. clarified that the song&#x27;s vocals were not legally obtained or cleared, and it is not commercially...</span></span></span>
-
+* AI developers would face scrutiny regarding training data and model outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engadget.com">[Engadget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engadget.com</span><span class="citation-popover-snippet">AI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6273529/drake-the-weeknd-ai-song/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Created by TikTok user @ghostwriter977, the song stirred debate on social media about its quality and the ethical implications of using A...</span></span></span> The controversy also influenced later debates about awards eligibility and commercial distribution. Even when some observers argued that thesongwriting itself involved human creativity, questions surrounding voice rights and legal [clearance]({{ 'clearance/' | relative_url }}) prevented the track from being treated like a normal commercial release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/music/ai-fake-drake-weeknd-song-not-eligible-for-grammys/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Recording Academy CEO Harvey Mason Jr. clarified that the song&#x27;s vocals were not legally obtained or cleared, and it is not commercially...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pkbQV71ZvK4" title="How the VIRAL AI Drake song &#x27;Heart On My Sleeve&#x27; was made" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pkbQV71ZvK4" target="_blank" rel="noopener noreferrer">How the VIRAL AI Drake song &#x27;Heart On My Sleeve&#x27; was made</a></p><p class="youtube-embed-meta">Channel: Aiden Kenway &middot; Views: 369.0K &middot; Uploaded: May 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pkbQV71ZvK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pkbQV71ZvK4">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +333,6 @@ The significance of “Heart on My Sleeve” was not that it was the first AI-ge
 That distinction matters for authorship. A listener could reasonably identify Ghostwriter977 as the songwriter and producer, yet still perceive Drake and The Weeknd as the performers. The song therefore split authorship into separate layers: who wrote it, who generated it, who appeared to perform it and whose identity gave it value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">A Harvard Law expert explains why AI-generated art doesn&#x27;t qualify for copyright...</span></span></span>
 
 The takedown did not resolve those questions. Instead, it established them as central issues for the AI music era. From that point onward, debates about [AI songs]({{ 'ai-songs/' | relative_url }}) increasingly focused not only on creativity and copyright, but also on whether a famous voice can be treated as a protected part of artistic identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=5325&amp;context=wlr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.law.uw.edu">[UW Law Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.law.uw.edu</span><span class="citation-popover-title">Law Digital Commons Fake Drake?</span><span class="citation-popover-snippet">AI Music Generation Implicates Copyright and...by H Juzon · 2024 · Cited by 7 — Singers whose voices are mimicked in AI soundalikes, lik...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/drake-emergence-ai-creative-expression-2024-05-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This application of AI in creative expression raises questions about personal publicity rights versus artistic freedom. Drake&#x27;s use of Tu...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-3-dark.svg" | relative_url }}" alt="Fake Drake illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -459,15 +453,15 @@ The takedown did not resolve those questions. Instead, it established them as ce
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�"><img src="{{ '/assets/images/marketplace-covers/00f084cb9f70521dfe10.jpg' | relative_url }}" alt="Listing image for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Super Mario Get On My Level Game Play Poster T-Shirt"><img src="https://i.ebayimg.com/images/g/BokAAeSwY5xp3z7M/s-l225.jpg" alt="Listing image for Super Mario Get On My Level Game Play Poster T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer">Super Mario Get On My Level Game Play Poster T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heart on My Sleeve poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heart on My Sleeve poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -475,15 +469,15 @@ The takedown did not resolve those questions. Instead, it established them as ce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/e574b85e6ea7837f77e8.jpg' | relative_url }}" alt="Listing image for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gallagher And Lyle Heart On My Sleeve Rare Original Promo Poster Ad Framed!"><img src="https://i.ebayimg.com/images/g/~NIAAOSwHnFVtLhN/s-l225.jpg" alt="Listing image for Gallagher And Lyle Heart On My Sleeve Rare Original Promo Poster Ad Framed!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer">Gallagher And Lyle Heart On My Sleeve Rare Original Promo Poster Ad Framed!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heart on My Sleeve poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heart on My Sleeve poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +485,15 @@ The takedown did not resolve those questions. Instead, it established them as ce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE"><img src="{{ '/assets/images/marketplace-covers/9e6b0e9379405eb4797b.jpg' | relative_url }}" alt="Listing image for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ella Mai Heart On My Sleeve Premium Album Music Poster | Artwork Tracklist"><img src="https://i.ebayimg.com/images/g/c-QAAOSw91BixXcL/s-l225.jpg" alt="Listing image for Ella Mai Heart On My Sleeve Premium Album Music Poster | Artwork Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer">Ella Mai Heart On My Sleeve Premium Album Music Poster | Artwork Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heart on My Sleeve poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heart on My Sleeve poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +501,15 @@ The takedown did not resolve those questions. Instead, it established them as ce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift"><img src="{{ '/assets/images/marketplace-covers/580ec3ae4384bc88b889.jpg' | relative_url }}" alt="Listing image for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gallagher &amp; Lyle Heart On My Sleeve 1976 Short Print Poster Type Ad, Advert"><img src="https://i.ebayimg.com/images/g/gQoAAOSwYHFjti35/s-l225.jpg" alt="Listing image for Gallagher &amp; Lyle Heart On My Sleeve 1976 Short Print Poster Type Ad, Advert" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer">Gallagher &amp; Lyle Heart On My Sleeve 1976 Short Print Poster Type Ad, Advert</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heart on My Sleeve poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heart on My Sleeve poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,7 +517,7 @@ The takedown did not resolve those questions. Instead, it established them as ce
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="fake-drake-why-heart-on-my-sleeve-was-removed-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heart+on+My+Sleeve+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heart on My Sleeve poster" data-ebay-reference="why-heart-on-my-sleeve-was-removed-heart-on-my-sleeve-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -739,168 +733,168 @@ The takedown did not resolve those questions. Instead, it established them as ce
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Heart on My Sleeve (Ghostwriter977 song)  
-   Link: [https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29](https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951](https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951)  
+   Link: <a href="https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsAI Drake and The Weeknd: Song called Heart On My Sleeve18 Apr 2023 — A song featuring the cloned voices of Drake and The Weeknd...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: hls.harvard.edu  
-   Link: [https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/](https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/)  
+   Link: <a href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Harvard Law expert explains why AI-generated art doesn&#x27;t qualify for copyright...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed](https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed)  
+   Link: <a href="https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The track, created by an anonymous user known as Ghostwriter977, gained massive traction online, with over 15 million streams on TikTok a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
-   Link: [https://time.com/6273529/drake-the-weeknd-ai-song/](https://time.com/6273529/drake-the-weeknd-ai-song/)  
+   Link: <a href="https://time.com/6273529/drake-the-weeknd-ai-song/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6273529/drake-the-weeknd-ai-song/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Created by TikTok user @ghostwriter977, the song stirred debate on social media about its quality and the ethical implications of using A...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: variety.com  
    Title: fake ai generated drake weeknd collaboration heart on my sleeve 1235585451  
-   Link: [https://variety.com/2023/music/news/fake-ai-generated-drake-weeknd-collaboration-heart-on-my-sleeve-1235585451/](https://variety.com/2023/music/news/fake-ai-generated-drake-weeknd-collaboration-heart-on-my-sleeve-1235585451/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VarietyAI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration Alarms...Apr 17, 2023 — A fake Drake/Weeknd collaboration that was apparently AI...</p></details>
+   Link: <a href="https://variety.com/2023/music/news/fake-ai-generated-drake-weeknd-collaboration-heart-on-my-sleeve-1235585451/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2023/music/news/fake-ai-generated-drake-weeknd-collaboration-heart-on-my-sleeve-1235585451/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration Alarms...Apr 17, 2023 — A fake Drake/Weeknd collaboration that was apparently AI...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: When the beat goes on without you  
-   Link: [https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/](https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</p></details>
    Published: April 27, 2026  
 
 8. <a id="endnote-8"></a>
    Source: engadget.com  
-   Link: [https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html](https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EngadgetAI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</p></details>
+   Link: <a href="https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html" target="_blank" rel="noopener noreferrer nofollow">https://www.engadget.com/copyright-in-spotlight-after-streaming-platforms-pull-ai-generated-drake-song-183513972.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated Drake and The Weeknd song pulled from...Universal Music Group said the use of AI-generated voices mimicking Drake a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iplaw.allard.ubc.ca  
-   Link: [https://iplaw.allard.ubc.ca/2023/04/28/rights-raps-and-robots-drakes-voice-mimicked-by-ai-is-it-a-hotline-bling-or-a-copyright-sting/](https://iplaw.allard.ubc.ca/2023/04/28/rights-raps-and-robots-drakes-voice-mimicked-by-ai-is-it-a-hotline-bling-or-a-copyright-sting/)  
+   Link: <a href="https://iplaw.allard.ubc.ca/2023/04/28/rights-raps-and-robots-drakes-voice-mimicked-by-ai-is-it-a-hotline-bling-or-a-copyright-sting/" target="_blank" rel="noopener noreferrer nofollow">https://iplaw.allard.ubc.ca/2023/04/28/rights-raps-and-robots-drakes-voice-mimicked-by-ai-is-it-a-hotline-bling-or-a-copyright-sting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rights, Raps, and Robots: Drake&#x27;s Voice Mimicked by AIApr 28, 2023 — The AI generated song “heart on my sleeve” featuring AI versions of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/drake-emergence-ai-creative-expression-2024-05-23/](https://www.reuters.com/legal/legalindustry/drake-emergence-ai-creative-expression-2024-05-23/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/drake-emergence-ai-creative-expression-2024-05-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/drake-emergence-ai-creative-expression-2024-05-23/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This application of AI in creative expression raises questions about personal publicity rights versus artistic freedom. Drake&#x27;s use of Tu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ew.com  
-   Link: [https://ew.com/music/ai-fake-drake-weeknd-song-not-eligible-for-grammys/](https://ew.com/music/ai-fake-drake-weeknd-song-not-eligible-for-grammys/)  
+   Link: <a href="https://ew.com/music/ai-fake-drake-weeknd-song-not-eligible-for-grammys/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/music/ai-fake-drake-weeknd-song-not-eligible-for-grammys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recording Academy CEO Harvey Mason Jr. clarified that the song&#x27;s vocals were not legally obtained or cleared, and it is not commercially...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Heart On My Sleeve  
-   Link: [https://www.youtube.com/watch?v=uD2V-WrhGpg](https://www.youtube.com/watch?v=uD2V-WrhGpg)  
+   Link: <a href="https://www.youtube.com/watch?v=uD2V-WrhGpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD2V-WrhGpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ghostwriter977 (Drake feat. The Weeknd...Drake Ft. The Weekend (AI cover by Ghostwriter) Fixed up: - 808s - minor instruments - outro Fo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pkbQV71ZvK4](https://www.youtube.com/watch?v=pkbQV71ZvK4)  
+   Link: <a href="https://www.youtube.com/watch?v=pkbQV71ZvK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pkbQV71ZvK4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anced remake of both the instrumental and vocal production. get...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Heart](https://en.wikipedia.org/wiki/Heart)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heart" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HeartThe heart is a muscular organ found in humans and other animals. This organ pumps blood through the blood vessels.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Drake & The Weeknd AI Song 'Heart On My Sleeve' -- Reaction and Analysis  
-   Link: [https://www.youtube.com/watch?v=HuDVfmA29tU](https://www.youtube.com/watch?v=HuDVfmA29tU)  
+   Link: <a href="https://www.youtube.com/watch?v=HuDVfmA29tU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HuDVfmA29tU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Simulates Drake and Weeknd! Ghostwriter - Heart on My Sleeve...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: AI Simulates Drake and Weeknd! Ghostwriter  
-   Link: [https://www.youtube.com/watch?v=iaVQei_OogM](https://www.youtube.com/watch?v=iaVQei_OogM)  
+   Link: <a href="https://www.youtube.com/watch?v=iaVQei_OogM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iaVQei_OogM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake &amp; The Weeknd&#x27;s AI-Generated Song &quot;Heart on My Sleeve&quot; Gets Grammy Nomination...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HgHNVZpkB9A](https://www.youtube.com/watch?v=HgHNVZpkB9A)  
+   Link: <a href="https://www.youtube.com/watch?v=HgHNVZpkB9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HgHNVZpkB9A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI DRAKE SONG EXPLAINED / HEART ON MY SLEEVE...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: AI DRAKE SONG EXPLAINED / HEART ON MY SLEEVE  
-   Link: [https://www.youtube.com/watch?v=x6pd5tL0tZA](https://www.youtube.com/watch?v=x6pd5tL0tZA)  
+   Link: <a href="https://www.youtube.com/watch?v=x6pd5tL0tZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x6pd5tL0tZA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghostwriter - Heart on my sleeve Drake ft. The Weeknd (Remastered AI Song)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rQssjhX31Z0](https://www.youtube.com/watch?v=rQssjhX31Z0)  
+   Link: <a href="https://www.youtube.com/watch?v=rQssjhX31Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQssjhX31Z0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heart on My Sleeve AI Drake Weeknd Ghostwriter977 analysis Ghostwriter - Heart on my sleeve Drake ft. The Weeknd (Remastered AI Song) BUK...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: ai song featuring fake drake and weeknd vocals pulled from streaming services  
-   Link: [https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)  
+   Link: <a href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: digitalcommons.law.uw.edu  
    Title: Law Digital Commons Fake Drake?  
-   Link: [https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=5325&context=wlr](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=5325&context=wlr)  
+   Link: <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=5325&amp;context=wlr" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=5325&amp;context=wlr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music Generation Implicates Copyright and...by H Juzon · 2024 · Cited by 7 — Singers whose voices are mimicked in AI soundalikes, lik...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/](https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/)  
+   Link: <a href="https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration, &#x27;Heart...AI-Generated Drake and Weeknd Song &#x27;Heart on My Sleeve&#x27; Is Not Eligible for a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/12rbsi8/aigenerated_fake_drakeweeknd_collaboration_heart/](https://www.reddit.com/r/popheads/comments/12rbsi8/aigenerated_fake_drakeweeknd_collaboration_heart/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/12rbsi8/aigenerated_fake_drakeweeknd_collaboration_heart/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/12rbsi8/aigenerated_fake_drakeweeknd_collaboration_heart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration, &#x27;Heart...AI-generated fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; collaboration, &#x27;Heart on My Sleeve,&#x27; delig...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/technology/comments/12tm9zn/drake_and_the_weeknd_ai_song_pulled_from_spotify/](https://www.reddit.com/r/technology/comments/12tm9zn/drake_and_the_weeknd_ai_song_pulled_from_spotify/)  
+   Link: <a href="https://www.reddit.com/r/technology/comments/12tm9zn/drake_and_the_weeknd_ai_song_pulled_from_spotify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/12tm9zn/drake_and_the_weeknd_ai_song_pulled_from_spotify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drake and The Weeknd AI song pulled from Spotify and...The original TikTok video has seemingly been taken down, and the song has since b...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Drizzy/comments/12mq9gp/ai_song_heart_on_my_sleeve/](https://www.reddit.com/r/Drizzy/comments/12mq9gp/ai_song_heart_on_my_sleeve/)  
+   Link: <a href="https://www.reddit.com/r/Drizzy/comments/12mq9gp/ai_song_heart_on_my_sleeve/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Drizzy/comments/12mq9gp/ai_song_heart_on_my_sleeve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI song &quot;Heart on my sleeve&quot;: r/DrizzyThought: If this was made by AI, how can Universal Music Group claim copyright to it? It would be...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/12q82uo/aigenerated_fake_drakeweeknd_collaboration_heart/](https://www.reddit.com/r/interestingasfuck/comments/12q82uo/aigenerated_fake_drakeweeknd_collaboration_heart/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/12q82uo/aigenerated_fake_drakeweeknd_collaboration_heart/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/12q82uo/aigenerated_fake_drakeweeknd_collaboration_heart/</a>  
 
 27. <a id="endnote-27"></a>
    Source: thefader.com  
-   Link: [https://www.thefader.com/2023/04/18/ai-generated-drake-the-weeknd-song-removed-from-streaming-ghostwriter-heart-on-my-sleeve](https://www.thefader.com/2023/04/18/ai-generated-drake-the-weeknd-song-removed-from-streaming-ghostwriter-heart-on-my-sleeve)  
+   Link: <a href="https://www.thefader.com/2023/04/18/ai-generated-drake-the-weeknd-song-removed-from-streaming-ghostwriter-heart-on-my-sleeve" target="_blank" rel="noopener noreferrer nofollow">https://www.thefader.com/2023/04/18/ai-generated-drake-the-weeknd-song-removed-from-streaming-ghostwriter-heart-on-my-sleeve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral song with AI-generated Drake and The Weeknd...Apr 18, 2023 — heart on my sleeve” by ghostwriter, the AI-generated Drake and Weeknd...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/legaladviceofftopic/comments/12s6eyh/if_the_ghostwriter_producer_sued_umg_for_the/](https://www.reddit.com/r/legaladviceofftopic/comments/12s6eyh/if_the_ghostwriter_producer_sued_umg_for_the/)  
+   Link: <a href="https://www.reddit.com/r/legaladviceofftopic/comments/12s6eyh/if_the_ghostwriter_producer_sued_umg_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legaladviceofftopic/comments/12s6eyh/if_the_ghostwriter_producer_sued_umg_for_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This week, the world was introduced to the first AI-generated viral hit by a mysterious sheet-wearing producer who goes by Ghostwriter...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: musicbusinessresearch.wordpress.com  
    Title: After all, 'Heart on My Sleeve' is an original composition performed by AI  
-   Link: [https://musicbusinessresearch.wordpress.com/2024/05/27/ai-in-the-music-industry-part-17-fake-drake-and-the-problem-of-deep-fakes/](https://musicbusinessresearch.wordpress.com/2024/05/27/ai-in-the-music-industry-part-17-fake-drake-and-the-problem-of-deep-fakes/)  
+   Link: <a href="https://musicbusinessresearch.wordpress.com/2024/05/27/ai-in-the-music-industry-part-17-fake-drake-and-the-problem-of-deep-fakes/" target="_blank" rel="noopener noreferrer nofollow">https://musicbusinessresearch.wordpress.com/2024/05/27/ai-in-the-music-industry-part-17-fake-drake-and-the-problem-of-deep-fakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Music Industry – Part 17: &#x27;Fake Drake&#x27; and the...May 27, 2024 — The legal situation with the &#x27;Fake Drake&#x27; song is more complicated...</p></details>
    Published: May 27, 2024  
 
 30. <a id="endnote-30"></a>
    Source: musicbusinessworldwide.com  
    Title: ai fake drake track deleted on spotify youtube tiktok millions of plays  
-   Link: [https://www.musicbusinessworldwide.com/ai-fake-drake-track-deleted-on-spotify-youtube-tiktok-millions-of-plays/](https://www.musicbusinessworldwide.com/ai-fake-drake-track-deleted-on-spotify-youtube-tiktok-millions-of-plays/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/ai-fake-drake-track-deleted-on-spotify-youtube-tiktok-millions-of-plays/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/ai-fake-drake-track-deleted-on-spotify-youtube-tiktok-millions-of-plays/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;fake Drake&#x27; track deleted on Spotify, YouTube, TikTok...18 Apr 2023 — An apparently original composition called heart on my sleeve...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: artisana.ai  
    Title: ai generated song mimicking drake and the weeknd pulled from streaming  
-   Link: [https://www.artisana.ai/articles/ai-generated-song-mimicking-drake-and-the-weeknd-pulled-from-streaming](https://www.artisana.ai/articles/ai-generated-song-mimicking-drake-and-the-weeknd-pulled-from-streaming)  
+   Link: <a href="https://www.artisana.ai/articles/ai-generated-song-mimicking-drake-and-the-weeknd-pulled-from-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.artisana.ai/articles/ai-generated-song-mimicking-drake-and-the-weeknd-pulled-from-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Song Mimicking Drake and The Weeknd...Apr 19, 2023 — A viral AI-generated song imitating Drake and The Weeknd has been remo...</p></details>

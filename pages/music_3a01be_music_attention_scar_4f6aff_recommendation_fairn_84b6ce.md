@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1
 - music_3a01be_music_attention_scar_4f6aff_spotify_stream_thres_6d0ae7
 tags:
-- music
+- music-3-a01-be
 - attention
 - algorithms
 keywords:
-- music
+- music-3-a01-be
 - attention
 - algorithms
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Recommendation systems can help listeners explore, but optimisation may still favour music that already has strong attention signals.
 hero_summary: Recommendation systems can help listeners explore, but optimisation may still favour music that already has strong attention signals.
 layout: default
 permalink: /algorithms-e34b11/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /attention/
 nav_short_title: Algorithms
 title: Do Music Algorithms Broaden Taste?
-title_full: Do Music Algorithms Broaden Taste? | Attention
+title_full: Do Music Algorithms Broaden Taste?
 display_title_short: Algorithms
 display_title: Algorithms
 heading_title: Do Music Algorithms Broaden Taste?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Being Available Is Not Being Heard | Music
+parent_title: Why Being Available Is Not Being Heard
 parent_permalink: /attention/
 parent_nav_short_title: Attention
 parent_heading_title: Why Being Available Is Not Being Heard
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When A Playlist Frames The Song
 up_link:
   basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -265,7 +265,7 @@ next_link:
   permalink: /catalogue-gap/
   short_title: Catalogue Gap
   heading_title: How Big Can The Music Shelf Get?
-date: '2026-06-09 07:36:14 '
+date: '2026-06-11 23:49:06 '
 header:
   og_image: /assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1.webp
@@ -274,13 +274,12 @@ image: /assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fa
 
 ## Introduction
 
-Recommendation algorithms can widen music taste, but they do not do so automatically. Their core purpose is usually to help listeners navigate overwhelming abundance by predicting what they are likely to enjoy next. In a catalogue containing tens or hundreds of millions of tracks, that function is genuinely useful. Many listeners discover artists, genres and scenes they would never have found through manual searching alone. Yet the same systems often rely on signals such as previous listening behaviour, engagement rates and existing popularity. As a result, they can expand taste in some directions while narrowing it in others. The central fairness question is not whether algorithms can recommend unfamiliar music, but whether they can do so without systematically favouring music that already attracts [attention]({{ 'attention/' | relative_url }}). Research suggests that achieving both satisfaction and fair exposure remains one of the hardest design problems in [music recommendation]({{ 'algorithms-a7ef46/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCFairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span>
-
+Recommendation algorithms can widen music taste, but they do not do so automatically. Their core purpose is usually to help listeners navigate overwhelming abundance by predicting what they are likely to enjoy next. In a [catalogue]({{ 'catalogue/' | relative_url }}) containing tens or hundreds of millions of tracks, that function is genuinely useful. Many listeners discover artists, genres and scenes they would never have found through manual searching alone. Yet the same systems often rely on signals such as previous listening behaviour, engagement rates and existing popularity. As a result, they can expand taste in some directions while narrowing it in others. The central fairness question is not whether algorithms can recommend unfamiliar music, but whether they can do so without systematically favouring music that already attracts [attention]({{ 'attention/' | relative_url }}). Research suggests that achieving both satisfaction and fair exposure remains one of the hardest design problems in music recommendation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-dark.svg" | relative_url }}" alt="Algorithms illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Recommendations Help Listeners Navigate Abundance
 
-[Music]({{ 'music/' | relative_url }}) recommendation systems emerged because modern catalogues are too large for human navigation alone. Most systems combine signals from a listener's own history with patterns observed across millions of other users. If people with similar listening habits enjoy a particular artist or track, the system may recommend it. Content-based approaches also analyse musical characteristics, allowing recommendations that sound similar even when listeners have never encountered the artist before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recommender system</span><span class="citation-popover-snippet">Recommender system</span></span></span>
+Music recommendation systems emerged because modern catalogues are too large for human navigation alone. Most systems combine signals from a listener's own history with patterns observed across millions of other users. If people with similar listening habits enjoy a particular artist or track, the system may recommend it. Content-based approaches also analyse musical characteristics, allowing recommendations that sound similar even when listeners have never encountered the artist before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recommender system</span><span class="citation-popover-snippet">Recommender system</span></span></span>
 
 In principle, this creates opportunities for discovery. A listener who enjoys one jazz pianist might be introduced to contemporary players from another country. Someone interested in indie rock could encounter adjacent genres such as dream pop or post-punk. Recommendation systems can lower the cost of exploration by reducing the effort required to search vast catalogues manually. Fairness researchers note that recommendation systems can benefit multiple stakeholders simultaneously: listeners gain [access]({{ 'access/' | relative_url }}) to relevant music, while artists gain potential exposure beyond their existing audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</span></span></span>
 
@@ -290,12 +289,11 @@ Importantly, diversity is not merely a cultural ideal. Research conducted at Spo
 
 The difficulty is that recommendation systems often learn from attention signals that are already unevenly distributed. Popular songs generate more plays, saves, shares and behavioural data. Because algorithms are trained on such signals, they frequently conclude that already-popular music is the safest recommendation.
 
-Researchers describe this pattern as popularity bias. Studies in music recommendation repeatedly find that popular artists and tracks receive disproportionate recommendation exposure, while less-known music is underrepresented. This can create a feedback loop: music that gains attention becomes easier for algorithms to recommend, which generates more attention, which further strengthens its recommendation signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCFairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Researchers describe this pattern as popularity bias. Studies in music recommendation repeatedly find that popular artists and tracks receive disproportionate recommendation exposure, while less-known music is underrepresented. This can create a feedback loop: music that gains attention becomes easier for algorithms to recommend, which generates more attention, which further strengthens its recommendation signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-This matters because streaming catalogues contain enormous long tails of niche and emerging music. Availability alone does not guarantee visibility. If recommendation engines primarily reinforce existing popularity, they may preserve the appearance of infinite choice while directing listening toward a relatively small portion of the [catalogue]({{ 'catalogue/' | relative_url }}). Research on recommender systems more broadly warns that popularity bias can produce cumulative reinforcement effects over time, concentrating attention instead of distributing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</span></span></span>
+This matters because streaming catalogues contain enormous long tails of niche and emerging music. Availability alone does not guarantee visibility. If recommendation engines primarily reinforce existing popularity, they may preserve the appearance of infinite choice while directing listening toward a relatively small portion of the catalogue. Research on recommender systems more broadly warns that popularity bias can produce cumulative reinforcement effects over time, concentrating attention instead of distributing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</span></span></span>
 
 The fairness issue affects listeners as well as artists. One study of music recommendation found that users whose tastes diverged from mainstream preferences tended to receive poorer recommendations than users whose tastes aligned with already-popular music. In other words, the same bias that disadvantages niche artists can also disadvantage listeners seeking less conventional music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FYvYsKoBZCc" title="BIAS, FAIRNESS, AND MORE IN RECOMMENDER SYSTEMS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FYvYsKoBZCc" target="_blank" rel="noopener noreferrer">BIAS, FAIRNESS, AND MORE IN RECOMMENDER SYSTEMS</a></p><p class="youtube-embed-meta">Channel: USC Information Sciences Institute &middot; Views: 682 &middot; Uploaded: December 2020 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FYvYsKoBZCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FYvYsKoBZCc">Open on YouTube</a></p></div></div></div>
 
@@ -309,12 +307,10 @@ This happens because recommendation systems are usually optimised around predict
 
 Critics of streaming [culture]({{ 'culture/' | relative_url }}) argue that this dynamic can create a subtle form of cultural narrowing. The issue is not censorship or exclusion; rather, the path of least resistance tends to lead toward music that resembles what listeners already know. The resulting experience can feel highly personalised while still limiting the range of exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-2-dark.svg" | relative_url }}" alt="Algorithms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Trade-Off Between Satisfaction, Diversity, and Fairness
 
 The central challenge is that recommendation systems must balance competing goals.
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -329,7 +325,6 @@ These goals often conflict. Recommending only familiar favourites may maximise s
 Research consistently finds that the most accurate recommendation models are often among the most popularity-biased. This creates a practical dilemma for platforms whose business models depend heavily on user engagement metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Fairness researchers increasingly argue that recommendation quality should not be judged solely by accuracy. Diversity, serendipity, artist exposure and user control are now treated as legitimate design objectives alongside engagement metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9U3965uAezM" title="Data privacy and fairness in recommender systems by Martin Tegner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9U3965uAezM" target="_blank" rel="noopener noreferrer">Data privacy and fairness in recommender systems by Martin Tegner</a></p><p class="youtube-embed-meta">Channel: GAIA &middot; Views: 227 &middot; Uploaded: March 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9U3965uAezM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9U3965uAezM">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +342,6 @@ Several approaches have emerged:
 
 Recent experimental work suggests that giving users direct control over factors such as popularity, genre diversity and artist representation can improve perceived fairness and user satisfaction simultaneously. Rather than forcing a single definition of fairness, such systems allow listeners to decide how adventurous or balanced they want recommendations to be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uu.nl">[Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uu.nl</span><span class="citation-popover-snippet">Utrecht UniversityUser-Driven Fairness in Music Recommendations: Effects...by SN Khan · 2025 — This study investigates how user-driven c...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fairness Is a Design Choice, Not a Technical Guarantee
 
@@ -355,9 +349,7 @@ Recommendation algorithms are capable of broadening musical horizons. They can c
 
 The key lesson is that discovery does not emerge automatically from abundance. Whether recommendation systems widen music taste fairly depends on the objectives they optimise for. If success is measured only by immediate engagement, popularity bias is difficult to avoid. If diversity, artist exposure and listener exploration are treated as explicit goals, algorithms can become tools for cultural discovery rather than merely engines of attention concentration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[3PMC 3Music Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span> Retrieval Transactions](#endnote-15 "Snippet: Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv")
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ZdYkzd5nrA" title="Perception of Fairness in Group Music Recommender Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ZdYkzd5nrA" target="_blank" rel="noopener noreferrer">Perception of Fairness in Group Music Recommender Systems</a></p><p class="youtube-embed-meta">Channel: ACM SIGCHI &middot; Views: 157 &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ZdYkzd5nrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ZdYkzd5nrA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -755,148 +747,148 @@ The key lesson is that discovery does not emerge automatically from abundance. W
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCFairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Recommender system  
-   Link: [https://en.wikipedia.org/wiki/Recommender_system](https://en.wikipedia.org/wiki/Recommender_system)  
+   Link: <a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recommender_system</a>  
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: [https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1912.04696](https://arxiv.org/abs/1912.04696)  
+   Link: <a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Unfair Exposure of Artists in Music Recommendation  
-   Link: [https://arxiv.org/abs/2003.11634](https://arxiv.org/abs/2003.11634)  
+   Link: <a href="https://arxiv.org/abs/2003.11634" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.11634</a>  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11257-024-09406-0](https://link.springer.com/article/10.1007/s11257-024-09406-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11257-024-09406-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv A Survey on Popularity Bias in Recommender Systems  
-   Link: [https://arxiv.org/abs/2308.01118](https://arxiv.org/abs/2308.01118)  
+   Link: <a href="https://arxiv.org/abs/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01118</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2208.09517](https://arxiv.org/abs/2208.09517)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExploring Popularity Bias in Music Recommendation Models and Commercial Steaming ServicesAugust 19, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.09517</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Popularity Bias in Music Recommendation Models and Commercial Steaming ServicesAugust 19, 2022...</p></details>
    Published: August 19, 2022  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/1912.04696](https://arxiv.org/pdf/1912.04696)  
+   Link: <a href="https://arxiv.org/pdf/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1912.04696</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being un...Rea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2504.04752v1](https://arxiv.org/html/2504.04752v1)  
+   Link: <a href="https://arxiv.org/html/2504.04752v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.04752v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Popularity Bias Amplification in...7 Apr 2025 — This work summarizes our research on investigating the amplification of po...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2308.14601](https://arxiv.org/pdf/2308.14601)  
+   Link: <a href="https://arxiv.org/pdf/2308.14601" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2308.14601</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating Popularity Bias For Music Discoveryby R Salganik · 2023 · Cited by 3 — To mitigate this issue we propose a domain-aware, indiv...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2308.01118](https://arxiv.org/pdf/2308.01118)  
+   Link: <a href="https://arxiv.org/pdf/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2308.01118</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender systems help people find relevant content in a personalized way. One main promise of such systems is that they are.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: transactions.ismir.net  
-   Link: [https://transactions.ismir.net/articles/10.5334/tismir.106](https://transactions.ismir.net/articles/10.5334/tismir.106)  
+   Link: <a href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow">https://transactions.ismir.net/articles/10.5334/tismir.106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: [https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify1 Apr 2020 — However, we also find that algorithmically-dri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research-portal.uu.nl  
-   Link: [https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/](https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityUser-Driven Fairness in [Music Recommendations](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;): Effects...by SN Khan · 2025 — This study investigates how user-driven c...</p></details>
+   Link: <a href="https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityUser-Driven Fairness in Music Recommendations: Effects...by SN Khan · 2025 — This study investigates how user-driven c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/publications?category=evaluation](https://research.atspotify.com/publications?category=evaluation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. David Holtz, Benjamin Carterette, Pra...</p></details>
+   Link: <a href="https://research.atspotify.com/publications?category=evaluation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications?category=evaluation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. David Holtz, Benjamin Carterette, Pra...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study](https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study)  
+   Link: <a href="https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendation15 Apr 2020 — Research has shown that recommender systems are typically biased t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hcai.at  
-   Link: [https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/](https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/)  
+   Link: <a href="https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/" target="_blank" rel="noopener noreferrer nofollow">https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Item Popularity Bias of Music Recommender SystemsWe focus on music recommendation and conduct experiments on the recently relea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353](https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353)  
+   Link: <a href="https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias in Recommendation EnginesPopularity bias refers to a recommender system&#x27;s tendency to over-recommend items that are alrea...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blogs.biomedcentral.com  
-   Link: [https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/](https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/)  
+   Link: <a href="https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy for Fans of Beyond-Mainstream Music13 Apr 2021 — However, it is a widely-known problem that recommender systems are prone to pop...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation](https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation)  
+   Link: <a href="https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Bypassing the Popularity Bias: Repurposing Models...17 Sept 2024 — We propose a novel approach of repurposing existing components...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists](https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists)  
+   Link: <a href="https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness and Transparency in Music Recommender SystemsFairMatch: A Graph-based Approach for Improving Aggregate Diversity in Recommender...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: [https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify](https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify)  
+   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify8 May 2026 — A comprehensive review of the literature reveals that the pr...</p></details>
    Published: May 2026  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 341126150 Algorithmic Effects on the Diversity of Consumption on Spotify  
-   Link: [https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify](https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify)  
+   Link: <a href="https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Effects on the Diversity of Consumption on Spotify28 Feb 2026 — [3] found that following Spotify&#x27;s recommendations reduced th...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fairmuse.eu  
-   Link: [https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf](https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf)  
+   Link: <a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of being unfair because they sustain or amplify biases and imbalances against some categories of...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
    Title: The Diversity of Music Recommender Systems Similarly, Anderson et al  
-   Link: [https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems](https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems)  
+   Link: <a href="https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[3] found that following Spotify&#x27;s recommendations reduced the diversity of the users&#x27; listening lists (see also [8]) and that users...</p></details>

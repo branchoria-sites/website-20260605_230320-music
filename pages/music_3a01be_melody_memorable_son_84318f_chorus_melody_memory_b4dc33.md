@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f
 - music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72
 tags:
-- music
+- music-3-a01-be
 - melody
 - choruses
 keywords:
-- music
+- music-3-a01-be
 - melody
 - choruses
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Choruses stick because repeated, singable melodic patterns give listeners more chances to encode and replay the tune.
 hero_summary: Choruses stick because repeated, singable melodic patterns give listeners more chances to encode and replay the tune.
 layout: default
 permalink: /choruses/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /melody/
 nav_short_title: Choruses
 title: Why Do Choruses Stay in Your Head?
-title_full: Why Do Choruses Stay in Your Head? | Melody
+title_full: Why Do Choruses Stay in Your Head?
 display_title_short: Choruses
 display_title: Choruses
 heading_title: Why Do Choruses Stay in Your Head?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some Melodies Stay In Your Head | Music
+parent_title: Why Some Melodies Stay In Your Head
 parent_permalink: /melody/
 parent_nav_short_title: Melody
 parent_heading_title: Why Some Melodies Stay In Your Head
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Catchy Melodies Need a Twist
 up_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -259,7 +259,7 @@ next_link:
   permalink: /contour/
   short_title: Contour
   heading_title: The Shape Your Brain Hums Back
-date: '2026-06-09 07:32:44 '
+date: '2026-06-11 23:47:17 '
 header:
   og_image: /assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_mem
 
 Most people can recall the chorus of a song long after the verses have faded. That is not simply because the chorus contains the title or the most important [lyrics]({{ 'lyrics/' | relative_url }}). Choruses are usually built to maximise melodic recall. They repeat several times during a song, concentrate the clearest melodic ideas, and are often designed around pitch patterns that are easy to sing and mentally replay. The result is a section that receives more exposure, demands less effort to process, and leaves a stronger [memory]({{ 'memory/' | relative_url }}) trace than the surrounding material.
 
-
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-1-dark.svg" | relative_url }}" alt="Choruses illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on musical memory, melodic perception and “[earworms]({{ 'earworms/' | relative_url }})”—the involuntary replay of [music]({{ 'music/' | relative_url }}) in the mind—suggests that memorable choruses succeed by combining repetition with simplicity and a small amount of distinctiveness. They feel familiar enough to learn quickly but different enough to stand out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
+Research on musical memory, melodic perception and “[earworms]({{ 'earworms/' | relative_url }})”—the involuntary replay of music in the mind—suggests that memorable choruses succeed by combining repetition with simplicity and a small amount of distinctiveness. They feel familiar enough to learn quickly but different enough to stand out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
 
 ## How Repetition Strengthens Melodic Memory
 
@@ -281,7 +280,6 @@ The most obvious advantage of a chorus is that listeners hear it repeatedly. In 
 Memory research consistently shows that repeated exposure improves retention. Studies of melodic learning have found that repeated and distributed encounters with a [melody]({{ 'melody/' | relative_url }}) strengthen later recall, much as spaced repetition improves memory for words and facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251401906" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSpaced learning and melodic memory30 Dec 2025 — We examined the effect of distributing learning on long-term memory for a me...</span></span></span>
 
 A chorus benefits from several forms of repetition at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +293,6 @@ A chorus benefits from several forms of repetition at once:
 Because the listener repeatedly encounters the same tune, recognition becomes increasingly automatic. By the end of the song, the chorus may have been rehearsed internally several times without any conscious effort.
 
 This effect is amplified by what psychologists often call the mere-exposure effect: familiar material tends to become easier to process and remember. Repeated listening is also one reason songs that receive heavy radio play are more likely to become earworms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Why catchy songs get stuck in your head (and how to stop it</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oVME_l4IwII" title="Why is Modern Music so Awful?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oVME_l4IwII" target="_blank" rel="noopener noreferrer">Why is Modern Music so Awful?</a></p><p class="youtube-embed-meta">Channel: Thoughty2 &middot; Views: 12.6M &middot; Uploaded: August 2017 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oVME_l4IwII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oVME_l4IwII">Open on YouTube</a></p></div></div></div>
 
@@ -317,8 +314,7 @@ A typical chorus melody often exhibits several recall-friendly characteristics:
 
 These features reduce the amount of information the brain must retain. Instead of memorising every individual note, listeners can remember the melody's overall outline.
 
-Studies of melodies that become earworms suggest that successful tunes often combine familiar [contour]({{ 'contour/' | relative_url }}) patterns with one distinctive feature, such as an unusual leap or repeated note. This balance between familiarity and novelty appears to be particularly effective for long-term recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5115013/song-stuck-in-head-earworm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">song stuck in head earworm</span><span class="citation-popover-snippet">Known scientifically as involuntary musical imagery, these tunes often persist for about 30 minutes, typically including lyrics rather th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.au.dk">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.au.dk</span><span class="citation-popover-title">dissecting an earworm melodic features and song popularity predic</span><span class="citation-popover-snippet">PureMelodic features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — INMI tunes were found to have mor...</span></span></span>
-
+Studies of melodies that become earworms suggest that successful tunes often combine familiar [contour]({{ 'contour/' | relative_url }}) patterns with one distinctive feature, such as an unusual leap or repeated note. This balance between familiarity and novelty appears to be particularly effective for long-term recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5115013/song-stuck-in-head-earworm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">song stuck in head earworm</span><span class="citation-popover-snippet">Known scientifically as involuntary musical imagery, these tunes often persist for about 30 minutes, typically including lyrics rather th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.au.dk">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.au.dk</span><span class="citation-popover-title">dissecting an earworm melodic features and song popularity predic</span><span class="citation-popover-snippet">Melodic features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — INMI tunes were found to have mor...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-2-dark.svg" | relative_url }}" alt="Choruses illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Singability Matters
@@ -331,7 +327,6 @@ Research on earworms and involuntary musical imagery shows that vocal music freq
 
 Choruses encourage this process because they are usually:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Rhythmically straightforward.
@@ -343,9 +338,7 @@ Choruses encourage this process because they are usually:
 
 The easier a melody is to imagine and reproduce, the more opportunities the brain has to reinforce it after the music has stopped.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OFoK356aHKA" title="Catchy Melodies Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OFoK356aHKA" target="_blank" rel="noopener noreferrer">Catchy Melodies Explained</a></p><p class="youtube-embed-meta">Channel: musEducation &middot; Views: 28 &middot; Uploaded: January 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OFoK356aHKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OFoK356aHKA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-3-dark.svg" | relative_url }}" alt="Choruses illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Chorus Usually Becomes the Earworm
 
 When people experience an earworm, they rarely report an entire song looping in their minds. More often, a short fragment repeats. That fragment is frequently the chorus.
@@ -356,9 +349,6 @@ Researchers analysing songs named as earworms by thousands of participants found
 
 This helps explain why listeners often remember a chorus before they can remember the verses. The chorus receives more exposure, presents a clearer melodic shape, invites participation and is more likely to continue replaying internally after listening ends.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1_uez5WX1o" title="THE PHOTOSYNTHESIS SONG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1_uez5WX1o" target="_blank" rel="noopener noreferrer">THE PHOTOSYNTHESIS SONG</a></p><p class="youtube-embed-meta">Channel: Tasnuva Tamim</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1_uez5WX1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1_uez5WX1o">Open on YouTube</a></p></div></div></div>
-
 ## When a Chorus Becomes Inner Singing
 
 The final stage of memorability occurs when the chorus no longer requires the [recording]({{ 'recording/' | relative_url }}) at all. A listener begins hearing it internally.
@@ -367,8 +357,7 @@ Neuroscience and music-cognition research indicate that imagining music activate
 
 This internal replay creates a powerful feedback loop:
 
-
-<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-3-dark.svg" | relative_url }}" alt="Choruses illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OFoK356aHKA" title="Catchy Melodies Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OFoK356aHKA" target="_blank" rel="noopener noreferrer">Catchy Melodies Explained</a></p><p class="youtube-embed-meta">Channel: musEducation &middot; Views: 28 &middot; Uploaded: January 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OFoK356aHKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OFoK356aHKA">Open on YouTube</a></p></div></div></div>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -780,115 +769,115 @@ For that reason, the chorus is often the most durable part of a song's melodic i
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOptimizing song retention through the spacing effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8665960/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8665960/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8665960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8665960/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>song retention through the spacing effect - PMC - NIHby JJ Katz · 2021 · Cited by 11 — The spacing effect is the finding that memory rete...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: song stuck in head earworm  
-   Link: [https://time.com/5115013/song-stuck-in-head-earworm/](https://time.com/5115013/song-stuck-in-head-earworm/)  
+   Link: <a href="https://time.com/5115013/song-stuck-in-head-earworm/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5115013/song-stuck-in-head-earworm/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known scientifically as involuntary musical imagery, these tunes often persist for about 30 minutes, typically including lyrics rather th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe song that never ends: The effect of repeated exposure on...by C Killingly · 2023 · Cited by 9 — Previous research demonstrates th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The song that never ends: The effect of repeated exposure on...by C Killingly · 2023 · Cited by 9 — Previous research demonstrates th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: brainfacts.org  
-   Link: [https://www.brainfacts.org/neuroscience-in-society/the-arts-and-the-brain/2025/the-science-behind-earworms-how-music-sneaks-into-your-brain-12225](https://www.brainfacts.org/neuroscience-in-society/the-arts-and-the-brain/2025/the-science-behind-earworms-how-music-sneaks-into-your-brain-12225)  
+   Link: <a href="https://www.brainfacts.org/neuroscience-in-society/the-arts-and-the-brain/2025/the-science-behind-earworms-how-music-sneaks-into-your-brain-12225" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/neuroscience-in-society/the-arts-and-the-brain/2025/the-science-behind-earworms-how-music-sneaks-into-your-brain-12225</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Earworms: How Music Sneaks Into...Dec 22, 2025 — It&#x27;s actually the interplay of different parts of your brain...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf](https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: durham-repository.worktribe.com  
-   Link: [https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery](https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery)  
+   Link: <a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/press/releases/2016/11/earworms](https://www.apa.org/news/press/releases/2016/11/earworms)  
+   Link: <a href="https://www.apa.org/news/press/releases/2016/11/earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2016/11/earworms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationPsychologists identify key characteristics of earwormsNov 3, 2016 — The study found that the tunes most...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03057356251401906](https://journals.sagepub.com/doi/10.1177/03057356251401906)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356251401906" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356251401906</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSpaced learning and melodic memory30 Dec 2025 — We examined the effect of distributing learning on long-term memory for a me...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Why catchy songs get stuck in your head (and how to stop it)  
-   Link: [https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/](https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20592043231165661](https://journals.sagepub.com/doi/10.1177/20592043231165661)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043231165661</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: musicscience.net  
-   Link: [https://musicscience.net/research/music-memory/earworms/](https://musicscience.net/research/music-memory/earworms/)  
+   Link: <a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday terms as hav...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: musicianscience.org  
-   Link: [https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/](https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/)  
+   Link: <a href="https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADRIAN BRADBURY cellistWhat makes an earworm sticky?Three melodic features emerged from the statistical analysis as significant predictor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: inspiredbybeatz.com  
-   Link: [https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/](https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/)  
+   Link: <a href="https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworms: Understand Why Songs Get Stuck In Your HeadResearch from Goldsmiths University of London has revealed that earworms share disti...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencefocus.com  
-   Link: [https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head](https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head)  
+   Link: <a href="https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why earworms get stuck in your headThe large-scale study, involving 3,000 participants, showed that earworms are usually faster, with a f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kennedy-center.org  
-   Link: [https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/music/your-brain-on-music/your-brain-on-music/your-brain-on-music-earworms/](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/music/your-brain-on-music/your-brain-on-music/your-brain-on-music-earworms/)  
+   Link: <a href="https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/music/your-brain-on-music/your-brain-on-music/your-brain-on-music-earworms/" target="_blank" rel="noopener noreferrer nofollow">https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/music/your-brain-on-music/your-brain-on-music/your-brain-on-music-earworms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Brain on Music: EarwormsThey&#x27;re sections of songs that we remember in our minds. Once they start, these music memories can repeat un...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pure.au.dk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: [https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/](https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PureMelodic features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — INMI tunes were found to have mor...</p></details>
+   Link: <a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melodic features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — INMI tunes were found to have mor...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pure.roehampton.ac.uk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: [https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/](https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/)  
+   Link: <a href="https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: unsw.edu.au  
    Title: ear resistible why there are some songs we simply can t get out  
-   Link: [https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out](https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out)  
+   Link: <a href="https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ear-resistible: why there are some songs we simply can&#x27;t...Apr 5, 2023 — It appears there&#x27;s an essential characteristic necessary for a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: news.harvard.edu  
    Title: scientist on why that song is stuck in your head  
-   Link: [https://news.harvard.edu/gazette/story/2021/12/harvard-scientist-on-why-that-song-is-stuck-in-your-head/](https://news.harvard.edu/gazette/story/2021/12/harvard-scientist-on-why-that-song-is-stuck-in-your-head/)  
+   Link: <a href="https://news.harvard.edu/gazette/story/2021/12/harvard-scientist-on-why-that-song-is-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2021/12/harvard-scientist-on-why-that-song-is-stuck-in-your-head/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 14, 2021 — Certain traits make songs more likely to become earworms, says the Medical...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: unsw.edu.au  
    Title: Why do some songs get stuck in our heads so easily?  
-   Link: [https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms](https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms)  
+   Link: <a href="https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8, 2025 — Earworms are more likely to start their musical wriggles when a particular set of brain [regions](&amp;#123;&amp;#123; &#x27;regions/&#x27; | relative_url &amp;#125;&amp;#125;) is activated, called...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: uc.edu  
    Title: the scientific reason songs get stuck in your head  
-   Link: [https://www.uc.edu/news/articles/2024/06/the-scientific-reason-songs-get-stuck-in-your-head.html](https://www.uc.edu/news/articles/2024/06/the-scientific-reason-songs-get-stuck-in-your-head.html)  
+   Link: <a href="https://www.uc.edu/news/articles/2024/06/the-scientific-reason-songs-get-stuck-in-your-head.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uc.edu/news/articles/2024/06/the-scientific-reason-songs-get-stuck-in-your-head.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 21, 2024 — An earworm happens when you have the “inability to dislodge a song and prevent it from repeating itself” in your head, sai...</p></details>

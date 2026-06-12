@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - catalogue
 keywords:
-- music
+- music-3-a01-be
 - catalogue
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Older songs can regain attention through streaming, playlists, film placement, social clips and fan rediscovery.
 hero_summary: Older songs can regain attention through streaming, playlists, film placement, social clips and fan rediscovery.
 layout: default
 permalink: /catalogue/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Catalogue
 title: Why Old Songs Keep Coming Back
-title_full: Why Old Songs Keep Coming Back | Music
+title_full: Why Old Songs Keep Coming Back
 display_title_short: Catalogue
 display_title: Catalogue
 heading_title: Why Old Songs Keep Coming Back
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 next_link:
   basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
-date: '2026-06-09 06:16:50 '
+date: '2026-06-11 23:09:10 '
 header:
   og_image: /assets/images/music_3a01be_catalogue_music_redi_46cae9-overview-social.jpg
   preview_image: /assets/images/music_3a01be_catalogue_music_redi_46cae9-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/music_3a01be_catalogue_music_redi_46cae9-overview-social.j
 
 ## Introduction
 
-Catalogue [music]({{ 'music/' | relative_url }}) keeps finding new listeners because the old barriers around age, format and availability have weakened. A song released decades ago can sit beside a new single in the same search result, playlist, film scene, meme, workout mix or algorithmic recommendation. That makes “old” music feel less like archive material and more like living repertoire: instantly playable, easy to share and open to new meanings.
-
+Catalogue music keeps finding new listeners because the old barriers around age, format and availability have weakened. A song released decades ago can sit beside a new single in the same search result, playlist, film scene, meme, workout mix or algorithmic recommendation. That makes “old” music feel less like archive material and more like living repertoire: instantly playable, easy to share and open to new meanings.
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-overview.webp" | relative_url }}" alt="Overview image for Catalogue" loading="eager" decoding="sync" fetchpriority="high">
 The clearest pattern is not simple nostalgia. Nostalgia matters, but many catalogue revivals are driven by listeners who were not alive when the track first appeared. Streaming gives older recordings permanent shelf space; playlists and recommendation systems keep resurfacing them; film and television place them inside new stories; short-form video turns a few seconds into a social cue; and fans treat discovery itself as identity. The result is a music [culture]({{ 'culture/' | relative_url }}) where a song’s first commercial life is no longer its final one.
@@ -513,12 +512,10 @@ Before streaming, catalogue discovery often depended on [scarcity]({{ 'scarcity/
 
 Industry data reflects that shift. Luminate defines “catalogue” as music at least 18 months old, and its US market tracking separates catalogue from “current” music across streams, downloads and [physical]({{ 'physical/' | relative_url }}) purchases. Music Business Worldwide’s Luminate-based database notes that this catalogue/current split has become a central way to understand annual music consumption, because older recordings now take such a large share of listening rather than sitting on the margins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The mechanism is simple but powerful: streaming converts the past from a store cupboard into an active interface. Older songs are not hidden in a separate “heritage” section unless the listener or platform puts them there. They appear in search, radio-style autoplay, mood playlists, artist pages, algorithmic mixes and user playlists. Spotify’s own artist support pages describe personalised playlists as unique to each listener and shaped by listening history, playlist adds, similar users and timing; [editorial playlists]({{ 'editorial-adds/' | relative_url }}), meanwhile, are curated by genre, lifestyle and culture specialists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">Types of Spotify playlists</span><span class="citation-popover-snippet">Types of Spotify playlists</span></span></span>
+The mechanism is simple but powerful: streaming converts the past from a store cupboard into an active interface. Older songs are not hidden in a separate “heritage” section unless the listener or platform puts them there. They appear in search, radio-style [autoplay]({{ 'autoplay/' | relative_url }}), mood playlists, artist pages, algorithmic mixes and user playlists. Spotify’s own artist support pages describe personalised playlists as unique to each listener and shaped by listening history, playlist adds, similar users and timing; editorial playlists, meanwhile, are curated by genre, lifestyle and culture specialists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">Types of Spotify playlists</span><span class="citation-popover-snippet">Types of Spotify playlists</span></span></span>
 
-That matters because catalogue depth is not just about famous classics. A 1990s album track, a 2000s dance-pop single, a 1970s soul cut or a 2010s indie B-side can all re-enter circulation if the right listening signal forms around it. Streaming does not guarantee that the whole archive will be heard equally; popularity bias and platform design still matter. But it does make an older recording technically available at the exact moment a listener becomes curious.
+That matters because catalogue depth is not just about famous classics. A 1990s album track, a 2000s dance-pop single, a 1970s soul cut or a 2010s indie B-side can all re-enter circulation if the right listening signal forms around it. Streaming does not guarantee that the whole archive will be heard equally; popularity bias and platform design still matter. But it does make an older [recording]({{ 'recording/' | relative_url }}) technically available at the exact moment a listener becomes curious.
 
-
-<img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-1-dark.svg" | relative_url }}" alt="Catalogue illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playlists turn old songs into everyday utility
 
 Catalogue songs often return through use rather than reverence. A listener may not set out to “study music history”; they may want music for cooking, running, crying, driving, cleaning, focusing or getting ready to go out. Once music is organised by mood and activity, release date becomes less important than fit.
@@ -529,18 +526,16 @@ That format favours recordings with reusable qualities: a recognisable hook, a s
 
 The historical comparison is important. Radio programmers once renewed catalogue through themed shows, oldies stations and anniversary programming. Streaming keeps that curatorial layer but adds personalisation and scale. A listener can be nudged towards an old song because editors choose it, because similar listeners save it, because a fan playlist gathers momentum, or because an algorithm infers that it belongs next to something the listener already likes.
 
+<img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-1-dark.svg" | relative_url }}" alt="Catalogue illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Film and television give songs new emotional scenes
 
 Synchronisation — placing music in film, television, advertising, games or trailers — has long revived songs. What has changed is the speed and measurability of the afterlife. When a show or film gives an older track a dramatic scene, viewers can search and stream it immediately; social clips then extend the moment beyond the original programme.
 
-Kate Bush’s “Running Up That Hill” is the clearest recent example. Originally released in 1985, it reached Number 1 on the UK Official Singles Chart in 2022 after its prominent use in Stranger Things. Official Charts reported that Bush broke multiple chart records, including the longest gap between UK Number 1 singles and the longest time taken for a single to reach Number 1. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[officialcharts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-title">kate bush running up that hill</span><span class="citation-popover-snippet">kate bush running up that hill</span></span></span> The song did not return merely because it was old; it returned because a new audience heard it inside a scene that made the lyric and atmosphere feel urgent.
+[Kate Bush]({{ 'kate-bush/' | relative_url }})’s “Running Up That Hill” is the clearest recent example. Originally released in 1985, it reached Number 1 on the UK Official Singles Chart in 2022 after its prominent use in Stranger Things. Official Charts reported that Bush broke multiple chart records, including the longest gap between UK Number 1 singles and the longest time taken for a single to reach Number 1. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[officialcharts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-title">kate bush running up that hill</span><span class="citation-popover-snippet">kate bush running up that hill</span></span></span> The song did not return merely because it was old; it returned because a new audience heard it inside a scene that made the lyric and atmosphere feel urgent.
 
-Sophie Ellis-Bextor’s “Murder on the Dancefloor” shows a different kind of sync revival. The 2001 track surged after its use in Saltburn, returning to the UK Top 10 for the first time in 22 years and then reclaiming its original Number 2 peak. Official Charts reported 4.7 million UK streams in one week during the January 2024 resurgence and noted that the song became almost inescapable on social media after the film scene circulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-saltburn-repeak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[officialcharts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Open source on officialcharts.com.</span></span></span> By the end of 2024, Official Charts described it as the biggest song of the year by a British female artist, more than two decades after release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[officialcharts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-title">MURDE R ON THE DANCEFLOOR – SOPHIE ELLIS-BEXTOR | Official Charts</span><span class="citation-popover-snippet">MURDE R ON THE DANCEFLOOR – SOPHIE ELLIS-BEXTOR | Official Charts</span></span></span>
+Sophie Ellis-Bextor’s “Murder on the Dancefloor” shows a different kind of sync revival. The 2001 track surged after its use in Saltburn, returning to the UK Top 10 for the first time in 22 years and then reclaiming its original Number 2 peak. Official Charts reported 4.7 million UK streams in one week during the January 2024 resurgence and noted that the song became almost inescapable on social media after the film scene circulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-saltburn-repeak/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[officialcharts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Open source on officialcharts.com.</span></span></span> By the end of 2024, Official Charts described it as the biggest song of the year by a British female artist, more than two decades after release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[officialcharts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-title">MURDE R ON THE DANCEFLOOR – SOPHIE ELLIS-BEXTOR &#124; Official Charts</span><span class="citation-popover-snippet">MURDE R ON THE DANCEFLOOR – SOPHIE ELLIS-BEXTOR &#124; Official Charts</span></span></span>
 
 These cases work because sync gives catalogue music three things at once: a new story, a new audience and a new reason to talk about the song. The recording is no longer just remembered; it is reinterpreted. For older fans, the scene may reactivate memory. For younger viewers, the same track can feel like a fresh discovery with no obligation to know its original chart history.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FN2s8pz4dJo" title="Murder on the Dancefloor singer talks about chart success after Saltburn | BBC Newsnight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FN2s8pz4dJo" target="_blank" rel="noopener noreferrer">Murder on the Dancefloor singer talks about chart success after Saltburn | BBC Newsnight</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 181.3K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FN2s8pz4dJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FN2s8pz4dJo">Open on YouTube</a></p></div></div></div>
 
 ## Short clips make a few seconds travel farther
 
@@ -554,8 +549,8 @@ Fleetwood Mac’s “Dreams” remains the textbook case. Nathan Apodaca’s 202
 
 [Short clips]({{ 'short-clips/' | relative_url }}) favour different aspects of songs than radio once did. A whole chorus may matter less than a two-second entrance, a drum fill, a lyric fragment, a mood shift or a section that matches a visual edit. That means catalogue revival can be unpredictable. The songs that return are not always the biggest historical hits; sometimes they are the tracks with the most adaptable moments.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FN2s8pz4dJo" title="Murder on the Dancefloor singer talks about chart success after Saltburn | BBC Newsnight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FN2s8pz4dJo" target="_blank" rel="noopener noreferrer">Murder on the Dancefloor singer talks about chart success after Saltburn | BBC Newsnight</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 181.3K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FN2s8pz4dJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FN2s8pz4dJo">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-2-dark.svg" | relative_url }}" alt="Catalogue illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Young listeners do not treat old music as old in the same way
 
 Catalogue revival is often described as nostalgia, but that word can mislead. For an older listener, a 1980s or 2000s song may trigger personal memory. For a teenager, the same track may simply be new-to-them music. The age of the recording is not necessarily the main way they classify it.
@@ -576,9 +571,7 @@ The most durable catalogue tracks often survive because they carry both memory a
 
 This is why catalogue revivals can feel less like repetition than renewal. The recording does not change, but its audience, use and emotional setting do. Each revival adds a layer without erasing the older ones.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXlEXCy3gk0" title="Blackstone&#x27;s Bold Move: $1.5 Billion Acquisition of Hipgnosis #soundconnectionspodcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXlEXCy3gk0" target="_blank" rel="noopener noreferrer">Blackstone&#x27;s Bold Move: $1.5 Billion Acquisition of Hipgnosis #soundconnectionspodcast</a></p><p class="youtube-embed-meta">Channel: Sound Connections Podcast &middot; Views: 1.5K &middot; Uploaded: July 2024 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXlEXCy3gk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXlEXCy3gk0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-2-dark.svg" | relative_url }}" alt="Catalogue illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The business now treats catalogue as active property
 
 Because catalogue songs can be repeatedly rediscovered, rights owners increasingly treat them as active assets rather than passive backlists. That does not mean every old song is valuable in the same way, but it does mean the industry has become more deliberate about managing older recordings: pitching them for sync, supporting social trends, reissuing formats, refreshing artwork, building playlists, clearing samples and using data to spot momentum early.
@@ -589,8 +582,7 @@ This business logic can help old songs find new listeners because it funds activ
 
 There is a tension, though. Catalogue investment can make music more visible, but it can also concentrate control over culturally important songs. When old recordings become financial assets, the incentives may tilt towards the songs most likely to generate repeatable income rather than the obscure or difficult work most in need of rediscovery. The same system that revives some tracks can leave others buried.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXlEXCy3gk0" title="Blackstone&#x27;s Bold Move: $1.5 Billion Acquisition of Hipgnosis #soundconnectionspodcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXlEXCy3gk0" target="_blank" rel="noopener noreferrer">Blackstone&#x27;s Bold Move: $1.5 Billion Acquisition of Hipgnosis #soundconnectionspodcast</a></p><p class="youtube-embed-meta">Channel: Sound Connections Podcast &middot; Views: 1.5K &middot; Uploaded: July 2024 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXlEXCy3gk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXlEXCy3gk0">Open on YouTube</a></p></div></div></div>
 
 ## Why some old songs return and others do not
 
@@ -601,7 +593,6 @@ A song is more likely to return when it has a strong recognisable fragment: a ch
 Availability matters too. Clean metadata, rights [clearance]({{ 'clearance/' | relative_url }}), official uploads and platform presence all make a song easier to identify, save and reuse. A track can go viral in a clip, but if listeners cannot find the full version quickly, the moment may fade before it converts into sustained listening.
 
 The strongest revivals usually combine several forces:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -615,7 +606,6 @@ The strongest revivals usually combine several forces:
 </div>
 
 This is why rediscovery can feel sudden from the outside but rarely depends on one factor alone. The viral clip may be the visible spark; streaming access, rights infrastructure, fan labour, platform recommendation and cultural timing provide the fuel.
-
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-3-dark.svg" | relative_url }}" alt="Catalogue illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The new life of catalogue changes how music history feels
@@ -741,15 +731,15 @@ That changes the cultural status of older songs. A catalogue track can be a clas
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/2d9bf3d02a1200e09d0d.jpg' | relative_url }}" alt="Listing image for Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Retro Print Instruments Dancing Decor Wall Art A5 A4 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -757,15 +747,15 @@ That changes the cultural status of older songs. A catalogue track can be a clas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick"><img src="{{ '/assets/images/marketplace-covers/d9b13d00309be0dd1f4d.jpg' | relative_url }}" alt="Listing image for Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -773,15 +763,15 @@ That changes the cultural status of older songs. A catalogue track can be a clas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art"><img src="{{ '/assets/images/marketplace-covers/2c69503fc41d724ec9ca.jpg' | relative_url }}" alt="Listing image for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -789,15 +779,15 @@ That changes the cultural status of older songs. A catalogue track can be a clas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE MUSIC POSTER PRINT WALL ART SIZE A1 /A2 /A4 Made in UK"><img src="{{ '/assets/images/marketplace-covers/5d2f29f87f315d80de27.jpg' | relative_url }}" alt="Listing image for VINTAGE MUSIC POSTER PRINT WALL ART SIZE A1 /A2 /A4 Made in UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE MUSIC POSTER PRINT WALL ART SIZE A1 /A2 /A4 Made in UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -805,7 +795,7 @@ That changes the cultural status of older songs. A catalogue track can be a clas
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="catalogue-why-old-songs-keep-coming-back-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-old-songs-keep-coming-back-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1021,226 +1011,226 @@ That changes the cultural status of older songs. A catalogue track can be a clas
 1. <a id="endnote-1"></a>
    Source: support.spotify.com  
    Title: Types of Spotify playlists  
-   Link: [https://support.spotify.com/us/artists/article/types-of-spotify-playlists/](https://support.spotify.com/us/artists/article/types-of-spotify-playlists/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
 
 2. <a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: for Artists Playlisting – Spotify for Artists  
-   Link: [https://artists.spotify.com/en/playlisting](https://artists.spotify.com/en/playlisting)  
+   Link: <a href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/playlisting</a>  
 
 3. <a id="endnote-3"></a>
    Source: officialcharts.com  
    Title: kate bush running up that hill  
-   Link: [https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/](https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/)  
+   Link: <a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
 
 4. <a id="endnote-4"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-saltburn-repeak/](https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-saltburn-repeak/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-saltburn-repeak/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-saltburn-repeak/</a>  
 
 5. <a id="endnote-5"></a>
    Source: officialcharts.com  
    Title: MURDE R ON THE DANCEFLOOR – SOPHIE ELLIS-BEXTOR | Official Charts  
-   Link: [https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/](https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/)  
+   Link: <a href="https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/</a>  
 
 6. <a id="endnote-6"></a>
    Source: newsroom.tiktok.com  
    Title: Tik Tok Newsroom Tik Tok and Luminate release the latest Music Impact Report  
-   Link: [https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report](https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/transactional/sony-music-buy-recognition-music-catalog-source-says-deal-4-billion-2026-05-11/](https://www.reuters.com/legal/transactional/sony-music-buy-recognition-music-catalog-source-says-deal-4-billion-2026-05-11/)  
+   Link: <a href="https://www.reuters.com/legal/transactional/sony-music-buy-recognition-music-catalog-source-says-deal-4-billion-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/transactional/sony-music-buy-recognition-music-catalog-source-says-deal-4-billion-2026-05-11/</a>  
 
 8. <a id="endnote-8"></a>
    Source: billboard.com  
    Title: music mainstream getting smaller streaming analysis data  
-   Link: [https://www.billboard.com/pro/music-mainstream-getting-smaller-streaming-analysis-data/](https://www.billboard.com/pro/music-mainstream-getting-smaller-streaming-analysis-data/)  
+   Link: <a href="https://www.billboard.com/pro/music-mainstream-getting-smaller-streaming-analysis-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/music-mainstream-getting-smaller-streaming-analysis-data/</a>  
 
 9. <a id="endnote-9"></a>
    Source: billboard.com  
    Title: kate bush running up that hill stranger things spotify 1235079096  
-   Link: [https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/](https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/</a>  
 
 10. <a id="endnote-10"></a>
    Source: billboard.com  
    Title: fleetwood mac dreams returns hot 100  
-   Link: [https://www.billboard.com/pro/fleetwood-mac-dreams-returns-hot-100/](https://www.billboard.com/pro/fleetwood-mac-dreams-returns-hot-100/)  
+   Link: <a href="https://www.billboard.com/pro/fleetwood-mac-dreams-returns-hot-100/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/fleetwood-mac-dreams-returns-hot-100/</a>  
 
 11. <a id="endnote-11"></a>
    Source: billboard.com  
    Title: saltburn sophie ellis bextor murder on the dancefloor uk top 10 1235576264  
-   Link: [https://www.billboard.com/music/chart-beat/saltburn-sophie-ellis-bextor-murder-on-the-dancefloor-uk-top-10-1235576264/](https://www.billboard.com/music/chart-beat/saltburn-sophie-ellis-bextor-murder-on-the-dancefloor-uk-top-10-1235576264/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/saltburn-sophie-ellis-bextor-murder-on-the-dancefloor-uk-top-10-1235576264/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/saltburn-sophie-ellis-bextor-murder-on-the-dancefloor-uk-top-10-1235576264/</a>  
 
 12. <a id="endnote-12"></a>
    Source: billboard.com  
    Title: Kate Bush Reclaims No. 1  
-   Link: [https://www.billboard.com/music/chart-beat/kate-bush-reclaims-uk-chart-running-up-that-hill-1235104046/](https://www.billboard.com/music/chart-beat/kate-bush-reclaims-uk-chart-running-up-that-hill-1235104046/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/kate-bush-reclaims-uk-chart-running-up-that-hill-1235104046/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-reclaims-uk-chart-running-up-that-hill-1235104046/</a>  
 
 13. <a id="endnote-13"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-top-10-biggest-streaming-week-saltburn/](https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-top-10-biggest-streaming-week-saltburn/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-top-10-biggest-streaming-week-saltburn/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/sophie-ellis-bextor-murder-on-the-dancefloor-top-10-biggest-streaming-week-saltburn/</a>  
 
 14. <a id="endnote-14"></a>
    Source: officialcharts.com  
    Title: sophie ellis bextor  
-   Link: [https://www.officialcharts.com/artist/11003/sophie-ellis-bextor/](https://www.officialcharts.com/artist/11003/sophie-ellis-bextor/)  
+   Link: <a href="https://www.officialcharts.com/artist/11003/sophie-ellis-bextor/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/11003/sophie-ellis-bextor/</a>  
 
 15. <a id="endnote-15"></a>
    Source: officialcharts.com  
    Title: kate bush  
-   Link: [https://www.officialcharts.com/artist/27937/kate-bush/](https://www.officialcharts.com/artist/27937/kate-bush/)  
+   Link: <a href="https://www.officialcharts.com/artist/27937/kate-bush/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/27937/kate-bush/</a>  
 
 16. <a id="endnote-16"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/](https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/</a>  
 
 17. <a id="endnote-17"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/](https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/</a>  
 
 18. <a id="endnote-18"></a>
    Source: open.spotify.com  
    Title: 4Rafx7Iv4Vwp TEUq Lgggs J  
-   Link: [https://open.spotify.com/playlist/4Rafx7Iv4VwpTEUqLgggsJ](https://open.spotify.com/playlist/4Rafx7Iv4VwpTEUqLgggsJ)  
+   Link: <a href="https://open.spotify.com/playlist/4Rafx7Iv4VwpTEUqLgggsJ" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/4Rafx7Iv4VwpTEUqLgggsJ</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FN2s8pz4dJo](https://www.youtube.com/watch?v=FN2s8pz4dJo)  
+   Link: <a href="https://www.youtube.com/watch?v=FN2s8pz4dJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FN2s8pz4dJo</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YXlEXCy3gk0](https://www.youtube.com/watch?v=YXlEXCy3gk0)  
+   Link: <a href="https://www.youtube.com/watch?v=YXlEXCy3gk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXlEXCy3gk0</a>  
 
 21. <a id="endnote-21"></a>
    Source: blackstone.com  
    Title: leads landmark music abs transaction hipgnosis  
-   Link: [https://www.blackstone.com/news/press/blackstone-leads-landmark-music-abs-transaction-hipgnosis/](https://www.blackstone.com/news/press/blackstone-leads-landmark-music-abs-transaction-hipgnosis/)  
+   Link: <a href="https://www.blackstone.com/news/press/blackstone-leads-landmark-music-abs-transaction-hipgnosis/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackstone.com/news/press/blackstone-leads-landmark-music-abs-transaction-hipgnosis/</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Why Old Music Is Dominating the Streaming Era  
-   Link: [https://www.youtube.com/watch?v=sK9nQG1rY1o](https://www.youtube.com/watch?v=sK9nQG1rY1o)  
+   Link: <a href="https://www.youtube.com/watch?v=sK9nQG1rY1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sK9nQG1rY1o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Streaming Is Resurrecting Old Songs...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Streaming Is Resurrecting Old Songs  
-   Link: [https://www.youtube.com/watch?v=K3H5m5kP4E8](https://www.youtube.com/watch?v=K3H5m5kP4E8)  
+   Link: <a href="https://www.youtube.com/watch?v=K3H5m5kP4E8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3H5m5kP4E8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Business of Catalogue Music in the Digital Age...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Business of Catalogue Music in the Digital Age  
-   Link: [https://www.youtube.com/watch?v=R9Z_Gf9Zt7Q](https://www.youtube.com/watch?v=R9Z_Gf9Zt7Q)  
+   Link: <a href="https://www.youtube.com/watch?v=R9Z_Gf9Zt7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Z_Gf9Zt7Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How TikTok and Movies Are Bringing Old Songs Back to Life...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How Tik Tok and Movies Are Bringing Old Songs Back to Life  
-   Link: [https://www.youtube.com/watch?v=zJg5gV1Qf_o](https://www.youtube.com/watch?v=zJg5gV1Qf_o)  
+   Link: <a href="https://www.youtube.com/watch?v=zJg5gV1Qf_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJg5gV1Qf_o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;Catalogue&#x27; Music is the Most Valuable Asset in Music...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Why 'Catalogue' Music is the Most Valuable Asset in Music  
-   Link: [https://www.youtube.com/watch?v=v3vGjG3pT2I](https://www.youtube.com/watch?v=v3vGjG3pT2I)  
+   Link: <a href="https://www.youtube.com/watch?v=v3vGjG3pT2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v3vGjG3pT2I</a>  
 
 27. <a id="endnote-27"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/](https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/</a>  
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows](https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows</a>  
 
 29. <a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video](https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video)  
+   Link: <a href="https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video</a>  
 
 30. <a id="endnote-30"></a>
    Source: midiaresearch.com  
-   Link: [https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it](https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it)  
+   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: spotify have been delivering personalized versions of editorial playlists for so  
-   Link: [https://www.facebook.com/djcrewseven/posts/spotify-have-been-delivering-personalized-versions-of-editorial-playlists-for-so/2173970229329634/](https://www.facebook.com/djcrewseven/posts/spotify-have-been-delivering-personalized-versions-of-editorial-playlists-for-so/2173970229329634/)  
+   Link: <a href="https://www.facebook.com/djcrewseven/posts/spotify-have-been-delivering-personalized-versions-of-editorial-playlists-for-so/2173970229329634/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/djcrewseven/posts/spotify-have-been-delivering-personalized-versions-of-editorial-playlists-for-so/2173970229329634/</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Recognition Music Group  
-   Link: [https://en.wikipedia.org/wiki/Recognition_Music_Group](https://en.wikipedia.org/wiki/Recognition_Music_Group)  
+   Link: <a href="https://en.wikipedia.org/wiki/Recognition_Music_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recognition_Music_Group</a>  
 
 33. <a id="endnote-33"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/](https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/</a>  
 
 34. <a id="endnote-34"></a>
    Source: musicbusinessworldwide.com  
    Title: hipgnosis blackstone fund spend 440m buying 29 catalogs from hipgnosis fund  
-   Link: [https://www.musicbusinessworldwide.com/hipgnosis-blackstone-fund-spend-440m-buying-29-catalogs-from-hipgnosis-fund/](https://www.musicbusinessworldwide.com/hipgnosis-blackstone-fund-spend-440m-buying-29-catalogs-from-hipgnosis-fund/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/hipgnosis-blackstone-fund-spend-440m-buying-29-catalogs-from-hipgnosis-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hipgnosis-blackstone-fund-spend-440m-buying-29-catalogs-from-hipgnosis-fund/</a>  
 
 35. <a id="endnote-35"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/hipgnosis-songs-fund-didnt-buy-a-single-catalog-in-the-6-months-to-end-of-march-it-still-grew-in-value-by-140m/](https://www.musicbusinessworldwide.com/hipgnosis-songs-fund-didnt-buy-a-single-catalog-in-the-6-months-to-end-of-march-it-still-grew-in-value-by-140m/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/hipgnosis-songs-fund-didnt-buy-a-single-catalog-in-the-6-months-to-end-of-march-it-still-grew-in-value-by-140m/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hipgnosis-songs-fund-didnt-buy-a-single-catalog-in-the-6-months-to-end-of-march-it-still-grew-in-value-by-140m/</a>  
 
 36. <a id="endnote-36"></a>
    Source: loopsolitaire.co.uk  
-   Link: [https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/](https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/)  
+   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
 
 37. <a id="endnote-37"></a>
    Source: midiaresearch.com  
    Title: the kate bush resurgence shows that music consumption has no time stamp  
-   Link: [https://www.midiaresearch.com/blog/the-kate-bush-resurgence-shows-that-music-consumption-has-no-time-stamp](https://www.midiaresearch.com/blog/the-kate-bush-resurgence-shows-that-music-consumption-has-no-time-stamp)  
+   Link: <a href="https://www.midiaresearch.com/blog/the-kate-bush-resurgence-shows-that-music-consumption-has-no-time-stamp" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/the-kate-bush-resurgence-shows-that-music-consumption-has-no-time-stamp</a>  
 
 38. <a id="endnote-38"></a>
    Source: orphiq.com  
-   Title: spotify [editorial playlist](&#123;&#123; 'editorial-adds/' | relative_url &#125;&#125;)  
-   Link: [https://orphiq.com/resources/spotify-editorial-playlist](https://orphiq.com/resources/spotify-editorial-playlist)  
+   Title: spotify editorial playlist  
+   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
 
 39. <a id="endnote-39"></a>
    Source: kworb.net  
    Title: Kate Bush  
-   Link: [https://kworb.net/spotify/track/75FEaRjZTKLhTrFGsfMUXR.html](https://kworb.net/spotify/track/75FEaRjZTKLhTrFGsfMUXR.html)  
+   Link: <a href="https://kworb.net/spotify/track/75FEaRjZTKLhTrFGsfMUXR.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/track/75FEaRjZTKLhTrFGsfMUXR.html</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/241556701_Making_the_Long_Tail_Visible_Social_Networking_Sites_and_Independent_Music_Discovery](https://www.researchgate.net/publication/241556701_Making_the_Long_Tail_Visible_Social_Networking_Sites_and_Independent_Music_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/241556701_Making_the_Long_Tail_Visible_Social_Networking_Sites_and_Independent_Music_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241556701_Making_the_Long_Tail_Visible_Social_Networking_Sites_and_Independent_Music_Discovery</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352476540_Streaming%27s_Effects_on_Music_Culture_Old_Anxieties_and_New_Simplifications](https://www.researchgate.net/publication/352476540_Streaming%27s_Effects_on_Music_Culture_Old_Anxieties_and_New_Simplifications)  
+   Link: <a href="https://www.researchgate.net/publication/352476540_Streaming%27s_Effects_on_Music_Culture_Old_Anxieties_and_New_Simplifications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352476540_Streaming%27s_Effects_on_Music_Culture_Old_Anxieties_and_New_Simplifications</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/10newsplus/posts/a-surprising-trend-shows-over-75-per-cent-of-gen-z-are-embracing-retro-music-hab/122161486784899199/](https://www.facebook.com/10newsplus/posts/a-surprising-trend-shows-over-75-per-cent-of-gen-z-are-embracing-retro-music-hab/122161486784899199/)  
+   Link: <a href="https://www.facebook.com/10newsplus/posts/a-surprising-trend-shows-over-75-per-cent-of-gen-z-are-embracing-retro-music-hab/122161486784899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/a-surprising-trend-shows-over-75-per-cent-of-gen-z-are-embracing-retro-music-hab/122161486784899199/</a>  
 
 43. <a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/askmikewarner_added-to-a-personalized-editorial-playlist-activity-7085724651716313088-J0Ji](https://www.linkedin.com/posts/askmikewarner_added-to-a-personalized-editorial-playlist-activity-7085724651716313088-J0Ji)  
+   Link: <a href="https://www.linkedin.com/posts/askmikewarner_added-to-a-personalized-editorial-playlist-activity-7085724651716313088-J0Ji" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/askmikewarner_added-to-a-personalized-editorial-playlist-activity-7085724651716313088-J0Ji</a>  
 
 44. <a id="endnote-44"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSYh3DulDv6/](https://www.instagram.com/p/DSYh3DulDv6/)  
+   Link: <a href="https://www.instagram.com/p/DSYh3DulDv6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSYh3DulDv6/</a>  
 
 45. <a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/mediaadvisory_blackstone-completes-acquisition-of-hipgnosis-activity-7226660736368857089-V3mw](https://www.linkedin.com/posts/mediaadvisory_blackstone-completes-acquisition-of-hipgnosis-activity-7226660736368857089-V3mw)  
+   Link: <a href="https://www.linkedin.com/posts/mediaadvisory_blackstone-completes-acquisition-of-hipgnosis-activity-7226660736368857089-V3mw" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mediaadvisory_blackstone-completes-acquisition-of-hipgnosis-activity-7226660736368857089-V3mw</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/blackstone-has-sold-a-portion-of-its-recognition-music-catalog-to-sony-for-more-/1268587861808456/](https://www.facebook.com/Billboard/posts/blackstone-has-sold-a-portion-of-its-recognition-music-catalog-to-sony-for-more-/1268587861808456/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/blackstone-has-sold-a-portion-of-its-recognition-music-catalog-to-sony-for-more-/1268587861808456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/blackstone-has-sold-a-portion-of-its-recognition-music-catalog-to-sony-for-more-/1268587861808456/</a>  
 
 47. <a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/outpostpartners_catalog-is-growing-songs-older-than-18-to-activity-7402677150023135233-8Bl0](https://www.linkedin.com/posts/outpostpartners_catalog-is-growing-songs-older-than-18-to-activity-7402677150023135233-8Bl0)  
+   Link: <a href="https://www.linkedin.com/posts/outpostpartners_catalog-is-growing-songs-older-than-18-to-activity-7402677150023135233-8Bl0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/outpostpartners_catalog-is-growing-songs-older-than-18-to-activity-7402677150023135233-8Bl0</a>  
 
 48. <a id="endnote-48"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/211605168/MIDiA-Consulting-The-Death-of-the-Long-TailMIDiA-Consulting-The-Death-of-the-Long-Tail](https://www.scribd.com/doc/211605168/MIDiA-Consulting-The-Death-of-the-Long-TailMIDiA-Consulting-The-Death-of-the-Long-Tail)  
+   Link: <a href="https://www.scribd.com/doc/211605168/MIDiA-Consulting-The-Death-of-the-Long-TailMIDiA-Consulting-The-Death-of-the-Long-Tail" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/211605168/MIDiA-Consulting-The-Death-of-the-Long-TailMIDiA-Consulting-The-Death-of-the-Long-Tail</a>  
 
 49. <a id="endnote-49"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUmLM4ekhd4/](https://www.instagram.com/reel/DUmLM4ekhd4/)  
+   Link: <a href="https://www.instagram.com/reel/DUmLM4ekhd4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUmLM4ekhd4/</a>

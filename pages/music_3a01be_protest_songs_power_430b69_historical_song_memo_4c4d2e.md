@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90
 - music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad
 tags:
-- music
+- music-3-a01-be
 - protest-songs
 - song-memory
 keywords:
-- music
+- music-3-a01-be
 - protest-songs
 - song-memory
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Songs like Bella ciao link current activism to past struggles, creating a sense of enduring resistance.
 hero_summary: Songs like Bella ciao link current activism to past struggles, creating a sense of enduring resistance.
 layout: default
 permalink: /song-memory/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /protest-songs/
 nav_short_title: Song Memory
 title: Connecting Modern Movements with Historical Protest Songs
-title_full: Connecting Modern Movements with Historical Protest Songs | Protest Songs
+title_full: Connecting Modern Movements with Historical Protest Songs
 display_title_short: Song Memory
 display_title: Song Memory
 heading_title: Connecting Modern Movements with Historical Protest Songs
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Protest Songs Still Mobilize People | Music
+parent_title: Why Protest Songs Still Mobilize People
 parent_permalink: /protest-songs/
 parent_nav_short_title: Protest Songs
 parent_heading_title: Why Protest Songs Still Mobilize People
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Protest Songs Flatten Complex Messages
 up_link:
   basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -265,7 +265,7 @@ next_link:
   permalink: /song-simplification/
   short_title: Song Simplification
   heading_title: When Protest Songs Flatten Complex Messages
-date: '2026-06-09 07:02:03 '
+date: '2026-06-11 23:32:34 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_historical_song_me
 
 [Protest songs]({{ 'protest-songs/' | relative_url }}) do more than voice dissent in the moment — they often **echo across decades, cultures and movements**, linking contemporary struggles to earlier histories of resistance. This historical continuity gives protest music a unique power: it doesn’t simply articulate current grievances, it situates them within a **living lineage of collective struggle**. By drawing on songs from past movements — whether through direct reuse, adaptation, or musical reference — activists create a **sense of shared identity and [memory]({{ 'memory/' | relative_url }})** that bridges generations. This page explores how protest songs function as **portable cultural memory**, how they are adapted across contexts, and why they continue to resonate so widely beyond their original moments.
 
-
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-dark.svg" | relative_url }}" alt="Song Memory illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Songs as Portable Monuments
 
@@ -284,19 +283,15 @@ Certain protest songs gain what cultural scholars call **“portability”** —
 
 Scholars characterise this adaptability as a kind of **“portable monument”** — cultural forms that act both as **stable reference points in collective memory** and as **templates for new meaning** in contemporary contexts. In the case of *Bella ciao*, activists in Argentina, Poland and elsewhere have rewritten [lyrics]({{ 'lyrics/' | relative_url }}) and altered rhythms to speak to issues like reproductive [rights]({{ 'rights/' | relative_url }}) or broader anti‑authoritarian causes, while still implicitly echoing resistance traditions from Europe’s past. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
 
-This portability reflects broader patterns in protest [music]({{ 'music/' | relative_url }}): the melodies, themes, and even rhythmic structures of older songs can serve as **building blocks for new expressions of dissent**. Instead of emerging from scratch, movements often stand on the musical shoulders of earlier ones, carrying forward **intertextual references** that link present and past struggles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicIntertextuality in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025...</span><span class="citation-popover-meta">Published: June 24, 2025</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qTEgQkuy_bU" title="The Solidarity&#x27;s Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qTEgQkuy_bU" target="_blank" rel="noopener noreferrer">The Solidarity&#x27;s Song</a></p><p class="youtube-embed-meta">Channel: The Red Army Choir - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qTEgQkuy_bU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qTEgQkuy_bU">Open on YouTube</a></p></div></div></div>
+This portability reflects broader patterns in protest music: the melodies, themes, and even rhythmic structures of older songs can serve as **building blocks for new expressions of dissent**. Instead of emerging from scratch, movements often stand on the musical shoulders of earlier ones, carrying forward **intertextual references** that link present and past struggles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicIntertextuality in Protest Music: A Typology &#124; The Oxford Handbook of Protest Music &#124; Oxford AcademicJune 24, 2025...</span><span class="citation-popover-meta">Published: June 24, 2025</span></span></span>
 
 ## Adaptation Across Cultures and Movements
 
 Historical continuity in protest songs isn’t just about repeating the same tune; it’s about **adaptation and reinvention**. One well‑documented case is We Shall Overcome, whose roots lie in a long chain of related spirituals, labour songs and folk pieces going back to the early 20th century and before. During the U.S. civil rights movement of the 1950s and 1960s, “We Shall Overcome” was reshaped from its antecedents into a **freedom anthem** that helped unify and motivate activists. Its evolution from church and labour contexts into a civil rights symbol illustrates how songs can **move through different protest milieus**, gaining new relevance while preserving echoes of prior uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpolitics.barefield.ua.edu">[Music Politics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpolitics.barefield.ua.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Similarly, protest songs often traverse **linguistic and cultural boundaries**. Music from one region or movement may be translated into other languages or blended with local musical styles, allowing the underlying **spirit of solidarity and resistance** to resonate in diverse contexts. For example, in contemporary demonstrations around the world, protesters sometimes sing versions of older anthems from other countries — whether translated melodies or adapted refrains — that carry historical associations with popular uprisings or civil liberties struggles. These inter‑movement references are a form of **cultural borrowing** that both acknowledges shared histories and localises them for new causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What foreign protest songs or chants are sung in your country?</span><span class="citation-popover-snippet">RedditWhat foreign protest songs or chants are sung in your country?August 31, 2025...</span><span class="citation-popover-meta">Published: August 31, 2025</span></span></span>
+Similarly, protest songs often traverse **linguistic and cultural boundaries**. Music from one region or movement may be translated into other languages or blended with local musical styles, allowing the underlying **spirit of solidarity and resistance** to resonate in diverse contexts. For example, in contemporary demonstrations around the world, protesters sometimes sing versions of older anthems from other countries — whether translated melodies or adapted refrains — that carry historical associations with popular uprisings or civil liberties struggles. These inter‑movement references are a form of **cultural borrowing** that both acknowledges shared histories and localises them for new causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What foreign protest songs or chants are sung in your country?</span><span class="citation-popover-snippet">What foreign protest songs or chants are sung in your country?August 31, 2025...</span><span class="citation-popover-meta">Published: August 31, 2025</span></span></span>
 
 Moreover, scholars note that protest music’s adaptability extends beyond lyrics to include **structural and performance elements**. Simple, repetitive melodies and call‑and‑response [formats]({{ 'formats/' | relative_url }}) make songs easier to learn and adapt, enabling them to be sung by large crowds even without formal musical training. These **affordances of form** help ensure that songs can be both remembered and reinvented across movements — a core mechanism of historical continuity in protest music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-2-dark.svg" | relative_url }}" alt="Song Memory illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Emotional Recall in Collective Memory
@@ -307,12 +302,6 @@ This linkage operates at multiple levels. First, there is **memory in activism**
 
 Through this process, songs become **emotional anchors** — musical touchstones that evoke shared experiences of joy, defiance, loss and hope. This emotional resonance helps sustain movements over time and strengthens solidarity among participants, reinforcing the idea that they are **part of something larger than their immediate context**.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XDkhzVw0yBs" title="When that Man is Dead and Gone (1941) - Protest song against Hitler (Live Take)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XDkhzVw0yBs" target="_blank" rel="noopener noreferrer">When that Man is Dead and Gone (1941) - Protest song against Hitler (Live Take)</a></p><p class="youtube-embed-meta">Channel: Lizzy &amp; the Triggermen</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XDkhzVw0yBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XDkhzVw0yBs">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZQgNQu30RcI" title="Enter Shikari - Solidarity (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZQgNQu30RcI" target="_blank" rel="noopener noreferrer">Enter Shikari - Solidarity (Official Audio)</a></p><p class="youtube-embed-meta">Channel: Enter Shikari</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZQgNQu30RcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZQgNQu30RcI">Open on YouTube</a></p></div></div></div>
-
 ## Historical Continuity as Collective Resource
 
 The continuity of protest songs across movements is not incidental; it’s a **strategic cultural resource**. By tapping into existing musical repertoires, movements can harness the emotional weight of history and quickly generate shared symbols of identity and resistance. This continuity also enables movements to articulate **complex political narratives** in accessible, memorable forms — translating abstract ideals into communal experience through music.
@@ -320,7 +309,6 @@ The continuity of protest songs across movements is not incidental; it’s a **s
 In practical terms, this means that current protest music often carries **layers of historical meaning**: echoes of earlier struggles, adapted motifs, and reworked lyrics that resonate with both past and present. Rather than replacing older songs, new movements often **build upon them**, extending their relevance and expanding their symbolic reach.
 
 In this way, historical continuity in protest songs does more than preserve memory; it **actively shapes how movements understand themselves and their place in the world**, forging links across time that empower collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-3-dark.svg" | relative_url }}" alt="Song Memory illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -720,111 +708,111 @@ In this way, historical continuity in protest songs does more than preserve memo
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/edited-volume/59485/chapter/524004993](https://academic.oup.com/edited-volume/59485/chapter/524004993)  
+   Link: <a href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/59485/chapter/524004993</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicIntertextuality in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025...</p></details>
    Published: June 24, 2025  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: What foreign protest songs or chants are sung in your country?  
-   Link: [https://www.reddit.com/r/AskTheWorld/comments/1n53a4g](https://www.reddit.com/r/AskTheWorld/comments/1n53a4g)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhat foreign protest songs or chants are sung in your country?August 31, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskTheWorld/comments/1n53a4g</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What foreign protest songs or chants are sung in your country?August 31, 2025...</p></details>
    Published: August 31, 2025  
 
 3. <a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993](https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993)  
+   Link: <a href="https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025 — * References INTERTEXTUALITY IN PROT...</p></details>
    Published: June 24, 2025  
 
 4. <a id="endnote-4"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals‘Bella ciao’: A portable monument for transnational activism  
-   Link: [https://journals.sagepub.com/doi/10.1177/13678779221145374](https://journals.sagepub.com/doi/10.1177/13678779221145374)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13678779221145374</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</p></details>
    Published: January 9, 2023  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Bella ciao  
-   Link: [https://en.wikipedia.org/wiki/Bella_ciao](https://en.wikipedia.org/wiki/Bella_ciao)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bella_ciao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bella_ciao</a>  
 
 6. <a id="endnote-6"></a>
    Source: musicpolitics.barefield.ua.edu  
-   Link: [https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/](https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/)  
+   Link: <a href="https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/" target="_blank" rel="noopener noreferrer nofollow">https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/</a>  
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
    Title: The song was popular among stud  
-   Link: [https://www.britannica.com/topic/We-Shall-Overcome](https://www.britannica.com/topic/We-Shall-Overcome)  
+   Link: <a href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/We-Shall-Overcome</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Shall Overcome | Civil Rights, Pete Seeger, Origin, History, &amp; Lyrics | BritannicaGLOBAL REACH The song has spread beyond the context...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/history/protest-songs](https://www.ebsco.com/research-starters/history/protest-songs)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/protest-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/protest-songs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest songs provided a soundtrack for the civil rights and antiwar struggles of the 1960’s an...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022](https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get AccessJanuary 21, 2025 — Image: Publication Cover Continuum Journal of Media &amp; Cultural Studies Volume 39, 2025 - Issue 3: Popular Mu...</p></details>
    Published: January 21, 2025  
 
 10. <a id="endnote-10"></a>
    Source: revistas.ucm.es  
-   Link: [https://revistas.ucm.es/index.php/HPOL/article/view/69753](https://revistas.ucm.es/index.php/HPOL/article/view/69753)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Historia y PolíticaMay 25, 2020 — «LIBERTAD SIN IRA», INDIGNACIÓN EN (LA) TRANSICIÓN: REAPROPIACIONES POLÍTICAS Y RELATOS SONOROS DE UN...</p></details>
+   Link: <a href="https://revistas.ucm.es/index.php/HPOL/article/view/69753" target="_blank" rel="noopener noreferrer nofollow">https://revistas.ucm.es/index.php/HPOL/article/view/69753</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historia y PolíticaMay 25, 2020 — «LIBERTAD SIN IRA», INDIGNACIÓN EN (LA) TRANSICIÓN: REAPROPIACIONES POLÍTICAS Y RELATOS SONOROS DE UN...</p></details>
    Published: May 25, 2020  
 
 11. <a id="endnote-11"></a>
    Source: dbc.library.uu.nl  
-   Link: [https://dbc.library.uu.nl/handle/1874/436912](https://dbc.library.uu.nl/handle/1874/436912)  
+   Link: <a href="https://dbc.library.uu.nl/handle/1874/436912" target="_blank" rel="noopener noreferrer nofollow">https://dbc.library.uu.nl/handle/1874/436912</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism‘BELLA CIAO’: A PORTABLE MONUMENT FOR TRANSNATIONAL ACTIVISM ‘Bella ciao...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: revistas.usal.es  
-   Link: [https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499](https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499)  
+   Link: <a href="https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499" target="_blank" rel="noopener noreferrer nofollow">https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>transmisión del pensamiento entre culturas a través de la semiología de la canción popular: el caso de bella ciao, de himno partisano en...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research-portal.uea.ac.uk  
    Title: our subversive voice the history and politics of english protest  
-   Link: [https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-](https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-)  
+   Link: <a href="https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice: The History and Politics of English Protest Songs, 1600-2020 - University of East AngliaOUR SUBVERSIVE VOICE: THE HISTO...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research-portal.uu.nl  
    Title: nl‘Bella ciao’: A portable monument for transnational activism  
-   Link: [https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/](https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/)  
+   Link: <a href="https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism - Utrecht UniversityMarch 1, 2023 — ‘BELLA CIAO’: A PORTABLE MONUMENT F...</p></details>
    Published: March 1, 2023  
 
 15. <a id="endnote-15"></a>
    Source: theses.ubn.ru.nl  
    Title: nl From “We Shall Overcome” to “Fortunate Son”: The Evolving Sound of Protest  
-   Link: [https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b](https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b)  
+   Link: <a href="https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b" target="_blank" rel="noopener noreferrer nofollow">https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FILES Laan, F.C.A. van der 1029781.pdf (1.81 MB) AUTHORS Laan, F.C.A. van der ISSUE DATE 2020-08-21 LANGU...</p></details>
    Published: August 21, 2020  
 
 16. <a id="endnote-16"></a>
    Source: al-monitor.com  
    Title: 'Bella Ciao', protest anthem the world loves to sing  
-   Link: [https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing](https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AL-MONITOR: The Middle Eastʼs leading independent news source since 2012October 6, 2022 — &#x27;BELLA CIAO&#x27;, PROTEST ANTHEM THE WORLD LOVES TO...</p></details>
+   Link: <a href="https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing" target="_blank" rel="noopener noreferrer nofollow">https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Middle Eastʼs leading independent news source since 2012October 6, 2022 — &#x27;BELLA CIAO&#x27;, PROTEST ANTHEM THE WORLD LOVES TO...</p></details>
    Published: October 6, 2022  
 
 17. <a id="endnote-17"></a>
    Source: d-scholarship.pitt.edu  
    Title: Master's Thesis, University of Pittsburgh. (Unpu  
-   Link: [https://d-scholarship.pitt.edu/7626/](https://d-scholarship.pitt.edu/7626/)  
+   Link: <a href="https://d-scholarship.pitt.edu/7626/" target="_blank" rel="noopener noreferrer nofollow">https://d-scholarship.pitt.edu/7626/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pitt.edu&quot;WE SHALL OVERCOME&quot;: FROM BLACK CHURCH MUSIC TO FREEDOM SONG - D-Scholarship@PittJune 27, 2006 — &quot;WE SHALL OVERCOME&quot;: FROM BLACK...</p></details>
    Published: June 27, 2006  
 
 18. <a id="endnote-18"></a>
    Source: tribunemag.co.uk  
    Title: ‘Bella Ciao’: The Song of the Partisans  
-   Link: [https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans](https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans)  
+   Link: <a href="https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans" target="_blank" rel="noopener noreferrer nofollow">https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2021 — 06.3.2021 * * * * # ‘Bella Ciao’: The Song of the Partisans By Patrick Graney With its catchy folk [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), &#x27;Bella Ciao&#x27; b...</p></details>
-   Published: March 6, 2021  
+   Published: March 6, 2021

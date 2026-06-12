@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6
 - music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f
 tags:
-- music
+- music-3-a01-be
 - lullabies
 - repetition
 keywords:
-- music
+- music-3-a01-be
 - lullabies
 - repetition
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Repeated phrases and simple patterns make lullabies easier for babies to process and less likely to startle them.
 hero_summary: Repeated phrases and simple patterns make lullabies easier for babies to process and less likely to startle them.
 layout: default
 permalink: /repetition-a8a280/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /lullabies/
 nav_short_title: Repetition
 title: Why Repetition Helps Babies Settle
-title_full: Why Repetition Helps Babies Settle | Lullabies
+title_full: Why Repetition Helps Babies Settle
 display_title_short: Repetition
 display_title: Repetition
 heading_title: Why Repetition Helps Babies Settle
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Lullabies Work Across Cultures | Music
+parent_title: Why Lullabies Work Across Cultures
 parent_permalink: /lullabies/
 parent_nav_short_title: Lullabies
 parent_heading_title: Why Lullabies Work Across Cultures
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Slow Lullabies Feel Calming
 up_link:
   basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -265,7 +265,7 @@ next_link:
   permalink: /slow-tempo/
   short_title: Slow Tempo
   heading_title: Why Slow Lullabies Feel Calming
-date: '2026-06-09 07:30:25 '
+date: '2026-06-11 23:46:18 '
 header:
   og_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-1.webp
@@ -274,24 +274,20 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predic
 
 ## Introduction
 
-Repetition is one of the most important ways [lullabies]({{ 'lullabies/' | relative_url }}) help babies settle. While many forms of music attract attention by introducing new melodies, rhythms, and surprises, soothing baby songs often do the opposite. They rely on recurring phrases, repeated syllables, familiar melodic contours, and highly predictable timing. This reduces the amount of new information a baby must process and creates a stable auditory environment that is less likely to trigger alertness. Research on infant responses to lullabies suggests that babies relax not only to [familiar songs]({{ 'familiar-songs/' | relative_url }}) but also to unfamiliar lullabies from other cultures, indicating that certain predictable musical features themselves contribute to calming effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInfants relax in response to unfamiliar foreign lullabiesby CM Bainbridge · 2021 · Cited by 113 — We show that US infants (N = 144)...</span></span></span>
-
+Repetition is one of the most important ways [lullabies]({{ 'lullabies/' | relative_url }}) help babies settle. While many forms of music attract attention by introducing new melodies, rhythms, and surprises, soothing baby songs often do the opposite. They rely on recurring phrases, repeated syllables, familiar melodic contours, and highly predictable timing. This reduces the amount of new information a baby must process and creates a stable auditory environment that is less likely to trigger alertness. Research on infant responses to lullabies suggests that babies relax not only to [familiar songs]({{ 'familiar-songs/' | relative_url }}) but also to unfamiliar lullabies from other cultures, indicating that certain predictable musical features themselves contribute to calming effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge · 2021 · Cited by 113 — We show that US infants (N = 144)...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-1-dark.svg" | relative_url }}" alt="Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Predictable Phrases Feel Safe
 
-Babies enter the world with developing sensory systems that are constantly processing new sights and sounds. In this context, predictability matters. A song built from repeated words, sounds, and melodic patterns creates fewer surprises than [music]({{ 'music/' | relative_url }}) that changes direction every few seconds.
+Babies enter the world with developing sensory systems that are constantly processing new sights and sounds. In this context, predictability matters. A song built from repeated words, sounds, and melodic patterns creates fewer surprises than music that changes direction every few seconds.
 
 Many traditional lullabies repeat short vocal units such as “la-la”, “hush”, or simple rhythmic phrases. The same melodic shape may return again and again with only minor variation. This repetition allows the infant's brain to form expectations about what comes next. Rather than continually evaluating new auditory information, the listener encounters a pattern that becomes increasingly familiar with each repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lullaby" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Studies of infant-directed singing show that lullabies across cultures share common structural characteristics, including reduced variability and predictable organisation. Infants respond to these features even when the songs are sung in unfamiliar languages, suggesting that the calming effect does not depend primarily on understanding words. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Infants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">human mind, or both. Here, we show that US infants (N = 144) relax in response to eight unfamiliar foreign lullabies, relative to matched...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8qfbBxc_UxA" title="BABY SHARK is SICK but he doesn’t want to take his medicine! - Healthy Habits Song for Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8qfbBxc_UxA" target="_blank" rel="noopener noreferrer">BABY SHARK is SICK but he doesn’t want to take his medicine! - Healthy Habits Song for Kids</a></p><p class="youtube-embed-meta">Channel: Shark Academy - Songs for kids</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8qfbBxc_UxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8qfbBxc_UxA">Open on YouTube</a></p></div></div></div>
-
 ### Lower Uncertainty, Lower Arousal
 
-Music researchers often describe listening as a process of forming expectations. When music becomes highly unpredictable, listeners must constantly update those expectations. Predictable music creates the opposite experience: fewer surprises and a more stable sense of what will happen next. Research on musical expectancy has shown that predictability strongly influences emotional responses to music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Effects of pitch and timing expectancy on musical emotion</span><span class="citation-popover-snippet">arXivEffects of pitch and timing expectancy on musical emotionAugust 11, 2017...</span><span class="citation-popover-meta">Published: August 11, 2017</span></span></span>
+Music researchers often describe listening as a process of forming expectations. When music becomes highly unpredictable, listeners must constantly update those expectations. Predictable music creates the opposite experience: fewer surprises and a more stable sense of what will happen next. Research on musical expectancy has shown that predictability strongly influences emotional responses to music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Effects of pitch and timing expectancy on musical emotion</span><span class="citation-popover-snippet">Effects of pitch and timing expectancy on musical emotionAugust 11, 2017...</span><span class="citation-popover-meta">Published: August 11, 2017</span></span></span>
 
 For infants, whose [attention]({{ 'attention/' | relative_url }}) can be easily redirected by sudden changes, this reduction in uncertainty may be especially important. Repeated patterns help maintain a calm auditory environment in which nothing demands immediate attention. Instead of encouraging exploration or excitement, the music signals continuity and safety.
 
@@ -299,26 +295,22 @@ For infants, whose [attention]({{ 'attention/' | relative_url }}) can be easily 
 
 A lullaby's [melody]({{ 'melody/' | relative_url }}) is often simple enough that its shape can be anticipated after only a few repetitions. Rather than large leaps or dramatic contrasts, the tune usually moves gradually and returns to familiar notes.
 
-This simplicity turns the melody itself into a cue for relaxation. Once a baby hears the same melodic [contour]({{ 'contour/' | relative_url }}) repeatedly, the brain can predict upcoming notes with increasing accuracy. Predictable musical structures require less processing effort than constantly changing ones, making the listening experience gentler and more stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSing to me, baby: Infants show neural tracking and...by T Nguyen · 2023 · Cited by 45 — On the other hand, lullabies are ch...</span></span></span>
+This simplicity turns the melody itself into a cue for relaxation. Once a baby hears the same melodic [contour]({{ 'contour/' | relative_url }}) repeatedly, the brain can predict upcoming notes with increasing accuracy. Predictable musical structures require less processing effort than constantly changing ones, making the listening experience gentler and more stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Sing to me, baby: Infants show neural tracking and...by T Nguyen · 2023 · Cited by 45 — On the other hand, lullabies are ch...</span></span></span>
 
 Repeated melodies also gain power through familiarity. Even when a child is too young to consciously recognise a song, repeated exposure can create associations between that melody and comforting routines such as rocking, feeding, or bedtime. Over time, hearing the opening phrase alone may signal that sleep or rest is approaching.
 
 This helps explain why caregivers often sing the same lullaby night after night. Consistency transforms a simple tune into a learned calming signal. Experts on infant sleep similarly note that familiar, repeated musical tracks can become effective bedtime cues when used consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.parents.com/parents-say-music-helps-their-babies-sleep-better-heres-what-to-try-11803447" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parents.com">[Parents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parents.com</span><span class="citation-popover-title">Say Music Helps Their Babies Sleep Better-Here&#x27;s What to Try</span><span class="citation-popover-snippet">The survey, conducted via Instagram stories, found that 77% of parents observed better sleep in their babies when incorporating music int...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-2-dark.svg" | relative_url }}" alt="Repetition illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Repetition Across Rhythm and Timing
 
-Predictability in lullabies is not limited to melody. Rhythm also tends to be highly regular.
+Predictability in lullabies is not limited to melody. [Rhythm]({{ 'rhythm/' | relative_url }}) also tends to be highly regular.
 
 Many soothing songs maintain a steady pulse with few abrupt pauses or accents. Repeated rhythmic cycles allow infants to anticipate timing as well as pitch. Emerging research suggests that humans develop sensitivity to rhythmic regularities very early in life, with newborns showing evidence of tracking and anticipating rhythmic patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/feb/05/newborn-babies-can-anticipate-rhythm-in-music-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Led by Dr. Roberta Bianco, the study used EEG to analyze the brain activity of 49 sleeping newborns exposed to original and randomized ve...</span></span></span>
 
 When rhythm repeats consistently, each cycle confirms the expectation established by the previous one. This creates a sense of continuity that can support relaxation. In contrast, sudden rhythmic disruptions, unexpected accents, or rapid tempo shifts are more likely to draw attention and increase alertness.
 
 The effect is often strengthened when the singer naturally synchronises the lullaby with rocking, breathing, or gentle movement. Repeated auditory and [physical]({{ 'physical/' | relative_url }}) patterns reinforce one another, making the experience even more predictable.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AXnQ7M1fENE" title="The Brain Development Trick Hidden in Music | What Music Does to a Baby Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AXnQ7M1fENE" target="_blank" rel="noopener noreferrer">The Brain Development Trick Hidden in Music | What Music Does to a Baby Brain</a></p><p class="youtube-embed-meta">Channel: Little Mind Home</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AXnQ7M1fENE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AXnQ7M1fENE">Open on YouTube</a></p></div></div></div>
 
 ## When Repetition Becomes Overstimulating
 
@@ -328,15 +320,10 @@ If a song becomes excessively loud, rhythmically insistent, or mechanically repe
 
 Caregivers often introduce tiny changes in timing, volume, or vocal expression while preserving the song's overall structure. These small variations keep the performance natural without undermining predictability. The baby still recognises the pattern, but the music remains warm and human rather than rigid.
 
-
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-3-dark.svg" | relative_url }}" alt="Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Mechanism
 
-The calming power of repetition in lullabies comes from its ability to reduce uncertainty. Repeated words, recurring melodic shapes, and stable rhythms create a sound world that is easy to predict. As expectations are repeatedly confirmed rather than challenged, the music becomes less demanding to process and less likely to provoke alertness. Research showing that infants relax to unfamiliar lullabies from distant cultures suggests that these predictable musical characteristics are not merely traditional conventions—they are central elements of how soothing baby songs work. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCby CM Bainbridge · 2020 · Cited by 115 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E8ww__gVTA0" title="Why Music Is Important for Early Childhood Development" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E8ww__gVTA0" target="_blank" rel="noopener noreferrer">Why Music Is Important for Early Childhood Development</a></p><p class="youtube-embed-meta">Channel: - Divya -</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E8ww__gVTA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E8ww__gVTA0">Open on YouTube</a></p></div></div></div>
-
+The calming power of repetition in lullabies comes from its ability to reduce uncertainty. Repeated words, recurring melodic shapes, and stable rhythms create a sound world that is easy to predict. As expectations are repeatedly confirmed rather than challenged, the music becomes less demanding to process and less likely to provoke alertness. Research showing that infants relax to unfamiliar lullabies from distant cultures suggests that these predictable musical characteristics are not merely traditional conventions—they are central elements of how soothing baby songs work. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 115 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -734,127 +721,127 @@ The calming power of repetition in lullabies comes from its ability to reduce un
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41562-020-00963-z](https://www.nature.com/articles/s41562-020-00963-z)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureInfants relax in response to unfamiliar foreign lullabiesby CM Bainbridge · 2021 · Cited by 113 — We show that US infants (N = 144)...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge · 2021 · Cited by 113 — We show that US infants (N = 144)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Title: PMCInfants relax in response to unfamiliar [foreign lullabies](&#123;&#123; 'foreign-songs/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby CM Bainbridge · 2020 · Cited by 115 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</p></details>
+   Title: PMCInfants relax in response to unfamiliar foreign lullabies  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CM Bainbridge · 2020 · Cited by 115 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lullaby](https://en.wikipedia.org/wiki/Lullaby)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lullaby" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lullaby</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Effects of pitch and timing expectancy on musical emotion  
-   Link: [https://arxiv.org/abs/1708.03687](https://arxiv.org/abs/1708.03687)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEffects of pitch and timing expectancy on musical emotionAugust 11, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1708.03687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.03687</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of pitch and timing expectancy on musical emotionAugust 11, 2017...</p></details>
    Published: August 11, 2017  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1709.03629](https://arxiv.org/abs/1709.03629)  
+   Link: <a href="https://arxiv.org/abs/1709.03629" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1709.03629</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1878929323001184](https://www.sciencedirect.com/science/article/pii/S1878929323001184)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSing to me, baby: Infants show neural tracking and...by T Nguyen · 2023 · Cited by 45 — On the other hand, lullabies are ch...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1878929323001184</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sing to me, baby: Infants show neural tracking and...by T Nguyen · 2023 · Cited by 45 — On the other hand, lullabies are ch...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.16587](https://arxiv.org/abs/2210.16587)  
+   Link: <a href="https://arxiv.org/abs/2210.16587" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.16587</a>  
 
 8. <a id="endnote-8"></a>
    Source: parents.com  
    Title: Say Music Helps Their Babies Sleep Better-Here's What to Try  
-   Link: [https://www.parents.com/parents-say-music-helps-their-babies-sleep-better-heres-what-to-try-11803447](https://www.parents.com/parents-say-music-helps-their-babies-sleep-better-heres-what-to-try-11803447)  
+   Link: <a href="https://www.parents.com/parents-say-music-helps-their-babies-sleep-better-heres-what-to-try-11803447" target="_blank" rel="noopener noreferrer nofollow">https://www.parents.com/parents-say-music-helps-their-babies-sleep-better-heres-what-to-try-11803447</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The survey, conducted via Instagram stories, found that 77% of parents observed better sleep in their babies when incorporating music int...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/](https://www.nature.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
+   Link: <a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0163638396900466](https://www.sciencedirect.com/science/article/pii/S0163638396900466)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0163638396900466" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0163638396900466</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infant preferences for infant-directed versus noninfant-...by LJ Trainor · 1996 · Cited by 457 — The infant-directed playsongs were rate...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Infants relax in response to unfamiliar foreign lullabies  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33077883/](https://pubmed.ncbi.nlm.nih.gov/33077883/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>human mind, or both. Here, we show that US infants (N = 144) relax in response to eight unfamiliar foreign lullabies, relative to matched...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/feb/05/newborn-babies-can-anticipate-rhythm-in-music-researchers-find](https://www.theguardian.com/science/2026/feb/05/newborn-babies-can-anticipate-rhythm-in-music-researchers-find)  
+   Link: <a href="https://www.theguardian.com/science/2026/feb/05/newborn-babies-can-anticipate-rhythm-in-music-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/feb/05/newborn-babies-can-anticipate-rhythm-in-music-researchers-find</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Dr. Roberta Bianco, the study used EEG to analyze the brain activity of 49 sleeping newborns exposed to original and randomized ve...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mehr.nz  
-   Link: [https://mehr.nz/pdf/2021_BainbridgeBertoloEtAl_NHB.pdf](https://mehr.nz/pdf/2021_BainbridgeBertoloEtAl_NHB.pdf)  
+   Link: <a href="https://mehr.nz/pdf/2021_BainbridgeBertoloEtAl_NHB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mehr.nz/pdf/2021_BainbridgeBertoloEtAl_NHB.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge · Cited by 116 — Together, these findings suggest that infants...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24441085/](https://pubmed.ncbi.nlm.nih.gov/24441085/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24441085/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24441085/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of lullaby and classical music on physiologic stability...by E Amini · 2013 · Cited by 95 — Music can affect vital signs of preterm infa...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404567031_Development_of_Auditory_and_Spontaneous_Movement_Responses_to_Music_over_the_First_Postnatal_Year](https://www.researchgate.net/publication/404567031_Development_of_Auditory_and_Spontaneous_Movement_Responses_to_Music_over_the_First_Postnatal_Year)  
+   Link: <a href="https://www.researchgate.net/publication/404567031_Development_of_Auditory_and_Spontaneous_Movement_Responses_to_Music_over_the_First_Postnatal_Year" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404567031_Development_of_Auditory_and_Spontaneous_Movement_Responses_to_Music_over_the_First_Postnatal_Year</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Development of Auditory and Spontaneous Movement...9 May 2026 — This study simultaneously investigates infants&#x27; neural (auditory) respon...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies](https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies)  
+   Link: <a href="https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesInfants relax in response to unfamiliar foreign lullabies. Springer Nature. Natu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: polifonia-project.eu  
-   Link: [https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/](https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/)  
+   Link: <a href="https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/" target="_blank" rel="noopener noreferrer nofollow">https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/</a>  
 
 18. <a id="endnote-18"></a>
    Source: upf.edu  
-   Link: [https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized](https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized)  
+   Link: <a href="https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized" target="_blank" rel="noopener noreferrer nofollow">https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>infant directed song, in that they relax to them even when the songs are drawn from unfamiliar cultures and sung in unfamiliar languages...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: infants relaxed more in response to the lullabies including unfamiliar foreign o  
-   Link: [https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/](https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/)  
+   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesInfants relaxed more in response to the lullabies, including unfamiliar foreign...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: github.com  
-   Link: [https://github.com/themusiclab/infant-relax](https://github.com/themusiclab/infant-relax)  
+   Link: <a href="https://github.com/themusiclab/infant-relax" target="_blank" rel="noopener noreferrer nofollow">https://github.com/themusiclab/infant-relax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This repository contains data and code for Bainbridge &amp; Bertolo et al. (2020, Nature Human Behaviour)...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cognitivesciencesociety.org  
-   Link: [https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html](https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html)  
+   Link: <a href="https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AbstractMusic is a human universal characterized by acoustical forms that are predictive of its...Read m...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: themusicscientist.com  
    Title: the science of lullabies how slower bpms aid your childs sleep  
-   Link: [https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/](https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/)  
+   Link: <a href="https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Slower BPMs Aid Your Child&#x27;s Sleep26 Oct 2025 — Research-Backed Benefits. Faster Sleep Onset. Children listening to 60-80 BPM music f...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: maggiemoo-music.com  
-   Link: [https://maggiemoo-music.com/the-fascinating-science-of-bedtime-lullabies/](https://maggiemoo-music.com/the-fascinating-science-of-bedtime-lullabies/)  
+   Link: <a href="https://maggiemoo-music.com/the-fascinating-science-of-bedtime-lullabies/" target="_blank" rel="noopener noreferrer nofollow">https://maggiemoo-music.com/the-fascinating-science-of-bedtime-lullabies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that babies prefer songs with a slower tempo and simple melodies...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gosh.nhs.uk  
    Title: research proves lullabies really do help children feel better  
-   Link: [https://www.gosh.nhs.uk/press-releases/research-proves-lullabies-really-do-help-children-feel-better/](https://www.gosh.nhs.uk/press-releases/research-proves-lullabies-really-do-help-children-feel-better/)  
+   Link: <a href="https://www.gosh.nhs.uk/press-releases/research-proves-lullabies-really-do-help-children-feel-better/" target="_blank" rel="noopener noreferrer nofollow">https://www.gosh.nhs.uk/press-releases/research-proves-lullabies-really-do-help-children-feel-better/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lullabies really do help to soothe poorly children and reduce their perception of pain... The music study involved 37 paediatric patient...</p></details>

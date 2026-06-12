@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recommendation_syste_136ac5_mood_recommendations_563861
 - music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555
 tags:
-- music
+- music-3-a01-be
 - algorithms
 - diversity-tradeoff
 keywords:
-- music
+- music-3-a01-be
 - algorithms
 - diversity-tradeoff
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Spotify's own research shows the tension between immediate relevance and broader, more varied listening over time.
 hero_summary: Spotify's own research shows the tension between immediate relevance and broader, more varied listening over time.
 layout: default
 permalink: /diversity-tradeoff/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /algorithms/
 nav_short_title: Diversity Tradeoff
 title: Can recommendations stay relevant and diverse?
-title_full: Can recommendations stay relevant and diverse? | Algorithms
+title_full: Can recommendations stay relevant and diverse?
 display_title_short: Diversity Tradeoff
 display_title: Diversity Tradeoff
 heading_title: Can recommendations stay relevant and diverse?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Algorithms Help Or Narrow Music Discovery? | Music
+parent_title: Do Algorithms Help Or Narrow Music Discovery?
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: Do Algorithms Help Or Narrow Music Discovery?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do personalised playlists make taste smaller?
 up_link:
   basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -265,7 +265,7 @@ next_link:
   permalink: /mood-matching/
   short_title: Mood Matching
   heading_title: How mood playlists changed music discovery
-date: '2026-06-09 07:45:24 '
+date: '2026-06-11 23:54:13 '
 header:
   og_image: /assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-1.webp
@@ -274,12 +274,10 @@ image: /assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity
 
 ## Introduction
 
-Spotify’s recommendation research points to a central challenge in [music]({{ 'music/' | relative_url }}) discovery: the songs most likely to earn an immediate play are not always the songs that broaden a listener’s musical world. The platform’s own studies suggest that recommendation systems face a persistent tradeoff between relevance and diversity. Recommendations that closely match existing tastes often maximise short-term engagement, but they can also narrow listening patterns over time. Conversely, introducing more varied or unexpected music can expand a listener’s horizons, yet carries a greater risk that the recommendation will be ignored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span>
-
+Spotify’s recommendation research points to a central challenge in music discovery: the songs most likely to earn an immediate play are not always the songs that broaden a listener’s musical world. The platform’s own studies suggest that recommendation systems face a persistent tradeoff between relevance and diversity. Recommendations that closely match existing tastes often maximise short-term engagement, but they can also narrow listening patterns over time. Conversely, introducing more varied or unexpected music can expand a listener’s horizons, yet carries a greater risk that the recommendation will be ignored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-1-dark.svg" | relative_url }}" alt="Diversity Tradeoff illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tension matters because recommendation systems have become one of the main ways people encounter new music. The question is no longer simply whether algorithms help discovery. It is whether they can help listeners discover music that is both appealing now and beneficial for long-term exploration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bPdRBXpjENI" title="Our reality shaped by recommendation algorithms | Dr. Tim Kessler | TEDxTUBerlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bPdRBXpjENI" target="_blank" rel="noopener noreferrer">Our reality shaped by recommendation algorithms | Dr. Tim Kessler | TEDxTUBerlin</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 5.8K &middot; Uploaded: September 2019 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bPdRBXpjENI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bPdRBXpjENI">Open on YouTube</a></p></div></div></div>
 
@@ -291,14 +289,13 @@ However, the same study also found that listening driven by algorithmic recommen
 
 The finding is important because it challenges a common assumption that recommendation automatically equals discovery. Spotify’s research suggests that recommendation can increase discovery in the sense of introducing unfamiliar tracks, while still reducing diversity if those tracks remain highly similar to a listener’s existing preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span>
 
-A related Spotify field experiment examining podcast recommendations revealed a similar pattern. Personalised recommendations increased consumption substantially, but they also reduced individual-level diversity. The researchers described this as an “engagement-diversity trade-off”: optimising recommendations solely for engagement can increase usage while simultaneously narrowing the range of content consumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
-
+A related Spotify field experiment examining podcast recommendations revealed a similar pattern. Personalised recommendations increased consumption substantially, but they also reduced individual-level diversity. The researchers described this as an “engagement-diversity trade-off”: optimising recommendations solely for engagement can increase usage while simultaneously narrowing the range of content consumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vyZMYlGBSBM" title="Spotify ML Question - Design a Recommendation System (Full mock interview)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vyZMYlGBSBM" target="_blank" rel="noopener noreferrer">Spotify ML Question - Design a Recommendation System (Full mock interview)</a></p><p class="youtube-embed-meta">Channel: Exponent &middot; Views: 80.9K &middot; Uploaded: November 2023 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vyZMYlGBSBM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vyZMYlGBSBM">Open on YouTube</a></p></div></div></div>
 
 ## Why similarity can reduce listening variety
 
-The relevance side of the tradeoff comes from how recommendation systems succeed. A recommendation is usually judged successful when a listener streams, saves or returns to the suggested content. The safest way to achieve that outcome is often to recommend something highly similar to what the listener already enjoys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">SpotifyUnderstanding recommendations on SpotifyMar 12, 2026 — At Spotify, people and technology work together to deliver relevant recomme...</span></span></span>
+The relevance side of the tradeoff comes from how recommendation systems succeed. A recommendation is usually judged successful when a listener streams, saves or returns to the suggested content. The safest way to achieve that outcome is often to recommend something highly similar to what the listener already enjoys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyMar 12, 2026 — At Spotify, people and technology work together to deliver relevant recomme...</span></span></span>
 
 Imagine a listener who frequently plays contemporary indie rock. A recommendation system seeking maximum immediate relevance is likely to suggest more contemporary indie rock, perhaps from a different artist but with comparable characteristics. Such recommendations often perform well because they fit established preferences. Yet repeated use of this strategy can create a gradual narrowing effect. The listener may encounter many new songs, but from within a relatively small musical neighbourhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.hec.ca">[HEC Digital Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.hec.ca</span><span class="citation-popover-snippet">HEC Digital MarketingHow Spotify&#x27;s Algorithm Shapes Global Music Discovery...Nov 9, 2025 — Spotify&#x27;s biased recommendation system is und...</span></span></span>
 
@@ -306,29 +303,26 @@ Researchers often describe this as a filtering or reinforcement mechanism. The a
 
 This does not necessarily mean listeners become trapped in rigid “filter bubbles”. The empirical evidence on that question is mixed. However, Spotify’s own findings indicate that recommendation-driven listening tends to be less diverse than other forms of exploration, suggesting that similarity-based optimisation has measurable effects on listening breadth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-2-dark.svg" | relative_url }}" alt="Diversity Tradeoff illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why lower-popularity recommendations may be easier than bigger taste jumps
 
 An important insight from recommendation research is that not all forms of diversity are equally difficult to introduce.
 
-Recommending a less popular artist who sounds similar to music a listener already enjoys is often a relatively small step. The recommendation remains highly relevant because it sits close to existing preferences. From the system’s perspective, this kind of recommendation carries limited risk. The listener may still stream the track even if the artist is unfamiliar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+Recommending a less popular artist who sounds similar to music a listener already enjoys is often a relatively small step. The recommendation remains highly relevant because it sits close to existing preferences. From the system’s perspective, this kind of recommendation carries limited risk. The listener may still stream the track even if the artist is unfamiliar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 A much larger challenge arises when diversity requires crossing stylistic, cultural or genre boundaries. Moving an indie-rock listener toward experimental electronic music, jazz, folk traditions from another country or an entirely different musical [culture]({{ 'culture/' | relative_url }}) involves a larger leap in taste. Such recommendations may contribute more to genuine diversification, but they are also less predictable and more likely to be skipped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 32 — In this overv...</span></span></span>
 
 This distinction helps explain why popularity diversity and taste diversity are not the same thing:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Popularity diversity** introduces artists outside the mainstream while remaining close to existing tastes.
 * **Taste diversity** introduces music that differs substantially from a listener’s established listening patterns.
-* The second form generally carries greater engagement risk because it asks listeners to venture further from familiar territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+* The second form generally carries greater engagement risk because it asks listeners to venture further from familiar territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 </div>
 
 As a result, platforms may find it easier to diversify recommendations through lower-popularity content than through radical shifts in musical style. A recommendation can be novel in terms of artist exposure while remaining highly relevant in terms of sound.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n3RKsY2H-NE" title="The Math Behind Recommender Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n3RKsY2H-NE" target="_blank" rel="noopener noreferrer">The Math Behind Recommender Systems</a></p><p class="youtube-embed-meta">Channel: Art of the Problem &middot; Views: 305.4K &middot; Uploaded: February 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n3RKsY2H-NE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n3RKsY2H-NE">Open on YouTube</a></p></div></div></div>
 
@@ -336,10 +330,9 @@ As a result, platforms may find it easier to diversify recommendations through l
 
 Spotify’s diversity studies suggest that the central challenge is not choosing between relevance and diversity, but balancing them over time. Immediate engagement metrics naturally favour recommendations that closely match known preferences. Yet the same research indicates that broader listening diversity is associated with valuable long-term outcomes for users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span>
 
-The implication is that successful music discovery systems may need to optimise for more than the next click or stream. They may need to consider whether recommendations help listeners develop richer listening habits over weeks, months and years. Research beyond Spotify has found that exposure to appropriately diversified [music recommendations]({{ 'algorithms-a7ef46/' | relative_url }}) can increase curiosity, openness and willingness to engage with unfamiliar music, suggesting that diversity itself can create long-term value when introduced carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+The implication is that successful music discovery systems may need to optimise for more than the next click or stream. They may need to consider whether recommendations help listeners develop richer listening habits over weeks, months and years. Research beyond Spotify has found that exposure to appropriately diversified music recommendations can increase curiosity, openness and willingness to engage with unfamiliar music, suggesting that diversity itself can create long-term value when introduced carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 Spotify’s work therefore highlights a nuanced reality. Recommendations that are maximally relevant are not always maximally diverse, and recommendations that maximise diversity are not always immediately relevant. The most effective discovery systems are likely to sit between those extremes, using familiar music as a bridge toward broader exploration rather than treating relevance and diversity as mutually exclusive goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-3-dark.svg" | relative_url }}" alt="Diversity Tradeoff illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -739,163 +732,163 @@ Spotify’s work therefore highlights a nuanced reality. Recommendations that ar
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.08203](https://arxiv.org/abs/2003.08203)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.08203</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Engagement-Diversity Connection: Evidence from a Field Experiment on SpotifyMarch 17, 2020...</p></details>
    Published: March 17, 2020  
 
 2. <a id="endnote-2"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: [https://www.spotify.com/safetyandprivacy/understanding-recommendations](https://www.spotify.com/safetyandprivacy/understanding-recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding recommendations on SpotifyMar 12, 2026 — At Spotify, people and technology work together to deliver relevant recomme...</p></details>
+   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on SpotifyMar 12, 2026 — At Spotify, people and technology work together to deliver relevant recomme...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: digital.hec.ca  
-   Link: [https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/](https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/)  
+   Link: <a href="https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/" target="_blank" rel="noopener noreferrer nofollow">https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HEC Digital MarketingHow Spotify&#x27;s Algorithm Shapes Global Music Discovery...Nov 9, 2025 — Spotify&#x27;s biased recommendation system is und...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 60 — The impact of streaming platforms on musical pro...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2208.09517](https://arxiv.org/abs/2208.09517)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExploring Popularity Bias in [Music Recommendation](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;) Models and Commercial Steaming ServicesAugust 19, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.09517</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Popularity Bias in Music Recommendation Models and Commercial Steaming ServicesAugust 19, 2022...</p></details>
    Published: August 19, 2022  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.00592](https://arxiv.org/abs/2212.00592)  
+   Link: <a href="https://arxiv.org/abs/2212.00592" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.00592</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1912.04696](https://arxiv.org/abs/1912.04696)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Unfairness of Popularity Bias in Music Recommendation: A Reproducibility StudyDecember 10, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendation: A Reproducibility StudyDecember 10, 2019...</p></details>
    Published: December 10, 2019  
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: the impact of recommendation algorithms on the uks music industry  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of recommendation algorithms on the UK&#x27;s...9 Feb 2023 — Recommendation 18 called for “research into the impact of streaming servi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Spotify ML Question  
-   Link: [http://www.youtube.com/watch?v=vyZMYlGBSBM](http://www.youtube.com/watch?v=vyZMYlGBSBM)  
+   Link: <a href="http://www.youtube.com/watch?v=vyZMYlGBSBM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vyZMYlGBSBM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Math Behind Recommender Systems...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=3lxo5hQ_3JY](http://www.youtube.com/watch?v=3lxo5hQ_3JY)  
+   Link: <a href="http://www.youtube.com/watch?v=3lxo5hQ_3JY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3lxo5hQ_3JY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify recommendation systems diversity tradeoff Spotify ML Question - Design a Recommendation System (Full mock interview) Exponent...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — In this work, we analyze our users through th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: [https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify1 Apr 2020 — However, we also find that algorithmically-dri...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cs.toronto.edu  
    Title: alg effects spotify www2020  
-   Link: [https://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf](https://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf)  
+   Link: <a href="https://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U of T Computer ScienceAlgorithmic Effects on the Diversity of Consumption on Spotifyby A Anderson · 2020 · Cited by 376 — To investigate...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/publications/the-engagement-diversity-connection-evidence-from-a-field-experiment-on-spotify](https://research.atspotify.com/publications/the-engagement-diversity-connection-evidence-from-a-field-experiment-on-spotify)  
+   Link: <a href="https://research.atspotify.com/publications/the-engagement-diversity-connection-evidence-from-a-field-experiment-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/the-engagement-diversity-connection-evidence-from-a-field-experiment-on-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field...We present results from a randomized field experiment on Sp...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: transactions.ismir.net  
-   Link: [https://transactions.ismir.net/articles/10.5334/tismir.106](https://transactions.ismir.net/articles/10.5334/tismir.106)  
+   Link: <a href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow">https://transactions.ismir.net/articles/10.5334/tismir.106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 32 — In this overv...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Music](https://en.wikipedia.org/wiki/Music)  
+   Link: <a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), rhythm, or otherwise expressive content...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/publications?category=evaluation](https://research.atspotify.com/publications?category=evaluation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. David Holtz, Benjamin Carterette, Pra...</p></details>
+   Link: <a href="https://research.atspotify.com/publications?category=evaluation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications?category=evaluation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. David Holtz, Benjamin Carterette, Pra...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ide.mit.edu  
    Title: SSRN id3555927  
-   Link: [https://ide.mit.edu/wp-content/uploads/2020/03/SSRN-id3555927.pdf](https://ide.mit.edu/wp-content/uploads/2020/03/SSRN-id3555927.pdf)  
+   Link: <a href="https://ide.mit.edu/wp-content/uploads/2020/03/SSRN-id3555927.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2020/03/SSRN-id3555927.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We present results from a randomized...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: upcommons.upc.edu  
-   Link: [https://upcommons.upc.edu/server/api/core/bitstreams/75b3d25c-1740-4a43-8651-d2525849e19b/content](https://upcommons.upc.edu/server/api/core/bitstreams/75b3d25c-1740-4a43-8651-d2525849e19b/content)  
+   Link: <a href="https://upcommons.upc.edu/server/api/core/bitstreams/75b3d25c-1740-4a43-8651-d2525849e19b/content" target="_blank" rel="noopener noreferrer nofollow">https://upcommons.upc.edu/server/api/core/bitstreams/75b3d25c-1740-4a43-8651-d2525849e19b/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BIAS IN MUSIC RECOMMENDER...by DG GONZALEZ — This thesis aims to further explore and expand upon the existing knowledge in biases presen...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services](https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services)  
+   Link: <a href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — In this paper, we attempt to measure popularity bias in three st...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/in/document/srm-valliammai-engineering-college/computer-science-and-engineering/33664233380281-asdfjgakshdjfoiaj/87436891](https://www.studocu.com/in/document/srm-valliammai-engineering-college/computer-science-and-engineering/33664233380281-asdfjgakshdjfoiaj/87436891)  
+   Link: <a href="https://www.studocu.com/in/document/srm-valliammai-engineering-college/computer-science-and-engineering/33664233380281-asdfjgakshdjfoiaj/87436891" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/in/document/srm-valliammai-engineering-college/computer-science-and-engineering/33664233380281-asdfjgakshdjfoiaj/87436891</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Impact on Music Consumption DiversityIn this work, we study the user ex- perience on Spotify, a popular music streaming servi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3608487](https://dl.acm.org/doi/10.1145/3608487)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3608487" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3608487</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAssessing the Impact of Music Recommendation Diversity...We show that exposure to specific levels of music recommenda...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: [https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify](https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify)  
+   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify4 May 2026 — A comprehensive review of the literature reveals that the pr...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: amt-lab.org  
    Title: recommendation algorithms are pervasive now they need to diversify  
-   Link: [https://amt-lab.org/blog/2022/4/recommendation-algorithms-are-pervasive-now-they-need-to-diversify](https://amt-lab.org/blog/2022/4/recommendation-algorithms-are-pervasive-now-they-need-to-diversify)  
+   Link: <a href="https://amt-lab.org/blog/2022/4/recommendation-algorithms-are-pervasive-now-they-need-to-diversify" target="_blank" rel="noopener noreferrer nofollow">https://amt-lab.org/blog/2022/4/recommendation-algorithms-are-pervasive-now-they-need-to-diversify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Necessary Diversification of Pervasive...5 May 2022 — This article covers the recommendation algorithms built to support content del...</p></details>
    Published: May 2022  
 
 25. <a id="endnote-25"></a>
    Source: beckyxzhang.github.io  
-   Link: [https://beckyxzhang.github.io/paper](https://beckyxzhang.github.io/paper)  
+   Link: <a href="https://beckyxzhang.github.io/paper" target="_blank" rel="noopener noreferrer nofollow">https://beckyxzhang.github.io/paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the diversity-accuracy dilemma of Spotify&#x27;s...May 13, 2021 — In this paper, we explore how different algorithms impact accurac...</p></details>
    Published: May 13, 2021  
 
 26. <a id="endnote-26"></a>
    Source: illumin.usc.edu  
    Title: algorithmic symphonies how spotify strikes the right chord  
-   Link: [https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/](https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/)  
+   Link: <a href="https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/" target="_blank" rel="noopener noreferrer nofollow">https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Symphonies: How Spotify Strikes the Right Chord21 Jan 2024 — This article explores Spotify&#x27;s recommendation algorithm, including how it h...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: music-tomorrow.com  
    Title: fairness and diversity in music recommendation algorithms  
-   Link: [https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms](https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms)  
+   Link: <a href="https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are music recommendation algorithms fair to emerging...Sep 21, 2021 — In today&#x27;s piece, we&#x27;ll go through the main elements of this probl...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: music-tomorrow.com  
    Title: how spotify recommendation system works complete guide  
-   Link: [https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide)  
+   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — As we move ahead into the 2020s, an ever‑increasing share of music co...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)  
+   Link: <a href="https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comSpotify: Music and Podcasts - App Store - AppleWith the Spotify app, you can explore an extensive library of music and podcasts...</p></details>

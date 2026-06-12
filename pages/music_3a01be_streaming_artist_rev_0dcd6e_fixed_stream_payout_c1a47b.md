@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb
 - music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1
 tags:
-- music
+- music-3-a01-be
 - royalties
 - payout-rates
 keywords:
-- music
+- music-3-a01-be
 - royalties
 - payout-rates
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming payouts start from revenue pools, so the same number of plays can produce different money in different markets.
 hero_summary: Streaming payouts start from revenue pools, so the same number of plays can produce different money in different markets.
 layout: default
 permalink: /payout-rates/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /royalties/
 nav_short_title: Payout rates
 title: Why one stream is not worth one price
-title_full: Why one stream is not worth one price | Royalties
+title_full: Why one stream is not worth one price
 display_title_short: Payout rates
 display_title: Payout rates
 heading_title: Why one stream is not worth one price
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Streaming Money Actually Reaches Artists | Music
+parent_title: How Streaming Money Actually Reaches Artists
 parent_permalink: /royalties/
 parent_nav_short_title: Royalties
 parent_heading_title: How Streaming Money Actually Reaches Artists
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How songwriters get paid from streams
 up_link:
   basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -265,7 +265,7 @@ next_link:
   permalink: /songwriters-701a60/
   short_title: Songwriters
   heading_title: How songwriters get paid from streams
-date: '2026-06-09 07:07:53 '
+date: '2026-06-11 23:35:23 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-1.webp
@@ -274,19 +274,66 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payo
 
 ## Introduction
 
-Many listeners assume that every stream on a music platform is worth a fixed amount of money. In reality, streaming [royalties]({{ 'royalties/' | relative_url }}) usually do not work like a vending machine that pays a set price every time a song is played. Most major services use a revenue-pool system: subscription fees and advertising income are collected, a large royalty pool is created, and [rights]({{ 'rights/' | relative_url }}) holders are paid according to their share of listening within a given market and period. As a result, the value of a stream can change from country to country, month to month, and even between different groups of listeners. A million streams can generate very different amounts of revenue depending on where those streams occurred and how the platform's revenue pool was formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</span></span></span>
-
+Many listeners assume that every stream on a music platform is worth a fixed amount of money. In reality, streaming [royalties]({{ 'royalties/' | relative_url }}) usually do not work like a vending machine that pays a set price every time a song is played. Most major services use a revenue-pool system: subscription fees and advertising income are collected, a large royalty pool is created, and [rights]({{ 'rights/' | relative_url }}) holders are paid according to their share of listening within a given market and period. As a result, the value of a stream can change from country to country, month to month, and even between different groups of listeners. A million streams can generate very different amounts of revenue depending on where those streams occurred and how the platform's revenue pool was formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-1-dark.svg" | relative_url }}" alt="Payout rates illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How revenue pools replace fixed per-stream rates
 
-The most important fact about streaming economics is that listeners do not usually pay for individual songs. They pay a monthly subscription fee or listen through an advertising-supported service. Because the customer is buying [access]({{ 'access/' | relative_url }}) rather than individual tracks, platforms generally do not attach a fixed cash value to each play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</span></span></span>
+The most important fact about streaming economics is that listeners do not usually pay for individual songs. They pay a monthly subscription fee or listen through an advertising-supported service. Because the customer is buying [access]({{ 'access/' | relative_url }}) rather than individual tracks, platforms generally do not attach a fixed cash value to each play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</span></span></span>
 
 Instead, the process typically works like this:
 
 1. A platform collects subscription and advertising revenue within a territory.
 2. It sets aside the share owed to music rights holders.
 3. It calculates each track's proportion of total listening, often called its streamshare.
+4. Rights holders receive a corresponding share of the royalty pool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</span></span></span> [3Spotify]
+
+If a song represents 1% of all eligible streams in a market during a month, it receives roughly 1% of the available royalty pool for that market and period. The key point is that the size of the pool changes over time. A stream is therefore not a unit with a fixed price attached to it; it is part of a percentage calculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Curve News: Pro Rata Vs User Centric Streaming ModelOct 12, 2025  The system pools all the subscriptions and advertising revenue collect...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+
+This is why platforms repeatedly argue that there is no true per-stream rate. Any figure quoted online is usually an average created by dividing total royalties by total streams after the fact, not a price that was guaranteed in advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://accounts.spotify.com/en/login/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accounts.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accounts.spotify.com</span><span class="citation-popover-snippet">in to Spotify. Continue with Google; Continue with Facebook; Continue with Apple. Email or username. Continue. Don&#x27;t have an account?Sign...</span></span></span>
+
+## Why streamshare changes by country and month
+
+### Different markets generate different revenue
+
+A stream from a premium subscriber in one country may contribute to a much larger royalty pool than a stream from an advertising-supported listener elsewhere.
+
+Subscription prices vary widely between countries because platforms adjust pricing to local economic conditions and competition. A market with high subscription fees and a large share of paying users generally creates more royalty revenue than a market where advertising-supported listening is more common. Because royalty pools are built from local revenue, the same number of streams can produce different outcomes in different territories. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming subscriptions boost 2023 recorded music revenues report 2024 03 21</span><span class="citation-popover-snippet">Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</span></span></span> For artists with international audiences, geography can matter as much as raw play counts. One hundred thousand streams concentrated in higher-revenue subscription markets may earn more than a larger number of streams from lower-revenue markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">How Streaming Royalties Actually Get CalculatedMar 15, 2026  Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-2-dark.svg" | relative_url }}" alt="Payout rates illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### The denominator keeps moving
+
+Even if an artist's own streaming numbers remain stable, their revenue can change because the overall platform changes.
+
+The streamshare formula compares a song's listening volume against total listening on the service. If total platform streams rise faster than an artist's streams, that artist's percentage of the pool may shrink. Conversely, an artist can earn more if their share of listening grows, even without a dramatic change in the total number of plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-2-flow-of-revenues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-title">lesson 2 flow of revenues</span><span class="citation-popover-snippet">The IFPI has reported the breakdown of this income, with streaming being the biggest...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0165176523001362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">. The pro-rata rule is egalitarian fairer than the user-centric rule.Read more...</span></span></span>
+
+This means two identical stream counts achieved in different months can produce different royalty outcomes. The value depends not only on how many streams a song received, but also on how much revenue entered the pool and how much listening occurred across the entire platform during that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+### Platform policies can alter effective rates
+
+Streaming services periodically adjust royalty systems, fraud controls and eligibility rules. These changes can affect how revenue is distributed even when listener behaviour remains the same.
+
+For example, Spotify's recent royalty reforms redirected very small royalty amounts and introduced minimum-stream thresholds for participation in certain royalty distributions. Such changes alter how money flows through the streamshare system without creating a fixed per-stream price. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-3-dark.svg" | relative_url }}" alt="Payout rates illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What per-stream averages hide from artists
+
+The figures commonly published onlinesuch as "$0.003 [per stream]({{ 'per-stream/' | relative_url }})" or "$0.005 per stream"are averages, not contractual rates. They compress a complex calculation into a single number and can therefore be misleading. Loud and Clear <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">How Streaming Royalties Actually Get CalculatedMar 15, 2026  Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span> Several factors disappear when people quote an average per-stream figure:
+
+* **Listener type:** Premium subscribers and advertising-supported users contribute different amounts of revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Spotify paid us 0.29p per stream, so we exposed its unfair model</span><span class="citation-popover-snippet">Despite 9.3 million total streams across all platformsof which Spotify contributed 75%the band earned only 31,940, with Spotify paying...</span></span></span>
+* **Country of origin:** Streams from different territories draw from different revenue pools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">How Streaming Royalties Actually Get CalculatedMar 15, 2026  Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span>
+* **Monthly conditions:** Revenue and total listening volumes fluctuate over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Platform-specific rules:** Different services use different allocation methods and royalty policies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.deezer.com">[Deezer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.deezer.com</span><span class="citation-popover-title">360002471277 Artist Centric Payment Model ACPS</span><span class="citation-popover-snippet">Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026  To put it simply - all streams on a streaming platform are added up, and a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Streaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming subscriptions boost 2023 recorded music revenues report 2024 03 21</span><span class="citation-popover-snippet">Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</span></span></span>
+
+This is why two artists can report noticeably different earnings from what appears to be the same number of streams. The stream count alone does not reveal the composition of the audience, the markets involved, or the revenue environment in which those streams occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">How Streaming Royalties Actually Get CalculatedMar 15, 2026  Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span>
+
+## Why debates about payout rates continue
+
+The absence of a fixed per-stream price has fuelled ongoing debates about fairness in streaming. Critics argue that the dominant pro-rata model pools all revenue together and rewards artists according to their share of total listening, which can favour the biggest acts. Supporters argue that it reflects how subscription services actually earn money and scales efficiently across hundreds of millions of listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2curveroyaltysystems.com
+
+Alternative approaches, often called user-centric or fan-centric models, attempt to connect a listener's subscription payment more directly to the artists that listener actually plays. Deezer's artist-centric experiments are among the most prominent examples. Even under these systems, however, revenue is still allocated from pools and formulas rather than from a universal fixed payment attached to each stream. WIN <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.deezer.com">[Deezer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.deezer.com</span><span class="citation-popover-title">360002471277 Artist Centric Payment Model ACPS</span><span class="citation-popover-snippet">Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026  To put it simply - all streams on a streaming platform are added up, and a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Streaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming subscriptions boost 2023 recorded music revenues report 2024 03 21</span><span class="citation-popover-snippet">Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</span></span></span>
+
+The central lesson remains the same: a stream is not a product with a single price tag. Its value depends on the size of the revenue pool, the listener's market, the platform's allocation rules, and the song's share of overall listening during that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are based on streamshare. Spotify pa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -421,11 +468,11 @@ Instead, the process typically works like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify t shirt" data-ebay-reference="payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Menâ€™s Spotify Music Depot Tee â€“ Cotton Graphic T-Shirt Black Size M"><img src="{{ '/assets/images/marketplace-covers/9a1de4b60918751e7aca.jpg' | relative_url }}" alt="Listing image for Menâ€™s Spotify Music Depot Tee â€“ Cotton Graphic T-Shirt Black Size M" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify t shirt" data-ebay-reference="payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Men’s Spotify Music Depot Tee – Cotton Graphic T-Shirt Black Size M"><img src="{{ '/assets/images/marketplace-covers/9a1de4b60918751e7aca.jpg' | relative_url }}" alt="Listing image for Men’s Spotify Music Depot Tee – Cotton Graphic T-Shirt Black Size M" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify t shirt" data-ebay-reference="payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Menâ€™s Spotify Music Depot Tee â€“ Cotton Graphic T-Shirt Black Size M</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify t shirt" data-ebay-reference="payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Men’s Spotify Music Depot Tee – Cotton Graphic T-Shirt Black Size M</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify t shirt" data-ebay-reference="payout-rates-why-one-stream-is-not-worth-one-price-music-spotify-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify t shirt</a>
         <div class="fr-book-actions">
@@ -680,311 +727,251 @@ Instead, the process typically works like this:
 </script>
 </section>
 
-4. Rights holders receive a corresponding share of the royalty pool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</span></span></span> [3Spotify]
-
-If a song represents 1% of all eligible streams in a market during a month, it receives roughly 1% of the available royalty pool for that market and period. The key point is that the size of the pool changes over time. A stream is therefore not a unit with a fixed price attached to it; it is part of a percentage calculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Curve News: Pro Rata Vs User Centric Streaming ModelOct 12, 2025 — The system pools all the subscriptions and advertising revenue collect...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
-
-This is why platforms repeatedly argue that there is no true “per-stream rate”. Any figure quoted online is usually an average created by dividing total royalties by total streams after the fact, not a price that was guaranteed in advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://accounts.spotify.com/en/login/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accounts.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accounts.spotify.com</span><span class="citation-popover-snippet">in to Spotify. Continue with Google; Continue with Facebook; Continue with Apple. Email or username. Continue. Don&#x27;t have an account?Sign...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y6jC6VaO3j0" title="Donating $100,000 To Streamers With 0 Viewers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y6jC6VaO3j0" target="_blank" rel="noopener noreferrer">Donating $100,000 To Streamers With 0 Viewers</a></p><p class="youtube-embed-meta">Channel: MrBeast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y6jC6VaO3j0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y6jC6VaO3j0">Open on YouTube</a></p></div></div></div>
-
-## Why streamshare changes by country and month
-
-### Different markets generate different revenue
-
-A stream from a premium subscriber in one country may contribute to a much larger royalty pool than a stream from an advertising-supported listener elsewhere.
-
-Subscription prices vary widely between countries because platforms adjust pricing to local economic conditions and competition. A market with high subscription fees and a large share of paying users generally creates more royalty revenue than a market where advertising-supported listening is more common. Because royalty pools are built from local revenue, the same number of streams can produce different outcomes in different territories. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming subscriptions boost 2023 recorded music revenues report 2024 03 21</span><span class="citation-popover-snippet">Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</span></span></span> For artists with international audiences, geography can matter as much as raw play counts. One hundred thousand streams concentrated in higher-revenue subscription markets may earn more than a larger number of streams from lower-revenue markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">OrphiqHow Streaming Royalties Actually Get CalculatedMar 15, 2026 — Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-2-dark.svg" | relative_url }}" alt="Payout rates illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### The denominator keeps moving
-
-Even if an artist's own streaming numbers remain stable, their revenue can change because the overall platform changes.
-
-The streamshare formula compares a song's listening volume against total listening on the service. If total platform streams rise faster than an artist's streams, that artist's percentage of the pool may shrink. Conversely, an artist can earn more if their share of listening grows, even without a dramatic change in the total number of plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-2-flow-of-revenues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-title">lesson 2 flow of revenues</span><span class="citation-popover-snippet">The IFPI has reported the breakdown of this income, with streaming being the biggest...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0165176523001362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. The pro-rata rule is egalitarian fairer than the user-centric rule.Read more...</span></span></span>
-
-This means two identical stream counts achieved in different months can produce different royalty outcomes. The value depends not only on how many streams a song received, but also on how much revenue entered the pool and how much listening occurred across the entire platform during that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7ak9jMjFDUI" title="How Spotify Really Pays Artists: The Truth About Music Streaming Economics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7ak9jMjFDUI" target="_blank" rel="noopener noreferrer">How Spotify Really Pays Artists: The Truth About Music Streaming Economics</a></p><p class="youtube-embed-meta">Channel: Coenakis Official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7ak9jMjFDUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7ak9jMjFDUI">Open on YouTube</a></p></div></div></div>
-
-### Platform policies can alter effective rates
-
-Streaming services periodically adjust royalty systems, fraud controls and eligibility rules. These changes can affect how revenue is distributed even when listener behaviour remains the same.
-
-For example, Spotify's recent royalty reforms redirected very small royalty amounts and introduced minimum-stream thresholds for participation in certain royalty distributions. Such changes alter how money flows through the streamshare system without creating a fixed per-stream price. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</span></span></span>
-
-## What per-stream averages hide from artists
-
-The figures commonly published online—such as "$0.003 [per stream]({{ 'per-stream/' | relative_url }})" or "$0.005 per stream"—are averages, not contractual rates. They compress a complex calculation into a single number and can therefore be misleading. Loud and Clear <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">OrphiqHow Streaming Royalties Actually Get CalculatedMar 15, 2026 — Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span> Several factors disappear when people quote an average per-stream figure:
-
-* **Listener type:** Premium subscribers and advertising-supported users contribute different amounts of revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Spotify paid us 0.29p per stream, so we exposed its unfair model</span><span class="citation-popover-snippet">Despite 9.3 million total streams across all platforms—of which Spotify contributed 75%—the band earned only £31,940, with Spotify paying...</span></span></span>
-* **Country of origin:** Streams from different territories draw from different revenue pools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">OrphiqHow Streaming Royalties Actually Get CalculatedMar 15, 2026 — Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span>
-* **Monthly conditions:** Revenue and total listening volumes fluctuate over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Platform-specific rules:** Different services use different allocation methods and royalty policies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.deezer.com">[Deezer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.deezer.com</span><span class="citation-popover-title">360002471277 Artist Centric Payment Model ACPS</span><span class="citation-popover-snippet">Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026 — To put it simply - all streams on a streaming platform are added up, and a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Streaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming subscriptions boost 2023 recorded music revenues report 2024 03 21</span><span class="citation-popover-snippet">Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</span></span></span>
-
-This is why two artists can report noticeably different earnings from what appears to be the same number of streams. The stream count alone does not reveal the composition of the audience, the markets involved, or the revenue environment in which those streams occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">how streaming royalties calculated</span><span class="citation-popover-snippet">OrphiqHow Streaming Royalties Actually Get CalculatedMar 15, 2026 — Streaming platforms do not pay a fixed rate per stream. They pool sub...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-3-dark.svg" | relative_url }}" alt="Payout rates illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why debates about payout rates continue
-
-The absence of a fixed per-stream price has fuelled ongoing debates about fairness in streaming. Critics argue that the dominant pro-rata model pools all revenue together and rewards artists according to their share of total listening, which can favour the biggest acts. Supporters argue that it reflects how subscription services actually earn money and scales efficiently across hundreds of millions of listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2curveroyaltysystems.com
-
-Alternative approaches, often called user-centric or fan-centric models, attempt to connect a listener's subscription payment more directly to the artists that listener actually plays. Deezer's artist-centric experiments are among the most prominent examples. Even under these systems, however, revenue is still allocated from pools and formulas rather than from a universal fixed payment attached to each stream. WIN <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.deezer.com">[Deezer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.deezer.com</span><span class="citation-popover-title">360002471277 Artist Centric Payment Model ACPS</span><span class="citation-popover-snippet">Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026 — To put it simply - all streams on a streaming platform are added up, and a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Streaming]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming subscriptions boost 2023 recorded music revenues report 2024 03 21</span><span class="citation-popover-snippet">Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</span></span></span>
-
-The central lesson remains the same: a stream is not a product with a single price tag. Its value depends on the size of the revenue pool, the listener's market, the platform's allocation rules, and the song's share of overall listening during that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are based on streamshare. Spotify pa...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LDuh6Dvsfvk" title="Spotify Royalties Explained: The REAL Reason They Won&#x27;t Pay Artists More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LDuh6Dvsfvk" target="_blank" rel="noopener noreferrer">Spotify Royalties Explained: The REAL Reason They Won&#x27;t Pay Artists More</a></p><p class="youtube-embed-meta">Channel: Omari</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LDuh6Dvsfvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LDuh6Dvsfvk">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model](https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Curve News: Pro Rata Vs User Centric Streaming ModelOct 12, 2025 — The system pools all the subscriptions and advertising revenue collect...</p></details>
+   Link: <a href="https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/pro-rata-vs-user-centric-streaming-model</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Curve News: Pro Rata Vs User Centric Streaming ModelOct 12, 2025  The system pools all the subscriptions and advertising revenue collect...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167624524000258](https://www.sciencedirect.com/science/article/pii/S0167624524000258)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167624524000258" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167624524000258</a>  
 
 4. <a id="endnote-4"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription [streaming revenues](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;) accounted for over 50% of global recorded music revenues in. 20...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 202519 Mar 2025  Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 20...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: streaming subscriptions boost 2023 recorded music revenues report 2024 03 21  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/](https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. Physical formats like CDs and viny...</p></details>
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming revenues were up 10.4% to $19.3 billion, with subscription streaming revenues growing 11.2%. [Physical](&amp;#123;&amp;#123; &#x27;physical/&#x27; | relative_url &amp;#125;&amp;#125;) [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) like C...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: orphiq.com  
    Title: how streaming royalties calculated  
-   Link: [https://orphiq.com/resources/how-streaming-royalties-calculated](https://orphiq.com/resources/how-streaming-royalties-calculated)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqHow Streaming Royalties Actually Get CalculatedMar 15, 2026 — Streaming platforms do not pay a fixed rate per stream. They pool sub...</p></details>
+   Link: <a href="https://orphiq.com/resources/how-streaming-royalties-calculated" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/how-streaming-royalties-calculated</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Streaming Royalties Actually Get CalculatedMar 15, 2026  Streaming platforms do not pay a fixed rate per stream. They pool sub...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise](https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise)  
+   Link: <a href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout](https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout)  
+   Link: <a href="https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The new model will require songs to reach a minimum number of annual streams to generate royalties, redistributing money to more popular...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: support.deezer.com  
    Title: 360002471277 Artist Centric Payment Model ACPS  
-   Link: [https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS](https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026 — To put it simply - all streams on a streaming platform are added up, and a...</p></details>
+   Link: <a href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026  To put it simply - all streams on a streaming platform are added up, and a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: winformusic.org  
-   Link: [https://winformusic.org/the-independent-community-reacts-to-deezers-proposed-artist-centric-model-of-remuneration/](https://winformusic.org/the-independent-community-reacts-to-deezers-proposed-artist-centric-model-of-remuneration/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent Community Reacts to Deezer&#x27;s Proposed...26 Oct 2023 — Although the new proposal retains the concept of a single pot &#x27;pro...</p></details>
+   Link: <a href="https://winformusic.org/the-independent-community-reacts-to-deezers-proposed-artist-centric-model-of-remuneration/" target="_blank" rel="noopener noreferrer nofollow">https://winformusic.org/the-independent-community-reacts-to-deezers-proposed-artist-centric-model-of-remuneration/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent Community Reacts to Deezer&#x27;s Proposed...26 Oct 2023  Although the new proposal retains the concept of a single pot &#x27;pro...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0165176523001362](https://www.sciencedirect.com/science/article/pii/S0165176523001362)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. The pro-rata rule is egalitarian fairer than the user-centric rule.Read more...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0165176523001362" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0165176523001362</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>. The pro-rata rule is egalitarian fairer than the user-centric rule.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: accounts.spotify.com  
-   Link: [https://accounts.spotify.com/en/login/](https://accounts.spotify.com/en/login/)  
+   Link: <a href="https://accounts.spotify.com/en/login/" target="_blank" rel="noopener noreferrer nofollow">https://accounts.spotify.com/en/login/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in to Spotify. Continue with Google; Continue with Facebook; Continue with Apple. Email or username. Continue. Don&#x27;t have an account?Sign...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: artists.spotify.com  
    Title: royalties guide  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are based on streamshare. Spotify pa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ifpi.org  
    Title: Global Music Report 2023 State of the Industry  
-   Link: [https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US$12.7 billion in 2022. STREAMING..5%. In an expected trajectory, downloads and...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ifpi.org  
-   Title: [public performance](&#123;&#123; 'public-play/' | relative_url &#125;&#125;)  
-   Link: [https://www.ifpi.org/our-industry/public-performance/](https://www.ifpi.org/our-industry/public-performance/)  
+   Title: public performance  
+   Link: <a href="https://www.ifpi.org/our-industry/public-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/public-performance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance RightsPerformance rights accounted for 9.5% of global recorded music revenues in 2023. The performance rights sector illustra...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Total streaming revenues surpassed US$22 billion and accounted for 69.6% of gl...</p></details>
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026  Total streaming revenues surpassed US$22 billion and accounted for 69.6% of gl...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: curveroyaltysystems.com  
    Title: lesson 2 flow of revenues  
-   Link: [https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-2-flow-of-revenues](https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-2-flow-of-revenues)  
+   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-2-flow-of-revenues" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-2-flow-of-revenues</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IFPI has reported the breakdown of this income, with streaming being the biggest...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: artist.tools  
    Title: a guide to royalties for spotify  
-   Link: [https://www.artist.tools/post/a-guide-to-royalties-for-spotify](https://www.artist.tools/post/a-guide-to-royalties-for-spotify)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025 — It&#x27;s determined by your &quot;streamshare.&quot; If your tracks made up 0.1% of all streams on Spotify in a given month, you get 0.1%...</p></details>
+   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025  It&#x27;s determined by your &quot;streamshare.&quot; If your tracks made up 0.1% of all streams on Spotify in a given month, you get 0.1%...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/](https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than...2 Mar 2023 — The reality is simple: No service pays a fixed...</p></details>
+   Link: <a href="https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faqs/why-does-the-per-stream-rate-appear-lower-for-spotify-than-some-other-streaming-services/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearWhy does the per-stream rate appear lower for Spotify than...2 Mar 2023  The reality is simple: No service pays a fixed...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Your Questions, Answered  
-   Link: [https://loudandclear.byspotify.com/faq/](https://loudandclear.byspotify.com/faq/)  
+   Link: <a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions, Answered - Loud and ClearThe reality is simple: No service pays a fixed amount per stream because listeners don&#x27;t pay per stre...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thetimes.com  
    Title: The Times Spotify paid us 0.29p per stream, so we exposed its unfair model  
-   Link: [https://www.thetimes.com/[culture](https://www.thetimes.com/[culture)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite 9.3 million total streams across all platforms—of which Spotify contributed 75%—the band earned only £31,940, with Spotify paying...</p></details>
+   Link: <a href="https://www.thetimes.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/[culture</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite 9.3 million total streams across all platformsof which Spotify contributed 75%the band earned only 31,940, with Spotify paying...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: streamingcalculator.com  
-   Link: [https://streamingcalculator.com/blog/fan-centric-vs-pro-rata-streaming-royalties](https://streamingcalculator.com/blog/fan-centric-vs-pro-rata-streaming-royalties)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming CalculatorFan Centric vs Pro Rata: The Battle Over How...Mar 15, 2026 — The pro rata model has been the default since streamin...</p></details>
+   Link: <a href="https://streamingcalculator.com/blog/fan-centric-vs-pro-rata-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://streamingcalculator.com/blog/fan-centric-vs-pro-rata-streaming-royalties</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming CalculatorFan Centric vs Pro Rata: The Battle Over How...Mar 15, 2026  The pro rata model has been the default since streamin...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: imusician.pro  
    Title: spotifys loud clear 2024  
-   Link: [https://imusician.pro/en/resources/blog/spotifys-loud-clear-2024](https://imusician.pro/en/resources/blog/spotifys-loud-clear-2024)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Loud &amp; Clear 202425 Mar 2025 — 2024 was reportedly another record year for songwriters, as Spotify paid $4.5 billion to publish...</p></details>
+   Link: <a href="https://imusician.pro/en/resources/blog/spotifys-loud-clear-2024" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotifys-loud-clear-2024</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Loud &amp; Clear 202425 Mar 2025  2024 was reportedly another record year for songwriters, as Spotify paid $4.5 billion to publish...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: streamingcalculator.com  
    Title: spotify vs deezer  
-   Link: [https://streamingcalculator.com/spotify-vs-deezer](https://streamingcalculator.com/spotify-vs-deezer)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Royalties 2026Compare Spotify vs Deezer pay per stream in 2026. Spotify pays $0.003–$0.005 while Deezer pays $0.004–$0.007. See...</p></details>
+   Link: <a href="https://streamingcalculator.com/spotify-vs-deezer" target="_blank" rel="noopener noreferrer nofollow">https://streamingcalculator.com/spotify-vs-deezer</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Royalties 2026Compare Spotify vs Deezer pay per stream in 2026. Spotify pays $0.003$0.005 while Deezer pays $0.004$0.007. See...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=com.spotify.tv.android](https://play.google.com/store/apps/details?hl=en&id=com.spotify.tv.android)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.spotify.tv.android" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.spotify.tv.android</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify on Android TV unlocks your living room. Whether you&#x27;re hosting friends...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/](https://loudandclear.byspotify.com/)  
+   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: celebrityaccess.com  
-   Link: [https://celebrityaccess.com/2025/12/02/spotify-explains-why-theres-no-per-stream-rate-artists-and-industry-push-back/](https://celebrityaccess.com/2025/12/02/spotify-explains-why-theres-no-per-stream-rate-artists-and-industry-push-back/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Explains Why There&#x27;s No &#x27;Per-Stream Rate&#x27; – Artists...2 Dec 2025 — If a track accounts for 1% of all streams, it earns 1% of the...</p></details>
+   Link: <a href="https://celebrityaccess.com/2025/12/02/spotify-explains-why-theres-no-per-stream-rate-artists-and-industry-push-back/" target="_blank" rel="noopener noreferrer nofollow">https://celebrityaccess.com/2025/12/02/spotify-explains-why-theres-no-per-stream-rate-artists-and-industry-push-back/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Explains Why There&#x27;s No &#x27;Per-Stream Rate&#x27;  Artists...2 Dec 2025  If a track accounts for 1% of all streams, it earns 1% of the...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/](https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e&quot; and that those rights holders distributes 75-80% of the money they get to...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: kvzmusic.com  
-   Link: [https://www.kvzmusic.com/royalties/index.html](https://www.kvzmusic.com/royalties/index.html)  
+   Link: <a href="https://www.kvzmusic.com/royalties/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kvzmusic.com/royalties/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Royalties in 2025: How Spotify, Apple...Context: Spotify&#x27;s Loud &amp; Clear 2025 report reiterates streamshare mechanics... based...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: musicindustryblog.wordpress.com  
-   Title: [streaming revenue](&#123;&#123; 'revenue-dbec50/' | relative_url &#125;&#125;)  
-   Link: [https://musicindustryblog.wordpress.com/tag/streaming-revenue/](https://musicindustryblog.wordpress.com/tag/streaming-revenue/)  
+   Title: streaming revenue  
+   Link: <a href="https://musicindustryblog.wordpress.com/tag/streaming-revenue/" target="_blank" rel="noopener noreferrer nofollow">https://musicindustryblog.wordpress.com/tag/streaming-revenue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue | Music Industry BlogThey get streaming revenue regardless of how well the marketplace actually performs. If a streaming service...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW](https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Debunks Streaming Payout Myth: Streamshare...9 Dec 2025 — &quot;Spotify has published a new explanation of how Spotify streaming payo...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/heavy-hitters-music_spotify-explains-why-theres-no-per-stream-activity-7404286331897458688-XymW</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Debunks Streaming Payout Myth: Streamshare...9 Dec 2025  &quot;Spotify has published a new explanation of how Spotify streaming payo...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: digitalmusicnews.com  
    Title: spotify loud and clear 2023  
-   Link: [https://www.digitalmusicnews.com/2024/03/19/spotify-loud-and-clear-2023/](https://www.digitalmusicnews.com/2024/03/19/spotify-loud-and-clear-2023/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud and Clear &#x27;23 Reveals Per-Stream Royalty...19 Mar 2024 — Spotify Loud and Clear 2023 is shedding light on the music platfor...</p></details>
+   Link: <a href="https://www.digitalmusicnews.com/2024/03/19/spotify-loud-and-clear-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2024/03/19/spotify-loud-and-clear-2023/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud and Clear &#x27;23 Reveals Per-Stream Royalty...19 Mar 2024  Spotify Loud and Clear 2023 is shedding light on the music platfor...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/515346488/SPOTIFY-PAYMENT-FAQ](https://www.scribd.com/document/515346488/SPOTIFY-PAYMENT-FAQ)  
+   Link: <a href="https://www.scribd.com/document/515346488/SPOTIFY-PAYMENT-FAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/515346488/SPOTIFY-PAYMENT-FAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This money is not divvied up based on a fixed amount per stream, because Premium subscribers do not pay per stream; theyRead more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/spotify-royalties-per-stream](https://musosoup.com/blog/spotify-royalties-per-stream)  
+   Link: <a href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties-per-stream</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The exact payout depends on a streamshare model, which means artists are paid based on their...Read more...</p></details>
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: virpp.com  
-   Link: [https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/)  
+   Link: <a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1673444546790462/posts/2031734107628169/](https://www.facebook.com/groups/1673444546790462/posts/2031734107628169/)  
+   Link: <a href="https://www.facebook.com/groups/1673444546790462/posts/2031734107628169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1673444546790462/posts/2031734107628169/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Realistic music streaming revenue expectationsSomebody about a week ago was ragging on my realistic incline of streams/revenue. Not every...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/deezer-is-reworking-the-way-it-allocates-royalties-again-as-sacem-signs-up-to-its-artist-centric-model/](https://completemusicupdate.com/deezer-is-reworking-the-way-it-allocates-royalties-again-as-sacem-signs-up-to-its-artist-centric-model/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMU | the music business explainedDeezer is reworking the way it allocates royalties again as...Jan 15, 2025 — Deezer&#x27;s revised model fo...</p></details>
+   Link: <a href="https://completemusicupdate.com/deezer-is-reworking-the-way-it-allocates-royalties-again-as-sacem-signs-up-to-its-artist-centric-model/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/deezer-is-reworking-the-way-it-allocates-royalties-again-as-sacem-signs-up-to-its-artist-centric-model/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMU | the music business explainedDeezer is reworking the way it allocates royalties again as...Jan 15, 2025  Deezer&#x27;s revised model fo...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: mce.dataobservatory.eu  
-   Link: [https://mce.dataobservatory.eu/empirical.html](https://mce.dataobservatory.eu/empirical.html)  
+   Link: <a href="https://mce.dataobservatory.eu/empirical.html" target="_blank" rel="noopener noreferrer nofollow">https://mce.dataobservatory.eu/empirical.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Music Creator&#x27;s Earnings2.4 Unpaid Revenues. In the streaming services, a very significant number of uses are not matched with rightsho...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ipbusinessacademy.org  
    Title: economics of streaming the rise of the music artists rights and compensation  
-   Link: [https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation](https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Economics of Streaming &amp; the Rise of the Music Artists...24 Feb 2025 — The streaming services keep approximately 30% of the money collec...</p></details>
+   Link: <a href="https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation" target="_blank" rel="noopener noreferrer nofollow">https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Economics of Streaming &amp; the Rise of the Music Artists...24 Feb 2025  The streaming services keep approximately 30% of the money collec...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: wipo.int  
    Title: ifpi looks at a decade of digital transformation in the music industry 73661  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661](https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2023, record labels paid 34.8 per cent of their revenue...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...23 Apr 2025  In 2023, record labels paid 34.8 per cent of their revenue...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: musicbusinessworldwide.com  
    Title: deezers artist centric model now has a new element dubbed user centric  
-   Link: [https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/](https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer&#x27;s &#x27;artist-centric&#x27; model now has a new &#x27;user-...30 Oct 2023 — In reality, it&#x27;s a capped &#x27;pro-rata&#x27; system, by which each individu...</p></details>
+   Link: <a href="https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer&#x27;s &#x27;artist-centric&#x27; model now has a new &#x27;user-...30 Oct 2023  In reality, it&#x27;s a capped &#x27;pro-rata&#x27; system, by which each individu...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373](https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Law of Averages: The Use and Abuse of Statistics in...by R Osborne · 2025 · Cited by 1 — This article explores controversies about t...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Law of Averages: The Use and Abuse of Statistics in...by R Osborne  2025  Cited by 1  This article explores controversies about t...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: musicbusinessresearch.wordpress.com  
    Title: the music streaming economy part 16 the artist centric model  
-   Link: [https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/](https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Economy – Part 16: The Artist-Centric...Sep 30, 2024 — However, the artist-centric model retains the pro-rata model, and...</p></details>
+   Link: <a href="https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/" target="_blank" rel="noopener noreferrer nofollow">https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Economy  Part 16: The Artist-Centric...Sep 30, 2024  However, the artist-centric model retains the pro-rata model, and...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: firstfloor.substack.com  
    Title: a fresh look at user centric streaming  
-   Link: [https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming](https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming)  
+   Link: <a href="https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming" target="_blank" rel="noopener noreferrer nofollow">https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fresh Look at User-Centric Streaming PaymentsStreaming companies are presently using a pro-rata model, in which all revenue is put into a...</p></details>

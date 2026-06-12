@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_playlists_new_gateke_9514bb_mood_playlists_funct_3f7bc2
 - music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760
 tags:
-- music
+- music-3-a01-be
 - playlists
 - algotorial
 keywords:
-- music
+- music-3-a01-be
 - playlists
 - algotorial
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Modern playlists often blend editors, algorithms and behavioural data, making curation harder for listeners to see.
 hero_summary: Modern playlists often blend editors, algorithms and behavioural data, making curation harder for listeners to see.
 layout: default
 permalink: /algotorial/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /playlists/
 nav_short_title: Algotorial
 title: Who Really Curates a Streaming Playlist?
-title_full: Who Really Curates a Streaming Playlist? | Playlists
+title_full: Who Really Curates a Streaming Playlist?
 display_title_short: Algotorial
 display_title: Algotorial
 heading_title: Who Really Curates a Streaming Playlist?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Playlists Became Music's New Gatekeepers | Music
+parent_title: Why Playlists Became Music's New Gatekeepers
 parent_permalink: /playlists/
 parent_nav_short_title: Playlists
 parent_heading_title: Why Playlists Became Music's New Gatekeepers
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Playlists Make Songs Feel Familiar
 up_link:
   basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -259,7 +259,7 @@ next_link:
   permalink: /discover-weekly/
   short_title: Discover Weekly
   heading_title: Why Discover Weekly Feels So Personal
-date: '2026-06-09 07:00:14 '
+date: '2026-06-11 23:31:53 '
 header:
   og_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1.webp
@@ -268,14 +268,10 @@ image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playli
 
 ## Introduction
 
-A modern streaming playlist often looks deceptively simple: a title, a cover image and a sequence of songs. Behind that surface, however, sits a layered system of human editors, recommendation algorithms, behavioural data and [catalogue]({{ 'catalogue/' | relative_url }}) analysis. This hybrid approach is often described as “algotorial” curation—a blend of algorithmic and editorial decision-making. Spotify itself uses the term to describe situations where editors and machine-learning systems work together rather than operating separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">This collaboration is critical to the Spotify experience.Read more</span><span class="citation-popover-snippet">SpotifyResponsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</span></span></span>
-
+A modern streaming playlist often looks deceptively simple: a title, a cover image and a sequence of songs. Behind that surface, however, sits a layered system of human editors, recommendation algorithms, behavioural data and [catalogue]({{ 'catalogue/' | relative_url }}) analysis. This hybrid approach is often described as “algotorial” curation—a blend of algorithmic and editorial decision-making. Spotify itself uses the term to describe situations where editors and machine-learning systems work together rather than operating separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">This collaboration is critical to the Spotify experience.Read more</span><span class="citation-popover-snippet">Responsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-dark.svg" | relative_url }}" alt="Algotorial illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding this hidden playlist machine helps explain why playlists became the new radio. Radio audiences once heard the same programme at the same time. Streaming platforms increasingly deliver playlist brands that appear identical while quietly changing from listener to listener. The result is a form of curation that feels personal but is often difficult to see, inspect or fully understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">SpotifyTypes of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-snippet">SpotifyUnderstanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pGntmcy_HX8" title="How Spotify’s AI-Driven Recommendations Work | WSJ Tech Behind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer">How Spotify’s AI-Driven Recommendations Work | WSJ Tech Behind</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pGntmcy_HX8">Open on YouTube</a></p></div></div></div>
+Understanding this hidden playlist machine helps explain why playlists became the new radio. Radio audiences once heard the same programme at the same time. Streaming platforms increasingly deliver playlist brands that appear identical while quietly changing from listener to listener. The result is a form of curation that feels personal but is often difficult to see, inspect or fully understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</span></span></span>
 
 ## How Editors and Algorithms Share Playlist Decisions
 
@@ -287,12 +283,11 @@ This division of labour reflects the strengths of each side:
 
 * **Editors** contribute cultural knowledge, genre expertise and awareness of emerging artists, scenes and releases.
 * **Algorithms** contribute scale, analysing millions of listening sessions and adapting recommendations to individual users.
-* **Data systems** measure engagement signals such as skips, saves, replays and listening duration, providing feedback about how tracks perform in different contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering | Mike Warner | 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
+* **Data systems** measure engagement signals such as skips, saves, replays and listening duration, providing feedback about how tracks perform in different contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering &#124; Mike Warner &#124; 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
 
-Spotify Engineering describes algotorial playlists as products where human expertise and machine personalisation work together. Rather than replacing editors, recommendation systems help determine which versions of a playlist best fit different listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering | Mike Warner | 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
+Spotify Engineering describes algotorial playlists as products where human expertise and machine personalisation work together. Rather than replacing editors, recommendation systems help determine which versions of a playlist best fit different listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering &#124; Mike Warner &#124; 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
 
 This is a significant departure from broadcast radio. A radio station typically sends one sequence of songs to everyone. An algotorial playlist can operate more like a template whose final contents vary according to who is listening.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2i75sF-YTlc" title="Spotify Algotorial Playlists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2i75sF-YTlc" target="_blank" rel="noopener noreferrer">Spotify Algotorial Playlists</a></p><p class="youtube-embed-meta">Channel: Mike Warner &middot; Views: 15 &middot; Uploaded: January 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2i75sF-YTlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2i75sF-YTlc">Open on YouTube</a></p></div></div></div>
 
@@ -300,21 +295,19 @@ This is a significant departure from broadcast radio. A radio station typically 
 
 One of the least visible aspects of playlist [culture]({{ 'culture/' | relative_url }}) is that a playlist name does not necessarily describe a fixed list of songs.
 
-Spotify introduced personalised versions of certain [editorial playlists]({{ 'editorial-adds/' | relative_url }}) so that listeners could receive different track selections under the same playlist brand. Reporting at the time noted that mood- and activity-focused playlists could contain algorithmically customised sections, meaning two listeners might encounter different versions of what appears to be the same playlist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</span></span></span>
+Spotify introduced personalised versions of certain editorial playlists so that listeners could receive different track selections under the same playlist brand. Reporting at the time noted that mood- and activity-focused playlists could contain algorithmically customised sections, meaning two listeners might encounter different versions of what appears to be the same playlist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</span></span></span>
 
-This approach solves a problem faced by streaming services. A playlist called “Workout”, “Dinner” or “Chill” attracts audiences with very different tastes. One listener may prefer electronic [music]({{ 'music/' | relative_url }}), another indie rock, another contemporary pop. Instead of maintaining thousands of narrowly targeted playlists, platforms can personalise a single playlist identity.
+This approach solves a problem faced by streaming services. A playlist called “Workout”, “Dinner” or “Chill” attracts audiences with very different tastes. One listener may prefer electronic music, another indie rock, another contemporary pop. Instead of maintaining thousands of narrowly targeted playlists, platforms can personalise a single playlist identity.
 
 The playlist brand therefore performs two jobs at once:
-
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-2-dark.svg" | relative_url }}" alt="Algotorial illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. It communicates a mood, activity or purpose.
 2. It acts as a delivery framework for personalised recommendations.
 
-The listener sees a stable product. The underlying contents may be continuously adjusted according to listening history, region, age of account, followed artists, saved tracks and recent behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">– Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</span></span></span>
+The listener sees a stable product. The underlying contents may be continuously adjusted according to listening history, region, age of account, followed artists, saved tracks and recent behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</span></span></span>
 
-This flexibility helps explain why playlists increasingly function like radio formats rather than simple collections. The brand remains familiar even as the programme changes.
-
+This flexibility helps explain why playlists increasingly function like radio [formats]({{ 'formats/' | relative_url }}) rather than simple collections. The brand remains familiar even as the programme changes.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EObzmJhrkGQ" title="The 3 different types of Spotify Playlists (Which is best for Artists?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EObzmJhrkGQ" target="_blank" rel="noopener noreferrer">The 3 different types of Spotify Playlists (Which is best for Artists?)</a></p><p class="youtube-embed-meta">Channel: Show Your Genius &middot; Views: 1.1K &middot; Uploaded: October 2022 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EObzmJhrkGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EObzmJhrkGQ">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +321,6 @@ A second layer analyses the music itself. Streaming platforms extract features f
 
 A simplified version of the process looks like this:
 
-
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-3-dark.svg" | relative_url }}" alt="Algotorial illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -336,6 +328,37 @@ A simplified version of the process looks like this:
 1. The platform collects listening behaviour from millions of users.
 2. Algorithms identify clusters of similar listeners.
 3. Audio and metadata systems identify musical similarities between tracks.
+4. Editorial teams define playlist concepts, genres, moods or candidate song pools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</span></span></span>
+5. Personalisation systems assemble final recommendations for individual users. [Spotify Engineering](#endnote-23 "
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) [Spotify The result is not purely machine-generated and not purely human-selected. It is an ongoi...</p></details>
+
+</div>
+
+## The Hidden Feedback Loop Behind Playlist Success
+
+Algotorial systems create feedback loops that differ from traditional radio programming.
+
+When a track appears in a playlist, the platform can immediately observe how listeners respond. Saves, replays, completion rates, skips and subsequent listening activity become signals that feed future recommendations. Songs that perform well may appear in more recommendation surfaces; songs that perform poorly may lose visibility. [Spotify for Artists](#endnote-6 "
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl&quot;)...</p></details>
+
+This creates a dynamic environment in which playlists are constantly learning from audience behaviour. Unlike radio, where audience measurement traditionally arrived through surveys, ratings panels or delayed analytics, streaming platforms can observe interactions almost instantly.
+
+The consequence is that playlist curation becomes partly predictive and partly reactive. Editors may introduce a track because they believe it deserves [attention]({{ 'attention/' | relative_url }}). Algorithms then evaluate how audiences respond and adjust future exposure accordingly. [Spotify Engineering](#endnote-23 "
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;)...</p></details>
+
+For listeners, this often feels seamless. For artists, it can mean that visibility depends not only on securing playlist placement but also on how audiences behave once the placement occurs.
+
+## Why the Playlist Machine Is Hard to See
+
+Most listeners encounter only the front end of the system. They see playlist names, [artwork]({{ 'artwork/' | relative_url }}) and songs. They rarely see the multiple layers of selection operating underneath.
+
+Part of this opacity comes from the blending of roles. A playlist can simultaneously reflect editorial taste, machine-learning predictions, catalogue strategy and audience behaviour. Because these layers are intertwined, it is often impossible for a listener to determine exactly why a particular song appeared.
+
+Researchers studying platform culture increasingly describe this as a form of algotorial governance, where human and algorithmic decisions become difficult to separate. The recommendation system does not replace human judgement; instead, it reshapes how that judgement is exercised and scaled. [Sage Journals](#endnote-11 "
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio&quot;)...</p></details>
+
+This hidden machinery is one reason playlists have become so powerful. They are not merely lists of songs. They are adaptive media products that combine editorial authority with continuous behavioural analysis. In doing so, they perform many of the functions once associated with radio—introducing music, organising attention and guiding discovery—while tailoring the experience to each listener in ways traditional broadcasting could never achieve. [Spotify Engineering](#endnote-23 "
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) &lt;span class=&quot;citation-link-wrap&quot;&gt;&lt;a class=&quot;citation-inline-link&quot; href=&quot;https://artists.spotify.co...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -729,233 +752,201 @@ A simplified version of the process looks like this:
 </script>
 </section>
 
-4. Editorial teams define playlist concepts, genres, moods or candidate song pools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</span></span></span>
-5. Personalisation systems assemble final recommendations for individual users. [Spotify Engineering](#endnote-23 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) [Spotify The result is not purely machine-generated and not purely human-selected. It is an ongoi...</p></details>
-
-</div>
-
-## The Hidden Feedback Loop Behind Playlist Success
-
-Algotorial systems create feedback loops that differ from traditional radio programming.
-
-When a track appears in a playlist, the platform can immediately observe how listeners respond. Saves, replays, completion rates, skips and subsequent listening activity become signals that feed future recommendations. Songs that perform well may appear in more recommendation surfaces; songs that perform poorly may lose visibility. [Spotify for Artists](#endnote-6 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl&quot;)...</p></details>
-
-This creates a dynamic environment in which playlists are constantly learning from audience behaviour. Unlike radio, where audience measurement traditionally arrived through surveys, ratings panels or delayed analytics, streaming platforms can observe interactions almost instantly.
-
-The consequence is that playlist curation becomes partly predictive and partly reactive. Editors may introduce a track because they believe it deserves [attention]({{ 'attention/' | relative_url }}). Algorithms then evaluate how audiences respond and adjust future exposure accordingly. [Spotify Engineering](#endnote-23 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;)...</p></details>
-
-For listeners, this often feels seamless. For artists, it can mean that visibility depends not only on securing playlist placement but also on how audiences behave once the placement occurs.
-
-## Why the Playlist Machine Is Hard to See
-
-Most listeners encounter only the front end of the system. They see playlist names, artwork and songs. They rarely see the multiple layers of selection operating underneath.
-
-Part of this opacity comes from the blending of roles. A playlist can simultaneously reflect editorial taste, machine-learning predictions, catalogue strategy and audience behaviour. Because these layers are intertwined, it is often impossible for a listener to determine exactly why a particular song appeared.
-
-Researchers studying platform culture increasingly describe this as a form of algotorial governance, where human and algorithmic decisions become difficult to separate. The recommendation system does not replace human judgement; instead, it reshapes how that judgement is exercised and scaled. [Sage Journals](#endnote-11 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio&quot;)...</p></details>
-
-This hidden machinery is one reason playlists have become so powerful. They are not merely lists of songs. They are adaptive media products that combine editorial authority with continuous behavioural analysis. In doing so, they perform many of the functions once associated with radio—introducing music, organising attention and guiding discovery—while tailoring the experience to each listener in ways traditional broadcasting could never achieve. [Spotify Engineering](#endnote-23 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) &lt;span class=&quot;citation-link-wrap&quot;&gt;&lt;a class=&quot;citation-inline-link&quot; href=&quot;https://artists.spotify.co...</p></details>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: newsroom.spotify.com  
    Title: This collaboration is critical to the Spotify experience.Read more  
-   Link: [https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/](https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyResponsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/types-of-spotify-playlists/](https://support.spotify.com/us/artists/article/types-of-spotify-playlists/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyTypes of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: spotify.com  
-   Link: [https://www.spotify.com/safetyandprivacy/understanding-recommendations](https://www.spotify.com/safetyandprivacy/understanding-recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</p></details>
+   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists](https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists)  
+   Link: <a href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: Musica Globalista: Spotify Discovery engine  
-   Link: [https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine](https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine)  
+   Link: <a href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: artists.spotify.com  
    Title: behind the playlists your questions answered by our playlist editors  
-   Link: [https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors](https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors)  
+   Link: <a href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/playlisting](https://artists.spotify.com/playlisting)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>– Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</p></details>
+   Link: <a href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/playlisting</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/home](https://artists.spotify.com/en/home)  
+   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Artists: Where Your Music is EverythingWith Spotify for Artists, you can amplify your reach, serve up videos, build pre-release hype...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: newsroom.spotify.com  
    Title: prompted playlists algorithm gustav soderstrom  
-   Link: [https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/](https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the AlgorithmDec 10, 2025 — For the first time, your ideas, your logic, and your cre...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: engineering.atspotify.com  
    Title: humans machines a look behind spotifys algotorial playlists  
-   Link: [https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists](https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists)  
+   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/14614448261422367](https://journals.sagepub.com/doi/10.1177/14614448261422367)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448261422367" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448261422367</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor [music recommendations](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;) to...</p></details>
+   Link: <a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2i75sF-YTlc](https://www.youtube.com/watch?v=2i75sF-YTlc)  
+   Link: <a href="https://www.youtube.com/watch?v=2i75sF-YTlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2i75sF-YTlc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Spotify Algotorial PlaylistsEditorial + Algprthmic playlists = Algotorial! Here is a link to the original blog post mentioned. [https://en...&quot;](https://en...&quot;)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: andrmusic.co  
-   Title: Spotify Metrics That Trigger Discover Weekly  
-   Link: [https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/](https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/)  
+   Title: Spotify Metrics That Trigger [Discover Weekly](&#123;&#123; 'discover-weekly/' | relative_url &#125;&#125;)  
+   Link: <a href="https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Weekly alone can generate 10,000-100,000+...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: orphiq.com  
    Title: spotify editorial playlist  
-   Link: [https://orphiq.com/resources/spotify-editorial-playlist](https://orphiq.com/resources/spotify-editorial-playlist)  
+   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: orphiq.com  
    Title: spotify algorithmic playlists explained  
-   Link: [https://orphiq.com/resources/spotify-algorithmic-playlists-explained](https://orphiq.com/resources/spotify-algorithmic-playlists-explained)  
+   Link: <a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/thedullclub/posts/2989816087890157/](https://www.facebook.com/groups/thedullclub/posts/2989816087890157/)  
+   Link: <a href="https://www.facebook.com/groups/thedullclub/posts/2989816087890157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thedullclub/posts/2989816087890157/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly suggests only known songsEvery Monday I listen to Discover Weekly on Spotify which sometimes suggests some arti...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/](https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/)  
+   Link: <a href="https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ms generate customized playlists and analyze each user&#x27;s...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: digitalrenaissance.education  
    Title: spotify for artists pitch guide how to get your music on editorial playlists  
-   Link: [https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists](https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists)  
+   Link: <a href="https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Pitch Guide for Editorial Playlists1 Mar 2026 — Learn how to pitch to Spotify editorial playlists using metadata, tim...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: loopsolitaire.co.uk  
    Title: spotify algorithmic playlists  
-   Link: [https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/](https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/)  
+   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Algorithm 2025: How to Get on Algorithmic PlaylistsLearn how the Spotify algorithm really works in 2025—and how you can get your...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: loopsolitaire.co.uk  
-   Link: [https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/](https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/)  
+   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: beatstorapon.com  
-   Link: [https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/](https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s [Music Recommendation](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;) Algorithm: The Complete...1 Mar 2025 — Spotify&#x27;s AI-Driven Playlist Curation (Discover Weekly, Release Ra...</p></details>
+   Link: <a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...1 Mar 2025 — Spotify&#x27;s AI-Driven Playlist Curation (Discover Weekly, Release Ra...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
    Title: Spotify Engineering | Mike Warner | 17 comments  
-   Link: [https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN](https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN)  
+   Link: <a href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</p></details>
    Published: May 21, 2023  
 
 24. <a id="endnote-24"></a>
    Source: captechu.edu  
    Title: impact of automation and ai on the music industry  
-   Link: [https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry](https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry)  
+   Link: <a href="https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Shift Away from Human-Curated PlaylistsMar 25, 2024 — Spotify&#x27;s shift away from human-curated playlists towards automation refl...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/](https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify to let users &#x27;steer the algorithm&#x27; by personalizing...11 Dec 2025 — Users can always fine-tune by editing the prompt, and can al...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting](https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting)  
+   Link: <a href="https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Playlists and the Datafication of Music FormattingThis chapter [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) the rise of the datafied playlist and argues that it is impor...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: stereofox.com  
-   Link: [https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/](https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/)  
+   Link: <a href="https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Different Kinds of Spotify Playlists ExplainedEditorial playlists formed by in-house curators are where you&#x27;d want to end up as an ar...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: interspacemusic.com  
-   Link: [https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/](https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/)  
+   Link: <a href="https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/" target="_blank" rel="noopener noreferrer nofollow">https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Different Kinds of Spotify Playlists23 May 2025 — In this article, we&#x27;ll break down the four major types of Spotify pla...</p></details>
    Published: May 2025  
 
 29. <a id="endnote-29"></a>
    Source: montrealethics.ai  
    Title: discover weekly how the music platform spotify collects and uses your data  
-   Link: [https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/](https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/)  
+   Link: <a href="https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Music Platform Spotify Collects and Uses Your Data26 May 2022 — Spotify collects all data that is entered by the artists: songs n...</p></details>
    Published: May 2022  
 
 30. <a id="endnote-30"></a>
    Source: music-tomorrow.com  
-   Link: [https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide)  
+   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: d3.harvard.edu  
    Title: discover weekly how spotify is changing the way we consume music  
-   Link: [https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/](https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/)  
+   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteHow Spotify is Changing the Way We Consume Music13 Nov 2018 — Every week, Spotify generates a new pla...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: hal.science  
    Title: henry et al 2024 impacts of ai on music consumption and fairness  
-   Link: [https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf](https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf)  
+   Link: <a href="https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts of AI on Music Consumption and Fairnessby A Henry · 2024 · Cited by 19 — On services like Spotify, playlists serve as a standout...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pragmaticinstitute.com  
-   Link: [https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/](https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/)  
+   Link: <a href="https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ls, the predictive recommendation engine generates playlists like “Discover Weekly...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: illumin.usc.edu  
    Title: algorithmic symphonies how spotify strikes the right chord  
-   Link: [https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/](https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/)  
+   Link: <a href="https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/" target="_blank" rel="noopener noreferrer nofollow">https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Symphonies: How Spotify Strikes the Right Chord21 Jan 2024 — This article explores Spotify&#x27;s recommendation algorithm, including how it h...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: maa1.medium.com  
    Title: human machine spotifys algotorial playlists 500c1a252723  
-   Link: [https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723](https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723)  
+   Link: <a href="https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723" target="_blank" rel="noopener noreferrer nofollow">https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>+ Machine: Spotify&#x27;s &#x27;Algotorial Playlists&#x27; | by MAA1As the name suggests, these playlists are a combination of editorial and algorithmic...</p></details>

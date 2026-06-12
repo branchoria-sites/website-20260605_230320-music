@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2
 - music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e
 tags:
-- music
+- music-3-a01-be
 - hymns
 - public-grief
 keywords:
-- music
+- music-3-a01-be
 - hymns
 - public-grief
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Hymns sung at funerals, tragedies and public gatherings can voice shared values when ordinary speech feels inadequate.
 hero_summary: Hymns sung at funerals, tragedies and public gatherings can voice shared values when ordinary speech feels inadequate.
 layout: default
 permalink: /public-grief/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /hymns/
 nav_short_title: Public Grief
 title: Why Hymns Appear at Public Moments of Grief
-title_full: Why Hymns Appear at Public Moments of Grief | Hymns
+title_full: Why Hymns Appear at Public Moments of Grief
 display_title_short: Public Grief
 display_title: Public Grief
 heading_title: Why Hymns Appear at Public Moments of Grief
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Hymns Turn Belief Into Sound | Music
+parent_title: How Hymns Turn Belief Into Sound
 parent_permalink: /hymns/
 parent_nav_short_title: Hymns
 parent_heading_title: How Hymns Turn Belief Into Sound
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Singing Hymns Together Feels So Powerful
 up_link:
   basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
@@ -265,7 +265,7 @@ next_link:
   permalink: /reformation/
   short_title: Reformation
   heading_title: When Hymns Put Worship Into Every Voice
-date: '2026-06-09 06:39:21 '
+date: '2026-06-11 23:20:51 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1.webp
@@ -276,34 +276,29 @@ image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief
 
 Hymns sometimes move far beyond the walls of churches. In moments of national mourning, public tragedy, war remembrance, disasters or large funerals, communities often turn to familiar hymns when ordinary speech feels inadequate. These songs provide a shared language for grief, [memory]({{ 'memory/' | relative_url }}) and hope, allowing people with different personal experiences to participate in a common act of mourning. Because hymns combine words, [melody]({{ 'melody/' | relative_url }}), ritual and collective participation, they can become powerful public symbols that express solidarity during crisis. At the same time, their movement from sacred worship into civic life raises questions about inclusion, identity and the use of religious traditions in diverse societies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-dark.svg" | relative_url }}" alt="Public Grief illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Hymns Move Beyond Formal Worship
 
 [Hymns]({{ 'hymns/' | relative_url }}) become public symbols when they are repeatedly used at moments that matter to a wider community. A song first associated with worship may gradually acquire additional meanings through funerals, memorial services, remembrance ceremonies and responses to tragedy. Over time, people begin to recognise the hymn not only as a religious text but also as a cultural marker of collective memory.
 
-One reason this transition occurs is that hymns already possess qualities suited to public [ritual]({{ 'ritual/' | relative_url }}). They are widely known, easy to sing together and linked to themes that become especially important during grief: mortality, comfort, perseverance and hope. When communities face loss, familiar hymns provide continuity at a moment when ordinary routines have been disrupted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing | Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
+One reason this transition occurs is that hymns already possess qualities suited to public [ritual]({{ 'ritual/' | relative_url }}). They are widely known, easy to sing together and linked to themes that become especially important during grief: mortality, comfort, perseverance and hope. When communities face loss, familiar hymns provide continuity at a moment when ordinary routines have been disrupted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
 
 The hymn *Abide with Me* illustrates this process. Originally written as a prayer for divine presence in the face of death, it became associated with funerals, memorial services, military remembrance and national ceremonies in several countries. Its repeated use in public acts of mourning transformed it into a symbol recognised even by many people who do not regularly attend worship services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abide with Me</span><span class="citation-popover-snippet">Abide with Me</span></span></span>
 
 Research on hymns in the public sphere suggests that religious singing can function as a bridge between personal faith and broader public life. A hymn may therefore serve both believers seeking spiritual meaning and communities seeking a shared cultural language during difficult times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zb8rJ3Vsqjw" title="Abide With Me | Traditional Funeral Hymn | W.H. Monk (Eventide) | Emmaus Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer">Abide With Me | Traditional Funeral Hymn | W.H. Monk (Eventide) | Emmaus Music</a></p><p class="youtube-embed-meta">Channel: Emmaus Music &middot; Views: 2.9K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zb8rJ3Vsqjw">Open on YouTube</a></p></div></div></div>
-
 ## Why Public Singing Can Express Shared Hope
 
-Grief often produces emotions that are difficult to articulate. Hymns help because they combine language with [music]({{ 'music/' | relative_url }}), allowing people to express sorrow, longing and hope simultaneously. Rather than requiring individuals to find their own words, the hymn offers a ready-made framework through which emotions can be shared.
+Grief often produces emotions that are difficult to articulate. Hymns help because they combine language with music, allowing people to express sorrow, longing and hope simultaneously. Rather than requiring individuals to find their own words, the hymn offers a ready-made framework through which emotions can be shared.
 
-[Collective singing]({{ 'collective-singing/' | relative_url }}) also changes the experience of mourning. Instead of listening passively, participants contribute their own voices. This transforms grief from a private burden into a communal act. Studies of bereavement and group singing have found that singing together can support social connection and help people cope with loss by reinforcing a sense of belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCGroup singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</span></span></span>
+[Collective singing]({{ 'collective-singing/' | relative_url }}) also changes the experience of mourning. Instead of listening passively, participants contribute their own voices. This transforms grief from a private burden into a communal act. Studies of bereavement and group singing have found that singing together can support social connection and help people cope with loss by reinforcing a sense of belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Group singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</span></span></span>
 
 Several features make hymns especially effective in this role:
 
 * **Shared familiarity:** Many participants already know the melody and words, reducing barriers to participation.
 * **Emotional structure:** The combination of music and text can hold sadness and hope together without forcing a simple resolution.
 * **Collective identity:** Singing creates a visible and audible sense of community at a moment when people may feel isolated.
-* **Continuity with the past:** Familiar hymns connect present mourners with earlier generations who used the same songs in times of loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span> ResearchGate Within communities affected by disaster or tragedy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>, liturgical music is often used as part of healing practices. Scholars of worship and pastoral care note that singing can help people process loss, restore communal bonds and make sense of suffering within a larger narrative of meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing | Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
-
+* **Continuity with the past:** Familiar hymns connect present mourners with earlier generations who used the same songs in times of loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span> ResearchGate Within communities affected by disaster or tragedy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>, liturgical music is often used as part of healing practices. Scholars of worship and pastoral care note that singing can help people process loss, restore communal bonds and make sense of suffering within a larger narrative of meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-2-dark.svg" | relative_url }}" alt="Public Grief illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Certain Hymns Become Symbols
@@ -312,13 +307,11 @@ Not every hymn becomes a public emblem of grief. Those that do usually share sev
 
 First, they address universal experiences. Hymns that speak about companionship, mortality, endurance or consolation are more easily adopted across different situations than songs tied to highly specific theological arguments.
 
-Second, they balance lament with hope. Public mourning rarely seeks despair alone. Communities often look for music that acknowledges suffering while also pointing toward resilience, memory or transcendence. Hymns that achieve this balance are more likely to endure in public use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hymnary.org">[Hymnary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hymnary.org</span><span class="citation-popover-snippet">HymnaryAbide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</span></span></span>
+Second, they balance lament with hope. Public mourning rarely seeks despair alone. Communities often look for music that acknowledges suffering while also pointing toward resilience, memory or transcendence. Hymns that achieve this balance are more likely to endure in public use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hymnary.org">[Hymnary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hymnary.org</span><span class="citation-popover-snippet">Abide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</span></span></span>
 
 Third, repeated ceremonial use creates recognition. A hymn sung at major funerals, remembrance events or national commemorations accumulates symbolic power. Each new performance recalls earlier occasions, strengthening the association between the music and collective memory. The result is a cycle in which public use reinforces public meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abide with Me</span><span class="citation-popover-snippet">Abide with Me</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gzkHTg2jcY0" title="The Tragic History of My Chemical Romance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gzkHTg2jcY0" target="_blank" rel="noopener noreferrer">The Tragic History of My Chemical Romance</a></p><p class="youtube-embed-meta">Channel: Common Revolt</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gzkHTg2jcY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gzkHTg2jcY0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-dark.svg" | relative_url }}" alt="Public Grief illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risks of Turning Sacred Music into Civic Symbol
 
 The public adoption of hymns is not without tension. What makes a hymn powerful for some listeners may make it problematic for others.
@@ -331,17 +324,13 @@ There is also the possibility of political appropriation. Public ceremonies ofte
 
 These tensions do not necessarily diminish the value of hymns in public grief. Instead, they reveal why such songs remain culturally significant. A hymn that enters public life is no longer functioning only as a religious artefact; it becomes a contested symbol carrying emotional, spiritual and civic meanings at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zb8rJ3Vsqjw" title="Abide With Me | Traditional Funeral Hymn | W.H. Monk (Eventide) | Emmaus Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer">Abide With Me | Traditional Funeral Hymn | W.H. Monk (Eventide) | Emmaus Music</a></p><p class="youtube-embed-meta">Channel: Emmaus Music &middot; Views: 2.9K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zb8rJ3Vsqjw">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-dark.svg" | relative_url }}" alt="Public Grief illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hymns Endure in Times of Crisis
 
 Hymns become public symbols during grief and crisis because they do something that speeches, statements and individual expressions often cannot. They provide a shared sound through which communities can mourn together, remember together and imagine a future beyond immediate loss. Their power lies not only in their words or melodies but in the collective act of singing them.
 
-When ordinary language struggles to express the weight of tragedy, hymns offer continuity, participation and meaning. Whether sung in a church, at a memorial service, during a national commemoration or in the aftermath of disaster, they give communities a way to transform private sorrow into a shared public experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing | Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KLjpJZbxkAU" title="Billy Ocean - There&#x27;ll Be Sad Songs (To Make You Cry) (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KLjpJZbxkAU" target="_blank" rel="noopener noreferrer">Billy Ocean - There&#x27;ll Be Sad Songs (To Make You Cry) (Official Video)</a></p><p class="youtube-embed-meta">Channel: BillyOceanVEVO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KLjpJZbxkAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KLjpJZbxkAU">Open on YouTube</a></p></div></div></div>
-
+When ordinary language struggles to express the weight of tragedy, hymns offer continuity, participation and meaning. Whether sung in a church, at a memorial service, during a national commemoration or in the aftermath of disaster, they give communities a way to transform private sorrow into a shared public experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -740,117 +729,117 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: 342890372 Music as Consolation The Importance of Music at Farewells and Mourning  
-   Link: [https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning](https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning)  
+   Link: <a href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Abide with Me  
-   Link: [https://en.wikipedia.org/wiki/Abide_with_Me](https://en.wikipedia.org/wiki/Abide_with_Me)  
+   Link: <a href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abide_with_Me</a>  
 
 3. <a id="endnote-3"></a>
    Source: hymnary.org  
-   Link: [https://hymnary.org/text/abide_with_me_fast_falls_the_eventide](https://hymnary.org/text/abide_with_me_fast_falls_the_eventide)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HymnaryAbide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</p></details>
+   Link: <a href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow">https://hymnary.org/text/abide_with_me_fast_falls_the_eventide</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCGroup singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Group singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere](https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere)  
+   Link: <a href="https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Function of Religious Songs and Hymns in the Public...26 Mar 2026 — Religious singing in public spaces forms bridges between persona...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scielo.org.za  
-   Link: [https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&script=sci_arttext](https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&script=sci_arttext)  
+   Link: <a href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: verbumetecclesia.org.za  
-   Link: [https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178](https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178)  
+   Link: <a href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow">https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verbum et EcclesiaHealing liturgy: The role of music and singing | Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: etheses.bham.ac.uk  
-   Link: [https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf](https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf)  
+   Link: <a href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</p></details>
    Published: November 19, 2014  
 
 9. <a id="endnote-9"></a>
    Source: denisewellingtonfunerals.co.uk  
    Title: abide with me  
-   Link: [https://denisewellingtonfunerals.co.uk/abide-with-me/](https://denisewellingtonfunerals.co.uk/abide-with-me/)  
+   Link: <a href="https://denisewellingtonfunerals.co.uk/abide-with-me/" target="_blank" rel="noopener noreferrer nofollow">https://denisewellingtonfunerals.co.uk/abide-with-me/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denise Wellington Funeral ServicesAbide with Me Funeral Hymn9 Aug 2024 — Abide with Me is a cherished hymn offering comfort during funera...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zb8rJ3Vsqjw](https://www.youtube.com/watch?v=zb8rJ3Vsqjw)  
+   Link: <a href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zb8rJ3Vsqjw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ring profound comfort in times of trial and grief...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ontario.anglicannews.ca  
    Title: ca Abide with me  
-   Link: [https://ontario.anglicannews.ca/abide-with-me/](https://ontario.anglicannews.ca/abide-with-me/)  
+   Link: <a href="https://ontario.anglicannews.ca/abide-with-me/" target="_blank" rel="noopener noreferrer nofollow">https://ontario.anglicannews.ca/abide-with-me/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with me - Dialogue - Anglican News Canada“In life, in death, O Lord, abide with me.” The words above are two lines out of the hymn &#x27;Abide...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: songsforfunerals.co.uk  
    Title: Abide with Me  
-   Link: [https://www.songsforfunerals.co.uk/abide-with-me.html](https://www.songsforfunerals.co.uk/abide-with-me.html)  
+   Link: <a href="https://www.songsforfunerals.co.uk/abide-with-me.html" target="_blank" rel="noopener noreferrer nofollow">https://www.songsforfunerals.co.uk/abide-with-me.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs for FuneralsAbide with me; fast falls the eventide; the darkness deepens; Lord, with me abide: when other helpers fail, and comfort...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/](https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/)  
+   Link: <a href="https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABIDE WITH ME — The Story Behind the Hymn It began...It is sung in churches, at funerals, and in times of crisis, offering comfort to th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thehymnsociety.org  
-   Link: [https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf](https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf)  
+   Link: <a href="https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HYMNS IN TIMES OF CRISISThrough tears and sorrow, God, we share a sense of your vast grief: the weight of bearing every prayer for healin...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pthu.nl  
-   Link: [https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf](https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf)  
+   Link: <a href="https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sing after God a new songWe built on previous designs and dreamed of ever more beautiful constructions. We had ideas about their intended...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reformedworship.org  
-   Link: [https://reformedworship.org/resource/funerals-and-contemporary-worship](https://reformedworship.org/resource/funerals-and-contemporary-worship)  
+   Link: <a href="https://reformedworship.org/resource/funerals-and-contemporary-worship" target="_blank" rel="noopener noreferrer nofollow">https://reformedworship.org/resource/funerals-and-contemporary-worship</a>  
 
 17. <a id="endnote-17"></a>
    Source: doaj.org  
-   Link: [https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e](https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e)  
+   Link: <a href="https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/](https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/)  
+   Link: <a href="https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>played to this setting of William Henry Monk&#x27;s tune &quot;Eventide.&quot;...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blog.adw.org  
    Title: abide with me a hymn to share with the dying  
-   Link: [https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/](https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/)  
+   Link: <a href="https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/" target="_blank" rel="noopener noreferrer nofollow">https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Me. A Hymn to Share with the Dying3 Jun 2011 — Abide with me; fast falls the eventide; The darkness deepens; Lord with me abide. Whe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31243022/](https://pubmed.ncbi.nlm.nih.gov/31243022/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedGroup singing in bereavement: effects on mental health...by D Fancourt · 2022 · Cited by 59 — This study used a non-randomised con...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31243022/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31243022/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Group singing in bereavement: effects on mental health...by D Fancourt · 2022 · Cited by 59 — This study used a non-randomised con...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: beyond-grief.com  
    Title: music mourning rituals  
-   Link: [https://beyond-grief.com/blog/music-mourning-rituals](https://beyond-grief.com/blog/music-mourning-rituals)  
+   Link: <a href="https://beyond-grief.com/blog/music-mourning-rituals" target="_blank" rel="noopener noreferrer nofollow">https://beyond-grief.com/blog/music-mourning-rituals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and Mourning: How Songs and Rituals Help Cultures...1 Sept 2023 — From “Amazing Grace” to gospel choirs, music plays a central rol...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/](https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/)  
+   Link: <a href="https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this #MarineMusicalMoment, hear a saxophone...Read more...</p></details>

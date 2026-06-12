@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f
 - music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72
 tags:
-- music
+- music-3-a01-be
 - melody
 - earworms
 keywords:
-- music
+- music-3-a01-be
 - melody
 - earworms
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Earworm melodies often combine repetition, simple contours and distinctive turns that make them unusually easy to replay mentally.
 hero_summary: Earworm melodies often combine repetition, simple contours and distinctive turns that make them unusually easy to replay mentally.
 layout: default
 permalink: /earworms/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /melody/
 nav_short_title: Earworms
 title: What Makes a Tune Become an Earworm?
-title_full: What Makes a Tune Become an Earworm? | Melody
+title_full: What Makes a Tune Become an Earworm?
 display_title_short: Earworms
 display_title: Earworms
 heading_title: What Makes a Tune Become an Earworm?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some Melodies Stay In Your Head | Music
+parent_title: Why Some Melodies Stay In Your Head
 parent_permalink: /melody/
 parent_nav_short_title: Melody
 parent_heading_title: Why Some Melodies Stay In Your Head
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Catchy Melodies Need a Twist
 up_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -265,7 +265,7 @@ next_link:
   permalink: /emotion-ad77f9/
   short_title: Emotion
   heading_title: Why Some Melodies Bring Memories Back
-date: '2026-06-09 07:33:11 '
+date: '2026-06-11 23:47:28 '
 header:
   og_image: /assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_tr
 ## Introduction
 
 An earworm is not just a memorable [melody]({{ 'melody/' | relative_url }}). It is a melody that continues replaying in the mind without conscious effort, often as a short fragment such as a chorus, hook or riff. Research on involuntary musical imagery—the scientific term for songs getting stuck in the head—suggests that earworms emerge when a tune combines two qualities that rarely coexist: it is easy to process and sing internally, yet distinctive enough to stand out from countless other melodies. The most effective earworm melodies tend to rely on familiar shapes, strong repetition and a small number of unusual turns that keep the brain returning to them. Exposure also matters: the more often a listener encounters a tune, the more likely it is to become mentally available for replay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-dark.svg" | relative_url }}" alt="Earworms illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Common Melodic Traits of Earworms
@@ -288,15 +287,13 @@ However, simplicity alone is not enough. Many songs are simple but forgettable. 
 * Fast or energetic pacing.
 * Unusual interval jumps or melodic leaps.
 * Repeated notes or repeated short fragments.
-* Strong [hooks]({{ 'hooks/' | relative_url }}) concentrated in [choruses]({{ 'choruses/' | relative_url }}) or riffs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-title">scientists find key to writing catchy pop hits</span><span class="citation-popover-snippet">Goldsmiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</span></span></span>
+* Strong [hooks]({{ 'hooks/' | relative_url }}) concentrated in [choruses]({{ 'choruses/' | relative_url }}) or riffs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-title">scientists find key to writing catchy pop hits</span><span class="citation-popover-snippet">smiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</span></span></span>
 
 This combination helps explain why certain melodic fragments remain mentally active. A listener quickly understands the overall pattern, but the unusual detail creates a memorable landmark. In cognitive terms, the melody is both predictable and distinctive.
 
 Examples often cited by researchers include the opening riff of “Smoke on the Water”, the chorus of “Bad Romance”, and the hook of “Can't Get You Out of My Head”. These melodies are not complex. Instead, they pair familiar movement with a striking feature such as repeated notes or unexpectedly large pitch jumps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/555535" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Psychologists identify key characteristics of earworms3 Nov 2016 — &quot;These musically sticky songs seem to have quite a fast tem...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4557229/earworm-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">earworm music</span><span class="citation-popover-snippet">This Is Why Songs Get Stuck In Your Head3 Nov 2016 — But earworms also tend to have some unique and unusual intervals... repeated notes...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gc5my6Lfipo" title="Involuntary Musical Imagery (earworms) - research by Lassi Liikkanen, Aalto University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gc5my6Lfipo" target="_blank" rel="noopener noreferrer">Involuntary Musical Imagery (earworms) - research by Lassi Liikkanen, Aalto University</a></p><p class="youtube-embed-meta">Channel: Aalto University &middot; Views: 4.1K &middot; Uploaded: June 2012 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gc5my6Lfipo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gc5my6Lfipo">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-dark.svg" | relative_url }}" alt="Earworms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Repetition and Exposure Matter
 
 A melody rarely becomes an earworm on its musical structure alone. Repeated exposure greatly increases the chances that a tune will enter involuntary recall.
@@ -305,12 +302,12 @@ Studies of earworms consistently show that recent listening experiences are amon
 
 More recent experiments have examined what happens when listeners repeatedly hear previously unfamiliar songs. These studies suggest that repeated exposure can help transform a novel melody into an earworm by strengthening mental representations of its chorus and vocal line. Researchers also found evidence that repeated listening promotes internal replay through mechanisms related to working [memory]({{ 'memory/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</span></span></span>
 
-This aligns with a broader psychological principle known as the mere exposure effect: repeated encounters with a stimulus often increase familiarity and ease of processing. In [music]({{ 'music/' | relative_url }}), that familiarity can make a melodic fragment easier to retrieve and mentally repeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Why catchy songs get stuck in your head (and how to stop it</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span>
+This aligns with a broader psychological principle known as the mere exposure effect: repeated encounters with a stimulus often increase familiarity and ease of processing. In music, that familiarity can make a melodic fragment easier to retrieve and mentally repeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Why catchy songs get stuck in your head (and how to stop it</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span>
 
 Importantly, earworms are usually not entire songs. People often report only a brief section looping repeatedly. A highly repetitive chorus or hook provides a compact unit that the mind can easily cycle through again and again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gc5my6Lfipo" title="Involuntary Musical Imagery (earworms) - research by Lassi Liikkanen, Aalto University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gc5my6Lfipo" target="_blank" rel="noopener noreferrer">Involuntary Musical Imagery (earworms) - research by Lassi Liikkanen, Aalto University</a></p><p class="youtube-embed-meta">Channel: Aalto University &middot; Views: 4.1K &middot; Uploaded: June 2012 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gc5my6Lfipo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gc5my6Lfipo">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-dark.svg" | relative_url }}" alt="Earworms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Inner Singing Keeps the Loop Alive
 
 An earworm persists because the brain does not merely remember the melody—it actively recreates it.
@@ -323,22 +320,14 @@ Some researchers propose that earworms operate through chains of connected music
 
 The result is the familiar experience of hearing a melody internally even when no external music is present.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lk4VG-VqN2s" title="The Science of Music | Why We Love It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lk4VG-VqN2s" target="_blank" rel="noopener noreferrer">The Science of Music | Why We Love It</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lk4VG-VqN2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lk4VG-VqN2s">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1lo8EomDrwA" title="Why we love repetition in music - Elizabeth Hellmuth Margulis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1lo8EomDrwA" target="_blank" rel="noopener noreferrer">Why we love repetition in music - Elizabeth Hellmuth Margulis</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1lo8EomDrwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1lo8EomDrwA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-3-dark.svg" | relative_url }}" alt="Earworms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Distinctive Simplicity Is the Winning Formula
 
 A common misconception is that earworms succeed because they are musically sophisticated. The evidence points in the opposite direction. The melodies most likely to become earworms are often built from simple, familiar materials. Their power comes from a carefully balanced mixture of familiarity and novelty.
 
-If a melody is too ordinary, it blends into the [background]({{ 'background/' | relative_url }}). If it is too unusual, it becomes difficult to remember. Earworms occupy the middle ground: they are easy enough to learn after only a few listens but distinctive enough to attract attention and remain identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span>
+If a melody is too ordinary, it blends into the [background]({{ 'background/' | relative_url }}). If it is too unusual, it becomes difficult to remember. Earworms occupy the middle ground: they are easy enough to learn after only a few listens but distinctive enough to attract [attention]({{ 'attention/' | relative_url }}) and remain identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span>
 
 This balance helps explain why certain short melodic fragments persist for days while others disappear immediately after a song ends. The most effective earworm melodies give the brain a pattern it can effortlessly replay—and a twist it does not want to forget. <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[2pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Why Do Songs Get Stuck in Your Head?</span><span class="citation-popover-snippet">New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-3-dark.svg" | relative_url }}" alt="Earworms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -737,139 +726,139 @@ This balance helps explain why certain short melodic fragments persist for days 
 1. <a id="endnote-1"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: [https://www.eurekalert.org/news-releases/555535](https://www.eurekalert.org/news-releases/555535)  
+   Link: <a href="https://www.eurekalert.org/news-releases/555535" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/555535</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EurekAlert!Psychologists identify key characteristics of earworms3 Nov 2016 — &quot;These musically sticky songs seem to have quite a fast tem...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: earworm music  
-   Link: [https://time.com/4557229/earworm-music/](https://time.com/4557229/earworm-music/)  
+   Link: <a href="https://time.com/4557229/earworm-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4557229/earworm-music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Is Why Songs Get Stuck In Your Head3 Nov 2016 — But earworms also tend to have some unique and unusual intervals... repeated notes...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Why Do Songs Get Stuck in Your Head?  
-   Link: [https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer](https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer)  
+   Link: <a href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
    Title: song stuck in head earworm  
-   Link: [https://time.com/5115013/song-stuck-in-head-earworm/](https://time.com/5115013/song-stuck-in-head-earworm/)  
+   Link: <a href="https://time.com/5115013/song-stuck-in-head-earworm/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5115013/song-stuck-in-head-earworm/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known scientifically as involuntary musical imagery, these tunes often persist for about 30 minutes, typically including [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) rather th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: [https://www.eurekalert.org/news-releases/521894](https://www.eurekalert.org/news-releases/521894)  
+   Link: <a href="https://www.eurekalert.org/news-releases/521894" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/521894</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why some songs get stuck in your head3 Nov 2016 — The opening riff of Moves Like Jagger by Maroon 5, one of the top-named earworm tunes i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf](https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: durham-repository.worktribe.com  
-   Link: [https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery](https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery)  
+   Link: <a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/press/releases/2016/11/earworms](https://www.apa.org/news/press/releases/2016/11/earworms)  
+   Link: <a href="https://www.apa.org/news/press/releases/2016/11/earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2016/11/earworms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationPsychologists identify key characteristics of earworms3 Nov 2016 — “These musically sticky songs seem t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gold.ac.uk  
    Title: scientists find key to writing catchy pop hits  
-   Link: [https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/](https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldsmiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</p></details>
+   Link: <a href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Why catchy songs get stuck in your head (and how to stop it)  
-   Link: [https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/](https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20592043231165661](https://journals.sagepub.com/doi/10.1177/20592043231165661)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043231165661</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: musicscience.net  
    Title: Music & Science Earworms  
-   Link: [https://musicscience.net/research/music-memory/earworms/](https://musicscience.net/research/music-memory/earworms/)  
+   Link: <a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworms - Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Earworm](https://en.wikipedia.org/wiki/Earworm)  
+   Link: <a href="https://en.wikipedia.org/wiki/Earworm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earworm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworma catchy or memorable piece of music or saying that continuously occupies a person&#x27;s mind even after it is no longer being play...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: illustratemagazine.com  
-   Link: [https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/](https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/)  
+   Link: <a href="https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/" target="_blank" rel="noopener noreferrer nofollow">https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Why Certain Songs Get Stuck in Your...20 Sept 2024 — This article will take a deep dive into the science of earworms...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: Study shows repetition in a song is key to involuntary musical imagery  
-   Link: [https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/](https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2023 — Study shows repetition in a song is key to involuntary musical imagery – the phenomenon of getting a song stuck in your head...</p></details>
    Published: April 5, 2023  
 
 17. <a id="endnote-17"></a>
    Source: pure.au.dk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: [https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/](https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/)  
+   Link: <a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — Involuntary musical imagery (INMI or &quot;earworm...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pure.roehampton.ac.uk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: [https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/](https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/)  
+   Link: <a href="https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: philpapers.org  
    Title: Melodic features and song popularity predict involuntary musical  
-   Link: [https://philpapers.org/rec/JAKDAE](https://philpapers.org/rec/JAKDAE)  
+   Link: <a href="https://philpapers.org/rec/JAKDAE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JAKDAE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cbsnews.com  
    Title: psychologists identify why certain songs get stuck in your head  
-   Link: [https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/](https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/)  
+   Link: <a href="https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>earworm tunes in the study — also follows this common [contour](&amp;#123;&amp;#123; &#x27;contour/&#x27; | relative_url &amp;#125;&amp;#125;) pattern. Additionally, earworms typically have an unusual interval structur...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: centaur.reading.ac.uk  
    Title: reading.ac.uk The classification of involuntary musical imagery  
-   Link: [https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf](https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf)  
+   Link: <a href="https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>classification of involuntary musical imagery - CentAURby TI Williams · 2015 · Cited by 80 — We consider the published literature on earw...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm](https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm)  
+   Link: <a href="https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lead to more persistent imagery (Byron &amp; Fowles, 2015; Killingly &amp; Lacherez...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: newswise.com  
    Title: psychologists identify key characteristics of earworms  
-   Link: [https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms](https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms)  
+   Link: <a href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Nov 2016 — The study found that the tunes most likely to get stuck in people&#x27;s heads were those with more common global melodic contour...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: prsformusic.com  
    Title: New study uncovers why some songs become 'earworms'  
-   Link: [https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms](https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 4, 2016 — According to a new academic study, earworms – the songs which get stuck in your head – have a common set of characteri...</p></details>
-   Published: November 4, 2016  
+   Published: November 4, 2016

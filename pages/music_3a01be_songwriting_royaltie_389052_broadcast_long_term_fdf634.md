@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510
 - music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d
 tags:
-- music
+- music-3-a01-be
 - publishing
 - broadcast-income
 keywords:
-- music
+- music-3-a01-be
 - publishing
 - broadcast-income
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A composition can keep earning for years when broadcasters repeatedly use it as a theme, cue, or background track.
 hero_summary: A composition can keep earning for years when broadcasters repeatedly use it as a theme, cue, or background track.
 layout: default
 permalink: /broadcast-income/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /publishing/
 nav_short_title: Broadcast Income
 title: Why Broadcast Use Can Last for Decades
-title_full: Why Broadcast Use Can Last for Decades | Publishing
+title_full: Why Broadcast Use Can Last for Decades
 display_title_short: Broadcast Income
 display_title: Broadcast Income
 heading_title: Why Broadcast Use Can Last for Decades
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Songs Earn Beyond The Recording | Music
+parent_title: How Songs Earn Beyond The Recording
 parent_permalink: /publishing/
 parent_nav_short_title: Publishing
 parent_heading_title: How Songs Earn Beyond The Recording
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When One Sync Deal Creates More Income
 up_link:
   basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -259,7 +259,7 @@ next_link:
   permalink: /mechanical-royalties/
   short_title: Mechanical Royalties
   heading_title: The Hidden Song Royalties Inside Streaming
-date: '2026-06-09 07:06:38 '
+date: '2026-06-11 23:34:44 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_te
 
 ## Introduction
 
-A song does not need to be a chart hit to become a long-term source of songwriting income. In many cases, the most durable royalty streams come from broadcast use. When a composition is repeatedly used as a television theme, radio signature tune, sports intro, news ident, programme cue or recurring [background]({{ 'background/' | relative_url }}) track, each broadcast can generate performance [royalties]({{ 'royalties/' | relative_url }}) for the songwriters and publishers who own the composition. Over years or even decades, thousands of broadcasts can accumulate into a significant income stream. Performing rights organisations such as PRS for Music, ASCAP and BMI license broadcasters and distribute royalties when music is transmitted on television, radio and related media services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> ASCAP Broadcast media has therefore played a distinctive role in music publishing history. While recordings often rise and fall with public taste <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, a theme song attached to a successful programme can remain in circulation for generations, creating an unusually long commercial life for the underlying composition.
-
+A song does not need to be a chart hit to become a long-term source of songwriting income. In many cases, the most durable royalty streams come from broadcast use. When a composition is repeatedly used as a television theme, radio signature tune, sports intro, news ident, programme cue or recurring [background]({{ 'background/' | relative_url }}) track, each broadcast can generate performance [royalties]({{ 'royalties/' | relative_url }}) for the songwriters and publishers who own the composition. Over years or even decades, thousands of broadcasts can accumulate into a significant income stream. Performing rights organisations such as PRS for Music, ASCAP and BMI license broadcasters and distribute royalties when music is transmitted on television, radio and related media services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> ASCAP Broadcast media has therefore played a distinctive role in music publishing history. While recordings often rise and fall with public taste <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, a theme song attached to a successful programme can remain in circulation for generations, creating an unusually long commercial life for the underlying composition.
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-dark.svg" | relative_url }}" alt="Broadcast Income illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Repeated Broadcasts Matter More Than a Single Hit
@@ -282,23 +281,26 @@ The result is a different economic pattern from most commercial recordings. A su
 
 ## Radio and Television Royalty Triggers
 
-Broadcast royalties arise because television and radio transmissions are [public performances]({{ 'public-play/' | relative_url }}) of copyrighted musical works. Broadcasters obtain licences from performing rights organisations, which then distribute income to writers and publishers whose [music]({{ 'music/' | relative_url }}) has been used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+Broadcast royalties arise because television and radio transmissions are public performances of copyrighted musical works. Broadcasters obtain licences from performing rights organisations, which then distribute income to writers and publishers whose music has been used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
 Several common broadcast situations can trigger royalties:
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Opening and closing theme music.
 * News and sports programme signature tunes.
 * Incidental music used between segments.
-* [Background music]({{ 'background/' | relative_url }}) within factual or entertainment programming.
+* Background music within factual or entertainment programming.
 * Production music and library music used repeatedly across episodes.
 * Radio station identifiers and programme themes.
+
+</div>
 
 The crucial point is that royalty entitlement normally follows use of the composition rather than commercial success. A short theme cue heard daily on a widely distributed programme may ultimately earn more than a longer composition that receives only occasional broadcasts.
 
 Historically, this system helped create professional careers for television composers and production-music writers whose names were often unknown to the public but whose works appeared constantly across broadcast schedules.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mByKhL8uwXg" title="ASCAP vs BMI: Most Musicians Pick the Wrong PRO - Here&#x27;s Why?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer">ASCAP vs BMI: Most Musicians Pick the Wrong PRO - Here&#x27;s Why?</a></p><p class="youtube-embed-meta">Channel: Music Money Makeover Show &middot; Views: 21.3K &middot; Uploaded: February 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mByKhL8uwXg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/soaqLQcdcrc" title="Music Royalties Explanation Part 2 - Performance Royalties With Bobby Borg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=soaqLQcdcrc" target="_blank" rel="noopener noreferrer">Music Royalties Explanation Part 2 - Performance Royalties With Bobby Borg</a></p><p class="youtube-embed-meta">Channel: Bobby Borg: Music Business Education &middot; Views: 178 &middot; Uploaded: January 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=soaqLQcdcrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=soaqLQcdcrc">Open on YouTube</a></p></div></div></div>
 
 ## Theme Music and Recurring Cues
 
@@ -308,10 +310,9 @@ When audiences hear the opening notes of a familiar news bulletin, quiz show or 
 
 Recurring cues create a similar effect on a smaller scale. A composer may write short musical elements that appear repeatedly throughout a programme. Individually these cues may be brief, but collectively they can generate substantial numbers of performances over a long period.
 
-Production music libraries have built entire business models around this principle. Library tracks are licensed into documentaries, reality television, sports coverage and factual programming. A cue that becomes a regular editorial tool for broadcasters can continue generating royalty income whenever it is logged and broadcast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">ORFIUMYour Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span>
+Production music libraries have built entire business models around this principle. Library tracks are licensed into documentaries, reality television, sports coverage and factual programming. A cue that becomes a regular editorial tool for broadcasters can continue generating royalty income whenever it is logged and broadcast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span>
 
-This long-tail effect is one reason catalogue ownership has become so valuable within music publishing. The future earnings potential of recurring broadcast use can persist long after the original commission fee has been paid.
-
+This long-tail effect is one reason [catalogue]({{ 'catalogue/' | relative_url }}) ownership has become so valuable within music [publishing]({{ 'publishing/' | relative_url }}). The future earnings potential of recurring broadcast use can persist long after the original commission fee has been paid.
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-2-dark.svg" | relative_url }}" alt="Broadcast Income illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Usage Logs Support Payment
@@ -320,10 +321,10 @@ The ability to earn from broadcast use depends heavily on accurate reporting. Ro
 
 In television, cue sheets are a central tool. A cue sheet records details about the music used within a programme, including titles, writers, publishers, timing information and usage classifications. Broadcasters and production companies submit these records so performing rights organisations can match broadcasts to the correct rights holders. PRS for Music describes cue sheets as the mechanism through which music used in television programmes and films is identified for royalty distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
-Without reliable cue-sheet data, payments may be delayed, misallocated or missed altogether. Industry guidance repeatedly emphasises that cue sheets are essential because they allow collecting societies to identify the correct creators and publishers for broadcast uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">ORFIUMYour Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span> ASCAP Radio operates through a mixture of reporting systems <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, including direct logs, monitored broadcasts, representative sampling and pay-per-play methodologies, depending on the territory and broadcaster involved. PRS for Music notes that radio royalty calculations rely on multiple tracking methods to determine what has been played and how payments should be allocated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+Without reliable cue-sheet data, payments may be delayed, misallocated or missed altogether. Industry guidance repeatedly emphasises that cue sheets are essential because they allow collecting societies to identify the correct creators and publishers for broadcast uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span> ASCAP Radio operates through a mixture of reporting systems <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, including direct logs, monitored broadcasts, representative sampling and pay-per-play methodologies, depending on the territory and broadcaster involved. PRS for Music notes that radio royalty calculations rely on multiple tracking methods to determine what has been played and how payments should be allocated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer">Link</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mByKhL8uwXg">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-dark.svg" | relative_url }}" alt="Broadcast Income illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Broadcast Income Can Outlive the Original Programme
 
 One of the most distinctive features of broadcast royalty income is its ability to survive beyond the initial life of a programme.
@@ -334,20 +335,14 @@ This means a composer's financial relationship with a programme often extends we
 
 The underlying composition effectively becomes a reusable intellectual property asset. As long as broadcasters continue transmitting the programme and usage is properly documented, the music can remain economically active.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/soaqLQcdcrc" title="Music Royalties Explanation Part 2 - Performance Royalties With Bobby Borg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=soaqLQcdcrc" target="_blank" rel="noopener noreferrer">Music Royalties Explanation Part 2 - Performance Royalties With Bobby Borg</a></p><p class="youtube-embed-meta">Channel: Bobby Borg: Music Business Education &middot; Views: 178 &middot; Uploaded: January 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=soaqLQcdcrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=soaqLQcdcrc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-dark.svg" | relative_url }}" alt="Broadcast Income illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Broadcast Themes Remain Important in Publishing
 
 The broadcast landscape has changed dramatically since the peak era of network television and national radio dominance, yet broadcast use remains a significant part of songwriting income. Major collecting societies continue [licensing]({{ 'licensing/' | relative_url }}) television and radio broadcasters and distributing royalties derived from those uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
-For songwriters and composers, broadcast themes illustrate one of the central ideas of music publishing: a composition can have a commercial life that extends far beyond its original recording. A memorable theme or regularly used cue may become embedded in a programme, repeated for years, documented through usage logs and paid through royalty systems that were designed precisely to reward ongoing public performance.
+For songwriters and composers, broadcast themes illustrate one of the central ideas of music publishing: a composition can have a commercial life that extends far beyond its original [recording]({{ 'recording/' | relative_url }}). A memorable theme or regularly used cue may become embedded in a programme, repeated for years, documented through usage logs and paid through royalty systems that were designed precisely to reward ongoing public performance.
 
 That combination of repetition, documentation and long-term reuse is why broadcast music has historically produced some of the most enduring royalty streams in the songwriting business. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SMrPF2r7bl8" title="How Much Money Do Film, TV and Game Composers Really Earn?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SMrPF2r7bl8" target="_blank" rel="noopener noreferrer">How Much Money Do Film, TV and Game Composers Really Earn?</a></p><p class="youtube-embed-meta">Channel: Modern Media Composer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SMrPF2r7bl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SMrPF2r7bl8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,152 +740,152 @@ That combination of repetition, documentation and long-term reuse is why broadca
 
 1. <a id="endnote-1"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing](https://www.ascap.com/help/ascap-licensing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</p></details>
+   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: orfium.com  
-   Link: [https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/](https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ORFIUMYour Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</p></details>
+   Link: <a href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment/payment/identifying](https://www.ascap.com/help/royalties-and-payment/payment/identifying)  
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/identifying" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/identifying</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>am, including the writers and publishers, their respective royalty...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help](https://www.ascap.com/help)  
+   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). If y...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment](https://www.ascap.com/help/royalties-and-payment)  
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentRemember, ASCAP can only pay you royalties if your music appears in our performance surveys. So play your songs live...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/](https://www.bmi.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI | BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
+   Link: <a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bmi.com  
    Title: U.S. Television Royalties  
-   Link: [https://www.bmi.com/creators/royalty/us_television_royalties](https://www.bmi.com/creators/royalty/us_television_royalties)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMIEach year, BMI receives royalties from the U.S. Copyright Office for music performed on distant-signal broadcast television stations c...</p></details>
+   Link: <a href="https://www.bmi.com/creators/royalty/us_television_royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty/us_television_royalties</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Each year, BMI receives royalties from the U.S. Copyright Office for music performed on distant-signal broadcast television stations c...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/creators/detail/what_is_a_cue_sheet](https://www.bmi.com/creators/detail/what_is_a_cue_sheet)  
+   Link: <a href="https://www.bmi.com/creators/detail/what_is_a_cue_sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/detail/what_is_a_cue_sheet</a>  
 
 9. <a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/tv-royalties](https://www.prsformusic.com/royalties/tv-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/tv-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in br...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cyber.harvard.edu  
-   Link: [https://cyber.harvard.edu/is02/readings/ascap.html](https://cyber.harvard.edu/is02/readings/ascap.html)  
+   Link: <a href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow">https://cyber.harvard.edu/is02/readings/ascap.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/radio-royalties](https://www.prsformusic.com/royalties/radio-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/radio-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/radio-royalties</a>  
 
 13. <a id="endnote-13"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/search-cue-sheets](https://www.prsformusic.com/royalties/search-cue-sheets)  
+   Link: <a href="https://www.prsformusic.com/royalties/search-cue-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/search-cue-sheets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCinema royaltiesCue sheets show details of all the music used within a TV programme or film, and are usually supplied to us...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012](https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic guide to cue sheetsCue sheets are crucial for the accurate – and timely – distribution of royalties to our members. This basic guid...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23](https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Distribution Policy Guide ContentsIncome from the licence fee enables the BBC to broadcast national radio stations offering music and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/search?query=cue+sheet](https://www.prsformusic.com/search?query=cue+sheet)  
+   Link: <a href="https://www.prsformusic.com/search?query=cue+sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/search?query=cue+sheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SearchA guide to royalties generated from cinemas for members of PRS for Music. docx. S4C IPC Terms and Agreement 2025. 132kb. Download.R...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/search?page=5&query=cue+sheet](https://www.prsformusic.com/search?page=5&query=cue+sheet)  
+   Link: <a href="https://www.prsformusic.com/search?page=5&amp;query=cue+sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/search?page=5&amp;query=cue+sheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SearchMember royalties | PRS for Music. Get all the information on your royalties including where they come from, the distribution schedu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties](https://www.prsformusic.com/royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Member royaltiesExpecting a royalty payment for work that&#x27;s been used in a film or TV programme? Check our cue sheets to see if it&#x27;s incl...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: ASCA P vs BMI: Most Musicians Pick the Wrong PRO  
-   Link: [https://www.youtube.com/watch?v=mByKhL8uwXg](https://www.youtube.com/watch?v=mByKhL8uwXg)  
+   Link: <a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mByKhL8uwXg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP vs BMI: Most Musicians Pick the Wrong PRO - Here&#x27;s...ASCAP and BMI don&#x27;t just pay you differently they are designed to reward two...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ascapexperience.com  
-   Link: [https://ascapexperience.com/](https://ascapexperience.com/)  
+   Link: <a href="https://ascapexperience.com/" target="_blank" rel="noopener noreferrer nofollow">https://ascapexperience.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Experience 2026 | Where music creators connect.The ASCAP Experience is a one-of-a-kind conference that brings together the vibrant...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/33202815](https://www.cliffsnotes.com/study-notes/33202815)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/33202815" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33202815</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing Pre-Existing Compositions for TV Theme SongsThe license agreement is normally a life of copyright all media excluding theatrica...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: prsguitars.com  
-   Link: [https://prsguitars.com/](https://prsguitars.com/)  
+   Link: <a href="https://prsguitars.com/" target="_blank" rel="noopener noreferrer nofollow">https://prsguitars.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Guitars | Electric and Acoustic Guitars, Basses, Amplifiers...Maryland-based Manufacturer of Electric Guitars, Acoustic Guitars, Bas...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: downloads.bbc.co.uk  
-   Link: [https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf](https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf)  
+   Link: <a href="https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music in the BBC Cue SheetPRS collects and distributes payments for composers, songwriters and music publishers. The PRS Search in Silver...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: assets-corporate.channel4.com  
-   Link: [https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf](https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf)  
+   Link: <a href="https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>channel4.com1 C4 Music Rights and Clearances GuideOnce approved you will need to submit your cue sheet/s to &#x27;PRS for Music&#x27; at tvprogramm...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/ipday/2015/creating_value_from_music](https://www.wipo.int/en/web/ipday/2015/creating_value_from_music)  
+   Link: <a href="https://www.wipo.int/en/web/ipday/2015/creating_value_from_music" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/ipday/2015/creating_value_from_music</a>  
 
 26. <a id="endnote-26"></a>
    Source: mcpsproductionmusic.co.uk  
-   Link: [https://mcpsproductionmusic.co.uk/reporting/](https://mcpsproductionmusic.co.uk/reporting/)  
+   Link: <a href="https://mcpsproductionmusic.co.uk/reporting/" target="_blank" rel="noopener noreferrer nofollow">https://mcpsproductionmusic.co.uk/reporting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicReportingBroadcast Blankets &amp; TV Programmes... If you are making programmes under one of our television licences, you can download...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: tvmlc.com  
-   Link: [https://www.tvmlc.com/pros](https://www.tvmlc.com/pros)  
+   Link: <a href="https://www.tvmlc.com/pros" target="_blank" rel="noopener noreferrer nofollow">https://www.tvmlc.com/pros</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROs | Empower Your BroadcastThe ASCAP licenses cover, on a through-to-the-viewer basis, performances of ASCAP music in programming that...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: talkbass.com  
-   Link: [https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/](https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/)  
+   Link: <a href="https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/" target="_blank" rel="noopener noreferrer nofollow">https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What kind of songwriting/publishing royalties can I expect...14 Nov 2008 — We received a royalty statement from BMI for one of the clien...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: aristake.com  
-   Link: [https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/](https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/)  
+   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — Register with your country&#x27;s neighbouring rights organization to collect sound recording...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: trolley.com  
    Title: understanding payouts how are performance royalties calculated and reported  
-   Link: [https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/](https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/)  
+   Link: <a href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow">https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Are Performance Royalties Calculated and Reported?Feb 22, 2024 — This guide serves as an entry point for those looking to understand...</p></details>

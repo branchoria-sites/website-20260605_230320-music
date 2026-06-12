@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-rhythm-body-movement/
 description: Focused pages that expand on Rhythm.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_rhythm_body_movement_c121e4
-parent_title: Rhythm | Music
+parent_title: Rhythm
 parent_nav_short_title: Rhythm
 parent_permalink: /rhythm/
 ---

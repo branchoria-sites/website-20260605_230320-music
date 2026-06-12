@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - timbre
 keywords:
-- music
+- music-3-a01-be
 - timbre
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Timbre is why a voice, guitar, synth or drum can feel intimate, rough, bright, artificial or alive.
 hero_summary: Timbre is why a voice, guitar, synth or drum can feel intimate, rough, bright, artificial or alive.
 layout: default
 permalink: /timbre/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Timbre
 title: Why The Same Note Can Feel Different
-title_full: Why The Same Note Can Feel Different | Music
+title_full: Why The Same Note Can Feel Different
 display_title_short: Timbre
 display_title: Timbre
 heading_title: Why The Same Note Can Feel Different
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 next_link:
   basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
-date: '2026-06-09 06:28:17 '
+date: '2026-06-11 23:15:23 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17-overview-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17-overview.webp
@@ -501,59 +501,49 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17-overview-social.j
 
 ## Introduction
 
-When we hear a singer’s voice, a violin’s rich resonance, or even a simple hum on the radio, one of the most striking aspects isn’t *what* note is being sung or played but *how* it sounds. That distinct character — sometimes described as warm, bright, nasal, breathy, harsh or intimate — comes from **timbre**. Even when two sounds share the same pitch and loudness, timbre is the attribute that lets us instantly tell a voice from a flute or a cello from a piano. It’s also central to why human voices feel expressive, personal and alive in [music]({{ 'music/' | relative_url }}) and speech. This article explains **why timbre makes sound feel human**, focusing on what timbre *is*, how our auditory system processes it, and how production choices shape its human qualities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span></span></span>
-
+When we hear a singer’s voice, a violin’s rich resonance, or even a simple hum on the radio, one of the most striking aspects isn’t *what* note is being sung or played but *how* it sounds. That distinct character — sometimes described as warm, bright, nasal, breathy, harsh or intimate — comes from **timbre**. Even when two sounds share the same pitch and loudness, timbre is the attribute that lets us instantly tell a voice from a flute or a cello from a piano. It’s also central to why human voices feel expressive, personal and alive in music and speech. This article explains **why timbre makes sound feel human**, focusing on what timbre *is*, how our auditory system processes it, and how production choices shape its human qualities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-overview.webp" | relative_url }}" alt="Overview image for Timbre" loading="eager" decoding="sync" fetchpriority="high">
 ## What Timbre Is and How It Shapes Identity
 
-At a basic level, timbre describes all of the aspects of a sound that aren’t pitch (the fundamental frequency) or loudness (amplitude). It’s sometimes called tone colour because it adds ‘colour’ to sound in the way pigments add colour to light. Physically, timbre arises from the **complex mix of frequencies** — the fundamental tone plus **overtones or harmonics** — and how they change over time, along with transient characteristics like attack and decay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span></span></span>
+At a basic level, timbre describes all of the aspects of a sound that aren’t pitch (the fundamental frequency) or loudness (amplitude). It’s sometimes called tone colour because it adds ‘colour’ to sound in the way pigments add colour to light. Physically, timbre arises from the **complex mix of frequencies** — the fundamental tone plus **overtones or harmonics** — and how they change over time, along with transient characteristics like attack and decay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span></span></span>
 
 Where two sounds might both play the same pitch at the same volume, the **relative strength and timing of these additional frequencies differ** because of how an instrument or voice produces sound. A flute’s resonant shape and airflow emphasise a different set of overtones than a guitar’s vibrating string and body. That unique spectral fingerprint is what our brains use to label a sound as a particular instrument or human voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same principle applies to voices: human vocal tracts filter and amplify harmonics in species-specific ways. These resonance patterns — known as formants in speech science — are shaped by the tongue, lips, throat and mouth, giving each speaker a distinctive timbre that contributes to our ability to recognise familiar voices instantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
-
+The same principle applies to voices: human vocal tracts filter and amplify harmonics in species-specific ways. These resonance patterns — known as formants in speech science — are shaped by the tongue, lips, throat and mouth, giving each speaker a distinctive timbre that contributes to our ability to recognise familiar voices instantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">November 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-1-dark.svg" | relative_url }}" alt="Timbre illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Voice, Instrument and Texture
 
-**Human voices** are among the richest sources of timbral information. Unlike most instruments, voices combine sustained harmonic structure with rapid, dynamic changes when we articulate vowels and consonants. The way the spectral content evolves over time — for example, the quick onset of breathiness or the shaping of formant peaks when pronouncing different vowels — gives speech its expressive quality. This variety in timbre carries emotional cues as well, influencing how we interpret a voice as warm, tense or friendly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35522247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedContributions of fundamental frequency and timbre to vocal emotion perception and their electrophysiological correlates - PubMedDec...</span></span></span>
+**Human voices** are among the richest sources of timbral information. Unlike most instruments, voices combine sustained harmonic structure with rapid, dynamic changes when we articulate vowels and consonants. The way the spectral content evolves over time — for example, the quick onset of breathiness or the shaping of formant peaks when pronouncing different vowels — gives speech its expressive quality. This variety in timbre carries emotional cues as well, influencing how we interpret a voice as warm, tense or friendly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35522247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Contributions of fundamental frequency and timbre to vocal emotion perception and their electrophysiological correlates - PubMedDec...</span></span></span>
 
-Other musical instruments also produce timbre through their [physical]({{ 'physical/' | relative_url }}) construction. In a violin, for example, the shape of the body, the material of the strings, and the way the bow contacts the strings all influence how energy is distributed across harmonics and how fast energy decays after a note is struck. These spectral and temporal features are why a violin feels more vibrant and human-like in expressivity compared with a purely synthesized sine tone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Workbench/From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts3.7: Quality of Sound (Timbre</span><span class="citation-popover-snippet">Humanities LibreTexts3.7: Quality of Sound (Timbre) - Humanities LibreTexts...</span></span></span>
+Other musical instruments also produce timbre through their [physical]({{ 'physical/' | relative_url }}) construction. In a violin, for example, the shape of the body, the material of the strings, and the way the bow contacts the strings all influence how energy is distributed across harmonics and how fast energy decays after a note is struck. These spectral and temporal features are why a violin feels more vibrant and human-like in expressivity compared with a purely synthesized sine tone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Workbench/From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts3.7: Quality of Sound (Timbre</span><span class="citation-popover-snippet">ities LibreTexts3.7: Quality of Sound (Timbre) - Humanities LibreTexts...</span></span></span>
 
 Importantly, timbre isn’t static: **transient sounds**, like the initial attack when a note is plucked or sung, carry information our auditory system uses to quickly identify a sound’s source. Research suggests that we can perceive timbral differences rapidly — within tens of milliseconds — because the ear and brain extract these complex acoustic features almost instantly as part of everyday listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-title">Hyper Physics Sound Quality or Timbre</span><span class="citation-popover-snippet">Hyper Physics Sound Quality or Timbre</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-2-dark.svg" | relative_url }}" alt="Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Production Choices and Sonic Identity
 
-In both acoustic performance and electronic production, **decisions about timbre shape how ‘human’ a sound feels**. Acoustic instruments naturally produce a rich array of harmonics and subtle temporal contours because of their physical mechanisms: vibrating strings, air columns, or resonant bodies. This complexity is what listeners often describe intuitively as warmth or presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span></span></span>
+In both acoustic performance and electronic production, **decisions about timbre shape how ‘human’ a sound feels**. Acoustic instruments naturally produce a rich array of harmonics and subtle temporal contours because of their physical mechanisms: vibrating strings, air columns, or resonant bodies. This complexity is what listeners often describe intuitively as warmth or presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span></span></span>
 
-In electronic and synthetic sounds, creators often manipulate harmonic content and envelope shape deliberately to evoke human-like qualities. For example, adding controlled noise, modulating harmonic balance over time, or using filters to mimic [vocal formants]({{ 'vocal-formants/' | relative_url }}) can make a synthesised pad or lead feel more organic. These techniques rely on shaping timbre in ways that mimic patterns our auditory system associates with natural, expressive production. Because listeners have evolved with these patterns through speech and acoustic music exposure, such timbral cues help bridge the gap between artificial and human sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers | Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
+In electronic and synthetic sounds, creators often manipulate harmonic content and envelope shape deliberately to evoke human-like qualities. For example, adding controlled noise, modulating harmonic balance over time, or using filters to mimic [vocal formants]({{ 'vocal-formants/' | relative_url }}) can make a synthesised pad or lead feel more organic. These techniques rely on shaping timbre in ways that mimic patterns our auditory system associates with natural, expressive production. Because listeners have evolved with these patterns through speech and acoustic music exposure, such timbral cues help bridge the gap between artificial and human sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-2-dark.svg" | relative_url }}" alt="Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Neural Processing: How the Brain Interprets Timbre
 
-The perceptual significance of timbre is not just physical; there’s a clear biological basis for how we experience it. Neural research shows that the auditory system represents spectral and temporal features together, allowing listeners to distinguish sound sources independent of pitch or loudness. In the auditory cortex, populations of neurons respond selectively to timbral differences, effectively encoding sound identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35522247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedContributions of fundamental frequency and timbre to vocal emotion perception and their electrophysiological correlates - PubMedDec...</span></span></span>
+The perceptual significance of timbre is not just physical; there’s a clear biological basis for how we experience it. Neural research shows that the auditory system represents spectral and temporal features together, allowing listeners to distinguish sound sources independent of pitch or loudness. In the auditory cortex, populations of neurons respond selectively to timbral differences, effectively encoding sound identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35522247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Contributions of fundamental frequency and timbre to vocal emotion perception and their electrophysiological correlates - PubMedDec...</span></span></span>
 
-This neural processing also explains why we can recognise a voice or instrument even when it changes pitch or speed: the brain extracts patterns of relative spectral energy and temporal evolution that remain consistent across such variations. Studies on timbre adaptation further suggest that prolonged exposure to a given timbre can shift our perception of ambiguous sounds, much as visual adaptation can affect face perception, highlighting the specialised and adaptive nature of timbre processing in perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-018-32018-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Rapid Adaptation to the Timbre of Natural Sounds | Scientific Reports</span><span class="citation-popover-snippet">NatureRapid Adaptation to the Timbre of Natural Sounds | Scientific ReportsSeptember 14, 2018...</span><span class="citation-popover-meta">Published: September 14, 2018</span></span></span>
-
+This neural processing also explains why we can recognise a voice or instrument even when it changes pitch or speed: the brain extracts patterns of relative spectral energy and temporal evolution that remain consistent across such variations. Studies on timbre adaptation further suggest that prolonged exposure to a given timbre can shift our perception of ambiguous sounds, much as visual adaptation can affect face perception, highlighting the specialised and adaptive nature of timbre processing in perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-018-32018-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Rapid Adaptation to the Timbre of Natural Sounds &#124; Scientific Reports</span><span class="citation-popover-snippet">Rapid Adaptation to the Timbre of Natural Sounds &#124; Scientific ReportsSeptember 14, 2018...</span><span class="citation-popover-meta">Published: September 14, 2018</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-3-dark.svg" | relative_url }}" alt="Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Synthetic Sounds and Human Cues
 
-In modern music production, [synthetic timbres]({{ 'synthetic-timbre/' | relative_url }}) are pervasive. Yet even highly artificial sounds borrow from the acoustic world’s timbral cues to feel engaging or expressive. Techniques like amplitude modulation, filtering resonances or replicating the timing characteristics of human vocal gestures provide listeners with familiar patterns that the auditory system readily interprets as *intentional* or *alive*. When such cues are missing or unnaturally static, sounds can feel *flat* or *mechanical* because they lack the spectral richness and temporal nuance our brains associate with natural sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers | Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
+In modern music production, [synthetic timbres]({{ 'synthetic-timbre/' | relative_url }}) are pervasive. Yet even highly artificial sounds borrow from the acoustic world’s timbral cues to feel engaging or expressive. Techniques like amplitude modulation, filtering resonances or replicating the timing characteristics of human vocal gestures provide listeners with familiar patterns that the auditory system readily interprets as *intentional* or *alive*. When such cues are missing or unnaturally static, sounds can feel *flat* or *mechanical* because they lack the spectral richness and temporal nuance our brains associate with natural sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
 
-Thus, timbre serves as a bridge between physics and perception: it’s not just the presence of extra frequencies that matters, but how those frequency patterns correlate with real-world sound sources we have learned to interpret throughout life. That’s why a human voice carries a strong sense of presence and individuality, and why instruments — even when playing the same note — evoke different emotional and perceptual qualities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xc34n-l4vd4" title="What is Timbre? | Why people interpret sounds differently" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xc34n-l4vd4" target="_blank" rel="noopener noreferrer">What is Timbre? | Why people interpret sounds differently</a></p><p class="youtube-embed-meta">Channel: University of Oregon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xc34n-l4vd4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xc34n-l4vd4">Open on YouTube</a></p></div></div></div>
+Thus, timbre serves as a bridge between physics and perception: it’s not just the presence of extra frequencies that matters, but how those frequency patterns correlate with real-world sound sources we have learned to interpret throughout life. That’s why a human voice carries a strong sense of presence and individuality, and why instruments — even when playing the same note — evoke different emotional and perceptual qualities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">November 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
 
 ## Summary
 
-Timbre makes sound feel human by providing a complex, multi-dimensional spectral and temporal signature that the auditory system uses to identify sound sources, distinguish among voices and instruments, and extract expressive cues. Rooted in physical production mechanisms and interpreted through neural processing, timbre transforms simple energy patterns into rich perceptual experiences. Through these mechanisms, listeners can recognise not just *what* a sound is but *who* or *what kind of source* produced it — the essence of human-like sound identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre | Frequency, Harmonics &amp; Waveforms | Britannica</span></span></span>
+Timbre makes sound feel human by providing a complex, multi-dimensional spectral and temporal signature that the auditory system uses to identify sound sources, distinguish among voices and instruments, and extract expressive cues. Rooted in physical production mechanisms and interpreted through neural processing, timbre transforms simple energy patterns into rich perceptual experiences. Through these mechanisms, listeners can recognise not just *what* a sound is but *who* or *what kind of source* produced it — the essence of human-like sound identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Timbre &#124; Frequency, Harmonics &amp; Waveforms &#124; Britannica</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -672,15 +662,15 @@ Timbre makes sound feel human by providing a complex, multi-dimensional spectral
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Album Cover Pin Badges | Design Your Own Cutomised Option | Music Band Pins |"><img src="{{ '/assets/images/marketplace-covers/c34cc061a0c42810b78b.jpg' | relative_url }}" alt="Listing image for Album Cover Pin Badges | Design Your Own Cutomised Option | Music Band Pins |" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RUN DMC Vintage 1988 RUSH PRODUCTIONS Poster NEW Dead Stock Rolled 59"><img src="https://i.ebayimg.com/images/g/nyUAAeSwSeRp2nxr/s-l225.jpg" alt="Listing image for RUN DMC Vintage 1988 RUSH PRODUCTIONS Poster NEW Dead Stock Rolled 59" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Album Cover Pin Badges | Design Your Own Cutomised Option | Music Band Pins |</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">RUN DMC Vintage 1988 RUSH PRODUCTIONS Poster NEW Dead Stock Rolled 59</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -688,15 +678,15 @@ Timbre makes sound feel human by providing a complex, multi-dimensional spectral
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 x Alternative 00s Bands BUTTON PIN BADGES 25mm 1 INCH | Indie Rock Pop Music"><img src="{{ '/assets/images/marketplace-covers/003028e7ce3022ee9195.jpg' | relative_url }}" alt="Listing image for 20 x Alternative 00s Bands BUTTON PIN BADGES 25mm 1 INCH | Indie Rock Pop Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychedelic Screenprint Poster Orig LP Tape Twenty One Production Artwork 1982"><img src="https://i.ebayimg.com/images/g/HXkAAeSwlfxpKYZB/s-l225.jpg" alt="Listing image for Psychedelic Screenprint Poster Orig LP Tape Twenty One Production Artwork 1982" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">20 x Alternative 00s Bands BUTTON PIN BADGES 25mm 1 INCH | Indie Rock Pop Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">Psychedelic Screenprint Poster Orig LP Tape Twenty One Production Artwork 1982</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -704,15 +694,15 @@ Timbre makes sound feel human by providing a complex, multi-dimensional spectral
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PICK YOUR PIN BADGES 1 inch / 25mm - Buttons Unique Designs SciFi Music Retro"><img src="{{ '/assets/images/marketplace-covers/e6ccc0208da17f35b611.jpg' | relative_url }}" alt="Listing image for PICK YOUR PIN BADGES 1 inch / 25mm - Buttons Unique Designs SciFi Music Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dio Black Sabbath Poster Original Vintage 33&quot;x23&quot; Niji Productions Circa 1983"><img src="https://i.ebayimg.com/images/g/NNgAAeSwUjNptZdK/s-l225.jpg" alt="Listing image for Dio Black Sabbath Poster Original Vintage 33&quot;x23&quot; Niji Productions Circa 1983" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">PICK YOUR PIN BADGES 1 inch / 25mm - Buttons Unique Designs SciFi Music Retro</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">Dio Black Sabbath Poster Original Vintage 33&quot;x23&quot; Niji Productions Circa 1983</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -720,15 +710,15 @@ Timbre makes sound feel human by providing a complex, multi-dimensional spectral
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Radiohead music band pin badge metal enamel tie pin"><img src="{{ '/assets/images/marketplace-covers/8196eff3c0ba1da13a4f.jpg' | relative_url }}" alt="Listing image for New Radiohead music band pin badge metal enamel tie pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRINCE POSTER Live 1985 Prn Productions 2-Sided Glossy 28cm x 22cm USA PROMO"><img src="https://i.ebayimg.com/images/g/RsEAAeSwQXFqKASv/s-l225.jpg" alt="Listing image for PRINCE POSTER Live 1985 Prn Productions 2-Sided Glossy 28cm x 22cm USA PROMO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">New Radiohead music band pin badge metal enamel tie pin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">PRINCE POSTER Live 1985 Prn Productions 2-Sided Glossy 28cm x 22cm USA PROMO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -736,7 +726,7 @@ Timbre makes sound feel human by providing a complex, multi-dimensional spectral
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timbre-why-the-same-note-can-feel-different-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="timbre-why-the-same-note-can-feel-different-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-same-note-can-feel-different-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="why-the-same-note-can-feel-different-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -952,147 +942,147 @@ Timbre makes sound feel human by providing a complex, multi-dimensional spectral
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Timbre | Frequency, Harmonics & Waveforms | Britannica  
-   Link: [https://www.britannica.com/science/timbre](https://www.britannica.com/science/timbre)  
+   Link: <a href="https://www.britannica.com/science/timbre" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/timbre</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Timbre](https://en.wikipedia.org/wiki/Timbre)  
+   Link: <a href="https://en.wikipedia.org/wiki/Timbre" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timbre</a>  
 
 3. <a id="endnote-3"></a>
    Source: human.libretexts.org  
    Title: Humanities Libre Texts3.7: Quality of Sound (Timbre)  
-   Link: [https://human.libretexts.org/Workbench/From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29](https://human.libretexts.org/Workbench/From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanities LibreTexts3.7: Quality of Sound (Timbre) - Humanities LibreTexts...</p></details>
+   Link: <a href="https://human.libretexts.org/Workbench/From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Workbench/From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.7: Quality of Sound (Timbre) - Humanities LibreTexts...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNeural and behavioral investigations into timbre perception  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCNovember 13, 2013...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 13, 2013...</p></details>
    Published: November 13, 2013  
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
    Title: Rapid Adaptation to the Timbre of Natural Sounds | Scientific Reports  
-   Link: [https://www.nature.com/articles/s41598-018-32018-9](https://www.nature.com/articles/s41598-018-32018-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureRapid Adaptation to the Timbre of Natural Sounds | Scientific ReportsSeptember 14, 2018...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-018-32018-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-018-32018-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Adaptation to the Timbre of Natural Sounds | Scientific ReportsSeptember 14, 2018...</p></details>
    Published: September 14, 2018  
 
 6. <a id="endnote-6"></a>
    Source: human.libretexts.org  
    Title: org3.7: Quality of Sound (Timbre)  
-   Link: [https://human.libretexts.org/Courses/Pasadena_City_College/Understanding_Sound_From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29](https://human.libretexts.org/Courses/Pasadena_City_College/Understanding_Sound_From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29)  
+   Link: <a href="https://human.libretexts.org/Courses/Pasadena_City_College/Understanding_Sound_From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/Pasadena_City_College/Understanding_Sound_From_Ear_to_Engineer/03%3A_Psychoacoustics/3.07%3A_Quality_of_Sound_%28Timbre%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last updated QUALITY OF SOUND (TIMBRE) Timbre is the quality or color of a sound that makes one source distinct from another, even when p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: phys.libretexts.org  
    Title: org2.2: What drives perception  
-   Link: [https://phys.libretexts.org/Bookshelves/Waves_and_Acoustics/Understanding_Sound_%28Abbot%29/02%3A_Perception_of_sound/2.02%3A_What_drives_perception](https://phys.libretexts.org/Bookshelves/Waves_and_Acoustics/Understanding_Sound_%28Abbot%29/02%3A_Perception_of_sound/2.02%3A_What_drives_perception)  
+   Link: <a href="https://phys.libretexts.org/Bookshelves/Waves_and_Acoustics/Understanding_Sound_%28Abbot%29/02%3A_Perception_of_sound/2.02%3A_What_drives_perception" target="_blank" rel="noopener noreferrer nofollow">https://phys.libretexts.org/Bookshelves/Waves_and_Acoustics/Understanding_Sound_%28Abbot%29/02%3A_Perception_of_sound/2.02%3A_What_drives_perception</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last updated 2. Save as PDF * Page ID 134558 * Image: David Abbott * David Abbott * Buffalo State College \(\newcommand{\vecs}[1]{\overs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35522247/](https://pubmed.ncbi.nlm.nih.gov/35522247/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedContributions of fundamental frequency and timbre to vocal emotion perception and their electrophysiological correlates - PubMedDec...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35522247/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35522247/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Contributions of fundamental frequency and timbre to vocal emotion perception and their electrophysiological correlates - PubMedDec...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
    Title: Hyper Physics Sound Quality or Timbre  
-   Link: [https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html](https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html)  
+   Link: <a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.869475/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.869475/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.869475/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.869475/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | A Review of Research on the Neurocognition for Timbre PerceptionMarch 29, 2022...</p></details>
    Published: March 29, 2022  
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Music in our ears: the biological bases of musical timbre perception  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23133363/](https://pubmed.ncbi.nlm.nih.gov/23133363/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMusic in our ears: the biological bases of musical timbre perception - PubMedNovember 1, 2012...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23133363/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23133363/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music in our ears: the biological bases of musical timbre perception - PubMedNovember 1, 2012...</p></details>
    Published: November 1, 2012  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers | Neural and behavioral investigations into timbre perception  
-   Link: [https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full)  
+   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) Published in Frontiers in Systems Neuroscien...</p></details>
    Published: November 2013  
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
    Title: Frontiers | Neural and behavioral investigations into timbre perception  
-   Link: [https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract](https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract)  
+   Link: <a href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) This article is part of the Research Topic T...</p></details>
    Published: November 2013  
 
 14. <a id="endnote-14"></a>
    Source: pressbooks.umn.edu  
-   Link: [https://pressbooks.umn.edu/sensationandperception/chapter/timbre/](https://pressbooks.umn.edu/sensationandperception/chapter/timbre/)  
+   Link: <a href="https://pressbooks.umn.edu/sensationandperception/chapter/timbre/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.umn.edu/sensationandperception/chapter/timbre/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Be able t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: [https://hyperphysics.phy-astr.gsu.edu/hbasees/Sound/timbre.html](https://hyperphysics.phy-astr.gsu.edu/hbasees/Sound/timbre.html)  
+   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbasees/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbasees/Sound/timbre.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La &quot;calidad&quot; del sonido o &quot;timbre&quot;, describe aquellas características del sonido que permiten al oído humano, disti...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2606789/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2606789/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2606789/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2606789/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>auditory processes involved in the analysis of speech sounds - PMCMarch 12, 2008 — The perception of timbre and distinctions in quality b...</p></details>
    Published: March 12, 2008  
 
 17. <a id="endnote-17"></a>
    Source: discovery.ucl.ac.uk  
    Title: ucl.ac.uk Neural and behavioral investigations into timbre perception  
-   Link: [https://discovery.ucl.ac.uk/1423167/](https://discovery.ucl.ac.uk/1423167/)  
+   Link: <a href="https://discovery.ucl.ac.uk/1423167/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1423167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryNEURAL AND BEHAVIORAL INVESTIGATIONS INTO TIMBRE PERCEPTION. Town, SM; Bizley, JK; (2013) Neural and behavioral investigatio...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: masterclass.com  
    Title: Guide to Timbre in Music: 7 Ways to Describe Timbre  
-   Link: [https://www.masterclass.com/articles/guide-to-timbre-in-music](https://www.masterclass.com/articles/guide-to-timbre-in-music)  
+   Link: <a href="https://www.masterclass.com/articles/guide-to-timbre-in-music" target="_blank" rel="noopener noreferrer nofollow">https://www.masterclass.com/articles/guide-to-timbre-in-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 - MasterClassJune 7, 2021 — GUIDE TO TIMBRE IN MUSIC: 7 WAYS TO DESCRIBE TIMBRE Written by MasterClass Last updated: Jun 7, 2021 • 3...</p></details>
    Published: June 7, 2021  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3486808/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3486808/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3486808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3486808/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Nov 1;8(11):e1002759. doi: 10.1371/journal.pcbi.1002759 MUSIC IN OUR EARS: THE BIOLOGICAL BASES OF MUSICAL TIMBRE PERCEPTION Kailash...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10071-021-01567-4](https://link.springer.com/article/10.1007/s10071-021-01567-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10071-021-01567-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10071-021-01567-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dogs (Canis lupus familiaris) are sensitive to the correlation between pitch and timbre in human speech | Animal Cognition | Springer Nat...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/book/10.1007/978-3-030-14832-4](https://link.springer.com/book/10.1007/978-3-030-14832-4)  
+   Link: <a href="https://link.springer.com/book/10.1007/978-3-030-14832-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/book/10.1007/978-3-030-14832-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comTimbre: Acoustics, Perception, and Cognition | Springer Nature LinkMay 7, 2019 — TIMBRE: ACOUSTICS, PERCEPTION, AND COGNITION...</p></details>
    Published: May 7, 2019  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Science of the Human Voice  
-   Link: [https://www.youtube.com/watch?v=gT8d35Tx34k](https://www.youtube.com/watch?v=gT8d35Tx34k)  
+   Link: <a href="https://www.youtube.com/watch?v=gT8d35Tx34k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT8d35Tx34k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Instruments Get Their Unique Sound...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Instruments Get Their Unique Sound  
-   Link: [https://www.youtube.com/watch?v=hJ3yG1gH8-g](https://www.youtube.com/watch?v=hJ3yG1gH8-g)  
+   Link: <a href="https://www.youtube.com/watch?v=hJ3yG1gH8-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hJ3yG1gH8-g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Recognize Voices...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Why We Recognize Voices  
-   Link: [https://www.youtube.com/watch?v=b4X-iH7m9yY](https://www.youtube.com/watch?v=b4X-iH7m9yY)  
+   Link: <a href="https://www.youtube.com/watch?v=b4X-iH7m9yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b4X-iH7m9yY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics of Musical Overtones...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Physics of Musical Overtones  
-   Link: [https://www.youtube.com/watch?v=fPqCl9J1uWc](https://www.youtube.com/watch?v=fPqCl9J1uWc)  
+   Link: <a href="https://www.youtube.com/watch?v=fPqCl9J1uWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fPqCl9J1uWc</a>

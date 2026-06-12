@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e
 - music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca
 tags:
-- music
+- music-3-a01-be
 - sync
 - ad-sync
 keywords:
-- music
+- music-3-a01-be
 - sync
 - ad-sync
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Advertising can revive catalogue songs when repetition and mood make the track feel inseparable from a brand memory.
 hero_summary: Advertising can revive catalogue songs when repetition and mood make the track feel inseparable from a brand memory.
 layout: default
 permalink: /ad-sync/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /sync/
 nav_short_title: Ad Sync
 title: How Quiet Songs Win in Loud Advertising
-title_full: How Quiet Songs Win in Loud Advertising | Sync
+title_full: How Quiet Songs Win in Loud Advertising
 display_title_short: Ad Sync
 display_title: Ad Sync
 heading_title: How Quiet Songs Win in Loud Advertising
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Screen Placements Revive Songs | Music
+parent_title: How Screen Placements Revive Songs
 parent_permalink: /sync/
 parent_nav_short_title: Sync
 parent_heading_title: How Screen Placements Revive Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why One Scene Can Rewrite a Song
 up_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -259,7 +259,7 @@ next_link:
   permalink: /clearance/
   short_title: Clearance
   heading_title: Why One Song Often Needs Two Yeses
-date: '2026-06-09 07:10:31 '
+date: '2026-06-11 23:36:36 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_
 
 Advertising is often associated with loud hooks, slogans and instantly recognisable [choruses]({{ 'choruses/' | relative_url }}). Yet some of the most influential sync placements have worked in the opposite way. A quiet, understated song can become unforgettable when it appears in a commercial that gives it emotional focus and repeated exposure. In these cases, the advertisement does not merely borrow the music; it creates a new public [memory]({{ 'memory/' | relative_url }}) in which the song and the brand become linked.
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-1-dark.svg" | relative_url }}" alt="Ad Sync illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader story of how sync licensing gives songs new lives, advertising has been especially important for reviving overlooked [catalogue]({{ 'catalogue/' | relative_url }}) recordings. Soft acoustic tracks, sparse folk songs and intimate performances can gain audiences precisely because they stand apart from the noise of advertising. The contrast attracts [attention]({{ 'attention/' | relative_url }}), while repeated broadcasts turn a brief musical cue into a lasting cultural association.
 
@@ -278,10 +277,9 @@ Within the broader story of how sync licensing gives songs new lives, advertisin
 
 Many television commercials compete through speed, volume and visual intensity. A quiet song can therefore function as a form of interruption. Instead of demanding attention through force, it creates a moment of calm that encourages viewers to lean in.
 
-Research on [music]({{ 'music/' | relative_url }}) in advertising has repeatedly found that music shapes attention, emotional response and brand recall. The effectiveness of a soundtrack depends not only on familiarity but also on how well its mood fits the imagery and narrative of the advert. Music can strengthen memory for the advertisement and influence the associations viewers form with the brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/237455724_Music_and_Memory_in_Advertising_Music_as_a_Device_of_Implicit_Learning_and_Recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music as a Device of Implicit Learning and Recall</span><span class="citation-popover-snippet">ResearchGateMusic as a Device of Implicit Learning and RecallJune 1, 2007 — Music in advertising may influence consumers&#x27; attention, the...</span><span class="citation-popover-meta">Published: June 1, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/11734/Hoeberichts%2C%20N.%20%28332698nh%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[Erasmus University Thesis Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-title">Hoeberichts, N. (332698nh</span><span class="citation-popover-snippet">Erasmus University Thesis RepositoryThe Effect of Music in Television Commercials on...by N Hoeberichts · 2012 · Cited by 21 — Research...</span></span></span>
+Research on music in advertising has repeatedly found that music shapes attention, emotional response and brand recall. The effectiveness of a soundtrack depends not only on familiarity but also on how well its mood fits the imagery and narrative of the advert. Music can strengthen memory for the advertisement and influence the associations viewers form with the brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/237455724_Music_and_Memory_in_Advertising_Music_as_a_Device_of_Implicit_Learning_and_Recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music as a Device of Implicit Learning and Recall</span><span class="citation-popover-snippet">Music as a Device of Implicit Learning and RecallJune 1, 2007 — Music in advertising may influence consumers&#x27; attention, the...</span><span class="citation-popover-meta">Published: June 1, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/11734/Hoeberichts%2C%20N.%20%28332698nh%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[Erasmus University Thesis Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-title">Hoeberichts, N. (332698nh</span><span class="citation-popover-snippet">Erasmus University Thesis RepositoryThe Effect of Music in Television Commercials on...by N Hoeberichts · 2012 · Cited by 21 — Research...</span></span></span>
 
 A soft, reflective song often brings three advantages:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,10 +289,9 @@ A soft, reflective song often brings three advantages:
 
 </div>
 
-Studies of advertising music have also noted that unfamiliar or lesser-known songs can be particularly effective because they arrive without strong pre-existing associations. This allows advertisers to create fresh links between the music and the product being promoted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tesi.luiss.it/39007/1/745691_MOGETTA%20RUIZ_LILIANA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesi.luiss.it">[LuissThesis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesi.luiss.it</span><span class="citation-popover-snippet">LuissThesisUnlocking the Power of Unfamiliar Music in AdvertisingSeptember 21, 2023 — Unfamiliar music can enhance ad recall, improve bra...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
+Studies of advertising music have also noted that unfamiliar or lesser-known songs can be particularly effective because they arrive without strong pre-existing associations. This allows advertisers to create fresh links between the music and the product being promoted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tesi.luiss.it/39007/1/745691_MOGETTA%20RUIZ_LILIANA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesi.luiss.it">[LuissThesis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesi.luiss.it</span><span class="citation-popover-snippet">ThesisUnlocking the Power of Unfamiliar Music in AdvertisingSeptember 21, 2023 — Unfamiliar music can enhance ad recall, improve bra...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVDxD7cl6No" title="One Show Top 10 Auto Ads - 9 Volkswagen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVDxD7cl6No" target="_blank" rel="noopener noreferrer">One Show Top 10 Auto Ads - 9 Volkswagen</a></p><p class="youtube-embed-meta">Channel: The One Club for Creativity &middot; Views: 22.7K &middot; Uploaded: January 2013 &middot; Length: 1 minute 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVDxD7cl6No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVDxD7cl6No">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=_-kqUkZnDcM" target="_blank" rel="noopener noreferrer">Volkswagen &quot;Pink Moon&quot;I wonder if whoever decided to make this commercial knows they were single-handedly responsible for Nick Drake sell</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_-kqUkZnDcM" target="_blank" rel="noopener noreferrer">Volkswagen &quot;Pink Moon&quot;I wonder if whoever decided to make this commercial knows they were single-handedly responsible for Nick Drake sell</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_-kqUkZnDcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_-kqUkZnDcM">Open on YouTube</a></p></div></div></div>
 
 ## The Nick Drake Volkswagen Example
 
@@ -304,22 +301,19 @@ Before the end of the 1990s, Drake was largely a cult figure. Although admired b
 
 The choice was unusual. “Pink Moon” is not a triumphant anthem or an energetic pop hit. It is a restrained acoustic [recording]({{ 'recording/' | relative_url }}) built around voice and guitar. Yet that restraint became the advertisement's strength. The song transformed a simple driving scene into something reflective and cinematic, giving viewers a feeling rather than a sales pitch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://greg-gonzalez-music.medium.com/beyond-the-jingles-6cc65d88cd44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greg-gonzalez-music.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greg-gonzalez-music.medium.com</span><span class="citation-popover-title">Beyond the Jingles</span><span class="citation-popover-snippet">Strategies for Using Music to Enhance…The study found that music is effective in creating associations with visual elements of advertisin...</span></span></span>
 
-The commercial's impact extended far beyond the campaign itself. Reports from the period show that US sales of Drake's *Pink Moon* album rose dramatically after the advertisement aired. Figures cited by distributors and later coverage indicate growth from roughly 6,000 copies in 1999 to around 74,000 copies in 2000. The album also climbed online sales charts and introduced Drake to a new generation of listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2001 apr 11 ca 49418 story</span><span class="citation-popover-snippet">Pink Moon” was used in a TV ad in 1999 for the Volkswagen Cabrio. U.S. sales of the “Pink Moon” album rose rapidly, from about 6,000 copi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nick_Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nick Drake</span><span class="citation-popover-snippet">Nick DrakeAn advertisement for the album in Melody Maker in February opened with &quot;Pink Moon—Nick Drake&#x27;s latest album: the first we he...</span></span></span>
+The commercial's impact extended far beyond the campaign itself. Reports from the period show that US sales of Drake's *Pink Moon* album rose dramatically after the advertisement aired. Figures cited by distributors and later coverage indicate growth from roughly 6,000 copies in 1999 to around 74,000 copies in 2000. The album also climbed online sales [charts]({{ 'charts/' | relative_url }}) and introduced Drake to a new generation of listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2001 apr 11 ca 49418 story</span><span class="citation-popover-snippet">Pink Moon” was used in a TV ad in 1999 for the Volkswagen Cabrio. U.S. sales of the “Pink Moon” album rose rapidly, from about 6,000 copi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nick_Drake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nick Drake</span><span class="citation-popover-snippet">Nick DrakeAn advertisement for the album in Melody Maker in February opened with &quot;Pink Moon—Nick Drake&#x27;s latest album: the first we he...</span></span></span>
 
 What made the placement historically significant was not simply the increase in sales. Critics, scholars and industry observers frequently point to the Volkswagen campaign as a watershed moment demonstrating that an advert could revive an obscure artist rather than merely exploit a famous song. The commercial helped change attitudes toward sync licensing, especially among independent and alternative musicians who had previously viewed advertising placements with suspicion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestateofthearts.co.uk/features/the-story-of-selling-out-popular-music-advertising-and-the-walkmen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestateofthearts.co.uk">[The State Of The Arts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestateofthearts.co.uk</span><span class="citation-popover-title">the story of selling out popular music advertising and the walkmen</span><span class="citation-popover-snippet">The Story of &#x27;Selling Out&#x27;: popular music, advertising and...27 Jul 2020 — A Volkswagen ad featuring &#x27;Pink Moon&#x27; propelled singer-songwr...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-2-dark.svg" | relative_url }}" alt="Ad Sync illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Compressed Repetition Drives Recall
 
 Advertising operates on a different timescale from film or television drama. A viewer might encounter the same commercial dozens of times over a few weeks. This compressed repetition is one reason quiet songs can become deeply memorable.
 
 A song used in a commercial is often heard only in short excerpts. Yet those fragments repeat across broadcasts, online uploads and campaign variations. Over time, listeners become familiar with a melody, vocal tone or instrumental texture even if they never hear the complete track.
 
-Psychological research on music exposure suggests that repeated encounters can increase familiarity and positive response up to a point, a phenomenon often described as the mere-exposure effect. Repetition helps transform something initially unfamiliar into something recognisable and emotionally meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
+Psychological research on music exposure suggests that repeated encounters can increase familiarity and positive response up to a point, a phenomenon often described as the mere-exposure effect. Repetition helps transform something initially unfamiliar into something recognisable and emotionally meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
 
 For quiet songs, repetition can be especially powerful because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,9 +326,7 @@ For quiet songs, repetition can be especially powerful because:
 
 This process can make the soundtrack feel inseparable from the campaign. In many cases, audiences remember the song years after forgetting specific product details.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_-kqUkZnDcM" title="Volkswagen &quot;Pink Moon&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_-kqUkZnDcM" target="_blank" rel="noopener noreferrer">Volkswagen &quot;Pink Moon&quot;</a></p><p class="youtube-embed-meta">Channel: Alan Pafenbach &middot; Views: 374.4K &middot; Uploaded: February 2013 &middot; Length: 1 minute 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_-kqUkZnDcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_-kqUkZnDcM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-2-dark.svg" | relative_url }}" alt="Ad Sync illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Quiet Songs Often Age Better Than Loud Campaign Music
 
 High-energy commercial music can generate immediate attention, but quieter sync placements often prove more durable. Their appeal tends to depend less on trends and more on mood.
@@ -345,17 +337,13 @@ This durability helps explain why catalogue songs are frequently revived through
 
 In the strongest examples, the advertisement becomes a gateway rather than a destination. Viewers hear a few seconds, seek out the full recording and discover an artist whose work existed long before the campaign. That journey from commercial soundtrack to personal listening experience is one of the most distinctive ways sync licensing can give a song a new life.
 
-
-<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-3-dark.svg" | relative_url }}" alt="Ad Sync illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Brand Becomes Part of the Song's History
 
 The most successful advertising syncs leave a permanent mark on cultural memory. For many listeners, hearing “Pink Moon” still evokes the Volkswagen commercial that introduced them to Nick Drake. The association works in both directions: the advert is remembered because of the song, and the song's modern reputation was shaped by the advert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/jul/05/nick-drake-pink-moon-50-years-producer-misunderstood-classic-john-wood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianNick Drake&#x27;s producer on misunderstood classic Pink MoonJul 5, 2022 — In 1999, Volkswagen debuted a new advertising campaign...</span></span></span>
 
 This is the paradox of quiet music in advertising. The songs themselves are often modest, intimate and understated. Yet through contrast, repetition and emotional fit, they can become far louder in public memory than many tracks designed specifically to grab attention. When a sync placement succeeds, a whisper can outlast a shout.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/icwWpAHReWg" title="The Psychology Behind Good Advertising" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=icwWpAHReWg" target="_blank" rel="noopener noreferrer">The Psychology Behind Good Advertising</a></p><p class="youtube-embed-meta">Channel: Existential Guide</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=icwWpAHReWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=icwWpAHReWg">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=dVDxD7cl6No" target="_blank" rel="noopener noreferrer">Pink Moon; Way To Blue</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVDxD7cl6No" target="_blank" rel="noopener noreferrer">Pink Moon; Way To Blue</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVDxD7cl6No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVDxD7cl6No">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -474,15 +462,15 @@ This is the paradox of quiet music in advertising. The songs themselves are ofte
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acoustic Guitar Earth Has Music For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3ff1e59cc1fe65081393.jpg' | relative_url }}" alt="Listing image for Acoustic Guitar Earth Has Music For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acoustic Guitar Old Sheet Music Box Canvas and Poster Print (523)"><img src="https://i.ebayimg.com/images/g/l7cAAOSwvf9b7BTF/s-l225.jpg" alt="Listing image for Acoustic Guitar Old Sheet Music Box Canvas and Poster Print (523)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Acoustic Guitar Earth Has Music For Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer">Acoustic Guitar Old Sheet Music Box Canvas and Poster Print (523)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +478,15 @@ This is the paradox of quiet music in advertising. The songs themselves are ofte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acoustic Music Tape Casset Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/19191dc3f6a805b1c491.jpg' | relative_url }}" alt="Listing image for Acoustic Music Tape Casset Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acoustic Music Tape Casset Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/yiAAAeSwNn9phiga/s-l225.jpg" alt="Listing image for Acoustic Music Tape Casset Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Acoustic Music Tape Casset Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer">Acoustic Music Tape Casset Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +494,15 @@ This is the paradox of quiet music in advertising. The songs themselves are ofte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music passion Acoustic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb36bcddcf3636da0a84.jpg' | relative_url }}" alt="Listing image for Music passion Acoustic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ltd Edition KISS Debut Album Blue Vinyl 1LP With Exclusive Legends Poster"><img src="https://i.ebayimg.com/images/g/zrEAAeSwBY1qJx5D/s-l225.jpg" alt="Listing image for Ltd Edition KISS Debut Album Blue Vinyl 1LP With Exclusive Legends Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music passion Acoustic Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer">Ltd Edition KISS Debut Album Blue Vinyl 1LP With Exclusive Legends Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +510,15 @@ This is the paradox of quiet music in advertising. The songs themselves are ofte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THIN LIZZY - PROMO MUSIC POSTER - ACOUSTIC SESSIONS ALBUM - OFFICIAL ORIGINAL"><img src="{{ '/assets/images/marketplace-covers/466f65959284f3bf5740.jpg' | relative_url }}" alt="Listing image for THIN LIZZY - PROMO MUSIC POSTER - ACOUSTIC SESSIONS ALBUM - OFFICIAL ORIGINAL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acoustic Guitar music art Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9B0AAeSwE7lodvFh/s-l225.jpg" alt="Listing image for Acoustic Guitar music art Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">THIN LIZZY - PROMO MUSIC POSTER - ACOUSTIC SESSIONS ALBUM - OFFICIAL ORIGINAL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer">Acoustic Guitar music art Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for acoustic music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: acoustic music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,7 +526,7 @@ This is the paradox of quiet music in advertising. The songs themselves are ofte
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster -book -books" data-ebay-reference="ad-sync-how-quiet-songs-win-in-loud-advertising-music-acoustic-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=acoustic+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-quiet-songs-win-in-loud-advertising-acoustic-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="acoustic music poster" data-ebay-reference="how-quiet-songs-win-in-loud-advertising-acoustic-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -754,135 +742,135 @@ This is the paradox of quiet music in advertising. The songs themselves are ofte
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Music as a Device of Implicit Learning and Recall  
-   Link: [https://www.researchgate.net/publication/237455724_Music_and_Memory_in_Advertising_Music_as_a_Device_of_Implicit_Learning_and_Recall](https://www.researchgate.net/publication/237455724_Music_and_Memory_in_Advertising_Music_as_a_Device_of_Implicit_Learning_and_Recall)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateMusic as a Device of Implicit Learning and RecallJune 1, 2007 — Music in advertising may influence consumers&#x27; attention, the...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/237455724_Music_and_Memory_in_Advertising_Music_as_a_Device_of_Implicit_Learning_and_Recall" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237455724_Music_and_Memory_in_Advertising_Music_as_a_Device_of_Implicit_Learning_and_Recall</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music as a Device of Implicit Learning and RecallJune 1, 2007 — Music in advertising may influence consumers&#x27; attention, the...</p></details>
    Published: June 1, 2007  
 
 2. <a id="endnote-2"></a>
    Source: greg-gonzalez-music.medium.com  
    Title: Beyond the Jingles  
-   Link: [https://greg-gonzalez-music.medium.com/beyond-the-jingles-6cc65d88cd44](https://greg-gonzalez-music.medium.com/beyond-the-jingles-6cc65d88cd44)  
+   Link: <a href="https://greg-gonzalez-music.medium.com/beyond-the-jingles-6cc65d88cd44" target="_blank" rel="noopener noreferrer nofollow">https://greg-gonzalez-music.medium.com/beyond-the-jingles-6cc65d88cd44</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Using Music to Enhance…The study found that music is effective in creating associations with visual elements of advertisin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pink Moon  
-   Link: [https://en.wikipedia.org/wiki/Pink_Moon](https://en.wikipedia.org/wiki/Pink_Moon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pink_Moon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pink_Moon</a>  
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
    Title: Pink Moon—Nick Drake  
-   Link: [https://medium.com/no-wrong-notes/pink-moon-nick-drake-42bffd332843](https://medium.com/no-wrong-notes/pink-moon-nick-drake-42bffd332843)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumPink Moon—Nick Drake - MediumVolkswagen, in one of the strangest and bravest moves in advertising history, decides to use Nick Drak...</p></details>
+   Link: <a href="https://medium.com/no-wrong-notes/pink-moon-nick-drake-42bffd332843" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/no-wrong-notes/pink-moon-nick-drake-42bffd332843</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pink Moon—Nick Drake - MediumVolkswagen, in one of the strangest and bravest moves in advertising history, decides to use Nick Drak...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.16226](https://arxiv.org/abs/2210.16226)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.16226</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
    Published: October 28, 2022  
 
 6. <a id="endnote-6"></a>
    Source: nick.com  
-   Link: [https://www.nick.com/](https://www.nick.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nickelodeon | HomepageNickelodeon, now in its 46th year, is the number-one entertainment brand for kids and the home of SpongeBob and PAW...</p></details>
+   Link: <a href="https://www.nick.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nick.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>elodeon | HomepageNickelodeon, now in its 46th year, is the number-one entertainment brand for kids and the home of SpongeBob and PAW...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Nick Drake  
-   Link: [https://en.wikipedia.org/wiki/Nick_Drake](https://en.wikipedia.org/wiki/Nick_Drake)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nick_Drake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nick_Drake</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick DrakeAn advertisement for the album in Melody Maker in February opened with &quot;Pink Moon—Nick Drake&#x27;s latest album: the first we he...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thesis.eur.nl  
    Title: Hoeberichts, N. (332698nh)  
-   Link: [https://thesis.eur.nl/pub/11734/Hoeberichts%2C%20N.%20%28332698nh%29.pdf](https://thesis.eur.nl/pub/11734/Hoeberichts%2C%20N.%20%28332698nh%29.pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/11734/Hoeberichts%2C%20N.%20%28332698nh%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/11734/Hoeberichts%2C%20N.%20%28332698nh%29.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University Thesis RepositoryThe Effect of Music in Television Commercials on...by N Hoeberichts · 2012 · Cited by 21 — Research...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tesi.luiss.it  
-   Link: [https://tesi.luiss.it/39007/1/745691_MOGETTA%20RUIZ_LILIANA.pdf](https://tesi.luiss.it/39007/1/745691_MOGETTA%20RUIZ_LILIANA.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LuissThesisUnlocking the Power of Unfamiliar Music in AdvertisingSeptember 21, 2023 — Unfamiliar music can enhance ad recall, improve bra...</p></details>
+   Link: <a href="https://tesi.luiss.it/39007/1/745691_MOGETTA%20RUIZ_LILIANA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tesi.luiss.it/39007/1/745691_MOGETTA%20RUIZ_LILIANA.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThesisUnlocking the Power of Unfamiliar Music in AdvertisingSeptember 21, 2023 — Unfamiliar music can enhance ad recall, improve bra...</p></details>
    Published: September 21, 2023  
 
 10. <a id="endnote-10"></a>
    Source: latimes.com  
    Title: la xpm 2001 apr 11 ca 49418 story  
-   Link: [https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html](https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pink Moon” was used in a TV ad in 1999 for the Volkswagen Cabrio. U.S. sales of the “Pink Moon” album rose rapidly, from about 6,000 copi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thestateofthearts.co.uk  
    Title: the story of selling out popular music advertising and the walkmen  
-   Link: [https://www.thestateofthearts.co.uk/features/the-story-of-selling-out-popular-music-advertising-and-the-walkmen/](https://www.thestateofthearts.co.uk/features/the-story-of-selling-out-popular-music-advertising-and-the-walkmen/)  
+   Link: <a href="https://www.thestateofthearts.co.uk/features/the-story-of-selling-out-popular-music-advertising-and-the-walkmen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thestateofthearts.co.uk/features/the-story-of-selling-out-popular-music-advertising-and-the-walkmen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of &#x27;Selling Out&#x27;: popular music, advertising and...27 Jul 2020 — A Volkswagen ad featuring &#x27;Pink Moon&#x27; propelled singer-songwr...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2022/jul/05/nick-drake-pink-moon-50-years-producer-misunderstood-classic-john-wood](https://www.theguardian.com/music/2022/jul/05/nick-drake-pink-moon-50-years-producer-misunderstood-classic-john-wood)  
+   Link: <a href="https://www.theguardian.com/music/2022/jul/05/nick-drake-pink-moon-50-years-producer-misunderstood-classic-john-wood" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jul/05/nick-drake-pink-moon-50-years-producer-misunderstood-classic-john-wood</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNick Drake&#x27;s producer on misunderstood classic Pink MoonJul 5, 2022 — In 1999, Volkswagen debuted a new advertising campaign...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: salon.com  
-   Link: [https://www.salon.com/2000/06/19/drake/](https://www.salon.com/2000/06/19/drake/)  
+   Link: <a href="https://www.salon.com/2000/06/19/drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2000/06/19/drake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Drake&#x27;s post-posthumous fame19 Jun 2000 — His third and final album, “Pink Moon,” had been released two years earlier, and had sold...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: comunicacionyhombre.com  
-   Link: [https://comunicacionyhombre.com/en/article/approaching-to-the-effectiveness-of-music-in-advertising-audio-branding-and-brand-recall/](https://comunicacionyhombre.com/en/article/approaching-to-the-effectiveness-of-music-in-advertising-audio-branding-and-brand-recall/)  
+   Link: <a href="https://comunicacionyhombre.com/en/article/approaching-to-the-effectiveness-of-music-in-advertising-audio-branding-and-brand-recall/" target="_blank" rel="noopener noreferrer nofollow">https://comunicacionyhombre.com/en/article/approaching-to-the-effectiveness-of-music-in-advertising-audio-branding-and-brand-recall/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Approaching to the effectiveness of music in advertisingThis article carries out a study of the music used in advertising and its effects...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: forums.stevehoffman.tv  
-   Link: [https://forums.stevehoffman.tv/threads/lets-talk-the-50th-anniversary-of-nick-drakes-pink-moon-and-its-influence-on-music.1135162/](https://forums.stevehoffman.tv/threads/lets-talk-the-50th-anniversary-of-nick-drakes-pink-moon-and-its-influence-on-music.1135162/)  
+   Link: <a href="https://forums.stevehoffman.tv/threads/lets-talk-the-50th-anniversary-of-nick-drakes-pink-moon-and-its-influence-on-music.1135162/" target="_blank" rel="noopener noreferrer nofollow">https://forums.stevehoffman.tv/threads/lets-talk-the-50th-anniversary-of-nick-drakes-pink-moon-and-its-influence-on-music.1135162/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Talk: The 50th anniversary of Nick Drake&#x27;s Pink Moon...25 Feb 2022 — As a result of this commercial, sales of Pink Moon skyrocketed, wit...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: discovering nick drakes pink moon in high school was a turning point for meit co  
-   Link: [https://www.facebook.com/TheBonesofJ.R.Jones/posts/discovering-nick-drakes-pink-moon-in-high-school-was-a-turning-point-for-meit-co/1066090148663103/](https://www.facebook.com/TheBonesofJ.R.Jones/posts/discovering-nick-drakes-pink-moon-in-high-school-was-a-turning-point-for-meit-co/1066090148663103/)  
+   Link: <a href="https://www.facebook.com/TheBonesofJ.R.Jones/posts/discovering-nick-drakes-pink-moon-in-high-school-was-a-turning-point-for-meit-co/1066090148663103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBonesofJ.R.Jones/posts/discovering-nick-drakes-pink-moon-in-high-school-was-a-turning-point-for-meit-co/1066090148663103/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering Nick Drake&#x27;s Pink Moon in high school was a...In 1999, his song &quot;Pink Moon&quot; was used in a Volkswagen commercial, resulting i...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: boston.com  
    Title: four boston ad professionals volkswagen shed light almost forgotten music career  
-   Link: [https://www.boston.com/[culture](https://www.boston.com/[culture)  
+   Link: <a href="https://www.boston.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/[culture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How four Boston ad professionals and a Volkswagen shed...Jul 21, 2016 — In her 33 ⅓ book about Drake&#x27;s album Pink Moon, author Amanda Pe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sfgate.com  
    Title: Pink Moon Rising A dead English folk singer a 2734177  
-   Link: [https://www.sfgate.com/entertainment/morford/article/Pink-Moon-Rising-A-dead-English-folk-singer-a-2734177.php](https://www.sfgate.com/entertainment/morford/article/Pink-Moon-Rising-A-dead-English-folk-singer-a-2734177.php)  
+   Link: <a href="https://www.sfgate.com/entertainment/morford/article/Pink-Moon-Rising-A-dead-English-folk-singer-a-2734177.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/entertainment/morford/article/Pink-Moon-Rising-A-dead-English-folk-singer-a-2734177.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pink Moon Rising / A dead English folk singer, a dreamy...Oct 13, 2000 — The tune in question of turns out to be &quot;Pink Moon&quot; by an Engli...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jalopnik.com  
    Title: did vws british ad agency rip off this song 5913139  
-   Link: [https://www.jalopnik.com/did-vws-british-ad-agency-rip-off-this-song-5913139/](https://www.jalopnik.com/did-vws-british-ad-agency-rip-off-this-song-5913139/)  
+   Link: <a href="https://www.jalopnik.com/did-vws-british-ad-agency-rip-off-this-song-5913139/" target="_blank" rel="noopener noreferrer nofollow">https://www.jalopnik.com/did-vws-british-ad-agency-rip-off-this-song-5913139/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did VW&#x27;s British Ad Agency Rip Off This Song?28 May 2012 — Their 1999 ad for the Cabrio, &quot;Milky Way&quot;, famously used Nick Drake&#x27;s moody so...</p></details>
    Published: May 2012  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: til when nick drake released his album pink moon  
-   Link: [https://www.reddit.com/r/todayilearned/comments/3dewlh/til_when_nick_drake_released_his_album_pink_moon/](https://www.reddit.com/r/todayilearned/comments/3dewlh/til_when_nick_drake_released_his_album_pink_moon/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/3dewlh/til_when_nick_drake_released_his_album_pink_moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/3dewlh/til_when_nick_drake_released_his_album_pink_moon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2000, 25 years after his death, Volkswagen used the title track for an advertisement and the record sold 5,000 more copies. He w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pastemagazine.com  
    Title: best commercial songs feist phoenix nick drake  
-   Link: [https://www.pastemagazine.com/music/phoenix/best-commercial-songs-feist-phoenix-nick-drake](https://www.pastemagazine.com/music/phoenix/best-commercial-songs-feist-phoenix-nick-drake)  
+   Link: <a href="https://www.pastemagazine.com/music/phoenix/best-commercial-songs-feist-phoenix-nick-drake" target="_blank" rel="noopener noreferrer nofollow">https://www.pastemagazine.com/music/phoenix/best-commercial-songs-feist-phoenix-nick-drake</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Iconic Commercial/Song PairingsMar 3, 2020 — Nick Drake: “Pink Moon” (Volkswagen). There are perhaps few song and commercial pai...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ptacts.uspto.gov  
    Title: download documents  
-   Link: [https://ptacts.uspto.gov/ptacts/public-informations/petitions/1558960/download-documents?artifactId=-eh0fbkrI8a04f43vzLb3J4_VHvWpjIkJ_A_GZJzUhT03XUFjuRh1cI](https://ptacts.uspto.gov/ptacts/public-informations/petitions/1558960/download-documents?artifactId=-eh0fbkrI8a04f43vzLb3J4_VHvWpjIkJ_A_GZJzUhT03XUFjuRh1cI)  
+   Link: <a href="https://ptacts.uspto.gov/ptacts/public-informations/petitions/1558960/download-documents?artifactId=-eh0fbkrI8a04f43vzLb3J4_VHvWpjIkJ_A_GZJzUhT03XUFjuRh1cI" target="_blank" rel="noopener noreferrer nofollow">https://ptacts.uspto.gov/ptacts/public-informations/petitions/1558960/download-documents?artifactId=-eh0fbkrI8a04f43vzLb3J4_VHvWpjIkJ_A_GZJzUhT03XUFjuRh1cI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Popular Music in Advertising on Attention and...This study examines the effects of popular music in advertising to determine both the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: zappi.io  
    Title: music in advertising examples  
-   Link: [https://www.zappi.io/web/blog/music-in-advertising-examples/](https://www.zappi.io/web/blog/music-in-advertising-examples/)  
+   Link: <a href="https://www.zappi.io/web/blog/music-in-advertising-examples/" target="_blank" rel="noopener noreferrer nofollow">https://www.zappi.io/web/blog/music-in-advertising-examples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How pop classics, indie...Feb 20, 2026 — As a result of this commercial, sales of Pink Moon skyrocketed, with the record reaching a numb...</p></details>

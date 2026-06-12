@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - lyrics
 keywords:
-- music
+- music-3-a01-be
 - lyrics
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Lyrics let private emotion become quotable, communal and politically charged without separating words from sound.
 hero_summary: Lyrics let private emotion become quotable, communal and politically charged without separating words from sound.
 layout: default
 permalink: /lyrics/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Lyrics
 title: How Lyrics Make Feelings Public
-title_full: How Lyrics Make Feelings Public | Music
+title_full: How Lyrics Make Feelings Public
 display_title_short: Lyrics
 display_title: Lyrics
 heading_title: How Lyrics Make Feelings Public
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 next_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
-date: '2026-06-09 06:19:35 '
+date: '2026-06-11 23:10:27 '
 header:
   og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a-overview-social.jpg
   preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a-overview.webp
@@ -503,14 +503,12 @@ image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a-overview-social.j
 
 Lyrics are one of the clearest ways songs turn private feelings into a language that others can share, recognise and repeat. While music alone conveys mood through [melody]({{ 'melody/' | relative_url }}) and [rhythm]({{ 'rhythm/' | relative_url }}), words give listeners a map of emotion that feels both personal and communal. By layering linguistic meaning onto sound, lyrics let individuals locate their experiences in phrases that become widely understood, culturally resonant and sometimes even political. This transformation—private feeling into shared language—is central to how people use song lyrics to express identity, recall memory, find solace, protest, or bond with others.
 
-
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-overview.webp" | relative_url }}" alt="Overview image for Lyrics" loading="eager" decoding="sync" fetchpriority="high">
 ## Voice, Story and Identification
 
-At its core, a lyric anchors emotion in a narrative. Unlike instrumental [music]({{ 'music/' | relative_url }}), which conveys mood through prosody and acoustic cues, lyrics offer propositional meaning through language that listeners can parse and internalise. In psychological studies, researchers have observed that lyrics can shape listeners’ emotional responses by evoking episodic memories or visual imagery, increasing the accessibility of emotional meaning compared with instrumental music alone. For example, participants listening to songs with lyrics reported enhanced activation of [memory]({{ 'memory/' | relative_url }})-related mechanisms and stronger effects on mood compared with versions without text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</span></span></span>
+At its core, a lyric anchors emotion in a narrative. Unlike instrumental music, which conveys mood through prosody and acoustic cues, lyrics offer propositional meaning through language that listeners can parse and internalise. In psychological studies, researchers have observed that lyrics can shape listeners’ emotional responses by evoking episodic memories or visual imagery, increasing the accessibility of emotional meaning compared with instrumental music alone. For example, participants listening to songs with lyrics reported enhanced activation of [memory]({{ 'memory/' | relative_url }})-related mechanisms and stronger effects on mood compared with versions without text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</span></span></span>
 
 The act of *[identification]({{ 'identification/' | relative_url }})*—where listeners recognise their own feelings or stories in the words—is part of how lyrics become shared. Narratives in lyrics often feature familiar emotional arcs (loss, yearning, reconciliation) that mirror everyday talk and thought. That narrative structure, whether overtly poetic or conversational, allows a listener to project their internal states onto the song’s language, and in doing so makes those states feel less isolated and more universally understood. It is this intersection of personal reflection with accessible language that underpins lyrics’ role as a vehicle for shared feeling.
-
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-1-dark.svg" | relative_url }}" alt="Lyrics illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choruses as Shared Language
@@ -519,35 +517,23 @@ The act of *[identification]({{ 'identification/' | relative_url }})*—where li
 
 This mechanism works because choruses distil emotional meaning into a compact, repeatable form. Repetition itself reinforces memory and helps cement the phrase as part of a cognitive and cultural repertoire that multiple listeners share. Even beyond professional songwriting, this pattern mirrors how communities build shared language in other contexts: recurrent phrases become shorthand for complex emotional experiences precisely because they are memorable and evocative.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wAafVviGxhk" title="Music’s power over your brain, explained | Michael Spitzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wAafVviGxhk" target="_blank" rel="noopener noreferrer">Music’s power over your brain, explained | Michael Spitzer</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wAafVviGxhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wAafVviGxhk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-2-dark.svg" | relative_url }}" alt="Lyrics illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Lyrics Become Slogans
 
 Lyrics sometimes do more than express individual sentiment—they become public slogans or cultural touchstones. When language in a chorus or hook resonates beyond its original context, it starts to function as a *symbolic marker* of shared experience. Whether it’s a line from a protest song adopted by a movement or a pop refrain quoted in advertisements and memes, lyrics acquire a life as communal language when they capture an affective truth that others recognise as theirs.
 
-Cultural studies highlight how this process is tied to *shared meaning* in a community. Music with prosocial or emotionally charged lyrics can influence group identity; in some lab studies, songs with such lyrics not only evoked emotional responses but also shaped subsequent behaviour, suggesting that shared lyrical cues can bridge individual feeling and collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDecember 3, 2021...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> Moreover, because lyrics interact with cultural norms and context—varying in emotional impact across different groups—they do not convey fixed meanings but rather become part of a negotiated, social language of feeling.
+Cultural studies highlight how this process is tied to *shared meaning* in a community. Music with prosocial or emotionally charged lyrics can influence group identity; in some lab studies, songs with such lyrics not only evoked emotional responses but also shaped subsequent behaviour, suggesting that shared lyrical cues can bridge individual feeling and collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 3, 2021...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> Moreover, because lyrics interact with cultural norms and context—varying in emotional impact across different groups—they do not convey fixed meanings but rather become part of a negotiated, social language of feeling.
 
-
-<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-2-dark.svg" | relative_url }}" alt="Lyrics illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-dark.svg" | relative_url }}" alt="Lyrics illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Beyond Sound: Integration of Language and Music
 
 Research on cognitive processing of song shows that lyrics and music are not interpreted wholly separately. [Familiar songs]({{ 'familiar-songs/' | relative_url }}), for instance, are judged as more meaningful when sung than when the same words are presented as spoken text, indicating that *music enhances the perceived meaning of language* by embedding it within a richer emotional context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span> This integration helps explain why lyrics feel especially powerful: words in song benefit from both linguistic semantics and musical affective cues.
 
-At a deeper level, theories of emotion in music suggest that language and sound influence listeners’ interpretation of affect not just through discrete words but by engaging processes like episodic recall, imagery and evaluative conditioning. This means that lyrics play dual roles: they guide semantic interpretation (what feeling is being described) and shape how that feeling is *felt* in response to the music’s emotional cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2073 431X</span><span class="citation-popover-snippet">MDPIEmotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025...</span><span class="citation-popover-meta">Published: October 24, 2025</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U54n1lifzms" title="How movie music manipulates your emotions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U54n1lifzms" target="_blank" rel="noopener noreferrer">How movie music manipulates your emotions</a></p><p class="youtube-embed-meta">Channel: Neuro Transmissions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U54n1lifzms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U54n1lifzms">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7SjWguOXVwE" title="Why Do We Like Sad Music? | Sandra Garrido | TEDxYouth@Sydney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7SjWguOXVwE" target="_blank" rel="noopener noreferrer">Why Do We Like Sad Music? | Sandra Garrido | TEDxYouth@Sydney</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7SjWguOXVwE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7SjWguOXVwE">Open on YouTube</a></p></div></div></div>
+At a deeper level, theories of emotion in music suggest that language and sound influence listeners’ interpretation of affect not just through discrete words but by engaging processes like episodic recall, imagery and evaluative conditioning. This means that lyrics play dual roles: they guide semantic interpretation (what feeling is being described) and shape how that feeling is *felt* in response to the music’s emotional cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2073 431X</span><span class="citation-popover-snippet">Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience &#124; MDPIOctober 24, 2025...</span><span class="citation-popover-meta">Published: October 24, 2025</span></span></span>
 
 ## Summary
 
 Lyrics turn feelings into shared language by packaging emotions in narratively structured, repeatable, and culturally resonant phrases. This mechanism rests on how words carry propositional meaning, how repetition and chorus structure embed that meaning in memory and communal use, and how music and language together amplify emotional interpretation. As a result, lyrics become more than personal expression: they become a shared lexicon of feeling that can define identities, shape group discourse and, at times, become slogans for collective sentiment.
-
-
-<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-dark.svg" | relative_url }}" alt="Lyrics illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -666,15 +652,15 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK 50 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard"><img src="{{ '/assets/images/marketplace-covers/b94035e21fc434e40bf7.jpg' | relative_url }}" alt="Listing image for UK 50 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">UK 50 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -682,15 +668,15 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50 Rock Black White Stickers Heavy Metal Punk Band Music Guitar Car Decal UK NEW"><img src="{{ '/assets/images/marketplace-covers/a444f2a45fba3a5e1297.jpg' | relative_url }}" alt="Listing image for 50 Rock Black White Stickers Heavy Metal Punk Band Music Guitar Car Decal UK NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">50 Rock Black White Stickers Heavy Metal Punk Band Music Guitar Car Decal UK NEW</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -698,15 +684,15 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billy Fury - Car Window Sticker - Country Rock &amp; Roll Music Decal Rockabilly V01"><img src="{{ '/assets/images/marketplace-covers/b2743a0161d796b43303.jpg' | relative_url }}" alt="Listing image for Billy Fury - Car Window Sticker - Country Rock &amp; Roll Music Decal Rockabilly V01" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">Billy Fury - Car Window Sticker - Country Rock &amp; Roll Music Decal Rockabilly V01</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -714,15 +700,15 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK 100 Rock Stickers Heavy Metal Punk Band Music Guitar Car Decal Skateboard NEW"><img src="{{ '/assets/images/marketplace-covers/3d51feda06cec42814c7.jpg' | relative_url }}" alt="Listing image for UK 100 Rock Stickers Heavy Metal Punk Band Music Guitar Car Decal Skateboard NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">UK 100 Rock Stickers Heavy Metal Punk Band Music Guitar Car Decal Skateboard NEW</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -730,7 +716,7 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lyrics-how-lyrics-make-feelings-public-music-music-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker" data-ebay-reference="lyrics-how-lyrics-make-feelings-public-music-music-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -945,89 +931,89 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 3, 2021...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2021...</p></details>
    Published: December 3, 2021  
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
    Title: 2073 431X  
-   Link: [https://www.mdpi.com/2073-431X/14/11/460](https://www.mdpi.com/2073-431X/14/11/460)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIEmotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025...</p></details>
+   Link: <a href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/14/11/460</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025...</p></details>
    Published: October 24, 2025  
 
 3. <a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2226-471X/9/11/349/html](https://www.mdpi.com/2226-471X/9/11/349/html)  
+   Link: <a href="https://www.mdpi.com/2226-471X/9/11/349/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/11/349/html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyrical Code-Switching, Multimodal Intertextuality, and Identity in Popular Music | MDPINovember 14, 2024 — 14 November 2024 LYRICAL CODE...</p></details>
    Published: November 14, 2024  
 
 4. <a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03057356211013390](https://journals.sagepub.com/doi/10.1177/03057356211013390)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: research.bond.edu.au  
-   Link: [https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/](https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/)  
+   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/03057356211013390](https://journals.sagepub.com/doi/abs/10.1177/03057356211013390)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/03057356211013390</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, Laura S Sakka, 2022...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 28 February 2018 Sec. Theoretical and Philosophical Psychology Volume 9 - 2018 | [https://doi.org/10.3389/fpsyg.2018.00215](https://doi.org/10.3389/fpsyg.2018.00215) Publi...</p></details>
    Published: February 2018  
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 28 February 2018 Sec. Theoretical and Philosophical Psychology Volume 9 - 2018 | [https://doi.org/10.3389/fpsyg.2018.00215](https://doi.org/10.3389/fpsyg.2018.00215) Publi...</p></details>
    Published: February 2018  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S156625352600182X](https://www.sciencedirect.com/science/article/pii/S156625352600182X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S156625352600182X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S156625352600182X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>challenges - ScienceDirectINFORMATION FUSION Volume 133, September 2026, 104303 Full Length Article Revisiting the role of lyrics in musi...</p></details>
    Published: September 2026  
 
 10. <a id="endnote-10"></a>
    Source: iris.unisa.it  
-   Link: [https://www.iris.unisa.it/handle/11386/1662036](https://www.iris.unisa.it/handle/11386/1662036)  
+   Link: <a href="https://www.iris.unisa.it/handle/11386/1662036" target="_blank" rel="noopener noreferrer nofollow">https://www.iris.unisa.it/handle/11386/1662036</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unisa.it“Sometimes I feel like my only friend...”: identity and alterity in urban milieus through song lyrics“SOMETIMES I FEEL LIKE MY ON...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journal.psych.ac.cn  
-   Link: [https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346](https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346)  
+   Link: <a href="https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346" target="_blank" rel="noopener noreferrer nofollow">https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50 ›› Issue (12): 1346-1355.doi: 10.3724/SP.J.1041.2018.01346 EFFECTS OF LYRICS ON THE PROCESSING OF MUSICAL EMOTION: BEHAVIOURAL...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cir.nii.ac.jp  
    Title: nii.ac.jp Songs and emotions: are lyrics and melodies equal partners?  
-   Link: [https://cir.nii.ac.jp/crid/1360306912569186176](https://cir.nii.ac.jp/crid/1360306912569186176)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| CiNii ResearchSONGS AND EMOTIONS: ARE LYRICS AND MELODIES EQUAL PARTNERS? DOI Web Site 被引用文献1件 * S. Omar Ali * Zehra F. Peynircioğlu DE...</p></details>
+   Link: <a href="https://cir.nii.ac.jp/crid/1360306912569186176" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360306912569186176</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CiNii ResearchSONGS AND EMOTIONS: ARE LYRICS AND MELODIES EQUAL PARTNERS? DOI Web Site 被引用文献1件 * S. Omar Ali * Zehra F. Peynircioğlu DE...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Old songs can be as fresh as new: An ERP study on lyrics processing  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0911604415000068](https://www.sciencedirect.com/science/article/pii/S0911604415000068)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJOURNAL OF NEUROLINGUISTICS Volume 35, August 2015, Pages 55-67 OLD SONGS CAN BE AS FRESH AS NEW: AN ERP STUDY ON LYRICS PRO...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0911604415000068</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>JOURNAL OF NEUROLINGUISTICS Volume 35, August 2015, Pages 55-67 OLD SONGS CAN BE AS FRESH AS NEW: AN ERP STUDY ON LYRICS PRO...</p></details>
    Published: August 2015  
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Exceptions include melodies t  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Design Features of Music and Language: The Choric/Dialogic Distinction - PMCApril 22, 2022 — AESTHETICS IN LANGUAGE AND PROPOSITIONALITY...</p></details>
    Published: April 22, 2022  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2015 Mar 19;370(1664):20140096. doi: 10.1098/rstb.2014.0096 CROSS-CULTURAL PERSPECTIVES ON MUSIC AND MUSICALITY Sandra E Trehub SANDRA E...</p></details>

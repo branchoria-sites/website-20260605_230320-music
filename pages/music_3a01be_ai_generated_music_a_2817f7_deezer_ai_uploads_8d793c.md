@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7
 - music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add
 tags:
-- music
+- music-3-a01-be
 - ai-songs
 - upload-flood
 keywords:
-- music
+- music-3-a01-be
 - ai-songs
 - upload-flood
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Deezer's AI-music figures show how authorship becomes an economic problem when generated tracks flood streaming systems.
 hero_summary: Deezer's AI-music figures show how authorship becomes an economic problem when generated tracks flood streaming systems.
 layout: default
 permalink: /upload-flood/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-songs/
 nav_short_title: Upload Flood
 title: How AI Tracks Flood Streaming Platforms
-title_full: How AI Tracks Flood Streaming Platforms | AI Songs
+title_full: How AI Tracks Flood Streaming Platforms
 display_title_short: Upload Flood
 display_title: Upload Flood
 heading_title: How AI Tracks Flood Streaming Platforms
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets Credit For AI Made Music? | Music
+parent_title: Who Gets Credit For AI Made Music?
 parent_permalink: /ai-songs/
 parent_nav_short_title: AI Songs
 parent_heading_title: Who Gets Credit For AI Made Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When an AI Song Sounds Like a Star
 up_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -265,7 +265,7 @@ next_link:
   permalink: /voice-clones/
   short_title: Voice Clones
   heading_title: When an AI Song Sounds Like a Star
-date: '2026-06-09 06:38:01 '
+date: '2026-06-11 23:20:12 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-1.webp
@@ -274,14 +274,10 @@ image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads
 
 ## Introduction
 
-Deezer’s experience with AI-generated [music]({{ 'music/' | relative_url }}) has turned a theoretical debate about authorship into a measurable economic problem. The platform reports that tens of thousands of fully AI-generated tracks are now uploaded every day, and a large share of the streams associated with those tracks appear to be fraudulent rather than listener-driven. As a result, questions about who authored a song are no longer confined to copyright and artistic credit. They now affect how streaming [royalties]({{ 'royalties/' | relative_url }}) are distributed, how recommendation systems operate, and whether platforms can prevent automated content from siphoning money away from human creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.deezercommunity.com">[Deezer Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.deezercommunity.com</span><span class="citation-popover-snippet">Deezer CommunityDeezer Just Rolled Out the World&#x27;s First AI Music Tagging...June 17, 2025 — 17 Jun 2025 — While most of these tracks don...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
-
+Deezer’s experience with AI-generated music has turned a theoretical debate about authorship into a measurable economic problem. The platform reports that tens of thousands of fully AI-generated tracks are now uploaded every day, and a large share of the streams associated with those tracks appear to be fraudulent rather than listener-driven. As a result, questions about who authored a song are no longer confined to copyright and artistic credit. They now affect how streaming [royalties]({{ 'royalties/' | relative_url }}) are distributed, how recommendation systems operate, and whether platforms can prevent automated content from siphoning money away from human creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.deezercommunity.com">[Deezer Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.deezercommunity.com</span><span class="citation-popover-snippet">Deezer CommunityDeezer Just Rolled Out the World&#x27;s First AI Music Tagging...June 17, 2025 — 17 Jun 2025 — While most of these tracks don...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-1-dark.svg" | relative_url }}" alt="Upload Flood illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Deezer has become one of the most closely watched case studies because it has publicly released data on AI upload growth, built its own AI-detection tools, and begun excluding suspicious activity from royalty calculations. The figures reveal how rapidly generative music can scale and why streaming services increasingly treat AI authorship as a platform-governance issue rather than merely a creative one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.deezercommunity.com">[Deezer Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.deezercommunity.com</span><span class="citation-popover-snippet">Deezer CommunityDeezer Just Rolled Out the World&#x27;s First AI Music Tagging...June 17, 2025 — 17 Jun 2025 — While most of these tracks don...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_9n158oAhHQ" title="The Dark side of A.I. In the Music Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_9n158oAhHQ" target="_blank" rel="noopener noreferrer">The Dark side of A.I. In the Music Industry</a></p><p class="youtube-embed-meta">Channel: Weaver Beats</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_9n158oAhHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_9n158oAhHQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Upload Volume Changes the Authorship Debate
 
@@ -290,7 +286,6 @@ The most striking evidence is the speed of growth. When Deezer launched its AI-d
 These numbers matter because authorship systems were designed around [scarcity]({{ 'scarcity/' | relative_url }}). Traditional music distribution assumes that releasing a track involves meaningful human effort, [recording]({{ 'recording/' | relative_url }}) costs, and promotional investment. Generative music systems dramatically reduce those barriers. A single operator can create and distribute thousands of tracks in the time previously required to produce a handful.
 
 The result is a shift in the authorship question. Instead of asking whether a particular song was written by a person or generated by software, platforms must ask whether massive quantities of machine-produced material are overwhelming systems that were built to reward creative labour. Deezer’s data suggest that the challenge is not merely identifying AI music but managing industrial-scale content production. Deezer Community MusicRadar Another revealing statistic is that AI-generated uploads represent a far larger share of submissions than of listening. Even as AI music appr <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/daily-deliveries-keep-increasing-44-percent-of-deezers-daily-uploads-are-ai-slop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[musicradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-title">daily deliveries keep increasing 44 percent of deezers daily uploads are ai slop</span><span class="citation-popover-snippet">This marks a dramatic increase from early 2025, when AI content made up only 18% of submissions. Over the last 15 months, since the imple...</span></span></span> oached half of new uploads, Deezer reported that fully AI-generated tracks accounted for only a small percentage of total streams. The imbalance suggests that upload activity is being driven by incentives other than genuine audience demand. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">However, it states that only 1–3% of this music is consumed, as 85% of such uploads are flagged and demonetized due to detection tools ta...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9x4HmSsCxRY" title="The truth about AI music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9x4HmSsCxRY" target="_blank" rel="noopener noreferrer">The truth about AI music</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 41.5K &middot; Uploaded: January 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9x4HmSsCxRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9x4HmSsCxRY">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +301,6 @@ Deezer has argued that much of the AI-upload surge is connected to this incentiv
 
 The broader industry concern is illustrated by criminal cases outside Deezer itself. US authorities have alleged schemes involving billions of fake streams generated to collect millions of dollars in royalties from AI-created music catalogues. Such cases demonstrate that generative music can be combined with automated streaming systems to create large-scale royalty-farming operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-2-dark.svg" | relative_url }}" alt="Upload Flood illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Tagging and Recommendation Limits Matter
 
@@ -318,19 +312,14 @@ More significantly, Deezer excludes detected AI-generated tracks from certain re
 
 This policy reveals a deeper authorship issue. On streaming platforms, visibility often functions as a form of value. A song that appears in recommendations receives opportunities for future streams and future royalties. Decisions about tagging, ranking and recommendation therefore influence which creators benefit from the platform economy. Authorship is not only about who receives a credit line; it is also about whose work receives [attention]({{ 'attention/' | relative_url }}).
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WHvw1gE7Bgo" title="AI Fraud in Music: The Shocking Case of Michael Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WHvw1gE7Bgo" target="_blank" rel="noopener noreferrer">AI Fraud in Music: The Shocking Case of Michael Smith</a></p><p class="youtube-embed-meta">Channel: Dark Real Case Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WHvw1gE7Bgo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WHvw1gE7Bgo">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-3-dark.svg" | relative_url }}" alt="Upload Flood illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Deezer Data Suggest About AI Music
 
-The Deezer figures point to a pattern that differs from many public discussions of AI music. The immediate challenge is not that AI songs are dominating listening habits. Rather, the evidence suggests that AI songs are dominating uploads while generating relatively little authentic audience consumption. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">However, it states that only 1–3% of this music is consumed, as 85% of such uploads are flagged and demonetized due to detection tools ta...</span></span></span>
+The Deezer figures point to a pattern that differs from many public discussions of AI music. The immediate challenge is not that [AI songs]({{ 'ai-songs/' | relative_url }}) are dominating listening habits. Rather, the evidence suggests that AI songs are dominating uploads while generating relatively little authentic audience consumption. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">However, it states that only 1–3% of this music is consumed, as 85% of such uploads are flagged and demonetized due to detection tools ta...</span></span></span>
 
 That distinction is important. If millions of listeners were actively choosing AI-generated tracks, the debate would centre primarily on cultural preferences and creative competition. Instead, Deezer’s data indicate that much of the pressure falls on platform infrastructure: fraud detection, royalty allocation, metadata management and recommendation design. Deezer Community <span class="citation-chip-wrap"><a class="citation-chip" href="https://newindustryfocus.com/articles/deezer-receives-60-000-fully-ai-generated-tracks-every-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newindustryfocus.com">[New Industry Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newindustryfocus.com</span><span class="citation-popover-title">deezer receives 60 000 fully ai generated tracks every day</span><span class="citation-popover-snippet">New Industry FocusDeezer Receives 60000 Fully AI-Generated Tracks Every...30 Jan 2026 — Deezer detects 60000 AI tracks daily, identifyin...</span></span></span>
 
 For the wider discussion of AI-generated songs and authorship, the lesson is that attribution systems must now operate at machine scale. A world in which thousands of tracks can be generated and uploaded automatically every hour forces streaming services to determine not only who created a work, but whether the work is participating in the music economy in a legitimate way. Deezer’s upload surge has made that question impossible to ignore. Deezer Community <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-3-dark.svg" | relative_url }}" alt="Upload Flood illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -449,15 +438,15 @@ For the wider discussion of AI-generated songs and authorship, the lesson is tha
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised song Keyring Songlist Album Cover Art Fathers Day Birthday"><img src="{{ '/assets/images/marketplace-covers/e48b664d0a5dcad6973e.jpg' | relative_url }}" alt="Listing image for Personalised song Keyring Songlist Album Cover Art Fathers Day Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">Personalised song Keyring Songlist Album Cover Art Fathers Day Birthday</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +454,15 @@ For the wider discussion of AI-generated songs and authorship, the lesson is tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Collectible Figure - History Tour Music Memorabilia 12 cm"><img src="{{ '/assets/images/marketplace-covers/7c61fd6b902e86710ee8.jpg' | relative_url }}" alt="Listing image for Michael Jackson Collectible Figure - History Tour Music Memorabilia 12 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Collectible Figure - History Tour Music Memorabilia 12 cm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +470,15 @@ For the wider discussion of AI-generated songs and authorship, the lesson is tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 114 Mixed CD Bundle - Brand New Assorted Music Collection (Pop, Rock, Soul, R&amp;B)"><img src="{{ '/assets/images/marketplace-covers/f7d35dc428e7fbb28257.jpg' | relative_url }}" alt="Listing image for 114 Mixed CD Bundle - Brand New Assorted Music Collection (Pop, Rock, Soul, R&amp;B)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">114 Mixed CD Bundle - Brand New Assorted Music Collection (Pop, Rock, Soul, R&amp;B)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +486,15 @@ For the wider discussion of AI-generated songs and authorship, the lesson is tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Box Hand Carved Wind Up Mechanism Plays Bohemian Rhapsody Music"><img src="{{ '/assets/images/marketplace-covers/0cf6d825d726780e4a6c.jpg' | relative_url }}" alt="Listing image for Music Box Hand Carved Wind Up Mechanism Plays Bohemian Rhapsody Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">Music Box Hand Carved Wind Up Mechanism Plays Bohemian Rhapsody Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +502,7 @@ For the wider discussion of AI-generated songs and authorship, the lesson is tha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="upload-flood-how-ai-tracks-flood-streaming-platforms-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-ai-tracks-flood-streaming-platforms-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,113 +718,113 @@ For the wider discussion of AI-generated songs and authorship, the lesson is tha
 1. <a id="endnote-1"></a>
    Source: musicradar.com  
    Title: daily deliveries keep increasing 44 percent of deezers daily uploads are ai slop  
-   Link: [https://www.musicradar.com/music-tech/daily-deliveries-keep-increasing-44-percent-of-deezers-daily-uploads-are-ai-slop](https://www.musicradar.com/music-tech/daily-deliveries-keep-increasing-44-percent-of-deezers-daily-uploads-are-ai-slop)  
+   Link: <a href="https://www.musicradar.com/music-tech/daily-deliveries-keep-increasing-44-percent-of-deezers-daily-uploads-are-ai-slop" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/daily-deliveries-keep-increasing-44-percent-of-deezers-daily-uploads-are-ai-slop</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks a dramatic increase from early 2025, when AI content made up only 18% of submissions. Over the last 15 months, since the imple...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.deezer.com  
    Title: Support Artist-Centric Payment Model (ACPS)  
-   Link: [https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS](https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS)  
+   Link: <a href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer SupportArtist-Centric Payment Model (ACPS)September 11, 2019 — 13 Mar 2026 — In this article, we want to introduce one of the less...</p></details>
    Published: September 11, 2019  
 
 3. <a id="endnote-3"></a>
    Source: deezer.com  
-   Link: [https://www.deezer.com/explore/artist-remuneration/](https://www.deezer.com/explore/artist-remuneration/)  
+   Link: <a href="https://www.deezer.com/explore/artist-remuneration/" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/explore/artist-remuneration/</a>  
 
 4. <a id="endnote-4"></a>
    Source: en.deezercommunity.com  
-   Link: [https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852](https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852)  
+   Link: <a href="https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852" target="_blank" rel="noopener noreferrer nofollow">https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer CommunityDeezer Just Rolled Out the World&#x27;s First AI Music Tagging...June 17, 2025 — 17 Jun 2025 — While most of these tracks don...</p></details>
    Published: June 17, 2025  
 
 5. <a id="endnote-5"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b](https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b)  
+   Link: <a href="https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In response to a surge in songs created with artificial intelligence—now comprising about 18% of daily uploads—Deezer will label albums t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available](https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available)  
+   Link: <a href="https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially launched in 2025, the tool is designed to identify, tag, and exclude AI-generated music from recommendation algorithms to prote...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pcgamer.com  
-   Link: [https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/](https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/)  
+   Link: <a href="https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it states that only 1–3% of this music is consumed, as 85% of such uploads are flagged and demonetized due to detection tools ta...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: musicinafrica.net  
-   Title: [ai generated music](&#123;&#123; 'ai-songs/' | relative_url &#125;&#125;) now makes third daily uploads deezer  
-   Link: [https://www.musicinafrica.net/magazine/ai-generated-music-now-makes-third-daily-uploads-deezer](https://www.musicinafrica.net/magazine/ai-generated-music-now-makes-third-daily-uploads-deezer)  
+   Title: ai generated music now makes third daily uploads deezer  
+   Link: <a href="https://www.musicinafrica.net/magazine/ai-generated-music-now-makes-third-daily-uploads-deezer" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/ai-generated-music-now-makes-third-daily-uploads-deezer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaAI-generated music now makes up a third of daily uploads...12 Nov 2025 — The platform estimates that as much as 70% of st...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report](https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report)  
+   Link: <a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newindustryfocus.com  
    Title: deezer receives 60 000 fully ai generated tracks every day  
-   Link: [https://newindustryfocus.com/articles/deezer-receives-60-000-fully-ai-generated-tracks-every-day](https://newindustryfocus.com/articles/deezer-receives-60-000-fully-ai-generated-tracks-every-day)  
+   Link: <a href="https://newindustryfocus.com/articles/deezer-receives-60-000-fully-ai-generated-tracks-every-day" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/deezer-receives-60-000-fully-ai-generated-tracks-every-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Industry FocusDeezer Receives 60000 Fully AI-Generated Tracks Every...30 Jan 2026 — Deezer detects 60000 AI tracks daily, identifyin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.deezercommunity.com  
    Title: deezer s two tier royalty system 77453  
-   Link: [https://en.deezercommunity.com/features-feedback-44/deezer-s-two-tier-royalty-system-77453](https://en.deezercommunity.com/features-feedback-44/deezer-s-two-tier-royalty-system-77453)  
+   Link: <a href="https://en.deezercommunity.com/features-feedback-44/deezer-s-two-tier-royalty-system-77453" target="_blank" rel="noopener noreferrer nofollow">https://en.deezercommunity.com/features-feedback-44/deezer-s-two-tier-royalty-system-77453</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, I was really supportive of Deezer&#x27;s groundbreaking approach with UCPS.Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/](https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50000 AI tracks flood Deezer daily – as study shows 97%...12 Nov 2025 — According to the platform, up to 70% of plays for fully AI-gener...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-](https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-)  
+   Link: <a href="https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer: AI-generated tracks flagged as fraudulentRecent data from Deezer reveals that nearly one-third of all tracks uploaded to the plat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/[culture](https://www.lemonde.fr/en/[culture)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools like Suno and Udio have advanced significantly, enabling users to create convincing songs from simple prompts, making it increasing...</p></details>
+   Link: <a href="https://www.lemonde.fr/en/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/[culture</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools like [Suno and Udio](&amp;#123;&amp;#123; &#x27;suno-and-udio/&#x27; | relative_url &amp;#125;&amp;#125;) have advanced significantly, enabling users to create convincing songs from simple prompts, making it increasing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/udiomusic/comments/1k0y5tx/aigenerated_music_accounts_for_18_of_all_tracks/](https://www.reddit.com/r/udiomusic/comments/1k0y5tx/aigenerated_music_accounts_for_18_of_all_tracks/)  
+   Link: <a href="https://www.reddit.com/r/udiomusic/comments/1k0y5tx/aigenerated_music_accounts_for_18_of_all_tracks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/udiomusic/comments/1k0y5tx/aigenerated_music_accounts_for_18_of_all_tracks/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/](https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/)  
+   Link: <a href="https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a nutshell, it ensures that your subscription is used only to pay the artists you listen...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: djmag.com  
    Title: 85 of ai generated music streams have been demonetised deezer  
-   Link: [https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer](https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer)  
+   Link: <a href="https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Up to 85% of AI-generated music streams have been...30 Jan 2026 — French music streaming service Deezer has demonetised up to 85% of all...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: soundiiz.com  
    Title: deezer and the artist centric approach a revolution incoming  
-   Link: [https://soundiiz.com/blog/deezer-and-the-artist-centric-approach-a-revolution-incoming/](https://soundiiz.com/blog/deezer-and-the-artist-centric-approach-a-revolution-incoming/)  
+   Link: <a href="https://soundiiz.com/blog/deezer-and-the-artist-centric-approach-a-revolution-incoming/" target="_blank" rel="noopener noreferrer nofollow">https://soundiiz.com/blog/deezer-and-the-artist-centric-approach-a-revolution-incoming/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer and the artist-centric approach: a revolution...22 Jan 2025 — In 2023, Deezer announced its intention to change the model for rem...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/](https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/)  
+   Link: <a href="https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ription money actually goes to the artists YOU listen to not into a giant...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/](https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/)  
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>60,000+ AI tracks uploaded daily, and most of the streams...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MixmagMagazine/posts/more-than-30000-fully-ai-generated-tracks-are-uploaded-to-deezer-each-day-up-by-/1203589691811021/](https://www.facebook.com/MixmagMagazine/posts/more-than-30000-fully-ai-generated-tracks-are-uploaded-to-deezer-each-day-up-by-/1203589691811021/)  
+   Link: <a href="https://www.facebook.com/MixmagMagazine/posts/more-than-30000-fully-ai-generated-tracks-are-uploaded-to-deezer-each-day-up-by-/1203589691811021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MixmagMagazine/posts/more-than-30000-fully-ai-generated-tracks-are-uploaded-to-deezer-each-day-up-by-/1203589691811021/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>up by almost 20% since January. In the first month of the year...</p></details>

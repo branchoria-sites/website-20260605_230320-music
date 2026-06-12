@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - afrobeats
 keywords:
-- music
+- music-3-a01-be
 - afrobeats
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Afrobeats illustrates how regional scenes can move through streaming, diaspora networks, clubs and global pop collaboration.
 hero_summary: Afrobeats illustrates how regional scenes can move through streaming, diaspora networks, clubs and global pop collaboration.
 layout: default
 permalink: /afrobeats/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Afrobeats
 title: How Afrobeats Crossed Global Borders
-title_full: How Afrobeats Crossed Global Borders | Music
+title_full: How Afrobeats Crossed Global Borders
 display_title_short: Afrobeats
 display_title: Afrobeats
 heading_title: How Afrobeats Crossed Global Borders
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,15 +478,15 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 next_link:
   basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
-date: '2026-06-09 06:14:56 '
+date: '2026-06-11 23:07:59 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305-overview-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305-overview.webp
@@ -495,8 +495,7 @@ image: /assets/images/music_3a01be_afrobeats_global_cir_80f305-overview-social.j
 
 ## Introduction
 
-Afrobeats shows global [music]({{ 'music/' | relative_url }}) circulation because it did not move from West Africa to the world through one clean route. It travelled through Lagos and Accra studios, London and New York [diaspora]({{ 'diaspora/' | relative_url }}) clubs, streaming playlists, short-form video, festivals, radio shows, award categories and pop collaborations. Its rise is a case study in how a regional scene can become globally audible without simply becoming generic global pop. The most important point is not that Afrobeats “crossed over”, as though success only counts when Western markets approve it. It is that Nigerian, Ghanaian and wider African popular music built international demand through layered circuits: local scenes fed diaspora nightlife; diaspora audiences shaped streaming data; platforms made those signals visible; and collaborations with global stars expanded reach while still depending on West African creative authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.lse.ac.uk">[LSE Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.lse.ac.uk</span><span class="citation-popover-title">LSE Blogs From Nigeria to the world: Afrobeats is having a global</span><span class="citation-popover-snippet">LSE BlogsFrom Nigeria to the world: Afrobeats is having a global...April 6, 2022 — 6 Apr 2022 — The musical genre Afrobeats is having a...</span><span class="citation-popover-meta">Published: April 6, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://afrobeats.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrobeats.byspotify.com">[2afrobeats.byspotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrobeats.byspotify.com</span><span class="citation-popover-snippet">Spotify&#x27;s AfrobeatsAfrobeats was streamed more than 13 billion times on Spotify in 2022. In this section, we delve into Afrobeats data ga...</span></span></span>
-
+Afrobeats shows global music circulation because it did not move from West Africa to the world through one clean route. It travelled through Lagos and Accra studios, London and New York [diaspora]({{ 'diaspora/' | relative_url }}) clubs, streaming playlists, short-form video, festivals, radio shows, award categories and pop collaborations. Its rise is a case study in how a regional scene can become globally audible without simply becoming generic global pop. The most important point is not that Afrobeats “crossed over”, as though success only counts when Western markets approve it. It is that Nigerian, Ghanaian and wider African popular music built international demand through layered circuits: local scenes fed diaspora nightlife; diaspora audiences shaped streaming data; platforms made those signals visible; and collaborations with global stars expanded reach while still depending on West African creative authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.lse.ac.uk">[LSE Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.lse.ac.uk</span><span class="citation-popover-title">LSE Blogs From Nigeria to the world: Afrobeats is having a global</span><span class="citation-popover-snippet">LSE BlogsFrom Nigeria to the world: Afrobeats is having a global...April 6, 2022 — 6 Apr 2022 — The musical genre Afrobeats is having a...</span><span class="citation-popover-meta">Published: April 6, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://afrobeats.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrobeats.byspotify.com">[2afrobeats.byspotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrobeats.byspotify.com</span><span class="citation-popover-snippet">Spotify&#x27;s AfrobeatsAfrobeats was streamed more than 13 billion times on Spotify in 2022. In this section, we delve into Afrobeats data ga...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-overview.webp" | relative_url }}" alt="Overview image for Afrobeats" loading="eager" decoding="sync" fetchpriority="high">
 ## Regional roots and diaspora routes
@@ -509,7 +508,6 @@ Diaspora audiences were not passive receivers of this music. In the UK, West Afr
 
 That matters because global circulation is not just distribution. A song can be uploaded worldwide and still remain culturally invisible. Afrobeats became global because communities gave the music social uses: weddings, clubs, student nights, family gatherings, festival travel, online dance routines and identity performance. Research on Nigerian diaspora listeners in the Netherlands similarly frames Afrobeats as a way for young diaspora audiences to maintain and negotiate cultural connection, not merely as entertainment content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/71634/6969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[thesis.eur.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-1-dark.svg" | relative_url }}" alt="Afrobeats illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Streaming turned local signals into global evidence
 
@@ -521,19 +519,17 @@ The regional industry numbers are still modest compared with North America or Eu
 
 The strongest streaming case is not only a number; it is a path. CKay’s “Love Nwantiti” began as a 2019 song, gained new life through remixes and short-form video, and then became the first No. 1 on Billboard’s U.S. Afrobeats Songs chart when that chart launched in 2022. Rema’s “[Calm Down]({{ 'calm-down/' | relative_url }})”, especially the Selena Gomez remix, then showed how a Nigerian hit could become a long-running global pop record, peaking at No. 3 on the Billboard Hot 100 and breaking records on pop radio and Afrobeats-specific [charts]({{ 'charts/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">ckays love nwantiti tops first billboard us afrobeats songs chart 1235050658</span><span class="citation-popover-snippet">ckays love nwantiti tops first billboard us afrobeats songs chart 1235050658</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t-KBFFeK0jk" title="Burna Boy - Grammy Performance 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t-KBFFeK0jk" target="_blank" rel="noopener noreferrer">Burna Boy - Grammy Performance 2024</a></p><p class="youtube-embed-meta">Channel: Burna Boy &middot; Views: 5.3M &middot; Uploaded: February 2024 &middot; Length: 3 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t-KBFFeK0jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t-KBFFeK0jk">Open on YouTube</a></p></div></div></div>
 
 ## Clubs, festivals and charts made the circulation visible
 
-Afrobeats’ global movement has always depended on places where bodies gather. Streaming can prove that a track is being replayed, but clubs and festivals prove that it can organise a crowd. In diaspora cities, DJs often worked as translators between scenes: they placed Afrobeats beside dancehall, hip-hop, R&B, soca, UK funky, house and later amapiano, helping listeners hear it as both familiar and distinct. Boiler Room’s Afrobeats listings, for instance, place the genre in a transnational club map that includes London, Johannesburg and Los Angeles rather than treating it as music heard only in West Africa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boilerroom.tv/genre/afrobeats/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boilerroom.tv">[BOILER ROOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boilerroom.tv</span><span class="citation-popover-title">BOILER ROOMAfrobeats | BOILER ROOM</span><span class="citation-popover-snippet">BOILER ROOMAfrobeats | BOILER ROOM</span></span></span>
+Afrobeats’ global movement has always depended on places where bodies gather. Streaming can prove that a track is being replayed, but clubs and festivals prove that it can organise a crowd. In diaspora cities, DJs often worked as translators between scenes: they placed Afrobeats beside dancehall, hip-hop, R&B, soca, UK funky, house and later [amapiano]({{ 'amapiano/' | relative_url }}), helping listeners hear it as both familiar and distinct. Boiler Room’s Afrobeats listings, for instance, place the genre in a transnational club map that includes London, Johannesburg and Los Angeles rather than treating it as music heard only in West Africa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boilerroom.tv/genre/afrobeats/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boilerroom.tv">[BOILER ROOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boilerroom.tv</span><span class="citation-popover-title">BOILER ROOMAfrobeats &#124; BOILER ROOM</span><span class="citation-popover-snippet">BOILER ROOMAfrobeats &#124; BOILER ROOM</span></span></span>
 
 Afro Nation is the most visible festival expression of this circulation. Its Portugal edition bills itself as “the world’s biggest Afrobeats festival” and explicitly frames the event as a celebration of culture through music, food and art. The choice of Portugal is revealing: the festival is not simply “African music in Africa” or “African music in the West”, but a destination event where diaspora audiences, African artists and global tourists meet on neutral festival ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Afro Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Afro Nation</span></span></span>
 
 The festival circuit also feeds back into the continent. Afro Nation expanded from Portugal into Ghana, Puerto Rico, Miami and other locations, while Ghana editions tied Afrobeats tourism to Accra’s December travel season and the broader “return” economy. This kind of event circulation changes the meaning of global success. The music does not only leave Africa; it can also pull visitors, money, attention and prestige back towards African cities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theafricancourier.de">[African Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theafricancourier.de</span><span class="citation-popover-title">African Courier World&#x27;s biggest Afrobeats festival moves to Ghana in December</span><span class="citation-popover-snippet">African Courier World&#x27;s biggest Afrobeats festival moves to Ghana in December</span></span></span>
 
 Charts made another kind of visibility possible. The UK’s Official Afrobeats Chart began as a weekly genre chart based on sales and streams, and BBC Radio 1Xtra launched a weekly Official UK Afrobeats Chart Show in September 2021. In the United States, Billboard and Afro Nation launched the U.S. Afrobeats Songs chart in March 2022. These charts did not cause the music’s popularity, but they made a dispersed audience legible to advertisers, labels, media outlets and casual listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official Charts</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-2-dark.svg" | relative_url }}" alt="Afrobeats illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Collaboration widened the audience, but did not erase the source
@@ -545,7 +541,6 @@ Global pop collaboration has been one of Afrobeats’ most powerful circulation 
 Burna Boy’s stadium and award-show moments tell a related story. His 2023 London Stadium concert was widely framed as historic, with The Guardian describing him as the first African artist to headline a UK stadium; in 2024 he performed at the Grammy Awards, with his profile listing multiple nominations across global, African and rap-linked categories. These moments placed Afrobeats and Afro-fusion in prestige spaces traditionally dominated by US and European pop industries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/jun/04/burna-boy-review-london-stadium-gig-stormzy-j-hus-dave-popcaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Burna Boy review</span><span class="citation-popover-snippet">The Guardian Burna Boy review</span></span></span>
 
 Yet collaboration also creates tension. When Western awards, playlists or media outlets group many African sounds under “Afrobeats”, they can flatten differences between Nigerian pop, South African amapiano, Ghanaian drill, Afro-house, Afropop and other scenes. Debate around Billboard’s Afrobeats categories and Tyla’s placement in Afrobeats conversations shows the problem: global visibility can open doors, but genre labels can become too broad when institutions use them as a shortcut for “African”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.okayafrica.com/whats-going-on-with-billboards-top-afrobeats-song-category/248518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: okayafrica.com">[okayafrica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">okayafrica.com</span><span class="citation-popover-title">What&#x27;s Going on with Billboard&#x27;s Top Afrobeats Song</span><span class="citation-popover-snippet">What&#x27;s Going on with Billboard&#x27;s Top Afrobeats Song</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f67x767TudI" title="Grammys: &quot;Best Africa Music Performance“ Category For 2024 Award | Entertainment News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f67x767TudI" target="_blank" rel="noopener noreferrer">Grammys: &quot;Best Africa Music Performance“ Category For 2024 Award | Entertainment News</a></p><p class="youtube-embed-meta">Channel: Channels Television &middot; Views: 1.5K &middot; Uploaded: June 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f67x767TudI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f67x767TudI">Open on YouTube</a></p></div></div></div>
 
@@ -561,7 +556,6 @@ There is also a platform risk. Research on the “digital diaspora” of Afrobea
 
 The healthiest version of Afrobeats’ global circulation therefore depends on a balance: export without erasure, collaboration without absorption, and recognition without lazy categorisation. The music’s international power comes from the fact that it is mobile, not rootless.
 
-
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-3-dark.svg" | relative_url }}" alt="Afrobeats illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Afrobeats reveals about global music now
 
@@ -571,9 +565,7 @@ It also shows that diaspora networks are cultural infrastructure. Listeners, DJs
 
 Finally, Afrobeats makes clear that circulation is not the same as permanent dominance. The Guardian reported in 2026 that some African pop insiders were concerned about reduced Western chart impact after the peak years of 2020 to 2023, citing oversaturation, fragmented audiences and changing investment patterns. That does not cancel Afrobeats’ global significance; it makes the case more realistic. Global circulation moves in waves. The deeper question is not whether every Afrobeats single can become an international hit, but whether African scenes now have stronger routes, data, audiences and institutions than they did before this wave began. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/jun/04/burna-boy-review-london-stadium-gig-stormzy-j-hus-dave-popcaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Burna Boy review</span><span class="citation-popover-snippet">The Guardian Burna Boy review</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wx1kiGHqTjw" title="Bounce presents Spotify Afrobeats: Journey of a Billion Streams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wx1kiGHqTjw" target="_blank" rel="noopener noreferrer">Bounce presents Spotify Afrobeats: Journey of a Billion Streams</a></p><p class="youtube-embed-meta">Channel: BOUNCE &middot; Views: 390 &middot; Uploaded: October 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wx1kiGHqTjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wx1kiGHqTjw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -692,15 +684,15 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/858a942cedec3773f5a3.jpg' | relative_url }}" alt="Listing image for Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -708,15 +700,15 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/4345266b344ffb551ca4.jpg' | relative_url }}" alt="Listing image for Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -724,15 +716,15 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X SERIES @ ES PARADIS IBIZA 2023 - IBIZA CLUB POSTERS - DJ LATIN AFROBEATS"><img src="{{ '/assets/images/marketplace-covers/3965b20feed72581a8c5.jpg' | relative_url }}" alt="Listing image for X SERIES @ ES PARADIS IBIZA 2023 - IBIZA CLUB POSTERS - DJ LATIN AFROBEATS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">X SERIES @ ES PARADIS IBIZA 2023 - IBIZA CLUB POSTERS - DJ LATIN AFROBEATS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -740,15 +732,15 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Afrobeats 2 Art Print Framed Wall A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f22b45aa0bd8d774f03a.jpg' | relative_url }}" alt="Listing image for Afrobeats 2 Art Print Framed Wall A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Afrobeats 2 Art Print Framed Wall A Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -756,7 +748,7 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-how-afrobeats-crossed-global-borders-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-afrobeats-crossed-global-borders-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -971,361 +963,361 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
 
 1. <a id="endnote-1"></a>
    Source: afrobeats.byspotify.com  
-   Link: [https://afrobeats.byspotify.com/](https://afrobeats.byspotify.com/)  
+   Link: <a href="https://afrobeats.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://afrobeats.byspotify.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s AfrobeatsAfrobeats was streamed more than 13 billion times on Spotify in 2022. In this section, we delve into Afrobeats data ga...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Afrobeats](https://en.wikipedia.org/wiki/Afrobeats)  
+   Link: <a href="https://en.wikipedia.org/wiki/Afrobeats" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afrobeats</a>  
 
 3. <a id="endnote-3"></a>
    Source: grammy.com  
    Title: afrobeats evolution wizkid rema wande coal olamide asake  
-   Link: [https://www.grammy.com/news/afrobeats-evolution-wizkid-rema-wande-coal-olamide-asake/](https://www.grammy.com/news/afrobeats-evolution-wizkid-rema-wande-coal-olamide-asake/)  
+   Link: <a href="https://www.grammy.com/news/afrobeats-evolution-wizkid-rema-wande-coal-olamide-asake/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/afrobeats-evolution-wizkid-rema-wande-coal-olamide-asake/</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Love Nwantiti  
-   Link: [https://en.wikipedia.org/wiki/Love_Nwantiti](https://en.wikipedia.org/wiki/Love_Nwantiti)  
+   Link: <a href="https://en.wikipedia.org/wiki/Love_Nwantiti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Love_Nwantiti</a>  
 
 5. <a id="endnote-5"></a>
    Source: internationalorange.io  
    Title: AC S raves and the rise of UK Afrobeats  
-   Link: [https://internationalorange.io/acs-raves-and-the-rise-of-uk-afrobeats/](https://internationalorange.io/acs-raves-and-the-rise-of-uk-afrobeats/)  
+   Link: <a href="https://internationalorange.io/acs-raves-and-the-rise-of-uk-afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://internationalorange.io/acs-raves-and-the-rise-of-uk-afrobeats/</a>  
 
 6. <a id="endnote-6"></a>
    Source: thesis.eur.nl  
-   Link: [https://thesis.eur.nl/pub/71634/6969.pdf](https://thesis.eur.nl/pub/71634/6969.pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/71634/6969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/71634/6969.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: newsroom.spotify.com  
    Title: is putting the spotlight on afrobeats to chart its global rise  
-   Link: [https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/](https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/)  
+   Link: <a href="https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/</a>  
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: spotify royalty payouts nigerian south african artists boom 2024 2025 04 04  
-   Link: [https://www.reuters.com/technology/spotify-royalty-payouts-nigerian-south-african-artists-boom-2024-2025-04-04/](https://www.reuters.com/technology/spotify-royalty-payouts-nigerian-south-african-artists-boom-2024-2025-04-04/)  
+   Link: <a href="https://www.reuters.com/technology/spotify-royalty-payouts-nigerian-south-african-artists-boom-2024-2025-04-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/spotify-royalty-payouts-nigerian-south-african-artists-boom-2024-2025-04-04/</a>  
 
 9. <a id="endnote-9"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
 
 11. <a id="endnote-11"></a>
    Source: billboard.com  
    Title: ckays love nwantiti tops first billboard us afrobeats songs chart 1235050658  
-   Link: [https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/](https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/</a>  
 
 12. <a id="endnote-12"></a>
    Source: billboard.com  
    Title: selena gomez rema calm down breaks pop airplay chart record 1235581690  
-   Link: [https://www.billboard.com/music/chart-beat/selena-gomez-rema-calm-down-breaks-pop-airplay-chart-record-1235581690/](https://www.billboard.com/music/chart-beat/selena-gomez-rema-calm-down-breaks-pop-airplay-chart-record-1235581690/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/selena-gomez-rema-calm-down-breaks-pop-airplay-chart-record-1235581690/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/selena-gomez-rema-calm-down-breaks-pop-airplay-chart-record-1235581690/</a>  
 
 13. <a id="endnote-13"></a>
    Source: boilerroom.tv  
    Title: BOILER ROOMAfrobeats | BOILER ROOM  
-   Link: [https://boilerroom.tv/genre/afrobeats/2/](https://boilerroom.tv/genre/afrobeats/2/)  
+   Link: <a href="https://boilerroom.tv/genre/afrobeats/2/" target="_blank" rel="noopener noreferrer nofollow">https://boilerroom.tv/genre/afrobeats/2/</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Afro Nation  
-   Link: [https://en.wikipedia.org/wiki/Afro_Nation](https://en.wikipedia.org/wiki/Afro_Nation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afro_Nation</a>  
 
 15. <a id="endnote-15"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/charts/billboard-u-s-afrobeats-songs/](https://www.billboard.com/charts/billboard-u-s-afrobeats-songs/)  
+   Link: <a href="https://www.billboard.com/charts/billboard-u-s-afrobeats-songs/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/charts/billboard-u-s-afrobeats-songs/</a>  
 
 16. <a id="endnote-16"></a>
    Source: grammy.com  
-   Link: [https://www.grammy.com/artists/burna-boy/251682/](https://www.grammy.com/artists/burna-boy/251682/)  
+   Link: <a href="https://www.grammy.com/artists/burna-boy/251682/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/artists/burna-boy/251682/</a>  
 
 17. <a id="endnote-17"></a>
    Source: okayafrica.com  
    Title: What's Going on with Billboard's Top Afrobeats Song  
-   Link: [https://www.okayafrica.com/whats-going-on-with-billboards-top-afrobeats-song-category/248518](https://www.okayafrica.com/whats-going-on-with-billboards-top-afrobeats-song-category/248518)  
+   Link: <a href="https://www.okayafrica.com/whats-going-on-with-billboards-top-afrobeats-song-category/248518" target="_blank" rel="noopener noreferrer nofollow">https://www.okayafrica.com/whats-going-on-with-billboards-top-afrobeats-song-category/248518</a>  
 
 18. <a id="endnote-18"></a>
    Source: grammy.com  
    Title: best african music performance category 2024 grammys roundtable  
-   Link: [https://www.grammy.com/news/best-african-music-performance-category-2024-grammys-roundtable/](https://www.grammy.com/news/best-african-music-performance-category-2024-grammys-roundtable/)  
+   Link: <a href="https://www.grammy.com/news/best-african-music-performance-category-2024-grammys-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/best-african-music-performance-category-2024-grammys-roundtable/</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Grammy Award for Best African Music Performance  
-   Link: [https://en.wikipedia.org/wiki/Grammy_Award_for_Best_African_Music_Performance](https://en.wikipedia.org/wiki/Grammy_Award_for_Best_African_Music_Performance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Grammy_Award_for_Best_African_Music_Performance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Grammy_Award_for_Best_African_Music_Performance</a>  
 
 20. <a id="endnote-20"></a>
    Source: jurnal.fs.umi.ac.id  
    Title: Jurnal Fakultas Sastra UMIThe Afrobeats Digital Diaspora: Tik Tok, Algorithmic  
-   Link: [https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680](https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680)  
+   Link: <a href="https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680" target="_blank" rel="noopener noreferrer nofollow">https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680</a>  
 
 21. <a id="endnote-21"></a>
    Source: jurnal.fs.umi.ac.id  
-   Link: [https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680/3258](https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680/3258)  
+   Link: <a href="https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680/3258" target="_blank" rel="noopener noreferrer nofollow">https://jurnal.fs.umi.ac.id/index.php/alpamet/article/download/1008/680/3258</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Official](https://en.wikipedia.org/wiki/Official)  
+   Link: <a href="https://en.wikipedia.org/wiki/Official" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Official</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Billboard U.S. Afrobeats Songs  
-   Link: [https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs](https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Wizkid](https://en.wikipedia.org/wiki/Wizkid)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wizkid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wizkid</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Calm Down (Rema song)  
-   Link: [https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29](https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: UK Afrobeats Singles Chart  
-   Link: [https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart](https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart)  
+   Link: <a href="https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart</a>  
 
 27. <a id="endnote-27"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/playlist/0NehcnNtWCNmeDgENXqh9K](https://open.spotify.com/playlist/0NehcnNtWCNmeDgENXqh9K)  
+   Link: <a href="https://open.spotify.com/playlist/0NehcnNtWCNmeDgENXqh9K" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/0NehcnNtWCNmeDgENXqh9K</a>  
 
 28. <a id="endnote-28"></a>
    Source: newsroom.spotify.com  
    Title: discover the latest afrobeats news interviews and trends on our dedicated site  
-   Link: [https://newsroom.spotify.com/2023-06-22/discover-the-latest-afrobeats-news-interviews-and-trends-on-our-dedicated-site/](https://newsroom.spotify.com/2023-06-22/discover-the-latest-afrobeats-news-interviews-and-trends-on-our-dedicated-site/)  
+   Link: <a href="https://newsroom.spotify.com/2023-06-22/discover-the-latest-afrobeats-news-interviews-and-trends-on-our-dedicated-site/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-06-22/discover-the-latest-afrobeats-news-interviews-and-trends-on-our-dedicated-site/</a>  
 
 29. <a id="endnote-29"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/playlist/5Nf2LDfhIK7X0rHtnqM1Qb](https://open.spotify.com/playlist/5Nf2LDfhIK7X0rHtnqM1Qb)  
+   Link: <a href="https://open.spotify.com/playlist/5Nf2LDfhIK7X0rHtnqM1Qb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/5Nf2LDfhIK7X0rHtnqM1Qb</a>  
 
 30. <a id="endnote-30"></a>
    Source: open.spotify.com  
    Title: 19YELm UBBO53LJX14OPB1V  
-   Link: [https://open.spotify.com/track/19YELmUBBO53LJX14OPB1V](https://open.spotify.com/track/19YELmUBBO53LJX14OPB1V)  
+   Link: <a href="https://open.spotify.com/track/19YELmUBBO53LJX14OPB1V" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/19YELmUBBO53LJX14OPB1V</a>  
 
 31. <a id="endnote-31"></a>
    Source: open.spotify.com  
    Title: 3t VQd Uv Clm AT7URs9V3rsp  
-   Link: [https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp)  
+   Link: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp</a>  
 
 32. <a id="endnote-32"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/charts/genre/afrobeats/](https://www.billboard.com/charts/genre/afrobeats/)  
+   Link: <a href="https://www.billboard.com/charts/genre/afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/charts/genre/afrobeats/</a>  
 
 33. <a id="endnote-33"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/artist/wizkid/](https://www.billboard.com/artist/wizkid/)  
+   Link: <a href="https://www.billboard.com/artist/wizkid/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/wizkid/</a>  
 
 34. <a id="endnote-34"></a>
    Source: billboard.com  
    Title: african music performance grammy category analysis 1235432957  
-   Link: [https://www.billboard.com/music/awards/african-music-performance-grammy-category-analysis-1235432957/](https://www.billboard.com/music/awards/african-music-performance-grammy-category-analysis-1235432957/)  
+   Link: <a href="https://www.billboard.com/music/awards/african-music-performance-grammy-category-analysis-1235432957/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/awards/african-music-performance-grammy-category-analysis-1235432957/</a>  
 
 35. <a id="endnote-35"></a>
    Source: africa.billboard.com  
    Title: how tiktok is influencing the african music scene  
-   Link: [https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/](https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/)  
+   Link: <a href="https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/" target="_blank" rel="noopener noreferrer nofollow">https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/</a>  
 
 36. <a id="endnote-36"></a>
    Source: grammy.com  
    Title: three new categories added for the 2024 grammys  
-   Link: [https://www.grammy.com/news/three-new-categories-added-for-the-2024-grammys/](https://www.grammy.com/news/three-new-categories-added-for-the-2024-grammys/)  
+   Link: <a href="https://www.grammy.com/news/three-new-categories-added-for-the-2024-grammys/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/three-new-categories-added-for-the-2024-grammys/</a>  
 
 37. <a id="endnote-37"></a>
    Source: ifpi.org  
    Title: GMR 2024 State of the Industry  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: word.tips  
-   Link: [https://word.tips/spelling/official-vs-oficial/](https://word.tips/spelling/official-vs-oficial/)  
+   Link: <a href="https://word.tips/spelling/official-vs-oficial/" target="_blank" rel="noopener noreferrer nofollow">https://word.tips/spelling/official-vs-oficial/</a>  
 
 39. <a id="endnote-39"></a>
    Source: okayafrica.com  
    Title: how ckays love nwantiti became the worlds song  
-   Link: [https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759](https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759)  
+   Link: <a href="https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759" target="_blank" rel="noopener noreferrer nofollow">https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759</a>  
 
 40. <a id="endnote-40"></a>
    Source: blogs.lse.ac.uk  
    Title: LSE Blogs From Nigeria to the world: Afrobeats is having a global  
-   Link: [https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/](https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/)  
+   Link: <a href="https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsFrom Nigeria to the world: Afrobeats is having a global...April 6, 2022 — 6 Apr 2022 — The musical genre Afrobeats is having a...</p></details>
    Published: April 6, 2022  
 
 41. <a id="endnote-41"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/bbc-radio-1xtra-to-launch-first-ever-weekly-official-uk-afrobeats-chart-show__33805/](https://www.officialcharts.com/chart-news/bbc-radio-1xtra-to-launch-first-ever-weekly-official-uk-afrobeats-chart-show__33805/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/bbc-radio-1xtra-to-launch-first-ever-weekly-official-uk-afrobeats-chart-show__33805/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/bbc-radio-1xtra-to-launch-first-ever-weekly-official-uk-afrobeats-chart-show__33805/</a>  
 
 42. <a id="endnote-42"></a>
    Source: afronation.com  
-   Link: [https://www.afronation.com/](https://www.afronation.com/)  
+   Link: <a href="https://www.afronation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/</a>  
 
 43. <a id="endnote-43"></a>
    Source: theafricancourier.de  
    Title: African Courier World's biggest Afrobeats festival moves to Ghana in December  
-   Link: [https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/](https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/)  
+   Link: <a href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow">https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/</a>  
 
 44. <a id="endnote-44"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/charts/afrobeats-chart/](https://www.officialcharts.com/charts/afrobeats-chart/)  
+   Link: <a href="https://www.officialcharts.com/charts/afrobeats-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/afrobeats-chart/</a>  
 
 45. <a id="endnote-45"></a>
    Source: theguardian.com  
    Title: The Guardian Burna Boy review  
-   Link: [https://www.theguardian.com/music/2023/jun/04/burna-boy-review-london-stadium-gig-stormzy-j-hus-dave-popcaan](https://www.theguardian.com/music/2023/jun/04/burna-boy-review-london-stadium-gig-stormzy-j-hus-dave-popcaan)  
+   Link: <a href="https://www.theguardian.com/music/2023/jun/04/burna-boy-review-london-stadium-gig-stormzy-j-hus-dave-popcaan" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2023/jun/04/burna-boy-review-london-stadium-gig-stormzy-j-hus-dave-popcaan</a>  
 
 46. <a id="endnote-46"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy](https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy)  
+   Link: <a href="https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts blame a mix of factors: oversaturation, the fading novelty post-COVID lockdowns, reduced foreign investment, audience fragmentati...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: instagram.com  
    Title: Afro Nation United  
-   Link: [https://www.instagram.com/p/DNp0WjLo_LC/](https://www.instagram.com/p/DNp0WjLo_LC/)  
+   Link: <a href="https://www.instagram.com/p/DNp0WjLo_LC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNp0WjLo_LC/</a>  
 
 48. <a id="endnote-48"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/afronation/?hl=en](https://www.instagram.com/afronation/?hl=en)  
+   Link: <a href="https://www.instagram.com/afronation/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/afronation/?hl=en</a>  
 
 49. <a id="endnote-49"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/official](https://dictionary.cambridge.org/dictionary/english/official)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
 
 50. <a id="endnote-50"></a>
    Source: officialcharts.com  
    Title: Official Charts  
-   Link: [https://www.officialcharts.com/](https://www.officialcharts.com/)  
+   Link: <a href="https://www.officialcharts.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/</a>  
 
 51. <a id="endnote-51"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/news/afrobeats/](https://www.officialcharts.com/news/afrobeats/)  
+   Link: <a href="https://www.officialcharts.com/news/afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/news/afrobeats/</a>  
 
 52. <a id="endnote-52"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/artist/45316/wizkid/news/](https://www.officialcharts.com/artist/45316/wizkid/news/)  
+   Link: <a href="https://www.officialcharts.com/artist/45316/wizkid/news/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/45316/wizkid/news/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/afronationfestival/posts/afro-nation-x-lit-presents-out-the-box-londons-littest-event-this-summer-join-us/1212132403618363/](https://www.facebook.com/afronationfestival/posts/afro-nation-x-lit-presents-out-the-box-londons-littest-event-this-summer-join-us/1212132403618363/)  
+   Link: <a href="https://www.facebook.com/afronationfestival/posts/afro-nation-x-lit-presents-out-the-box-londons-littest-event-this-summer-join-us/1212132403618363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afronationfestival/posts/afro-nation-x-lit-presents-out-the-box-londons-littest-event-this-summer-join-us/1212132403618363/</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
    Title: Afro Nation  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/](https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/](https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/)  
+   Link: <a href="https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/</a>  
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
    Title: Burna Boy  
-   Link: [https://www.youtube.com/watch?v=t-KBFFeK0jk](https://www.youtube.com/watch?v=t-KBFFeK0jk)  
+   Link: <a href="https://www.youtube.com/watch?v=t-KBFFeK0jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t-KBFFeK0jk</a>  
 
 57. <a id="endnote-57"></a>
    Source: rollingstone.com  
    Title: grammys afrobeats best african performance 1234853693  
-   Link: [https://www.rollingstone.com/music/music-features/grammys-afrobeats-best-african-performance-1234853693/](https://www.rollingstone.com/music/music-features/grammys-afrobeats-best-african-performance-1234853693/)  
+   Link: <a href="https://www.rollingstone.com/music/music-features/grammys-afrobeats-best-african-performance-1234853693/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-features/grammys-afrobeats-best-african-performance-1234853693/</a>  
 
 58. <a id="endnote-58"></a>
    Source: downtownmusic.africa  
    Title: grammy awards how the african music category came to life  
-   Link: [https://downtownmusic.africa/grammy-awards-how-the-african-music-category-came-to-life/](https://downtownmusic.africa/grammy-awards-how-the-african-music-category-came-to-life/)  
+   Link: <a href="https://downtownmusic.africa/grammy-awards-how-the-african-music-category-came-to-life/" target="_blank" rel="noopener noreferrer nofollow">https://downtownmusic.africa/grammy-awards-how-the-african-music-category-came-to-life/</a>  
 
 59. <a id="endnote-59"></a>
    Source: x.com  
-   Link: [https://x.com/DeeOneAyekooto/status/1668708161409171457](https://x.com/DeeOneAyekooto/status/1668708161409171457)  
+   Link: <a href="https://x.com/DeeOneAyekooto/status/1668708161409171457" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DeeOneAyekooto/status/1668708161409171457</a>  
 
 60. <a id="endnote-60"></a>
    Source: musicinafrica.net  
-   Link: [https://www.musicinafrica.net/fr/node/70755](https://www.musicinafrica.net/fr/node/70755)  
+   Link: <a href="https://www.musicinafrica.net/fr/node/70755" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/fr/node/70755</a>  
 
 61. <a id="endnote-61"></a>
    Source: iqmagazine.com  
    Title: afro nation unveils first uk event  
-   Link: [https://www.iqmagazine.com/2025/09/afro-nation-unveils-first-uk-event/](https://www.iqmagazine.com/2025/09/afro-nation-unveils-first-uk-event/)  
+   Link: <a href="https://www.iqmagazine.com/2025/09/afro-nation-unveils-first-uk-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.iqmagazine.com/2025/09/afro-nation-unveils-first-uk-event/</a>  
 
 62. <a id="endnote-62"></a>
    Source: mustardmedia.co.uk  
    Title: afro nation  
-   Link: [https://www.mustardmedia.co.uk/case-study/afro-nation](https://www.mustardmedia.co.uk/case-study/afro-nation)  
+   Link: <a href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow">https://www.mustardmedia.co.uk/case-study/afro-nation</a>  
 
 63. <a id="endnote-63"></a>
    Source: theindiescene.co.uk  
    Title: afro nation london  
-   Link: [https://www.theindiescene.co.uk/news/afro-nation-london](https://www.theindiescene.co.uk/news/afro-nation-london)  
+   Link: <a href="https://www.theindiescene.co.uk/news/afro-nation-london" target="_blank" rel="noopener noreferrer nofollow">https://www.theindiescene.co.uk/news/afro-nation-london</a>  
 
 64. <a id="endnote-64"></a>
    Source: africabriefing.com  
-   Link: [https://africabriefing.com/grammys-introduce-best-african-music-performance-category-acknowledging-a-broader-array-of-artists/](https://africabriefing.com/grammys-introduce-best-african-music-performance-category-acknowledging-a-broader-array-of-artists/)  
+   Link: <a href="https://africabriefing.com/grammys-introduce-best-african-music-performance-category-acknowledging-a-broader-array-of-artists/" target="_blank" rel="noopener noreferrer nofollow">https://africabriefing.com/grammys-introduce-best-african-music-performance-category-acknowledging-a-broader-array-of-artists/</a>  
 
 65. <a id="endnote-65"></a>
    Source: festivalinsights.com  
    Title: afro nation united launches in london  
-   Link: [https://www.festivalinsights.com/2025/09/afro-nation-united-launches-in-london/](https://www.festivalinsights.com/2025/09/afro-nation-united-launches-in-london/)  
+   Link: <a href="https://www.festivalinsights.com/2025/09/afro-nation-united-launches-in-london/" target="_blank" rel="noopener noreferrer nofollow">https://www.festivalinsights.com/2025/09/afro-nation-united-launches-in-london/</a>  
 
 66. <a id="endnote-66"></a>
    Source: people.com  
    Title: grammys 2024 burna boy brings afrobeats performance brandy 21 savage 8558549  
-   Link: [https://people.com/grammys-2024-burna-boy-brings-afrobeats-performance-brandy-21-savage-8558549](https://people.com/grammys-2024-burna-boy-brings-afrobeats-performance-brandy-21-savage-8558549)  
+   Link: <a href="https://people.com/grammys-2024-burna-boy-brings-afrobeats-performance-brandy-21-savage-8558549" target="_blank" rel="noopener noreferrer nofollow">https://people.com/grammys-2024-burna-boy-brings-afrobeats-performance-brandy-21-savage-8558549</a>  
 
 67. <a id="endnote-67"></a>
    Source: afronation.com  
-   Link: [https://www.afronation.com/faqs](https://www.afronation.com/faqs)  
+   Link: <a href="https://www.afronation.com/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/faqs</a>  
 
 68. <a id="endnote-68"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/ly/artist/wizkid/309335750](https://music.apple.com/ly/artist/wizkid/309335750)  
+   Link: <a href="https://music.apple.com/ly/artist/wizkid/309335750" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/ly/artist/wizkid/309335750</a>  
 
 69. <a id="endnote-69"></a>
    Source: nataal.com  
-   Link: [https://nataal.com/afronation](https://nataal.com/afronation)  
+   Link: <a href="https://nataal.com/afronation" target="_blank" rel="noopener noreferrer nofollow">https://nataal.com/afronation</a>  
 
 ### Additional References
 
 70. <a id="endnote-70"></a>
    Source: x.com  
-   Link: [https://x.com/chartsafrica/status/1930938362011037881](https://x.com/chartsafrica/status/1930938362011037881)  
+   Link: <a href="https://x.com/chartsafrica/status/1930938362011037881" target="_blank" rel="noopener noreferrer nofollow">https://x.com/chartsafrica/status/1930938362011037881</a>  
 
 71. <a id="endnote-71"></a>
    Source: em-dissertation-research.com  
-   Link: [https://em-dissertation-research.com/afrobeats-and-the-nigerian-diaspora-in-the-uk-investigating-the-influence-of-live-music-events-on-cultural-identity-formation/](https://em-dissertation-research.com/afrobeats-and-the-nigerian-diaspora-in-the-uk-investigating-the-influence-of-live-music-events-on-cultural-identity-formation/)  
+   Link: <a href="https://em-dissertation-research.com/afrobeats-and-the-nigerian-diaspora-in-the-uk-investigating-the-influence-of-live-music-events-on-cultural-identity-formation/" target="_blank" rel="noopener noreferrer nofollow">https://em-dissertation-research.com/afrobeats-and-the-nigerian-diaspora-in-the-uk-investigating-the-influence-of-live-music-events-on-cultural-identity-formation/</a>  
 
 72. <a id="endnote-72"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/poaenglish/posts/afrobeats-has-evolved-from-its-deep-rooted-west-african-origins-into-a-global-cu/122181150704683092/](https://www.facebook.com/poaenglish/posts/afrobeats-has-evolved-from-its-deep-rooted-west-african-origins-into-a-global-cu/122181150704683092/)  
+   Link: <a href="https://www.facebook.com/poaenglish/posts/afrobeats-has-evolved-from-its-deep-rooted-west-african-origins-into-a-global-cu/122181150704683092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/poaenglish/posts/afrobeats-has-evolved-from-its-deep-rooted-west-african-origins-into-a-global-cu/122181150704683092/</a>  
 
 73. <a id="endnote-73"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYUMVMNozR2/](https://www.instagram.com/p/DYUMVMNozR2/)  
+   Link: <a href="https://www.instagram.com/p/DYUMVMNozR2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYUMVMNozR2/</a>  
 
 74. <a id="endnote-74"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/wizkidayo/?hl=en](https://www.instagram.com/wizkidayo/?hl=en)  
+   Link: <a href="https://www.instagram.com/wizkidayo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/wizkidayo/?hl=en</a>  
 
 75. <a id="endnote-75"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nairadiarytv/videos/burna-boy-makes-history-as-the-only-afrobeats-artist-to-perform-on-the-grammy-ma/4461606524074566/](https://www.facebook.com/nairadiarytv/videos/burna-boy-makes-history-as-the-only-afrobeats-artist-to-perform-on-the-grammy-ma/4461606524074566/)  
+   Link: <a href="https://www.facebook.com/nairadiarytv/videos/burna-boy-makes-history-as-the-only-afrobeats-artist-to-perform-on-the-grammy-ma/4461606524074566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nairadiarytv/videos/burna-boy-makes-history-as-the-only-afrobeats-artist-to-perform-on-the-grammy-ma/4461606524074566/</a>  
 
 76. <a id="endnote-76"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WatsupTV/posts/-ckays-global-hit-love-nwantiti-secures-the-no-6-spot-on-billboards-50-greatest-/765308082751383/](https://www.facebook.com/WatsupTV/posts/-ckays-global-hit-love-nwantiti-secures-the-no-6-spot-on-billboards-50-greatest-/765308082751383/)  
+   Link: <a href="https://www.facebook.com/WatsupTV/posts/-ckays-global-hit-love-nwantiti-secures-the-no-6-spot-on-billboards-50-greatest-/765308082751383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WatsupTV/posts/-ckays-global-hit-love-nwantiti-secures-the-no-6-spot-on-billboards-50-greatest-/765308082751383/</a>  
 
 77. <a id="endnote-77"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialCharts/posts/check-out-the-full-top-20-on-officialchartscom-and-tune-in-to-the-official-afrob/1173707944790270/](https://www.facebook.com/OfficialCharts/posts/check-out-the-full-top-20-on-officialchartscom-and-tune-in-to-the-official-afrob/1173707944790270/)  
+   Link: <a href="https://www.facebook.com/OfficialCharts/posts/check-out-the-full-top-20-on-officialchartscom-and-tune-in-to-the-official-afrob/1173707944790270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialCharts/posts/check-out-the-full-top-20-on-officialchartscom-and-tune-in-to-the-official-afrob/1173707944790270/</a>  
 
 78. <a id="endnote-78"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/ckay-shares-new-love-nwantiti-video-watch](https://pitchfork.com/news/ckay-shares-new-love-nwantiti-video-watch)  
+   Link: <a href="https://pitchfork.com/news/ckay-shares-new-love-nwantiti-video-watch" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/ckay-shares-new-love-nwantiti-video-watch</a>  
 
 79. <a id="endnote-79"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRKrdTrCJ0F/](https://www.instagram.com/reel/DRKrdTrCJ0F/)  
+   Link: <a href="https://www.instagram.com/reel/DRKrdTrCJ0F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRKrdTrCJ0F/</a>

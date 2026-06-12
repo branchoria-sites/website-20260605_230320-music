@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_rights_complic_6e7958_royalty_metadata_gap_6b3d8d
 - music_3a01be_music_rights_complic_6e7958_sync_master_clearanc_3c7634
 tags:
-- music
+- music-3-a01-be
 - rights
 - prs-dispute
 keywords:
-- music
+- music-3-a01-be
 - rights
 - prs-dispute
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The PRS lawsuit shows how collective licensing can create governance fights over costs, rules and royalty distribution.
 hero_summary: The PRS lawsuit shows how collective licensing can create governance fights over costs, rules and royalty distribution.
 layout: default
 permalink: /prs-dispute/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /rights/
 nav_short_title: PRS dispute
 title: When royalty societies face their members
-title_full: When royalty societies face their members | Rights
+title_full: When royalty societies face their members
 display_title_short: PRS dispute
 display_title: PRS dispute
 heading_title: When royalty societies face their members
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why One Song Has So Many Rights | Music
+parent_title: Why One Song Has So Many Rights
 parent_permalink: /rights/
 parent_nav_short_title: Rights
 parent_heading_title: Why One Song Has So Many Rights
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why film music needs double clearance
 up_link:
   basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
@@ -265,7 +265,7 @@ next_link:
   permalink: /public-play/
   short_title: Public play
   heading_title: Why cafes pay to play songs
-date: '2026-06-09 06:59:29 '
+date: '2026-06-11 23:31:25 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-1.webp
@@ -276,10 +276,8 @@ image: /assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispu
 
 Collecting societies exist because it would be almost impossible for every songwriter, composer and publisher to negotiate separately with every broadcaster, venue, streaming service and business that uses music. In the United Kingdom, PRS for Music performs that role by [licensing]({{ 'licensing/' | relative_url }}) uses of musical works and distributing [royalties]({{ 'royalties/' | relative_url }}) to members. Yet the same structure that creates efficiency also creates a question of trust: how can members be sure that money is collected, costs are allocated and royalties are distributed fairly?
 
-
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-1-dark.svg" | relative_url }}" alt="PRS dispute illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The recent disputes involving PRS for [Music]({{ 'music/' | relative_url }}) illustrate this tension. Critics have challenged the organisation’s handling of administrative deductions, live-performance royalties and so-called “black box” funds that cannot immediately be matched to specific creators. PRS argues that collective management remains the most effective way to maximise income for members and that its governance processes are designed to balance the interests of creators across the industry. The disagreement highlights a broader issue in music [rights]({{ 'rights/' | relative_url }}) administration: collective systems depend not only on scale, but also on member confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for MusicIt undertakes collective rights management for musical works on behalf of its 175,000 members. PRS for Music was formed i...</span></span></span>
-
+The recent disputes involving PRS for Music illustrate this tension. Critics have challenged the organisation’s handling of administrative deductions, live-performance royalties and so-called “black box” funds that cannot immediately be matched to specific creators. PRS argues that collective management remains the most effective way to maximise income for members and that its governance processes are designed to balance the interests of creators across the industry. The disagreement highlights a broader issue in music [rights]({{ 'rights/' | relative_url }}) administration: collective systems depend not only on scale, but also on member confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for MusicIt undertakes collective rights management for musical works on behalf of its 175,000 members. PRS for Music was formed i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hf_J1jJArgM" title="PRS: What is it and When Should I Join? (Pt. 1) | Andy Ellis | MUSIC | Inside the Music Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hf_J1jJArgM" target="_blank" rel="noopener noreferrer">PRS: What is it and When Should I Join? (Pt. 1) | Andy Ellis | MUSIC | Inside the Music Industry</a></p><p class="youtube-embed-meta">Channel: THE PLUGGIN&#x27; BABY RADIO SHOW &middot; Views: 6.0K &middot; Uploaded: May 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hf_J1jJArgM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hf_J1jJArgM">Open on YouTube</a></p></div></div></div>
 
@@ -291,8 +289,7 @@ The dispute was not simply about the amount of money collected. It was fundament
 
 PRS rejected those allegations. The organisation maintained that its policies are approved through member-governed structures, that collective licensing protects creators' interests, and that it operates on a non-profit basis, with royalties flowing back to members after operating costs are deducted. PRS also argued that collective administration reduces complexity for venues, promoters and licensees while maximising overall royalty collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/copyright-row-strikes-a-chord-with-jesus-and-mary-chain-rj9j5p0zl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">They claim the company has caused them &quot;loss and damage&quot; by unfairly subsidizing larger acts, obstructing their ability to benefit from r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicWhat we doWe collect and pay royalties when a member&#x27;s music is played in public, broadcast, downloaded, streamed, or perfor...</span></span></span>
 
-Another strand of criticism emerged around live-performance royalties that could not be matched to specific performances. Songwriters argued that substantial sums collected from concerts and events can become difficult to distribute accurately when setlists or usage data are missing. In such cases, royalties may enter redistribution systems that critics describe as favouring larger, already well-documented repertoires. PRS has defended its efforts to improve data collection through setlist reporting and technology-based identification tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</span></span></span>
-
+Another strand of criticism emerged around live-performance royalties that could not be matched to specific performances. Songwriters argued that substantial sums collected from concerts and events can become difficult to distribute accurately when setlists or usage data are missing. In such cases, royalties may enter redistribution systems that critics describe as favouring larger, already well-documented repertoires. PRS has defended its efforts to improve data collection through setlist reporting and technology-based [identification]({{ 'identification/' | relative_url }}) tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kQcdhyB4Rmo" title="PRS For Music And PPL - Song Registration Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kQcdhyB4Rmo" target="_blank" rel="noopener noreferrer">PRS For Music And PPL - Song Registration Process</a></p><p class="youtube-embed-meta">Channel: Barteck Official &middot; Views: 11.2K &middot; Uploaded: January 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kQcdhyB4Rmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kQcdhyB4Rmo">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +303,6 @@ PRS has responded by emphasising efficiency metrics and distribution performance
 
 The disagreement reveals a recurring dilemma in collective rights management:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Lower administrative costs are desirable, but collecting and matching royalties accurately often requires expensive data systems.
@@ -316,7 +312,6 @@ The disagreement reveals a recurring dilemma in collective rights management:
 </div>
 
 These tensions are not unique to PRS. They are common across collecting societies worldwide because administration costs are inseparable from the challenge of tracking millions of uses of millions of works.
-
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-2-dark.svg" | relative_url }}" alt="PRS dispute illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How collective systems balance scale and trust
@@ -329,7 +324,6 @@ The second is governance accountability. Members expect representation, transpar
 
 The controversy surrounding “black box” royalties illustrates this balance particularly well. When usage data is incomplete, a collecting society faces a difficult choice. Holding funds indefinitely delays payment to everyone. Redistributing funds according to available usage data creates winners and losers and may favour creators whose works are already well documented. Neither option is perfect, which is why transparency around methodology becomes almost as important as the money itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mwx9m6-z0fE" title="Understanding Music Licensing with PPL and PRS for Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mwx9m6-z0fE" target="_blank" rel="noopener noreferrer">Understanding Music Licensing with PPL and PRS for Music</a></p><p class="youtube-embed-meta">Channel: PPL &middot; Views: 51.6K &middot; Uploaded: June 2014 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mwx9m6-z0fE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mwx9m6-z0fE">Open on YouTube</a></p></div></div></div>
 
 ## The wider lesson from the PRS dispute
@@ -337,7 +331,6 @@ The controversy surrounding “black box” royalties illustrates this balance p
 The PRS disputes show that music-rights complexity is not only a matter of copyright law. It is also a question of institutional trust. Collective management organisations solve a genuine problem by aggregating rights, negotiating licences and processing enormous volumes of royalty data. Without them, many creators would struggle to monetise performances and broadcasts of their work at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for MusicIt undertakes collective rights management for musical works on behalf of its 175,000 members. PRS for Music was formed i...</span></span></span>
 
 At the same time, the concentration of responsibility within a single collecting body means members inevitably scrutinise how decisions are made. Questions about deductions, unallocated royalties, data quality and member representation become questions about legitimacy. The PRS disputes therefore matter beyond the specific sums involved: they reveal how collective licensing systems depend on a continuing balance between administrative efficiency and the confidence of the creators whose rights they manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-3-dark.svg" | relative_url }}" alt="PRS dispute illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -458,15 +451,15 @@ At the same time, the concentration of responsibility within a single collecting
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches"><img src="{{ '/assets/images/marketplace-covers/7f34e612858ce96cd4e3.jpg' | relative_url }}" alt="Listing image for Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="https://i.ebayimg.com/images/g/JscAAOSw1ntns6H7/s-l225.jpg" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +467,15 @@ At the same time, the concentration of responsibility within a single collecting
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Notes Wall Art Sticker, Decal living room UK SH94"><img src="{{ '/assets/images/marketplace-covers/7ebec7c59a68bb0ae3e8.jpg' | relative_url }}" alt="Listing image for Music Notes Wall Art Sticker, Decal living room UK SH94" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ItIAAeSwisJp2STL/s-l225.jpg" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Music Notes Wall Art Sticker, Decal living room UK SH94</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +483,15 @@ At the same time, the concentration of responsibility within a single collecting
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art"><img src="{{ '/assets/images/marketplace-covers/192d30de036d9d1ec182.jpg' | relative_url }}" alt="Listing image for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cactus World News ‎– Years Later PROMO WITH PRESS POSTER 7&quot; NEAR MINT EX SHOP"><img src="https://i.ebayimg.com/images/g/WEUAAOSw7iRmKkoB/s-l225.jpg" alt="Listing image for Cactus World News ‎– Years Later PROMO WITH PRESS POSTER 7&quot; NEAR MINT EX SHOP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Cactus World News ‎– Years Later PROMO WITH PRESS POSTER 7&quot; NEAR MINT EX SHOP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +499,15 @@ At the same time, the concentration of responsibility within a single collecting
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tony Pilley: Off the hook 7&quot; EX plus poster POWERPOP"><img src="https://i.ebayimg.com/images/g/ByUAAOSwYUJmKkoI/s-l225.jpg" alt="Listing image for Tony Pilley: Off the hook 7&quot; EX plus poster POWERPOP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Tony Pilley: Off the hook 7&quot; EX plus poster POWERPOP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +515,7 @@ At the same time, the concentration of responsibility within a single collecting
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="prs-dispute-when-royalty-societies-face-their-members-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-royalty-societies-face-their-members-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="when-royalty-societies-face-their-members-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,218 +730,218 @@ At the same time, the concentration of responsibility within a single collecting
 
 1. <a id="endnote-1"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do](https://www.prsformusic.com/what-we-do)  
+   Link: <a href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicWhat we doWe collect and pay royalties when a member&#x27;s music is played in public, broadcast, downloaded, streamed, or perfor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe pay royalties to our members for the use of their work while protecting the fut...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/counterclaims](https://www.prsformusic.com/works/counterclaims)  
+   Link: <a href="https://www.prsformusic.com/works/counterclaims" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/counterclaims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicClaims and counterclaimsIf claimants meet the supporting documentation requirements then the royalties may be held in suspen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: help.prsformusic.com  
    Title: What happens when there's multiple claims for a work?Do PRS resolve the dispute?  
-   Link: [https://help.prsformusic.com/s/article/what-happens-when-theres-multiple-claims-for-a-work](https://help.prsformusic.com/s/article/what-happens-when-theres-multiple-claims-for-a-work)  
+   Link: <a href="https://help.prsformusic.com/s/article/what-happens-when-theres-multiple-claims-for-a-work" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/what-happens-when-theres-multiple-claims-for-a-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS must remain neutral and cannot make decisions about your copyright or get involved in the dispute itself. It is for the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx](https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music follow when the control of copyright within a Musical. Work, or entitlement to Royalties in...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: prsformusic.com  
    Title: prs for music statement  
-   Link: [https://www.prsformusic.com/c/prs-for-music-statement](https://www.prsformusic.com/c/prs-for-music-statement)  
+   Link: <a href="https://www.prsformusic.com/c/prs-for-music-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/c/prs-for-music-statement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music statementAug 27, 2025 — It also noted that it was not clear how PRS would be able to pay any costs and damages...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/how-copyright-works](https://www.prsformusic.com/works/how-copyright-works)  
+   Link: <a href="https://www.prsformusic.com/works/how-copyright-works" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/how-copyright-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How copyright worksCopyrighting your work. There is no official method to copyright work in the UK. However, evidence of creation and own...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/claim-unpaid-royalties](https://www.prsformusic.com/royalties/claim-unpaid-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/claim-unpaid-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/claim-unpaid-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check unpaid royaltiesIf you&#x27;re a member, you can log in to [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) more information and make a claim for these unpaid royalties. Claim un...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties](https://www.prsformusic.com/royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Member royaltiesAs a member, you&#x27;ll be able to manage your account online, check your royalty payments, register and amend your works, cl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding publishing rights14 May 2021 — The publishing copyright is essentially split into two parts; the authorship (lyrics) and co...</p></details>
    Published: May 2021  
 
 11. <a id="endnote-11"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/corporate/governance/code-of-conduct/prs-code-of-conduct-2023](https://www.prsformusic.com/-/media/files/prs-for-music/corporate/governance/code-of-conduct/prs-code-of-conduct-2023)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/corporate/governance/code-of-conduct/prs-code-of-conduct-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/corporate/governance/code-of-conduct/prs-code-of-conduct-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CODE OF CONDUCTShared documents include this code, the complaints procedure and policies such as the. Disputes and Duplicate Claims Rules...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: prsformusic.com  
    Title: PR S for Music of an Infringement Claim5.4  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-infringement-claims.ashx](https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-infringement-claims.ashx)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-infringement-claims.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-infringement-claims.ashx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where an Infringing Work licensed by MCPS is subject of an Infringement Dispute, MCPS will suspend distribution of any Disputed Royalty c...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: prsformusic.com  
    Title: everything you need to know about getting paid royalties  
-   Link: [https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties](https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties)  
+   Link: <a href="https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Follow these simple steps to receive a PRS payment when your music is used. Make music...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/your-statement/back-claims](https://www.prsformusic.com/royalties/your-statement/back-claims)  
+   Link: <a href="https://www.prsformusic.com/royalties/your-statement/back-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/your-statement/back-claims</a>  
 
 15. <a id="endnote-15"></a>
    Source: help.prsformusic.com  
    Title: When should I claim for [missing royalties](&#123;&#123; 'missing-royalties/' | relative_url &#125;&#125;)  
-   Link: [https://help.prsformusic.com/s/article/When-should-I-claim-for-missing-royalties](https://help.prsformusic.com/s/article/When-should-I-claim-for-missing-royalties)  
+   Link: <a href="https://help.prsformusic.com/s/article/When-should-I-claim-for-missing-royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/When-should-I-claim-for-missing-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>should I claim for missing royalties?We can only process missing royalty claims after a certain amount of time has passed since the perfo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: help.prsformusic.com  
    Title: why have my overseas claims been rejected  
-   Link: [https://help.prsformusic.com/s/article/why-have-my-overseas-claims-been-rejected](https://help.prsformusic.com/s/article/why-have-my-overseas-claims-been-rejected)  
+   Link: <a href="https://help.prsformusic.com/s/article/why-have-my-overseas-claims-been-rejected" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/why-have-my-overseas-claims-been-rejected</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unregistered or disputed works. Make sure your work is registered with 100% shares for both PRS and MCPS and all...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Understanding Music Licensing with PPL and PRS for Music  
-   Link: [https://www.youtube.com/watch?v=Mwx9m6-z0fE](https://www.youtube.com/watch?v=Mwx9m6-z0fE)  
+   Link: <a href="https://www.youtube.com/watch?v=Mwx9m6-z0fE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mwx9m6-z0fE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS For Music And PPL - Song Registration Process...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: PRS For Music And PPL  
-   Link: [https://www.youtube.com/watch?v=kQcdhyB4Rmo](https://www.youtube.com/watch?v=kQcdhyB4Rmo)  
+   Link: <a href="https://www.youtube.com/watch?v=kQcdhyB4Rmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kQcdhyB4Rmo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Guide To Music Royalties: PPL, PRS, ASCAP, BMI, APRA...Who Should You Join?...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iqmagazine.com  
-   Link: [https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/](https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/)  
+   Link: <a href="https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IQ MagazinePRS for Music sued by songwriters over royaltiesA group of UK songwriters and composers has initiated legal action against the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/copyright-row-strikes-a-chord-with-jesus-and-mary-chain-rj9j5p0zl](https://www.thetimes.co.uk/article/copyright-row-strikes-a-chord-with-jesus-and-mary-chain-rj9j5p0zl)  
+   Link: <a href="https://www.thetimes.co.uk/article/copyright-row-strikes-a-chord-with-jesus-and-mary-chain-rj9j5p0zl" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/copyright-row-strikes-a-chord-with-jesus-and-mary-chain-rj9j5p0zl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They claim the company has caused them &quot;loss and damage&quot; by unfairly subsidizing larger acts, obstructing their ability to benefit from r...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties](https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties)  
+   Link: <a href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Pace Rights Management, the lawsuit alleges PRS charges smaller writers prohibitive fees and obstructs them from directly licensin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: recordoftheday.com  
    Title: performing right society sued by songwriters  
-   Link: [https://www.recordoftheday.com/news-and-press/performing-right-society-sued-by-songwriters?ref=hypebot.com](https://www.recordoftheday.com/news-and-press/performing-right-society-sued-by-songwriters?ref=hypebot.com)  
+   Link: <a href="https://www.recordoftheday.com/news-and-press/performing-right-society-sued-by-songwriters?ref=hypebot.com" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/performing-right-society-sued-by-songwriters?ref=hypebot.com</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record of the DayPerforming Right Society sued by songwriters 25 Jun 2024PRS is deliberately withholding information from its Members abo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties](https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties)  
+   Link: <a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w](https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w)  
+   Link: <a href="https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This milestone was achieved through charging fees for streams, downloads, broadcasts, and live performances of music. The organization pa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: PRS for Music  
-   Link: [https://en.wikipedia.org/wiki/PRS_for_Music](https://en.wikipedia.org/wiki/PRS_for_Music)  
+   Link: <a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicIt undertakes collective rights management for musical works on behalf of its 175,000 members. PRS for Music was formed i...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: disputeresolutionombudsman.org  
-   Link: [https://www.disputeresolutionombudsman.org/members/prs](https://www.disputeresolutionombudsman.org/members/prs)  
+   Link: <a href="https://www.disputeresolutionombudsman.org/members/prs" target="_blank" rel="noopener noreferrer nofollow">https://www.disputeresolutionombudsman.org/members/prs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS - MembersA collective management organisation established for the purposes of licensing and collecting royalties in respect of the pu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: creativeindustriesnews.com  
    Title: prs for music files lawsuit against valve corporations gaming platform steam  
-   Link: [https://creativeindustriesnews.com/2026/03/prs-for-music-files-lawsuit-against-valve-corporations-gaming-platform-steam/](https://creativeindustriesnews.com/2026/03/prs-for-music-files-lawsuit-against-valve-corporations-gaming-platform-steam/)  
+   Link: <a href="https://creativeindustriesnews.com/2026/03/prs-for-music-files-lawsuit-against-valve-corporations-gaming-platform-steam/" target="_blank" rel="noopener noreferrer nofollow">https://creativeindustriesnews.com/2026/03/prs-for-music-files-lawsuit-against-valve-corporations-gaming-platform-steam/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music files lawsuit against Valve Corporation&#x27;s...10 Mar 2026 — British rights society PRS for Music has launched legal proceedi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: newindustryfocus.com  
    Title: prs for music files legal claim against gaming distribution service steam  
-   Link: [https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam](https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam)  
+   Link: <a href="https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music Files Legal Claim Against Gaming...11 Mar 2026 — UK collection society PRS for Music is suing Valve Corporation, alleging...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/129782/html/](https://committees.parliament.uk/writtenevidence/129782/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/129782/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/129782/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music is a world-leading music collective management organisation... In 2022, PRS for Music collected £964m and pai...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/navigating-music-royalties-changing-industry-insights-from-prs-srlv-9bhde](https://www.linkedin.com/pulse/navigating-music-royalties-changing-industry-insights-from-prs-srlv-9bhde)  
+   Link: <a href="https://www.linkedin.com/pulse/navigating-music-royalties-changing-industry-insights-from-prs-srlv-9bhde" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/navigating-music-royalties-changing-industry-insights-from-prs-srlv-9bhde</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Music Royalties in a Changing IndustryIndependent legal advice is essential before signing any agreement, and PRS provides mem...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/gaming-giant-steam-faces-legal-action-from-the-uks-prs-over-alleged-unlicensed-use-of-music-in-games/](https://www.musicbusinessworldwide.com/gaming-giant-steam-faces-legal-action-from-the-uks-prs-over-alleged-unlicensed-use-of-music-in-games/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/gaming-giant-steam-faces-legal-action-from-the-uks-prs-over-alleged-unlicensed-use-of-music-in-games/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/gaming-giant-steam-faces-legal-action-from-the-uks-prs-over-alleged-unlicensed-use-of-music-in-games/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gaming giant Steam faces legal action from the UK&#x27;s PRS...Mar 10, 2026 — PRS says it attempted to reach an agreement with the company &#x27;f...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: musiclegal.co.uk  
-   Link: [https://www.musiclegal.co.uk/articles/collective-management-organisations-and-royalty-distribution](https://www.musiclegal.co.uk/articles/collective-management-organisations-and-royalty-distribution)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collective Management Organisations and Royalty...PRS for Music, for example, issues blanket licences to broadcasters, live venues, rest...</p></details>
+   Link: <a href="https://www.musiclegal.co.uk/articles/collective-management-organisations-and-royalty-distribution" target="_blank" rel="noopener noreferrer nofollow">https://www.musiclegal.co.uk/articles/collective-management-organisations-and-royalty-distribution</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>llective Management Organisations and Royalty...PRS for Music, for example, issues blanket licences to broadcasters, live venues, rest...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/high-profile-songwriters-express-concern-about-prs-transparency-accuracy-and-admin-costs/](https://completemusicupdate.com/high-profile-songwriters-express-concern-about-prs-transparency-accuracy-and-admin-costs/)  
+   Link: <a href="https://completemusicupdate.com/high-profile-songwriters-express-concern-about-prs-transparency-accuracy-and-admin-costs/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/high-profile-songwriters-express-concern-about-prs-transparency-accuracy-and-admin-costs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High profile songwriters express concern about PRS...8 Oct 2025 — A group of high profile songwriters have written to PRS questioning ad...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: lexisnexis.com  
-   Link: [https://www.lexisnexis.com/en-gb/legal/news/uk-music-copyright-collective-faces-antitrust-claim-over-licensing-royalties-practices](https://www.lexisnexis.com/en-gb/legal/news/uk-music-copyright-collective-faces-antitrust-claim-over-licensing-royalties-practices)  
+   Link: <a href="https://www.lexisnexis.com/en-gb/legal/news/uk-music-copyright-collective-faces-antitrust-claim-over-licensing-royalties-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/news/uk-music-copyright-collective-faces-antitrust-claim-over-licensing-royalties-practices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK competition challenges to PRS: songwriter claim on...2 Jul 2024 — The PRS is already subject to a planned collective lawsuit over its...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: srlv.co.uk  
    Title: navigating music royalties in a changing industry insights from prs for music  
-   Link: [https://www.srlv.co.uk/insights/navigating-music-royalties-in-a-changing-industry-insights-from-prs-for-music/](https://www.srlv.co.uk/insights/navigating-music-royalties-in-a-changing-industry-insights-from-prs-for-music/)  
+   Link: <a href="https://www.srlv.co.uk/insights/navigating-music-royalties-in-a-changing-industry-insights-from-prs-for-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.srlv.co.uk/insights/navigating-music-royalties-in-a-changing-industry-insights-from-prs-for-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Music Royalties in a Changing Industry24 Feb 2026 — Independent legal advice is essential before signing any agreement, and PR...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: iclg.com  
    Title: 22992 songwriters claim against prs misses beat as cat refuses certification  
-   Link: [https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification/](https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification/)  
+   Link: <a href="https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification/" target="_blank" rel="noopener noreferrer nofollow">https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songwriters&#x27; claim against PRS misses beat as CAT...28 Aug 2025 — The Competition Appeal Tribunal (CAT) has rejected an attempt to bring...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: students.leedsconservatoire.ac.uk  
-   Link: [https://students.leedsconservatoire.ac.uk/category/musicians-survival-guide-articles/legal-advice-and-finance/](https://students.leedsconservatoire.ac.uk/category/musicians-survival-guide-articles/legal-advice-and-finance/)  
+   Link: <a href="https://students.leedsconservatoire.ac.uk/category/musicians-survival-guide-articles/legal-advice-and-finance/" target="_blank" rel="noopener noreferrer nofollow">https://students.leedsconservatoire.ac.uk/category/musicians-survival-guide-articles/legal-advice-and-finance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to PRS for MusicSearch unpaid royalties. Sometimes music is used and PRS for Music are unable to identify who to pay. The Claim Unp...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: musiciansunion.org.uk  
    Title: Unpaid Royalties | Am I Owed Music Royalties?  
-   Link: [https://musiciansunion.org.uk/working-performing/[recording](https://musiciansunion.org.uk/working-performing/[recording)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| The MUSome Musicians&#x27; Union Royalties cannot be distributed to musicians immediately upon processing. Find out how we manage these roya...</p></details>
+   Link: <a href="https://musiciansunion.org.uk/working-performing/[recording" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/[recording</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MUSome Musicians&#x27; Union Royalties cannot be distributed to musicians immediately upon processing. Find out how we manage these roya...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ism.org  
    Title: royalty information for musicians  
-   Link: [https://www.ism.org/advice/royalty-information-for-musicians/](https://www.ism.org/advice/royalty-information-for-musicians/)  
+   Link: <a href="https://www.ism.org/advice/royalty-information-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://www.ism.org/advice/royalty-information-for-musicians/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties in Music: The Complete Guide | ISM17 Mar 2025 — Find out how royalties work in the music industry, and how musicians can maximi...</p></details>

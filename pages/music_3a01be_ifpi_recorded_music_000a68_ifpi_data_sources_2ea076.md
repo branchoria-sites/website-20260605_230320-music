@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ifpi_recorded_music_000a68_recorded_revenue_art_ded772
 - music_3a01be_ifpi_recorded_music_000a68_regional_music_growt_311ae8
 tags:
-- music
+- music-3-a01-be
 - ifpi-data
 - data-sources
 keywords:
-- music
+- music-3-a01-be
 - ifpi-data
 - data-sources
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: IFPI's headline figures come from label-supplied data, national industry checks, chart partners and currency conversion rules.
 hero_summary: IFPI's headline figures come from label-supplied data, national industry checks, chart partners and currency conversion rules.
 layout: default
 permalink: /data-sources/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ifpi-data/
 nav_short_title: Data Sources
 title: Where IFPI's Global Numbers Come From
-title_full: Where IFPI's Global Numbers Come From | IFPI Data
+title_full: Where IFPI's Global Numbers Come From
 display_title_short: Data Sources
 display_title: Data Sources
 heading_title: Where IFPI's Global Numbers Come From
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Global Music Revenue Numbers Show | Music
+parent_title: What Global Music Revenue Numbers Show
 parent_permalink: /ifpi-data/
 parent_nav_short_title: IFPI Data
 parent_heading_title: What Global Music Revenue Numbers Show
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Global Growth Looks Different Locally
 up_link:
   basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
@@ -265,7 +265,7 @@ next_link:
   permalink: /formats/
   short_title: Formats
   heading_title: Why Streaming Is Not The Whole Story
-date: '2026-06-09 06:35:19 '
+date: '2026-06-11 23:18:57 '
 header:
   og_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_
 
 ## Introduction
 
-IFPI’s global [music]({{ 'music/' | relative_url }}) market figures are only as credible as the data behind them. Because the organisation publishes a single set of worldwide recorded-music revenues covering dozens of markets, currencies and business models, it relies on a multi-layered verification process rather than a single data source. The headline numbers in the Global Music Report are built from revenue information supplied by record companies, checked through national industry networks, supplemented with consumption and chart data from specialist partners, and standardised through a defined currency-conversion methodology. IFPI describes this approach as the most complete picture of the recorded-music market because it combines commercial reporting with local verification and global consistency rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
-
+IFPI’s global music market figures are only as credible as the data behind them. Because the organisation publishes a single set of worldwide recorded-music revenues covering dozens of markets, currencies and business models, it relies on a multi-layered verification process rather than a single data source. The headline numbers in the Global Music Report are built from revenue information supplied by record companies, checked through national industry networks, supplemented with consumption and chart data from specialist partners, and standardised through a defined currency-conversion methodology. IFPI describes this approach as the most complete picture of the recorded-music market because it combines commercial reporting with local verification and global consistency rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-1-dark.svg" | relative_url }}" alt="Data Sources illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Record Company and National Industry Inputs
@@ -285,7 +284,6 @@ The foundation of IFPI’s dataset is revenue information reported directly by p
 Verification does not stop with the labels themselves. IFPI states that reported figures are checked through its network of country-level national groups and industry associations. This matters because music markets differ significantly in structure. Some are dominated by subscription streaming, others still have substantial [physical]({{ 'physical/' | relative_url }}) sales, and reporting practices can vary by territory. National groups provide local knowledge that helps validate whether submitted figures align with market realities and industry records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmr.ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmr.ifpi.org</span><span class="citation-popover-title">about report</span><span class="citation-popover-snippet">Global Music Reportglobal music report 2026: premium editionIt includes the most complete and reliable picture of global recorded music r...</span></span></span>
 
 The process serves two purposes:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -297,19 +295,17 @@ The process serves two purposes:
 
 This verification layer is one reason IFPI positions its Global Music Report as an industry measurement exercise rather than a simple aggregation of publicly available platform statistics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aVaItw6XUbY" title="BTS Win the IFPI’s 2021 Global Recording Artist of The Year Award | Billboard News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aVaItw6XUbY" target="_blank" rel="noopener noreferrer">BTS Win the IFPI’s 2021 Global Recording Artist of The Year Award | Billboard News</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 61.5K &middot; Uploaded: February 2022 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aVaItw6XUbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aVaItw6XUbY">Open on YouTube</a></p></div></div></div>
 
 ## How Consumption Partners Help Validate the Picture
 
 Revenue data explains how much money entered the recorded-music market, but it does not fully explain how music was consumed. To improve accuracy, IFPI supplements financial reporting with detailed consumption information obtained from chart-provider and measurement partners. These partners track activity such as streaming volumes, downloads, album consumption and other market indicators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
 
-Consumption datasets are not the primary source for revenue totals, but they provide an important cross-check. If a market reports strong growth in [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}), consumption trends can help confirm whether listening activity and subscriber behaviour moved in the same direction. Conversely, unusual revenue movements can be examined against chart and usage data to determine whether they reflect genuine market changes or reporting issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
+Consumption datasets are not the primary source for revenue totals, but they provide an important cross-check. If a market reports strong growth in streaming revenue, consumption trends can help confirm whether listening activity and subscriber behaviour moved in the same direction. Conversely, unusual revenue movements can be examined against chart and usage data to determine whether they reflect genuine market changes or reporting issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
 
 The use of external measurement partners also helps IFPI produce more detailed market analysis. National rankings, format breakdowns and territory-level assessments depend on data that extends beyond company revenue submissions alone. By combining financial reporting with independent consumption measurement, IFPI aims to create a more granular view of the global recorded-music business. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
 
 A useful distinction is that revenue data answers “how much value was generated?”, while chart and consumption data help answer “what activity produced that value?”. IFPI uses both to strengthen confidence in its market assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-2-dark.svg" | relative_url }}" alt="Data Sources illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Exchange Rates and Restatement Matter
@@ -322,9 +318,7 @@ This practice can [surprise]({{ 'surprise/' | relative_url }}) readers because h
 
 The approach has an important benefit: it allows growth comparisons to be made using a consistent currency framework. Without annual restatement, global trends could be heavily influenced by fluctuations in foreign-exchange markets rather than changes in music consumption or industry revenues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpicr.cz">[ifpicr.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpicr.cz</span><span class="citation-popover-title">global music report 2025</span><span class="citation-popover-snippet">Mar 19, 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that total trade revenues reached US$29.6 billion in 2024...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rsfm-kipopo" title="Music Industry News - Spotify expands to 80 new markets, IFPI launches SoundSys, and many more." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rsfm-kipopo" target="_blank" rel="noopener noreferrer">Music Industry News - Spotify expands to 80 new markets, IFPI launches SoundSys, and many more.</a></p><p class="youtube-embed-meta">Channel: Exploration Group &middot; Views: 57 &middot; Uploaded: February 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rsfm-kipopo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rsfm-kipopo">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kInm5xD3RYo" title="The State of the Music Business in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kInm5xD3RYo" target="_blank" rel="noopener noreferrer">The State of the Music Business in 2025</a></p><p class="youtube-embed-meta">Channel: SXSW &middot; Views: 7.8K &middot; Uploaded: April 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kInm5xD3RYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kInm5xD3RYo">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +327,6 @@ The approach has an important benefit: it allows growth comparisons to be made u
 The credibility of IFPI’s headline growth figures depends less on any single dataset than on how multiple datasets are combined and checked. Record-company submissions provide the raw revenue information, national industry groups verify local accuracy, chart and consumption partners add behavioural evidence, and currency rules ensure international comparability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...Mar 18, 2026 — Global recorded music revenues grew 6.4% and reached US$31.7 billion in 2025...</span></span></span>
 
 This does not eliminate every limitation. Like any industry-wide measurement system, the results depend on the quality of reporting and the scope of participating organisations. However, the combination of company reporting, local verification, external consumption measurement and transparent exchange-rate treatment is the mechanism that allows IFPI to produce a single global estimate for recorded-music revenues and growth across more than seventy music markets. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmusicreport.ifpi.org">[Global Music Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmusicreport.ifpi.org</span><span class="citation-popover-title">MARKE T</span><span class="citation-popover-snippet">Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-3-dark.svg" | relative_url }}" alt="Data Sources illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -734,142 +727,142 @@ This does not eliminate every limitation. Like any industry-wide measurement sys
 1. <a id="endnote-1"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: [https://gmr.ifpi.org/about-report](https://gmr.ifpi.org/about-report)  
+   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Reportglobal music report 2026: premium editionIt includes the most complete and reliable picture of global recorded music r...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...Mar 18, 2026 — Global recorded music revenues grew 6.4% and reached US$31.7 billion in 2025...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gmr.ifpi.org  
    Title: Global Music Report METHODOLOGY & SOURCES  
-   Link: [https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf](https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf)  
+   Link: <a href="https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music ReportMETHODOLOGY &amp; SOURCES - Global Music Report - IFPIFigures are reported by the record companies to IFPI for the respect...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ifpicr.cz  
    Title: global music report 2026  
-   Link: [https://ifpicr.cz/global_music_report_2026](https://ifpicr.cz/global_music_report_2026)  
+   Link: <a href="https://ifpicr.cz/global_music_report_2026" target="_blank" rel="noopener noreferrer nofollow">https://ifpicr.cz/global_music_report_2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL RECORDED MUSIC REVENUES GROW 6.4%...The IFPI Global Music Report 2026: Premium Edition is the definitive source of data for the g...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: globalmusicreport.ifpi.org  
    Title: MARKE T  
-   Link: [https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf](https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf)  
+   Link: <a href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalmusicreport.ifpi.org/downloads/GMR2026_Sample%20country%20page.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music ReportUS$ values: Local currency values are stated at 2025 exchange rates. IFPI restates all historic local currency values...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/](https://www.ifpi.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIIFPI — Representing the recording industry worldwideAlmost 70 IFPI National Groups, local associations or affiliated music [licensing](&amp;#123;&amp;#123; &#x27;licensing/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI — Representing the [recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;) industry worldwideAlmost 70 IFPI National Groups, local associations or affiliated music [licensing](&amp;#123;&amp;#123; &#x27;licensing/&#x27; | relative_url &amp;#12...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: globalmusicreport.ifpi.org  
    Title: GMR2026 Methodology  
-   Link: [https://globalmusicreport.ifpi.org/downloads/GMR2026_Methodology.pdf](https://globalmusicreport.ifpi.org/downloads/GMR2026_Methodology.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; SOURCES - Global Music Report - IFPIAll charts are based on submissions from participating labels across the world, which are compiled...</p></details>
+   Link: <a href="https://globalmusicreport.ifpi.org/downloads/GMR2026_Methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalmusicreport.ifpi.org/downloads/GMR2026_Methodology.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; SOURCES - Global Music Report - IFPIAll [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) are based on submissions from participating labels across the world, which are compiled...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI – Global Music Report 2023 – State Of The IndustryOverall, recorded music revenues in the Australasia region rose by 8.1%, an increa...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Report 2023 – State Of The IndustryOverall, recorded music revenues in the Australasia region rose by 8.1%, an increa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2025Mar 19, 2025 — Subscription [streaming revenues](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;) accounted for over 50% of global recorded music revenues in. 2024...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2025Mar 19, 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ifpi.org  
    Title: ifpi global music report global recorded music revenues grew 10 2 in 2023  
-   Link: [https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-10-2-in-2023/](https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-10-2-in-2023/)  
+   Link: <a href="https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-10-2-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-10-2-in-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Recorded Music Revenues Grew 10.2% In 2023Mar 21, 2024 — Figures released today in IFPI&#x27;s Global Music Report show that total trad...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/](https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</p></details>
+   Link: <a href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORTMar 18, 2026 — These revenues grew by 6.4% in 2025, which was an improvement on the 4.7% rate of growth in 2024. TOP 1...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ifpi.at  
-   Link: [https://ifpi.at/website2018/wp-content/uploads/2018/12/gmr2016.pdf](https://ifpi.at/website2018/wp-content/uploads/2018/12/gmr2016.pdf)  
+   Link: <a href="https://ifpi.at/website2018/wp-content/uploads/2018/12/gmr2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ifpi.at/website2018/wp-content/uploads/2018/12/gmr2016.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>global music reportRecord labels and services have more touchpoints of data than ever before and are able to see instantly when and where...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ifpicr.cz  
    Title: global music report 2025  
-   Link: [https://ifpicr.cz/global_music_report_2025](https://ifpicr.cz/global_music_report_2025)  
+   Link: <a href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow">https://ifpicr.cz/global_music_report_2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 19, 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that total trade revenues reached US$29.6 billion in 2024...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musikindustrie.de  
    Title: Global Music Report 2024 State of the Industry Final  
-   Link: [https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf](https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf)  
+   Link: <a href="https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musikindustrie.de/fileadmin/bvmi/upload/05_Presse/05_Dokumente-zum-Download/2024/Global_Music_Report_2024_State_of_the_Industry_Final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Music Report 2024 – State of the IndustryMar 21, 2024 — sourced directly from IFPI&#x27;s record company members worldwide and ver...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA](https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA)  
+   Link: <a href="https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ricardo Castanheira&#x27;s PostIFPI launched today its &quot;Global Music Report 2026&quot;. Important findings: - Global recorded music revenues rose b...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large](https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large)  
+   Link: <a href="https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>straight years of global recorded-music growth, but gains...Apr 4, 2025 — The international music trade body, the IFPI, has detailed a p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/](https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As recorded music revenues hit $31.7B globally, IFPI CEO...20 Mar 2026 — Worldwide recorded music revenues reached USD $31.7 billion in...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/midia-shows-35-1-billion-in-global-recorded-music-revenues-but-what-does-that-number-actually-mean/](https://completemusicupdate.com/midia-shows-35-1-billion-in-global-recorded-music-revenues-but-what-does-that-number-actually-mean/)  
+   Link: <a href="https://completemusicupdate.com/midia-shows-35-1-billion-in-global-recorded-music-revenues-but-what-does-that-number-actually-mean/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/midia-shows-35-1-billion-in-global-recorded-music-revenues-but-what-does-that-number-actually-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA shows $35.1 billion in global recorded music revenuesMar 20, 2024 — Its analysis shows that global recorded music revenues reached...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: promusicae.es  
    Title: ifpi global music report global recorded music revenues grew 90 in 2022 n436  
-   Link: [https://www.promusicae.es/en/news/ifpi-global-music-report-global-recorded-music-revenues-grew-90-in-2022-n436/](https://www.promusicae.es/en/news/ifpi-global-music-report-global-recorded-music-revenues-grew-90-in-2022-n436/)  
+   Link: <a href="https://www.promusicae.es/en/news/ifpi-global-music-report-global-recorded-music-revenues-grew-90-in-2022-n436/" target="_blank" rel="noopener noreferrer nofollow">https://www.promusicae.es/en/news/ifpi-global-music-report-global-recorded-music-revenues-grew-90-in-2022-n436/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>global recorded music revenues grew 9.0% in 2022Mar 21, 2023 — 21st March 2023 – The global recorded music market grew by 9.0% in 2022, d...</p></details>
    Published: March 2023  
 
 21. <a id="endnote-21"></a>
    Source: wipo.int  
    Title: ifpi looks at a decade of digital transformation in the music industry 73661  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661](https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661)  
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...Apr 23, 2025 — [IFPI data](&amp;#123;&amp;#123; &#x27;ifpi-data/&#x27; | relative_url &amp;#125;&amp;#125;) shows that music industry revenue has doubled t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: completemusicupdate.com  
    Title: think you understand the music industrys revenue stats think again  
-   Link: [https://completemusicupdate.com/think-you-understand-the-music-industrys-revenue-stats-think-again/](https://completemusicupdate.com/think-you-understand-the-music-industrys-revenue-stats-think-again/)  
+   Link: <a href="https://completemusicupdate.com/think-you-understand-the-music-industrys-revenue-stats-think-again/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/think-you-understand-the-music-industrys-revenue-stats-think-again/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Think you understand the music industry&#x27;s revenue stats...Mar 15, 2024 — UK wholesale streaming revenues are worth £962 million to the r...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
    Title: breaking down 2025 global music report jonathan amable qerdf  
-   Link: [https://www.linkedin.com/pulse/breaking-down-2025-global-music-report-jonathan-amable-qerdf](https://www.linkedin.com/pulse/breaking-down-2025-global-music-report-jonathan-amable-qerdf)  
+   Link: <a href="https://www.linkedin.com/pulse/breaking-down-2025-global-music-report-jonathan-amable-qerdf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/breaking-down-2025-global-music-report-jonathan-amable-qerdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking down the 2025 Global Music ReportGlobal revenue from recorded music reached USD 29.6 billion in 2024, representing growth of som...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: billboard.com  
    Title: ifpi global report 2023 music business revenue market share  
-   Link: [https://www.billboard.com/pro/ifpi-global-report-2023-music-business-revenue-market-share/](https://www.billboard.com/pro/ifpi-global-report-2023-music-business-revenue-market-share/)  
+   Link: <a href="https://www.billboard.com/pro/ifpi-global-report-2023-music-business-revenue-market-share/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/ifpi-global-report-2023-music-business-revenue-market-share/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Report 2023: Music Revenues Rose to $26.2...Mar 21, 2023 — Total streaming revenues rose 11.5% in 2022, bringing the segment...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/15428/pdf/](https://committees.parliament.uk/writtenevidence/15428/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/15428/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/15428/pdf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Submission to the Digital, [Culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;), Media and Sport...IFPI promotes the interests of the international recording industry worldwide...</p></details>

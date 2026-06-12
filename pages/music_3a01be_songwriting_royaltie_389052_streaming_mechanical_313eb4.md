@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510
 - music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d
 tags:
-- music
+- music-3-a01-be
 - publishing
 - mechanical-royalties
 keywords:
-- music
+- music-3-a01-be
 - publishing
 - mechanical-royalties
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming services generate composition royalties that depend on ownership records and licensing administration.
 hero_summary: Streaming services generate composition royalties that depend on ownership records and licensing administration.
 layout: default
 permalink: /mechanical-royalties/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /publishing/
 nav_short_title: Mechanical Royalties
 title: The Hidden Song Royalties Inside Streaming
-title_full: The Hidden Song Royalties Inside Streaming | Publishing
+title_full: The Hidden Song Royalties Inside Streaming
 display_title_short: Mechanical Royalties
 display_title: Mechanical Royalties
 heading_title: The Hidden Song Royalties Inside Streaming
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Songs Earn Beyond The Recording | Music
+parent_title: How Songs Earn Beyond The Recording
 parent_permalink: /publishing/
 parent_nav_short_title: Publishing
 parent_heading_title: How Songs Earn Beyond The Recording
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When One Sync Deal Creates More Income
 up_link:
   basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -265,7 +265,7 @@ next_link:
   permalink: /royalty-splits/
   short_title: Royalty Splits
   heading_title: Why the Same Song Pays Different People
-date: '2026-06-09 07:49:30 '
+date: '2026-06-11 23:56:34 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechani
 
 Streaming appears simple to listeners: press play and a song starts. Behind that single action, however, lies a specialised mechanical [licensing]({{ 'licensing/' | relative_url }}) system that generates composition royalties for songwriters and publishers. Unlike performance royalties, which compensate the public use of a musical work, streaming mechanical royalties arise because an interactive stream involves reproducing and delivering a digital copy of the composition as part of the listening process. Modern licensing systems exist to connect billions of streams with the correct song [ownership]({{ 'ownership/' | relative_url }}) records and then distribute the resulting payments. Without those systems, streaming services would have to negotiate licences song by song, and many royalties would never reach the people who wrote the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-dark.svg" | relative_url }}" alt="Mechanical Royalties illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Streaming Creates Mechanical Royalties
 
@@ -284,11 +283,11 @@ Mechanical [royalties]({{ 'royalties/' | relative_url }}) originated in the era 
 
 This creates an unusual situation in which a single stream can generate multiple composition-side payments. A songwriter may receive:
 
-* A performance royalty for the [public performance]({{ 'public-play/' | relative_url }}) of the composition.
+* A performance royalty for the public performance of the composition.
 * A mechanical royalty for the reproduction and distribution of the composition within the stream.
 * Separate payments on the [recording]({{ 'recording/' | relative_url }}) side for owners of the master recording.
 
-The listener experiences one stream, but the rights system treats it as several legally distinct uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
+The listener experiences one stream, but the [rights]({{ 'rights/' | relative_url }}) system treats it as several legally distinct uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
 
 The growth of streaming exposed weaknesses in older licensing methods. Interactive services had to identify and license enormous catalogues containing tens of millions of songs. Errors in ownership records frequently led to unpaid or disputed royalties, creating pressure for a more centralised system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
@@ -296,7 +295,7 @@ The growth of streaming exposed weaknesses in older licensing methods. Interacti
 
 ### From Song-by-Song Licensing to Blanket Licences
 
-One of the most significant governance changes in streaming royalties came through the United States' [Music]({{ 'music/' | relative_url }}) Modernization Act (MMA). Before the reform, digital services generally had to secure mechanical licences on a work-by-work basis under section 115 of US copyright law. The MMA replaced much of that process with a blanket licensing framework for eligible streaming and download services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
+One of the most significant governance changes in streaming royalties came through the United States' Music Modernization Act (MMA). Before the reform, digital services generally had to secure mechanical licences on a work-by-work basis under section 115 of US copyright law. The MMA replaced much of that process with a blanket licensing framework for eligible streaming and download services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
 
 Under this model, a qualifying streaming platform can obtain a single blanket licence covering a vast repertoire of musical works rather than pursuing millions of individual licences. The system was designed to reduce licensing failures while making royalty collection more reliable for songwriters and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
 
@@ -306,12 +305,49 @@ The centrepiece of the US system is the Mechanical Licensing Collective (MLC), a
 
 The workflow is broadly:
 
-
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-2-dark.svg" | relative_url }}" alt="Mechanical Royalties illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. A streaming service operates under the blanket licence.
 2. The service submits monthly usage data and royalty payments.
 3. The licensing collective compares stream records against ownership databases.
 4. Matching algorithms identify the correct copyright owners.
+5. Royalties are distributed to the registered rightsholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> This centralised approach addresses a problem that repeatedly troubled the streaming industry during its early growth: services often knew what had been streamed but lacked complete information about who owned the underlying compositions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+
+## Ownership Data Is the Real Infrastructure
+
+The most important asset in a modern mechanical licensing system is not the licence itself but the ownership data behind it.
+
+Every stream reported by a digital service must be linked to a specific composition and its corresponding ownership shares. A song may have multiple writers, publishers, administrators and international rights organisations involved. The licensing system therefore depends on accurate metadata, including songwriter names, publisher information, ownership percentages and work registrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> When ownership information is complete, matching is largely automated. When it is incomplete, conflicting or missing, royalties can become "unmatched". In that situation, the money may be collected but cannot immediately be assigned to a verified copyright owner. The licensing collective must then conduct additional matching efforts and claims processes before distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
+
+The governance challenge is therefore not merely collecting money from streaming services. It is maintaining a sufficiently accurate ownership database so that payments can be directed correctly at scale. Billions of monthly streams generate vast quantities of usage records, making metadata quality a central policy issue rather than a purely administrative detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">why transparency matters in music royalties</span><span class="citation-popover-snippet">Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-dark.svg" | relative_url }}" alt="Mechanical Royalties illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Ownership Data and Delayed Payments
+
+### Why Royalties Become Delayed
+
+Many delayed mechanical royalty payments originate from data problems rather than payment failures.
+
+Common causes include:
+
+* Songs not being registered with the relevant licensing system.
+* Conflicting ownership claims between publishers.
+* Incomplete songwriter information.
+* Ownership splits that differ across databases.
+* [Catalogue]({{ 'catalogue/' | relative_url }}) acquisitions that have not been fully updated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
+
+In these cases, a streaming platform may have paid the required royalties, yet the money cannot be distributed until ownership is verified. The result is a pool of unmatched royalties awaiting [identification]({{ 'identification/' | relative_url }}) of the correct recipients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
+
+### The Problem of Unmatched Royalties
+
+The scale of unmatched royalties became highly visible during the implementation of the Music Modernization Act. Streaming services transferred hundreds of millions of dollars in historical unmatched royalties into the new system so that ownership claims could be resolved and payments distributed to the rightful copyright owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
+
+This issue illustrates a common misunderstanding about streaming economics. Missing royalties are not always the result of a platform refusing to pay. Often the money has been collected but remains stranded because ownership information is incomplete or inconsistent across databases. The governance challenge is therefore as much about information management as financial collection. The Library of Congress <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
+
+## Why Mechanical Licensing Remains a Policy Issue
+
+Although blanket licensing has simplified administration, debates continue over how streaming mechanical royalties are calculated, reported and distributed. Questions about royalty rates, service classifications, reporting obligations and revenue calculations still affect the size of the royalty pool available to songwriters. Recent disputes involving streaming platforms and the Mechanical Licensing Collective have demonstrated that licensing administration remains closely tied to broader policy and regulatory decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Spotify sued over millions in allegedly unpaid music royalties</span><span class="citation-popover-snippet">The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
+
+The key achievement of modern mechanical licensing systems is not that they eliminated complexity. Rather, they moved complexity into a structured governance framework built around blanket licences, centralised data collection and ownership matching. For songwriters, that infrastructure is what turns billions of anonymous streams into identifiable composition royalties that can ultimately be paid to the people who created the songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -705,206 +741,166 @@ The workflow is broadly:
 </script>
 </section>
 
-5. Royalties are distributed to the registered rightsholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> This centralised approach addresses a problem that repeatedly troubled the streaming industry during its early growth: services often knew what had been streamed but lacked complete information about who owned the underlying compositions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
-
-## Ownership Data Is the Real Infrastructure
-
-The most important asset in a modern mechanical licensing system is not the licence itself but the ownership data behind it.
-
-Every stream reported by a digital service must be linked to a specific composition and its corresponding ownership shares. A song may have multiple writers, publishers, administrators and international rights organisations involved. The licensing system therefore depends on accurate metadata, including songwriter names, publisher information, ownership percentages and work registrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> When ownership information is complete, matching is largely automated. When it is incomplete, conflicting or missing, royalties can become "unmatched". In that situation, the money may be collected but cannot immediately be assigned to a verified copyright owner. The licensing collective must then conduct additional matching efforts and claims processes before distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
-
-The governance challenge is therefore not merely collecting money from streaming services. It is maintaining a sufficiently accurate ownership database so that payments can be directed correctly at scale. Billions of monthly streams generate vast quantities of usage records, making metadata quality a central policy issue rather than a purely administrative detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">why transparency matters in music royalties</span><span class="citation-popover-snippet">Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-dark.svg" | relative_url }}" alt="Mechanical Royalties illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Ownership Data and Delayed Payments
-
-### Why Royalties Become Delayed
-
-Many delayed mechanical royalty payments originate from data problems rather than payment failures.
-
-Common causes include:
-
-* Songs not being registered with the relevant licensing system.
-* Conflicting ownership claims between publishers.
-* Incomplete songwriter information.
-* Ownership splits that differ across databases.
-* [Catalogue]({{ 'catalogue/' | relative_url }}) acquisitions that have not been fully updated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
-
-In these cases, a streaming platform may have paid the required royalties, yet the money cannot be distributed until ownership is verified. The result is a pool of unmatched royalties awaiting identification of the correct recipients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
-
-### The Problem of Unmatched Royalties
-
-The scale of unmatched royalties became highly visible during the implementation of the Music Modernization Act. Streaming services transferred hundreds of millions of dollars in historical unmatched royalties into the new system so that ownership claims could be resolved and payments distributed to the rightful copyright owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
-
-This issue illustrates a common misunderstanding about streaming economics. Missing royalties are not always the result of a platform refusing to pay. Often the money has been collected but remains stranded because ownership information is incomplete or inconsistent across databases. The governance challenge is therefore as much about information management as financial collection. The Library of Congress <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
-
-## Why Mechanical Licensing Remains a Policy Issue
-
-Although blanket licensing has simplified administration, debates continue over how streaming mechanical royalties are calculated, reported and distributed. Questions about royalty rates, service classifications, reporting obligations and revenue calculations still affect the size of the royalty pool available to songwriters. Recent disputes involving streaming platforms and the Mechanical Licensing Collective have demonstrated that licensing administration remains closely tied to broader policy and regulatory decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Spotify sued over millions in allegedly unpaid music royalties</span><span class="citation-popover-snippet">The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
-
-The key achievement of modern mechanical licensing systems is not that they eliminated complexity. Rather, they moved complexity into a structured governance framework built around blanket licences, centralised data collection and ownership matching. For songwriters, that infrastructure is what turns billions of anonymous streams into identifiable composition royalties that can ultimately be paid to the people who created the songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/rulemaking/mma-designations/faq.html](https://www.copyright.gov/rulemaking/mma-designations/faq.html)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/faq.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeFrequently Asked Questions on the Designation of...The MMA created a new blanket compulsory licensing system for the rep...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: axios.com  
    Title: Major leap for streaming royalties  
-   Link: [https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective](https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective)  
+   Link: <a href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</p></details>
    Published: February 23, 2022  
 
 4. <a id="endnote-4"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/music-modernization/faq.html](https://www.copyright.gov/music-modernization/faq.html)  
+   Link: <a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeMusic Modernization: FAQ | U.S. Copyright OfficeTitle I – The Musical Works Modernization Act, which creates a blanket li...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8](https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8)  
+   Link: <a href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective](https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective)  
+   Link: <a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: Spotify sued over millions in allegedly unpaid music royalties  
-   Link: [https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/](https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</p></details>
    Published: May 17, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/](https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The royalty-gathering nonprofit Mechanical Licensing Collective (MLC) argued that Spotify misreported its revenue to avoid millions of do...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/rulemaking/mma-royalty-statements/](https://www.copyright.gov/rulemaking/mma-royalty-statements/)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-royalty-statements/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>licensing collective (MLC) to report and distribute royalties paid...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/music-modernization/related-rulemakings.html](https://www.copyright.gov/music-modernization/related-rulemakings.html)  
+   Link: <a href="https://www.copyright.gov/music-modernization/related-rulemakings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/related-rulemakings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>istributions in a manner consistent with this understanding of the Exception and...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/dsp-faqs](https://www.themlc.com/dsp-faqs)  
+   Link: <a href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/dsp-faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/how-it-works](https://www.themlc.com/how-it-works)  
+   Link: <a href="https://www.themlc.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/how-it-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHow It WorksThe MLC administers blanket mechanical licenses for eligible streaming and download services i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: royaltyexchange.com  
    Title: why transparency matters in music royalties  
-   Link: [https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties](https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/governance](https://www.themlc.com/governance)  
+   Link: <a href="https://www.themlc.com/governance" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveGovernance and BylawsIn July 2019, the U.S. Register of Copyrights designated The MLC to be the entity tha...</p></details>
    Published: July 2019  
 
 15. <a id="endnote-15"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveMechanical Licensing Collective: HomeThe MLC distributes digital audio mechanical royalties to eligible se...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/digital-music-royalties-landscape](https://www.themlc.com/digital-music-royalties-landscape)  
+   Link: <a href="https://www.themlc.com/digital-music-royalties-landscape" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/digital-music-royalties-landscape</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveThe Digital Music Royalties LandscapeThe MLC is the only organization in the United States authorized to a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/](https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f](https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f)  
+   Link: <a href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: royaltyexchange.com  
    Title: mechanical royalties  
-   Link: [https://royaltyexchange.com/blog/mechanical-royalties](https://royaltyexchange.com/blog/mechanical-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/mechanical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know24 Mar 2026 — Learn how mechanical royalties work, current rates, who pays and collects them, and how investor...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee](https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee)  
+   Link: <a href="https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nket royalties, noting that it “has distributed monthly royalty payments for...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: copyrightalliance.org  
    Title: mlc license availability date january 1 what this means  
-   Link: [https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/](https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/)  
+   Link: <a href="https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MLC License Availability Date: January 1Jan 19, 2021 — The MLC administers blanket mechanical licenses for musical compositions to eligib...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: apraamcos.com.au  
    Title: important update mechanical licensing collective the mlc  
-   Link: [https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc](https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc)  
+   Link: <a href="https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing Collective (The MLC)1 Jan 2021 — The MLC will collect the royalties due under those licenses from the DSPs and pay s...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aristake.com  
    Title: songwriters claim mlc money  
-   Link: [https://aristake.com/songwriters-claim-mlc-money/](https://aristake.com/songwriters-claim-mlc-money/)  
+   Link: <a href="https://aristake.com/songwriters-claim-mlc-money/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/songwriters-claim-mlc-money/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC is Sitting On $423 Million, How Songwriters Can...5 May 2021 — It collects mechanical royalties from DSPs (streaming services) a...</p></details>
    Published: May 2021  
 
 24. <a id="endnote-24"></a>
    Source: luminatedata.com  
    Title: finance valuation  
-   Link: [https://luminatedata.com/case-studies/finance-valuation/](https://luminatedata.com/case-studies/finance-valuation/)  
+   Link: <a href="https://luminatedata.com/case-studies/finance-valuation/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/case-studies/finance-valuation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Unclaimed Streaming Activities for Major Financial...27 Oct 2025 — A royalty is a payment made to the rights holder of a cre...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/](https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/)  
+   Link: <a href="https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MMA new Mechanical license collective for cover songs...The MLC now makes it easier for digital music service providers operating in the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: songtrust.com  
-   Link: [https://www.songtrust.com/the-mechanical-licensing-collective](https://www.songtrust.com/the-mechanical-licensing-collective)  
+   Link: <a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>licenses, The MLC invoices DSPs and then distributes mechanical...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: themlc.com  
    Title: historical royalties  
-   Link: [https://www.themlc.com/historical-royalties](https://www.themlc.com/historical-royalties)  
+   Link: <a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These historical unmatched royalties related to streaming activities that took place between 2007 and 2020, before the blanket license ad...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: support.tunecore.com  
    Title: 360052000051 What is the Mechanical Licensing Collective MLC  
-   Link: [https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC](https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC)  
+   Link: <a href="https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Mechanical Licensing Collective &quot;MLC&quot;?The MLC will collect and pay mechanical royalties collected by eligible Digital Service Prov...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf](https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf)  
+   Link: <a href="https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on that can collect and distribute the...</p></details>

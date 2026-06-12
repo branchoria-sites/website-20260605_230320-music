@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c
 - music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e
 tags:
-- music
+- music-3-a01-be
 - ai-training
 - licensing
 keywords:
-- music
+- music-3-a01-be
 - ai-training
 - licensing
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Training licences can pay musicians and labels, but direct deals, collective licences and opt-outs create very different winners.
 hero_summary: Training licences can pay musicians and labels, but direct deals, collective licences and opt-outs create very different winners.
 layout: default
 permalink: /licensing/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-training/
 nav_short_title: Licensing
 title: Who gets paid when AI trains on songs?
-title_full: Who gets paid when AI trains on songs? | AI Training
+title_full: Who gets paid when AI trains on songs?
 display_title_short: Licensing
 display_title: Licensing
 heading_title: Who gets paid when AI trains on songs?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Learn From Copyrighted Music? | Music
+parent_title: Can AI Learn From Copyrighted Music?
 parent_permalink: /ai-training/
 parent_nav_short_title: AI Training
 parent_heading_title: Can AI Learn From Copyrighted Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When AI sounds too much like an artist
 up_link:
   basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -265,7 +265,7 @@ next_link:
   permalink: /suno-and-udio/
   short_title: Suno and Udio
   heading_title: Why the Suno and Udio lawsuits matter
-date: '2026-06-09 06:42:29 '
+date: '2026-06-11 23:22:39 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensin
 
 The question of who gets paid when AI trains on songs is gradually shifting from a legal dispute to a market design problem. As music companies, publishers, collecting societies and AI developers explore licensing arrangements, the central challenge is not simply whether training should be licensed, but how payments should be distributed across labels, songwriters, performers and independent creators. The answer varies dramatically depending on the licensing model. Some systems favour large [catalogue]({{ 'catalogue/' | relative_url }}) owners that can negotiate directly with AI companies. Others aim to spread revenue more broadly through collective management. Still others focus on giving creators a choice through opt-in or opt-out participation. The structure chosen could determine whether [AI training]({{ 'ai-training/' | relative_url }}) becomes a new income stream for the wider music industry or primarily benefits those with the largest rights portfolios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training pre-publication versionMay 6, 2025 — This section describes how and why copyrighted works...</span><span class="citation-popover-meta">Published: May 6, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1-dark.svg" | relative_url }}" alt="Licensing illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Direct Catalogue Deals
 
 The fastest-emerging model is the direct licensing agreement between AI developers and major music [rights]({{ 'rights/' | relative_url }}) holders. Under this approach, an AI company negotiates [access]({{ 'access/' | relative_url }}) to specific catalogues and pays for the right to use recordings, compositions or both during model training.
 
-This model appeals to large rights owners because it resembles existing [music]({{ 'music/' | relative_url }}) licensing practices. Major record companies already control extensive catalogues, have licensing teams and can negotiate bespoke commercial terms. Recent negotiations and settlements involving AI music companies such as [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) have increasingly centred on licensed access to catalogue content rather than purely theoretical fair-use arguments. Reports indicate that major labels have pursued agreements allowing AI training in exchange for compensation and platform controls. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This agreement follows a similar settlement between Warner Music, Universal Music Group (UMG), and another AI platform, Udio. These settl...</span></span></span> The advantages are straightforward:
-
+This model appeals to large rights owners because it resembles existing music licensing practices. Major record companies already control extensive catalogues, have licensing teams and can negotiate bespoke commercial terms. Recent negotiations and settlements involving AI music companies such as [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) have increasingly centred on licensed access to catalogue content rather than purely theoretical fair-use arguments. Reports indicate that major labels have pursued agreements allowing AI training in exchange for compensation and platform controls. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This agreement follows a similar settlement between Warner Music, Universal Music Group (UMG), and another AI platform, Udio. These settl...</span></span></span> The advantages are straightforward:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,8 +292,7 @@ This model appeals to large rights owners because it resembles existing [music](
 
 </div>
 
-The weakness is concentration. Direct licensing naturally favours companies with large repertoires and strong bargaining power. A major label controlling millions of recordings can negotiate from a position that most independent artists cannot match. Smaller rights holders may find themselves excluded from negotiations altogether or offered less favourable terms. This creates a risk that AI licensing revenue becomes concentrated among the largest catalogue owners while much of the long tail of music receives little compensation. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Klay utilizes its Large Music Model, trained exclusively on licensed content, to offer interactive, human-centered music experiences and...</span></span></span> Another unresolved issue is internal distribution. Even if a label receives substantial licensing revenue, questions remain about how much reaches featured artists, session musicians, songwriters and producers. Existing recording contracts often were not written with AI training uses in mind, creating uncertainty about entitlement to future payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/musicai-nov2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">The music-maker perspective on the music industry&#x27;s AI deals6 Nov 2025 — Explicit Consent: Music-makers must grant explicit consent befor...</span></span></span>
-
+The weakness is concentration. Direct licensing naturally favours companies with large repertoires and strong bargaining power. A major label controlling millions of recordings can negotiate from a position that most independent artists cannot match. Smaller rights holders may find themselves excluded from negotiations altogether or offered less favourable terms. This creates a risk that AI licensing revenue becomes concentrated among the largest catalogue owners while much of the long tail of music receives little compensation. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Klay utilizes its Large Music Model, trained exclusively on licensed content, to offer interactive, human-centered music experiences and...</span></span></span> Another unresolved issue is internal distribution. Even if a label receives substantial licensing revenue, questions remain about how much reaches featured artists, session musicians, songwriters and producers. Existing [recording]({{ 'recording/' | relative_url }}) contracts often were not written with AI training uses in mind, creating uncertainty about entitlement to future payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/musicai-nov2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">The music-maker perspective on the music industry&#x27;s AI deals6 Nov 2025 — Explicit Consent: Music-makers must grant explicit consent befor...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9lqsNT8dP0o" title="AI Music Just Changed Forever!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9lqsNT8dP0o" target="_blank" rel="noopener noreferrer">AI Music Just Changed Forever!</a></p><p class="youtube-embed-meta">Channel: YoPaulie Music | Tech • Truth • Commentary &middot; Views: 3.8K &middot; Uploaded: November 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9lqsNT8dP0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9lqsNT8dP0o">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +308,6 @@ Real-world experimentation is beginning to appear. Sweden's collecting society S
 
 Yet collective systems raise difficult implementation questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How should revenue be divided among millions of works?
@@ -323,18 +319,16 @@ Yet collective systems raise difficult implementation questions:
 
 These questions are not merely administrative. They determine whether collective licensing becomes a genuinely inclusive system or simply another mechanism that favours the largest repertoires.
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-2-dark.svg" | relative_url }}" alt="Licensing illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Attribution Matters for Payment
 
 One reason licensing remains difficult is that AI training does not resemble traditional music consumption. A streaming service can count plays. A radio station can track broadcasts. AI models learn from vast numbers of recordings simultaneously.
 
-As a result, many proposed payment systems struggle to identify whose music contributed most to a model's capabilities. Researchers have begun developing methods for training-data attribution, attempting to measure which works influenced particular outputs or model behaviour. Such systems could eventually support more granular compensation schemes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.18312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivLarge-Scale Training Data Attribution for Music Generative Models via UnlearningJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
+As a result, many proposed payment systems struggle to identify whose music contributed most to a model's capabilities. Researchers have begun developing methods for training-data attribution, attempting to measure which works influenced particular outputs or model behaviour. Such systems could eventually support more granular compensation schemes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.18312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Large-Scale Training Data Attribution for Music Generative Models via UnlearningJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
-However, attribution at music-industry scale remains technically challenging. Current models typically learn patterns from enormous datasets rather than drawing directly from identifiable songs. This makes it difficult to calculate royalty-style payments based on individual contributions. Consequently, many licensing proposals rely on broader allocation formulas rather than precise measurement of influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.18312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivLarge-Scale Training Data Attribution for Music Generative Models via UnlearningJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
+However, attribution at music-industry scale remains technically challenging. Current models typically learn patterns from enormous datasets rather than drawing directly from identifiable songs. This makes it difficult to calculate royalty-style payments based on individual contributions. Consequently, many licensing proposals rely on broader allocation formulas rather than precise measurement of influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.18312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Large-Scale Training Data Attribution for Music Generative Models via UnlearningJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
 The attribution problem helps explain why transparency has become such a significant policy issue. Rights holders increasingly argue that developers should disclose training materials so creators can verify participation and claim compensation where appropriate. Transparency requirements are also seen as a prerequisite for meaningful licensing markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 90 — AI developers to be required by l...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9MB0dm0vv2U" title="The END of AI Music? Udio Falls and Suno AI Might Be Next!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9MB0dm0vv2U" target="_blank" rel="noopener noreferrer">The END of AI Music? Udio Falls and Suno AI Might Be Next!</a></p><p class="youtube-embed-meta">Channel: AI Automation Labs &middot; Views: 98.7K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9MB0dm0vv2U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9MB0dm0vv2U">Open on YouTube</a></p></div></div></div>
 
@@ -342,8 +336,7 @@ The attribution problem helps explain why transparency has become such a signifi
 
 Perhaps the most contested implementation choice is whether participation should be opt-in or opt-out.
 
-An opt-in system requires affirmative permission before music can be included in a training dataset. Supporters argue that this approach best respects copyright and creator autonomy. Artists, labels and publishers decide whether to participate and under what conditions. Several emerging licensed AI initiatives have emphasised creator consent and voluntary participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/musicai-nov2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">The music-maker perspective on the music industry&#x27;s AI deals6 Nov 2025 — Explicit Consent: Music-makers must grant explicit consent befor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/artists-and-songwriters-will-have-full-control-over-whether-and-how-their-names-images-likenesses-voices-and-compositions-are-used-in-new-ai-generated-music-warners-and-suno-link-up-to-create-new-legal-ai-platforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar The advantages include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">This deal follows a recent similar agreement between Warner and Udio, and is part of the music industry&#x27;s broader strategy to combat the...</span></span></span>
-
+An opt-in system requires affirmative permission before music can be included in a training dataset. Supporters argue that this approach best respects copyright and creator autonomy. Artists, labels and publishers decide whether to participate and under what conditions. Several emerging licensed AI initiatives have emphasised creator consent and voluntary participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/musicai-nov2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">The music-maker perspective on the music industry&#x27;s AI deals6 Nov 2025 — Explicit Consent: Music-makers must grant explicit consent befor...</span></span></span> MusicRadar The advantages include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/artists-and-songwriters-will-have-full-control-over-whether-and-how-their-names-images-likenesses-voices-and-compositions-are-used-in-new-ai-generated-music-warners-and-suno-link-up-to-create-new-legal-ai-platforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[musicradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">This deal follows a recent similar agreement between Warner and Udio, and is part of the music industry&#x27;s broader strategy to combat the...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -360,17 +353,12 @@ Opt-out systems take the opposite approach. Music can be included unless a right
 
 The choice between opt-in and opt-out therefore reflects a deeper policy trade-off. Opt-in maximises control but may limit scale. Opt-out maximises coverage but risks weakening meaningful consent. The debate increasingly centres on whether efficiency gains justify shifting responsibility from AI developers to creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">report on copyright and artificial intelligence</span><span class="citation-popover-snippet">18 Mar 2026 — Report on Copyright and Artificial Intelligence. Presented to Parliament pursuant to Section 136 of the Data (Use and Acces...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-3-dark.svg" | relative_url }}" alt="Licensing illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Emerging Battle Over Value Distribution
 
 As lawsuits, settlements and licensing negotiations evolve, the music industry is moving towards a licensing-first environment rather than relying entirely on unresolved fair-use arguments. Governments, industry bodies and rights organisations increasingly discuss frameworks built around permission, transparency and compensation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukmusic.org/news/uk-music-chief-hails-house-of-lords-report-highlighting-clear-and-present-danger-of-ai-training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmusic.org">[UK Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmusic.org</span><span class="citation-popover-snippet">UK MusicUK Music Chief Hails House of Lords Report Highlighting...3 days ago — The Government&#x27;s task should be to create the conditions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">report on copyright and artificial intelligence</span><span class="citation-popover-snippet">18 Mar 2026 — Report on Copyright and Artificial Intelligence. Presented to Parliament pursuant to Section 136 of the Data (Use and Acces...</span></span></span>
 
 The most important unresolved question is not whether licensing markets can exist. Evidence suggests they already are emerging. The harder question is how revenue will be distributed once those markets mature. Direct deals reward negotiating power. Collective licences promise broader participation but require difficult allocation rules. Opt-in systems prioritise creator choice, while opt-out systems prioritise scale. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Klay utilizes its Large Music Model, trained exclusively on licensed content, to offer interactive, human-centered music experiences and...</span></span></span> Who gets paid when AI trains on songs will ultimately depend less on the technology itself than on which of these licensing models becomes dominant. The design choices made now will shape whether AI training creates a narrow revenue stream for large catalogue owners or a broader market that includes the musicians, songwriters and independent creators whose work helped teach the systems in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/musicai-nov2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">The music-maker perspective on the music industry&#x27;s AI deals6 Nov 2025 — Explicit Consent: Music-makers must grant explicit consent befor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukmusic.org/news/uk-music-chief-hails-house-of-lords-report-highlighting-clear-and-present-danger-of-ai-training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmusic.org">[UK Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmusic.org</span><span class="citation-popover-snippet">UK MusicUK Music Chief Hails House of Lords Report Highlighting...3 days ago — The Government&#x27;s task should be to create the conditions...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/141sMlH3ZpI" title="AI vs. Human Composers: The Future of AI in Sync Licensing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=141sMlH3ZpI" target="_blank" rel="noopener noreferrer">AI vs. Human Composers: The Future of AI in Sync Licensing</a></p><p class="youtube-embed-meta">Channel: xJ-Will</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=141sMlH3ZpI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=141sMlH3ZpI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -768,126 +756,126 @@ The most important unresolved question is not whether licensing markets can exis
 
 1. <a id="endnote-1"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficePart 3: Generative AI Training pre-publication versionMay 6, 2025 — This section describes how and why copyrighted works...</p></details>
    Published: May 6, 2025  
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: report on copyright and artificial intelligence  
-   Link: [https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence](https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence)  
+   Link: <a href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2026 — Report on Copyright and Artificial Intelligence. Presented to Parliament pursuant to Section 136 of the Data (Use and Acces...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/virginieberger/2025/06/06/what-suno-and-udios-ai-licensing-deals-with-music-majors-could-mean-for-creators-rights/](https://www.forbes.com/sites/virginieberger/2025/06/06/what-suno-and-udios-ai-licensing-deals-with-music-majors-could-mean-for-creators-rights/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesWhat Suno And Udio&#x27;s AI Licensing Deals With Music...Jun 6, 2025 — The same companies are at the table hammering out AI music lice...</p></details>
+   Link: <a href="https://www.forbes.com/sites/virginieberger/2025/06/06/what-suno-and-udios-ai-licensing-deals-with-music-majors-could-mean-for-creators-rights/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/virginieberger/2025/06/06/what-suno-and-udios-ai-licensing-deals-with-music-majors-could-mean-for-creators-rights/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Suno And Udio&#x27;s AI Licensing Deals With Music...Jun 6, 2025 — The same companies are at the table hammering out AI music lice...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/](https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This agreement follows a similar settlement between Warner Music, Universal Music Group (UMG), and another AI platform, Udio. These settl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay](https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay)  
+   Link: <a href="https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/warner-music-group-signs-licensing-deal-with-ai-music-company-klay</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Klay utilizes its Large Music Model, trained exclusively on licensed content, to offer interactive, human-centered music experiences and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: councilmusicmakers.org  
-   Link: [https://councilmusicmakers.org/musicai-nov2025/](https://councilmusicmakers.org/musicai-nov2025/)  
+   Link: <a href="https://councilmusicmakers.org/musicai-nov2025/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/musicai-nov2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The music-maker perspective on the music industry&#x27;s AI deals6 Nov 2025 — Explicit Consent: Music-makers must grant explicit consent befor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jiplp/article/20/3/182/7922541](https://academic.oup.com/jiplp/article/20/3/182/7922541)  
+   Link: <a href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jiplp/article/20/3/182/7922541</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 90 — AI developers to be required by l...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plasticheadmedia.com  
-   Link: [https://plasticheadmedia.com/ai-and-training-data-licensing-what-it-means-for-musicians-today/](https://plasticheadmedia.com/ai-and-training-data-licensing-what-it-means-for-musicians-today/)  
+   Link: <a href="https://plasticheadmedia.com/ai-and-training-data-licensing-what-it-means-for-musicians-today/" target="_blank" rel="noopener noreferrer nofollow">https://plasticheadmedia.com/ai-and-training-data-licensing-what-it-means-for-musicians-today/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Training Data Licensing: What It Means for...May 7, 2026 — In September 2025, STIM (the Swedish Performing Rights Society) rolled...</p></details>
    Published: May 7, 2026  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.18312](https://arxiv.org/abs/2506.18312)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLarge-Scale Training Data Attribution for Music Generative Models via UnlearningJune 23, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.18312" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.18312</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Large-Scale Training Data Attribution for Music Generative Models via UnlearningJune 23, 2025...</p></details>
    Published: June 23, 2025  
 
 10. <a id="endnote-10"></a>
    Source: musicradar.com  
-   Link: [https://www.musicradar.com/music-tech/artists-and-songwriters-will-have-full-control-over-whether-and-how-their-names-images-likenesses-voices-and-compositions-are-used-in-new-ai-generated-music-warners-and-suno-link-up-to-create-new-legal-ai-platforms](https://www.musicradar.com/music-tech/artists-and-songwriters-will-have-full-control-over-whether-and-how-their-names-images-likenesses-voices-and-compositions-are-used-in-new-ai-generated-music-warners-and-suno-link-up-to-create-new-legal-ai-platforms)  
+   Link: <a href="https://www.musicradar.com/music-tech/artists-and-songwriters-will-have-full-control-over-whether-and-how-their-names-images-likenesses-voices-and-compositions-are-used-in-new-ai-generated-music-warners-and-suno-link-up-to-create-new-legal-ai-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/artists-and-songwriters-will-have-full-control-over-whether-and-how-their-names-images-likenesses-voices-and-compositions-are-used-in-new-ai-generated-music-warners-and-suno-link-up-to-create-new-legal-ai-platforms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This deal follows a recent similar agreement between Warner and Udio, and is part of the music industry&#x27;s broader strategy to combat the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/virginieberger/2025/12/18/launch-train-settle-how-suno-and-udios-licensing-deals-made-copyright-infringement-profitable/](https://www.forbes.com/sites/virginieberger/2025/12/18/launch-train-settle-how-suno-and-udios-licensing-deals-made-copyright-infringement-profitable/)  
+   Link: <a href="https://www.forbes.com/sites/virginieberger/2025/12/18/launch-train-settle-how-suno-and-udios-licensing-deals-made-copyright-infringement-profitable/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/virginieberger/2025/12/18/launch-train-settle-how-suno-and-udios-licensing-deals-made-copyright-infringement-profitable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Launch, Train, Settle: How Suno And Udio&#x27;s Licensing...18 Dec 2025 — Suno and Udio operated for approximately two years, training their...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/virginieberger/2025/12/29/nine-predictions-for-the-music-industry-in-2026-how-ai-reshapes-licensing-and-power/](https://www.forbes.com/sites/virginieberger/2025/12/29/nine-predictions-for-the-music-industry-in-2026-how-ai-reshapes-licensing-and-power/)  
+   Link: <a href="https://www.forbes.com/sites/virginieberger/2025/12/29/nine-predictions-for-the-music-industry-in-2026-how-ai-reshapes-licensing-and-power/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/virginieberger/2025/12/29/nine-predictions-for-the-music-industry-in-2026-how-ai-reshapes-licensing-and-power/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nine Predictions For The Music Industry In 2026: How AI...29 Dec 2025 — Nine predictions for how AI will reshape music licensing, catalo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: copyright.com  
    Title: CC C Launching New AI Content Re-Use Rights for U.S  
-   Link: [https://www.copyright.com/media-press-releases/ccc-launching-new-ai-content-re-use-rights-for-u-s-academic-customers-and-transactional-licensing-capabilities-for-ai/](https://www.copyright.com/media-press-releases/ccc-launching-new-ai-content-re-use-rights-for-u-s-academic-customers-and-transactional-licensing-capabilities-for-ai/)  
+   Link: <a href="https://www.copyright.com/media-press-releases/ccc-launching-new-ai-content-re-use-rights-for-u-s-academic-customers-and-transactional-licensing-capabilities-for-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.com/media-press-releases/ccc-launching-new-ai-content-re-use-rights-for-u-s-academic-customers-and-transactional-licensing-capabilities-for-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 3, 2026 — The Organization&#x27;s Licensing Portfolio Will Feature Four AI Licensing Options to Support Internal and External AI Use Cases...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ukmusic.org  
-   Link: [https://www.ukmusic.org/news/uk-music-chief-hails-house-of-lords-report-highlighting-clear-and-present-danger-of-ai-training/](https://www.ukmusic.org/news/uk-music-chief-hails-house-of-lords-report-highlighting-clear-and-present-danger-of-ai-training/)  
+   Link: <a href="https://www.ukmusic.org/news/uk-music-chief-hails-house-of-lords-report-highlighting-clear-and-present-danger-of-ai-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/news/uk-music-chief-hails-house-of-lords-report-highlighting-clear-and-present-danger-of-ai-training/</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: landr.com  
-   Link: [https://www.landr.com/fairai](https://www.landr.com/fairai)  
+   Link: <a href="https://www.landr.com/fairai" target="_blank" rel="noopener noreferrer nofollow">https://www.landr.com/fairai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LANDR Fair Trade AI ProgramUsers distributing music with LANDR can opt-in to the program to earn money by allowing their content to be us...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SunoAI/comments/1olqy3o/udio_vs_suno_implications_license_distributions/](https://www.reddit.com/r/SunoAI/comments/1olqy3o/udio_vs_suno_implications_license_distributions/)  
+   Link: <a href="https://www.reddit.com/r/SunoAI/comments/1olqy3o/udio_vs_suno_implications_license_distributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SunoAI/comments/1olqy3o/udio_vs_suno_implications_license_distributions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UDIO vs SUNO IMPLICATIONS. LICENSE...For those who may not be aware Udio settled the lawsuit against them for training their AI with com...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/](https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UMG and Sony seek to add over 61k recordings to Suno...5 days ago — Universal Music Group and Sony Music Entertainment have asked a fede...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39](https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39)  
+   Link: <a href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/](https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/)  
+   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an artis...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/](https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno moves to keep size of its AI training data sealed in...1 day ago — Suno moves to keep size of its AI training data sealed in UMG an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright](https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright)  
+   Link: <a href="https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright</a>  
 
 22. <a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/universal-warner-and-sony-in-talks-to-license-ai-music-generators-suno-and-udio-report/](https://www.musicbusinessworldwide.com/universal-warner-and-sony-in-talks-to-license-ai-music-generators-suno-and-udio-report/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/universal-warner-and-sony-in-talks-to-license-ai-music-generators-suno-and-udio-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/universal-warner-and-sony-in-talks-to-license-ai-music-generators-suno-and-udio-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Labels in licensing talks with AI music generators Suno...2 Jun 2025 — The major music companies are reportedly in licensing talks with...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/michael-campbell-linn_this-is-what-i-believe-will-happen-in-music-activity-7422579263641391104-yTZ3](https://www.linkedin.com/posts/michael-campbell-linn_this-is-what-i-believe-will-happen-in-music-activity-7422579263641391104-yTZ3)  
+   Link: <a href="https://www.linkedin.com/posts/michael-campbell-linn_this-is-what-i-believe-will-happen-in-music-activity-7422579263641391104-yTZ3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/michael-campbell-linn_this-is-what-i-believe-will-happen-in-music-activity-7422579263641391104-yTZ3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI Will Change Copyright Regulations · Challenges in Music Licensing for 2025 · How AI Influences Music Licensing...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sonymusic.com  
    Title: klay signs ai licensing deals universal sony music [publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;) warner chappell  
-   Link: [https://www.sonymusic.com/sonymusic/klay-signs-ai-licensing-deals-universal-sony-music-publishing-warner-chappell/](https://www.sonymusic.com/sonymusic/klay-signs-ai-licensing-deals-universal-sony-music-publishing-warner-chappell/)  
+   Link: <a href="https://www.sonymusic.com/sonymusic/klay-signs-ai-licensing-deals-universal-sony-music-publishing-warner-chappell/" target="_blank" rel="noopener noreferrer nofollow">https://www.sonymusic.com/sonymusic/klay-signs-ai-licensing-deals-universal-sony-music-publishing-warner-chappell/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Technology Company Klay Signs First-Of-Its-Kind AI...20 Nov 2025 — Music Technology Company Klay Signs First-Of-Its-Kind AI Licens...</p></details>

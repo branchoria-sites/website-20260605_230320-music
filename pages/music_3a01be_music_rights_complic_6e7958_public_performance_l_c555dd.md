@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_rights_complic_6e7958_royalty_metadata_gap_6b3d8d
 - music_3a01be_music_rights_complic_6e7958_sync_master_clearanc_3c7634
 tags:
-- music
+- music-3-a01-be
 - rights
 - public-play
 keywords:
-- music
+- music-3-a01-be
 - rights
 - public-play
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Public performance licences explain why background music in ordinary businesses can trigger royalty payments.
 hero_summary: Public performance licences explain why background music in ordinary businesses can trigger royalty payments.
 layout: default
 permalink: /public-play/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /rights/
 nav_short_title: Public play
 title: Why cafes pay to play songs
-title_full: Why cafes pay to play songs | Rights
+title_full: Why cafes pay to play songs
 display_title_short: Public play
 display_title: Public play
 heading_title: Why cafes pay to play songs
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why One Song Has So Many Rights | Music
+parent_title: Why One Song Has So Many Rights
 parent_permalink: /rights/
 parent_nav_short_title: Rights
 parent_heading_title: Why One Song Has So Many Rights
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why film music needs double clearance
 up_link:
   basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
@@ -265,7 +265,7 @@ next_link:
   permalink: /sync-rights/
   short_title: Sync rights
   heading_title: Why film music needs double clearance
-date: '2026-06-09 07:39:38 '
+date: '2026-06-11 23:50:56 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/music_3a01be_music_rights_complic_6e7958_public_performanc
 
 Many people assume that buying a CD, subscribing to a streaming service or turning on a radio gives a café, pub or venue the right to play music for customers. In copyright law, however, playing music in a business is usually a separate activity known as a **public performance**. That is why ordinary businesses often need music licences even when they acquired the music legally. Governments and collecting societies treat music played in customer-facing spaces as a commercial use that can generate [royalties]({{ 'royalties/' | relative_url }}) for songwriters, performers and [recording]({{ 'recording/' | relative_url }}) owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/licence-to-play-live-or-recorded-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Get a licence to play live or recorded musicYou usually need a licence from PPL PRS to play live or recorded music in public - includes p...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1-dark.svg" | relative_url }}" alt="Public play illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practice, cafés, bars, restaurants, gyms and event venues rarely negotiate directly with thousands of [rights]({{ 'rights/' | relative_url }}) holders. Instead, they rely on collective [licensing]({{ 'licensing/' | relative_url }}) systems that grant permission to use large repertoires of music through a single agreement. These arrangements are one of the most visible examples of how music rights operate in everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing/why-ascap-licenses-bars-restaurants-music-venues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Why ASCAP Licenses Bars, Restaurants &amp; Music VenuesMost of ASCAP&#x27;s licensees take out “blanket licenses,” meaning that licensed venues pa...</span></span></span>
 
 ## What counts as public performance?
 
-For most businesses, public performance is broader than live [concerts]({{ 'concerts/' | relative_url }}). It can include [background music]({{ 'background/' | relative_url }}) played through speakers, radio broadcasts audible to customers, television music channels, streamed playlists, DJs, karaoke and many forms of live entertainment. UK guidance states that businesses generally need permission when music is played in public spaces or work environments, while US performing-rights organisations define public performance as music played in places open to the public or where people gather outside a normal family setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sound-machine.com/licensing/ascap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sound-machine.com">[SoundMachine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sound-machine.com</span><span class="citation-popover-title">Sound Machine ASCAP Music License for Business | Sound Machine Under U.S</span><span class="citation-popover-snippet">copyright law, a “public performance” occurs when music is played in a place open to the public or in a setting where a substantial numbe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/licence-to-play-live-or-recorded-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Get a licence to play live or recorded musicYou usually need a licence from PPL PRS to play live or recorded music in public - includes p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">What is TheMusicLicence - PPL PRSMay 1, 2026...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+For most businesses, public performance is broader than live [concerts]({{ 'concerts/' | relative_url }}). It can include [background]({{ 'background/' | relative_url }}) music played through speakers, radio broadcasts audible to customers, television music channels, streamed playlists, DJs, karaoke and many forms of live entertainment. UK guidance states that businesses generally need permission when music is played in public spaces or work environments, while US performing-rights organisations define public performance as music played in places open to the public or where people gather outside a normal family setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sound-machine.com/licensing/ascap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sound-machine.com">[SoundMachine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sound-machine.com</span><span class="citation-popover-title">Sound Machine ASCAP Music License for Business &#124; Sound Machine Under U.S</span><span class="citation-popover-snippet">copyright law, a “public performance” occurs when music is played in a place open to the public or in a setting where a substantial numbe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/licence-to-play-live-or-recorded-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Get a licence to play live or recorded musicYou usually need a licence from PPL PRS to play live or recorded music in public - includes p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">What is TheMusicLicence - PPL PRSMay 1, 2026...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 A practical café example illustrates the point:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,9 +297,6 @@ A practical café example illustrates the point:
 The same principle often applies whether the music comes from a radio, a commercial music service, a DJ or a live performer. Even a small venue hosting occasional acoustic nights may need licences covering the musical works being performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">What is TheMusicLicence - PPL PRSMay 1, 2026...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 This can surprise business owners because they are not selling music itself. Copyright law focuses on the act of communicating music to the public, not merely on whether admission is charged or music is the main attraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nixonpeabody.com/insights/articles/2026/01/21/is-your-business-playing-music-in-public-spaces-legally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nixonpeabody.com">[Nixon Peabody LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nixonpeabody.com</span><span class="citation-popover-snippet">Nixon Peabody LLPIs your business playing music in public spaces legally?21 Jan 2026 — Under US copyright law, any public performance of...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZbgOuw4HdU" title="Mechanical vs Performance Royalties: Why Streaming Pays Both" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer">Mechanical vs Performance Royalties: Why Streaming Pays Both</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 621 &middot; Uploaded: March 2026 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZbgOuw4HdU">Open on YouTube</a></p></div></div></div>
 
 ## Why blanket licences exist
 
@@ -317,7 +312,6 @@ For a typical café or bar, the attraction of a blanket licence is simplicity:
 * Enforcement becomes more practical than monitoring individual permissions.
 
 Without blanket licensing, many venues would either stop using music or face overwhelming administrative costs. The system emerged largely because large-scale music use became economically valuable long before digital databases made ownership easier to track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentext.uoregon.edu/payforplay/chapter/chapter-27-performance-rights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentext.uoregon.edu">[opentext.uoregon.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentext.uoregon.edu</span><span class="citation-popover-snippet">Performance Rights – Pay for Play: How the Music Industry...ASCAP&#x27;s mission was to create a “blanket licensing” system, whereby public v...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-2-dark.svg" | relative_url }}" alt="Public play illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How licensing works in everyday businesses
@@ -340,24 +334,19 @@ In the UK, PRS for Music and PPL represent different sets of rights holders, and
 
 This explains why a single song played in a café can generate money for multiple parties. The songwriter who created the composition may be paid through one channel, while the musicians and owners of the recording may be paid through another. The listener hears one track, but the royalty system sees overlapping rights interests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">What is TheMusicLicence - PPL PRSMay 1, 2026...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oG2q3ZaiVq4" title="Episode 7: Collective Management Organisations (CMO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oG2q3ZaiVq4" target="_blank" rel="noopener noreferrer">Episode 7: Collective Management Organisations (CMO)</a></p><p class="youtube-embed-meta">Channel: Business and IP - Gunther Marten</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oG2q3ZaiVq4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oG2q3ZaiVq4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZbgOuw4HdU" title="Mechanical vs Performance Royalties: Why Streaming Pays Both" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer">Mechanical vs Performance Royalties: Why Streaming Pays Both</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 621 &middot; Uploaded: March 2026 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZbgOuw4HdU">Open on YouTube</a></p></div></div></div>
 
 ### Live music adds another layer
 
 A live performance changes the mix of rights involved. If a singer performs a song without using the original recording, the sound-recording right may not be central in the same way. However, the underlying composition is still being publicly performed, which is why venues often need licences covering live music events as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">What is TheMusicLicence - PPL PRSMay 1, 2026...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
-In some licensing systems, setlists and performance reports help determine how royalty income is allocated among songwriters whose works were actually performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/performance-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">performance royalties explained</span><span class="citation-popover-snippet">OrphiqPerformance Royalties Explained for Artists9 Apr 2026 — The venue pays a blanket license fee to PROs. If you submit your setlist, y...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+In some licensing systems, setlists and performance reports help determine how royalty income is allocated among songwriters whose works were actually performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/performance-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">performance royalties explained</span><span class="citation-popover-snippet">Performance Royalties Explained for Artists9 Apr 2026 — The venue pays a blanket license fee to PROs. If you submit your setlist, y...</span></span></span>
 
 ## Why these licences remain controversial
 
 Business owners sometimes view music licences as an unexpected operating cost, particularly when music is only background ambience. Collecting societies, by contrast, argue that music helps create the atmosphere that attracts and retains customers and that creators deserve compensation when their work contributes to commercial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/press/2026/03/3-10-venues-refuse-to-pay-songwriters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Venues Refuse to Pay Songwriters While Profiting from...Mar 10, 2026 — Songwriters earn their livelihoods by licensing the performance r...</span></span></span>
 
 Disputes often arise over questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,7 +358,6 @@ Disputes often arise over questions such as:
 </div>
 
 These debates have existed for decades and help explain why music rights remain a visible and sometimes contentious part of running hospitality and entertainment businesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">PRS for Music</span><span class="citation-popover-snippet">What is TheMusicLicence - PPL PRSMay 1, 2026...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-3-dark.svg" | relative_url }}" alt="Public play illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway
@@ -493,15 +481,15 @@ For cafés, pubs, restaurants and venues, music licensing is less about negotiat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,"><img src="{{ '/assets/images/marketplace-covers/daecb9cc6da8197cebd8.jpg' | relative_url }}" alt="Listing image for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art," loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock-Ola Jukebox - 3D Shop Display Collection Sign Collectors Display"><img src="https://i.ebayimg.com/images/g/KyYAAeSw3J5ocmcP/s-l225.jpg" alt="Listing image for Rock-Ola Jukebox - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer">Rock-Ola Jukebox - 3D Shop Display Collection Sign Collectors Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jukebox sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: jukebox sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +497,15 @@ For cafés, pubs, restaurants and venues, music licensing is less about negotiat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art"><img src="{{ '/assets/images/marketplace-covers/192d30de036d9d1ec182.jpg' | relative_url }}" alt="Listing image for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Diner Juke Box Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/1kkAAeSwDWtp4Nfz/s-l225.jpg" alt="Listing image for American Diner Juke Box Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer">American Diner Juke Box Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jukebox sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: jukebox sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +513,15 @@ For cafés, pubs, restaurants and venues, music licensing is less about negotiat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jukebox Sign Vintage classic style Old 28cm wurlitzer seeburg AMI continental"><img src="https://i.ebayimg.com/images/g/KDoAAeSwarppyl-7/s-l225.jpg" alt="Listing image for Jukebox Sign Vintage classic style Old 28cm wurlitzer seeburg AMI continental" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer">Jukebox Sign Vintage classic style Old 28cm wurlitzer seeburg AMI continental</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jukebox sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: jukebox sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +529,15 @@ For cafés, pubs, restaurants and venues, music licensing is less about negotiat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Juke Box Repairs Service Sign Vintage Style Jukebox Workshop Metal Aluminium"><img src="https://i.ebayimg.com/images/g/uE4AAeSwgGNpyU2l/s-l225.jpg" alt="Listing image for Juke Box Repairs Service Sign Vintage Style Jukebox Workshop Metal Aluminium" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer">Juke Box Repairs Service Sign Vintage Style Jukebox Workshop Metal Aluminium</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jukebox sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: jukebox sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +545,7 @@ For cafés, pubs, restaurants and venues, music licensing is less about negotiat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-play-why-cafes-pay-to-play-songs-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="public-play-why-cafes-pay-to-play-songs-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=jukebox+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cafes-pay-to-play-songs-jukebox-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jukebox sign" data-ebay-reference="why-cafes-pay-to-play-songs-jukebox-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,220 +760,220 @@ For cafés, pubs, restaurants and venues, music licensing is less about negotiat
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/licence-to-play-live-or-recorded-music](https://www.gov.uk/licence-to-play-live-or-recorded-music)  
+   Link: <a href="https://www.gov.uk/licence-to-play-live-or-recorded-music" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/licence-to-play-live-or-recorded-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get a licence to play live or recorded musicYou usually need a licence from PPL PRS to play live or recorded music in public - includes p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nixonpeabody.com  
-   Link: [https://www.nixonpeabody.com/insights/articles/2026/01/21/is-your-business-playing-music-in-public-spaces-legally](https://www.nixonpeabody.com/insights/articles/2026/01/21/is-your-business-playing-music-in-public-spaces-legally)  
+   Link: <a href="https://www.nixonpeabody.com/insights/articles/2026/01/21/is-your-business-playing-music-in-public-spaces-legally" target="_blank" rel="noopener noreferrer nofollow">https://www.nixonpeabody.com/insights/articles/2026/01/21/is-your-business-playing-music-in-public-spaces-legally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nixon Peabody LLPIs your business playing music in public spaces legally?21 Jan 2026 — Under US copyright law, any public performance of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing/why-ascap-licenses-bars-restaurants-music-venues](https://www.ascap.com/help/ascap-licensing/why-ascap-licenses-bars-restaurants-music-venues)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing/why-ascap-licenses-bars-restaurants-music-venues" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing/why-ascap-licenses-bars-restaurants-music-venues</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why ASCAP Licenses Bars, Restaurants &amp; Music VenuesMost of ASCAP&#x27;s licensees take out “blanket licenses,” meaning that licensed venues pa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/themusiclicence/](https://pplprs.co.uk/themusiclicence/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheMusicLicenceTheMusicLicence allows you to legally play and perform music in your business, whether through the radio, TV, other digita...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing](https://www.ascap.com/help/ascap-licensing)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occurs e...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/themusiclicence/sectors/live-events-festivals/](https://pplprs.co.uk/themusiclicence/sectors/live-events-festivals/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/sectors/live-events-festivals/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/sectors/live-events-festivals/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Events &amp; Festivals Music LicenceIf you&#x27;re staging live music events, concerts, festivals or even theatrical performances, you&#x27;ll usu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: opentext.uoregon.edu  
-   Link: [https://opentext.uoregon.edu/payforplay/chapter/chapter-27-performance-rights/](https://opentext.uoregon.edu/payforplay/chapter/chapter-27-performance-rights/)  
+   Link: <a href="https://opentext.uoregon.edu/payforplay/chapter/chapter-27-performance-rights/" target="_blank" rel="noopener noreferrer nofollow">https://opentext.uoregon.edu/payforplay/chapter/chapter-27-performance-rights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Rights – Pay for Play: How the Music Industry...ASCAP&#x27;s mission was to create a “blanket licensing” system, whereby public v...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: moodby.com  
    Title: why music licensing for restaurants is essential  
-   Link: [https://moodby.com/blog/why-music-licensing-for-restaurants-is-essential/](https://moodby.com/blog/why-music-licensing-for-restaurants-is-essential/)  
+   Link: <a href="https://moodby.com/blog/why-music-licensing-for-restaurants-is-essential/" target="_blank" rel="noopener noreferrer nofollow">https://moodby.com/blog/why-music-licensing-for-restaurants-is-essential/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Sept 2025 — Avoid costly fines! Discover how proper music licensing can protect your restaurant and boost the perfect dining vibe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pplprs.co.uk  
    Title: PPL PRSPubs & Bars Music Licence  
-   Link: [https://pplprs.co.uk/themusiclicence/sectors/pubs-bars/](https://pplprs.co.uk/themusiclicence/sectors/pubs-bars/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/sectors/pubs-bars/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/sectors/pubs-bars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>temporary permit to cover the music usage at the event. Contact us to set up...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: orphiq.com  
    Title: performance royalties explained  
-   Link: [https://orphiq.com/resources/performance-royalties-explained](https://orphiq.com/resources/performance-royalties-explained)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqPerformance Royalties Explained for Artists9 Apr 2026 — The venue pays a blanket license fee to PROs. If you submit your setlist, y...</p></details>
+   Link: <a href="https://orphiq.com/resources/performance-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/performance-royalties-explained</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Royalties Explained for Artists9 Apr 2026 — The venue pays a blanket license fee to PROs. If you submit your setlist, y...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/press/2026/03/3-10-venues-refuse-to-pay-songwriters](https://www.ascap.com/press/2026/03/3-10-venues-refuse-to-pay-songwriters)  
+   Link: <a href="https://www.ascap.com/press/2026/03/3-10-venues-refuse-to-pay-songwriters" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/press/2026/03/3-10-venues-refuse-to-pay-songwriters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venues Refuse to Pay Songwriters While Profiting from...Mar 10, 2026 — Songwriters earn their livelihoods by licensing the performance r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: PRS for Music  
-   Link: [https://en.wikipedia.org/wiki/PRS_for_Music](https://en.wikipedia.org/wiki/PRS_for_Music)  
+   Link: <a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is TheMusicLicence - PPL PRSMay 1, 2026...</p></details>
    Published: May 1, 2026  
 
 13. <a id="endnote-13"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing/political-campaign-license-faqs](https://www.ascap.com/help/ascap-licensing/political-campaign-license-faqs)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing/political-campaign-license-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing/political-campaign-license-faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Music in Political CampaignsWe license the right to publicly perform our members&#x27; music to businesses that use it – including radio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/music-users/types/bgt-landing-page-2](https://www.ascap.com/music-users/types/bgt-landing-page-2)  
+   Link: <a href="https://www.ascap.com/music-users/types/bgt-landing-page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-users/types/bgt-landing-page-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing for Restaurants, Bars and NightclubsWith an annual ASCAP music license, you have unlimited [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) to ASCAP&#x27;s expansive ca...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: PPL PRS Ltd  
-   Link: [https://www.youtube.com/watch?v=F3G955sY_lQ](https://www.youtube.com/watch?v=F3G955sY_lQ)  
+   Link: <a href="https://www.youtube.com/watch?v=F3G955sY_lQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3G955sY_lQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Music Licensing for Business...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/playing-music-at-work](https://www.prsformusic.com/licences/playing-music-at-work)  
+   Link: <a href="https://www.prsformusic.com/licences/playing-music-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/playing-music-at-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Licences for playing music at workTheMusicLicence from PPL PRS allows you to play music in your business whether through the radio, TV, o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sound-machine.com  
    Title: Sound Machine ASCAP Music License for Business | Sound Machine Under U.S  
-   Link: [https://sound-machine.com/licensing/ascap](https://sound-machine.com/licensing/ascap)  
+   Link: <a href="https://sound-machine.com/licensing/ascap" target="_blank" rel="noopener noreferrer nofollow">https://sound-machine.com/licensing/ascap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>copyright law, a “public performance” occurs when music is played in a place open to the public or in a setting where a substantial numbe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/our-global-network/prs-managed-territories/prs-managed-territories-licensing-music](https://www.prsformusic.com/our-global-network/prs-managed-territories/prs-managed-territories-licensing-music)  
+   Link: <a href="https://www.prsformusic.com/our-global-network/prs-managed-territories/prs-managed-territories-licensing-music" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/our-global-network/prs-managed-territories/prs-managed-territories-licensing-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicLicensing musicIf your business plays any type of recording in a public or staff space, you&#x27;ll need a PRS for Music licence...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/playing-music-at-work/all-music-at-work-tariffs](https://www.prsformusic.com/licences/playing-music-at-work/all-music-at-work-tariffs)  
+   Link: <a href="https://www.prsformusic.com/licences/playing-music-at-work/all-music-at-work-tariffs" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/playing-music-at-work/all-music-at-work-tariffs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>View all tariffsWhether you run a café, shop, gym or any other workplace that plays music, a PPL PRS Music Licence allows you to legally...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pplprs.co.uk  
    Title: PPL PRSPPL PRS Help  
-   Link: [https://pplprs.co.uk/help/](https://pplprs.co.uk/help/)  
+   Link: <a href="https://pplprs.co.uk/help/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/help/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PPL PRS Help - PPL PRS - TheMusicLicenceDo I need a licence? What is TheMusicLicence? How much does it cost? Find help and answers to our...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do/who-we-work-with/ppl](https://www.prsformusic.com/what-we-do/who-we-work-with/ppl)  
+   Link: <a href="https://www.prsformusic.com/what-we-do/who-we-work-with/ppl" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/who-we-work-with/ppl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPPL and PRS for MusicPRS for Music and PPL are separate organisations who license different sets of rights in the use of mus...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/](https://pplprs.co.uk/)  
+   Link: <a href="https://pplprs.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PPL PRSPPL PRS | TheMusicLicence | The UK&#x27;s public music licensing...PPL PRS is the UK&#x27;s music licensing company. If you use, play or li...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: backgroundsounds.co.uk  
-   Link: [https://www.backgroundsounds.co.uk/what-is-the-difference-between-prs-and-ppl/](https://www.backgroundsounds.co.uk/what-is-the-difference-between-prs-and-ppl/)  
+   Link: <a href="https://www.backgroundsounds.co.uk/what-is-the-difference-between-prs-and-ppl/" target="_blank" rel="noopener noreferrer nofollow">https://www.backgroundsounds.co.uk/what-is-the-difference-between-prs-and-ppl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Background SoundsDifference Between PRS and PPL - A Beginners GuidePRS (Performing Rights Society) collects royalties for songwriters, co...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/licensing/faqs/ipc-faq-doc-24.pdf](https://www.prsformusic.com/-/media/files/prs-for-music/licensing/faqs/ipc-faq-doc-24.pdf)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/licensing/faqs/ipc-faq-doc-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/licensing/faqs/ipc-faq-doc-24.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs IPC Blanket LicenceWhat does the IPC Blanket Licence allow Production Companies to do? The IPC Blanket Licence allows Production Com...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/buy-a-licence-online](https://www.prsformusic.com/licences/buy-a-licence-online)  
+   Link: <a href="https://www.prsformusic.com/licences/buy-a-licence-online" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/buy-a-licence-online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Buy a licence onlineThis blanket licence covers the use of music in your own CDs, DVDs and more... If you have pre-cleared the mechanica...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences](https://www.prsformusic.com/licences)  
+   Link: <a href="https://www.prsformusic.com/licences" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences</a>  
 
 27. <a id="endnote-27"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/help/help-with-buying-a-licence](https://www.prsformusic.com/help/help-with-buying-a-licence)  
+   Link: <a href="https://www.prsformusic.com/help/help-with-buying-a-licence" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/help/help-with-buying-a-licence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of music in your own CDs, DVDs and more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/licensing/mcps-updated/limited-manufacture-faqs-2025.pdf](https://www.prsformusic.com/-/media/files/prs-for-music/licensing/mcps-updated/limited-manufacture-faqs-2025.pdf)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/licensing/mcps-updated/limited-manufacture-faqs-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/licensing/mcps-updated/limited-manufacture-faqs-2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Rights Licence is required for the performance or the recording of any copyright dramatico-musical works. A dramatic production inc...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/themusiclicence/sectors/restaurants-cafes/](https://pplprs.co.uk/themusiclicence/sectors/restaurants-cafes/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/sectors/restaurants-cafes/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/sectors/restaurants-cafes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Restaurants &amp; Cafés Music LicenceTheMusicLicence allows you to legally play music for customers and employees in your restaurant or café...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/themusiclicence/sectors/sports-events/](https://pplprs.co.uk/themusiclicence/sectors/sports-events/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/sectors/sports-events/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/sectors/sports-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Event Music LicenceTheMusicLicence allows you to legally play or perform music for those at your stadium/sporting area, hospitalit...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/themusiclicence/sectors/charity/](https://pplprs.co.uk/themusiclicence/sectors/charity/)  
+   Link: <a href="https://pplprs.co.uk/themusiclicence/sectors/charity/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/themusiclicence/sectors/charity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Charity Event Music LicenceTheMusicLicenceallows you to legally play music for employees or customers in your business through the radio...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pplprs.co.uk  
-   Link: [https://pplprs.co.uk/background-music/other-recordings/](https://pplprs.co.uk/background-music/other-recordings/)  
+   Link: <a href="https://pplprs.co.uk/background-music/other-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://pplprs.co.uk/background-music/other-recordings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDs, MP3s &amp; Other Recordings... TheMusicLicence. Music that&#x27;s played outside of a domestic environment is classed as a public performance...</p></details>
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BarOwners/comments/bmor14/ascap_etc_licensing/](https://www.reddit.com/r/BarOwners/comments/bmor14/ascap_etc_licensing/)  
+   Link: <a href="https://www.reddit.com/r/BarOwners/comments/bmor14/ascap_etc_licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BarOwners/comments/bmor14/ascap_etc_licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP etc licensing: r/BarOwnersHey everyone, I&#x27;m curious what your ascap/bmi/seesac yearly fees are. I feel like the limited informatio...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: ppluk.com  
-   Link: [https://www.ppluk.com/royalties/getting-started-with-royalties/](https://www.ppluk.com/royalties/getting-started-with-royalties/)  
+   Link: <a href="https://www.ppluk.com/royalties/getting-started-with-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.ppluk.com/royalties/getting-started-with-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting started with royaltiesRegister with PPL for free to receive UK royalties a performer on a piece of recorded music (from lead sing...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/txmusicnet/posts/10161399747861827/](https://www.facebook.com/groups/txmusicnet/posts/10161399747861827/)  
+   Link: <a href="https://www.facebook.com/groups/txmusicnet/posts/10161399747861827/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/txmusicnet/posts/10161399747861827/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a list of songs using ASCAP but not BMI for venues?According to CharGPT- There isn&#x27;t a straightforward public list that exclusiv...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: businesstapas.co.uk  
-   Link: [https://businesstapas.co.uk/music-licensing-in-public-spaces/](https://businesstapas.co.uk/music-licensing-in-public-spaces/)  
+   Link: <a href="https://businesstapas.co.uk/music-licensing-in-public-spaces/" target="_blank" rel="noopener noreferrer nofollow">https://businesstapas.co.uk/music-licensing-in-public-spaces/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing in Public SpacesIn the UK, if you are playing music in public or at your business, you will need to get TheMusicLicence f...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: makingmusic.org.uk  
-   Link: [https://www.makingmusic.org.uk/resource/prs-versus-ppl](https://www.makingmusic.org.uk/resource/prs-versus-ppl)  
+   Link: <a href="https://www.makingmusic.org.uk/resource/prs-versus-ppl" target="_blank" rel="noopener noreferrer nofollow">https://www.makingmusic.org.uk/resource/prs-versus-ppl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS versus PPLWhen your music group performs you may need a PRS for Music licence. Some groups may also need a PPL licence if they use re...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: restaurantowner.com  
-   Link: [https://www.restaurantowner.com/public/Paying-the-Piper-Restaurant-Music-Licensing-Fees.cfm](https://www.restaurantowner.com/public/Paying-the-Piper-Restaurant-Music-Licensing-Fees.cfm)  
+   Link: <a href="https://www.restaurantowner.com/public/Paying-the-Piper-Restaurant-Music-Licensing-Fees.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.restaurantowner.com/public/Paying-the-Piper-Restaurant-Music-Licensing-Fees.cfm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paying the Piper: Restaurant Music Licensing FeesThe PROs issue blanket licenses, described by ASCAP as &quot;a license which allows the music...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: [https://researchbriefings.files.parliament.uk/documents/SN04899/SN04899.pdf](https://researchbriefings.files.parliament.uk/documents/SN04899/SN04899.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/SN04899/SN04899.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/SN04899/SN04899.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsPlaying music in publicPRS for Music licenses the public performance of original musical works... PPL licenses the pub...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: mcpsproductionmusic.co.uk  
-   Link: [https://mcpsproductionmusic.co.uk/licensing/broadcaster-blanket/](https://mcpsproductionmusic.co.uk/licensing/broadcaster-blanket/)  
+   Link: <a href="https://mcpsproductionmusic.co.uk/licensing/broadcaster-blanket/" target="_blank" rel="noopener noreferrer nofollow">https://mcpsproductionmusic.co.uk/licensing/broadcaster-blanket/</a>  
 
 41. <a id="endnote-41"></a>
    Source: soundsuit.fm  
    Title: ASCA P & BMI Music Licensing Guide for Businesses**Public (small rights) vs  
-   Link: [https://soundsuit.fm/bmi-and-ascap-music-licensing-for-businesses/](https://soundsuit.fm/bmi-and-ascap-music-licensing-for-businesses/)  
+   Link: <a href="https://soundsuit.fm/bmi-and-ascap-music-licensing-for-businesses/" target="_blank" rel="noopener noreferrer nofollow">https://soundsuit.fm/bmi-and-ascap-music-licensing-for-businesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>grand rights** – Blanket licenses cover public performance (small rights), not grand rights (e.g., musicals, dramatic works)...Read more...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: sltn.co.uk  
    Title: if your customers can hear music you cant shake off music licensing  
-   Link: [https://sltn.co.uk/2026/02/12/if-your-customers-can-hear-music-you-cant-shake-off-music-licensing/](https://sltn.co.uk/2026/02/12/if-your-customers-can-hear-music-you-cant-shake-off-music-licensing/)  
+   Link: <a href="https://sltn.co.uk/2026/02/12/if-your-customers-can-hear-music-you-cant-shake-off-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://sltn.co.uk/2026/02/12/if-your-customers-can-hear-music-you-cant-shake-off-music-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If your customers can hear music, you can&#x27;t shake off music...12 Feb 2026 — If you play any form of music in your pub, bar, restaurant...</p></details>

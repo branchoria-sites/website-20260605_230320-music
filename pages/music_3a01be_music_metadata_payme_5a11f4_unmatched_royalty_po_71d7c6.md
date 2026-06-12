@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_metadata_payme_5a11f4_live_setlists_songwr_f8d095
 - music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7
 tags:
-- music
+- music-3-a01-be
 - metadata
 - unmatched-pools
 keywords:
-- music
+- music-3-a01-be
 - metadata
 - unmatched-pools
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Unmatched royalty pools show how usage can generate money before the industry knows which work or rightsholder should receive it.
 hero_summary: Unmatched royalty pools show how usage can generate money before the industry knows which work or rightsholder should receive it.
 layout: default
 permalink: /unmatched-pools/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /metadata/
 nav_short_title: Unmatched Pools
 title: Where unpaid royalties wait for better data
-title_full: Where unpaid royalties wait for better data | Metadata
+title_full: Where unpaid royalties wait for better data
 display_title_short: Unmatched Pools
 display_title: Unmatched Pools
 heading_title: Where unpaid royalties wait for better data
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Bad Music Data Costs Creators Money | Music
+parent_title: Why Bad Music Data Costs Creators Money
 parent_permalink: /metadata/
 parent_nav_short_title: Metadata
 parent_heading_title: Why Bad Music Data Costs Creators Money
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why song splits can freeze royalty money
 up_link:
   basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -259,7 +259,7 @@ prev_link:
   permalink: /song-splits/
   short_title: Song Splits
   heading_title: Why song splits can freeze royalty money
-date: '2026-06-09 07:38:45 '
+date: '2026-06-11 23:50:26 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-1.webp
@@ -270,11 +270,10 @@ image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty
 
 Unmatched royalty pools are the music industry's most visible measure of metadata failure. They form when money is generated from streams, downloads or other uses, but the systems responsible for paying royalties cannot confidently connect that usage to the correct musical work, [recording]({{ 'recording/' | relative_url }}) or rightsholder. The result is not merely an administrative delay. Large unmatched pools reveal exactly where the links between recordings, compositions, [ownership]({{ 'ownership/' | relative_url }}) records and usage reports have broken down, creating a financial backlog that can persist for years. In that sense, unmatched royalties are less a separate problem than a diagnostic tool: they show where music metadata is incomplete, inconsistent or missing altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-1-dark.svg" | relative_url }}" alt="Unmatched Pools illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How royalties become unmatched
 
-A royalty becomes unmatched when a payment system receives evidence that [music]({{ 'music/' | relative_url }}) was used but lacks enough reliable information to determine who should be paid. This can happen even when the stream itself is recorded perfectly.
+A royalty becomes unmatched when a payment system receives evidence that music was used but lacks enough reliable information to determine who should be paid. This can happen even when the stream itself is recorded perfectly.
 
 The most common causes are surprisingly mundane:
 
@@ -283,12 +282,9 @@ The most common causes are surprisingly mundane:
 * Inconsistent song titles across databases.
 * Missing links between recording identifiers (ISRCs) and composition identifiers (ISWCs).
 * Typographical errors in creator names.
-* Conflicting ownership claims from different parties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrademusicinternational.org">[Fair Trade Music International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrademusicinternational.org</span><span class="citation-popover-snippet">Fair Trade Music InternationalUnmatched royaltiesA songwriters&#x27; guide to the MLC unmatched royalties issue. Learn how to find out if some...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lumoza.io/guides/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumoza.io">[lumoza]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumoza.io</span><span class="citation-popover-snippet">LumozaMusic Royalties Explained: What They Are and How...28 Jan 2026 — Missing or inconsistent metadata (titles, ISRC, ISWC, writer shar...</span></span></span> These problems accumulate because the music industry does not operate from a single authoritative database. Labels, distributors, publishers, collecting societies and streaming services often maintain separate datasets that must be reconciled. When identifiers or ownership records do not align, automated systems cannot confidently distribute money.
+* Conflicting ownership claims from different parties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrademusicinternational.org">[Fair Trade Music International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrademusicinternational.org</span><span class="citation-popover-snippet">Fair Trade Music InternationalUnmatched royaltiesA songwriters&#x27; guide to the MLC unmatched royalties issue. Learn how to find out if some...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lumoza.io/guides/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumoza.io">[lumoza]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumoza.io</span><span class="citation-popover-snippet">Music Royalties Explained: What They Are and How...28 Jan 2026 — Missing or inconsistent metadata (titles, ISRC, ISWC, writer shar...</span></span></span> These problems accumulate because the music industry does not operate from a single authoritative database. Labels, distributors, publishers, collecting societies and streaming services often maintain separate datasets that must be reconciled. When identifiers or ownership records do not align, automated systems cannot confidently distribute money.
 
-Research and industry reports repeatedly point to the same weak point: matching recordings to the underlying musical works and their owners. A stream may clearly identify a recording, yet the [publishing]({{ 'publishing/' | relative_url }}) royalty cannot be paid until the composition and ownership information are confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMusic Streaming Metadata Mapping ReportMatching ISWC and ISRCs is not their priority which remains ensuring recording metadata to be...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
+Research and industry reports repeatedly point to the same weak point: matching recordings to the underlying musical works and their owners. A stream may clearly identify a recording, yet the [publishing]({{ 'publishing/' | relative_url }}) royalty cannot be paid until the composition and ownership information are confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Music Streaming Metadata Mapping ReportMatching ISWC and ISRCs is not their priority which remains ensuring recording metadata to be...</span></span></span>
 
 ## A large dataset that exposed the scale of the problem
 
@@ -300,18 +296,17 @@ What made the dataset important was not simply its size. It demonstrated that mi
 
 Subsequent debates about the MLC's unmatched holdings highlighted how persistent the issue remained. Critics argued that unmatched balances continued to grow, while supporters emphasised that the underlying cause was often incomplete industry metadata rather than missing usage information. Regardless of where responsibility lay, both sides pointed to the same reality: royalties were waiting for better ownership data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completemusicupdate.com/the-mlcs-billion-dollar-black-box-in-the-spotlight-in-us-copyright-office-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completemusicupdate.com">[CMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completemusicupdate.com</span><span class="citation-popover-title">the mlcs billion dollar black box in the spotlight in us copyright office review</span><span class="citation-popover-snippet">About $600 million from royalties...</span></span></span> | the music business explained
 
+<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-2-dark.svg" | relative_url }}" alt="Unmatched Pools illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What matching can recover later
 
 One reason unmatched pools are so revealing is that many royalties can eventually be recovered once missing metadata is corrected.
 
-The MLC has built matching and claiming tools that allow publishers and songwriters to search unmatched uses, propose corrections and identify ownership interests. Its system effectively turns unmatched royalties into a catalogue of unresolved metadata problems waiting to be solved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
+The MLC has built matching and claiming tools that allow publishers and songwriters to search unmatched uses, propose corrections and identify ownership interests. Its system effectively turns unmatched royalties into a [catalogue]({{ 'catalogue/' | relative_url }}) of unresolved metadata problems waiting to be solved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
 
 When a songwriter discovers a missing registration, a publisher corrects ownership shares, or a database finally connects an ISRC to the correct musical work, royalties that were previously stuck can often be released. Matching technologies increasingly combine identifiers, ownership records and algorithmic comparison methods to make these connections. The U.S. Copyright Office has noted that matching may involve ISWC–ISRC cross-references, metadata comparisons and other automated techniques, although human review is still required in difficult cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">unclaimed royalties final report</span><span class="citation-popover-snippet">Copyright OfficeUnclaimed Royalties: Best Practice Recommendations for...8 Jul 2021 —... Data matching can use a number of combinations...</span></span></span>. Copyright Office
 
 This recoverability is important because it proves the royalties were not generated in error. The value was real all along; only the metadata was incomplete.
 
-
-<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-2-dark.svg" | relative_url }}" alt="Unmatched Pools illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why old gaps keep returning
 
 The persistence of unmatched pools shows that metadata problems are not merely historical leftovers from the early streaming era.
@@ -322,15 +317,12 @@ The industry also continues to generate new recordings faster than ownership inf
 
 The recurring appearance of unmatched royalties therefore reveals a structural lesson: collecting usage data is relatively easy, but maintaining accurate relationships between recordings, compositions and owners is much harder. Every new release becomes another test of the industry's metadata infrastructure.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QQ0d_Os47TI" title="Should You Register With The MLC To Collect All Your Streaming Mechanical Royalties?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QQ0d_Os47TI" target="_blank" rel="noopener noreferrer">Should You Register With The MLC To Collect All Your Streaming Mechanical Royalties?</a></p><p class="youtube-embed-meta">Channel: Disc Makers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QQ0d_Os47TI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QQ0d_Os47TI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-3-dark.svg" | relative_url }}" alt="Unmatched Pools illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What unmatched pools reveal about metadata quality
 
 Viewed as a dataset, an unmatched royalty pool acts like a map of information failures.
 
 A growing unmatched balance often indicates:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,9 +338,6 @@ A growing unmatched balance often indicates:
 The most important insight is that unmatched royalties measure the cost of these failures in financial terms. Metadata errors are often discussed as technical issues, but unmatched pools convert them into visible sums of money that cannot yet reach their intended recipients.
 
 That is why unmatched royalty pools occupy such an important place in discussions about music metadata. They demonstrate that the industry's challenge is not merely tracking music consumption. It is maintaining reliable connections between usage records, recordings, musical works and ownership data. Whenever those connections fail, royalties accumulate in waiting rooms of unpaid money, providing a running ledger of the [metadata gaps]({{ 'metadata-gaps/' | relative_url }}) that still need to be closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.tunecore.com/hc/en-us/articles/4406899403924-What-is-the-Black-Box-and-what-are-Black-Box-Royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.tunecore.com">[TuneCore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.tunecore.com</span><span class="citation-popover-snippet">is the Black Box and what are Black Box Royalties?The Black Box refers to a pool of revenue at a collection society where the songwriter...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-3-dark.svg" | relative_url }}" alt="Unmatched Pools illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -467,15 +456,15 @@ That is why unmatched royalty pools occupy such an important place in discussion
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="https://i.ebayimg.com/images/g/hm8AAeSwcRJqLDiG/s-l225.jpg" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +472,15 @@ That is why unmatched royalty pools occupy such an important place in discussion
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW"><img src="https://i.ebayimg.com/images/g/f2EAAeSwkElqKXDW/s-l225.jpg" alt="Listing image for Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +488,15 @@ That is why unmatched royalty pools occupy such an important place in discussion
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT"><img src="https://i.ebayimg.com/images/g/4k4AAOSwfNRhWSj5/s-l225.jpg" alt="Listing image for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +504,15 @@ That is why unmatched royalty pools occupy such an important place in discussion
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1969 Orig &quot;Try&quot; UNIVERSAL JOINT Psychedelic Concert Poster Spokane WA. John Werr"><img src="https://i.ebayimg.com/images/g/utIAAOSw0Ypn~d8m/s-l225.jpg" alt="Listing image for 1969 Orig &quot;Try&quot; UNIVERSAL JOINT Psychedelic Concert Poster Spokane WA. John Werr" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1969 Orig &quot;Try&quot; UNIVERSAL JOINT Psychedelic Concert Poster Spokane WA. John Werr</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +520,7 @@ That is why unmatched royalty pools occupy such an important place in discussion
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="unmatched-pools-where-unpaid-royalties-wait-for-better-data-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-unpaid-royalties-wait-for-better-data-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="where-unpaid-royalties-wait-for-better-data-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,136 +735,136 @@ That is why unmatched royalty pools occupy such an important place in discussion
 
 1. <a id="endnote-1"></a>
    Source: support.tunecore.com  
-   Link: [https://support.tunecore.com/hc/en-us/articles/4406899403924-What-is-the-Black-Box-and-what-are-Black-Box-Royalties](https://support.tunecore.com/hc/en-us/articles/4406899403924-What-is-the-Black-Box-and-what-are-Black-Box-Royalties)  
+   Link: <a href="https://support.tunecore.com/hc/en-us/articles/4406899403924-What-is-the-Black-Box-and-what-are-Black-Box-Royalties" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/4406899403924-What-is-the-Black-Box-and-what-are-Black-Box-Royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Black Box and what are Black Box Royalties?The Black Box refers to a pool of revenue at a collection society where the songwriter...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lumoza.io  
-   Link: [https://lumoza.io/guides/music-royalties](https://lumoza.io/guides/music-royalties)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LumozaMusic Royalties Explained: What They Are and How...28 Jan 2026 — Missing or inconsistent metadata (titles, ISRC, ISWC, writer shar...</p></details>
+   Link: <a href="https://lumoza.io/guides/music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://lumoza.io/guides/music-royalties</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties Explained: What They Are and How...28 Jan 2026 — Missing or inconsistent metadata (titles, ISRC, ISWC, writer shar...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: copyright.gov  
    Title: unclaimed royalties final report  
-   Link: [https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf](https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf)  
+   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeUnclaimed Royalties: Best Practice Recommendations for...8 Jul 2021 —... Data matching can use a number of combinations...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&mirid=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNMusic Streaming Metadata Mapping ReportMatching ISWC and ISRCs is not their priority which remains ensuring recording metadata to be...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Metadata Mapping ReportMatching ISWC and ISRCs is not their priority which remains ensuring recording metadata to be...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cisac.org  
-   Link: [https://www.cisac.org/services/information-services](https://www.cisac.org/services/information-services)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISACInformation ServicesCIS uses a variety of international standard identifying codes for musical works (ISWC), audiovisual works (ISAN...</p></details>
+   Link: <a href="https://www.cisac.org/services/information-services" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/services/information-services</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Information ServicesCIS uses a variety of international standard identifying codes for musical works (ISWC), audiovisual works (ISAN...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective](https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective)  
+   Link: <a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: completemusicupdate.com  
    Title: the mlcs billion dollar black box in the spotlight in us copyright office review  
-   Link: [https://completemusicupdate.com/the-mlcs-billion-dollar-black-box-in-the-spotlight-in-us-copyright-office-review/](https://completemusicupdate.com/the-mlcs-billion-dollar-black-box-in-the-spotlight-in-us-copyright-office-review/)  
+   Link: <a href="https://completemusicupdate.com/the-mlcs-billion-dollar-black-box-in-the-spotlight-in-us-copyright-office-review/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/the-mlcs-billion-dollar-black-box-in-the-spotlight-in-us-copyright-office-review/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About $600 million from royalties...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: curveroyaltysystems.com  
    Title: improve music publishing metadata iswc services  
-   Link: [https://www.curveroyaltysystems.com/news/improve-music-publishing-metadata-iswc-services](https://www.curveroyaltysystems.com/news/improve-music-publishing-metadata-iswc-services)  
+   Link: <a href="https://www.curveroyaltysystems.com/news/improve-music-publishing-metadata-iswc-services" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/improve-music-publishing-metadata-iswc-services</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ISWC database and standard is maintained by CISAC. An ISWC is formatted as an 11-...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: members.cisac.org  
    Title: Download File.do  
-   Link: [https://members.cisac.org/CisacPortal/cisacDownloadFile.do?docId=17911](https://members.cisac.org/CisacPortal/cisacDownloadFile.do?docId=17911)  
+   Link: <a href="https://members.cisac.org/CisacPortal/cisacDownloadFile.do?docId=17911" target="_blank" rel="noopener noreferrer nofollow">https://members.cisac.org/CisacPortal/cisacDownloadFile.do?docId=17911</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metadata and how it could Improve your...TIP 3: Make sure your Work has received an. ISWC! (It is mandatory for all CISAC members..) Yo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cisac.org  
    Title: launches new iswc ipi context search help music publishers solve  
-   Link: [https://www.cisac.org/Newsroom/news-releases/cisac-launches-new-iswc-ipi-context-search-help-music-publishers-solve](https://www.cisac.org/Newsroom/news-releases/cisac-launches-new-iswc-ipi-context-search-help-music-publishers-solve)  
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/cisac-launches-new-iswc-ipi-context-search-help-music-publishers-solve" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-launches-new-iswc-ipi-context-search-help-music-publishers-solve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CISAC launches new &#x27;ISWC IPI Context Search&#x27; to help...1 Dec 2025 — The new ISWC IPI Context Search allows music publishers to search fo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/illuminating-black-box](https://www.themlc.com/illuminating-black-box)  
+   Link: <a href="https://www.themlc.com/illuminating-black-box" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/illuminating-black-box</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveIlluminating Black BoxThe MLC&#x27;s Matching Tool allows Members to search the data for the unmatched royaltie...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fairtrademusicinternational.org  
-   Link: [https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/](https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/)  
+   Link: <a href="https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair Trade Music InternationalUnmatched royaltiesA songwriters&#x27; guide to the MLC unmatched royalties issue. Learn how to find out if some...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/historical-royalties](https://www.themlc.com/historical-royalties)  
+   Link: <a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHistorical RoyaltiesIs There Still A “Black Box” of Mechanical Royalties With The MLC? No, the data on all...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musictech.solutions  
-   Link: [https://musictech.solutions/category/the-mlc/](https://musictech.solutions/category/the-mlc/)  
+   Link: <a href="https://musictech.solutions/category/the-mlc/" target="_blank" rel="noopener noreferrer nofollow">https://musictech.solutions/category/the-mlc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Tech SolutionsThe MLCThe Mechanical Licensing Collective (“MLC”) repeats this error in digital form. Musical works ownership is dyn...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: digitalmusicnews.com  
    Title: mechanical licensing collective black box royalties  
-   Link: [https://www.digitalmusicnews.com/2023/02/03/mechanical-licensing-collective-black-box-royalties/](https://www.digitalmusicnews.com/2023/02/03/mechanical-licensing-collective-black-box-royalties/)  
+   Link: <a href="https://www.digitalmusicnews.com/2023/02/03/mechanical-licensing-collective-black-box-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2023/02/03/mechanical-licensing-collective-black-box-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MLC &#x27;Unmatched Royalties&#x27; Hit $561MM in 2021...03 Feb 2023 — The music industry can count the MLC as another major contributor to the m...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: law.unh.edu  
-   Link: [https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf](https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf)  
+   Link: <a href="https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es the incomplete history of digitizing musical metadata and highlights how vital comprehensive royalty regulation is to creators by...R...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/how-unclaimed-royalties-actually-expire-explaining-black-ben-stauffer-vg2yf](https://www.linkedin.com/pulse/how-unclaimed-royalties-actually-expire-explaining-black-ben-stauffer-vg2yf)  
+   Link: <a href="https://www.linkedin.com/pulse/how-unclaimed-royalties-actually-expire-explaining-black-ben-stauffer-vg2yf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-unclaimed-royalties-actually-expire-explaining-black-ben-stauffer-vg2yf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Unclaimed Royalties Actually ExpireUnder the Music Modernization Act, the Mechanical Licensing Collective (MLC) must hold accrued roy...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jamiedhart_metadata-musicpublishing-publishing-activity-7307789146436050944-I86u](https://www.linkedin.com/posts/jamiedhart_metadata-musicpublishing-publishing-activity-7307789146436050944-I86u)  
+   Link: <a href="https://www.linkedin.com/posts/jamiedhart_metadata-musicpublishing-publishing-activity-7307789146436050944-I86u" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jamiedhart_metadata-musicpublishing-publishing-activity-7307789146436050944-I86u</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s talk catalog metadata. | Jamie Dee HartOne missing ISRC or metadata mismatch can erase their earnings completely. The MLC was built...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/](https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/)  
+   Link: <a href="https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These identifiers ensure that when your music appears on UGC platforms, the royalties are matched and paid...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: modern-musician.com  
-   Link: [https://www.modern-musician.com/podcast-episode-308-caleb-shreve](https://www.modern-musician.com/podcast-episode-308-caleb-shreve)  
+   Link: <a href="https://www.modern-musician.com/podcast-episode-308-caleb-shreve" target="_blank" rel="noopener noreferrer nofollow">https://www.modern-musician.com/podcast-episode-308-caleb-shreve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the performance side for publishing, half is paid to publishers and half is paid directly to songwriters. On...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: billboard.com  
    Title: the mlc improve royalties match rate new data network 1235545949  
-   Link: [https://www.billboard.com/business/publishing/the-mlc-improve-royalties-match-rate-new-data-network-1235545949/](https://www.billboard.com/business/publishing/the-mlc-improve-royalties-match-rate-new-data-network-1235545949/)  
+   Link: <a href="https://www.billboard.com/business/publishing/the-mlc-improve-royalties-match-rate-new-data-network-1235545949/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/business/publishing/the-mlc-improve-royalties-match-rate-new-data-network-1235545949/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC Aims to Improve Royalties Match Rate With New...7 Dec 2023 — The MLC has announced its new Supplemental Matching Network, which...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: zachbornheimermusic.com  
    Title: Zach Bornheimer Music The Role of Metadata in Music Royalties  
-   Link: [https://zachbornheimermusic.com/music-business/the-role-of-metadata-in-music-royalties/](https://zachbornheimermusic.com/music-business/the-role-of-metadata-in-music-royalties/)  
+   Link: <a href="https://zachbornheimermusic.com/music-business/the-role-of-metadata-in-music-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://zachbornheimermusic.com/music-business/the-role-of-metadata-in-music-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Metadata in Music Royalties - Zachary Bornheimer1 Sept 2025 — There&#x27;s also an avalanche of “unclaimed” and “black box” royalt...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DMyQPRpBkqz/](https://www.instagram.com/p/DMyQPRpBkqz/)  
+   Link: <a href="https://www.instagram.com/p/DMyQPRpBkqz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMyQPRpBkqz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(For musicians, producers, managers, and industry pros)...The MLC helps identify unmatched recordings so royalties can be paid correctly...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: digitalmusicnews.com  
    Title: muso ai catalog audit mlc mismatch solution  
-   Link: [https://www.digitalmusicnews.com/2025/10/06/muso-ai-catalog-audit-mlc-mismatch-solution/](https://www.digitalmusicnews.com/2025/10/06/muso-ai-catalog-audit-mlc-mismatch-solution/)  
+   Link: <a href="https://www.digitalmusicnews.com/2025/10/06/muso-ai-catalog-audit-mlc-mismatch-solution/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2025/10/06/muso-ai-catalog-audit-mlc-mismatch-solution/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Audit Tool Reveals Shocking Scale Unpaid MLC...Oct 6, 2025 — Muso.AI&#x27;s new audit service is giving songwriters and publishers the abilit...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8](https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8)  
+   Link: <a href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>accumulated and held on to prior to The MLC beginning...Read more...</p></details>

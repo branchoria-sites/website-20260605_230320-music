@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - lullabies
 keywords:
-- music
+- music-3-a01-be
 - lullabies
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Lullabies show how simple musical patterns can soothe children, mark care and carry family memory.
 hero_summary: Lullabies show how simple musical patterns can soothe children, mark care and carry family memory.
 layout: default
 permalink: /lullabies/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Lullabies
 title: Why Lullabies Work Across Cultures
-title_full: Why Lullabies Work Across Cultures | Music
+title_full: Why Lullabies Work Across Cultures
 display_title_short: Lullabies
 display_title: Lullabies
 heading_title: Why Lullabies Work Across Cultures
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 next_link:
   basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
-date: '2026-06-09 06:19:10 '
+date: '2026-06-11 23:10:20 '
 header:
   og_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview-social.jpg
   preview_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview.webp
@@ -501,51 +501,37 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview-social.j
 
 ## Introduction
 
-Lullabies are among the most widespread musical practices in human societies — quietly sung at the end of the day to soothe infants and help them settle. But they are more than cultural habit: a growing body of scientific research shows that specific musical features in lullabies can **directly calm listeners**, especially infants, by influencing physiological arousal and emotional states. These calming effects occur even when the [music]({{ 'music/' | relative_url }}) is unfamiliar or in a language the baby does not understand, suggesting that the musical form itself plays a fundamental role in soothing, not just cultural familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInfants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
-
+Lullabies are among the most widespread musical practices in human societies  quietly sung at the end of the day to soothe infants and help them settle. But they are more than cultural habit: a growing body of scientific research shows that specific musical features in lullabies can **directly calm listeners**, especially infants, by influencing physiological arousal and emotional states. These calming effects occur even when the music is unfamiliar or in a language the baby does not understand, suggesting that the musical form itself plays a fundamental role in soothing, not just cultural familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview.webp" | relative_url }}" alt="Overview image for Lullabies" loading="eager" decoding="sync" fetchpriority="high">
 ## How Musical Structure Encourages Calm
 
-Lullabies tend to share simple, repetitive, and gentle musical patterns that differentiate them from many other song types. Across cultures, melodies are often slow, smooth, and minimally accented, with predictable [rhythm]({{ 'rhythm/' | relative_url }}) and few sudden changes. Adult listeners can consistently recognise infant-directed lullabies across cultures on the basis of these features alone — and infants likewise respond with physiological markers of relaxation when hearing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInfants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
+Lullabies tend to share simple, repetitive, and gentle musical patterns that differentiate them from many other song types. Across cultures, melodies are often slow, smooth, and minimally accented, with predictable [rhythm]({{ 'rhythm/' | relative_url }}) and few sudden changes. Adult listeners can consistently recognise infant-directed lullabies across cultures on the basis of these features alone  and infants likewise respond with physiological markers of relaxation when hearing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
 **[Slow tempo]({{ 'slow-tempo/' | relative_url }}) and gentle dynamics:** Lullabies typically unfold at [slow tempos]({{ 'slow-tempo/' | relative_url }}) with soft dynamics. This pacing corresponds with lower arousal states and aligns with basic human physiology, where slower rhythm and fewer sudden acoustic events help reduce nervous-system activation and support relaxation.
 
-**Repetition and predictability:** Repetitive melodic and rhythmic patterns — for example repeating simple phrases or syllables — create predictability in the sound, reducing uncertainty and arousal. When a baby hears a predictable musical pattern, there’s less stimulation to process, which can promote calming rather than alerting responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Publications Sage Reference</span><span class="citation-popover-snippet">SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</span></span></span>
-
+**Repetition and predictability:** Repetitive melodic and rhythmic patterns  for example repeating simple phrases or syllables  create predictability in the sound, reducing uncertainty and arousal. When a baby hears a predictable musical pattern, theres less stimulation to process, which can promote calming rather than alerting responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Publications Sage Reference</span><span class="citation-popover-snippet">SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-1-dark.svg" | relative_url }}" alt="Lullabies illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Physiological Evidence from Infant Studies
 
-In controlled research, infants’ physiological responses — such as heart rate, pupil dilation, and skin conductance — show measurable changes when listening to lullabies compared with other non-lullaby music. In a well‑cited experiment, US infants under one year old exhibited **slower heart rates, smaller pupil sizes, and reduced electrodermal activity** when exposed to unfamiliar lullabies from foreign cultures versus matched non-lullaby songs. These markers are consistent with a **relaxation response**, independent of the infants’ prior exposure to the specific melodies or languages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInfants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
+In controlled research, infants physiological responses  such as heart rate, pupil dilation, and skin conductance  show measurable changes when listening to lullabies compared with other non-lullaby music. In a wellcited experiment, US infants under one year old exhibited **slower heart rates, smaller pupil sizes, and reduced electrodermal activity** when exposed to unfamiliar lullabies from foreign cultures versus matched non-lullaby songs. These markers are consistent with a **relaxation response**, independent of the infants prior exposure to the specific melodies or languages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
-The same studies found that parents overwhelmingly *preferred* lullabies over other song types when deciding what to use to soothe a fussy infant — even when the songs were unfamiliar — which suggests caregivers intuitively respond to the same structural features that signal calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies — Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies — Harvard Gazette...</span></span></span>
+The same studies found that parents overwhelmingly *preferred* lullabies over other song types when deciding what to use to soothe a fussy infant  even when the songs were unfamiliar  which suggests caregivers intuitively respond to the same structural features that signal calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies  Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-dark.svg" | relative_url }}" alt="Lullabies illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-dark.svg" | relative_url }}" alt="Lullabies illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Social and Emotional Context: More than Sound Alone
 
 While the acoustic structure of lullabies is central, the context in which they are delivered also matters. Developmental psychologists highlight that lullabies are typically embedded in a **multimodal caregiving experience** involving close [physical]({{ 'physical/' | relative_url }}) contact, eye contact, and gentle movement (rocking or swaying). This combination of **musical cues and social presence** enhances the calming effect, reducing stress not just in infants but often in caregivers too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
 
-This social embedding may help explain why [familiar lullabies]({{ 'familiar-songs/' | relative_url }}) — those learned through repeated interaction between caregiver and child — can be even more effective, as they carry emotional association and security beyond their acoustic features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
+This social embedding may help explain why familiar lullabies  those learned through repeated interaction between caregiver and child  can be even more effective, as they carry emotional association and security beyond their acoustic features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
 
+<img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-dark.svg" | relative_url }}" alt="Lullabies illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What Lullabies Reveal About Musics Uses
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AXnQ7M1fENE" title="The Brain Development Trick Hidden in Music | What Music Does to a Baby Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AXnQ7M1fENE" target="_blank" rel="noopener noreferrer">The Brain Development Trick Hidden in Music | What Music Does to a Baby Brain</a></p><p class="youtube-embed-meta">Channel: Little Mind Home</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AXnQ7M1fENE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AXnQ7M1fENE">Open on YouTube</a></p></div></div></div>
+Lullabies illustrate how music can serve functions beyond entertainment: they are regulatory tools that help manage arousal, foster social bonding, and mark care within families. The universal presence of lullabylike songs across cultures hints at deep connections between **musical structure and human emotional regulation**, a theme that continues to interest researchers exploring why music evolved in human societies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-dark.svg" | relative_url }}" alt="Lullabies illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What Lullabies Reveal About Music’s Uses
-
-Lullabies illustrate how music can serve functions beyond entertainment: they are regulatory tools that help manage arousal, foster social bonding, and mark care within families. The universal presence of lullaby‑like songs across cultures hints at deep connections between **musical structure and human emotional regulation**, a theme that continues to interest researchers exploring why music evolved in human societies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInfants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
-
-By making calming cues acoustically salient — slow pace, simple melody, and repetition — lullabies show that music’s capacity to soothe is grounded in both biological responsiveness and social experience, offering a window into one of music’s most ancient and caregiving‑oriented roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies — Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies — Harvard Gazette...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6AHHF7VJS20" title="The Science of Baby Lullabies: Bedtime Music | JOHNSON’S®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6AHHF7VJS20" target="_blank" rel="noopener noreferrer">The Science of Baby Lullabies: Bedtime Music | JOHNSON’S®</a></p><p class="youtube-embed-meta">Channel: Johnson&#x27;s Baby U.S.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6AHHF7VJS20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6AHHF7VJS20">Open on YouTube</a></p></div></div></div>
-
+By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melody/' | relative_url }}), and repetition  lullabies show that musics capacity to soothe is grounded in both biological responsiveness and social experience, offering a window into one of musics most ancient and caregivingoriented roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies  Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -593,10 +579,10 @@ By making calming cues acoustically salient — slow pace, simple melody, and re
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. ediciÃ³n on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. ediciÃ³n" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. ediciÃ³n">The singing neanderthals : the origins of music, language, mi...</a>
+          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. edición">The singing neanderthals : the origins of music, language, mi...</a>
         </h4>
         <p class="fr-book-author">By Steven Mithen</p>
         
@@ -627,7 +613,7 @@ By making calming cues acoustically salient — slow pace, simple melody, and re
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. ediciÃ³n</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. edición</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -943,54 +929,54 @@ By making calming cues acoustically salient — slow pace, simple melody, and re
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41562-020-00963-z](https://www.nature.com/articles/s41562-020-00963-z)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureInfants relax in response to unfamiliar [foreign lullabies](&amp;#123;&amp;#123; &#x27;foreign-songs/&#x27; | relative_url &amp;#125;&amp;#125;) | Nature Human BehaviourOctober 19, 2020...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</p></details>
    Published: October 19, 2020  
 
 2. <a id="endnote-2"></a>
    Source: news.harvard.edu  
-   Title: Gazette Research shows lullabies in any language relax babies — Harvard Gazette  
-   Link: [https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/](https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies — Harvard Gazette...</p></details>
+   Title: Gazette Research shows lullabies in any language relax babies  Harvard Gazette  
+   Link: <a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sk.sagepub.com  
    Title: SAGE Publications Sage Reference  
-   Link: [https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies](https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: education.nationalgeographic.org  
-   Link: [https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/](https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/)  
+   Link: <a href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</p></details>
    Published: November 19, 2020  
 
 5. <a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/full/10.1177/10693971241272406](https://journals.sagepub.com/doi/full/10.1177/10693971241272406)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Universality: An Ethnographic Review - Stéphane Aubinet, 2024August 6, 2024 — Open [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) Research article First published online Aug...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/full/10.1177/10693971241272406" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/10693971241272406</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Universality: An Ethnographic Review - Stphane Aubinet, 2024August 6, 2024  Open [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) Research article First published online Aug...</p></details>
    Published: August 6, 2024  
 
 6. <a id="endnote-6"></a>
    Source: utmb.edu  
-   Link: [https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies](https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies)  
+   Link: <a href="https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sally Robinson Image: dreamstime_l_182318256 * * * The oldest known lullaby is a Babylonian lullaby found inscribed on a clay tablet...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1049909107310139](https://journals.sagepub.com/doi/10.1177/1049909107310139)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1049909107310139" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1049909107310139</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comLullament: Lullaby and Lament Therapeutic Qualities Actualized Through Music Therapy - Clare O&#x27;Callaghan, 2008January 15, 2008...</p></details>
    Published: January 15, 2008  
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002](https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992April 1, 1992 — First published April 1992 Request permissions LULL...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992April 1, 1992  First published April 1992 Request permissions LULL...</p></details>
    Published: April 1, 1992  
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0305735692201002](https://journals.sagepub.com/doi/10.1177/0305735692201002)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735692201002" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735692201002</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992First published April 1992 Request permissions LULLABIES AND SIMPLI...</p></details>
    Published: April 1992  
 
@@ -998,57 +984,57 @@ By making calming cues acoustically salient — slow pace, simple melody, and re
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2021 — SOUND SLEEP: LULLABIES AS A TEST CASE FOR THE NEUROBIOLOGICAL EFFECTS OF MUSIC Published online by Cambridge Univers...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2021  SOUND SLEEP: LULLABIES AS A TEST CASE FOR THE NEUROBIOLOGICAL EFFECTS OF MUSIC Published online by Cambridge Univers...</p></details>
    Published: September 30, 2021  
 
 11. <a id="endnote-11"></a>
    Source: unibw.de  
-   Link: [https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english](https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universality of Lullabies — Institut für PsychologieUNIVERSALITY OF LULLABIES ABOUT OUR PROJECT In this study, we want to investigate the...</p></details>
+   Link: <a href="https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english" target="_blank" rel="noopener noreferrer nofollow">https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universality of Lullabies  Institut fr PsychologieUNIVERSALITY OF LULLABIES ABOUT OUR PROJECT In this study, we want to investigate the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aip.org  
    Title: Lullabies May be Product of Battle Between Parents and Babies  
-   Link: [https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies](https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16, 2017 — Inside Science Inside Science Inside Science / Article LULLABIES MAY BE PRODUCT OF BATTLE BETWEEN PARENTS AND BABIES NOV 16, 2...</p></details>
+   Link: <a href="https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>16, 2017  Inside Science Inside Science Inside Science / Article LULLABIES MAY BE PRODUCT OF BATTLE BETWEEN PARENTS AND BABIES NOV 16, 2...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Sleep, baby, sleep: Lullabies in infancy and childhood  
-   Link: [https://www.sciencedirect.com/science/article/pii/B9780443336515000227](https://www.sciencedirect.com/science/article/pii/B9780443336515000227)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMUSIC AND SLEEP A Scientific Perspective 2026, Pages 151-170 CHAPTER 8 - SLEEP, BABY, SLEEP: LULLABIES IN INFANCY AND CHILDH...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/B9780443336515000227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/B9780443336515000227</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUSIC AND SLEEP A Scientific Perspective 2026, Pages 151-170 CHAPTER 8 - SLEEP, BABY, SLEEP: LULLABIES IN INFANCY AND CHILDH...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: edweek.org  
    Title: Ask a Scientist: Do Lullabies for Infants Really Work?  
-   Link: [https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01](https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Lillian Mongeau — January 07, 2016 3 min read * * Remove Save to favorites Save to favorites * Print Email Facebook LinkedIn Twitter Co...</p></details>
+   Link: <a href="https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01" target="_blank" rel="noopener noreferrer nofollow">https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Lillian Mongeau  January 07, 2016 3 min read * * Remove Save to favorites Save to favorites * Print Email Facebook LinkedIn Twitter Co...</p></details>
    Published: January 7, 2016  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33077883/](https://pubmed.ncbi.nlm.nih.gov/33077883/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the bas...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govUniversality, domain-specificity, and development of psychological responses to music - PMCJune 1, 2023 — Among the different beha...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govUniversality, domain-specificity, and development of psychological responses to music - PMCJune 1, 2023  Among the different beha...</p></details>
    Published: June 1, 2023  
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Mar 20;2019:3972918. doi: 10.1155/2019/3972918 NEUROPROCESSING MECHANISMS OF MUSIC DURING FETAL AND NEONATAL DEVELOPMENT: A ROLE IN...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the ba...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: How Music Affects Your Baby's Brain  
-   Link: [https://www.youtube.com/watch?v=83i1q7lUv48](https://www.youtube.com/watch?v=83i1q7lUv48)  
+   Link: <a href="https://www.youtube.com/watch?v=83i1q7lUv48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83i1q7lUv48</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Lullabies for Infant Development...</p></details>

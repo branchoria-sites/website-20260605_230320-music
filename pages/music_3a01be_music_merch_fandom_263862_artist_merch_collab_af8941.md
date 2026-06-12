@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_merch_fandom_263862_limited_merch_trust_067339
 - music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c
 tags:
-- music
+- music-3-a01-be
 - merch
 - collab-fit
 keywords:
-- music
+- music-3-a01-be
 - merch
 - collab-fit
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Fashion and brand collaborations work best when fans believe the product fits the artist's style, audience, and values.
 hero_summary: Fashion and brand collaborations work best when fans believe the product fits the artist's style, audience, and values.
 layout: default
 permalink: /collab-fit/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /merch/
 nav_short_title: Collab Fit
 title: Why Some Artist Collabs Feel Fake
-title_full: Why Some Artist Collabs Feel Fake | Merch
+title_full: Why Some Artist Collabs Feel Fake
 display_title_short: Collab Fit
 display_title: Collab Fit
 heading_title: Why Some Artist Collabs Feel Fake
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Music Merch Means More Than Branding | Music
+parent_title: Why Music Merch Means More Than Branding
 parent_permalink: /merch/
 parent_nav_short_title: Merch
 parent_heading_title: Why Music Merch Means More Than Branding
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Tour Shirts Become Memory Objects
 up_link:
   basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -265,7 +265,7 @@ next_link:
   permalink: /limited-drops/
   short_title: Limited Drops
   heading_title: When Scarce Merch Stops Feeling Special
-date: '2026-06-09 06:39:57 '
+date: '2026-06-11 23:21:14 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab
 
 ## Introduction
 
-Artist merchandise collaborations can expand an artist’s world far beyond [music]({{ 'music/' | relative_url }}). A well-chosen fashion, footwear or lifestyle partnership gives fans a new way to participate in the [culture]({{ 'culture/' | relative_url }}) surrounding an artist. Yet many collaborations fail because fans do not judge them primarily by sales, prestige or brand recognition. They judge them by authenticity.
-
+Artist merchandise collaborations can expand an artist’s world far beyond music. A well-chosen fashion, footwear or lifestyle partnership gives fans a new way to participate in the [culture]({{ 'culture/' | relative_url }}) surrounding an artist. Yet many collaborations fail because fans do not judge them primarily by sales, prestige or brand recognition. They judge them by authenticity.
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1-dark.svg" | relative_url }}" alt="Collab Fit illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In modern music fandom, a collaboration feels believable when it appears to emerge naturally from an artist’s existing identity, tastes and community. It feels fake when it looks like a logo has been attached to an artist with little creative connection, cultural fit or personal involvement. As the superfan economy has grown, brands and artists have gained new commercial opportunities, but fans have also become more skilled at spotting collaborations that seem manufactured rather than meaningful. Vogue’s reporting on fandom notes that highly engaged fans are particularly quick to reject insincerity and over-commercialisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/inside-the-superfan-economy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Inside the Superfan Economy</span><span class="citation-popover-snippet">From K-pop’s global expansion to Taylor Swift’s Eras tour, superfans now drive major brand and revenue opportunities. Unlike past fandom...</span></span></span>
@@ -287,7 +286,6 @@ The strongest artist collaborations do not feel separate from the artist’s exi
 A collaboration is more likely to be accepted when fans can answer a simple question: “Would this artist genuinely care about this product if there were no sponsorship involved?” If the answer appears to be yes, the partnership gains credibility. If the answer appears to be no, suspicion grows.
 
 Several factors tend to make collaborations feel authentic:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,7 +300,6 @@ Several factors tend to make collaborations feel authentic:
 Industry observers frequently point to collaborations that merge existing cultural connections rather than creating artificial ones. For example, Vogue highlighted Olivia Rodrigo’s collaboration with Dr. Martens during the *Guts* era as a partnership that worked because Rodrigo had long been associated with the brand’s aesthetic, allowing the product to feel like a natural extension of her image rather than an unexpected commercial attachment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/merch-aid-t-shirts-prints-small-businesses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">merch aid t shirts prints small businesses</span><span class="citation-popover-snippet">Can Fashion Merch Create Real Change? This Group of...22 Jun 2020 — Merch feels most genuine when the brand is committed to actively sup...</span></span></span>
 
 Research on artistic authenticity in brand collaborations similarly suggests that consumers evaluate both originality and evidence of genuine creative involvement, not merely the existence of a partnership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/apjml/article-pdf/21/2/243/276584/13555850910950068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-title">Publishing Commercializing artistic authenticity via collaborative design</span><span class="citation-popover-snippet">Introduction. Collaboration between fashion brands/designers and artists is nothing new. It can be dated back at least to the early twent...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K38RT230BfA" title="How to Visually Upgrade Your Music Brand: Art Direction Playbook (Fred Again Edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K38RT230BfA" target="_blank" rel="noopener noreferrer">How to Visually Upgrade Your Music Brand: Art Direction Playbook (Fred Again Edition)</a></p><p class="youtube-embed-meta">Channel: Neighborhood Art Supply &middot; Views: 28.0K &middot; Uploaded: January 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K38RT230BfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K38RT230BfA">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +327,6 @@ An artist who builds a reputation around independence, sustainability, undergrou
 
 Even successful collaborations can begin to feel artificial when they become too frequent. If every album cycle, tour or media appearance includes another branded partnership, fans may start viewing the artist as a marketing platform rather than a creative figure. Vogue’s analysis of the superfan economy notes that over-commercialisation remains one of the central risks for brands entering fan spaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/fashion-niche-music-platforms-cultural-revelance-colors-studio-nts-diesel-burberry-adidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-snippet">Why fashion is leaning on niche music platforms for cultural...7 Jun 2023 — Brands like Diesel, Adidas and Burberry are attempting to ha...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-2-dark.svg" | relative_url }}" alt="Collab Fit illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Timing Matters as Much as Design
 
@@ -341,7 +337,6 @@ Fans interpret collaborations through the broader context surrounding an artist.
 For example, public criticism often emerges when fans believe commercial activity is taking priority over artistic or community concerns. Reactions to Travis Scott’s Cactus Jack sports-league collaboration demonstrated how some fans interpreted the announcement through wider concerns about public accountability and artistic priorities rather than evaluating the merchandise on its own terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/sports/international-sports/dropping-merch-after-the-astroworld-tragedy-travis-scott-faces-outrage-among-fans-after-announcing-cactus-jack-collab-with-nfl-nba-nhl-and-mlb/articleshow/122054474.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">The launch of the new collection, titled &quot;Cactus Jack All Leagues,&quot; is scheduled for the fall season. However, the timing and focus of th...</span></span></span>
 
 This highlights an important principle of music merchandising: fans rarely assess products in isolation. They assess them as signals about what an artist values, notices and prioritises.
-
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-3-dark.svg" | relative_url }}" alt="Collab Fit illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Fashion Can Expand an Artist World
@@ -356,7 +351,6 @@ In these cases, the product becomes more than merchandise. It becomes a symbol l
 
 By contrast, a weak collaboration expands nothing. It simply adds another object to a [catalogue]({{ 'catalogue/' | relative_url }}).
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C5jEmmXL1xM" title="The Problem With Vogue’s Best Dressed List" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C5jEmmXL1xM" target="_blank" rel="noopener noreferrer">The Problem With Vogue’s Best Dressed List</a></p><p class="youtube-embed-meta">Channel: Fashion Roadman &middot; Views: 4.1K &middot; Uploaded: December 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C5jEmmXL1xM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C5jEmmXL1xM">Open on YouTube</a></p></div></div></div>
 
 ## The Governance Challenge: Protecting Trust
@@ -369,9 +363,7 @@ Successful artist-merchandise strategies therefore tend to follow a simple rule:
 
 When fans believe a collaboration reflects the artist’s actual tastes, values and creative world, merchandise becomes an extension of fandom. When they believe it exists only because two logos wanted [access]({{ 'access/' | relative_url }}) to each other’s audiences, the collaboration begins to feel fake. In a music economy increasingly driven by devoted fan communities, that distinction matters more than brand prestige alone. Vogue <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenorthernvoices.com/post/the-superfan-economy-is-rewriting-the-rules-of-fame" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenorthernvoices.com">[2thenorthernvoices.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenorthernvoices.com</span><span class="citation-popover-title">the superfan economy is rewriting the rules of fame</span><span class="citation-popover-snippet">That is the paradox at the center of this new economy...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BEbH8PlL8cc" title="These Models In Vogue Are FAKE..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BEbH8PlL8cc" target="_blank" rel="noopener noreferrer">These Models In Vogue Are FAKE...</a></p><p class="youtube-embed-meta">Channel: kat &#x27;n chat &middot; Views: 6.9K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BEbH8PlL8cc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BEbH8PlL8cc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -490,15 +482,15 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�"><img src="{{ '/assets/images/marketplace-covers/00f084cb9f70521dfe10.jpg' | relative_url }}" alt="Listing image for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +498,15 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/e574b85e6ea7837f77e8.jpg' | relative_url }}" alt="Listing image for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +514,15 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift"><img src="{{ '/assets/images/marketplace-covers/580ec3ae4384bc88b889.jpg' | relative_url }}" alt="Listing image for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +530,15 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE"><img src="{{ '/assets/images/marketplace-covers/9e6b0e9379405eb4797b.jpg' | relative_url }}" alt="Listing image for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +546,7 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="collab-fit-why-some-artist-collabs-feel-fake-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-some-artist-collabs-feel-fake-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,105 +762,105 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
 1. <a id="endnote-1"></a>
    Source: vogue.com  
    Title: Inside the Superfan Economy  
-   Link: [https://www.vogue.com/article/inside-the-superfan-economy](https://www.vogue.com/article/inside-the-superfan-economy)  
+   Link: <a href="https://www.vogue.com/article/inside-the-superfan-economy" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/inside-the-superfan-economy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From K-pop’s global expansion to Taylor Swift’s Eras tour, superfans now drive major brand and revenue opportunities. Unlike past fandom...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: thenorthernvoices.com  
    Title: the superfan economy is rewriting the rules of fame  
-   Link: [https://www.thenorthernvoices.com/post/the-superfan-economy-is-rewriting-the-rules-of-fame](https://www.thenorthernvoices.com/post/the-superfan-economy-is-rewriting-the-rules-of-fame)  
+   Link: <a href="https://www.thenorthernvoices.com/post/the-superfan-economy-is-rewriting-the-rules-of-fame" target="_blank" rel="noopener noreferrer nofollow">https://www.thenorthernvoices.com/post/the-superfan-economy-is-rewriting-the-rules-of-fame</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That is the paradox at the center of this new economy...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: emerald.com  
    Title: [Publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;) Commercializing artistic authenticity via collaborative design  
-   Link: [https://www.emerald.com/apjml/article-pdf/21/2/243/276584/13555850910950068.pdf](https://www.emerald.com/apjml/article-pdf/21/2/243/276584/13555850910950068.pdf)  
+   Link: <a href="https://www.emerald.com/apjml/article-pdf/21/2/243/276584/13555850910950068.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/apjml/article-pdf/21/2/243/276584/13555850910950068.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction. Collaboration between fashion brands/designers and artists is nothing new. It can be dated back at least to the early twent...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vogue.com  
    Title: [merch](&#123;&#123; 'merch/' | relative_url &#125;&#125;) aid t shirts prints small businesses  
-   Link: [https://www.vogue.com/article/merch-aid-t-shirts-prints-small-businesses](https://www.vogue.com/article/merch-aid-t-shirts-prints-small-businesses)  
+   Link: <a href="https://www.vogue.com/article/merch-aid-t-shirts-prints-small-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/merch-aid-t-shirts-prints-small-businesses</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Fashion Merch Create Real Change? This Group of...22 Jun 2020 — Merch feels most genuine when the brand is committed to actively sup...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: vogue.com  
-   Link: [https://www.vogue.com/article/fashion-niche-music-platforms-cultural-revelance-colors-studio-nts-diesel-burberry-adidas](https://www.vogue.com/article/fashion-niche-music-platforms-cultural-revelance-colors-studio-nts-diesel-burberry-adidas)  
+   Link: <a href="https://www.vogue.com/article/fashion-niche-music-platforms-cultural-revelance-colors-studio-nts-diesel-burberry-adidas" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/fashion-niche-music-platforms-cultural-revelance-colors-studio-nts-diesel-burberry-adidas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why fashion is leaning on niche music platforms for cultural...7 Jun 2023 — Brands like Diesel, Adidas and Burberry are attempting to ha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/sports/international-sports/dropping-merch-after-the-astroworld-tragedy-travis-scott-faces-outrage-among-fans-after-announcing-cactus-jack-collab-with-nfl-nba-nhl-and-mlb/articleshow/122054474.cms](https://timesofindia.indiatimes.com/sports/international-sports/dropping-merch-after-the-astroworld-tragedy-travis-scott-faces-outrage-among-fans-after-announcing-cactus-jack-collab-with-nfl-nba-nhl-and-mlb/articleshow/122054474.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/sports/international-sports/dropping-merch-after-the-astroworld-tragedy-travis-scott-faces-outrage-among-fans-after-announcing-cactus-jack-collab-with-nfl-nba-nhl-and-mlb/articleshow/122054474.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/sports/international-sports/dropping-merch-after-the-astroworld-tragedy-travis-scott-faces-outrage-among-fans-after-announcing-cactus-jack-collab-with-nfl-nba-nhl-and-mlb/articleshow/122054474.cms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The launch of the new collection, titled &quot;Cactus Jack All Leagues,&quot; is scheduled for the fall season. However, the timing and focus of th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: harmattanrain.com  
    Title: From Wizkid with Nike to Davido with Puma,  
-   Link: [https://harmattanrain.com/artist-x-brand-collaborations-davido-wizkid-puma/](https://harmattanrain.com/artist-x-brand-collaborations-davido-wizkid-puma/)  
+   Link: <a href="https://harmattanrain.com/artist-x-brand-collaborations-davido-wizkid-puma/" target="_blank" rel="noopener noreferrer nofollow">https://harmattanrain.com/artist-x-brand-collaborations-davido-wizkid-puma/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>harmattan rainArtist X Brand: How Collaborations Are Shaping Music and...October 3, 2024 — 3 Oct 2024 — Discover how artist and brand co...</p></details>
    Published: October 3, 2024  
 
 8. <a id="endnote-8"></a>
    Source: voguearabia.com  
    Title: brands partnered with arab artists and creative spaces  
-   Link: [https://www.voguearabia.com/article/brands-partnered-with-arab-artists-and-creative-spaces](https://www.voguearabia.com/article/brands-partnered-with-arab-artists-and-creative-spaces)  
+   Link: <a href="https://www.voguearabia.com/article/brands-partnered-with-arab-artists-and-creative-spaces" target="_blank" rel="noopener noreferrer nofollow">https://www.voguearabia.com/article/brands-partnered-with-arab-artists-and-creative-spaces</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Adidas to Prada, we round up the region&#x27;s latest culture-centric collaborations.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: voguehk.com  
    Title: [bad bunny](&#123;&#123; 'bad-bunny/' | relative_url &#125;&#125;) vogue man hong kong  
-   Link: [https://www.voguehk.com/en/article/celebrity/bad-bunny-vogue-man-hong-kong/](https://www.voguehk.com/en/article/celebrity/bad-bunny-vogue-man-hong-kong/)  
+   Link: <a href="https://www.voguehk.com/en/article/celebrity/bad-bunny-vogue-man-hong-kong/" target="_blank" rel="noopener noreferrer nofollow">https://www.voguehk.com/en/article/celebrity/bad-bunny-vogue-man-hong-kong/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny On Authenticity, Artistry And Where He Finds...6 Mar 2022 — A Puerto Rican native, Bad Bunny has shared how his culture and up...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: lemuraknitwear.com  
-   Link: [https://www.lemuraknitwear.com/post/streetwear-collaborations-partnering-with-artists-and-influencers-to-boost-brand-awareness](https://www.lemuraknitwear.com/post/streetwear-collaborations-partnering-with-artists-and-influencers-to-boost-brand-awareness)  
+   Link: <a href="https://www.lemuraknitwear.com/post/streetwear-collaborations-partnering-with-artists-and-influencers-to-boost-brand-awareness" target="_blank" rel="noopener noreferrer nofollow">https://www.lemuraknitwear.com/post/streetwear-collaborations-partnering-with-artists-and-influencers-to-boost-brand-awareness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Partnering with Artists and Influencers to Boost Brand...12 Oct 2025 — Discover how D2C streetwear brands use collaborations with artist...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/musicalmadnessofficial/videos/fake-merch-we-told-fans-their-subzeroproject-merch-might-be-fake-so-naturally-we/2213640172706433/](https://www.facebook.com/musicalmadnessofficial/videos/fake-merch-we-told-fans-their-subzeroproject-merch-might-be-fake-so-naturally-we/2213640172706433/)  
+   Link: <a href="https://www.facebook.com/musicalmadnessofficial/videos/fake-merch-we-told-fans-their-subzeroproject-merch-might-be-fake-so-naturally-we/2213640172706433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicalmadnessofficial/videos/fake-merch-we-told-fans-their-subzeroproject-merch-might-be-fake-so-naturally-we/2213640172706433/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“FAKE MERCH”?! 😭 We told fans their @subzeroproject...FAKE MERCH”?! We told fans their @subzeroproject merch might be fake… so naturally...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=C5jEmmXL1xM](https://www.youtube.com/watch?v=C5jEmmXL1xM)  
+   Link: <a href="https://www.youtube.com/watch?v=C5jEmmXL1xM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C5jEmmXL1xM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem With Vogue&#x27;s Best Dressed ListFashion insiders Anastasia Samara and FashionRoadman expose the uncomfortable truth: most &quot;best...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fibre2fashion.com  
-   Link: [https://www.fibre2fashion.com/industry-article/10853/the-intersection-of-fashion-and-music-iconic-collaborations](https://www.fibre2fashion.com/industry-article/10853/the-intersection-of-fashion-and-music-iconic-collaborations)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fibre2FashionThe Intersection of Fashion and Music: Iconic CollaborationsMusicians bring visibility, authenticity, and cultural relevance...</p></details>
+   Link: <a href="https://www.fibre2fashion.com/industry-article/10853/the-intersection-of-fashion-and-music-iconic-collaborations" target="_blank" rel="noopener noreferrer nofollow">https://www.fibre2fashion.com/industry-article/10853/the-intersection-of-fashion-and-music-iconic-collaborations</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Intersection of Fashion and Music: Iconic CollaborationsMusicians bring visibility, authenticity, and cultural relevance...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DJZmAPoJhsD/](https://www.instagram.com/reel/DJZmAPoJhsD/)  
+   Link: <a href="https://www.instagram.com/reel/DJZmAPoJhsD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJZmAPoJhsD/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>your emotional core (Billie = rebellious, Olivia = heartbreak) 2️⃣ Build a consistent visual...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1moqokr/his_music_sucked_but_he_had_fans_because_he/](https://www.reddit.com/r/musicbusiness/comments/1moqokr/his_music_sucked_but_he_had_fans_because_he/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1moqokr/his_music_sucked_but_he_had_fans_because_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1moqokr/his_music_sucked_but_he_had_fans_because_he/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It was so genius that even though I don&#x27;t ordinarily work with Artists unless I...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: xceed.me  
-   Link: [https://xceed.me/blog/en/brands-collaborations-electronic-music/?srsltid=AfmBOopgNdLrhS_tG62BD5Ii54rJGCrm3plcPV98sh90Og2Pwk0xwZgA](https://xceed.me/blog/en/brands-collaborations-electronic-music/?srsltid=AfmBOopgNdLrhS_tG62BD5Ii54rJGCrm3plcPV98sh90Og2Pwk0xwZgA)  
+   Link: <a href="https://xceed.me/blog/en/brands-collaborations-electronic-music/?srsltid=AfmBOopgNdLrhS_tG62BD5Ii54rJGCrm3plcPV98sh90Og2Pwk0xwZgA" target="_blank" rel="noopener noreferrer nofollow">https://xceed.me/blog/en/brands-collaborations-electronic-music/?srsltid=AfmBOopgNdLrhS_tG62BD5Ii54rJGCrm3plcPV98sh90Og2Pwk0xwZgA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ience in the case of electronic music, and a way to increase the value of their...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: drpress.org  
-   Link: [https://drpress.org/ojs/index.php/fbem/article/download/27770/27292/39163](https://drpress.org/ojs/index.php/fbem/article/download/27770/27292/39163)  
+   Link: <a href="https://drpress.org/ojs/index.php/fbem/article/download/27770/27292/39163" target="_blank" rel="noopener noreferrer nofollow">https://drpress.org/ojs/index.php/fbem/article/download/27770/27292/39163</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a few photos for official promotion, but also penetrate into all aspects...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/brand-x-artist-collaborations-finlay-hogg](https://www.linkedin.com/pulse/brand-x-artist-collaborations-finlay-hogg)  
+   Link: <a href="https://www.linkedin.com/pulse/brand-x-artist-collaborations-finlay-hogg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/brand-x-artist-collaborations-finlay-hogg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>create products and experiences that are more compelling for consumers.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: let's create merch for artists that stands out  
-   Link: [https://www.instagram.com/reel/DPMErwfjcFc/](https://www.instagram.com/reel/DPMErwfjcFc/)  
+   Link: <a href="https://www.instagram.com/reel/DPMErwfjcFc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPMErwfjcFc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Book a free 15-...Start with the merch fans already understand — then add one item that feels more unique to your brand. Good starting m...</p></details>

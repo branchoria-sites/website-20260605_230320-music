@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_playlists_new_gateke_9514bb_mood_playlists_funct_3f7bc2
 - music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760
 tags:
-- music
+- music-3-a01-be
 - playlists
 - editorial-adds
 keywords:
-- music
+- music-3-a01-be
 - playlists
 - editorial-adds
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Editorial playlist adds can signal legitimacy, but their value now depends on platform data as much as human taste.
 hero_summary: Editorial playlist adds can signal legitimacy, but their value now depends on platform data as much as human taste.
 layout: default
 permalink: /editorial-adds/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /playlists/
 nav_short_title: Editorial Adds
 title: Do Editorial Playlists Still Make Hits?
-title_full: Do Editorial Playlists Still Make Hits? | Playlists
+title_full: Do Editorial Playlists Still Make Hits?
 display_title_short: Editorial Adds
 display_title: Editorial Adds
 heading_title: Do Editorial Playlists Still Make Hits?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Playlists Became Music's New Gatekeepers | Music
+parent_title: Why Playlists Became Music's New Gatekeepers
 parent_permalink: /playlists/
 parent_nav_short_title: Playlists
 parent_heading_title: Why Playlists Became Music's New Gatekeepers
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Playlists Make Songs Feel Familiar
 up_link:
   basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -265,7 +265,7 @@ next_link:
   permalink: /mood-listening/
   short_title: Mood Listening
   heading_title: When Music Becomes a Mood Button
-date: '2026-06-09 07:42:46 '
+date: '2026-06-11 23:52:40 '
 header:
   og_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-1.webp
@@ -274,18 +274,16 @@ image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlis
 
 ## Introduction
 
-Editorial playlists have become one of the most important gatekeeping mechanisms in modern [music]({{ 'music/' | relative_url }}). Where radio programmers once decided which songs received mass exposure, streaming platforms now use branded playlists such as *Today's Top Hits*, *New Music Friday* and genre-specific editorial collections to determine which releases reach large audiences. Yet editorial influence no longer operates through human taste alone. Playlist placement can still confer legitimacy, attract industry [attention]({{ 'attention/' | relative_url }}) and generate millions of streams, but its long-term value increasingly depends on how listeners behave after the placement occurs. Saves, skips, repeat listens and completion rates now help determine whether a track remains visible or quickly disappears from recommendation systems. In other words, editorial playlists still open doors, but data increasingly decides who gets to stay in the room. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...Apr 27, 2023 — TL;DR Since 2017, Spotify has been working...</span></span></span>
-
+Editorial playlists have become one of the most important gatekeeping mechanisms in modern music. Where radio programmers once decided which songs received mass exposure, streaming platforms now use branded playlists such as *Today's Top Hits*, *New Music Friday* and genre-specific editorial collections to determine which releases reach large audiences. Yet editorial influence no longer operates through human taste alone. Playlist placement can still confer legitimacy, attract industry [attention]({{ 'attention/' | relative_url }}) and generate millions of streams, but its long-term value increasingly depends on how listeners behave after the placement occurs. Saves, skips, repeat listens and completion rates now help determine whether a track remains visible or quickly disappears from recommendation systems. In other words, editorial playlists still open doors, but data increasingly decides who gets to stay in the room. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...Apr 27, 2023 — TL;DR Since 2017, Spotify has been working...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-1-dark.svg" | relative_url }}" alt="Editorial Adds illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Editorial Placement Still Carries Prestige
 
-Editorial playlists retain symbolic power because they represent a scarce form of endorsement. Unlike personalised playlists, which are generated automatically for individual users, editorial playlists are curated by platform-employed music teams. An appearance on a major playlist signals that a song has passed through a human selection process and been deemed worthy of attention. This symbolic validation matters not only to listeners but also to labels, managers, booking agents and media outlets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">SpotifyTypes of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</span></span></span>
+Editorial playlists retain symbolic power because they represent a scarce form of endorsement. Unlike personalised playlists, which are generated automatically for individual users, editorial playlists are curated by platform-employed music teams. An appearance on a major playlist signals that a song has passed through a human selection process and been deemed worthy of attention. This symbolic validation matters not only to listeners but also to labels, managers, booking agents and media outlets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</span></span></span>
 
 The prestige is also tied to scale. Spotify executives have previously stated that editorial playlists account for a substantial share of listening activity on the platform, making them one of the most powerful promotional channels in streaming. Research on Spotify's curated ecosystem likewise finds that prominent placement on flagship playlists can generate dramatic increases in listening volume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stereofox.com/articles/the-spotify-editorial-playlists-ecosystem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stereofox.com">[Stereofox Music Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stereofox.com</span><span class="citation-popover-title">Music Blog The Spotify Playlists Ecosystem</span><span class="citation-popover-snippet">Stereofox Music BlogThe Spotify Playlists Ecosystem - History, Why Do They...30% of all plays on Spotify are generated from editorial pl...</span></span></span>
 
 This has created a new hierarchy of visibility. Millions of tracks are uploaded to streaming services each year, but only a small fraction receive prominent editorial support. As a result, playlist curators function as contemporary cultural intermediaries: they do not merely organise music but help determine which artists become discoverable at scale. Scholars examining streaming ecosystems increasingly describe platforms as gatekeepers because recommendation and curation systems shape [access]({{ 'access/' | relative_url }}) to audiences in ways that resemble, and sometimes exceed, the influence once exercised by radio programmers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/05/secret-hit-making-power-spotify-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">This method involves editors adding tracks to various user-curated playlists, which are meticulously analyzed to track listener engagemen...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VNPEqapxBYc" title="How I Got On An Editorial Spotify Playlist 🔥 [FULL TUTORIAL]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VNPEqapxBYc" target="_blank" rel="noopener noreferrer">How I Got On An Editorial Spotify Playlist 🔥 [FULL TUTORIAL]</a></p><p class="youtube-embed-meta">Channel: John Gold &middot; Views: 6.7K &middot; Uploaded: March 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VNPEqapxBYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VNPEqapxBYc">Open on YouTube</a></p></div></div></div>
 
@@ -299,17 +297,15 @@ Another difference is measurability. Radio programmers historically relied on ra
 
 The result is a hybrid model sometimes described as "[algotorial]({{ 'algotorial/' | relative_url }})" curation: human editors make initial selections, but algorithmic systems increasingly influence distribution, ranking and follow-on recommendations. Spotify itself has described editorial products that combine human curation with algorithmic personalisation, meaning that some editorial playlists no longer present exactly the same track order or song selection to every listener. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...Apr 27, 2023 — TL;DR Since 2017, Spotify has been working...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7qygWS_NbR0" title="How Does the Spotify Algorithm Work? Streaming Hacks for Musicians | Ditto Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7qygWS_NbR0" target="_blank" rel="noopener noreferrer">How Does the Spotify Algorithm Work? Streaming Hacks for Musicians | Ditto Music</a></p><p class="youtube-embed-meta">Channel: Ditto Music &middot; Views: 8.9K &middot; Uploaded: January 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7qygWS_NbR0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7qygWS_NbR0">Open on YouTube</a></p></div></div></div>
 
 ## Why Saves, Skips and Completion Rates Shape Staying Power
 
 The most important shift in modern gatekeeping is that editorial placement alone is rarely enough.
 
-A playlist add can introduce a song to listeners, but engagement metrics help determine whether that exposure expands into broader recommendation opportunities. Industry analyses and platform guidance consistently point to signals such as save rate, playlist additions, replay behaviour and low skip rates as indicators that listeners value a track. Strong performance on these metrics increases the likelihood that recommendation systems will continue surfacing the song through algorithmic products such as [Discover Weekly]({{ 'discover-weekly/' | relative_url }}), Release Radar and radio-style recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">OrphiqUnderstanding Spotify Editorial PlaylistsMar 15, 2026 — Algorithmic playlists. Focus on early engagement metrics. High save rates a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artistrack.com/spotify-algorithm-skip-rate-save-rate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistrack.com">[ArtistRack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistrack.com</span><span class="citation-popover-title">Optimize your music to unlock Discover Weekly &amp; Release</span><span class="citation-popover-snippet">ArtistRackDecoding the Spotify Algorithm: Skip Rate, Save Rate, &amp;...Learn the 3 crucial signals for the Spotify Algorithm: Skip Rate, Sa...</span></span></span>
+A playlist add can introduce a song to listeners, but engagement metrics help determine whether that exposure expands into broader recommendation opportunities. Industry analyses and platform guidance consistently point to signals such as save rate, playlist additions, replay behaviour and low skip rates as indicators that listeners value a track. Strong performance on these metrics increases the likelihood that recommendation systems will continue surfacing the song through algorithmic products such as [Discover Weekly]({{ 'discover-weekly/' | relative_url }}), Release Radar and radio-style recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial PlaylistsMar 15, 2026 — Algorithmic playlists. Focus on early engagement metrics. High save rates a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artistrack.com/spotify-algorithm-skip-rate-save-rate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistrack.com">[ArtistRack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistrack.com</span><span class="citation-popover-title">Optimize your music to unlock Discover Weekly &amp; Release</span><span class="citation-popover-snippet">Decoding the Spotify Algorithm: Skip Rate, Save Rate, &amp;...Learn the 3 crucial signals for the Spotify Algorithm: Skip Rate, Sa...</span></span></span>
 
 This creates a feedback loop:
-
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-2-dark.svg" | relative_url }}" alt="Editorial Adds illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -327,16 +323,14 @@ Under this model, editorial curation acts as an initial filter, while behavioura
 
 This is one reason industry discussions increasingly distinguish between exposure and conversion. Editorial playlists provide exposure; audience behaviour determines conversion into durable platform visibility.
 
-
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-3-dark.svg" | relative_url }}" alt="Editorial Adds illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Has Gatekeeping Become More Democratic or More Opaque?
 
-Supporters of playlist-driven discovery argue that editorial systems can elevate artists who might never have received radio support. Streaming removes some geographic barriers, allows niche genres to find audiences and provides multiple routes to discovery beyond traditional broadcast channels. Research on music consumption suggests that editorial and algorithmic guidance do not affect all listeners in the same way and can sometimes broaden exposure to less familiar music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivFollow the guides: disentangling human and algorithmic curation in online music consumptionSeptember 8, 2021...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
+Supporters of playlist-driven discovery argue that editorial systems can elevate artists who might never have received radio support. Streaming removes some geographic barriers, allows niche genres to find audiences and provides multiple routes to discovery beyond traditional broadcast channels. Research on music consumption suggests that editorial and algorithmic guidance do not affect all listeners in the same way and can sometimes broaden exposure to less familiar music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Follow the guides: disentangling human and algorithmic curation in online music consumptionSeptember 8, 2021...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
 
 Critics counter that gatekeeping has not disappeared; it has merely moved inside platforms. The decision-making process behind playlist inclusion is often less visible than radio programming. Artists know that playlist placement matters, but they frequently have limited insight into why one song is selected while another is not. Critics of streaming governance have therefore argued that recommendation systems and editorial infrastructure concentrate influence within a small number of technology companies that control access to audience attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/spotify-streaming-playlists-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Streamers Use Playlists to Control the Music Industry</span><span class="citation-popover-snippet">Playlists, whether algorithmically generated or editorially curated, play a critical role in exposing artists to new audiences and drivin...</span></span></span>
 
 The debate becomes sharper when economic incentives enter the picture. Controversies surrounding promotional tools such as Spotify's Discovery Mode have raised questions about whether platforms can simultaneously act as distributors, curators and market-makers. While Discovery Mode is distinct from editorial playlisting, the criticism highlights a broader concern: when visibility is governed by platform systems, transparency becomes a central issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Pay to get playlisted?</span><span class="citation-popover-snippet">The accusations against Spotify&#x27;s Discovery ModeFebruary 19, 2025 — Spotify introduced Discovery Mode in 2020, a program where artists ac...</span><span class="citation-popover-meta">Published: February 19, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EObzmJhrkGQ" title="The 3 different types of Spotify Playlists (Which is best for Artists?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EObzmJhrkGQ" target="_blank" rel="noopener noreferrer">The 3 different types of Spotify Playlists (Which is best for Artists?)</a></p><p class="youtube-embed-meta">Channel: Show Your Genius &middot; Views: 1.1K &middot; Uploaded: October 2022 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EObzmJhrkGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EObzmJhrkGQ">Open on YouTube</a></p></div></div></div>
 
@@ -465,15 +459,15 @@ That combination of editorial judgement and performance metrics defines contempo
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/fukAAeSwBy9pG3dm/s-l225.jpg" alt="Listing image for Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +475,15 @@ That combination of editorial judgement and performance metrics defines contempo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="https://i.ebayimg.com/images/g/KBgAAOSwb2tljFoi/s-l225.jpg" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +491,15 @@ That combination of editorial judgement and performance metrics defines contempo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/opkAAeSwA8Zo8OH-/s-l225.jpg" alt="Listing image for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Scorpion, Album Art Poster, Print, Music, Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +507,15 @@ That combination of editorial judgement and performance metrics defines contempo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="https://i.ebayimg.com/images/g/vU8AAOSwTvhlK~wl/s-l225.jpg" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,7 +523,7 @@ That combination of editorial judgement and performance metrics defines contempo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="editorial-adds-do-editorial-playlists-still-make-hits-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-editorial-playlists-still-make-hits-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="do-editorial-playlists-still-make-hits-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -744,177 +738,177 @@ That combination of editorial judgement and performance metrics defines contempo
 
 1. <a id="endnote-1"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/types-of-spotify-playlists/](https://support.spotify.com/us/artists/article/types-of-spotify-playlists/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyTypes of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/2017/05/secret-hit-making-power-spotify-playlist](https://www.wired.com/2017/05/secret-hit-making-power-spotify-playlist)  
+   Link: <a href="https://www.wired.com/2017/05/secret-hit-making-power-spotify-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/05/secret-hit-making-power-spotify-playlist</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This method involves editors adding tracks to various user-curated playlists, which are meticulously analyzed to track listener engagemen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/video/how-to-get-playlisted](https://artists.spotify.com/video/how-to-get-playlisted)  
+   Link: <a href="https://artists.spotify.com/video/how-to-get-playlisted" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/video/how-to-get-playlisted</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsHow to Get Playlisted – Spotify for ArtistsYou want to get on playlists. Here&#x27;s a step-by-step guide to getting your m...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: stereofox.com  
    Title: Music Blog The Spotify Playlists Ecosystem  
-   Link: [https://www.stereofox.com/articles/the-spotify-editorial-playlists-ecosystem/](https://www.stereofox.com/articles/the-spotify-editorial-playlists-ecosystem/)  
+   Link: <a href="https://www.stereofox.com/articles/the-spotify-editorial-playlists-ecosystem/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/the-spotify-editorial-playlists-ecosystem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stereofox Music BlogThe Spotify Playlists Ecosystem - History, Why Do They...30% of all plays on Spotify are generated from editorial pl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: Streamers Use Playlists to Control the Music Industry  
-   Link: [https://www.wired.com/story/spotify-streaming-playlists-music](https://www.wired.com/story/spotify-streaming-playlists-music)  
+   Link: <a href="https://www.wired.com/story/spotify-streaming-playlists-music" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotify-streaming-playlists-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists, whether algorithmically generated or editorially curated, play a critical role in exposing artists to new audiences and drivin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: orphiq.com  
    Title: spotify editorial playlist  
-   Link: [https://orphiq.com/resources/spotify-editorial-playlist](https://orphiq.com/resources/spotify-editorial-playlist)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqUnderstanding Spotify Editorial PlaylistsMar 15, 2026 — Algorithmic playlists. Focus on early engagement metrics. High save rates a...</p></details>
+   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial PlaylistsMar 15, 2026 — Algorithmic playlists. Focus on early engagement metrics. High save rates a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: artistrack.com  
    Title: Optimize your music to unlock Discover Weekly & Release  
-   Link: [https://artistrack.com/spotify-algorithm-skip-rate-save-rate/](https://artistrack.com/spotify-algorithm-skip-rate-save-rate/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ArtistRackDecoding the Spotify Algorithm: Skip Rate, Save Rate, &amp;...Learn the 3 crucial signals for the Spotify Algorithm: Skip Rate, Sa...</p></details>
+   Link: <a href="https://artistrack.com/spotify-algorithm-skip-rate-save-rate/" target="_blank" rel="noopener noreferrer nofollow">https://artistrack.com/spotify-algorithm-skip-rate-save-rate/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Spotify Algorithm: Skip Rate, Save Rate, &amp;...Learn the 3 crucial signals for the Spotify Algorithm: Skip Rate, Sa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2109.03915](https://arxiv.org/abs/2109.03915)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFollow the guides: disentangling human and algorithmic curation in online music consumptionSeptember 8, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2109.03915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03915</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Follow the guides: disentangling human and algorithmic curation in online music consumptionSeptember 8, 2021...</p></details>
    Published: September 8, 2021  
 
 9. <a id="endnote-9"></a>
    Source: orphiq.com  
    Title: spotify algorithmic playlists explained  
-   Link: [https://orphiq.com/resources/spotify-algorithmic-playlists-explained](https://orphiq.com/resources/spotify-algorithmic-playlists-explained)  
+   Link: <a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: artistrack.com  
-   Link: [https://artistrack.com/spotify-algorithmic-growth/](https://artistrack.com/spotify-algorithmic-growth/)  
+   Link: <a href="https://artistrack.com/spotify-algorithmic-growth/" target="_blank" rel="noopener noreferrer nofollow">https://artistrack.com/spotify-algorithmic-growth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn to master the Spotify algorithm by focusing on Save Rate and Retention to unlock sustainable algorithmic growth and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: stereofox.com  
-   Link: [https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/](https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/)  
+   Link: <a href="https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Different Kinds of Spotify Playlists ExplainedEditorial playlists formed by in-house curators are where you&#x27;d want to end up as an ar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: newsroom.spotify.com  
    Title: prompted playlists algorithm gustav soderstrom  
-   Link: [https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/](https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the Algorithm10 Dec 2025 — For the first time, your ideas, your logic, and your crea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: engineering.atspotify.com  
-   Title: humans machines a look behind spotifys [algotorial playlists](&#123;&#123; 'algotorial/' | relative_url &#125;&#125;)  
-   Link: [https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists](https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists)  
+   Title: humans machines a look behind spotifys algotorial playlists  
+   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...Apr 27, 2023 — TL;DR Since 2017, Spotify has been working...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists](https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists)  
+   Link: <a href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: artist.tools  
    Title: master spotify algorithmic playlists  
-   Link: [https://www.artist.tools/post/master-spotify-algorithmic-playlists](https://www.artist.tools/post/master-spotify-algorithmic-playlists)  
+   Link: <a href="https://www.artist.tools/post/master-spotify-algorithmic-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/master-spotify-algorithmic-playlists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 30, 2025 — By mid-2025, four key metrics truly dictate a song&#x27;s algorithmic journey: repeat listens, save rate, skip rate, and playli...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian Pay to get playlisted?  
-   Link: [https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist](https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist)  
+   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The accusations against Spotify&#x27;s Discovery ModeFebruary 19, 2025 — Spotify introduced Discovery Mode in 2020, a program where artists ac...</p></details>
    Published: February 19, 2025  
 
 17. <a id="endnote-17"></a>
    Source: droptrack.com  
-   Link: [https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-in-2026-2/](https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-in-2026-2/)  
+   Link: <a href="https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-in-2026-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-in-2026-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s in-house editors still manage roughly 35% of streams. These are the &quot;prestige&quot; placements...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: loopsolitaire.co.uk  
-   Link: [https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/](https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/)  
+   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: chartlex.com  
-   Link: [https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOor9SflYiW2jujIAxfvGegUJNgKKaqU_OkbbXWeycXdtz2bNkisU](https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOor9SflYiW2jujIAxfvGegUJNgKKaqU_OkbbXWeycXdtz2bNkisU)  
+   Link: <a href="https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOor9SflYiW2jujIAxfvGegUJNgKKaqU_OkbbXWeycXdtz2bNkisU" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOor9SflYiW2jujIAxfvGegUJNgKKaqU_OkbbXWeycXdtz2bNkisU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Algorithmic Playlists 2026: The 20% Save Rate...Nov 4, 2025 — Spotify&#x27;s algorithmic playlists are personalized lists of songs th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicmarketing/comments/1pduy61/spotify_playlists_arent_exposure_theyve_become_a/](https://www.reddit.com/r/musicmarketing/comments/1pduy61/spotify_playlists_arent_exposure_theyve_become_a/)  
+   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/1pduy61/spotify_playlists_arent_exposure_theyve_become_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/1pduy61/spotify_playlists_arent_exposure_theyve_become_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;re passive listening experiences, that don&#x27;t get you real fans, just...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: decentmusicpr.com  
    Title: spotify editorial playlists 2025  
-   Link: [https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025](https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025)  
+   Link: <a href="https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get on Spotify Editorial Playlists in 202519 Jun 2025 — Create at least one public playlist that reflects your style or influences...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: executive-education.uzh.ch  
    Title: streaming platforms  
-   Link: [https://www.executive-education.uzh.ch/en/blog/research/streaming-platforms.html](https://www.executive-education.uzh.ch/en/blog/research/streaming-platforms.html)  
+   Link: <a href="https://www.executive-education.uzh.ch/en/blog/research/streaming-platforms.html" target="_blank" rel="noopener noreferrer nofollow">https://www.executive-education.uzh.ch/en/blog/research/streaming-platforms.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Music World17 Dec 2024 — The curated playlists accounted for 12% of all music streaming of the 200 most popular songs on Spotify i...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: revelator.com  
-   Link: [https://revelator.com/blog/how-artists-labels-can-use-algorithmic-playlists-to-grow](https://revelator.com/blog/how-artists-labels-can-use-algorithmic-playlists-to-grow)  
+   Link: <a href="https://revelator.com/blog/how-artists-labels-can-use-algorithmic-playlists-to-grow" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-artists-labels-can-use-algorithmic-playlists-to-grow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Artists &amp; Labels Can Use Algorithmic Playlists to GrowLearn how independent artists and record labels can harness DSP algorithmic pla...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: droptrack.com  
-   Link: [https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-3/](https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-3/)  
+   Link: <a href="https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-3/" target="_blank" rel="noopener noreferrer nofollow">https://www.droptrack.com/the-ultimate-guide-to-spotify-playlist-placement-everything-you-need-to-succeed-3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Editorial Playlists; 2. Algorithmic Playlists; 3. User-Generated (Independent) Playlists; Step 2: The...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/363370279_Optimisation_of_Musical_Distribution_in_Streaming_Services_Third-Party_Playlist_Promotion_and_Algorithmic_Logics_of_Distribution](https://www.researchgate.net/publication/363370279_Optimisation_of_Musical_Distribution_in_Streaming_Services_Third-Party_Playlist_Promotion_and_Algorithmic_Logics_of_Distribution)  
+   Link: <a href="https://www.researchgate.net/publication/363370279_Optimisation_of_Musical_Distribution_in_Streaming_Services_Third-Party_Playlist_Promotion_and_Algorithmic_Logics_of_Distribution" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363370279_Optimisation_of_Musical_Distribution_in_Streaming_Services_Third-Party_Playlist_Promotion_and_Algorithmic_Logics_of_Distribution</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sts can be linked to the entrenched European concept of the autonomous artist;...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ljlj.in  
-   Link: [https://ljlj.in/wp-content/uploads/2026/02/M5-Baani-Pahwa.pdf](https://ljlj.in/wp-content/uploads/2026/02/M5-Baani-Pahwa.pdf)  
+   Link: <a href="https://ljlj.in/wp-content/uploads/2026/02/M5-Baani-Pahwa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ljlj.in/wp-content/uploads/2026/02/M5-Baani-Pahwa.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>music streaming from the perspective of competition law- with a particular or...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 60 — The impact of streaming platforms on musical product...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/19401159.2026.2616115](https://www.tandfonline.com/doi/full/10.1080/19401159.2026.2616115)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/19401159.2026.2616115" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/19401159.2026.2616115</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Currently Listening to …”: Curating Artist Playlists and...by J Millea · 2026 — This article examines music curation and authenticity t...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: figshare.mq.edu.au  
-   Link: [https://figshare.mq.edu.au/articles/thesis/The_new_gatekeepers_searching_for_bias_in_Spotify_s_curated_playlists/21343314/1/files/37883565.pdf](https://figshare.mq.edu.au/articles/thesis/The_new_gatekeepers_searching_for_bias_in_Spotify_s_curated_playlists/21343314/1/files/37883565.pdf)  
+   Link: <a href="https://figshare.mq.edu.au/articles/thesis/The_new_gatekeepers_searching_for_bias_in_Spotify_s_curated_playlists/21343314/1/files/37883565.pdf" target="_blank" rel="noopener noreferrer nofollow">https://figshare.mq.edu.au/articles/thesis/The_new_gatekeepers_searching_for_bias_in_Spotify_s_curated_playlists/21343314/1/files/37883565.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ic Friday playlist can generate millions of additional listens (...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/](https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/)  
+   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h i was featured by an editorial playlist out of nowhere, the truth behind...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: music-tomorrow.com  
    Title: how to get on discover weekly spotify algorithm  
-   Link: [https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm](https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm)  
+   Link: <a href="https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Discover Weekly Algorithm Works (And Why Your...11 Feb 2026 — How Spotify&#x27;s Discover Weekly algorithm evaluates tracks — and why...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: online.berklee.edu  
    Title: how to get your music on spotify playlists  
-   Link: [https://online.berklee.edu/takenote/how-to-get-your-music-on-spotify-playlists/](https://online.berklee.edu/takenote/how-to-get-your-music-on-spotify-playlists/)  
+   Link: <a href="https://online.berklee.edu/takenote/how-to-get-your-music-on-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://online.berklee.edu/takenote/how-to-get-your-music-on-spotify-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Get Your Music on Spotify Playlists - Berklee Online17 Dec 2024 — To get placed on Spotify playlists, whether algorithmic, personalize...</p></details>

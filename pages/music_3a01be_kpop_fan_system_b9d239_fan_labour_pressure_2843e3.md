@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1
 - music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79
 tags:
-- music
+- music-3-a01-be
 - k-pop
 - fan-labour
 keywords:
-- music
+- music-3-a01-be
 - k-pop
 - fan-labour
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Organised fandom can create friendship and visibility, but it can also make support feel like constant proof through buying, voting and streaming.
 hero_summary: Organised fandom can create friendship and visibility, but it can also make support feel like constant proof through buying, voting and streaming.
 layout: default
 permalink: /fan-labour/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /k-pop/
 nav_short_title: Fan Labour
 title: When supporting idols starts to feel like work
-title_full: When supporting idols starts to feel like work | K Pop
+title_full: When supporting idols starts to feel like work
 display_title_short: Fan Labour
 display_title: Fan Labour
 heading_title: When supporting idols starts to feel like work
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How K Pop Built A Global Fan Machine | Music
+parent_title: How K Pop Built A Global Fan Machine
 parent_permalink: /k-pop/
 parent_nav_short_title: K Pop
 parent_heading_title: How K Pop Built A Global Fan Machine
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why fans buy albums they do not play
 up_link:
   basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -265,7 +265,7 @@ next_link:
   permalink: /fan-platforms/
   short_title: Fan Platforms
   heading_title: Why fan apps matter to K pop's business
-date: '2026-06-09 06:29:54 '
+date: '2026-06-11 23:16:10 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_28
 
 ## Introduction
 
-K-pop fandom is often described as highly engaged, but that engagement can blur the line between enjoyment and work. Unlike many [music]({{ 'music/' | relative_url }}) scenes where listening is the main form of support, K-pop frequently encourages fans to stream songs repeatedly, vote in competitions, buy multiple album versions, promote releases online and participate in organised campaigns. These activities can create strong communities and a sense of collective achievement. At the same time, they can generate pressure to prove loyalty through time, money and effort rather than through simple enjoyment of the music. Researchers increasingly describe these activities as forms of fan labour: unpaid work that contributes to the visibility, reputation and commercial success of artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
-
+K-pop fandom is often described as highly engaged, but that engagement can blur the line between enjoyment and work. Unlike many music scenes where listening is the main form of support, K-pop frequently encourages fans to stream songs repeatedly, vote in competitions, buy multiple album versions, promote releases online and participate in organised campaigns. These activities can create strong communities and a sense of collective achievement. At the same time, they can generate pressure to prove loyalty through time, money and effort rather than through simple enjoyment of the music. Researchers increasingly describe these activities as forms of fan labour: unpaid work that contributes to the visibility, reputation and commercial success of artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1-dark.svg" | relative_url }}" alt="Fan Labour illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding this dynamic is important because it helps explain both the power and the tensions of modern K-pop fandom. The same systems that build community can also create expectations that are difficult for some fans to sustain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059436420954588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsK-pop fan labor and an alternative creative industry: A case...This research argues that fan labor transforms the K-pop ind...</span></span></span>
 
 ## The tasks fans take on during a release
 
-A K-pop comeback often activates a highly organised network of fan activity. Fan-run accounts distribute schedules, create streaming guides, translate content, organise fundraising projects and track chart performance. In many fandoms, participation is coordinated through social media, messaging groups and dedicated fan communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijpsat.org/index.php/ijpsat/article/download/5584/3479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijpsat.org">[IJPSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijpsat.org</span><span class="citation-popover-title">Utilization Of New Media As Digital Fandom Among</span><span class="citation-popover-snippet">IJPSATUtilization Of New Media As Digital Fandom Among...August 27, 2023 — Fan groups also engage in fan projects through fanbase accoun...</span><span class="citation-popover-meta">Published: August 27, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gdpmrjournal.com/article/kpop-fans-practices-content-consumption-to-participatory-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gdpmrjournal.com">[2gdpmrjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gdpmrjournal.com</span><span class="citation-popover-title">kpop fans practices content consumption to participatory approach</span><span class="citation-popover-snippet">kpop fans practices content consumption to participatory...by U Ismail · 2023 · Cited by 19 — The study seeks to investigate the differe...</span></span></span>
+A K-pop comeback often activates a highly organised network of fan activity. Fan-run accounts distribute schedules, create streaming guides, translate content, organise fundraising projects and track chart performance. In many fandoms, participation is coordinated through social media, messaging groups and dedicated fan communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijpsat.org/index.php/ijpsat/article/download/5584/3479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijpsat.org">[IJPSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijpsat.org</span><span class="citation-popover-title">Utilization Of New Media As Digital Fandom Among</span><span class="citation-popover-snippet">Utilization Of New Media As Digital Fandom Among...August 27, 2023  Fan groups also engage in fan projects through fanbase accoun...</span><span class="citation-popover-meta">Published: August 27, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gdpmrjournal.com/article/kpop-fans-practices-content-consumption-to-participatory-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gdpmrjournal.com">[2gdpmrjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gdpmrjournal.com</span><span class="citation-popover-title">kpop fans practices content consumption to participatory approach</span><span class="citation-popover-snippet">kpop fans practices content consumption to participatory...by U Ismail  2023  Cited by 19  The study seeks to investigate the differe...</span></span></span>
 
 During a release period, fans may be encouraged to:
 
@@ -291,10 +290,9 @@ During a release period, fans may be encouraged to:
 * Purchase [albums]({{ 'albums/' | relative_url }}), digital downloads or fan-club memberships.
 * Share promotional content across multiple platforms.
 * Monitor [charts]({{ 'charts/' | relative_url }}) and celebrate milestones.
-* Participate in fundraising campaigns that buy albums or advertisements on behalf of the fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijpsat.org/index.php/ijpsat/article/download/5584/3479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijpsat.org">[IJPSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijpsat.org</span><span class="citation-popover-title">Utilization Of New Media As Digital Fandom Among</span><span class="citation-popover-snippet">IJPSATUtilization Of New Media As Digital Fandom Among...August 27, 2023 — Fan groups also engage in fan projects through fanbase accoun...</span><span class="citation-popover-meta">Published: August 27, 2023</span></span></span> Researchers studying K-pop fan organisations have noted that many fandoms operate with a level of coordination resembling volunteer teams. Tasks such as data tracking, bulk purchasing, reputation management and promotional campaigns are often distributed among specialised groups of fans. Although participation is voluntary, the amount of labour involved can be substantial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
+* Participate in fundraising campaigns that buy albums or advertisements on behalf of the fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijpsat.org/index.php/ijpsat/article/download/5584/3479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijpsat.org">[IJPSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijpsat.org</span><span class="citation-popover-title">Utilization Of New Media As Digital Fandom Among</span><span class="citation-popover-snippet">Utilization Of New Media As Digital Fandom Among...August 27, 2023  Fan groups also engage in fan projects through fanbase accoun...</span><span class="citation-popover-meta">Published: August 27, 2023</span></span></span> Researchers studying K-pop fan organisations have noted that many fandoms operate with a level of coordination resembling volunteer teams. Tasks such as data tracking, bulk purchasing, reputation management and promotional campaigns are often distributed among specialised groups of fans. Although participation is voluntary, the amount of labour involved can be substantial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
 
 This work is not necessarily experienced as exploitation. Many fans report enjoyment, friendship and a sense of purpose from contributing to a collective goal. The labour can feel meaningful because it is connected to emotional investment in artists and relationships within the fandom community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GlrwDb4ULl4" title="why are kpop album sales dropping?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GlrwDb4ULl4" target="_blank" rel="noopener noreferrer">why are kpop album sales dropping?</a></p><p class="youtube-embed-meta">Channel: dearyoongi &middot; Views: 4.5K &middot; Uploaded: August 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GlrwDb4ULl4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GlrwDb4ULl4">Open on YouTube</a></p></div></div></div>
 
@@ -305,7 +303,6 @@ One reason pressure can emerge is that support is often made visible and measura
 In this environment, participation may become a marker of commitment. Academic research on K-pop fan labour argues that active contribution often distinguishes "serious" fans from casual listeners. Fandom communities can develop informal hierarchies in which those who spend more time, money or effort gain status and recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059436420954588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsK-pop fan labor and an alternative creative industry: A case...This research argues that fan labor transforms the K-pop ind...</span></span></span>
 
 This does not mean every fandom operates the same way, but recurring patterns appear across many communities:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -319,31 +316,28 @@ This does not mean every fandom operates the same way, but recurring patterns ap
 
 The result is a subtle shift in meaning. Instead of asking whether someone enjoys the music, discussions may focus on what they have contributed. Support becomes something that can be demonstrated through measurable action.
 
-
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-2-dark.svg" | relative_url }}" alt="Fan Labour illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why spending pressure is built into the system
 
-Financial participation occupies a particularly important role in K-pop's fan economy. [Physical]({{ 'physical/' | relative_url }}) albums often function as collectable goods as much as music products. Multiple versions, exclusive inclusions and randomised [photo cards]({{ 'photo-cards/' | relative_url }}) encourage repeat purchases from dedicated fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">Korea Times Why K-pop albums are increasingly resembling merchandise</span><span class="citation-popover-snippet">Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026 — 9 Jan 2026 — K-pop albums are commonly released in m...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">An average of 2.6 versions were offered in each album. * The albums sold by a singer (or...Read more...</span></span></span>
+Financial participation occupies a particularly important role in K-pop's fan economy. [Physical]({{ 'physical/' | relative_url }}) albums often function as collectable goods as much as music products. Multiple versions, exclusive inclusions and randomised [photo cards]({{ 'photo-cards/' | relative_url }}) encourage repeat purchases from dedicated fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">Korea Times Why K-pop albums are increasingly resembling merchandise</span><span class="citation-popover-snippet">Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026  9 Jan 2026  K-pop albums are commonly released in m...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">An average of 2.6 versions were offered in each album. * The albums sold by a singer (or...Read more...</span></span></span>
 
-Industry practices reinforce this behaviour in several ways. Albums are frequently released in different editions, each containing unique packaging or collectables. Fans seeking a complete set may purchase multiple copies of essentially the same music release. Randomised photo cards further encourage repeat buying because obtaining a favourite member's card is not guaranteed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">Korea Times Why K-pop albums are increasingly resembling merchandise</span><span class="citation-popover-snippet">Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026 — 9 Jan 2026 — K-pop albums are commonly released in m...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">An average of 2.6 versions were offered in each album. * The albums sold by a singer (or...Read more...</span></span></span>
+Industry practices reinforce this behaviour in several ways. Albums are frequently released in different editions, each containing unique packaging or collectables. Fans seeking a complete set may purchase multiple copies of essentially the same music release. Randomised photo cards further encourage repeat buying because obtaining a favourite member's card is not guaranteed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">Korea Times Why K-pop albums are increasingly resembling merchandise</span><span class="citation-popover-snippet">Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026  9 Jan 2026  K-pop albums are commonly released in m...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">An average of 2.6 versions were offered in each album. * The albums sold by a singer (or...Read more...</span></span></span>
 
-Another major incentive is access. Fansign events and other exclusive opportunities are often tied to album purchases. While winners are selected through lotteries, purchasing more albums generally increases the number of entries available to a fan. This creates a system where spending can improve the chances of interaction with idols. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">Korea Times Why K-pop albums are increasingly resembling merchandise</span><span class="citation-popover-snippet">Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026 — 9 Jan 2026 — K-pop albums are commonly released in m...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
+Another major incentive is [access]({{ 'access/' | relative_url }}). Fansign events and other exclusive opportunities are often tied to album purchases. While winners are selected through lotteries, purchasing more albums generally increases the number of entries available to a fan. This creates a system where spending can improve the chances of interaction with idols. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">Korea Times Why K-pop albums are increasingly resembling merchandise</span><span class="citation-popover-snippet">Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026  9 Jan 2026  K-pop albums are commonly released in m...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 
-The economic logic is powerful. K-pop companies increasingly rely on highly engaged fans who buy albums, subscriptions, merchandise and exclusive experiences. As competition within the industry grows, maintaining this direct fan spending has become a central business strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paradigmpress.org/le/article/download/1544/1374/1754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paradigmpress.org">[Paradigm Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paradigmpress.org</span><span class="citation-popover-title">Paradigm Press K-pop&#x27;s Overcrowded Market</span><span class="citation-popover-snippet">Paradigm PressK-pop&#x27;s Overcrowded MarketMarch 6, 2025 — K-pop agencies have become increasingly dependent on direct fan spending, includi...</span><span class="citation-popover-meta">Published: March 6, 2025</span></span></span>
-
+The economic logic is powerful. K-pop companies increasingly rely on highly engaged fans who buy albums, subscriptions, merchandise and exclusive experiences. As competition within the industry grows, maintaining this direct fan spending has become a central business strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paradigmpress.org/le/article/download/1544/1374/1754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paradigmpress.org">[Paradigm Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paradigmpress.org</span><span class="citation-popover-title">Paradigm Press K-pop&#x27;s Overcrowded Market</span><span class="citation-popover-snippet">Paradigm PressK-pop&#x27;s Overcrowded MarketMarch 6, 2025  K-pop agencies have become increasingly dependent on direct fan spending, includi...</span><span class="citation-popover-meta">Published: March 6, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ArcOZksyEhs" title="Every Type of K-POP Fans Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ArcOZksyEhs" target="_blank" rel="noopener noreferrer">Every Type of K-POP Fans Explained</a></p><p class="youtube-embed-meta">Channel: The Hallyu Nerd &middot; Views: 1.6K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ArcOZksyEhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ArcOZksyEhs">Open on YouTube</a></p></div></div></div>
 
 ## The emotional tension behind fan labour
 
-A common misunderstanding is that fans are simply manipulated into participation. The reality is more complicated. Fan labour often produces genuine social benefits. Fans build friendships, learn organisational skills, collaborate across countries and experience a sense of belonging that can be difficult to find elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr.comm.or.kr/_common/do.php?a=full&amp;aidx=43196&amp;b=42&amp;bidx=3839" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr.comm.or.kr">[ACR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr.comm.or.kr</span><span class="citation-popover-snippet">ACRLatest IssueDec 31, 2024 — This study explores the relationship between engagement in K-pop fandom activities, K-wave perceptions, and...</span></span></span>
+A common misunderstanding is that fans are simply manipulated into participation. The reality is more complicated. Fan labour often produces genuine social benefits. Fans build friendships, learn organisational skills, collaborate across countries and experience a sense of belonging that can be difficult to find elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr.comm.or.kr/_common/do.php?a=full&amp;aidx=43196&amp;b=42&amp;bidx=3839" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr.comm.or.kr">[ACR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr.comm.or.kr</span><span class="citation-popover-snippet">Latest IssueDec 31, 2024  This study explores the relationship between engagement in K-pop fandom activities, K-wave perceptions, and...</span></span></span>
 
 The tension arises because activities that feel rewarding can also become obligations. A fan may initially join a streaming campaign for fun but later feel guilty for missing goals. Someone who enjoys collecting may start to feel pressure to keep up with increasingly expensive releases. The emotional investment that makes fandom meaningful can also make it difficult to step back. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
 
 Digital platforms intensify this dynamic. Dedicated fan apps, subscription services and social media systems provide constant opportunities for engagement, making fandom participation a routine part of everyday life. Researchers have described this as part of the broader platformisation of fandom, where fan activity is increasingly channelled through systems designed to sustain engagement and spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059436420954588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsK-pop fan labor and an alternative creative industry: A case...This research argues that fan labor transforms the K-pop ind...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sC89UPERxrI" title="K pop’s Money Machine: How Idol Fandoms Turned into Millions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sC89UPERxrI" target="_blank" rel="noopener noreferrer">K pop’s Money Machine: How Idol Fandoms Turned into Millions</a></p><p class="youtube-embed-meta">Channel: Idol Dynasty &middot; Views: 363 &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sC89UPERxrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sC89UPERxrI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sC89UPERxrI" title="K pops Money Machine: How Idol Fandoms Turned into Millions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sC89UPERxrI" target="_blank" rel="noopener noreferrer">K pops Money Machine: How Idol Fandoms Turned into Millions</a></p><p class="youtube-embed-meta">Channel: Idol Dynasty &middot; Views: 363 &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sC89UPERxrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sC89UPERxrI">Open on YouTube</a></p></div></div></div>
 
 ## The risks of pressure, burnout and overspending
 
@@ -351,12 +345,11 @@ For many fans, participation remains enjoyable and manageable. Problems arise wh
 
 Burnout can occur when fans feel responsible for maintaining streaming schedules, voting targets or promotional efforts over long periods. Because K-pop fandom is highly collective, individuals may feel that their absence harms the group effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</span></span></span>
 
-Financial strain is another concern. Collecting albums, photo cards, memberships, concert tickets and paid platform subscriptions can become expensive, particularly for younger fans. High-profile collecting communities sometimes involve spending levels far beyond what ordinary consumers would associate with music fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amounts—up to $25,000...</span></span></span>
+Financial strain is another concern. Collecting albums, photo cards, memberships, concert tickets and paid platform subscriptions can become expensive, particularly for younger fans. High-profile collecting communities sometimes involve spending levels far beyond what ordinary consumers would associate with music fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amountsup to $25,000...</span></span></span>
 
 Environmental criticism has also emerged around bulk purchasing. Physical album sales have grown even as most listeners consume music digitally. Critics argue that collectable incentives encourage purchases motivated more by charts, photo cards and lottery entries than by the music itself, leading to waste and excess production. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</span></span></span>
 
 These concerns do not erase the positive aspects of fandom. Rather, they highlight a central contradiction within the K-pop support system: the same enthusiasm that drives community, visibility and commercial success can also generate pressure when dedication becomes something that must continually be demonstrated.
-
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-3-dark.svg" | relative_url }}" alt="Fan Labour illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the debate continues
@@ -516,11 +509,11 @@ The answer varies from one fan to another, but the question itself has become ce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop enamel pin" data-ebay-reference="fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KPOP Enamel Pin Badge â€“ Cute Metal Accessory Gift for Korean Pop Fans"><img src="{{ '/assets/images/marketplace-covers/f69f3d6347a61503d196.jpg' | relative_url }}" alt="Listing image for KPOP Enamel Pin Badge â€“ Cute Metal Accessory Gift for Korean Pop Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop enamel pin" data-ebay-reference="fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KPOP Enamel Pin Badge – Cute Metal Accessory Gift for Korean Pop Fans"><img src="{{ '/assets/images/marketplace-covers/f69f3d6347a61503d196.jpg' | relative_url }}" alt="Listing image for KPOP Enamel Pin Badge – Cute Metal Accessory Gift for Korean Pop Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop enamel pin" data-ebay-reference="fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">KPOP Enamel Pin Badge â€“ Cute Metal Accessory Gift for Korean Pop Fans</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop enamel pin" data-ebay-reference="fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">KPOP Enamel Pin Badge – Cute Metal Accessory Gift for Korean Pop Fans</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop enamel pin" data-ebay-reference="fan-labour-when-supporting-idols-starts-to-feel-like-work-music-kpop-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop enamel pin</a>
         <div class="fr-book-actions">
@@ -763,141 +756,141 @@ The answer varies from one fan to another, but the question itself has become ce
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry](https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry)  
+   Link: <a href="https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396859633_The_Operational_Mechanisms_of_K-pop_Fan_Organizations_in_the_Entertainment_Industry</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Operational Mechanisms of K-pop Fan...This paper examines how K-pop fan organizations by using BTSs ARMY as a case...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ijpsat.org  
    Title: Utilization Of New Media As Digital Fandom Among  
-   Link: [https://ijpsat.org/index.php/ijpsat/article/download/5584/3479](https://ijpsat.org/index.php/ijpsat/article/download/5584/3479)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IJPSATUtilization Of New Media As Digital Fandom Among...August 27, 2023 — Fan groups also engage in fan projects through fanbase accoun...</p></details>
+   Link: <a href="https://ijpsat.org/index.php/ijpsat/article/download/5584/3479" target="_blank" rel="noopener noreferrer nofollow">https://ijpsat.org/index.php/ijpsat/article/download/5584/3479</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Utilization Of New Media As Digital Fandom Among...August 27, 2023  Fan groups also engage in fan projects through fanbase accoun...</p></details>
    Published: August 27, 2023  
 
 3. <a id="endnote-3"></a>
    Source: gdpmrjournal.com  
    Title: kpop fans practices content consumption to participatory approach  
-   Link: [https://www.gdpmrjournal.com/article/kpop-fans-practices-content-consumption-to-participatory-approach](https://www.gdpmrjournal.com/article/kpop-fans-practices-content-consumption-to-participatory-approach)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>kpop fans practices content consumption to participatory...by U Ismail · 2023 · Cited by 19 — The study seeks to investigate the differe...</p></details>
+   Link: <a href="https://www.gdpmrjournal.com/article/kpop-fans-practices-content-consumption-to-participatory-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.gdpmrjournal.com/article/kpop-fans-practices-content-consumption-to-participatory-approach</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>kpop fans practices content consumption to participatory...by U Ismail  2023  Cited by 19  The study seeks to investigate the differe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: acr.comm.or.kr  
-   Link: [https://acr.comm.or.kr/_common/do.php?a=full&aidx=43196&b=42&bidx=3839](https://acr.comm.or.kr/_common/do.php?a=full&aidx=43196&b=42&bidx=3839)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACRLatest IssueDec 31, 2024 — This study explores the relationship between engagement in K-pop fandom activities, K-wave perceptions, and...</p></details>
+   Link: <a href="https://acr.comm.or.kr/_common/do.php?a=full&amp;aidx=43196&amp;b=42&amp;bidx=3839" target="_blank" rel="noopener noreferrer nofollow">https://acr.comm.or.kr/_common/do.php?a=full&amp;aidx=43196&amp;b=42&amp;bidx=3839</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest IssueDec 31, 2024  This study explores the relationship between engagement in K-pop fandom activities, K-wave perceptions, and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/](https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/)  
+   Link: <a href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 372335591 [K pop](&#123;&#123; 'k-pop/' | relative_url &#125;&#125;) Fans Practices Content Consumption to Participatory Approach  
-   Link: [https://www.researchgate.net/publication/372335591_K-pop_Fans_Practices_Content_Consumption_to_Participatory_Approach](https://www.researchgate.net/publication/372335591_K-pop_Fans_Practices_Content_Consumption_to_Participatory_Approach)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) K-pop Fans Practices: Content Consumption to...Jul 13, 2023 — This study examines the influence of K-pop consumers&#x27; (online/offlin...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/372335591_K-pop_Fans_Practices_Content_Consumption_to_Participatory_Approach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372335591_K-pop_Fans_Practices_Content_Consumption_to_Participatory_Approach</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) K-pop Fans Practices: Content Consumption to...Jul 13, 2023  This study examines the influence of K-pop consumers&#x27; (online/offlin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter](https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Utilization Of New Media As Digital Fandom Among...1 Aug 2023 — Academics have observed that SM plays a crucial role in forming th...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Utilization Of New Media As Digital Fandom Among...1 Aug 2023  Academics have observed that SM plays a crucial role in forming th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 399685749 Motivation of K POP Fans High Consumption Behavior  
-   Link: [https://www.researchgate.net/publication/399685749_Motivation_of_K-POP_Fans_High_Consumption_Behavior](https://www.researchgate.net/publication/399685749_Motivation_of_K-POP_Fans_High_Consumption_Behavior)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Motivation of K-POP Fans High Consumption Behavior14 Jan 2026 — In light of the growing global scope of K-pop, fan-generated, high...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/399685749_Motivation_of_K-POP_Fans_High_Consumption_Behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399685749_Motivation_of_K-POP_Fans_High_Consumption_Behavior</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Motivation of K-POP Fans High Consumption Behavior14 Jan 2026  In light of the growing global scope of K-pop, fan-generated, high...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/372325649_K-pop_fandom_as_%27sub-visible_culture%27_Digital_work_and_enjoyment_in_the_precarious_present](https://www.researchgate.net/publication/372325649_K-pop_fandom_as_%27sub-visible_culture%27_Digital_work_and_enjoyment_in_the_precarious_present)  
+   Link: <a href="https://www.researchgate.net/publication/372325649_K-pop_fandom_as_%27sub-visible_culture%27_Digital_work_and_enjoyment_in_the_precarious_present" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372325649_K-pop_fandom_as_%27sub-visible_culture%27_Digital_work_and_enjoyment_in_the_precarious_present</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>women, from the perspective of non-metropolitan locations like the state of Kerala...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2059436420954588](https://journals.sagepub.com/doi/10.1177/2059436420954588)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2059436420954588" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059436420954588</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsK-pop fan labor and an alternative creative industry: A case...This research argues that fan labor transforms the K-pop ind...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20563051251351390](https://journals.sagepub.com/doi/10.1177/20563051251351390)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Platformization of K-Pop FandomJun 28, 2025 — K-pop fan communities are affective networks that burst into being around...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051251351390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051251351390</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Platformization of K-Pop FandomJun 28, 2025  K-pop fan communities are affective networks that burst into being around...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: koreatimes.co.kr  
    Title: Korea Times Why K-pop albums are increasingly resembling merchandise  
-   Link: [https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise](https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026 — 9 Jan 2026 — K-pop albums are commonly released in m...</p></details>
+   Link: <a href="https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20260109/why-k-pop-albums-are-increasingly-resembling-merchandise</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea TimesWhy K-pop albums are increasingly resembling merchandiseJanuary 9, 2026  9 Jan 2026  K-pop albums are commonly released in m...</p></details>
    Published: January 9, 2026  
 
 13. <a id="endnote-13"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6](https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amounts—up to $25,000...</p></details>
+   Link: <a href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amountsup to $25,000...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: paradigmpress.org  
    Title: Paradigm Press K-pop's Overcrowded Market  
-   Link: [https://www.paradigmpress.org/le/article/download/1544/1374/1754](https://www.paradigmpress.org/le/article/download/1544/1374/1754)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paradigm PressK-pop&#x27;s Overcrowded MarketMarch 6, 2025 — K-pop agencies have become increasingly dependent on direct fan spending, includi...</p></details>
+   Link: <a href="https://www.paradigmpress.org/le/article/download/1544/1374/1754" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmpress.org/le/article/download/1544/1374/1754</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paradigm PressK-pop&#x27;s Overcrowded MarketMarch 6, 2025  K-pop agencies have become increasingly dependent on direct fan spending, includi...</p></details>
    Published: March 6, 2025  
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505](https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: app.chartmetric.com  
-   Link: [https://app.chartmetric.com/artist/11250856](https://app.chartmetric.com/artist/11250856)  
+   Link: <a href="https://app.chartmetric.com/artist/11250856" target="_blank" rel="noopener noreferrer nofollow">https://app.chartmetric.com/artist/11250856</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chartmetric.comK-NOK-NO&#x27;s most popular songs include ATTENTION SEEKER, Leave A Light On, WHEN IM DOWN. Is K-NO currently on tour? If so...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: waterandmusic.com  
-   Link: [https://www.waterandmusic.com/anatomy-of-a-modern-pop-fanbase-how-fans-use-data-to-build-their-own-music-marketing-powerhouses/](https://www.waterandmusic.com/anatomy-of-a-modern-pop-fanbase-how-fans-use-data-to-build-their-own-music-marketing-powerhouses/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anatomy of a modern pop fanbase: How fans use data to...7 Jun 2021 — How do everyday music fans plan out effective and coherent marketin...</p></details>
+   Link: <a href="https://www.waterandmusic.com/anatomy-of-a-modern-pop-fanbase-how-fans-use-data-to-build-their-own-music-marketing-powerhouses/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/anatomy-of-a-modern-pop-fanbase-how-fans-use-data-to-build-their-own-music-marketing-powerhouses/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anatomy of a modern pop fanbase: How fans use data to...7 Jun 2021  How do everyday music fans plan out effective and coherent marketin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/CigarettesAfterSex/comments/18wdr2l/kcigarettes_after_sex_lyric_break_down/](https://www.reddit.com/r/CigarettesAfterSex/comments/18wdr2l/kcigarettes_after_sex_lyric_break_down/)  
+   Link: <a href="https://www.reddit.com/r/CigarettesAfterSex/comments/18wdr2l/kcigarettes_after_sex_lyric_break_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CigarettesAfterSex/comments/18wdr2l/kcigarettes_after_sex_lyric_break_down/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>k.-cigarettes after sex lyric break down: r/CigarettesAfterSexBy cigarettes after sex the man talking realizing this girl that goes by t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: flowjournal.org  
-   Link: [https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/](https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Platformization of fandom in the post-pandemic music...by K Yoon — In this process, major K-pop companies have attracted global fans to...</p></details>
+   Link: <a href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Platformization of fandom in the post-pandemic music...by K Yoon  In this process, major K-pop companies have attracted global fans to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/](https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/)  
+   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UCDvnZ_uAzVCKe_4rqpVNrBw](https://www.youtube.com/channel/UCDvnZ_uAzVCKe_4rqpVNrBw)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KDigital Single 「winter light feat.sloppy dim」12.15 Release · K「winter light feat.sloppy dim」(Music Video） · K「winter light feat.sloppy d...</p></details>
+   Link: <a href="https://www.youtube.com/channel/UCDvnZ_uAzVCKe_4rqpVNrBw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCDvnZ_uAzVCKe_4rqpVNrBw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KDigital Single winter light feat.sloppy dim12.15 Release  Kwinter light feat.sloppy dim(Music Video  Kwinter light feat.sloppy d...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wishcrys.com  
    Title: k pop social media anti fan labour and networks of misinformation  
-   Link: [https://wishcrys.com/2019/04/11/k-pop-social-media-anti-fan-labour-and-networks-of-misinformation/](https://wishcrys.com/2019/04/11/k-pop-social-media-anti-fan-labour-and-networks-of-misinformation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>K-pop social media, (Anti-)fan labour, and Networks of (mis...Apr 11, 2019 — In this post, I present a brief overview of some of my obse...</p></details>
+   Link: <a href="https://wishcrys.com/2019/04/11/k-pop-social-media-anti-fan-labour-and-networks-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://wishcrys.com/2019/04/11/k-pop-social-media-anti-fan-labour-and-networks-of-misinformation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>K-pop social media, (Anti-)fan labour, and Networks of (mis...Apr 11, 2019  In this post, I present a brief overview of some of my obse...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: kca.go.kr  
-   Link: [https://www.kca.go.kr/eng/board/download.do?bid=00000005&did=1003533572&fno=10039277&menukey=6007](https://www.kca.go.kr/eng/board/download.do?bid=00000005&did=1003533572&fno=10039277&menukey=6007)  
+   Link: <a href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow">https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An average of 2.6 versions were offered in each album. * The albums sold by a singer (or...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=121597](https://www.scirp.org/journal/paperinformation?paperid=121597)  
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=121597" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=121597</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mentary relationship between idol [culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;), fan culture and mass media platforms...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ieomsociety.org  
-   Link: [https://ieomsociety.org/proceedings/2022istanbul/586.pdf](https://ieomsociety.org/proceedings/2022istanbul/586.pdf)  
+   Link: <a href="https://ieomsociety.org/proceedings/2022istanbul/586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ieomsociety.org/proceedings/2022istanbul/586.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Factors that Influence Indonesian K-Pop Fans Willingness...Moreover, the released K-Pop physical album consists of several versions in o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thekoreatimes/posts/k-pop-album-sales-have-entered-a-downward-trajectory-with-recent-data-showing-a-/1031335019172263/](https://www.facebook.com/thekoreatimes/posts/k-pop-album-sales-have-entered-a-downward-trajectory-with-recent-data-showing-a-/1031335019172263/)  
+   Link: <a href="https://www.facebook.com/thekoreatimes/posts/k-pop-album-sales-have-entered-a-downward-trajectory-with-recent-data-showing-a-/1031335019172263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thekoreatimes/posts/k-pop-album-sales-have-entered-a-downward-trajectory-with-recent-data-showing-a-/1031335019172263/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ntal concerns over plastic CDs and changes in fan marketing.Read more...</p></details>

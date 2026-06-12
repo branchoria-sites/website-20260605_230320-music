@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c
 - music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096
 tags:
-- music
+- music-3-a01-be
 - rhythm
 - shared-timing
 keywords:
-- music
+- music-3-a01-be
 - rhythm
 - shared-timing
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A strong beat gives crowds a shared clock, making clapping, stepping, chanting and jumping easier to coordinate without words.
 hero_summary: A strong beat gives crowds a shared clock, making clapping, stepping, chanting and jumping easier to coordinate without words.
 layout: default
 permalink: /shared-timing/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /rhythm/
 nav_short_title: Shared Timing
 title: How Dance Floors Turn Beats Into Belonging
-title_full: How Dance Floors Turn Beats Into Belonging | Rhythm
+title_full: How Dance Floors Turn Beats Into Belonging
 display_title_short: Shared Timing
 display_title: Shared Timing
 heading_title: How Dance Floors Turn Beats Into Belonging
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Rhythm Makes Music Feel Physical | Music
+parent_title: Why Rhythm Makes Music Feel Physical
 parent_permalink: /rhythm/
 parent_nav_short_title: Rhythm
 parent_heading_title: Why Rhythm Makes Music Feel Physical
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Off Beat Rhythms Make People Move
 up_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -265,7 +265,7 @@ next_link:
   permalink: /syncopation/
   short_title: Syncopation
   heading_title: Why Off Beat Rhythms Make People Move
-date: '2026-06-09 07:47:23 '
+date: '2026-06-11 23:55:14 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1.webp
@@ -274,19 +274,18 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synch
 
 ## Introduction
 
-A dance floor does more than gather people in one place. It gives them [access]({{ 'access/' | relative_url }}) to the same pulse. When a strong beat is easy to hear and predict, hundreds or even thousands of people can align claps, steps, jumps and gestures without speaking to one another. In effect, [rhythm]({{ 'rhythm/' | relative_url }}) becomes a shared clock. This is one reason music feels especially powerful in crowds: the beat does not merely organise individual movement, it organises collective movement. Research on synchrony, dance and audience behaviour suggests that moving together in time can increase feelings of connection, cooperation and belonging, helping explain why crowded dance floors often feel more unified than the same people standing still. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
-
+A dance floor does more than gather people in one place. It gives them [access]({{ 'access/' | relative_url }}) to the same pulse. When a strong beat is easy to hear and predict, hundreds or even thousands of people can align claps, steps, jumps and gestures without speaking to one another. In effect, [rhythm]({{ 'rhythm/' | relative_url }}) becomes a shared clock. This is one reason music feels especially powerful in crowds: the beat does not merely organise individual movement, it organises collective movement. Research on synchrony, dance and audience behaviour suggests that moving together in time can increase feelings of connection, cooperation and belonging, helping explain why crowded dance floors often feel more unified than the same people standing still. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1-dark.svg" | relative_url }}" alt="Shared Timing illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Beat as a Shared Clock
 
 One of rhythm's most important social functions is that it provides a common timing reference. Unlike spoken instructions, a musical pulse is continuously available to everyone in the space at once. Each listener can predict when the next beat will arrive and adjust their movements accordingly.
 
-This process is often described as entrainment: the tendency of bodily actions to align with an external rhythm. People naturally match bouncing, clapping and stepping to a musical beat, especially when the pulse is clear and regular. Studies of musical movement show that most participants can synchronise actions such as clapping and bouncing with remarkable accuracy when a salient beat is present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSA Large Sample Study of Bouncing and Clapping to Musicby P Tranchant · 2016 · Cited by 91 — Here, we evaluate naturalistic synchroniz...</span></span></span>
+This process is often described as entrainment: the tendency of bodily actions to align with an external rhythm. People naturally match bouncing, clapping and stepping to a musical beat, especially when the pulse is clear and regular. Studies of musical movement show that most participants can synchronise actions such as clapping and bouncing with remarkable accuracy when a salient beat is present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">A Large Sample Study of Bouncing and Clapping to Musicby P Tranchant · 2016 · Cited by 91 — Here, we evaluate naturalistic synchroniz...</span></span></span>
 
-The result is a practical solution to a coordination problem. A crowd does not need to negotiate timing verbally. The [music]({{ 'music/' | relative_url }}) supplies it. Whether the setting is a nightclub, festival, football terrace or concert arena, the beat allows large numbers of strangers to act as though they are following the same instruction.
+The result is a practical solution to a coordination problem. A crowd does not need to negotiate timing verbally. The music supplies it. Whether the setting is a nightclub, festival, football terrace or concert arena, the beat allows large numbers of strangers to act as though they are following the same instruction.
 
-A useful comparison comes from research on rhythmic applause. Audiences sometimes shift from scattered clapping into a unified pattern because individuals gradually adjust their timing to those around them. What begins as noise can become coordinated rhythm once enough people lock onto a common pulse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevE.61.6987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-title">Link Physics of the rhythmic applause | Phys</span><span class="citation-popover-snippet">Rev. E - APS Journalsby Z Néda · 2000 · Cited by 406 — We report on a series of measurements aimed to characterize the development and th...</span></span></span>
+A useful comparison comes from research on rhythmic applause. Audiences sometimes shift from scattered clapping into a unified pattern because individuals gradually adjust their timing to those around them. What begins as noise can become coordinated rhythm once enough people lock onto a common pulse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevE.61.6987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-title">Link Physics of the rhythmic applause &#124; Phys</span><span class="citation-popover-snippet">Rev. E - APS Journalsby Z Néda · 2000 · Cited by 406 — We report on a series of measurements aimed to characterize the development and th...</span></span></span>
 
 ## Synchrony, Effort and Social Bonding
 
@@ -294,35 +293,33 @@ Shared timing matters because humans are highly sensitive to synchrony. When peo
 
 Experimental studies have repeatedly found that synchronised movement increases feelings of affiliation and closeness. Research involving group dance has shown that synchrony and [physical]({{ 'physical/' | relative_url }}) exertion each contribute to stronger social bonding. Participants who moved together in time reported greater feelings of connection than those who did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26510676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It is hypothesized to play a role in social bonding...</span></span></span>
 
-Music makes this process easier because it provides a stable rhythmic framework. Rather than trying to coordinate directly with every individual around them, dancers coordinate with the beat, and through the beat they become coordinated with each other. Researchers reviewing music and social bonding have argued that this combination of rhythmic synchrony and shared physical activity helps create unusually strong social effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
+Music makes this process easier because it provides a stable rhythmic framework. Rather than trying to coordinate directly with every individual around them, dancers coordinate with the beat, and through the beat they become coordinated with each other. Researchers reviewing music and social bonding have argued that this combination of rhythmic synchrony and shared physical activity helps create unusually strong social effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
 
 The consequences extend beyond simple enjoyment:
 
 * People often report greater trust and affiliation after moving in synchrony.
 * Coordinated movement can increase cooperation within groups.
 * Synchronous activity may reduce perceived social distance between participants.
-* Shared movement can create a stronger sense of collective identity. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
+* Shared movement can create a stronger sense of collective identity. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
 
 These findings help explain why dancing together can feel socially meaningful even when participants never exchange names or conversations.
-
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-2-dark.svg" | relative_url }}" alt="Shared Timing illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Crowds Move Together at Concerts
 
 [Concerts]({{ 'concerts/' | relative_url }}) provide a particularly clear example of shared timing because thousands of individuals receive the same rhythmic signals simultaneously.
 
-When a crowd claps on the backbeat, jumps during a chorus or sways during a slower section, the behaviour often spreads rapidly. The beat acts as a focal point that reduces uncertainty about when movement should occur. Once a critical number of people move together, visual cues from surrounding bodies reinforce the pattern, making synchrony even easier to maintain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
+When a crowd claps on the backbeat, jumps during a chorus or sways during a slower section, the behaviour often spreads rapidly. The beat acts as a focal point that reduces uncertainty about when movement should occur. Once a critical number of people move together, visual cues from surrounding bodies reinforce the pattern, making synchrony even easier to maintain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span>
 
-Researchers studying collective music experiences have found that musical beats encourage movement synchrony and that synchrony is associated with greater interpersonal trust and affiliation. Audience studies also show that people can become synchronised physiologically and behaviourally during live performances, suggesting that shared musical experiences operate at multiple levels simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span> Nature The feeling many concertgoers describe as being <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-67455-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Physiological audience synchrony in classical concerts...by W Tschacher · 2024 · Cited by 20 — We hypothesized that the music would indu...</span></span></span>"part of the crowd" emerges from this process. Individuals remain distinct, but their actions become temporally aligned. The experience is less about copying identical movements than about sharing the same pulse.
+Researchers studying collective music experiences have found that musical beats encourage movement synchrony and that synchrony is associated with greater interpersonal trust and affiliation. Audience studies also show that people can become synchronised physiologically and behaviourally during live performances, suggesting that shared musical experiences operate at multiple levels simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span> Nature The feeling many concertgoers describe as being <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-67455-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Physiological audience synchrony in classical concerts...by W Tschacher · 2024 · Cited by 20 — We hypothesized that the music would indu...</span></span></span>"part of the crowd" emerges from this process. Individuals remain distinct, but their actions become temporally aligned. The experience is less about copying identical movements than about sharing the same pulse.
 
 ## From Coordination to Belonging
 
 Historical and anthropological studies of music and dance often point out that collective rhythmic activity appears across cultures and eras. Military marches, communal dances, religious ceremonies, celebrations and festivals all use shared timing to coordinate groups. The details differ, but the underlying principle is similar: rhythm allows many people to act together in time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/book/2078/chapter/141997401" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic16 Social Bonding Through Dance and &#x27;Musiking&#x27;This “social bonding hypothesis” of dance is described in the context of large...</span></span></span>
 
-Modern dance floors continue this pattern. A strong beat transforms individual listeners into participants in a collective event. The music provides a common temporal structure, synchrony emerges from that structure, and synchrony can strengthen perceptions of connection. Research even suggests that observers judge groups moving in perfect time as more socially bonded and cohesive than groups whose movements are misaligned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691819305098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSignals through music and dance: Perceived social bonds...by H Lee · 2020 · Cited by 46 — Completely synchronised movement...</span></span></span>
+Modern dance floors continue this pattern. A strong beat transforms individual listeners into participants in a collective event. The music provides a common temporal structure, synchrony emerges from that structure, and synchrony can strengthen perceptions of connection. Research even suggests that observers judge groups moving in perfect time as more socially bonded and cohesive than groups whose movements are misaligned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691819305098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Signals through music and dance: Perceived social bonds...by H Lee · 2020 · Cited by 46 — Completely synchronised movement...</span></span></span>
 
-This is why rhythm's influence extends beyond movement itself. On a crowded dance floor, the beat is not simply something people hear. It becomes a shared reference point that allows strangers to coordinate behaviour, experience collective energy and briefly feel part of something larger than themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dg.dk/en/new-study-from-mib-we-feel-connected-when-we-move-together-with-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dg.dk">[2dg.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dg.dk</span><span class="citation-popover-snippet">New study from MIB: We feel connected when we move...30 Jun 2020 — The results show that synchronous movements increase social closeness...</span></span></span>
-
+This is why rhythm's influence extends beyond movement itself. On a crowded dance floor, the beat is not simply something people hear. It becomes a shared reference point that allows strangers to coordinate behaviour, experience collective energy and briefly feel part of something larger than themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dg.dk/en/new-study-from-mib-we-feel-connected-when-we-move-together-with-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dg.dk">[2dg.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dg.dk</span><span class="citation-popover-snippet">New study from MIB: We feel connected when we move...30 Jun 2020 — The results show that synchronous movements increase social closeness...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-3-dark.svg" | relative_url }}" alt="Shared Timing illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -443,15 +440,15 @@ This is why rhythm's influence extends beyond movement itself. On a crowded danc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silhouette Crowd On Concert Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba654ee78690589fd834.jpg' | relative_url }}" alt="Listing image for Silhouette Crowd On Concert Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Poster Old Skool A3 Limited 90&#x27;s Hardcore House Man Cave Ecstasy Wall Art"><img src="https://i.ebayimg.com/images/g/UqgAAOSwoXZnerxk/s-l225.jpg" alt="Listing image for Rave Poster Old Skool A3 Limited 90&#x27;s Hardcore House Man Cave Ecstasy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Silhouette Crowd On Concert Framed Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rave Poster Old Skool A3 Limited 90&#x27;s Hardcore House Man Cave Ecstasy Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert crowd poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert crowd poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dance music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dance music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -459,15 +456,15 @@ This is why rhythm's influence extends beyond movement itself. On a crowded danc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Crowd Silhouettes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/69421e5b3177e29b03a6.jpg' | relative_url }}" alt="Listing image for Concert Crowd Silhouettes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 Paul Van Dyk PVD EDM DJ Club Electronic Dance Music Wall Art Poster"><img src="https://i.ebayimg.com/images/g/l3cAAeSwHapplxC-/s-l225.jpg" alt="Listing image for Large A0 A1 Paul Van Dyk PVD EDM DJ Club Electronic Dance Music Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Concert Crowd Silhouettes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 Paul Van Dyk PVD EDM DJ Club Electronic Dance Music Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert crowd poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert crowd poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dance music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dance music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -475,15 +472,15 @@ This is why rhythm's influence extends beyond movement itself. On a crowded danc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Crowd with Guitarist on Sta Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/513352b591b0fc90415b.jpg' | relative_url }}" alt="Listing image for Concert Crowd with Guitarist on Sta Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Concert Gig Poster - DANCE CRAZE - A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/ogUAAOSw66hju~If/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Concert Gig Poster - DANCE CRAZE - A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Concert Crowd with Guitarist on Sta Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Concert Gig Poster - DANCE CRAZE - A4,A3,A2,A1,A0</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert crowd poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert crowd poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dance music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dance music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +488,15 @@ This is why rhythm's influence extends beyond movement itself. On a crowded danc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crowd Of People At Concert Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c564e57883a91241a72b.jpg' | relative_url }}" alt="Listing image for Crowd Of People At Concert Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Hall Poster Vintage Reproduction ?Big Boot Dance Victorian Music Hall"><img src="https://i.ebayimg.com/images/g/hhQAAeSwxApp32qQ/s-l225.jpg" alt="Listing image for Music Hall Poster Vintage Reproduction ?Big Boot Dance Victorian Music Hall" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Crowd Of People At Concert Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer">Music Hall Poster Vintage Reproduction ?Big Boot Dance Victorian Music Hall</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert crowd poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert crowd poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dance music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dance music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,7 +504,7 @@ This is why rhythm's influence extends beyond movement itself. On a crowded danc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+crowd+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert crowd poster -book -books" data-ebay-reference="shared-timing-how-dance-floors-turn-beats-into-belonging-music-concert-crowd-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dance+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-floors-turn-beats-into-belonging-dance-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dance music poster" data-ebay-reference="how-dance-floors-turn-beats-into-belonging-dance-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -722,140 +719,140 @@ This is why rhythm's influence extends beyond movement itself. On a crowded danc
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCollective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8107509/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collective music listening: Movement energy is enhanced by...by D Dotov · 2021 · Cited by 84 — The regularity of musical beat makes i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160178](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160178)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSA Large Sample Study of Bouncing and Clapping to Musicby P Tranchant · 2016 · Cited by 91 — Here, we evaluate naturalistic synchroniz...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160178" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160178</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Large Sample Study of Bouncing and Clapping to Musicby P Tranchant · 2016 · Cited by 91 — Here, we evaluate naturalistic synchroniz...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.aps.org  
    Title: Link Physics of the rhythmic applause | Phys  
-   Link: [https://link.aps.org/doi/10.1103/PhysRevE.61.6987](https://link.aps.org/doi/10.1103/PhysRevE.61.6987)  
+   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevE.61.6987" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevE.61.6987</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rev. E - APS Journalsby Z Néda · 2000 · Cited by 406 — We report on a series of measurements aimed to characterize the development and th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMusic and social bonding: “self-other” merging  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4179700/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4179700/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby B Tarr · 2014 · Cited by 812 — In this paper we review evidence supporting two thus far independently investigated mechanisms...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4179700/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby B Tarr · 2014 · Cited by 812 — In this paper we review evidence supporting two thus far independently investigated mechanisms...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/book/2078/chapter/141997401](https://academic.oup.com/book/2078/chapter/141997401)  
+   Link: <a href="https://academic.oup.com/book/2078/chapter/141997401" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/2078/chapter/141997401</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic16 Social Bonding Through Dance and &#x27;Musiking&#x27;This “social bonding hypothesis” of dance is described in the context of large...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3737148/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3737148/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3737148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3737148/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govLet&#x27;s Dance Together: Synchrony, Shared Intentionality and...by P Reddish · 2013 · Cited by 653 — Previous research has shown tha...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4882973/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4882973/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMovement Synchrony Forges Social Bonds across Group...by B Tunçgenç · 2016 · Cited by 207 — The current study explores the idea that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4882973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4882973/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Movement Synchrony Forges Social Bonds across Group...by B Tunçgenç · 2016 · Cited by 207 — The current study explores the idea that...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12394413/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12394413/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12394413/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12394413/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To approach and test...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-67455-2](https://www.nature.com/articles/s41598-024-67455-2)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-67455-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-67455-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts...by W Tschacher · 2024 · Cited by 20 — We hypothesized that the music would indu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691819305098](https://www.sciencedirect.com/science/article/pii/S0001691819305098)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSignals through music and dance: Perceived social bonds...by H Lee · 2020 · Cited by 46 — Completely synchronised movement...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691819305098" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691819305098</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signals through music and dance: Perceived social bonds...by H Lee · 2020 · Cited by 46 — Completely synchronised movement...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dg.dk  
-   Link: [https://dg.dk/en/new-study-from-mib-we-feel-connected-when-we-move-together-with-music/](https://dg.dk/en/new-study-from-mib-we-feel-connected-when-we-move-together-with-music/)  
+   Link: <a href="https://dg.dk/en/new-study-from-mib-we-feel-connected-when-we-move-together-with-music/" target="_blank" rel="noopener noreferrer nofollow">https://dg.dk/en/new-study-from-mib-we-feel-connected-when-we-move-together-with-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New study from MIB: We feel connected when we move...30 Jun 2020 — The results show that synchronous movements increase social closeness...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-73438-0](https://www.nature.com/articles/s41598-024-73438-0)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-73438-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-73438-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Movement synchrony among dance performers predicts...by G Orgs · 2024 · Cited by 18 — Evolutionary biology argues that dance and music h...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/book/56186/chapter/443057696](https://academic.oup.com/book/56186/chapter/443057696)  
+   Link: <a href="https://academic.oup.com/book/56186/chapter/443057696" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/56186/chapter/443057696</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.com18 The &#x27;Synchrony Effect&#x27; in Dance: How Rhythmic Scaffolding...21 Mar 2024 — This chapter summarizes three studies investigating...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26510676/](https://pubmed.ncbi.nlm.nih.gov/26510676/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26510676/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26510676/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is hypothesized to play a role in social bonding...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25773621/](https://pubmed.ncbi.nlm.nih.gov/25773621/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25773621/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25773621/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strategies for the entrainment of music and...by B Moens · 2015 · Cited by 53 — In this study, we show that mediators can be built that...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: journals.ed.ac.uk  
-   Link: [https://journals.ed.ac.uk/CIM22-Proceedings/article/download/7676/9616/25802](https://journals.ed.ac.uk/CIM22-Proceedings/article/download/7676/9616/25802)  
+   Link: <a href="https://journals.ed.ac.uk/CIM22-Proceedings/article/download/7676/9616/25802" target="_blank" rel="noopener noreferrer nofollow">https://journals.ed.ac.uk/CIM22-Proceedings/article/download/7676/9616/25802</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of audience members clapping at the end of a...To describe how the appreciative audience members adjust their clapping to each other and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: themusicscientist.com  
-   Link: [https://www.themusicscientist.com/how-rhythm-synchrony-boosts-social-bonding-in-toddlers-the-science-behind-musical-connection/](https://www.themusicscientist.com/how-rhythm-synchrony-boosts-social-bonding-in-toddlers-the-science-behind-musical-connection/)  
+   Link: <a href="https://www.themusicscientist.com/how-rhythm-synchrony-boosts-social-bonding-in-toddlers-the-science-behind-musical-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.themusicscientist.com/how-rhythm-synchrony-boosts-social-bonding-in-toddlers-the-science-behind-musical-connection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Rhythm Synchrony Boosts Social Bonding in Toddlers5 Feb 2026 — Research consistently demonstrates that when toddlers move, clap, or m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: harmonymusictherapy.com  
    Title: social synchrony music as a tool for building connection and social skills  
-   Link: [https://harmonymusictherapy.com/social-synchrony-music-as-a-tool-for-building-connection-and-social-skills/](https://harmonymusictherapy.com/social-synchrony-music-as-a-tool-for-building-connection-and-social-skills/)  
+   Link: <a href="https://harmonymusictherapy.com/social-synchrony-music-as-a-tool-for-building-connection-and-social-skills/" target="_blank" rel="noopener noreferrer nofollow">https://harmonymusictherapy.com/social-synchrony-music-as-a-tool-for-building-connection-and-social-skills/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Synchrony: Music as a Tool for Building Connection...30 May 2025 — This article defines social synchrony, explores how music prom...</p></details>
    Published: May 2025  
 
 19. <a id="endnote-19"></a>
    Source: scientificamerican.com  
    Title: moving in sync creates surprising social bonds among people  
-   Link: [https://www.scientificamerican.com/article/moving-in-sync-creates-surprising-social-bonds-among-people/](https://www.scientificamerican.com/article/moving-in-sync-creates-surprising-social-bonds-among-people/)  
+   Link: <a href="https://www.scientificamerican.com/article/moving-in-sync-creates-surprising-social-bonds-among-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/moving-in-sync-creates-surprising-social-bonds-among-people/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving in Sync Creates Surprising Social Bonds among...1 Oct 2020 — Research shows that doing things synchronously can build even strong...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 315703111 Social Bonding Through Dance and 'Musiking'  
-   Link: [https://www.researchgate.net/publication/315703111_Social_Bonding_Through_Dance_and_%27Musiking%27](https://www.researchgate.net/publication/315703111_Social_Bonding_Through_Dance_and_%27Musiking%27)  
+   Link: <a href="https://www.researchgate.net/publication/315703111_Social_Bonding_Through_Dance_and_%27Musiking%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315703111_Social_Bonding_Through_Dance_and_%27Musiking%27</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social Bonding Through Dance and &#x27;Musiking&#x27;4 May 2020 — Synchronizing with music through dance has been shown to promote inter-brai...</p></details>
    Published: May 2020  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 370489452 Rhythmic Entrainment and Embodied Cognition  
-   Link: [https://www.researchgate.net/publication/370489452_Rhythmic_Entrainment_and_Embodied_Cognition](https://www.researchgate.net/publication/370489452_Rhythmic_Entrainment_and_Embodied_Cognition)  
+   Link: <a href="https://www.researchgate.net/publication/370489452_Rhythmic_Entrainment_and_Embodied_Cognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370489452_Rhythmic_Entrainment_and_Embodied_Cognition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rhythmic Entrainment and Embodied Cognition3 May 2023 — This interaction enables the body to synchronize its movements with rhythmi...</p></details>
    Published: May 2023  
 
 22. <a id="endnote-22"></a>
    Source: royalsocietypublishing.org  
    Title: Synchrony and exertion during dance independently  
-   Link: [https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently](https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently)  
+   Link: <a href="https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>raise...31 Oct 2015 — This study aimed to elucidate the roles of synchrony and exertion on perceived social bonding and pain threshold f...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uio.no  
    Title: University of Oslo Being in Concert  
-   Link: [https://www.uio.no/ritmo/english/projects/entrainment-social-bonding-pleasure/being-in-concert/](https://www.uio.no/ritmo/english/projects/entrainment-social-bonding-pleasure/being-in-concert/)  
+   Link: <a href="https://www.uio.no/ritmo/english/projects/entrainment-social-bonding-pleasure/being-in-concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.uio.no/ritmo/english/projects/entrainment-social-bonding-pleasure/being-in-concert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of OsloBeing in Concert - RITMO Centre for Interdisciplinary...21 Mar 2024 — The &#x27;Being in Concert&#x27; project examined how audi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ora.ox.ac.uk  
    Title: Prior research has also found  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3Ae975c96d-0f59-49f0-a05f-7edc9236627b/files/s37720f150](https://ora.ox.ac.uk/objects/uuid%3Ae975c96d-0f59-49f0-a05f-7edc9236627b/files/s37720f150)  
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Ae975c96d-0f59-49f0-a05f-7edc9236627b/files/s37720f150" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Ae975c96d-0f59-49f0-a05f-7edc9236627b/files/s37720f150</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Social Interaction Using a Silent Disco Paradigmby JS Bamford · 2023 · Cited by 25 — Music and dance appear to have a social bonding...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: jps.ecnu.edu.cn  
    Title: j.cnki.1671 6981.20250112  
-   Link: [https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112](https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112)  
+   Link: <a href="https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112" target="_blank" rel="noopener noreferrer nofollow">https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanism of Music Interpersonal Synchronous Activity...by Y Zhe · 2025 — The study found that interpersonal synchronous activity under...</p></details>

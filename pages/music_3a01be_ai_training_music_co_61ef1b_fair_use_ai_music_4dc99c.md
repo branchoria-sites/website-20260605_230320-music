@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c
 - music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e
 tags:
-- music
+- music-3-a01-be
 - ai-training
 - fair-use
 keywords:
-- music
+- music-3-a01-be
 - ai-training
 - fair-use
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Fair use is the main legal defence for unlicensed training, but music makes the market-harm question especially difficult.
 hero_summary: Fair use is the main legal defence for unlicensed training, but music makes the market-harm question especially difficult.
 layout: default
 permalink: /fair-use/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-training/
 nav_short_title: Fair Use
 title: Can AI music training be fair use?
-title_full: Can AI music training be fair use? | AI Training
+title_full: Can AI music training be fair use?
 display_title_short: Fair Use
 display_title: Fair Use
 heading_title: Can AI music training be fair use?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Learn From Copyrighted Music? | Music
+parent_title: Can AI Learn From Copyrighted Music?
 parent_permalink: /ai-training/
 parent_nav_short_title: AI Training
 parent_heading_title: Can AI Learn From Copyrighted Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When AI sounds too much like an artist
 up_link:
   basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -259,7 +259,7 @@ next_link:
   permalink: /licensing/
   short_title: Licensing
   heading_title: Who gets paid when AI trains on songs?
-date: '2026-06-09 06:38:28 '
+date: '2026-06-11 23:20:30 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1.webp
@@ -268,12 +268,10 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music
 
 ## Introduction
 
-Whether AI [music]({{ 'music/' | relative_url }}) training can qualify as fair use is one of the central legal questions in the copyright disputes surrounding generative music systems. In the United States, fair use allows some unlicensed uses of copyrighted works, but it is not a blanket exemption. Courts weigh several factors, including the purpose of the use, the amount copied, and the effect on existing or potential markets. For AI developers, fair use is the primary defence for training on copyrighted music without licences. For record labels, publishers and musicians, the same doctrine is where the strongest objections arise because AI-generated music may compete directly with the works used to train the systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
-
+Whether AI music training can qualify as fair use is one of the central legal questions in the copyright disputes surrounding generative music systems. In the United States, fair use allows some unlicensed uses of copyrighted works, but it is not a blanket exemption. Courts weigh several factors, including the purpose of the use, the amount copied, and the effect on existing or potential markets. For AI developers, fair use is the primary defence for training on copyrighted music without licences. For record labels, publishers and musicians, the same doctrine is where the strongest objections arise because AI-generated music may compete directly with the works used to train the systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1-dark.svg" | relative_url }}" alt="Fair Use illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate is especially difficult in music because the output of a music model can occupy the same commercial space as songs, recordings and performances created by human artists. As a result, even if training is viewed as technologically innovative, courts may still ask whether it undermines established or emerging [licensing]({{ 'licensing/' | relative_url }}) markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/noQsr86XmLE" title="AI Music in Court: Latest on Suno, Udio, and the Record Label Lawsuits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=noQsr86XmLE" target="_blank" rel="noopener noreferrer">AI Music in Court: Latest on Suno, Udio, and the Record Label Lawsuits</a></p><p class="youtube-embed-meta">Channel: YoPaulie Music | Tech • Truth • Commentary &middot; Views: 343 &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=noQsr86XmLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=noQsr86XmLE">Open on YouTube</a></p></div></div></div>
 
@@ -284,7 +282,6 @@ The strongest fair use argument for AI companies is that training serves a diffe
 This argument draws heavily on earlier fair use cases involving large-scale copying for computational purposes. Courts found fair use in cases such as *Authors Guild v. Google*, where Google copied entire books to create a searchable index. The reasoning was that the copying enabled a new function that did not replace the market for the books themselves. The court described the search function as transformative because it generated information about the books rather than providing the books as substitutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Transformative_use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Transformative use</span><span class="citation-popover-snippet">Transformative use</span></span></span>
 
 AI developers attempt to place music training in a similar category. Their position generally rests on several claims:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -299,7 +296,6 @@ Companies such as [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) have ex
 
 The transformative-use argument has gained some support in broader AI litigation. In discussions of recent AI cases, courts and commentators have pointed to situations where converting works into machine-readable form for analysis was viewed as highly transformative and did not directly substitute for the originals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.farrer.co.uk/news-and-insights/genai-and-copyright-three-key-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: farrer.co.uk">[Farrer &amp; Co.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">farrer.co.uk</span><span class="citation-popover-title">genai and copyright three key cases</span><span class="citation-popover-snippet">Farrer &amp; Co.GenAI and copyright: three key cases9 Jul 2025 — The Court drew analogies to previous fair use rulings such as Authors Guild...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hy8Or6af98c" title="The AI lawsuit that&#x27;s shaking the music world (Suno &amp; Udio vs. the record labels)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hy8Or6af98c" target="_blank" rel="noopener noreferrer">The AI lawsuit that&#x27;s shaking the music world (Suno &amp; Udio vs. the record labels)</a></p><p class="youtube-embed-meta">Channel: David Das &middot; Views: 14.5K &middot; Uploaded: June 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hy8Or6af98c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hy8Or6af98c">Open on YouTube</a></p></div></div></div>
 
 ## Why rightsholders focus on market harm
@@ -308,26 +304,24 @@ Even if training is considered transformative, fair use analysis does not end th
 
 Record labels and publishers argue that AI music systems are not merely analysing music. They are using copyrighted recordings to build products capable of generating commercially valuable music that may compete with the original market. From this perspective, the training process extracts economic value from recordings without compensation and then deploys that value in a rival product. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an artis...</span></span></span>
 
-The lawsuits against Suno and Udio illustrate this concern. Major labels allege that the companies copied copyrighted recordings on a massive scale and used them to develop services that can generate music resembling existing artists and songs. The labels argue that such systems could flood the market with low-cost alternatives and reduce demand for human-created recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">music labels ai lawsuits create new copyright puzzle us courts 2024 08 03</span><span class="citation-popover-snippet">ReutersMusic labels&#x27; AI lawsuits create copyright puzzle for courts5 Aug 2024 — But the new lawsuits say Suno and Udio can be prompted to...</span></span></span>
+The lawsuits against Suno and Udio illustrate this concern. Major labels allege that the companies copied copyrighted recordings on a massive scale and used them to develop services that can generate music resembling existing artists and songs. The labels argue that such systems could flood the market with low-cost alternatives and reduce demand for human-created recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">music labels ai lawsuits create new copyright puzzle us courts 2024 08 03</span><span class="citation-popover-snippet">Music labels&#x27; AI lawsuits create copyright puzzle for courts5 Aug 2024 — But the new lawsuits say Suno and Udio can be prompted to...</span></span></span>
 
 The market-harm argument has expanded beyond direct substitution. Rightsholders increasingly point to the emergence of licensing markets for [AI training]({{ 'ai-training/' | relative_url }}) itself. If copyright owners are willing to license recordings for model training, then unlicensed use may interfere with a legitimate market that copyright law would ordinarily protect. The U.S. Copyright Office has emphasised that existing or developing licensing markets can be relevant to fair use analysis even when they are relatively new. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
 
 This creates a difficult question for courts. If a licensing market exists or could reasonably develop, then allowing widespread unlicensed training may weaken the economic incentives that copyright is designed to provide. That concern weighs against a finding of fair use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-2-dark.svg" | relative_url }}" alt="Fair Use illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why courts may treat music differently
 
 Music presents challenges that do not appear as clearly in some other AI copyright disputes.
 
-First, music models produce outputs that are often consumed for the same reasons as the underlying works. A search engine that indexes books performs a different function from reading a novel. By contrast, an AI-generated song may compete for the same listeners, [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}), advertising placements or [background]({{ 'background/' | relative_url }})-music opportunities as human-created recordings. This makes the substitution question more immediate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ReutersReuters is a news agency wholly owned by Thomson Reuters, a multinational information conglomerate. It employs around 2,500 jou...</span></span></span>
+First, music models produce outputs that are often consumed for the same reasons as the underlying works. A search engine that indexes books performs a different function from reading a novel. By contrast, an AI-generated song may compete for the same listeners, streaming revenue, advertising placements or [background]({{ 'background/' | relative_url }})-music opportunities as human-created recordings. This makes the substitution question more immediate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ReutersReuters is a news agency wholly owned by Thomson Reuters, a multinational information conglomerate. It employs around 2,500 jou...</span></span></span>
 
-Second, music is particularly sensitive to imitation. Record-label complaints against AI music generators have highlighted examples where generated tracks allegedly reproduced recognisable musical characteristics or imitated famous performers. Even when an output does not copy a complete recording, it may capture stylistic elements that audiences associate with specific artists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">ai copyright battles enter pivotal year us courts weigh fair use 2026 01 05</span><span class="citation-popover-snippet">AI copyright battles enter pivotal year as US courts weigh...5 Jan 2026 — Warner Music also settled its lawsuits against AI music makers...</span></span></span>
+Second, music is particularly sensitive to imitation. Record-label complaints against AI music generators have highlighted examples where generated tracks allegedly reproduced recognisable musical characteristics or imitated famous performers. Even when an output does not copy a complete [recording]({{ 'recording/' | relative_url }}), it may capture stylistic elements that audiences associate with specific artists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">ai copyright battles enter pivotal year us courts weigh fair use 2026 01 05</span><span class="citation-popover-snippet">AI copyright battles enter pivotal year as US courts weigh...5 Jan 2026 — Warner Music also settled its lawsuits against AI music makers...</span></span></span>
 
-Third, music contains multiple overlapping rights. A single track may involve copyright in the sound recording, the musical composition and the lyrics. Because training can implicate all of these layers simultaneously, the commercial consequences of unlicensed use may be broader than in some other media sectors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
+Third, music contains multiple overlapping rights. A single track may involve copyright in the sound recording, the musical composition and the [lyrics]({{ 'lyrics/' | relative_url }}). Because training can implicate all of these layers simultaneously, the commercial consequences of unlicensed use may be broader than in some other media sectors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
 
 Finally, courts may pay attention to evidence of memorisation and reproduction. Fair use arguments are stronger when a model merely learns patterns. They become weaker if plaintiffs can show that the system retains and reproduces substantial portions of copyrighted works. Researchers examining AI memorisation have argued that the legal significance may depend on whether models effectively contain reconstructable copies of training material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.03720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WgXjq3LOQhA" title="Music labels&#x27; AI lawsuits create new US copyright puzzle | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WgXjq3LOQhA" target="_blank" rel="noopener noreferrer">Music labels&#x27; AI lawsuits create new US copyright puzzle | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 2.2K &middot; Uploaded: August 2024 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WgXjq3LOQhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WgXjq3LOQhA">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +334,6 @@ Developers emphasise transformation, technological progress and comparisons to e
 The U.S. Copyright Office's recent analysis reflects this tension. It rejects the idea that AI training is automatically fair use while also recognising that some training activities may be more transformative than others. The outcome depends heavily on context, including the nature of the training process, the resulting outputs and the effect on copyright markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. Copyright Office
 
 For music, the decisive issue may ultimately be whether courts see generative systems as tools that learn from culture in the same way humans do, or as commercial products that derive value from copyrighted catalogues while competing against them. The answer to that question is likely to shape not only the future of AI music generators but also the broader relationship between copyright law and generative AI. Gilbert Tobin <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/StableDiffusion/comments/1kkj7wr/us_copyright_office_set_to_declare_ai_training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This is a &quot;pre-publication&quot; version has confused a few copyright law experts. It...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-3-dark.svg" | relative_url }}" alt="Fair Use illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -740,168 +733,168 @@ For music, the decisive issue may ultimately be whether courts see generative sy
 
 1. <a id="endnote-1"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficePart 3: Generative AI Training (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyri...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: Music AI startups Suno and Udio slam record label lawsuits in court filings  
-   Link: [https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/](https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.03720](https://arxiv.org/abs/2305.03720)  
+   Link: <a href="https://arxiv.org/abs/2305.03720" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.03720</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Transformative use  
-   Link: [https://en.wikipedia.org/wiki/Transformative_use](https://en.wikipedia.org/wiki/Transformative_use)  
+   Link: <a href="https://en.wikipedia.org/wiki/Transformative_use" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transformative_use</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: Music labels sue AI companies Suno, Udio for US copyright infringement  
-   Link: [https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/](https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/)  
+   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/](https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/)  
+   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an artis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: music labels ai lawsuits create new copyright puzzle us courts 2024 08 03  
-   Link: [https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/](https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersMusic labels&#x27; AI lawsuits create copyright puzzle for courts5 Aug 2024 — But the new lawsuits say Suno and Udio can be prompted to...</p></details>
+   Link: <a href="https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music labels&#x27; AI lawsuits create copyright puzzle for courts5 Aug 2024 — But the new lawsuits say Suno and Udio can be prompted to...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.12590](https://arxiv.org/abs/2404.12590)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Files are in the Computer: Copyright, Memorization, and Generative AIApril 19, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.12590" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.12590</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Files are in the Computer: Copyright, Memorization, and Generative AIApril 19, 2024...</p></details>
    Published: April 19, 2024  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Generative AI Training and Copyright Law  
-   Link: [https://arxiv.org/abs/2502.15858](https://arxiv.org/abs/2502.15858)  
+   Link: <a href="https://arxiv.org/abs/2502.15858" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.15858</a>  
 
 10. <a id="endnote-10"></a>
    Source: suno.com  
-   Link: [https://suno.com/](https://suno.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno | AI Music GeneratorCreate stunning original music for free in seconds using our AI generator. Make your own masterpieces, share wit...</p></details>
+   Link: <a href="https://suno.com/" target="_blank" rel="noopener noreferrer nofollow">https://suno.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music GeneratorCreate stunning original music for free in seconds using our AI generator. Make your own masterpieces, share wit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Reuters](https://en.wikipedia.org/wiki/Reuters)  
+   Link: <a href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reuters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters is a news agency wholly owned by Thomson Reuters, a multinational information conglomerate. It employs around 2,500 jou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of best selling fiction authors  
-   Link: [https://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors](https://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of best-selling fiction authorsThis is a list of best-selling fiction authors to date, in any language. While finding precise sal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Authors Guild, Inc. v. Google, Inc  
-   Link: [https://en.wikipedia.org/wiki/Authors_Guild%2C_Inc._v._Google%2C_Inc](https://en.wikipedia.org/wiki/Authors_Guild%2C_Inc._v._Google%2C_Inc)  
+   Link: <a href="https://en.wikipedia.org/wiki/Authors_Guild%2C_Inc._v._Google%2C_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Authors_Guild%2C_Inc._v._Google%2C_Inc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors Guild, Inc. v. Google, Inc.It concerned fair use in copyright law and the transformation of printed copyrighted books into an...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/](https://www.copyright.gov/ai/)  
+   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright and Artificial Intelligence | U.S. Copyright OfficeCopyright and Artificial Intelligence analyzes copyright law and policy issu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office addresses the legal and policy issues related to artificial intelligence (“AI”) and copyright, as...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
    Title: ai copyright battles enter pivotal year us courts weigh fair use 2026 01 05  
-   Link: [https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/](https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/)  
+   Link: <a href="https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/government/ai-copyright-battles-enter-pivotal-year-us-courts-weigh-fair-use-2026-01-05/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI copyright battles enter pivotal year as US courts weigh...5 Jan 2026 — Warner Music also settled its lawsuits against AI music makers...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/](https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Law in 2025: Courts begin to draw lines around...Mar 16, 2026 — The defendants have raised fair use ⁠defenses, with Suno argui...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reuters.com  
    Title: Udio are still ongoing, as are all three labels' cases against Suno.Read more  
-   Link: [https://www.reuters.com/business/media-telecom/universal-music-settles-copyright-dispute-with-ai-firm-udio-2025-10-30/](https://www.reuters.com/business/media-telecom/universal-music-settles-copyright-dispute-with-ai-firm-udio-2025-10-30/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/universal-music-settles-copyright-dispute-with-ai-firm-udio-2025-10-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/universal-music-settles-copyright-dispute-with-ai-firm-udio-2025-10-30/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Music settles copyright dispute with AI firm Udio29 Oct 2025 — In 2024, major record labels Sony Music, Universal Music Group and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reuters.com  
    Title: warner music group settles copyright case with suno licensed ai music 2025 11 25  
-   Link: [https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/](https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>copyright law, and they...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)  
+   Link: <a href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: farrer.co.uk  
    Title: genai and copyright three key cases  
-   Link: [https://www.farrer.co.uk/news-and-insights/genai-and-copyright-three-key-cases/](https://www.farrer.co.uk/news-and-insights/genai-and-copyright-three-key-cases/)  
+   Link: <a href="https://www.farrer.co.uk/news-and-insights/genai-and-copyright-three-key-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.farrer.co.uk/news-and-insights/genai-and-copyright-three-key-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Farrer &amp; Co.GenAI and copyright: three key cases9 Jul 2025 — The Court drew analogies to previous fair use rulings such as Authors Guild...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: skadden.com  
    Title: copyright office report  
-   Link: [https://www.skadden.com/insights/publications/2025/05/copyright-office-report](https://www.skadden.com/insights/publications/2025/05/copyright-office-report)  
+   Link: <a href="https://www.skadden.com/insights/publications/2025/05/copyright-office-report" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/05/copyright-office-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office released a report on whether the use of copyrighted materials to train generative AI systems is fair use...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StableDiffusion/comments/1kkj7wr/us_copyright_office_set_to_declare_ai_training/](https://www.reddit.com/r/StableDiffusion/comments/1kkj7wr/us_copyright_office_set_to_declare_ai_training/)  
+   Link: <a href="https://www.reddit.com/r/StableDiffusion/comments/1kkj7wr/us_copyright_office_set_to_declare_ai_training/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StableDiffusion/comments/1kkj7wr/us_copyright_office_set_to_declare_ai_training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a &quot;pre-publication&quot; version has confused a few copyright law experts. It...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reutersconnect.com  
    Title: Licensable picture: China: Azaleas Rainy Scenery  
-   Link: [https://www.reutersconnect.com/item/china-azaleas-rainy-scenery/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQTdVMTc](https://www.reutersconnect.com/item/china-azaleas-rainy-scenery/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQTdVMTc)  
+   Link: <a href="https://www.reutersconnect.com/item/china-azaleas-rainy-scenery/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQTdVMTc" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/china-azaleas-rainy-scenery/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQTdVMTc</a>  
 
 25. <a id="endnote-25"></a>
    Source: jonesday.com  
    Title: us copyright office issues guidance on generative ai training  
-   Link: [https://www.jonesday.com/en/insights/2025/05/us-copyright-office-issues-guidance-on-generative-ai-training](https://www.jonesday.com/en/insights/2025/05/us-copyright-office-issues-guidance-on-generative-ai-training)  
+   Link: <a href="https://www.jonesday.com/en/insights/2025/05/us-copyright-office-issues-guidance-on-generative-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2025/05/us-copyright-office-issues-guidance-on-generative-ai-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Issues Guidance on Generative AI...The report describes the technical process of AI training, concludes that using copy...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
    Title: Reuters executive Simon Robinson to replace Justin Stevens as ABC news director  
-   Link: [https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director](https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director)  
+   Link: <a href="https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director</a>  
 
 27. <a id="endnote-27"></a>
    Source: mishcon.com  
    Title: us copyright office report part 3 generative ai training  
-   Link: [https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training](https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training)  
+   Link: <a href="https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office Report Part 3: Generative AI training13 Jun 2025 — The report clarifies that creating and deploying a generative AI s...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: chatgptiseatingtheworld.com  
-   Link: [https://chatgptiseatingtheworld.com/2025/05/10/us-copyright-issues-pre-publication-version-of-3rd-report-on-ai-training-and-fair-use-ai-training-is-transformative-but-degree-depends-on-how-ai-functions-supports-new-market-dilution-theory-of-ha/](https://chatgptiseatingtheworld.com/2025/05/10/us-copyright-issues-pre-publication-version-of-3rd-report-on-ai-training-and-fair-use-ai-training-is-transformative-but-degree-depends-on-how-ai-functions-supports-new-market-dilution-theory-of-ha/)  
+   Link: <a href="https://chatgptiseatingtheworld.com/2025/05/10/us-copyright-issues-pre-publication-version-of-3rd-report-on-ai-training-and-fair-use-ai-training-is-transformative-but-degree-depends-on-how-ai-functions-supports-new-market-dilution-theory-of-ha/" target="_blank" rel="noopener noreferrer nofollow">https://chatgptiseatingtheworld.com/2025/05/10/us-copyright-issues-pre-publication-version-of-3rd-report-on-ai-training-and-fair-use-ai-training-is-transformative-but-degree-depends-on-how-ai-functions-supports-new-market-dilution-theory-of-ha/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office issues pre-publication version of 3rd...May 10, 2025 — The US Copyright Office issued its long-awaited report on AI...</p></details>
    Published: May 10, 2025  
 
 29. <a id="endnote-29"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/](https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/)  
+   Link: <a href="https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office report on whether AI training is fair use...12 May 2025 — The US Copyright Office has published its report on whethe...</p></details>
    Published: May 2025  
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ryanpaulsmith78_us-copyright-office-may-2025-report-on-ai-activity-7328080681442467840-H6xy](https://www.linkedin.com/posts/ryanpaulsmith78_us-copyright-office-may-2025-report-on-ai-activity-7328080681442467840-H6xy)  
+   Link: <a href="https://www.linkedin.com/posts/ryanpaulsmith78_us-copyright-office-may-2025-report-on-ai-activity-7328080681442467840-H6xy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ryanpaulsmith78_us-copyright-office-may-2025-report-on-ai-activity-7328080681442467840-H6xy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Copyright Office report on AI training: what you need...13 May 2025 — The U.S. Copyright Office&#x27;s May 2025 report on Generative AI...</p></details>
    Published: may 2025  
 
@@ -909,50 +902,50 @@ For music, the decisive issue may ultimately be whether courts see generative sy
 
 31. <a id="endnote-31"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/books/list/authorsaz](https://www.theguardian.com/books/list/authorsaz)  
+   Link: <a href="https://www.theguardian.com/books/list/authorsaz" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/list/authorsaz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors A-Z | BooksA · Chinua Achebe · Peter Ackroyd · Douglas Adams · Chimamanda Ngozi Adichie · Aaron Akinyemi · Alexandra Harris · Mon...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music](https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music)  
+   Link: <a href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/list/ls005774742/](https://www.imdb.com/list/ls005774742/)  
+   Link: <a href="https://www.imdb.com/list/ls005774742/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls005774742/</a>  
 
 34. <a id="endnote-34"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/](https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/)  
+   Link: <a href="https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno doesn&#x27;t understand copyright law and is wrong about...22 Oct 2025 — As far as the music industry is concerned, Suno is liable for c...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/using-copyrighted-content-to-train-ai-without-permission-is-not-fair-use-us-court-rules-in-precedent-setting-thomson-reuters-case/](https://www.musicbusinessworldwide.com/using-copyrighted-content-to-train-ai-without-permission-is-not-fair-use-us-court-rules-in-precedent-setting-thomson-reuters-case/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/using-copyrighted-content-to-train-ai-without-permission-is-not-fair-use-us-court-rules-in-precedent-setting-thomson-reuters-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/using-copyrighted-content-to-train-ai-without-permission-is-not-fair-use-us-court-rules-in-precedent-setting-thomson-reuters-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using copyrighted content to train AI without permission is...12 Feb 2025 — A US court has ruled on whether using copyrighted material w...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CentralOregonDaily/posts/ai-music-platforms-suno-and-udio-were-sued-by-major-record-labels-in-2024-for-al/1583812987084076/](https://www.facebook.com/CentralOregonDaily/posts/ai-music-platforms-suno-and-udio-were-sued-by-major-record-labels-in-2024-for-al/1583812987084076/)  
+   Link: <a href="https://www.facebook.com/CentralOregonDaily/posts/ai-music-platforms-suno-and-udio-were-sued-by-major-record-labels-in-2024-for-al/1583812987084076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CentralOregonDaily/posts/ai-music-platforms-suno-and-udio-were-sued-by-major-record-labels-in-2024-for-al/1583812987084076/</a>  
 
 37. <a id="endnote-37"></a>
    Source: wiley.law  
    Title: alert Copyright Office Issues Key Guidance on Fair Use in Generative AI Training  
-   Link: [https://www.wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training](https://www.wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training)  
+   Link: <a href="https://www.wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Issues Key Guidance on Fair Use in...16 May 2025 — The Report provides a thorough technical and legal overview and take...</p></details>
    Published: May 2025  
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
    Title: ai training copyright courts legal battleground over use beau epperly ggkuf  
-   Link: [https://www.linkedin.com/pulse/ai-training-copyright-courts-legal-battleground-over-use-beau-epperly-ggkuf](https://www.linkedin.com/pulse/ai-training-copyright-courts-legal-battleground-over-use-beau-epperly-ggkuf)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-training-copyright-courts-legal-battleground-over-use-beau-epperly-ggkuf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-training-copyright-courts-legal-battleground-over-use-beau-epperly-ggkuf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Training, Copyright, and the Courts: A Legal...While the ROSS and Stability AI cases reject AI training as fair use, courts took a di...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: bitlaw.com  
-   Link: [https://www.bitlaw.com/ai/AI-training-fair-use.html](https://www.bitlaw.com/ai/AI-training-fair-use.html)  
+   Link: <a href="https://www.bitlaw.com/ai/AI-training-fair-use.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bitlaw.com/ai/AI-training-fair-use.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>copyright concept of fair use applies to the training of a generative AI model on copyrighted works owned by others...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=noQsr86XmLE](https://www.youtube.com/watch?v=noQsr86XmLE)  
+   Link: <a href="https://www.youtube.com/watch?v=noQsr86XmLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=noQsr86XmLE</a>

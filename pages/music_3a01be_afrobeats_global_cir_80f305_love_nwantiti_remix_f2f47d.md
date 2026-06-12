@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c
 - music_3a01be_afrobeats_global_cir_80f305_uk_afrobeats_nightli_2c85b0
 tags:
-- music
+- music-3-a01-be
 - afrobeats
 - love-nwantiti
 keywords:
-- music
+- music-3-a01-be
 - afrobeats
 - love-nwantiti
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: CKay's remix trail shows how one Afrobeats song moved from regional hit to global pop through collaborations, versions and social video.
 hero_summary: CKay's remix trail shows how one Afrobeats song moved from regional hit to global pop through collaborations, versions and social video.
 layout: default
 permalink: /love-nwantiti/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /afrobeats/
 nav_short_title: Love Nwantiti
 title: How Love Nwantiti Travelled Beyond Nigeria
-title_full: How Love Nwantiti Travelled Beyond Nigeria | Afrobeats
+title_full: How Love Nwantiti Travelled Beyond Nigeria
 display_title_short: Love Nwantiti
 display_title: Love Nwantiti
 heading_title: How Love Nwantiti Travelled Beyond Nigeria
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Afrobeats Crossed Global Borders | Music
+parent_title: How Afrobeats Crossed Global Borders
 parent_permalink: /afrobeats/
 parent_nav_short_title: Afrobeats
 parent_heading_title: How Afrobeats Crossed Global Borders
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why UK Parties Mattered for Afrobeats
 up_link:
   basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -265,7 +265,7 @@ next_link:
   permalink: /uk-nightlife/
   short_title: UK nightlife
   heading_title: Why UK Parties Mattered for Afrobeats
-date: '2026-06-09 06:49:16 '
+date: '2026-06-11 23:25:55 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_rem
 
 CKay’s “Love Nwantiti” is one of the clearest examples of how Afrobeats circulates globally through a chain of remixes, platform algorithms, [diaspora]({{ 'diaspora/' | relative_url }}) audiences and local adaptations rather than through a single breakthrough moment. Released in 2019, the song did not become a worldwide hit immediately. Instead, it travelled across [regions]({{ 'regions/' | relative_url }}) over roughly two years, gathering momentum through a successful remix, multiple localised versions, playlist exposure and massive social-media use before reaching major charts around the world. By the time it entered the biggest international rankings in 2021, the song had become evidence that an Afrobeats track could move from a Nigerian release to a genuinely global pop phenomenon without abandoning its core identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Love_Nwantiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Love Nwantiti</span><span class="citation-popover-snippet">Love Nwantiti</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1-dark.svg" | relative_url }}" alt="Love Nwantiti illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Original Release and the Remix Chain
 
-“Love Nwantiti” first appeared on CKay’s 2019 EP *CKay the First*. At the time it was a successful song within Nigerian [music]({{ 'music/' | relative_url }}) circles, but it was not yet a global event. The crucial turning point came in February 2020 with “Love Nwantiti (Ah Ah Ah)”, a remix featuring Nigerian singer Joeboy and Ghanaian artist Kuami Eugene. This version created a broader West African appeal and became the foundation on which later international growth was built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CKay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">CKayCKay is a Nigerian singer, songwriter and record producer signed to Boyfriend Music, Warner Music Africa (formerly known as. Warne...</span></span></span>
+“Love Nwantiti” first appeared on CKay’s 2019 EP *CKay the First*. At the time it was a successful song within Nigerian music circles, but it was not yet a global event. The crucial turning point came in February 2020 with “Love Nwantiti (Ah Ah Ah)”, a remix featuring Nigerian singer Joeboy and Ghanaian artist Kuami Eugene. This version created a broader West African appeal and became the foundation on which later international growth was built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CKay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">CKayCKay is a Nigerian singer, songwriter and record producer signed to Boyfriend Music, Warner Music Africa (formerly known as. Warne...</span></span></span>
 
 The remix mattered because it linked multiple music networks at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ What followed was unusual even by modern streaming standards. Instead of relying
 
 The North African remix is especially significant. It became a major chart performer in several European territories and demonstrated how a song could move from West Africa into North African and European listening circuits simultaneously. In Germany, for example, the ElGrandeToto version reached a top-ten chart position and remained on the [charts]({{ 'charts/' | relative_url }}) for months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.offiziellecharts.de/charts/titel-details-2217426" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offiziellecharts.de">[Offizielle Deutsche Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offiziellecharts.de</span><span class="citation-popover-title">Offizielle Deutsche Charts CKay feat</span><span class="citation-popover-snippet">ElGrande TotoLove Nwantiti (North African Remix) Single; Chartentry: 17.09.2021 (32); Letzte Chartposition: 20.05.2022 (90); Höchstpos...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MxjrsDV8Aeo" title="CKay - Love Nwantiti (ft. ElGrandeToto) [North African Remix] [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MxjrsDV8Aeo" target="_blank" rel="noopener noreferrer">CKay - Love Nwantiti (ft. ElGrandeToto) [North African Remix] [Official Music Video]</a></p><p class="youtube-embed-meta">Channel: CKay &middot; Views: 147.1M &middot; Uploaded: November 2021 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MxjrsDV8Aeo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MxjrsDV8Aeo">Open on YouTube</a></p></div></div></div>
 
 ## TikTok, Playlists and Localised Versions
@@ -308,10 +305,9 @@ The song’s global rise accelerated dramatically during 2021 through social vid
 
 Several features helped it succeed in that environment.
 
-First, the [melody]({{ 'melody/' | relative_url }}) was highly memorable and emotionally direct. The chorus relied heavily on vocal sounds and hooks that could be enjoyed even by listeners unfamiliar with Nigerian languages. Second, the song was relatively slow and melodic compared with many club-oriented Afrobeats hits, making it suitable for a wide range of social-media uses, from romantic edits to dance clips. CKay himself later noted that the track’s success surprised people who expected faster dance records to travel further internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6174943/ckay-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Eight years later, CKay has become one of the most successful African musicians globally, primarily due to his 2019 hit song &quot;Love Nwanti...</span></span></span>
+First, the [melody]({{ 'melody/' | relative_url }}) was highly memorable and emotionally direct. The chorus relied heavily on vocal sounds and [hooks]({{ 'hooks/' | relative_url }}) that could be enjoyed even by listeners unfamiliar with Nigerian languages. Second, the song was relatively slow and melodic compared with many club-oriented Afrobeats hits, making it suitable for a wide range of social-media uses, from romantic edits to dance clips. CKay himself later noted that the track’s success surprised people who expected faster dance records to travel further internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6174943/ckay-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Eight years later, CKay has become one of the most successful African musicians globally, primarily due to his 2019 hit song &quot;Love Nwanti...</span></span></span>
 
 Streaming platforms amplified those social signals. As users repeatedly searched, saved and shared the track, playlist placements increased and algorithmic recommendation systems exposed it to listeners who had little previous engagement with African music. This created a feedback loop:
-
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-2-dark.svg" | relative_url }}" alt="Love Nwantiti illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -325,7 +321,6 @@ Streaming platforms amplified those social signals. As users repeatedly searched
 </div>
 
 The existence of multiple remixes strengthened this process. When the song entered a new market, there was often already a version featuring an artist or language familiar to local listeners. Instead of a single export product, “Love Nwantiti” functioned as a flexible musical package capable of adapting to different regions while preserving the same core hook. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CKay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">CKayCKay is a Nigerian singer, songwriter and record producer signed to Boyfriend Music, Warner Music Africa (formerly known as. Warne...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FM3WSfOX5vw" title="CKay – Love Nwantiti (German Remix) feat. Pronto &amp; Eunique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FM3WSfOX5vw" target="_blank" rel="noopener noreferrer">CKay – Love Nwantiti (German Remix) feat. Pronto &amp; Eunique</a></p><p class="youtube-embed-meta">Channel: Song des Tages &middot; Views: 111.0K &middot; Uploaded: October 2021 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FM3WSfOX5vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FM3WSfOX5vw">Open on YouTube</a></p></div></div></div>
 
@@ -341,13 +336,11 @@ Industry recognition followed. “Love Nwantiti” later topped the inaugural U.
 
 The song’s longevity also matters. Rather than disappearing after a viral moment, it continued accumulating streams years after release and eventually surpassed one billion Spotify streams, becoming one of the most successful Nigerian songs ever on the platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://leadership.ng/ckays-love-nwantiti-hits-1bn-spotify-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadership.ng">[LEADERSHIP Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadership.ng</span><span class="citation-popover-snippet">LEADERSHIP NewspapersCKay&#x27;s &#x27;Love Nwantiti&#x27; Hits 1bn Spotify StreamsNigerian Afrobeats star CKay has entered Spotify&#x27;s exclusive &quot;Billion...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VYtSJFV46Tk" title="CKay - Love Nwantiti (TikTok Remix) (Lyrics) &quot;I am so obsessed I want to chop your nkwobi&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VYtSJFV46Tk" target="_blank" rel="noopener noreferrer">CKay - Love Nwantiti (TikTok Remix) (Lyrics) &quot;I am so obsessed I want to chop your nkwobi&quot;</a></p><p class="youtube-embed-meta">Channel: LatinHype &middot; Views: 135.3M &middot; Uploaded: September 2021 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VYtSJFV46Tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VYtSJFV46Tk">Open on YouTube</a></p></div></div></div>
 
 ## What the Journey Reveals About Global Music Circulation
 
 “Love Nwantiti” shows that global music circulation is increasingly networked rather than linear. The song did not move directly from Lagos to London and then to the United States. Instead, it travelled through overlapping routes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,8 +353,7 @@ The song’s longevity also matters. Rather than disappearing after a viral mome
 
 </div>
 
-The track therefore serves as a compact case study of Afrobeats’ international expansion. A Nigerian song became globally recognised not because it shed its origins, but because remixes, local versions and digital platforms allowed those origins to circulate across many different cultural spaces at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billboard_Hot_100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billboard Hot 100</span><span class="citation-popover-snippet">Billboard Hot 100The Billboard Hot 100, also known as simply the Hot 100, is the music industry standard record chart in the United St...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">ckays love nwantiti tops first billboard us afrobeats songs chart 1235050658</span><span class="citation-popover-snippet">BillboardCKay Tops the First Billboard U.S. Afrobeats Songs ChartMar 29, 2022 — Leading the inaugural Billboard U.S. Afrobeats Song Chart...</span></span></span>
-
+The track therefore serves as a compact case study of Afrobeats’ international expansion. A Nigerian song became globally recognised not because it shed its origins, but because remixes, local versions and digital platforms allowed those origins to circulate across many different cultural spaces at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billboard_Hot_100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billboard Hot 100</span><span class="citation-popover-snippet">Billboard Hot 100The Billboard Hot 100, also known as simply the Hot 100, is the music industry standard record chart in the United St...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">ckays love nwantiti tops first billboard us afrobeats songs chart 1235050658</span><span class="citation-popover-snippet">CKay Tops the First Billboard U.S. Afrobeats Songs ChartMar 29, 2022 — Leading the inaugural Billboard U.S. Afrobeats Song Chart...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-3-dark.svg" | relative_url }}" alt="Love Nwantiti illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -482,15 +474,15 @@ The track therefore serves as a compact case study of Afrobeats’ international
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,"><img src="{{ '/assets/images/marketplace-covers/daecb9cc6da8197cebd8.jpg' | relative_url }}" alt="Listing image for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art," loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +490,15 @@ The track therefore serves as a compact case study of Afrobeats’ international
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art"><img src="{{ '/assets/images/marketplace-covers/192d30de036d9d1ec182.jpg' | relative_url }}" alt="Listing image for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +506,15 @@ The track therefore serves as a compact case study of Afrobeats’ international
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +522,15 @@ The track therefore serves as a compact case study of Afrobeats’ international
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +538,7 @@ The track therefore serves as a compact case study of Afrobeats’ international
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="love-nwantiti-how-love-nwantiti-travelled-beyond-nigeria-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="how-love-nwantiti-travelled-beyond-nigeria-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -762,139 +754,139 @@ The track therefore serves as a compact case study of Afrobeats’ international
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Love Nwantiti  
-   Link: [https://en.wikipedia.org/wiki/Love_Nwantiti](https://en.wikipedia.org/wiki/Love_Nwantiti)  
+   Link: <a href="https://en.wikipedia.org/wiki/Love_Nwantiti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Love_Nwantiti</a>  
 
 2. <a id="endnote-2"></a>
    Source: billboard.com  
    Title: ckay love nwantiti launches on global charts  
-   Link: [https://www.billboard.com/pro/ckay-love-nwantiti-launches-on-global-charts/](https://www.billboard.com/pro/ckay-love-nwantiti-launches-on-global-charts/)  
+   Link: <a href="https://www.billboard.com/pro/ckay-love-nwantiti-launches-on-global-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/ckay-love-nwantiti-launches-on-global-charts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CKay Launches on Global Charts With &#x27;Love Nwantiti&#x27;23 Sept 2021 — CKay&#x27;s &quot;Love Nwantiti (Ah Ah Ah)&quot; debuts on the Billboard global charts...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/CKay](https://en.wikipedia.org/wiki/CKay)  
+   Link: <a href="https://en.wikipedia.org/wiki/CKay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CKay</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CKayCKay is a Nigerian singer, songwriter and record producer signed to Boyfriend Music, Warner Music Africa (formerly known as. Warne...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/6174943/ckay-2/](https://time.com/6174943/ckay-2/)  
+   Link: <a href="https://time.com/6174943/ckay-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6174943/ckay-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eight years later, CKay has become one of the most successful African musicians globally, primarily due to his 2019 hit song &quot;Love Nwanti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: citizen.digital  
    Title: love nwantiti how nigerian singer ckay created a global hit n285512  
-   Link: [https://citizen.digital/entertainment/love-nwantiti-how-nigerian-singer-ckay-created-a-global-hit-n285512](https://citizen.digital/entertainment/love-nwantiti-how-nigerian-singer-ckay-created-a-global-hit-n285512)  
+   Link: <a href="https://citizen.digital/entertainment/love-nwantiti-how-nigerian-singer-ckay-created-a-global-hit-n285512" target="_blank" rel="noopener noreferrer nofollow">https://citizen.digital/entertainment/love-nwantiti-how-nigerian-singer-ckay-created-a-global-hit-n285512</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Love Nwantiti&#x27;: How Nigerian singer CKay created a global...Oct 22, 2021 — Love Nwantiti is the most Shazamed song in the world, number...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: billboard.com  
    Title: ckays love nwantiti tops first billboard us afrobeats songs chart 1235050658  
-   Link: [https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/](https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardCKay Tops the First Billboard U.S. Afrobeats Songs ChartMar 29, 2022 — Leading the inaugural Billboard U.S. Afrobeats Song Chart...</p></details>
+   Link: <a href="https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/ckays-love-nwantiti-tops-first-billboard-us-afrobeats-songs-chart-1235050658/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CKay Tops the First Billboard U.S. Afrobeats Songs ChartMar 29, 2022 — Leading the inaugural Billboard U.S. Afrobeats Song Chart...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: leadership.ng  
-   Link: [https://leadership.ng/ckays-love-nwantiti-hits-1bn-spotify-streams/](https://leadership.ng/ckays-love-nwantiti-hits-1bn-spotify-streams/)  
+   Link: <a href="https://leadership.ng/ckays-love-nwantiti-hits-1bn-spotify-streams/" target="_blank" rel="noopener noreferrer nofollow">https://leadership.ng/ckays-love-nwantiti-hits-1bn-spotify-streams/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEADERSHIP NewspapersCKay&#x27;s &#x27;Love Nwantiti&#x27; Hits 1bn Spotify StreamsNigerian Afrobeats star CKay has entered Spotify&#x27;s exclusive &quot;Billion...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Billboard (magazine)  
-   Link: [https://en.wikipedia.org/wiki/Billboard_%28magazine%29](https://en.wikipedia.org/wiki/Billboard_%28magazine%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_%28magazine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_%28magazine%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard (magazine)Billboard (stylized in lowercase since 2013) is an American music and entertainment magazine published weekly by P...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Billboard Hot 100  
-   Link: [https://en.wikipedia.org/wiki/Billboard_Hot_100](https://en.wikipedia.org/wiki/Billboard_Hot_100)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_Hot_100" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_Hot_100</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Hot 100The Billboard Hot 100, also known as simply the Hot 100, is the music industry standard record chart in the United St...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl)  
+   Link: <a href="https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nwantiti (ah ah ah) [feat. Joeboy &amp; Kuami Eugene] [...[feat. Joeboy &amp; Kuami Eugene] [Remix] - Compilation by CKay 2021 Sad Romance Album...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: open.spotify.com  
    Title: comlove nwantiti (feat. Pronto & Eunique)  
-   Link: [https://open.spotify.com/intl-de/track/3epO5ppMtvp3wTdDXepwYY](https://open.spotify.com/intl-de/track/3epO5ppMtvp3wTdDXepwYY)  
+   Link: <a href="https://open.spotify.com/intl-de/track/3epO5ppMtvp3wTdDXepwYY" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/intl-de/track/3epO5ppMtvp3wTdDXepwYY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nwantiti (feat. Pronto &amp; Eunique) - German RemixLyrics. My baby, my valentine (yeah). Girl na you dey make my temperature dey rise. If yo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: offiziellecharts.de  
    Title: Offizielle Deutsche Charts CKay feat  
-   Link: [https://www.offiziellecharts.de/charts/titel-details-2217426](https://www.offiziellecharts.de/charts/titel-details-2217426)  
+   Link: <a href="https://www.offiziellecharts.de/charts/titel-details-2217426" target="_blank" rel="noopener noreferrer nofollow">https://www.offiziellecharts.de/charts/titel-details-2217426</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ElGrande TotoLove Nwantiti (North African Remix) Single; Chartentry: 17.09.2021 (32); Letzte Chartposition: 20.05.2022 (90); Höchstpos...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/c/Billboard](https://www.youtube.com/c/Billboard)  
+   Link: <a href="https://www.youtube.com/c/Billboard" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/Billboard</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardBillboard&#x27;s YouTube channel brings you exclusive interviews with chart-topping artists, one-of-a-kind studio performance session...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MxjrsDV8Aeo](https://www.youtube.com/watch?v=MxjrsDV8Aeo)  
+   Link: <a href="https://www.youtube.com/watch?v=MxjrsDV8Aeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MxjrsDV8Aeo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CKay - Love Nwantiti (ft. ElGrandeToto) [North African Remix...The Official Music Video for CKay&#x27;s - Love Nwantiti (ft. ElGrandeToto) [N...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kworb.net  
-   Link: [https://kworb.net/spotify/track/1EYeZGTMCjV7uVey5fNWXM.html](https://kworb.net/spotify/track/1EYeZGTMCjV7uVey5fNWXM.html)  
+   Link: <a href="https://kworb.net/spotify/track/1EYeZGTMCjV7uVey5fNWXM.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/track/1EYeZGTMCjV7uVey5fNWXM.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CKay - love nwantiti - Spotify Chart HistoryA website that collects and analyzes music data from around the world. All of the charts, sal...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: musikindustrie.de  
-   Link: [https://www.musikindustrie.de/fileadmin/bvmi/upload/06_Publikationen/GMR/IFPI_Global_Music_Report_2022-State_of_the_Industry.pdf](https://www.musikindustrie.de/fileadmin/bvmi/upload/06_Publikationen/GMR/IFPI_Global_Music_Report_2022-State_of_the_Industry.pdf)  
+   Link: <a href="https://www.musikindustrie.de/fileadmin/bvmi/upload/06_Publikationen/GMR/IFPI_Global_Music_Report_2022-State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musikindustrie.de/fileadmin/bvmi/upload/06_Publikationen/GMR/IFPI_Global_Music_Report_2022-State_of_the_Industry.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORTThe IFPI Global [Recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;) Artist Chart measures consumption across all formats (including streaming formats, digital a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: in 2021 ckays 2019 single love nwantiti went viral it debuted on the billboard h  
-   Link: [https://www.facebook.com/AfricanMusicplug1/posts/in-2021-ckays-2019-single-love-nwantiti-went-viral-it-debuted-on-the-billboard-h/623997880174653/](https://www.facebook.com/AfricanMusicplug1/posts/in-2021-ckays-2019-single-love-nwantiti-went-viral-it-debuted-on-the-billboard-h/623997880174653/)  
+   Link: <a href="https://www.facebook.com/AfricanMusicplug1/posts/in-2021-ckays-2019-single-love-nwantiti-went-viral-it-debuted-on-the-billboard-h/623997880174653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AfricanMusicplug1/posts/in-2021-ckays-2019-single-love-nwantiti-went-viral-it-debuted-on-the-billboard-h/623997880174653/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, CKay&#x27;s 2019 single &quot;Love Nwantiti&quot; went viral. It debuted on the Billboard Hot 100, garnered billions of streams across digital...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: businessday.ng  
    Title: ckays love nwantiti peaks at no 1 on first billboard u s afrobeats songs chart  
-   Link: [https://businessday.ng/life-arts/article/ckays-love-nwantiti-peaks-at-no-1-on-first-billboard-u-s-afrobeats-songs-chart/](https://businessday.ng/life-arts/article/ckays-love-nwantiti-peaks-at-no-1-on-first-billboard-u-s-afrobeats-songs-chart/)  
+   Link: <a href="https://businessday.ng/life-arts/article/ckays-love-nwantiti-peaks-at-no-1-on-first-billboard-u-s-afrobeats-songs-chart/" target="_blank" rel="noopener noreferrer nofollow">https://businessday.ng/life-arts/article/ckays-love-nwantiti-peaks-at-no-1-on-first-billboard-u-s-afrobeats-songs-chart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CKay&#x27;s &#x27;Love Nwantiti&#x27; tops Billboard US Afrobeats chartMar 29, 2022 — The song debuted on the Billboard Hot 100 on October 2, 2021, and...</p></details>
    Published: October 2, 2021  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FM3WSfOX5vw](https://www.youtube.com/watch?v=FM3WSfOX5vw)  
+   Link: <a href="https://www.youtube.com/watch?v=FM3WSfOX5vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FM3WSfOX5vw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CKay – Love Nwantiti (German Remix) feat. Pronto &amp; Eunique... Global YouTube Music Charts, #1 der Global Shazam Charts, Top-10-Platzierun...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UC7l7-ClAn4QZlA_Qq5sTIdw](https://www.youtube.com/channel/UC7l7-ClAn4QZlA_Qq5sTIdw)  
+   Link: <a href="https://www.youtube.com/channel/UC7l7-ClAn4QZlA_Qq5sTIdw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC7l7-ClAn4QZlA_Qq5sTIdw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CKayCKay, popularly known as &quot;Africa&#x27;s Boyfriend&quot;, combines his raw emotions with African rhythms to create a sound he calls &quot;emo afrobea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064767520127/posts/ckays-love-nwantiti-ah-ah-ah-was-originally-released-in-2019-on-his-ckay-the-fir/1310294567806115/](https://www.facebook.com/100064767520127/posts/ckays-love-nwantiti-ah-ah-ah-was-originally-released-in-2019-on-his-ckay-the-fir/1310294567806115/)  
+   Link: <a href="https://www.facebook.com/100064767520127/posts/ckays-love-nwantiti-ah-ah-ah-was-originally-released-in-2019-on-his-ckay-the-fir/1310294567806115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064767520127/posts/ckays-love-nwantiti-ah-ah-ah-was-originally-released-in-2019-on-his-ckay-the-fir/1310294567806115/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• Achieved the biggest streaming debut for an African artist in Spotify history.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musicinafrica.net  
    Title: nigeria ckays love nwantiti surpasses 1bn spotify streams  
-   Link: [https://www.musicinafrica.net/magazine/nigeria-ckays-love-nwantiti-surpasses-1bn-spotify-streams](https://www.musicinafrica.net/magazine/nigeria-ckays-love-nwantiti-surpasses-1bn-spotify-streams)  
+   Link: <a href="https://www.musicinafrica.net/magazine/nigeria-ckays-love-nwantiti-surpasses-1bn-spotify-streams" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/nigeria-ckays-love-nwantiti-surpasses-1bn-spotify-streams</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria: CKay&#x27;s Love Nwantiti surpasses 1bn Spotify streamsDec 11, 2025 — Nigerian musician CKay has reached a major milestone, with his...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dailymotion.com  
    Title: Nigerian artist CKay takes Brut through the [lyrics](&#123;&#123; 'lyrics/' | relative_url &#125;&#125;)  
-   Link: [https://www.dailymotion.com/video/x9gsen6](https://www.dailymotion.com/video/x9gsen6)  
+   Link: <a href="https://www.dailymotion.com/video/x9gsen6" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x9gsen6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind TikTok&#x27;s viral hit, &quot;Love Nwantiti&quot; - video...His song, &quot;Love Nwantiti,&quot; blew up on TikTok and became the most Shazamed...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100065260999751/posts/really-%EF%B8%8Fmy-colleaguesuperstar-ckay-collaboration-love-nwantiti-remix-is-my-bigge/1106386921546664/](https://www.facebook.com/100065260999751/posts/really-%EF%B8%8Fmy-colleaguesuperstar-ckay-collaboration-love-nwantiti-remix-is-my-bigge/1106386921546664/)  
+   Link: <a href="https://www.facebook.com/100065260999751/posts/really-%EF%B8%8Fmy-colleaguesuperstar-ckay-collaboration-love-nwantiti-remix-is-my-bigge/1106386921546664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100065260999751/posts/really-%EF%B8%8Fmy-colleaguesuperstar-ckay-collaboration-love-nwantiti-remix-is-my-bigge/1106386921546664/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>likes on YouTube It&#x27;s the fourth Nigerian video to reach that...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: okayafrica.com  
    Title: how ckays love nwantiti became the worlds song  
-   Link: [https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759](https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759)  
+   Link: <a href="https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759" target="_blank" rel="noopener noreferrer nofollow">https://www.okayafrica.com/how-ckays-love-nwantiti-became-the-worlds-song/198759</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How CKay&#x27;s &#x27;Love Nwantiti&#x27; Became the World&#x27;s SongOct 20, 2021 — Nigerian singer and producer CKay talks toOkayAfricaabout the rise of hi...</p></details>

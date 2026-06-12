@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649
 - music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e
 tags:
-- music
+- music-3-a01-be
 - setlists
 - prs-lawsuit
 keywords:
-- music
+- music-3-a01-be
 - setlists
 - prs-lawsuit
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The failed collective claim against PRS shows why missing setlists can be obvious as a problem but hard to prove in court.
 hero_summary: The failed collective claim against PRS shows why missing setlists can be obvious as a problem but hard to prove in court.
 layout: default
 permalink: /prs-lawsuit/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /setlists/
 nav_short_title: PRS Lawsuit
 title: Why Missing Setlists Are Hard To Sue Over
-title_full: Why Missing Setlists Are Hard To Sue Over | Setlists
+title_full: Why Missing Setlists Are Hard To Sue Over
 display_title_short: PRS Lawsuit
 display_title: PRS Lawsuit
 heading_title: Why Missing Setlists Are Hard To Sue Over
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Setlists Are More Than Souvenirs | Music
+parent_title: Why Setlists Are More Than Souvenirs
 parent_permalink: /setlists/
 parent_nav_short_title: Setlists
 parent_heading_title: Why Setlists Are More Than Souvenirs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can A Handwritten Setlist Prove A Royalty Claim?
 up_link:
   basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -259,7 +259,7 @@ prev_link:
   permalink: /paper-setlists/
   short_title: Paper Setlists
   heading_title: Can A Handwritten Setlist Prove A Royalty Claim?
-date: '2026-06-09 07:35:08 '
+date: '2026-06-11 23:48:26 '
 header:
   og_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_law
 
 ## Introduction
 
-The dispute commonly called the PRS “black box” lawsuit became one of the most closely watched royalty cases in the UK [music]({{ 'music/' | relative_url }}) industry because it appeared to address a problem that many songwriters recognise immediately: money is collected for performances, but some of it cannot be matched to the correct works because the underlying data is incomplete. [Missing setlists]({{ 'setlists/' | relative_url }}) are one of the reasons this happens. Yet the case also demonstrated why proving legal harm from missing performance information is far harder than identifying the administrative problem itself.
-
+The dispute commonly called the PRS “black box” lawsuit became one of the most closely watched royalty cases in the UK music industry because it appeared to address a problem that many songwriters recognise immediately: money is collected for performances, but some of it cannot be matched to the correct works because the underlying data is incomplete. Missing setlists are one of the reasons this happens. Yet the case also demonstrated why proving legal harm from missing performance information is far harder than identifying the administrative problem itself.
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1-dark.svg" | relative_url }}" alt="PRS Lawsuit illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Led by Blur drummer and songwriter Dave Rowntree, the claim argued that PRS for Music distributed unmatched [royalties]({{ 'royalties/' | relative_url }}) in a way that unfairly disadvantaged writers. However, the Competition Appeal Tribunal ultimately rejected the proposed collective action. The judgment did not erase concerns about unmatched royalties, but it exposed the evidential challenge at the centre of such disputes: if the performances cannot be identified, how can a court determine who specifically lost money and by how much? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.digitalmusicnews.com/2025/08/28/prs-for-music-black-box-royalties-proceedings-decision/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalmusicnews.com">[Competition Appeal Tribunal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalmusicnews.com</span><span class="citation-popover-snippet">Digital Music NewsPRS for Music Beats &#x27;Black Box&#x27; Claim from Blur DrummerA U.K. competition tribunal has ruled in favor of PRS for Music...</span></span></span>
@@ -296,7 +295,6 @@ The Tribunal also questioned how damages could realistically be calculated. By d
 
 In August 2025 the Tribunal dismissed the proposed proceedings, finding that the claim did not disclose facts capable of supporting the alleged competition-law infringement and lacked a reasonable prospect of success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/c/prs-for-music-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">prs for music statement</span><span class="citation-popover-snippet">PRS for MusicPRS for Music statementOn 27 August 2025, the Competition Appeal Tribunal (CAT) issued its judgement on the proposed class a...</span><span class="citation-popover-meta">Published: August 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-2-dark.svg" | relative_url }}" alt="PRS Lawsuit illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case reveals about evidential gaps
 
@@ -305,7 +303,6 @@ The most significant lesson from the lawsuit is that administrative unfairness a
 From a songwriter's perspective, it may seem obvious that missing setlists create a risk of underpayment. If a performance cannot be identified, the royalty associated with that performance cannot be matched with certainty. Industry critics have pointed to large numbers of live events for which performance information is incomplete or unavailable, arguing that this creates a substantial unmatched-royalty problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span><span class="citation-popover-meta">Published: July 4, 2025</span></span></span>
 
 However, courts generally require a stronger chain of evidence than a general risk. They need a demonstrable connection between:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -319,7 +316,6 @@ However, courts generally require a stronger chain of evidence than a general ri
 Missing setlists break that chain at its starting point. Without reliable records showing what was performed, it becomes difficult to prove which songwriter should have received the money. The very absence of data that creates the black box also makes legal recovery harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enyolaw.com/news/theres-another-way-cat-strikes-out-blur-drummers-55m-collective-claim-against-the-prs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enyolaw.com">[enyolaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enyolaw.com</span><span class="citation-popover-snippet">There&#x27;s another way: CAT strikes out Blur drummer&#x27;s £55m...17 Sept 2025 — The CAT agreed, concluding that the way the case was framed wa...</span></span></span>
 
 This helps explain why concerns about unmatched royalties can persist even when litigation struggles. The problem may be real, but proving entitlement requires evidence that is often unavailable precisely because the performances were never properly documented.
-
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-3-dark.svg" | relative_url }}" alt="PRS Lawsuit illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case matters for missing setlists
@@ -445,15 +441,15 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f59a7ffe38a6f8289ac3.jpg' | relative_url }}" alt="Listing image for singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -461,15 +457,15 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOLLY PARTON ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/65f4874a062939ce8185.jpg' | relative_url }}" alt="Listing image for DOLLY PARTON ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">DOLLY PARTON ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +473,15 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art woman songwriter color retro Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ead27ed6397d86ca4177.jpg' | relative_url }}" alt="Listing image for Art woman songwriter color retro Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Art woman songwriter color retro Fr Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +489,15 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/17fccfd5aa3224964877.jpg' | relative_url }}" alt="Listing image for Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,7 +505,7 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster -book -books" data-ebay-reference="prs-lawsuit-why-missing-setlists-are-hard-to-sue-over-music-songwriter-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-missing-setlists-are-hard-to-sue-over-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -724,30 +720,30 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
 
 1. <a id="endnote-1"></a>
    Source: catribunal.org.uk  
-   Link: [https://www.catribunal.org.uk/sites/cat/files/2024-04/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Summary%20of%20Collective%20Proceedings%20Claim%20Form%20%202%20Apr%202024.pdf](https://www.catribunal.org.uk/sites/cat/files/2024-04/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Summary%20of%20Collective%20Proceedings%20Claim%20Form%20%202%20Apr%202024.pdf)  
+   Link: <a href="https://www.catribunal.org.uk/sites/cat/files/2024-04/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Summary%20of%20Collective%20Proceedings%20Claim%20Form%20%202%20Apr%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.catribunal.org.uk/sites/cat/files/2024-04/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Summary%20of%20Collective%20Proceedings%20Claim%20Form%20%202%20Apr%202024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition Appeal Tribunal1634/7/7/24 Mr David Alexander de Horne Rowntree v (1)...April 2, 2024 — 2 Apr 2024 — Whether PRS&#x27;s distribut...</p></details>
    Published: April 2, 2024  
 
 2. <a id="endnote-2"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
    Published: July 4, 2025  
 
 3. <a id="endnote-3"></a>
    Source: digitalmusicnews.com  
-   Link: [https://www.digitalmusicnews.com/2025/08/28/prs-for-music-black-box-royalties-proceedings-decision/](https://www.digitalmusicnews.com/2025/08/28/prs-for-music-black-box-royalties-proceedings-decision/)  
+   Link: <a href="https://www.digitalmusicnews.com/2025/08/28/prs-for-music-black-box-royalties-proceedings-decision/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2025/08/28/prs-for-music-black-box-royalties-proceedings-decision/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Music NewsPRS for Music Beats &#x27;Black Box&#x27; Claim from Blur DrummerA U.K. competition tribunal has ruled in favor of PRS for Music...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: enyolaw.com  
-   Link: [https://enyolaw.com/news/theres-another-way-cat-strikes-out-blur-drummers-55m-collective-claim-against-the-prs/](https://enyolaw.com/news/theres-another-way-cat-strikes-out-blur-drummers-55m-collective-claim-against-the-prs/)  
+   Link: <a href="https://enyolaw.com/news/theres-another-way-cat-strikes-out-blur-drummers-55m-collective-claim-against-the-prs/" target="_blank" rel="noopener noreferrer nofollow">https://enyolaw.com/news/theres-another-way-cat-strikes-out-blur-drummers-55m-collective-claim-against-the-prs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s another way: CAT strikes out Blur drummer&#x27;s £55m...17 Sept 2025 — The CAT agreed, concluding that the way the case was framed wa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: prsformusic.com  
    Title: prs for music statement  
-   Link: [https://www.prsformusic.com/c/prs-for-music-statement](https://www.prsformusic.com/c/prs-for-music-statement)  
+   Link: <a href="https://www.prsformusic.com/c/prs-for-music-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/c/prs-for-music-statement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music statementOn 27 August 2025, the Competition Appeal Tribunal (CAT) issued its judgement on the proposed class a...</p></details>
    Published: August 2025  
 
@@ -756,55 +752,55 @@ The case therefore reinforces a practical lesson for songwriters and collecting 
 6. <a id="endnote-6"></a>
    Source: iclg.com  
    Title: 22992 songwriters claim against prs misses beat as cat refuses certification  
-   Link: [https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification](https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification)  
+   Link: <a href="https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification" target="_blank" rel="noopener noreferrer nofollow">https://iclg.com/news/22992-songwriters-claim-against-prs-misses-beat-as-cat-refuses-certification</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Songwriters&#x27; claim against PRS misses beat as CAT...28 Aug 2025 — At issue was whether PRS, the UK&#x27;s collective management organisation...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: uklitigation.cooley.com  
-   Link: [https://uklitigation.cooley.com/blurred-lines-and-flat-notes-competition-appeal-tribunal-strikes-out-songwriters-cpo-claim-against-the-performing-right-society/](https://uklitigation.cooley.com/blurred-lines-and-flat-notes-competition-appeal-tribunal-strikes-out-songwriters-cpo-claim-against-the-performing-right-society/)  
+   Link: <a href="https://uklitigation.cooley.com/blurred-lines-and-flat-notes-competition-appeal-tribunal-strikes-out-songwriters-cpo-claim-against-the-performing-right-society/" target="_blank" rel="noopener noreferrer nofollow">https://uklitigation.cooley.com/blurred-lines-and-flat-notes-competition-appeal-tribunal-strikes-out-songwriters-cpo-claim-against-the-performing-right-society/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the RecordCompetition Appeal Tribunal Strikes Out Songwriters&#x27; CPO...29 Sept 2025 — This claim relates to “black box” royalties, whic...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: catribunal.org.uk  
-   Link: [https://www.catribunal.org.uk/sites/cat/files/2025-07/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Transcript%20of%20CPO%20Hearing%20%28Day%203%29%20%2016%20Jun%202025.pdf](https://www.catribunal.org.uk/sites/cat/files/2025-07/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Transcript%20of%20CPO%20Hearing%20%28Day%203%29%20%2016%20Jun%202025.pdf)  
+   Link: <a href="https://www.catribunal.org.uk/sites/cat/files/2025-07/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Transcript%20of%20CPO%20Hearing%20%28Day%203%29%20%2016%20Jun%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.catribunal.org.uk/sites/cat/files/2025-07/16347724%20Mr%20David%20Alexander%20de%20Horne%20Rowntree%20v%20%281%29%20the%20Performing%20Right%20Society%20Limited%20and%20%282%29%20PRS%20For%20Music%20Limited%20-%20Transcript%20of%20CPO%20Hearing%20%28Day%203%29%20%2016%20Jun%202025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>royalties should be split 50/50. 26. Page 112. 112. You said it should be thought that PRS should be distributing black box royalties on...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: completemusicupdate.com  
    Title: court dismisses dave rowntrees black box lawsuit against prs  
-   Link: [https://completemusicupdate.com/court-dismisses-dave-rowntrees-black-box-lawsuit-against-prs/](https://completemusicupdate.com/court-dismisses-dave-rowntrees-black-box-lawsuit-against-prs/)  
+   Link: <a href="https://completemusicupdate.com/court-dismisses-dave-rowntrees-black-box-lawsuit-against-prs/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/court-dismisses-dave-rowntrees-black-box-lawsuit-against-prs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Court dismisses Dave Rowntree&#x27;s black box lawsuit against PRS29 Aug 2025 — A UK court has dismissed a class action lawsuit filed by Blur...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: iqmagazine.com  
    Title: class action case against prs for music rejected  
-   Link: [https://www.iqmagazine.com/2025/08/class-action-case-against-prs-for-music-rejected/](https://www.iqmagazine.com/2025/08/class-action-case-against-prs-for-music-rejected/)  
+   Link: <a href="https://www.iqmagazine.com/2025/08/class-action-case-against-prs-for-music-rejected/" target="_blank" rel="noopener noreferrer nofollow">https://www.iqmagazine.com/2025/08/class-action-case-against-prs-for-music-rejected/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Aug 2025 — The collective action, headed by Blur drummer Dave Rowntree, alleged the UK performance rights organisation misallocates &#x27;b...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: linklaters.com  
    Title: no encore for rowntree  
-   Link: [https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree](https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree)  
+   Link: <a href="https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree" target="_blank" rel="noopener noreferrer nofollow">https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CAT strikes out Black Box...17 Sept 2025 — Mr Rowntree complained that Black Box royalties are distributed to writers and publishers in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linklaters.com  
    Title: no encore for rowntree  
-   Link: [https://www.linklaters.com/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree](https://www.linklaters.com/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree)  
+   Link: <a href="https://www.linklaters.com/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree" target="_blank" rel="noopener noreferrer nofollow">https://www.linklaters.com/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CAT strikes out Black Box...17 Sept 2025 — The UK Competition Appeal Tribunal struck out the claim entirely at the certification stage b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/](https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music paid out $1.3bn to songwriters, composers...4 Jun 2025 — UK-based collection society PRS for Music on Tuesday (June 3) rep...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/tag/class-action-lawsuit/](https://www.musicbusinessworldwide.com/tag/class-action-lawsuit/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/tag/class-action-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/tag/class-action-lawsuit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: class action lawsuitUK tribunal rejects Blur drummer&#x27;s class action lawsuit against PRS For Music over &#x27;black box&#x27; royalties · Live...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: newindustryfocus.com  
    Title: prs for music prevails in lawsuit related to royalty distributions  
-   Link: [https://newindustryfocus.com/articles/prs-for-music-prevails-in-lawsuit-related-to-royalty-distributions](https://newindustryfocus.com/articles/prs-for-music-prevails-in-lawsuit-related-to-royalty-distributions)  
+   Link: <a href="https://newindustryfocus.com/articles/prs-for-music-prevails-in-lawsuit-related-to-royalty-distributions" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/prs-for-music-prevails-in-lawsuit-related-to-royalty-distributions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS For Music Prevails in Lawsuit Related to Royalty...1 Sept 2025 — A UK tribunal rejects a class action lawsuit from songwriters again...</p></details>

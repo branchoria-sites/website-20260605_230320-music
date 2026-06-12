@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e
 - music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919
 tags:
-- music
+- music-3-a01-be
 - short-clips
 - artist-discovery
 keywords:
-- music
+- music-3-a01-be
 - short-clips
 - artist-discovery
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A viral song fragment does not always translate into lasting recognition for the artist behind it.
 hero_summary: A viral song fragment does not always translate into lasting recognition for the artist behind it.
 layout: default
 permalink: /artist-discovery/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /short-clips/
 nav_short_title: Artist Discovery
 title: Can Viral Songs Build Lasting Fans?
-title_full: Can Viral Songs Build Lasting Fans? | Short Clips
+title_full: Can Viral Songs Build Lasting Fans?
 display_title_short: Artist Discovery
 display_title: Artist Discovery
 heading_title: Can Viral Songs Build Lasting Fans?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Short Clips Reshape Hit Songs | Music
+parent_title: How Short Clips Reshape Hit Songs
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: How Short Clips Reshape Hit Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the Chorus Is No Longer the Only Hook
 up_link:
   basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -259,7 +259,7 @@ next_link:
   permalink: /clip-tradeoffs/
   short_title: Clip Tradeoffs
   heading_title: When a Viral Snippet Hurts the Full Song
-date: '2026-06-09 07:48:28 '
+date: '2026-06-11 23:55:56 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1.webp
@@ -270,19 +270,18 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_di
 
 Short-form video platforms have become powerful engines of music discovery, but discovering a song is not the same as discovering the artist who made it. A fifteen-second clip can propel a fragment of a track into millions of videos, yet many listeners never learn the performer’s name, explore their [catalogue]({{ 'catalogue/' | relative_url }}), or become long-term fans. This creates a central tension in the modern music industry: viral exposure can generate enormous [attention]({{ 'attention/' | relative_url }}) for a song while producing a much smaller increase in artist recognition. Research and industry reporting consistently show that short-form platforms are highly effective at introducing music, but converting that moment of attention into sustained artist loyalty remains far more difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.tiktok.com">[TikTok Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.tiktok.com</span><span class="citation-popover-snippet">TikTok NewsroomTikTok and Luminate Release the Latest Music Impact Report13 Feb 2025 — The report&#x27;s key findings include: TikTok Drives M...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">music discovery is not dead just evolving the industry needs to evolve with it</span><span class="citation-popover-snippet">Music discovery is not dead, just evolving – the industry...9 May 2025 — The shift to algorithmic music discovery is more pronounced for...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1-dark.svg" | relative_url }}" alt="Artist Discovery illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader shift described by discussions of clip-driven songwriting, this distinction matters because it changes what success looks like. A memorable musical moment may travel widely even when the audience's relationship is with the sound itself rather than with the musician behind it.
 
 ## The Gap Between Song and Artist Recognition
 
-The design of short-form platforms encourages users to interact with sounds as reusable creative materials. People encounter a song while watching a dance trend, comedy sketch, fashion transition, fan edit or personal story. The [music]({{ 'music/' | relative_url }}) often functions as part of the content rather than as the main attraction.
+The design of short-form platforms encourages users to interact with sounds as reusable creative materials. People encounter a song while watching a dance trend, comedy sketch, fashion transition, fan edit or personal story. The music often functions as part of the content rather than as the main attraction.
 
 As a result, listeners frequently remember a lyric, beat drop or emotional moment without remembering who performed it. Industry observers have increasingly noted that social discovery can stop at the level of the clip. A study discussed in reporting on young listeners found that many users feel little need to seek out a full track after hearing it repeatedly on social media, while others do not pay much attention to the artist identity at all. The same reporting suggested that only a minority of young listeners consistently progress from social-platform exposure to deeper artist engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">About a quarter of the respondents felt there was no need to seek out a song beyond social media since they had heard it enough, while ot...</span></span></span>
 
 This helps explain a common modern phenomenon: a viral sound can become culturally ubiquitous while the artist remains relatively unknown outside dedicated music audiences. In practical terms, the audience may recognise the song instantly but struggle to identify its creator.
 
-The distinction is especially important because traditional music careers were often built around artist attachment. Fans bought albums, attended concerts and followed careers over many years. [Short clips]({{ 'short-clips/' | relative_url }}) can accelerate awareness of a track, but they do not automatically create the emotional investment associated with long-term fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">music discovery is not dead just evolving the industry needs to evolve with it</span><span class="citation-popover-snippet">Music discovery is not dead, just evolving – the industry...9 May 2025 — The shift to algorithmic music discovery is more pronounced for...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The distinction is especially important because traditional music careers were often built around artist attachment. Fans bought albums, attended [concerts]({{ 'concerts/' | relative_url }}) and followed careers over many years. [Short clips]({{ 'short-clips/' | relative_url }}) can accelerate awareness of a track, but they do not automatically create the emotional investment associated with long-term fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">music discovery is not dead just evolving the industry needs to evolve with it</span><span class="citation-popover-snippet">Music discovery is not dead, just evolving – the industry...9 May 2025 — The shift to algorithmic music discovery is more pronounced for...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## Why Follow-Up Actions Matter
 
@@ -291,7 +290,6 @@ The crucial question is what happens after discovery.
 TikTok and similar platforms clearly drive music awareness. TikTok and Luminate's Music Impact Report found that users are significantly more likely to discover and share music through the platform, while a large majority of songs entering major global [charts]({{ 'charts/' | relative_url }}) had experienced TikTok virality beforehand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.tiktok.com">[TikTok Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.tiktok.com</span><span class="citation-popover-snippet">TikTok NewsroomTikTok and Luminate Release the Latest Music Impact Report13 Feb 2025 — The report&#x27;s key findings include: TikTok Drives M...</span></span></span>
 
 However, artist development depends on actions beyond the initial view:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ This is why music companies increasingly focus on conversion metrics rather than
 
 The distinction can be seen in the difference between a viral moment and a sustainable audience. A song that dominates a trend for several weeks may generate headlines, but an artist who gains dedicated followers across multiple releases is building something more durable.
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-2-dark.svg" | relative_url }}" alt="Artist Discovery illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some Artists Convert Better Than Others
 
@@ -327,7 +324,6 @@ Several factors appear to help:
 **Consistent visibility.** One-off [viral moments]({{ 'viral-moments/' | relative_url }}) fade quickly. Repeated appearances help transform familiarity with a sound into familiarity with an artist.
 
 This helps explain why some acts emerge from social platforms as lasting stars while others become associated with a single hit. The viral song opens the door; the artist's broader identity determines whether listeners walk through it.
-
 
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-3-dark.svg" | relative_url }}" alt="Artist Discovery illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building Identity Beyond One Clip
@@ -469,15 +465,15 @@ For musicians operating in the short-clip era, the challenge is therefore not me
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for #5 Poster Inspired By Led Zeppelin English Rock Band Photo Music Stars Guitar"><img src="{{ '/assets/images/marketplace-covers/36b22939e0eefa05f2f2.jpg' | relative_url }}" alt="Listing image for #5 Poster Inspired By Led Zeppelin English Rock Band Photo Music Stars Guitar" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exercises Resistance Band POSTER Workout Gym Fitness Training PRINT A5-A1 Poster"><img src="https://i.ebayimg.com/images/g/9loAAOSwGxtmvLko/s-l225.jpg" alt="Listing image for Exercises Resistance Band POSTER Workout Gym Fitness Training PRINT A5-A1 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">#5 Poster Inspired By Led Zeppelin English Rock Band Photo Music Stars Guitar</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer">Exercises Resistance Band POSTER Workout Gym Fitness Training PRINT A5-A1 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +481,15 @@ For musicians operating in the short-clip era, the challenge is therefore not me
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Korn - live band music show 2026 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/f07f84ba96c0c93f3a0c.jpg' | relative_url }}" alt="Listing image for Korn - live band music show 2026 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Fine Art Album Poster Any Band Any Album Created A5 Wall Art, Man Cave"><img src="https://i.ebayimg.com/images/g/8foAAOSwm2tkODaW/s-l225.jpg" alt="Listing image for Custom Fine Art Album Poster Any Band Any Album Created A5 Wall Art, Man Cave" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Korn - live band music show 2026 promotional tour concert gig poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer">Custom Fine Art Album Poster Any Band Any Album Created A5 Wall Art, Man Cave</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +497,15 @@ For musicians operating in the short-clip era, the challenge is therefore not me
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Fine Art Album Poster Any Band Any Album Created A4 Wall Art Man Cave"><img src="{{ '/assets/images/marketplace-covers/1d47cabe37cfe812f10e.jpg' | relative_url }}" alt="Listing image for Custom Fine Art Album Poster Any Band Any Album Created A4 Wall Art Man Cave" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis, What&#x27;s the Story, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/y4AAAeSw4g9o87u~/s-l225.jpg" alt="Listing image for Oasis, What&#x27;s the Story, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Custom Fine Art Album Poster Any Band Any Album Created A4 Wall Art Man Cave</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer">Oasis, What&#x27;s the Story, Album Art Poster, Print, Music, Tracklist</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +513,15 @@ For musicians operating in the short-clip era, the challenge is therefore not me
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +529,7 @@ For musicians operating in the short-clip era, the challenge is therefore not me
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster -book -books" data-ebay-reference="artist-discovery-can-viral-songs-build-lasting-fans-music-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-viral-songs-build-lasting-fans-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="can-viral-songs-build-lasting-fans-band-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -748,96 +744,96 @@ For musicians operating in the short-clip era, the challenge is therefore not me
 
 1. <a id="endnote-1"></a>
    Source: newsroom.tiktok.com  
-   Link: [https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report](https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok NewsroomTikTok and Luminate Release the Latest Music Impact Report13 Feb 2025 — The report&#x27;s key findings include: TikTok Drives M...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: people.com  
-   Link: [https://people.com/harry-daniels-blew-up-singing-to-pop-stars-now-he-s-ready-to-be-one-exclusive-11982706](https://people.com/harry-daniels-blew-up-singing-to-pop-stars-now-he-s-ready-to-be-one-exclusive-11982706)  
+   Link: <a href="https://people.com/harry-daniels-blew-up-singing-to-pop-stars-now-he-s-ready-to-be-one-exclusive-11982706" target="_blank" rel="noopener noreferrer nofollow">https://people.com/harry-daniels-blew-up-singing-to-pop-stars-now-he-s-ready-to-be-one-exclusive-11982706</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He’s working on a podcast titled &quot;Chronically Online&quot; and a six-track debut EP aimed at establishing him as a legitimate pop artist. Thou...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newsroom.tiktok.com  
    Title: music impact report confirms tiktok fuels music discovery  
-   Link: [https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery](https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Globally, TikTok users are significantly more likely to discover AND share new music content on social or short...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: midiaresearch.com  
    Title: music discovery is not dead just evolving the industry needs to evolve with it  
-   Link: [https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it](https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it)  
+   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music discovery is not dead, just evolving – the industry...9 May 2025 — The shift to algorithmic music discovery is more pronounced for...</p></details>
    Published: May 2025  
 
 5. <a id="endnote-5"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n](https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n)  
+   Link: <a href="https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About a quarter of the respondents felt there was no need to seek out a song beyond social media since they had heard it enough, while ot...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: midiaresearch.com  
    Title: music discovery in 2023 is about the journey not the moment  
-   Link: [https://www.midiaresearch.com/blog/music-discovery-in-2023-is-about-the-journey-not-the-moment](https://www.midiaresearch.com/blog/music-discovery-in-2023-is-about-the-journey-not-the-moment)  
+   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-in-2023-is-about-the-journey-not-the-moment" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-in-2023-is-about-the-journey-not-the-moment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchMusic discovery in 2023 is about the journey, not the moment12 Jan 2023 — The pressure is on artists and their teams to mak...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: teenvogue.com  
-   Link: [https://www.teenvogue.com/story/jae-stephens-says-her-new-single-attaboy-will-kick-you-in-the-teeth](https://www.teenvogue.com/story/jae-stephens-says-her-new-single-attaboy-will-kick-you-in-the-teeth)  
+   Link: <a href="https://www.teenvogue.com/story/jae-stephens-says-her-new-single-attaboy-will-kick-you-in-the-teeth" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/jae-stephens-says-her-new-single-attaboy-will-kick-you-in-the-teeth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>At 27, the pop and R&amp;B singer—born Jordan Adkison—is gaining mainstream traction with a sold-out tour, an upcoming Lollapalooza performan...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/tiktok-has-over-800m-active-users-worldwide-75-of-them-say-they-discover-new-artists-on-the-platform/](https://www.musicbusinessworldwide.com/tiktok-has-over-800m-active-users-worldwide-75-of-them-say-they-discover-new-artists-on-the-platform/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/tiktok-has-over-800m-active-users-worldwide-75-of-them-say-they-discover-new-artists-on-the-platform/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/tiktok-has-over-800m-active-users-worldwide-75-of-them-say-they-discover-new-artists-on-the-platform/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business Worldwide75% of TikTok&#x27;s users say they discover new artists on the...21 Jul 2021 — A new report from TikTok, which revea...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music](https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music)  
+   Link: <a href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — The article also investigates the TikTok-influenced image of the c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: luminatedata.com  
-   Link: [https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/](https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/)  
+   Link: <a href="https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How TikTok partnered with Luminate to measure TikTok&#x27;s...Luminate synthesized disparate [data sources](&amp;#123;&amp;#123; &#x27;data-sources/&#x27; | relative_url &amp;#125;&amp;#125;) from both TikTok and Luminate to bu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/rjonas_%F0%9D%97%A7%F0%9D%97%B6%F0%9D%97%B8%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%B8-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%9F%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2-%F0%9D%97%BF%F0%9D%97%B2-activity-7296217732230914048-VnZB](https://www.linkedin.com/posts/rjonas_%F0%9D%97%A7%F0%9D%97%B6%F0%9D%97%B8%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%B8-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%9F%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2-%F0%9D%97%BF%F0%9D%97%B2-activity-7296217732230914048-VnZB)  
+   Link: <a href="https://www.linkedin.com/posts/rjonas_%F0%9D%97%A7%F0%9D%97%B6%F0%9D%97%B8%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%B8-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%9F%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2-%F0%9D%97%BF%F0%9D%97%B2-activity-7296217732230914048-VnZB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rjonas_%F0%9D%97%A7%F0%9D%97%B6%F0%9D%97%B8%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%B8-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%9F%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2-%F0%9D%97%BF%F0%9D%97%B2-activity-7296217732230914048-VnZB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rob Jonas&#x27; PostTikTok and Luminate release the latest Music Impact Report • Luminate&#x27;s Music Impact Report concludes that &#x27;TikTok is a ke...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/achickwitbeatz_tiktok-and-luminate-release-the-latest-music-activity-7296124880477908992-C3Mx](https://www.linkedin.com/posts/achickwitbeatz_tiktok-and-luminate-release-the-latest-music-activity-7296124880477908992-C3Mx)  
+   Link: <a href="https://www.linkedin.com/posts/achickwitbeatz_tiktok-and-luminate-release-the-latest-music-activity-7296124880477908992-C3Mx" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/achickwitbeatz_tiktok-and-luminate-release-the-latest-music-activity-7296124880477908992-C3Mx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok and Luminate release the latest Music Impact Reportfirst went viral on TikTok. U.S. TikTok users are 74% more likely to discover a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: recordoftheday.com  
-   Link: [https://www.recordoftheday.com/news-and-press/music-impact-report-confirms-tiktok-fuels-music-discovery](https://www.recordoftheday.com/news-and-press/music-impact-report-confirms-tiktok-fuels-music-discovery)  
+   Link: <a href="https://www.recordoftheday.com/news-and-press/music-impact-report-confirms-tiktok-fuels-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/music-impact-report-confirms-tiktok-fuels-music-discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Impact Report confirms: TikTok Fuels...The report was commissioned by TikTok and created by Luminate, with use of their industry-l...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Michael_Arty_Payload_Politics/tiktoks-expanding-role-in-the-music-industry-a-data-driven-analysis-fb48faa84b70](https://medium.com/%40Michael_Arty_Payload_Politics/tiktoks-expanding-role-in-the-music-industry-a-data-driven-analysis-fb48faa84b70)  
+   Link: <a href="https://medium.com/%40Michael_Arty_Payload_Politics/tiktoks-expanding-role-in-the-music-industry-a-data-driven-analysis-fb48faa84b70" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Michael_Arty_Payload_Politics/tiktoks-expanding-role-in-the-music-industry-a-data-driven-analysis-fb48faa84b70</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok&#x27;s Expanding Role in the Music Industry: A Data-...TikTok has become a dominant force in music discovery and commercial success, a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40hygy_magazine/tiktoks-impact-on-the-music-industry-ed73d2611595](https://medium.com/%40hygy_magazine/tiktoks-impact-on-the-music-industry-ed73d2611595)  
+   Link: <a href="https://medium.com/%40hygy_magazine/tiktoks-impact-on-the-music-industry-ed73d2611595" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hygy_magazine/tiktoks-impact-on-the-music-industry-ed73d2611595</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok&#x27;s Impact on the Music Industry | by HYGY MagazineTikTok played a vital role in the success of many of today&#x27;s biggest pop stars, i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lumenate.co  
-   Link: [https://lumenate.co/](https://lumenate.co/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lumenate - Your Inner World AwaitsLumenate uses precise flickering light sequences to gently synchronise your brainwaves, guiding you int...</p></details>
+   Link: <a href="https://lumenate.co/" target="_blank" rel="noopener noreferrer nofollow">https://lumenate.co/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Inner World AwaitsLumenate uses precise flickering light sequences to gently synchronise your brainwaves, guiding you int...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research.cbs.dk  
-   Link: [https://research.cbs.dk/files/92145389/1534552_MastersThesis_BorelliMatilde.pdf](https://research.cbs.dk/files/92145389/1534552_MastersThesis_BorelliMatilde.pdf)  
+   Link: <a href="https://research.cbs.dk/files/92145389/1534552_MastersThesis_BorelliMatilde.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.cbs.dk/files/92145389/1534552_MastersThesis_BorelliMatilde.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Changes in the Cultural and Social Meaning of Musicby M Borelli · Cited by 7 — The most influenced one is music as TikTok&#x27;s main language...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/1c01fxa/what_do_you_think_about_tunes_discovery_on_tiktok/](https://www.reddit.com/r/LetsTalkMusic/comments/1c01fxa/what_do_you_think_about_tunes_discovery_on_tiktok/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/1c01fxa/what_do_you_think_about_tunes_discovery_on_tiktok/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/1c01fxa/what_do_you_think_about_tunes_discovery_on_tiktok/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>what do you think about tunes discovery on TikTok?For me &quot;finding new artists&quot; on tiktok specifically means tiktokers who do weekly artis...</p></details>

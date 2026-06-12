@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c
 - music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c
 tags:
-- music
+- music-3-a01-be
 - ai-training
 - suno-and-udio
 keywords:
-- music
+- music-3-a01-be
 - ai-training
 - suno-and-udio
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The Suno and Udio cases turned AI music training from a theory into a high-stakes copyright fight over copied recordings.
 hero_summary: The Suno and Udio cases turned AI music training from a theory into a high-stakes copyright fight over copied recordings.
 layout: default
 permalink: /suno-and-udio/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-training/
 nav_short_title: Suno and Udio
 title: Why the Suno and Udio lawsuits matter
-title_full: Why the Suno and Udio lawsuits matter | AI Training
+title_full: Why the Suno and Udio lawsuits matter
 display_title_short: Suno and Udio
 display_title: Suno and Udio
 heading_title: Why the Suno and Udio lawsuits matter
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Learn From Copyrighted Music? | Music
+parent_title: Can AI Learn From Copyrighted Music?
 parent_permalink: /ai-training/
 parent_nav_short_title: AI Training
 parent_heading_title: Can AI Learn From Copyrighted Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When AI sounds too much like an artist
 up_link:
   basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -265,7 +265,7 @@ next_link:
   permalink: /transparency-d9b91c/
   short_title: Transparency
   heading_title: The hidden dataset problem in AI music
-date: '2026-06-09 06:42:48 '
+date: '2026-06-11 23:22:52 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuit
 
 ## Introduction
 
-The lawsuits against Suno and Udio transformed a long-running theoretical debate about [AI training]({{ 'ai-training/' | relative_url }}) into a concrete copyright battle over [music]({{ 'music/' | relative_url }}) recordings. Both companies offer systems that generate complete songs from text prompts. In June 2024, major record companies alleged that those systems were built by copying vast numbers of copyrighted sound recordings without permission. The companies did not merely challenge AI-generated outputs; they targeted the training process itself. That distinction matters because the cases ask a foundational question for generative music: can an AI developer lawfully make training copies of commercial recordings without obtaining licences from the owners of those recordings? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
-
+The lawsuits against Suno and Udio transformed a long-running theoretical debate about [AI training]({{ 'ai-training/' | relative_url }}) into a concrete copyright battle over music recordings. Both companies offer systems that generate complete songs from text prompts. In June 2024, major record companies alleged that those systems were built by copying vast numbers of copyrighted sound recordings without permission. The companies did not merely challenge AI-generated outputs; they targeted the training process itself. That distinction matters because the cases ask a foundational question for generative music: can an AI developer lawfully make training copies of commercial recordings without obtaining licences from the owners of those recordings? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-dark.svg" | relative_url }}" alt="Suno and Udio illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The cases are widely viewed as a test of whether music training data will become a licensed market or remain largely governed by claims of [fair use]({{ 'fair-use/' | relative_url }}). Because Suno and Udio acknowledged training on copyrighted recordings while arguing that the practice is lawful, the dispute centres less on whether copying occurred and more on whether that copying is legally excused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</span></span></span>
@@ -284,8 +283,7 @@ The cases are widely viewed as a test of whether music training data will become
 
 The lawsuits were filed by companies affiliated with major record groups including Sony Music, Universal Music Group and Warner Records. The complaints accused Suno and Udio of “mass copyright infringement” through the unauthorised use of copyrighted sound recordings during model training. The labels sought substantial statutory damages and injunctions against further infringement. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span> A notable feature of the complaints was their focus on recordings rather than abstract AI behaviour. The labels argued that training required reproducing protected works and that the resulting systems could compete with the music on which they were trained. According to the complaints, users were able to generate outputs resembling well-known songs and artist styles, which the labels cited as evidence that commercially valuable recordings had been absorbed into the systems. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span> The lawsuits also highlighted specific recordings allegedly copied during training. Reuters reported that the complaints identified hundredsof copyrighted songs and sought damages that could reach up to US$150,000 per infringed work under US copyright law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
-What made the litigation unusual was that it targeted the hidden stage of AI development rather than the final generated songs. Traditional music copyright disputes often revolve around sampling, distribution or [public performance]({{ 'public-play/' | relative_url }}). Here, the core allegation was that the act of building the model itself required unauthorised copies of protected recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
-
+What made the litigation unusual was that it targeted the hidden stage of AI development rather than the final generated songs. Traditional music copyright disputes often revolve around sampling, distribution or public performance. Here, the core allegation was that the act of building the model itself required unauthorised copies of protected recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lPufLa1Lml4" title="SHOCKING Copyright AI Training Report l Lawyer Reacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer">SHOCKING Copyright AI Training Report l Lawyer Reacts</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 35.5K &middot; Uploaded: May 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lPufLa1Lml4">Open on YouTube</a></p></div></div></div>
 
@@ -293,20 +291,19 @@ What made the litigation unusual was that it targeted the hidden stage of AI dev
 
 After the lawsuits were filed, both Suno and Udio responded with a defence that has become central across generative AI litigation: fair use. In court filings during 2024, the companies argued that training on copyrighted recordings was a transformative use because the systems learn patterns from music and then generate new works rather than distributing the originals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</span></span></span>
 
-The significance of those filings went beyond the legal argument. Reports on the filings noted that both companies effectively acknowledged training on copyrighted recordings while contending that the practice was protected by fair use. That shifted the dispute away from factual questions about whether copyrighted music had been used and towards legal questions about whether such use is permissible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">TechCrunchAI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
+The significance of those filings went beyond the legal argument. Reports on the filings noted that both companies effectively acknowledged training on copyrighted recordings while contending that the practice was protected by fair use. That shifted the dispute away from factual questions about whether copyrighted music had been used and towards legal questions about whether such use is permissible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
 
 The competing positions can be summarised as follows:
 
 * **Suno and Udio's position:** training is analogous to learning from existing music and produces new expressive outputs rather than replacement copies. Therefore, the use is transformative and should qualify as fair use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
-* **The labels' position:** the systems required wholesale copying of protected recordings and are capable of competing in the same market as human-created music. Therefore, the copying should require permission and compensation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">RIAARecord Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</span></span></span>
+* **The labels' position:** the systems required wholesale copying of protected recordings and are capable of competing in the same market as human-created music. Therefore, the copying should require permission and compensation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</span></span></span>
 
 The fair-use dispute is especially important because music differs from many other AI training contexts. The value of a [recording]({{ 'recording/' | relative_url }}) often lies in its sound, performance and production choices. The labels argue that extracting those qualities without a licence is not comparable to ordinary human listening and learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-2-dark.svg" | relative_url }}" alt="Suno and Udio illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the admissions became a turning point
 
-One reason the Suno and Udio cases attracted intense [attention]({{ 'attention/' | relative_url }}) is that they produced unusually direct statements about training practices. Before these lawsuits, many AI copyright disputes involved uncertainty about exactly what material had been used. The music cases became notable because the defendants did not simply deny training on copyrighted works. Instead, they largely argued that such training was lawful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">TechCrunchAI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
+One reason the Suno and Udio cases attracted intense [attention]({{ 'attention/' | relative_url }}) is that they produced unusually direct statements about training practices. Before these lawsuits, many AI copyright disputes involved uncertainty about exactly what material had been used. The music cases became notable because the defendants did not simply deny training on copyrighted works. Instead, they largely argued that such training was lawful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
 
 That distinction altered the debate. If training on copyrighted recordings occurred, then the legal focus shifts to questions such as:
 
@@ -316,7 +313,6 @@ That distinction altered the debate. If training on copyrighted recordings occur
 * Whether AI-generated music competes with the same commercial market as the recordings used for training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
 The lawsuits therefore became a vehicle for testing the boundaries of copyright law rather than a dispute over factual [access]({{ 'access/' | relative_url }}) to music catalogues.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_wuKZR0Pv-Q" title="Suno AI Caught Infringing Copyright Amidst Major Lawsuit | Udio Responds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_wuKZR0Pv-Q" target="_blank" rel="noopener noreferrer">Suno AI Caught Infringing Copyright Amidst Major Lawsuit | Udio Responds</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 19.3K &middot; Uploaded: July 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_wuKZR0Pv-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_wuKZR0Pv-Q">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +326,6 @@ The cases also revealed how difficult it can be to separate AI development from 
 
 A broader implication is that the music industry increasingly views training data as a licensable asset. While the lawsuits began as infringement claims, subsequent industry developments included licensing discussions and settlements involving some parties, suggesting that commercial licensing may become one path forward even as core legal questions remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">Wall Street Journal Universal Music Settles With AI Firm Udio</span><span class="citation-popover-snippet">As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-3-dark.svg" | relative_url }}" alt="Suno and Udio illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these lawsuits matter
 
@@ -338,9 +333,7 @@ The Suno and Udio cases matter because they put a concrete legal question before
 
 Unlike debates about artist style imitation, synthetic voices or AI-generated outputs, these lawsuits focus directly on the evidence trail of training copies. The cases therefore sit at the heart of the broader conflict between generative AI and music copyright. Their eventual outcomes are likely to influence not only AI music generators but also how courts evaluate training data practices across creative industries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u9lnUyXsAIE" title="Suno AI Lawsuit Just Settled - What Does It Means for Music Licensing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer">Suno AI Lawsuit Just Settled - What Does It Means for Music Licensing?</a></p><p class="youtube-embed-meta">Channel: YoPaulie Music | Tech • Truth • Commentary &middot; Views: 63.7K &middot; Uploaded: November 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u9lnUyXsAIE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -739,148 +732,148 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: Music labels sue AI companies Suno, Udio for US copyright infringement  
-   Link: [https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/](https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/)  
+   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/](https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARecord Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</p></details>
+   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/](https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: techcrunch.com  
-   Link: [https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/](https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechCrunchAI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</p></details>
+   Link: <a href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music](https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music)  
+   Link: <a href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/gold-platinum/](https://www.riaa.com/gold-platinum/)  
+   Link: <a href="https://www.riaa.com/gold-platinum/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Gold &amp; PlatinumRIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to hon...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: riaa.com  
    Title: Udio Complaint 6.24.241  
-   Link: [https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf](https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Udio-Complaint-6.24.241.pdf24 Jun 2024 — Defendants John Does 1-10 are unknown parties who directly copied Plaintiffs&#x27; federally copyrigh...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: suno.com  
-   Link: [https://suno.com/](https://suno.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno | AI Music GeneratorCreate stunning original music for free in seconds using our AI generator. Make your own masterpieces, share wit...</p></details>
+   Link: <a href="https://suno.com/" target="_blank" rel="noopener noreferrer nofollow">https://suno.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music GeneratorCreate stunning original music for free in seconds using our AI generator. Make your own masterpieces, share wit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/](https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theverge.com  
    Title: The Verge AI music startups say copyright violation is just rock and roll  
-   Link: [https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)  
+   Link: <a href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/](https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As Suno and Udio admit training AI with unlicensed...5 Aug 2024 — Controversial AI music startups Suno and Udio were sued by the major r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/](https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno argues none of the millions of tracks made on its...26 Aug 2025 — In August 2024, both Suno and Udio argued that their use of copyr...</p></details>
    Published: August 2024  
 
 13. <a id="endnote-13"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/](https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideUMG and Sony seek to add over 61k recordings to Suno...3 days ago — UMG and Sony seek to add over 61k recordings...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/](https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno moves to keep size of its AI training data sealed in...2 days ago — The filing makes clear that Suno is not attempting to seal the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wsj.com  
    Title: Wall Street Journal Universal Music Settles With AI Firm Udio  
-   Link: [https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39](https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39)  
+   Link: <a href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/](https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Udio admits to scraping YouTube audio for AI training in...6 days ago — In August 2024, Udio and Suno pretty much admitted that they use...</p></details>
    Published: August 2024  
 
 17. <a id="endnote-17"></a>
    Source: musicbusinessworldwide.com  
    Title: SUNO response to copyright suit  
-   Link: [https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf](https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf)  
+   Link: <a href="https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 1:24-cv-11611-FDS Document 28 Filed 08/01/...by AOFD SUNO — The only act that Plaintiffs contend was unlawful is Suno&#x27;s allegedly h...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Udio](https://en.wikipedia.org/wiki/Udio)  
+   Link: <a href="https://en.wikipedia.org/wiki/Udio" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Udio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UdioUdio is a generative artificial intelligence model that produces music based on simple text prompts. It can generate vocals and in...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/](https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/)  
+   Link: <a href="https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA targeting Suno and music creatorsThe RIAA will not stop at destroying just Udio, Suno is the one that they really want, and they wil...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV1bH9SEfes/](https://www.instagram.com/reel/DV1bH9SEfes/)  
+   Link: <a href="https://www.instagram.com/reel/DV1bH9SEfes/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1bH9SEfes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Setting the record straight on &quot;Fair Use&quot; and &quot;A.I. training...RIAA SUES SUNO AND UDIO for allegedly training AI models using copyrighte...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theplayground.co.uk  
-   Link: [https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/](https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/)  
+   Link: <a href="https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/" target="_blank" rel="noopener noreferrer nofollow">https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno Announces Updates Amid Ongoing Legal BattlesBoth Suno and rival Udio have acknowledged training their AI on copyrighted music, maint...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/](https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/)  
+   Link: <a href="https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno doesn&#x27;t understand copyright law and is wrong about...22 Oct 2025 — Not only is Suno wrong to claim that AI training is fair use un...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/](https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/)  
+   Link: <a href="https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/</a>  
 
 24. <a id="endnote-24"></a>
    Source: musiccreator.ai  
-   Link: [https://www.musiccreator.ai/udio](https://www.musiccreator.ai/udio)  
+   Link: <a href="https://www.musiccreator.ai/udio" target="_blank" rel="noopener noreferrer nofollow">https://www.musiccreator.ai/udio</a>  
 
 25. <a id="endnote-25"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/](https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/)  
+   Link: <a href="https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First major ruling on AI and fair use goes against the copyright...25 Jun 2025 — A judge has ruled in a legal battle between a group of...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: transparencycoalition.ai  
    Title: ai music startup suno admits to using copyrighted music but says its fair use  
-   Link: [https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use](https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use)  
+   Link: <a href="https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music startup Suno admits to using copyrighted...7 Aug 2025 — AI music startup Suno has admitted that its AI model is trained on copy...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: completemusicupdate.com  
    Title: suno says indie musicians copyright claims about its ais output are bogus  
-   Link: [https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/](https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/)  
+   Link: <a href="https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno says indie musician&#x27;s copyright claims about its AI&#x27;s...20 Aug 2025 — In June, independent artist Anthony Justice sued AI company S...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lPufLa1Lml4](https://www.youtube.com/watch?v=lPufLa1Lml4)  
+   Link: <a href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lPufLa1Lml4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING Copyright AI Training Report l Lawyer ReactsAI Training on Copyrighted Data Is in Trouble... Massive Suno v5.5 UPDATE — The Cop...</p></details>

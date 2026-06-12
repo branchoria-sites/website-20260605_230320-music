@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b
 - music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e
 tags:
-- music
+- music-3-a01-be
 - dance-music
 - dj-curation
 keywords:
-- music
+- music-3-a01-be
 - dance-music
 - dj-curation
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: DJs guide social energy through tempo, transitions, and spatial cues on the dance floor.
 hero_summary: DJs guide social energy through tempo, transitions, and spatial cues on the dance floor.
 layout: default
 permalink: /dj-curation/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /dance-music/
 nav_short_title: DJ Curation
 title: How DJs Shape Movement and Energy in Dance Spaces
-title_full: How DJs Shape Movement and Energy in Dance Spaces | Dance Music
+title_full: How DJs Shape Movement and Energy in Dance Spaces
 display_title_short: DJ Curation
 display_title: DJ Curation
 heading_title: How DJs Shape Movement and Energy in Dance Spaces
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Dance Music Builds A Room | Music
+parent_title: How Dance Music Builds A Room
 parent_permalink: /dance-music/
 parent_nav_short_title: Dance Music
 parent_heading_title: How Dance Music Builds A Room
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Club Architecture and Lighting Shape Dance Interaction
 up_link:
   basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -259,7 +259,7 @@ next_link:
   permalink: /inclusion-boundaries/
   short_title: Inclusion Boundaries
   heading_title: Who Belongs on the Dance Floor and Why
-date: '2026-06-09 07:24:37 '
+date: '2026-06-11 23:43:52 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1.webp
@@ -270,47 +270,41 @@ image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordin
 
 In club culture, DJs do more than play records — they actively **structure and steer collective movement** on the dance floor. Through choices in tempo, track sequencing and transitions, live reading of [physical]({{ 'physical/' | relative_url }}) responses, and embodied [performance gestures]({{ 'performance-gestures/' | relative_url }}), DJs shape how a crowd’s energy rises, shifts and synchronises. Rather than simply supplying sound, they act as *spatial directors* of bodies and affect, creating temporal arcs that invite collective motion, pauses, release and connection within the social space of a club. This page unpacks the mechanisms through which DJs influence collective movement and coordination in club environments, drawing on empirical research and performance practice.
 
-
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-dark.svg" | relative_url }}" alt="DJ Curation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Tempo and Rhythm Selection
 
-At the most fundamental level, **tempo and [rhythm]({{ 'rhythm/' | relative_url }}) shape dancers’ physical responses**. Empirical studies of group synchrony at dance events show that **rhythmic pulsations in the range of typical walking tempo (about 100–150 beats per minute)** are especially effective in eliciting synchronised movement across a crowd, likely because they align with familiar motor patterns and promote shared bodily entrainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016</span></span></span>
+At the most fundamental level, **tempo and [rhythm]({{ 'rhythm/' | relative_url }}) shape dancers’ physical responses**. Empirical studies of group synchrony at dance events show that **rhythmic pulsations in the range of typical walking tempo (about 100–150 beats per minute)** are especially effective in eliciting synchronised movement across a crowd, likely because they align with familiar motor patterns and promote shared bodily entrainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016</span></span></span>
 
-DJs curate the flow of tracks not just for musical coherence but to **maintain or shift the crowd’s momentum**. For instance, selections with steady, pronounced beat structures invite more uniform movement, whereas tracks with variable rhythmic textures can invite variation in dancers’ motion, influencing where bodies speed up, slow down or lock into cohesive patterns. Research in dance studies and [music]({{ 'music/' | relative_url }}) psychology suggests that predictable rhythmic frameworks favour emergence of *collective synchrony* — a state where dancers move together in a coordinated temporal field — which can blur individual boundaries and enhance feelings of group cohesion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
+DJs curate the flow of tracks not just for musical coherence but to **maintain or shift the crowd’s momentum**. For instance, selections with steady, pronounced beat structures invite more uniform movement, whereas tracks with variable rhythmic textures can invite variation in dancers’ motion, influencing where bodies speed up, slow down or lock into cohesive patterns. Research in dance studies and music psychology suggests that predictable rhythmic frameworks favour emergence of *collective synchrony* — a state where dancers move together in a coordinated temporal field — which can blur individual boundaries and enhance feelings of group cohesion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
 
 In practice, DJs often organise sets to exploit these rhythmic effects: they may start with mid‑tempo tracks to draw dancers in, then subtly raise the **tempo over time** or pivot to tracks with particular rhythmic breaks that encourage more intense or varied movement patterns. This deliberate choice of tempos across a set acts as a **social pacing mechanism** that guides the overall kinetic energy of the crowd.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b2JvzT2sYhg" title="How Pro DJs Keep The Dance Floor Full ALL NIGHT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b2JvzT2sYhg" target="_blank" rel="noopener noreferrer">How Pro DJs Keep The Dance Floor Full ALL NIGHT</a></p><p class="youtube-embed-meta">Channel: Chris M &middot; Views: 105.7K &middot; Uploaded: January 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b2JvzT2sYhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b2JvzT2sYhg">Open on YouTube</a></p></div></div></div>
 
 ## Transitions and Flow Management
 
-The way DJs move from one track to another — the **transitions and mixing techniques** — is central to shaping collective movement. Transitions do not merely bridge songs; they create **momentary shifts in tension and release** that encourage dancers to adjust their movement collectively. Techniques such as beatmatching, crossfading and use of effects vary across genres but serve a common purpose: to control the continuity or disruption of rhythmic energy on the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">DancecultPlaying by the Rules?: Genre Conventions in Contemporary DJ Performance | Dancecult: Journal of Electronic Music and Dance Cult...</span></span></span>
+The way DJs move from one track to another — the **transitions and mixing techniques** — is central to shaping collective movement. Transitions do not merely bridge songs; they create **momentary shifts in tension and release** that encourage dancers to adjust their movement collectively. Techniques such as beatmatching, crossfading and use of effects vary across genres but serve a common purpose: to control the continuity or disruption of rhythmic energy on the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">Playing by the Rules?: Genre Conventions in Contemporary DJ Performance &#124; Dancecult: Journal of Electronic Music and Dance Cult...</span></span></span>
 
 In electronic [dance music]({{ 'dance-music/' | relative_url }}) practices (e.g. house, techno), DJs often structure sets with **build‑ups and breakdowns** embedded within transitions. These micro‑dramaturgical elements create *anticipation* and *release* moments that can cause noticeable changes in crowd movement — accelerating during climactic points and relaxing during quieter passages. Producers and performers alike note that the precise timing of these cues alters not just musical intensity but the physicality of dancers’ engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordcase.de/en/crowdreading-dj-control-crowd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordcase.de">[Recordcase.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordcase.de</span><span class="citation-popover-title">crowdreading dj control crowd</span><span class="citation-popover-snippet">Crowdreading for DJs – Guide the Audience &amp; Tech Tips 2025August 11, 2025...</span><span class="citation-popover-meta">Published: August 11, 2025</span></span></span>
 
 Beyond technical mixing, research on performance expertise shows that **experienced DJs use bodily gestures and movements around their equipment** as part of the communicative process with the crowd. Professional DJs tend to integrate more expressive movement, using body language to signal changes or to embody rhythmic cues, which can subtly cue dancers’ [attention]({{ 'attention/' | relative_url }}) and collective responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.york.ac.uk">[Pure York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.york.ac.uk</span><span class="citation-popover-title">Pure York Die DJ-Performance im Club-Kontext</span><span class="citation-popover-snippet">Pure YorkDie DJ-Performance im Club-Kontext - eine Beobachtungsstudie - York Research Database...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-2-dark.svg" | relative_url }}" alt="DJ Curation illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spatial Influence on Dance Floors
 
 DJs’ influence extends into the **spatial dynamics** of a club. The positioning of [sound systems]({{ 'sound-systems/' | relative_url }}) and DJ booths, combined with how DJs direct their interaction with the crowd, affects how dancers distribute themselves and move as a group. Research in techno dance environments notes that DJs often seek a form of *kinaesthetic empathy* — they physically engage with the space and crowd, creating a reciprocal relationship where dancers respond to the DJ’s embodied presence as much as to the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
 
-This embodied dimension aligns with ethnographic accounts of club [culture]({{ 'culture/' | relative_url }}), where DJs’ **visible engagement — looking at, responding to, and moving with the crowd — serves as a form of leadership** within the dance space. Their gestures, timing in transitions, and occasional physical interaction with dancers help structure clusters of movement, indicating shifts in collective focus or inviting movement into particular areas of the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openurl.ebsco.com">[EBSCO OpenURL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openurl.ebsco.com</span><span class="citation-popover-snippet">EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. | EBSCOhost...</span></span></span>
+This embodied dimension aligns with ethnographic accounts of club [culture]({{ 'culture/' | relative_url }}), where DJs’ **visible engagement — looking at, responding to, and moving with the crowd — serves as a form of leadership** within the dance space. Their gestures, timing in transitions, and occasional physical interaction with dancers help structure clusters of movement, indicating shifts in collective focus or inviting movement into particular areas of the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openurl.ebsco.com">[EBSCO OpenURL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openurl.ebsco.com</span><span class="citation-popover-snippet">EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. &#124; EBSCOhost...</span></span></span>
 
 Moreover, DJs read cues from the crowd’s spatial behaviour — such as density fluctuations, clusters around the booth, or gaps in movement — and adjust their set accordingly. This real‑time *reading and responding* ensures that the spatial organisation of bodies remains attuned to the evolving energy and rhythm of the event, making DJ performance a **dynamic feedback system linking sound, tempo and movement**.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGKFKvrmt1c" title="How Pro DJs make their Drops BETTER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGKFKvrmt1c" target="_blank" rel="noopener noreferrer">How Pro DJs make their Drops BETTER</a></p><p class="youtube-embed-meta">Channel: DJ Carlo &middot; Views: 1.6M &middot; Uploaded: June 2024 &middot; Length: 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGKFKvrmt1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGKFKvrmt1c">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xa7UX8ZAnVY" title="#285 5 Essential DJ Tips To Steer The Crowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xa7UX8ZAnVY" target="_blank" rel="noopener noreferrer">#285 5 Essential DJ Tips To Steer The Crowd</a></p><p class="youtube-embed-meta">Channel: Laidback Luke &middot; Views: 21.2K &middot; Uploaded: October 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xa7UX8ZAnVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xa7UX8ZAnVY">Open on YouTube</a></p></div></div></div>
 
 ## Conclusion
 
-DJs play an active, embodied role in shaping collective movement within club spaces. Through deliberate tempo choices, carefully managed transitions, and responsive physical engagement with the crowd, they guide how energy accumulates, circulates and dissipates on the dance floor. Far from passive music playback, DJing is a **social choreography** that leverages musical structure and real‑time reading of dancers’ responses to cultivate synchronised motion and shared affective experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016</span></span></span>
-
+DJs play an active, embodied role in shaping collective movement within club spaces. Through deliberate tempo choices, carefully managed transitions, and responsive physical engagement with the crowd, they guide how energy accumulates, circulates and dissipates on the dance floor. Far from passive music playback, DJing is a **social choreography** that leverages musical structure and real‑time reading of dancers’ responses to cultivate synchronised motion and shared affective experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-3-dark.svg" | relative_url }}" alt="DJ Curation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -710,85 +704,85 @@ DJs play an active, embodied role in shaping collective movement within club spa
 
 1. <a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
    Published: October 20, 2016  
 
 2. <a id="endnote-2"></a>
    Source: dj.dancecult.net  
-   Link: [https://dj.dancecult.net/index.php/dancecult/article/view/1305](https://dj.dancecult.net/index.php/dancecult/article/view/1305)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DancecultPlaying by the Rules?: Genre Conventions in Contemporary DJ Performance | Dancecult: Journal of Electronic Music and Dance Cult...</p></details>
+   Link: <a href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow">https://dj.dancecult.net/index.php/dancecult/article/view/1305</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Playing by the Rules?: Genre Conventions in Contemporary DJ Performance | Dancecult: Journal of Electronic Music and Dance Cult...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: recordcase.de  
    Title: crowdreading dj control crowd  
-   Link: [https://www.recordcase.de/en/crowdreading-dj-control-crowd](https://www.recordcase.de/en/crowdreading-dj-control-crowd)  
+   Link: <a href="https://www.recordcase.de/en/crowdreading-dj-control-crowd" target="_blank" rel="noopener noreferrer nofollow">https://www.recordcase.de/en/crowdreading-dj-control-crowd</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowdreading for DJs – Guide the Audience &amp; Tech Tips 2025August 11, 2025...</p></details>
    Published: August 11, 2025  
 
 4. <a id="endnote-4"></a>
    Source: openurl.ebsco.com  
-   Link: [https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&sid=ebsco%3Aplink%3Acrawler](https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&sid=ebsco%3Aplink%3Acrawler)  
+   Link: <a href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow">https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. | EBSCOhost...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1029864917712345](https://journals.sagepub.com/doi/10.1177/1029864917712345)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1029864917712345</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pure.york.ac.uk  
    Title: Pure York Die DJ-Performance im Club-Kontext  
-   Link: [https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie](https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie)  
+   Link: <a href="https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pure YorkDie DJ-Performance im Club-Kontext - eine Beobachtungsstudie - York Research Database...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1742715018765050](https://journals.sagepub.com/doi/10.1177/1742715018765050)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1742715018765050" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1742715018765050</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brigitte Biehl, 2019March 29, 2018...</p></details>
    Published: March 29, 2018  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Coordinated rhythmic m  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment - PMCOctober 20, 2016 — INTRODUCTION Dancing with ot...</p></details>
    Published: October 20, 2016  
 
 9. <a id="endnote-9"></a>
    Source: pure.york.ac.uk  
    Title: york.ac.uk Performance expertise of DJs in the club-context  
-   Link: [https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context](https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context)  
+   Link: <a href="https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>expertise of DJs in the club-context - York Research DatabasePERFORMANCE EXPERTISE OF DJS IN THE CLUB-CONTEXT Alexander Förstel, Hauke Eg...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: journals.gold.ac.uk  
-   Link: [https://journals.gold.ac.uk/index.php/sysmus14/article/view/254](https://journals.gold.ac.uk/index.php/sysmus14/article/view/254)  
+   Link: <a href="https://journals.gold.ac.uk/index.php/sysmus14/article/view/254" target="_blank" rel="noopener noreferrer nofollow">https://journals.gold.ac.uk/index.php/sysmus14/article/view/254</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the club experience: Affective and bodily experiences of electronic dance music | International Conference of Students of Systematic Musi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchonline.gcu.ac.uk  
-   Link: [https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/](https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/)  
+   Link: <a href="https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Glasgow Caledonian UniversityJanuary 1, 2009 — &#x27;LAGER, LAGER SHOUTING&#x27;: THE ROLE OF MUSIC AND DJS IN NIGHTCLUB DISORDER CONTROL * Alasdai...</p></details>
    Published: January 1, 2009  
 
 13. <a id="endnote-13"></a>
    Source: pure.au.dk  
-   Link: [https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen](https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen)  
+   Link: <a href="https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>influence of visual cues on temporal anticipation and movement synchronization with musical sequences - Aarhus UniversityNovember 1, 2018...</p></details>
    Published: November 1, 2018  
 
 14. <a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2412-3811/11/4/123](https://www.mdpi.com/2412-3811/11/4/123)  
+   Link: <a href="https://www.mdpi.com/2412-3811/11/4/123" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2412-3811/11/4/123</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RESULTS 3.1. CHARACTERIZATION OF CROWD–STRUCTURE INTERACTION 3.1.1. INFLUENCE OF MUSIC ON CROWD ACTION Coordinated collective action duri...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: repository.uel.ac.uk  
    Title: uel.ac.uk Disco and the Queering of the Dance Floor: UEL Research Repository  
-   Link: [https://repository.uel.ac.uk/item/86105](https://repository.uel.ac.uk/item/86105)  
+   Link: <a href="https://repository.uel.ac.uk/item/86105" target="_blank" rel="noopener noreferrer nofollow">https://repository.uel.ac.uk/item/86105</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2...</p></details>
 
 0
@@ -797,28 +791,27 @@ DJs play an active, embodied role in shaping collective movement within club spa
 
 1. Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. [https://doi.org/10.1080/09502386.2011.5](https://doi.org/10.1080/09502386.2011.5)
 
-
 16. <a id="endnote-16"></a>
    Source: pure.hud.ac.uk  
    Title: hud.ac.uk D J Performance Analysis: Issues, concepts, methods  
-   Link: [https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/](https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/)  
+   Link: <a href="https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Analysis: Issues, concepts, methods - University of Huddersfield Research PortalDecember 19, 2024 — DJ PERFORMANCE ANALYSIS...</p></details>
    Published: December 19, 2024  
 
 17. <a id="endnote-17"></a>
    Source: epjdatascience.springeropen.com  
    Title: Lees^{1}, * Sander Klous^{1}  
-   Link: [https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9)  
+   Link: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9" target="_blank" rel="noopener noreferrer nofollow">https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>springeropen.comState-space models reveal bursty movement behaviour of dance event visitors | EPJ Data Science | Full TextJuly 6, 2021 —...</p></details>
    Published: July 6, 2021  
 
 18. <a id="endnote-18"></a>
    Source: qualitative-research.net  
    Title: The Lord of the Loops  
-   Link: [https://www.qualitative-research.net/index.php/fqs/article/view/1338](https://www.qualitative-research.net/index.php/fqs/article/view/1338)  
+   Link: <a href="https://www.qualitative-research.net/index.php/fqs/article/view/1338" target="_blank" rel="noopener noreferrer nofollow">https://www.qualitative-research.net/index.php/fqs/article/view/1338</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observations at the Club Culture DJ-Desk | Forum Qualitative Sozialforschung / Forum: Qualitative Social ResearchTHE LORD OF THE LOOPS. O...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1742715018765050](https://journals.sagepub.com/doi/abs/10.1177/1742715018765050)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1742715018765050" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1742715018765050</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.com‘In the mix’: Relational leadership explored through an analysis of techno DJs and dancers - Brigitte Biehl, 2019March 29, 201...</p></details>

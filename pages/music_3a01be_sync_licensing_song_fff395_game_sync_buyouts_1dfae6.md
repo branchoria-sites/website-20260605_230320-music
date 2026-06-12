@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e
 - music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca
 tags:
-- music
+- music-3-a01-be
 - sync
 - game-deals
 keywords:
-- music
+- music-3-a01-be
 - sync
 - game-deals
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Game sync can make a song part of a playable world, but long usage terms and buyout offers can create disputes.
 hero_summary: Game sync can make a song part of a playable world, but long usage terms and buyout offers can create disputes.
 layout: default
 permalink: /game-deals/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /sync/
 nav_short_title: Game Deals
 title: When Songs Become Part of Game Worlds
-title_full: When Songs Become Part of Game Worlds | Sync
+title_full: When Songs Become Part of Game Worlds
 display_title_short: Game Deals
 display_title: Game Deals
 heading_title: When Songs Become Part of Game Worlds
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Screen Placements Revive Songs | Music
+parent_title: How Screen Placements Revive Songs
 parent_permalink: /sync/
 parent_nav_short_title: Sync
 parent_heading_title: How Screen Placements Revive Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why One Scene Can Rewrite a Song
 up_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -265,7 +265,7 @@ next_link:
   permalink: /revenue/
   short_title: Revenue
   heading_title: Why Sync Money Is Big but Not Magic
-date: '2026-06-09 06:37:34 '
+date: '2026-06-11 23:20:02 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1.webp
@@ -276,15 +276,14 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_
 
 A game sync placement can give a song a remarkably long second life. Unlike a film scene that lasts a few minutes, a game may expose players to the same music across dozens or even hundreds of hours. A track can become tied to a virtual city, a favourite mission, a racing route or a multiplayer memory. That intensity of exposure makes game [licensing]({{ 'licensing/' | relative_url }}) valuable, but it also creates tensions over [ownership]({{ 'ownership/' | relative_url }}), duration and compensation. The central dispute is often simple: developers want certainty and long-term control, while musicians and composers want to preserve future income and rights. As games have grown into one of the world's largest entertainment sectors, arguments over buyouts, royalties and licence terms have become increasingly visible. VGC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-dark.svg" | relative_url }}" alt="Game Deals illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Games Create Repeated Listening
 
-[Music]({{ 'music/' | relative_url }}) in games functions differently from music in most screen media. A player may hear a song repeatedly while exploring an open world, replaying levels or spending months in a live-service title. The music becomes part of the game's identity rather than merely accompanying a single narrative moment.
+Music in games functions differently from music in most screen media. A player may hear a song repeatedly while exploring an open world, replaying levels or spending months in a live-service title. The music becomes part of the game's identity rather than merely accompanying a single narrative moment.
 
 This repeated exposure can create unusually strong associations. Radio stations in open-world games, licensed songs in sports titles and recurring menu themes often become inseparable from the player's [memory]({{ 'memory/' | relative_url }}) of the game itself. When a placement succeeds, the song benefits from long-term engagement rather than a brief burst of [attention]({{ 'attention/' | relative_url }}).
 
-The commercial implications are significant. A publisher may want the right to keep using the music across updates, downloadable content, remasters, streaming features and future platform releases. For rights holders, however, granting such broad rights can mean giving up opportunities to renegotiate as a game's audience and value grow over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[Polygon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span>
+The commercial implications are significant. A publisher may want the right to keep using the music across updates, downloadable content, remasters, streaming features and future platform releases. For [rights]({{ 'rights/' | relative_url }}) holders, however, granting such broad rights can mean giving up opportunities to renegotiate as a game's audience and value grow over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[Polygon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span>
 
 ## How Game Sync Terms Differ
 
@@ -296,14 +295,13 @@ Because of this uncertainty, music licences in games are frequently negotiated a
 
 The result is that game music rights are not merely about initial use. They are also about future distribution, re-releases, remasters and platform migrations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NIELrZ8zCU" title="GTA Trilogy - REMOVED SONGS LEAK Debunked! What We Know About The Music So Far" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NIELrZ8zCU" target="_blank" rel="noopener noreferrer">GTA Trilogy - REMOVED SONGS LEAK Debunked! What We Know About The Music So Far</a></p><p class="youtube-embed-meta">Channel: Saintsfan &middot; Views: 28.9K &middot; Uploaded: November 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NIELrZ8zCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NIELrZ8zCU">Open on YouTube</a></p></div></div></div>
 
 ### The Cost of Future Flexibility
 
 For developers, broad rights reduce future risk. A licence covering all platforms, territories and future versions prevents costly renegotiations later. For musicians, however, such terms can dramatically increase the value of what they are surrendering.
 
-Industry guidance for game composers frequently stresses that contracts should specify who controls soundtrack releases, live performances, streaming exploitation and other future uses. These rights may become valuable years after a game's launch, especially if a soundtrack develops a dedicated audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcam.co.uk">[PCAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcam.co.uk</span><span class="citation-popover-title">PCAMA GUIDE FOR COMPOSERS IN THE VIDEO GAMES</span><span class="citation-popover-snippet">PCAMIt is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</span></span></span>
+Industry guidance for game composers frequently stresses that contracts should specify who controls soundtrack releases, live performances, streaming exploitation and other future uses. These rights may become valuable years after a game's launch, especially if a soundtrack develops a dedicated audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcam.co.uk">[PCAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcam.co.uk</span><span class="citation-popover-title">PCAMA GUIDE FOR COMPOSERS IN THE VIDEO GAMES</span><span class="citation-popover-snippet">It is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</span></span></span>
 
 ## The Dispute Over Buyouts and Royalties
 
@@ -315,11 +313,10 @@ From a publisher's perspective, buyouts simplify administration. The company kno
 
 This tension has become one of the most debated issues in game music. The UK-based Musicians' Union has publicly campaigned against contracts that exclude composers from future royalty participation, arguing that buyouts can prevent creators from sharing in the long-term success of their work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/campaigns/fair-score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Musicians&#x27; Union Composers Against Music Buyouts</span><span class="citation-popover-snippet">Watch the video looking at buyouts, royalties, and protecting your future.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-2-dark.svg" | relative_url }}" alt="Game Deals illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Composers Push Back
 
-Composers and songwriters often argue that game music can generate value beyond the game itself. Soundtracks may be streamed, sold separately, performed in [concerts]({{ 'concerts/' | relative_url }}) or licensed into other media. When rights are transferred entirely, creators may lose access to those future revenue streams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWhy do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+Composers and songwriters often argue that game music can generate value beyond the game itself. Soundtracks may be streamed, sold separately, performed in [concerts]({{ 'concerts/' | relative_url }}) or licensed into other media. When rights are transferred entirely, creators may lose access to those future revenue streams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
 Professional discussions among composers frequently centre on the same concern: a buyout may appear reasonable when a project is small, but its consequences can extend decades into the future. Independent composers regularly debate how much additional compensation should be required before surrendering ownership altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">company wants a total buyout of music I made for their game</span><span class="citation-popover-snippet">What would a fair price be? For the licensing I had charged about $400 + $800 per minute.Read more...</span></span></span>
 
@@ -331,15 +328,13 @@ Publishers have their own practical concerns. Games involve complex chains of ri
 
 For large companies managing global franchises, predictability can outweigh the benefits of royalty-sharing models. Negotiating separate approvals every time a game expands or reappears on a new platform creates administrative costs and legal risks that publishers often seek to avoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5qQLpKHBqFc" title="Game Music Contracts, Taxes, &amp; Pricing | Audience Q&amp;A with Peter Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5qQLpKHBqFc" target="_blank" rel="noopener noreferrer">Game Music Contracts, Taxes, &amp; Pricing | Audience Q&amp;A with Peter Jones</a></p><p class="youtube-embed-meta">Channel: Steven Melin &middot; Views: 1.0K &middot; Uploaded: February 2020 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5qQLpKHBqFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5qQLpKHBqFc">Open on YouTube</a></p></div></div></div>
 
 ## When Licensing Terms Alter the Game Itself
 
-Perhaps the clearest demonstration of licensing stakes comes when rights expire. Several major games have had songs removed, replaced or altered because publishers could not or would not renew music licences. The Grand Theft Auto series has become a widely cited example. Over time, various entries have lost licensed tracks from their in-game radio stations after agreements expired, leading to patched versions that differ from the original release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">GamerantGrand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> Polygon These cases reveal a distinctive feature of game music licensing: contractual decisions made years earlier can directly affect what future pl <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[polygon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span> ayers experience. A film scene generally remains fixed once released, but a digitally distributed game can be modified long after launch. When music rights lapse, the playable world itself changes.
+Perhaps the clearest demonstration of licensing stakes comes when rights expire. Several major games have had songs removed, replaced or altered because publishers could not or would not renew music licences. The Grand Theft Auto series has become a widely cited example. Over time, various entries have lost licensed tracks from their in-game radio stations after agreements expired, leading to patched versions that differ from the original release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> Polygon These cases reveal a distinctive feature of game music licensing: contractual decisions made years earlier can directly affect what future pl <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[polygon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span> ayers experience. A film scene generally remains fixed once released, but a digitally distributed game can be modified long after launch. When music rights lapse, the playable world itself changes.
 
-For fans, this can feel like cultural erosion. For publishers, it illustrates the cost of limited-term licensing. For rights holders, it demonstrates why long-term usage rights carry substantial value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">GamerantGrand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gtaforums.com">[GTA Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gtaforums.com</span><span class="citation-popover-title">976405 is there a way to renew expired music licenses</span><span class="citation-popover-snippet">There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</span></span></span>
-
+For fans, this can feel like cultural erosion. For publishers, it illustrates the cost of limited-term licensing. For rights holders, it demonstrates why long-term usage rights carry substantial value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gtaforums.com">[GTA Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gtaforums.com</span><span class="citation-popover-title">976405 is there a way to renew expired music licenses</span><span class="citation-popover-snippet">There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aqCeihR8eiM" title="Music Licensing in Gaming: The Expanding Frontier for Music Placement &amp; Artist Discovery in Gaming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aqCeihR8eiM" target="_blank" rel="noopener noreferrer">Music Licensing in Gaming: The Expanding Frontier for Music Placement &amp; Artist Discovery in Gaming</a></p><p class="youtube-embed-meta">Channel: Ohio University Music Industry Summit &middot; Views: 150 &middot; Uploaded: June 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aqCeihR8eiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aqCeihR8eiM">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +345,6 @@ The growth of live-service games, digital storefronts and soundtrack streaming h
 As games become longer-lived and more interconnected with streaming platforms, soundtrack releases and online services, the distinction between a simple sync placement and an ongoing music business relationship becomes harder to maintain. The core tension remains unresolved: developers seek permanent certainty, while creators seek participation in the enduring value their music may generate.
 
 That tension is precisely what makes game placements different from many other forms of sync licensing. A song in a game is not merely accompanying a scene. It may become part of a world that players return to for years, and the fight over who benefits from that longevity increasingly sits at the centre of modern game music deals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The offer, part of a $22,500 total payment shared among the band members, was for a full buyout of any future royalties from the game. Cr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videogameschronicle.com">[VGC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videogameschronicle.com</span><span class="citation-popover-title">composers tell us why developers still dont take game music seriously</span><span class="citation-popover-snippet">VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-3-dark.svg" | relative_url }}" alt="Game Deals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -751,184 +745,184 @@ That tension is precisely what makes game placements different from many other f
 1. <a id="endnote-1"></a>
    Source: videogameschronicle.com  
    Title: composers tell us why developers still dont take game music seriously  
-   Link: [https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/](https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/)  
+   Link: <a href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow">https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</p></details>
    Published: May 2021  
 
 2. <a id="endnote-2"></a>
    Source: polygon.com  
    Title: Do TV shows and movies lose rights to songs like video games do?  
-   Link: [https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems](https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems)  
+   Link: <a href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/](https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</p></details>
+   Link: <a href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</p></details>
    Published: October 1, 2024  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: company wants a total buyout of music I made for their game  
-   Link: [https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/](https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/)  
+   Link: <a href="https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What would a fair price be? For the licensing I had charged about $400 + $800 per minute.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gamerant.com  
    Title: grand theft auto rockstar remove music radio stations licensing  
-   Link: [https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/](https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GamerantGrand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</p></details>
+   Link: <a href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: polygon.com  
    Title: gta 4 soundtrack removed song list patch  
-   Link: [https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/](https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/)  
+   Link: <a href="https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto 4 update removes a long list of songs27 Apr 2018 — The removal of expiring licensed songs is not much of a [surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) thes...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/](https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/)  
+   Link: <a href="https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Rockstar only remove certain songs from their...I know that there are licensures and such for having songs in game, and after s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/](https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/)  
+   Link: <a href="https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/</a>  
 
 9. <a id="endnote-9"></a>
    Source: gamedeveloper.com  
-   Link: [https://www.gamedeveloper.com/audio/game-audio-contracts](https://www.gamedeveloper.com/audio/game-audio-contracts)  
+   Link: <a href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow">https://www.gamedeveloper.com/audio/game-audio-contracts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists](https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists)  
+   Link: <a href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The offer, part of a $22,500 total payment shared among the band members, was for a full buyout of any future royalties from the game. Cr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pcam.co.uk  
    Title: PCAMA GUIDE FOR COMPOSERS IN THE VIDEO GAMES  
-   Link: [https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/](https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PCAMIt is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</p></details>
+   Link: <a href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union Composers Against Music Buyouts  
-   Link: [https://musiciansunion.org.uk/campaigns/fair-score](https://musiciansunion.org.uk/campaigns/fair-score)  
+   Link: <a href="https://musiciansunion.org.uk/campaigns/fair-score" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/campaigns/fair-score</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the video looking at buyouts, royalties, and protecting your future.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gtaforums.com  
    Title: 976405 is there a way to renew expired music licenses  
-   Link: [https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/](https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/)  
+   Link: <a href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pcgamer.com  
-   Link: [https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/](https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/)  
+   Link: <a href="https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS, which manages music royalties for composers and songwriters, claims Valve is unlawfully making its members&#x27; music available both in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties](https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties)  
+   Link: <a href="https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music is responsible for ensuring songwriters, composers, and publishers in the UK are paid for their music. Last year, music roy...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Video](https://en.wikipedia.org/wiki/Video)  
+   Link: <a href="https://en.wikipedia.org/wiki/Video" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoVideo is an electronic medium used for the [recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;), copying, playback, transmission, and display of moving visual images and pi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: steamcommunity.com  
-   Link: [https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&l=tchinese](https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&l=tchinese)  
+   Link: <a href="https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&amp;l=tchinese" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&amp;l=tchinese</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You must be out of your mind. Their license for the music expired and that&#x27;s it. You signed the EULA. #34.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: steamcommunity.com  
-   Link: [https://steamcommunity.com/app/271590/discussions/0/603025608224547784/](https://steamcommunity.com/app/271590/discussions/0/603025608224547784/)  
+   Link: <a href="https://steamcommunity.com/app/271590/discussions/0/603025608224547784/" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/271590/discussions/0/603025608224547784/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing:: Grand Theft Auto V Legacy General...23 Mar 2025 — Yes, the music in GTA V (like previous Rockstar games) is licensed...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: steamcommunity.com  
    Title: Music Licensing  
-   Link: [https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch](https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch)  
+   Link: <a href="https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto V Legacy1 Jan 2025 — Yes, the music in GTA V (like previous Rockstar games) is licensed for a set period, meaning that s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: gtaforums.com  
    Title: 908139 iv song removal due to licenses expiring  
-   Link: [https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/](https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/)  
+   Link: <a href="https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/" target="_blank" rel="noopener noreferrer nofollow">https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IV Song Removal Due to Licenses expiring.11 Apr 2018 — Many news outlets are saying that GTA IV will have songs removed from the game due...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: gamedev.net  
    Title: There's also a spectrum of licensing deals.Read more  
-   Link: [https://gamedev.net/forums/topic/688308-music-rights/](https://gamedev.net/forums/topic/688308-music-rights/)  
+   Link: <a href="https://gamedev.net/forums/topic/688308-music-rights/" target="_blank" rel="noopener noreferrer nofollow">https://gamedev.net/forums/topic/688308-music-rights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Rights - Games Business and Law - Forums2 May 2017 — As for specifics, there&#x27;s a big difference between ownership and licensing (th...</p></details>
    Published: May 2017  
 
 22. <a id="endnote-22"></a>
    Source: pcgamer.com  
    Title: rockstar confirms that some grand theft auto 4 music is being removed  
-   Link: [https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/](https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/)  
+   Link: <a href="https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rockstar confirms that some Grand Theft Auto 4 music is...Apr 12, 2018 — Rockstar has confirmed a Kotaku UK report that some of the radi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pcgamer.com  
    Title: What songs do you want to see on Grand Theft Auto 6's radio stations?  
-   Link: [https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/](https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/)  
+   Link: <a href="https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser](https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser)  
+   Link: <a href="https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Selling Out: Sync, Licensing, Buyouts and Works For HireA buyout can be a work for hire, These types of licenses are distinct from royalt...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e](https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e)  
+   Link: <a href="https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where To Find Music For GamesThis blog aims to help you find the right music for your game and addresses several important topics, such a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thetrichordist.com  
-   Link: [https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/](https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/)  
+   Link: <a href="https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/" target="_blank" rel="noopener noreferrer nofollow">https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Videogame Industry is Larger Than Film and TV...22 Sept 2023 — Most if not all of the composers creating original videogame music ar...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: kotaku.com  
    Title: rockstar must cut some music from gta iv but plans to 1825159152  
-   Link: [https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152](https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152)  
+   Link: <a href="https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152" target="_blank" rel="noopener noreferrer nofollow">https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rockstar Must Cut Some Music From GTA IV, But Plans To...10 Apr 2018 — A Rockstar representative confirmed to us today that songs will i...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: international.yourmusicyourfuture.com  
    Title: royalties and control vs buyout and lump sum fee a case study  
-   Link: [https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/](https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/)  
+   Link: <a href="https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and control vs buyout and lump sum fee: a Case...28 Jan 2021 — European film and TV composer David learned the hard way in his negotiati...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: kitguru.net  
-   Link: [https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/](https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/)  
+   Link: <a href="https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/" target="_blank" rel="noopener noreferrer nofollow">https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GTA IV is about to turn ten, so some of its music licenses...13 Apr 2018 — Some of the tracks heard on radio stations in GTA IV will be...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: houseoftracks.com  
-   Link: [https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games](https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games)  
+   Link: <a href="https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games" target="_blank" rel="noopener noreferrer nofollow">https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music licensing for video games: Sync, master &amp; rightsMost in-game music is licensed via a one-time fee or buyout, so ongoing royalties a...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: neogaf.com  
    Title: grand theft auto v starts to remove music.1613675  
-   Link: [https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/](https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/)  
+   Link: <a href="https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/" target="_blank" rel="noopener noreferrer nofollow">https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto V starts to remove music21 Jul 2021 — Normally this is done on the 10th anniversary because Rockstar do not like to rene...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: mediamusiccomposer.com  
    Title: Trust me; this journey into game music creation will be a blast!Read more  
-   Link: [https://www.mediamusiccomposer.com/blog/hire-game-music-composer](https://www.mediamusiccomposer.com/blog/hire-game-music-composer)  
+   Link: <a href="https://www.mediamusiccomposer.com/blog/hire-game-music-composer" target="_blank" rel="noopener noreferrer nofollow">https://www.mediamusiccomposer.com/blog/hire-game-music-composer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hire Game Music Composer: Cost, Timeline, &amp; License...22 Jan 2024 — In this article, we will cover the real game-changers: Cost, Timelin...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: ivorsacademy.com  
-   Link: [https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf](https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf)  
+   Link: <a href="https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the commissioner - pays a single fee for the composition.Read more...</p></details>

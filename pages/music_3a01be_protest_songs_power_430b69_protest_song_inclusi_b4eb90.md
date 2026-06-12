@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e
 - music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad
 tags:
-- music
+- music-3-a01-be
 - protest-songs
 - inclusive-songs
 keywords:
-- music
+- music-3-a01-be
 - protest-songs
 - inclusive-songs
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Some songs resonate with certain groups, potentially excluding other voices even as they unify participants.
 hero_summary: Some songs resonate with certain groups, potentially excluding other voices even as they unify participants.
 layout: default
 permalink: /inclusive-songs/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /protest-songs/
 nav_short_title: Inclusive Songs
 title: Who Feels Represented by Protest Music?
-title_full: Who Feels Represented by Protest Music? | Protest Songs
+title_full: Who Feels Represented by Protest Music?
 display_title_short: Inclusive Songs
 display_title: Inclusive Songs
 heading_title: Who Feels Represented by Protest Music?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Protest Songs Still Mobilize People | Music
+parent_title: Why Protest Songs Still Mobilize People
 parent_permalink: /protest-songs/
 parent_nav_short_title: Protest Songs
 parent_heading_title: Why Protest Songs Still Mobilize People
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Protest Songs Flatten Complex Messages
 up_link:
   basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -265,7 +265,7 @@ next_link:
   permalink: /song-memory/
   short_title: Song Memory
   heading_title: Connecting Modern Movements with Historical Protest Songs
-date: '2026-06-09 07:02:34 '
+date: '2026-06-11 23:32:46 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-1.webp
@@ -276,15 +276,14 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclu
 
 [Protest songs]({{ 'protest-songs/' | relative_url }}) help build collective power by giving people a shared language for expressing grievances and aspirations. Yet the very songs that unite one group can leave others feeling unheard. Demographic resonance—the extent to which different communities see their experiences reflected in a song—shapes who participates, who feels represented, and how broadly a movement can build support. A protest anthem may become powerful precisely because it speaks from a particular cultural, racial, religious, gendered, generational, or class experience. The challenge is that specificity can both strengthen solidarity within a group and limit [identification]({{ 'identification/' | relative_url }}) beyond it. Understanding this tension is essential for understanding how protest music contributes to, and sometimes complicates, collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicresearchannual.org/drott-protest-music-studies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicresearchannual.org">[Music Research Annual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicresearchannual.org</span><span class="citation-popover-snippet">Music Research AnnualDrott—Protest Music Studies - Music...This article reviews recent literature on music, protest, and social movements...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-1-dark.svg" | relative_url }}" alt="Inclusive Songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Some Protest Songs Speak More Strongly to Certain Communities
 
 Protest songs rarely emerge from neutral cultural ground. They are usually rooted in the traditions, histories, and everyday experiences of particular populations. As a result, listeners who share those experiences often hear more than [lyrics]({{ 'lyrics/' | relative_url }}): they hear cultural [memory]({{ 'memory/' | relative_url }}), familiar musical forms, and stories that reflect their own lives.
 
-The American civil [rights]({{ 'rights/' | relative_url }}) movement offers a clear example. Freedom songs drew heavily from African American spirituals, gospel traditions, and church-based [collective singing]({{ 'collective-singing/' | relative_url }}). These musical forms carried deep emotional and historical significance for Black activists because they connected contemporary struggles against segregation to longer histories of slavery, faith, and resistance. Their power came partly from that cultural specificity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kinginstitute.stanford.edu/songs-and-civil-rights-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinginstitute.stanford.edu">[King Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinginstitute.stanford.edu</span><span class="citation-popover-snippet">King InstituteSongs and the Civil Rights MovementMusic and singing played a critical role in inspiring, mobilizing, and giving voice to t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/civil-rights-history-project/articles-and-essays/music-in-the-civil-rights-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Music in the Civil Rights Movement | Articles and EssaysMusic in the Civil Rights Movement. African American spirituals, gospel, and folk...</span></span></span>
+The American civil [rights]({{ 'rights/' | relative_url }}) movement offers a clear example. Freedom songs drew heavily from African American spirituals, gospel traditions, and church-based [collective singing]({{ 'collective-singing/' | relative_url }}). These musical forms carried deep emotional and historical significance for Black activists because they connected contemporary struggles against segregation to longer histories of slavery, faith, and resistance. Their power came partly from that cultural specificity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kinginstitute.stanford.edu/songs-and-civil-rights-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinginstitute.stanford.edu">[King Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinginstitute.stanford.edu</span><span class="citation-popover-snippet">King InstituteSongs and the Civil Rights MovementMusic and singing played a critical role in inspiring, mobilizing, and giving voice to t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/civil-rights-history-project/articles-and-essays/music-in-the-civil-rights-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Music in the Civil Rights Movement &#124; Articles and EssaysMusic in the Civil Rights Movement. African American spirituals, gospel, and folk...</span></span></span>
 
-Similar patterns appear elsewhere. Anti-apartheid freedom songs in South Africa drew on local musical traditions and collective performance practices that resonated strongly with communities directly affected by racial oppression. Their effectiveness depended not only on political messages but also on shared cultural understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26670981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORSinging Politics: Freedom Songs and Collective Protest in...June 3, 2019 — by O Jolaosho · 2019 · Cited by 45 — Abstract: This arti...</span><span class="citation-popover-meta">Published: June 3, 2019</span></span></span>
+Similar patterns appear elsewhere. Anti-apartheid freedom songs in South Africa drew on local musical traditions and collective performance practices that resonated strongly with communities directly affected by racial oppression. Their effectiveness depended not only on political messages but also on shared cultural understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26670981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Singing Politics: Freedom Songs and Collective Protest in...June 3, 2019 — by O Jolaosho · 2019 · Cited by 45 — Abstract: This arti...</span><span class="citation-popover-meta">Published: June 3, 2019</span></span></span>
 
 This illustrates a broader principle: protest music often gains strength from being rooted in a particular community's identity. A song that reflects lived experience can generate stronger emotional commitment than a deliberately universal message. However, that same rootedness can make it harder for outsiders to fully identify with the song's meaning.
 
@@ -298,19 +297,17 @@ Other communities have developed similar musical traditions. Immigrant, anti-rac
 
 Because cultural memory varies across populations, the same song may evoke pride and recognition for one group while carrying less emotional weight for another. This does not mean outsiders cannot appreciate the music, but their connection is often different from that of those whose histories are directly represented.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IJCWxPTq_60" title="The History of Protest Music From Bob Dylan to Kendrick Lamar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IJCWxPTq_60" target="_blank" rel="noopener noreferrer">The History of Protest Music From Bob Dylan to Kendrick Lamar</a></p><p class="youtube-embed-meta">Channel: Threads &amp; Tunes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IJCWxPTq_60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IJCWxPTq_60">Open on YouTube</a></p></div></div></div>
-
 ## How Age, Race, Gender, and Identity Shape Musical Impact
 
 Demographic differences influence not only which protest songs people embrace but also which musical styles they consider authentic.
 
 ### Generational Differences
 
-Different generations often mobilise through different musical languages. Folk music played a central role in many twentieth-century protest movements, while hip-hop has become a major vehicle for political expression among younger audiences. Research on youth activism highlights how newer genres can translate political concerns into forms that feel culturally relevant to younger participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateThe Role of Protest Music in Social Movements and Youth...November 30, 2024 — This study analyzes the role of protest music...</span><span class="citation-popover-meta">Published: November 30, 2024</span></span></span>
+Different generations often mobilise through different musical languages. Folk music played a central role in many twentieth-century protest movements, while hip-hop has become a major vehicle for political expression among younger audiences. Research on youth activism highlights how newer genres can translate political concerns into forms that feel culturally relevant to younger participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Role of Protest Music in Social Movements and Youth...November 30, 2024 — This study analyzes the role of protest music...</span><span class="citation-popover-meta">Published: November 30, 2024</span></span></span>
 
 This generational shift can create tensions inside movements. Older activists may identify strongly with historic songs that younger participants see as distant from their experiences, while younger audiences may embrace contemporary genres that older supporters find unfamiliar.
 
+<img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-2-dark.svg" | relative_url }}" alt="Inclusive Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Race and Ethnicity
 
 Racial and ethnic identities frequently shape the reception of protest music because experiences of discrimination, migration, and social exclusion differ across communities.
@@ -319,14 +316,13 @@ Songs such as *Strange Fruit*, *Fight the Power*, *Alright*, and *This Is Americ
 
 At the same time, some songs rooted in one community's struggle later gain broader audiences. The civil rights movement's music, for example, eventually attracted support from many people outside the Black community while still retaining its distinctive historical origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://harvardpolitics.com/pitches-of-protest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harvardpolitics.com">[Harvard Political Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harvardpolitics.com</span><span class="citation-popover-title">Harvard Political Review The Pitches of Protests: How Music Makes Movements</span><span class="citation-popover-snippet">Harvard Political ReviewThe Pitches of Protests: How Music Makes MovementsSeptember 10, 2023 — 10 Sept 2023 — Songs like “We Shall Overco...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-2-dark.svg" | relative_url }}" alt="Inclusive Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Gender and Sexual Identity
 
 Questions of representation also arise around gender and sexuality. Historically, many prominent protest-song traditions were dominated by male performers and perspectives. More recent protest music has increasingly highlighted women's experiences, LGBTQ+ rights, and intersecting forms of marginalisation.
 
-Songs associated with feminist, queer, and transgender activism often resonate strongly with communities whose concerns were previously underrepresented in mainstream protest [culture]({{ 'culture/' | relative_url }}). At the same time, movements sometimes debate whether highly specific identity-based songs strengthen inclusion by giving voice to overlooked groups or fragment solidarity by speaking primarily to narrower audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://esns.nl/nl/conference/panels/popular-music-and-activism-agents-of-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esns.nl">[ESNS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esns.nl</span><span class="citation-popover-snippet">ESNSPopular music and activism: agents of change?Popular music and activism share a long history. From Woody Guthrie&#x27;s antifascist protes...</span></span></span>
+Songs associated with feminist, queer, and transgender activism often resonate strongly with communities whose concerns were previously underrepresented in mainstream protest [culture]({{ 'culture/' | relative_url }}). At the same time, movements sometimes debate whether highly specific identity-based songs strengthen inclusion by giving voice to overlooked groups or fragment solidarity by speaking primarily to narrower audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://esns.nl/nl/conference/panels/popular-music-and-activism-agents-of-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esns.nl">[ESNS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esns.nl</span><span class="citation-popover-snippet">Popular music and activism: agents of change?Popular music and activism share a long history. From Woody Guthrie&#x27;s antifascist protes...</span></span></span>
 
+<img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-3-dark.svg" | relative_url }}" alt="Inclusive Songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can a Song Be Both Specific and Inclusive?
 
 One of the most important questions in protest music is whether a song must choose between representing a specific community and appealing to a broader coalition.
@@ -336,9 +332,6 @@ Many successful protest songs achieve a balance between the two. They emerge fro
 The history of freedom songs illustrates this balance. Their origins were deeply tied to Black religious and political traditions, yet their themes of perseverance and collective hope enabled wider participation across racial lines. The songs became bridges rather than barriers because they maintained their roots while offering points of connection to others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kinginstitute.stanford.edu/songs-and-civil-rights-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinginstitute.stanford.edu">[King Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinginstitute.stanford.edu</span><span class="citation-popover-snippet">King InstituteSongs and the Civil Rights MovementMusic and singing played a critical role in inspiring, mobilizing, and giving voice to t...</span></span></span>
 
 By contrast, songs that rely heavily on insider references, highly local experiences, or narrowly defined political identities may generate strong internal solidarity while attracting less engagement from potential allies. Neither approach is inherently superior; each serves different movement goals.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nUCGefm30XY" title="Music of the Movement: Protest Music Has Long Been a Messenger of Resistance | NBCLX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nUCGefm30XY" target="_blank" rel="noopener noreferrer">Music of the Movement: Protest Music Has Long Been a Messenger of Resistance | NBCLX</a></p><p class="youtube-embed-meta">Channel: LX News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nUCGefm30XY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nUCGefm30XY">Open on YouTube</a></p></div></div></div>
 
 ## Challenges for Inclusive Movement Music
 
@@ -353,17 +346,11 @@ Several recurring challenges emerge:
 
 These challenges help explain why modern movements frequently rely on multiple songs rather than a single defining anthem. Different musical voices can represent different constituencies while contributing to a broader collective effort.
 
-
-<img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-3-dark.svg" | relative_url }}" alt="Inclusive Songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Inclusion in Protest Music Really Means
 
 Inclusion in protest music does not necessarily require every participant to identify equally with the same song. More often, it involves creating space for multiple musical traditions, experiences, and voices within a movement.
 
 Historically, some of the most effective protest cultures have combined strongly rooted community songs with broader anthems capable of linking different groups. This approach allows participants to maintain distinct identities while still contributing to a shared political project. Rather than eliminating difference, inclusive protest music recognises it and seeks ways to transform diverse experiences into collective action. JSTOR <span class="citation-chip-wrap"><a class="citation-chip" href="https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voidnetwork.gr">[Void Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voidnetwork.gr</span><span class="citation-popover-snippet">freedom songs associated with the civil rights movement provide an illustr...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uG60IpndfDk" title="The British radical tradition: Politics and folk music. Parallax Views with Brian Denny" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uG60IpndfDk" target="_blank" rel="noopener noreferrer">The British radical tradition: Politics and folk music. Parallax Views with Brian Denny</a></p><p class="youtube-embed-meta">Channel: Institute of Economic Affairs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uG60IpndfDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uG60IpndfDk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -482,15 +469,15 @@ Historically, some of the most effective protest cultures have combined strongly
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver"><img src="{{ '/assets/images/marketplace-covers/d281fb3ee134fd84ae26.jpg' | relative_url }}" alt="Listing image for PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AGATHOCLES - Grind Is Protest - Official Wall Flag / Textile Poster"><img src="https://i.ebayimg.com/images/g/8j4AAeSwgBVqJB~V/s-l225.jpg" alt="Listing image for AGATHOCLES - Grind Is Protest - Official Wall Flag / Textile Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer">AGATHOCLES - Grind Is Protest - Official Wall Flag / Textile Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +485,15 @@ Historically, some of the most effective protest cultures have combined strongly
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7816.Decoration Poster.Home Room wall interior art design.Protest Songs.Music"><img src="{{ '/assets/images/marketplace-covers/ef719e2ba67365b25756.jpg' | relative_url }}" alt="Listing image for 7816.Decoration Poster.Home Room wall interior art design.Protest Songs.Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (B) POSTER SIZED original music press advert from 19"><img src="https://i.ebayimg.com/images/g/E8MAAeSw1URp60uy/s-l225.jpg" alt="Listing image for PREFAB SPROUT PROTEST SONGS (B) POSTER SIZED original music press advert from 19" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">7816.Decoration Poster.Home Room wall interior art design.Protest Songs.Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (B) POSTER SIZED original music press advert from 19</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +501,15 @@ Historically, some of the most effective protest cultures have combined strongly
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Protest The Hero North America Tour 2024 poster, music lovers decor"><img src="{{ '/assets/images/marketplace-covers/0abc7853273876a68d3a.jpg' | relative_url }}" alt="Listing image for Poster Protest The Hero North America Tour 2024 poster, music lovers decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE SPECIALS RARE UK RECORD COMPANY PROMO POSTER &#x27;THE PROTEST SONGS&#x27; ALBUM 2021"><img src="https://i.ebayimg.com/images/g/qjsAAeSwCctqAwQG/s-l225.jpg" alt="Listing image for THE SPECIALS RARE UK RECORD COMPANY PROMO POSTER &#x27;THE PROTEST SONGS&#x27; ALBUM 2021" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Poster Protest The Hero North America Tour 2024 poster, music lovers decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer">THE SPECIALS RARE UK RECORD COMPANY PROMO POSTER &#x27;THE PROTEST SONGS&#x27; ALBUM 2021</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +517,15 @@ Historically, some of the most effective protest cultures have combined strongly
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19"><img src="{{ '/assets/images/marketplace-covers/fd7fb7a754bd1ef4065d.jpg' | relative_url }}" alt="Listing image for PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Marley Jamaican Singer Music A4 Celebrity Poster Wall Art Decor Print"><img src="https://i.ebayimg.com/images/g/qmoAAeSwAaFqCwwi/s-l225.jpg" alt="Listing image for Bob Marley Jamaican Singer Music A4 Celebrity Poster Wall Art Decor Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Marley Jamaican Singer Music A4 Celebrity Poster Wall Art Decor Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +533,7 @@ Historically, some of the most effective protest cultures have combined strongly
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster -book -books" data-ebay-reference="inclusive-songs-who-feels-represented-by-protest-music-music-protest-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-feels-represented-by-protest-music-protest-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest music poster" data-ebay-reference="who-feels-represented-by-protest-music-protest-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,141 +748,141 @@ Historically, some of the most effective protest cultures have combined strongly
 
 1. <a id="endnote-1"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/26670981](https://www.jstor.org/stable/26670981)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORSinging Politics: Freedom Songs and Collective Protest in...June 3, 2019 — by O Jolaosho · 2019 · Cited by 45 — Abstract: This arti...</p></details>
+   Link: <a href="https://www.jstor.org/stable/26670981" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26670981</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing Politics: Freedom Songs and Collective Protest in...June 3, 2019 — by O Jolaosho · 2019 · Cited by 45 — Abstract: This arti...</p></details>
    Published: June 3, 2019  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras](https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateThe Role of Protest Music in Social Movements and Youth...November 30, 2024 — This study analyzes the role of protest music...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Protest Music in Social Movements and Youth...November 30, 2024 — This study analyzes the role of protest music...</p></details>
    Published: November 30, 2024  
 
 3. <a id="endnote-3"></a>
    Source: esns.nl  
-   Link: [https://esns.nl/nl/conference/panels/popular-music-and-activism-agents-of-change/](https://esns.nl/nl/conference/panels/popular-music-and-activism-agents-of-change/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ESNSPopular music and activism: agents of change?Popular music and activism share a long history. From Woody Guthrie&#x27;s antifascist protes...</p></details>
+   Link: <a href="https://esns.nl/nl/conference/panels/popular-music-and-activism-agents-of-change/" target="_blank" rel="noopener noreferrer nofollow">https://esns.nl/nl/conference/panels/popular-music-and-activism-agents-of-change/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular music and activism: agents of change?Popular music and activism share a long history. From Woody Guthrie&#x27;s antifascist protes...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journals.openedition.org  
-   Link: [https://journals.openedition.org/miranda/69182](https://journals.openedition.org/miranda/69182)  
+   Link: <a href="https://journals.openedition.org/miranda/69182" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/miranda/69182</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsThe Sonic Aesthetics of Protest: From Bob Dylan to Janelle...by AF Alaminos-Fernández · 2025 — Protest music has lon...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 343827203 'People Have the Power' Songs of Resistance in Late Modernity  
-   Link: [https://www.researchgate.net/publication/343827203_%27People_Have_the_Power%27_Songs_of_Resistance_in_Late_Modernity](https://www.researchgate.net/publication/343827203_%27People_Have_the_Power%27_Songs_of_Resistance_in_Late_Modernity)  
+   Link: <a href="https://www.researchgate.net/publication/343827203_%27People_Have_the_Power%27_Songs_of_Resistance_in_Late_Modernity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343827203_%27People_Have_the_Power%27_Songs_of_Resistance_in_Late_Modernity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) &#x27;People Have the Power&#x27;: Songs of Resistance in...16 Mar 2026 — The aim of this proposed special issue is to examine the unique fo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/10.5323/blachistbull.84.1.0006](https://www.jstor.org/stable/10.5323/blachistbull.84.1.0006)  
+   Link: <a href="https://www.jstor.org/stable/10.5323/blachistbull.84.1.0006" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.5323/blachistbull.84.1.0006</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLORING THE ROLE OF SONGS IN SOCIAL CHANGEby K Rydell · 2021 · Cited by 14 — Conducting research, we became fascinated with the role of...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: musicresearchannual.org  
-   Link: [https://musicresearchannual.org/drott-protest-music-studies/](https://musicresearchannual.org/drott-protest-music-studies/)  
+   Link: <a href="https://musicresearchannual.org/drott-protest-music-studies/" target="_blank" rel="noopener noreferrer nofollow">https://musicresearchannual.org/drott-protest-music-studies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Research AnnualDrott—Protest Music Studies - Music...This article reviews recent literature on music, protest, and social movements...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: kinginstitute.stanford.edu  
-   Link: [https://kinginstitute.stanford.edu/songs-and-civil-rights-movement](https://kinginstitute.stanford.edu/songs-and-civil-rights-movement)  
+   Link: <a href="https://kinginstitute.stanford.edu/songs-and-civil-rights-movement" target="_blank" rel="noopener noreferrer nofollow">https://kinginstitute.stanford.edu/songs-and-civil-rights-movement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>King InstituteSongs and the Civil Rights MovementMusic and singing played a critical role in inspiring, mobilizing, and giving voice to t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/collections/civil-rights-history-project/articles-and-essays/music-in-the-civil-rights-movement/](https://www.loc.gov/collections/civil-rights-history-project/articles-and-essays/music-in-the-civil-rights-movement/)  
+   Link: <a href="https://www.loc.gov/collections/civil-rights-history-project/articles-and-essays/music-in-the-civil-rights-movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/civil-rights-history-project/articles-and-essays/music-in-the-civil-rights-movement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music in the Civil Rights Movement | Articles and EssaysMusic in the Civil Rights Movement. African American spirituals, gospel, and folk...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: voidnetwork.gr  
-   Link: [https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf](https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf)  
+   Link: <a href="https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf" target="_blank" rel="noopener noreferrer nofollow">https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>freedom songs associated with the civil rights movement provide an illustr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: histoire-immigration.fr  
    Title: the soundtrack to rebellion the 1970s  
-   Link: [https://www.histoire-immigration.fr/exhibition-paris-londres/the-soundtrack-to-rebellion-the-1970s](https://www.histoire-immigration.fr/exhibition-paris-londres/the-soundtrack-to-rebellion-the-1970s)  
+   Link: <a href="https://www.histoire-immigration.fr/exhibition-paris-londres/the-soundtrack-to-rebellion-the-1970s" target="_blank" rel="noopener noreferrer nofollow">https://www.histoire-immigration.fr/exhibition-paris-londres/the-soundtrack-to-rebellion-the-1970s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musée de l&#x27;Histoire de l&#x27;ImmigrationThe soundtrack to rebellion: the 1970sDuring the 1970s, music provided a platform for the voices of t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: teenvogue.com  
    Title: Teen Vogue13 Best Protest Songs Of All Time  
-   Link: [https://www.teenvogue.com/story/best-protest-songs](https://www.teenvogue.com/story/best-protest-songs)  
+   Link: <a href="https://www.teenvogue.com/story/best-protest-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/best-protest-songs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection highlights 13 influential protest songs that have inspired and supported movements throughout history. Billie Holiday&#x27;s &quot;...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: harvardpolitics.com  
    Title: Harvard Political Review The Pitches of Protests: How Music Makes Movements  
-   Link: [https://harvardpolitics.com/pitches-of-protest/](https://harvardpolitics.com/pitches-of-protest/)  
+   Link: <a href="https://harvardpolitics.com/pitches-of-protest/" target="_blank" rel="noopener noreferrer nofollow">https://harvardpolitics.com/pitches-of-protest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Political ReviewThe Pitches of Protests: How Music Makes MovementsSeptember 10, 2023 — 10 Sept 2023 — Songs like “We Shall Overco...</p></details>
    Published: September 10, 2023  
 
 14. <a id="endnote-14"></a>
    Source: apnews.com  
    Title: AP News The end of the Vietnam War was also a turning point for protest songs  
-   Link: [https://apnews.com/article/228cfe1d83613d3b56bd21ca0e7df2c4](https://apnews.com/article/228cfe1d83613d3b56bd21ca0e7df2c4)  
+   Link: <a href="https://apnews.com/article/228cfe1d83613d3b56bd21ca0e7df2c4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/228cfe1d83613d3b56bd21ca0e7df2c4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs such as &quot;Masters of War&quot; and &quot;Blowin’ in the Wind&quot; symbolized collective activism and broad cultural resonance. While modern protes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/wgbh/americanexperience/features/eyesontheprize-music-civil-rights-movement/](https://www.pbs.org/wgbh/americanexperience/features/eyesontheprize-music-civil-rights-movement/)  
+   Link: <a href="https://www.pbs.org/wgbh/americanexperience/features/eyesontheprize-music-civil-rights-movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/americanexperience/features/eyesontheprize-music-civil-rights-movement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music in the Civil Rights Movement | American ExperienceA voice raised in song, born in the struggle against racism in America during the...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: pjlss.edu.pk  
-   Link: [https://www.pjlss.edu.pk/pdf_files/2024_2/13494-13504.pdf](https://www.pjlss.edu.pk/pdf_files/2024_2/13494-13504.pdf)  
+   Link: <a href="https://www.pjlss.edu.pk/pdf_files/2024_2/13494-13504.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pjlss.edu.pk/pdf_files/2024_2/13494-13504.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical Trends and Social Movementsby X Yu · Cited by 1 — The article analyzes the contexts of the protest potential of young people in t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: journals.lib.unb.ca  
-   Link: [https://journals.lib.unb.ca/index.php/MC/article/view/26200/1882518894](https://journals.lib.unb.ca/index.php/MC/article/view/26200/1882518894)  
+   Link: <a href="https://journals.lib.unb.ca/index.php/MC/article/view/26200/1882518894" target="_blank" rel="noopener noreferrer nofollow">https://journals.lib.unb.ca/index.php/MC/article/view/26200/1882518894</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Songs and Singers of Social Protest | MUSICulturesSome scholars consider protest songs as rhetoric to convince the masses (Kizer 1983)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: news.cornell.edu  
    Title: how music galvanized fight civil rights  
-   Link: [https://news.cornell.edu/stories/2026/01/how-music-galvanized-fight-civil-rights](https://news.cornell.edu/stories/2026/01/how-music-galvanized-fight-civil-rights)  
+   Link: <a href="https://news.cornell.edu/stories/2026/01/how-music-galvanized-fight-civil-rights" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2026/01/how-music-galvanized-fight-civil-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>music galvanized the fight for civil rights - Cornell Chronicle15 Jan 2026 — Martin Luther King Jr.&#x27;s speeches tapped into a Black musica...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ips-journal.eu  
    Title: the new sound of resistance 8933  
-   Link: [https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/](https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/)  
+   Link: <a href="https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/" target="_blank" rel="noopener noreferrer nofollow">https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The quiet power of protest songs – Democracy and society11 Mar 2026 — When Die Ärzte sing against the right wing or young punk bands atta...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eur.nl  
    Title: 2026 04 we want more abstracts  
-   Link: [https://www.eur.nl/en/eshcc/media/2026-04-we-want-more-abstracts](https://www.eur.nl/en/eshcc/media/2026-04-we-want-more-abstracts)  
+   Link: <a href="https://www.eur.nl/en/eshcc/media/2026-04-we-want-more-abstracts" target="_blank" rel="noopener noreferrer nofollow">https://www.eur.nl/en/eshcc/media/2026-04-we-want-more-abstracts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Want More: Music / Sociology!10 Apr 2026 — In this paper, we synergise findings from three research studies to elucidate the value of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thesongbook.org  
-   Link: [https://thesongbook.org/about/news-media/the-songbook-blog-items/musics-voice-in-the-american-civil-rights-movement/](https://thesongbook.org/about/news-media/the-songbook-blog-items/musics-voice-in-the-american-civil-rights-movement/)  
+   Link: <a href="https://thesongbook.org/about/news-media/the-songbook-blog-items/musics-voice-in-the-american-civil-rights-movement/" target="_blank" rel="noopener noreferrer nofollow">https://thesongbook.org/about/news-media/the-songbook-blog-items/musics-voice-in-the-american-civil-rights-movement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great American Songbook FoundationMusic&#x27;s Voice in the American Civil Rights Movement“African American spirituals, gospel, and folk m...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14775700.2021.2021004](https://www.tandfonline.com/doi/full/10.1080/14775700.2021.2021004)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14775700.2021.2021004" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14775700.2021.2021004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: Cultures of Protest in American Musicby E Clough · 2021 · Cited by 7 — This special issue, with its focus on Cultures of Pr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: htlmusicbusiness.academy  
    Title: music and politics  
-   Link: [https://htlmusicbusiness.academy/2026/05/15/music-and-politics/](https://htlmusicbusiness.academy/2026/05/15/music-and-politics/)  
+   Link: <a href="https://htlmusicbusiness.academy/2026/05/15/music-and-politics/" target="_blank" rel="noopener noreferrer nofollow">https://htlmusicbusiness.academy/2026/05/15/music-and-politics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HTL Music Business AcademyHow Music and Politics Have Always Been Connected15 May 2026 — Protest songs transformed political movements by...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: digitalcommons.pepperdine.edu  
-   Link: [https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1197&context=pjcr](https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1197&context=pjcr)  
+   Link: <a href="https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1197&amp;context=pjcr" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1197&amp;context=pjcr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pepperdine Digital CommonsThe Priming Effect of Music on Political Alignmentby K Hailey · 2025 · Cited by 2 — From the anthems of revolut...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scholarship.claremont.edu  
-   Link: [https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2591&context=scripps_theses](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2591&context=scripps_theses)  
+   Link: <a href="https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2591&amp;context=scripps_theses" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2591&amp;context=scripps_theses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Discussion of American Protest Music and its...by S Hills-Villalobos · 2020 · Cited by 1 — He argues against a definition of “s...</p></details>

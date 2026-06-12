@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_music_market_floo_af6c30_deezer_ai_upload_sur_c5e003
 - music_3a01be_ai_music_market_floo_af6c30_suno_udio_substituti_3ed676
 tags:
-- music
+- music-3-a01-be
 - ai-flooding
 - bot-fraud
 keywords:
-- music
+- music-3-a01-be
 - ai-flooding
 - bot-fraud
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The Michael Smith case shows how AI tracks, fake accounts and bot listening can combine into royalty fraud at scale.
 hero_summary: The Michael Smith case shows how AI tracks, fake accounts and bot listening can combine into royalty fraud at scale.
 layout: default
 permalink: /bot-fraud/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-flooding/
 nav_short_title: Bot fraud
 title: How AI Songs Turned Into Streaming Fraud
-title_full: How AI Songs Turned Into Streaming Fraud | AI Flooding
+title_full: How AI Songs Turned Into Streaming Fraud
 display_title_short: Bot fraud
 display_title: Bot fraud
 heading_title: How AI Songs Turned Into Streaming Fraud
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could AI Flood The Music Market? | Music
+parent_title: Could AI Flood The Music Market?
 parent_permalink: /ai-flooding/
 parent_nav_short_title: AI Flooding
 parent_heading_title: Could AI Flood The Music Market?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why AI Music Lawsuits Matter for Flooding
 up_link:
   basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
@@ -259,7 +259,7 @@ next_link:
   permalink: /deezer-surge/
   short_title: Deezer surge
   heading_title: What Deezer's AI Upload Surge Reveals
-date: '2026-06-09 07:17:59 '
+date: '2026-06-11 23:40:18 '
 header:
   og_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1.webp
@@ -268,12 +268,10 @@ image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_
 
 ## Introduction
 
-One of the clearest examples of how AI [music]({{ 'music/' | relative_url }}) can contribute to market flooding fears is not simply the creation of synthetic songs, but the combination of AI-generated tracks, fake listener accounts and automated streaming bots. In the case of North Carolina musician Michael Smith, US prosecutors alleged that hundreds of thousands of AI-created songs were uploaded to streaming services and then played by automated systems designed to imitate genuine listeners. The result was millions of dollars in royalty payments generated from activity that did not represent real audience demand. Prosecutors described the scheme as having produced billions of fraudulent streams and more than $10 million in royalty revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of Justice (DOJ). DOJ&#x27;s mission is to enforce the law and defend the interests of the United States according to the...</span></span></span>
-
+One of the clearest examples of how AI music can contribute to market flooding fears is not simply the creation of synthetic songs, but the combination of AI-generated tracks, fake listener accounts and automated streaming bots. In the case of North Carolina musician Michael Smith, US prosecutors alleged that hundreds of thousands of AI-created songs were uploaded to streaming services and then played by automated systems designed to imitate genuine listeners. The result was millions of dollars in royalty payments generated from activity that did not represent real audience demand. Prosecutors described the scheme as having produced billions of fraudulent streams and more than $10 million in royalty revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of Justice (DOJ). DOJ&#x27;s mission is to enforce the law and defend the interests of the United States according to the...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1-dark.svg" | relative_url }}" alt="Bot fraud illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case matters because streaming [royalties]({{ 'royalties/' | relative_url }}) are drawn from pools funded by subscriptions and advertising. When fraudulent listening activity receives payment, money that would otherwise flow to legitimate artists and [rights]({{ 'rights/' | relative_url }}) holders can be redirected elsewhere. For critics of large-scale AI music generation, the Smith case became a concrete example of how cheap content production and automated consumption can be combined into a scalable form of royalty fraud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of Justice (DOJ). DOJ&#x27;s mission is to enforce the law and defend the interests of the United States according to the...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j7G3RUplSjU" title="Lawyer Reacts To MASSIVE $10 Million Streaming Scam: AI-Generated Songs Exposed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j7G3RUplSjU" target="_blank" rel="noopener noreferrer">Lawyer Reacts To MASSIVE $10 Million Streaming Scam: AI-Generated Songs Exposed</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 11.9K &middot; Uploaded: September 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j7G3RUplSjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j7G3RUplSjU">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +291,6 @@ What made the case distinctive was not AI generation alone. The fraud depended o
 
 Individually, none of these elements was entirely new. The significance of the case lay in how AI lowered the cost of creating the raw material required for the scheme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lewissilkin.com/en/insights/2024/12/17/ai-hits-a-sour-note-in-us-streaming-fraud-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lewissilkin.com">[Lewis Silkin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lewissilkin.com</span><span class="citation-popover-title">ai hits a sour note in us streaming fraud lawsuit</span><span class="citation-popover-snippet">Lewis SilkinAI hits a sour note in US streaming fraud lawsuitDec 16, 2024 — A US musician and his co-conspirators stand accused of conspi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8RpxiEuGuUw" title="What is music streaming fraud and how rampant is it? - BBC Trending podcast, BBC World Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8RpxiEuGuUw" target="_blank" rel="noopener noreferrer">What is music streaming fraud and how rampant is it? - BBC Trending podcast, BBC World Service</a></p><p class="youtube-embed-meta">Channel: BBC World Service &middot; Views: 234.3K &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8RpxiEuGuUw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8RpxiEuGuUw">Open on YouTube</a></p></div></div></div>
 
 ## Why small streams across many tracks are hard to spot
@@ -304,7 +301,6 @@ Instead of creating a handful of blockbuster tracks, prosecutors alleged that st
 
 This is one reason AI-generated music worries streaming platforms. Generative systems can create content faster than human creators can reasonably review, curate or audit it. Fraud detection systems must therefore distinguish between:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * legitimate independent artists with small audiences;
@@ -313,10 +309,9 @@ This is one reason AI-generated music worries streaming platforms. Generative sy
 
 </div>
 
-That distinction is not always obvious from listening statistics alone. Researchers and industry groups have increasingly focused on AI-content detection and behavioural analysis because identifying artificial songs is only part of the challenge; detecting coordinated listening manipulation is equally important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.10111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI-Generated Music Detection and its Challenges</span><span class="citation-popover-snippet">arXivAI-Generated Music Detection and its ChallengesJanuary 17, 2025...</span><span class="citation-popover-meta">Published: January 17, 2025</span></span></span>
+That distinction is not always obvious from listening statistics alone. Researchers and industry groups have increasingly focused on AI-content detection and behavioural analysis because identifying artificial songs is only part of the challenge; detecting coordinated listening manipulation is equally important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.10111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI-Generated Music Detection and its Challenges</span><span class="citation-popover-snippet">AI-Generated Music Detection and its ChallengesJanuary 17, 2025...</span><span class="citation-popover-meta">Published: January 17, 2025</span></span></span>
 
 Industry evidence suggests the problem is not merely theoretical. Deezer reported that a large share of streams involving fully AI-generated music appeared fraudulent, with bots often being used to inflate play counts and collect royalty payments. The company responded by developing AI-detection systems and excluding identified fraudulent activity from royalty calculations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-2-dark.svg" | relative_url }}" alt="Bot fraud illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case says about royalty-pool leakage
@@ -329,7 +324,6 @@ The case therefore shifted discussion away from abstract fears about AI creativi
 
 For streaming platforms, the challenge is compounded by scale. Millions of tracks are uploaded each month, and fraudulent operators need only capture a tiny fraction of total royalty distributions to make a scheme profitable. Deezer's public reporting on AI-related fraud and its decision to demonetise identified fraudulent streams illustrate how platforms are increasingly treating AI-generated catalogues as a fraud-risk category rather than merely a content category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zgQ9TparK_A" title="North Carolina musician charged with music streaming fraud aided by AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zgQ9TparK_A" target="_blank" rel="noopener noreferrer">North Carolina musician charged with music streaming fraud aided by AI</a></p><p class="youtube-embed-meta">Channel: WBTV News - Charlotte &middot; Views: 73.3K &middot; Uploaded: September 2024 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zgQ9TparK_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zgQ9TparK_A">Open on YouTube</a></p></div></div></div>
 
 ## Why the Michael Smith case became a landmark example
@@ -337,7 +331,6 @@ For streaming platforms, the challenge is compounded by scale. Millions of track
 The Smith prosecution is widely regarded as one of the first major criminal cases centred on AI-generated music and streaming fraud. Its importance lies less in the specific defendant than in what the alleged scheme demonstrated about the modern music economy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lewissilkin.com/en/insights/2024/12/17/ai-hits-a-sour-note-in-us-streaming-fraud-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lewissilkin.com">[Lewis Silkin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lewissilkin.com</span><span class="citation-popover-title">ai hits a sour note in us streaming fraud lawsuit</span><span class="citation-popover-snippet">Lewis SilkinAI hits a sour note in US streaming fraud lawsuitDec 16, 2024 — A US musician and his co-conspirators stand accused of conspi...</span></span></span>
 
 The case showed that AI can change the economics of fraud by making music supply effectively unlimited. When combined with automated listeners, that abundance can be used to exploit systems designed to reward genuine audience engagement. For critics concerned about AI-driven market flooding, the episode provided a concrete example of how synthetic music, mass uploads and bot activity can interact to extract value from royalty pools without creating corresponding cultural or artistic demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of Justice (DOJ). DOJ&#x27;s mission is to enforce the law and defend the interests of the United States according to the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/ai-bots-streaming-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ai bots streaming music</span><span class="citation-popover-snippet">WIRED&#x27;A Billion Streams and No Fans&#x27;: Inside a $10 Million AI...20 May 2025 — A chart-topping jazz album! Loads of Spotify and Apple Mus...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-3-dark.svg" | relative_url }}" alt="Bot fraud illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -458,15 +451,15 @@ The case showed that AI can change the economics of fraud by making music supply
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eminem Poster Music Concert Rap Hip Hop Marshall Bruce Mathers III Wall Art A4"><img src="{{ '/assets/images/marketplace-covers/99ef383aa1d0b3d8fcff.jpg' | relative_url }}" alt="Listing image for Eminem Poster Music Concert Rap Hip Hop Marshall Bruce Mathers III Wall Art A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT"><img src="https://i.ebayimg.com/images/g/4k4AAOSwfNRhWSj5/s-l225.jpg" alt="Listing image for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Eminem Poster Music Concert Rap Hip Hop Marshall Bruce Mathers III Wall Art A4</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +467,15 @@ The case showed that AI can change the economics of fraud by making music supply
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant/Bomb/The Music Industry Frame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/357ab507ff167acfec2d.jpg' | relative_url }}" alt="Listing image for Giant/Bomb/The Music Industry Frame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BIG BROTHER &amp; HOLDING CO 1968 GRANDE BALLROOM CONCERT POSTER FD-38(2) 1992"><img src="https://i.ebayimg.com/images/g/YQMAAOSwPXxn2eLt/s-l225.jpg" alt="Listing image for BIG BROTHER &amp; HOLDING CO 1968 GRANDE BALLROOM CONCERT POSTER FD-38(2) 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Giant/Bomb/The Music Industry Frame Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">BIG BROTHER &amp; HOLDING CO 1968 GRANDE BALLROOM CONCERT POSTER FD-38(2) 1992</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +483,15 @@ The case showed that AI can change the economics of fraud by making music supply
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Contemporary 3D Acrylic Painting - Abstract Geometric Wall Art, Colorful Modern"><img src="{{ '/assets/images/marketplace-covers/b3e4835416d5c9ac3490.jpg' | relative_url }}" alt="Listing image for Contemporary 3D Acrylic Painting - Abstract Geometric Wall Art, Colorful Modern" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ItIAAeSwisJp2STL/s-l225.jpg" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Contemporary 3D Acrylic Painting - Abstract Geometric Wall Art, Colorful Modern</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +499,15 @@ The case showed that AI can change the economics of fraud by making music supply
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eminem Poster Music Concert Rap Hip Hop Marshall Bruce Mathers III Wall Art A4"><img src="{{ '/assets/images/marketplace-covers/7c912f210827a50680cd.jpg' | relative_url }}" alt="Listing image for Eminem Poster Music Concert Rap Hip Hop Marshall Bruce Mathers III Wall Art A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="https://i.ebayimg.com/images/g/hm8AAeSwcRJqLDiG/s-l225.jpg" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Eminem Poster Music Concert Rap Hip Hop Marshall Bruce Mathers III Wall Art A4</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +515,7 @@ The case showed that AI can change the economics of fraud by making music supply
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry wall art" data-ebay-reference="bot-fraud-how-ai-songs-turned-into-streaming-fraud-music-music-industry-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-songs-turned-into-streaming-fraud-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="how-ai-songs-turned-into-streaming-fraud-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,117 +730,117 @@ The case showed that AI can change the economics of fraud by making music supply
 
 1. <a id="endnote-1"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)  
+   Link: <a href="https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attorney Damian Williams said: “As alleged, Michael Smith fraudulently streamed songs created with artificial intelligence billions of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0](https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0)  
+   Link: <a href="https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeNorth Carolina Man Pleads Guilty To Music Streaming...19 Mar 2026 — United States Attorney for the Southern Distric...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: ai bots streaming music  
-   Link: [https://www.wired.com/story/ai-bots-streaming-music/](https://www.wired.com/story/ai-bots-streaming-music/)  
+   Link: <a href="https://www.wired.com/story/ai-bots-streaming-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/ai-bots-streaming-music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;A Billion Streams and No Fans&#x27;: Inside a $10 Million AI...20 May 2025 — A chart-topping jazz album! Loads of Spotify and Apple Mus...</p></details>
    Published: May 2025  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv AI-Generated Music Detection and its Challenges  
-   Link: [https://arxiv.org/abs/2501.10111](https://arxiv.org/abs/2501.10111)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI-Generated Music Detection and its ChallengesJanuary 17, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2501.10111" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.10111</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Music Detection and its ChallengesJanuary 17, 2025...</p></details>
    Published: January 17, 2025  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs  
-   Link: [https://arxiv.org/abs/2408.14080](https://arxiv.org/abs/2408.14080)  
+   Link: <a href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.14080</a>  
 
 6. <a id="endnote-6"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/](https://www.justice.gov/)  
+   Link: <a href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice (DOJ). DOJ&#x27;s mission is to enforce the law and defend the interests of the United States according to the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: musicbusinessworldwide.com  
    Title: Read more  
-   Link: [https://www.musicbusinessworldwide.com/streaming-fraud-man-who-pocketed-8m-using-hundreds-of-thousands-of-ai-songs-streamed-billions-of-times-by-bots-pleads-guilty/](https://www.musicbusinessworldwide.com/streaming-fraud-man-who-pocketed-8m-using-hundreds-of-thousands-of-ai-songs-streamed-billions-of-times-by-bots-pleads-guilty/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/streaming-fraud-man-who-pocketed-8m-using-hundreds-of-thousands-of-ai-songs-streamed-billions-of-times-by-bots-pleads-guilty/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/streaming-fraud-man-who-pocketed-8m-using-hundreds-of-thousands-of-ai-songs-streamed-billions-of-times-by-bots-pleads-guilty/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideStreaming fraud man who pocketed $8m using hundreds of...19 Mar 2026 — Michael Smith, of Cornelius, North Caroli...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lewissilkin.com  
    Title: ai hits a sour note in us streaming fraud lawsuit  
-   Link: [https://www.lewissilkin.com/en/insights/2024/12/17/ai-hits-a-sour-note-in-us-streaming-fraud-lawsuit](https://www.lewissilkin.com/en/insights/2024/12/17/ai-hits-a-sour-note-in-us-streaming-fraud-lawsuit)  
+   Link: <a href="https://www.lewissilkin.com/en/insights/2024/12/17/ai-hits-a-sour-note-in-us-streaming-fraud-lawsuit" target="_blank" rel="noopener noreferrer nofollow">https://www.lewissilkin.com/en/insights/2024/12/17/ai-hits-a-sour-note-in-us-streaming-fraud-lawsuit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lewis SilkinAI hits a sour note in US streaming fraud lawsuitDec 16, 2024 — A US musician and his co-conspirators stand accused of conspi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report](https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report)  
+   Link: <a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai](https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai)  
+   Link: <a href="https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US man pleads guilty to defrauding music streamers out of...5 days ago — Michael Smith, 52, charged after flooding platforms with thousa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/department](https://dictionary.cambridge.org/dictionary/english/department)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya part of an organization such as a school, business, or government that deals with a particular...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/department" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/department</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya part of an organization such as a school, business, or government that deals with a particular...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b](https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b)  
+   Link: <a href="https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/01bb3ef5a344045a64a0a7004e88df5b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In response to a surge in songs created with artificial intelligence—now comprising about 18% of daily uploads—Deezer will label [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/m/michael](https://www.rottentomatoes.com/m/michael)  
+   Link: <a href="https://www.rottentomatoes.com/m/michael" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/michael</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MichaelMICHAEL is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known. The fil...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicradar.com  
-   Link: [https://www.musicradar.com/music-tech/although-the-songs-and-listeners-were-fake-the-millions-of-dollars-smith-stole-was-real-millions-of-dollars-in-royalties-that-smith-diverted-from-real-deserving-artists-and-rights-holders-us-man-pleads-guilty-to-industrial-scale-ai-fraud](https://www.musicradar.com/music-tech/although-the-songs-and-listeners-were-fake-the-millions-of-dollars-smith-stole-was-real-millions-of-dollars-in-royalties-that-smith-diverted-from-real-deserving-artists-and-rights-holders-us-man-pleads-guilty-to-industrial-scale-ai-fraud)  
+   Link: <a href="https://www.musicradar.com/music-tech/although-the-songs-and-listeners-were-fake-the-millions-of-dollars-smith-stole-was-real-millions-of-dollars-in-royalties-that-smith-diverted-from-real-deserving-artists-and-rights-holders-us-man-pleads-guilty-to-industrial-scale-ai-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/although-the-songs-and-listeners-were-fake-the-millions-of-dollars-smith-stole-was-real-millions-of-dollars-in-royalties-that-smith-diverted-from-real-deserving-artists-and-rights-holders-us-man-pleads-guilty-to-industrial-scale-ai-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Millions of dollars in royalties that Smith diverted from real, deserving artists and rights holders&quot;: US Man pleads guilty to industrial...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=j7G3RUplSjU](https://www.youtube.com/watch?v=j7G3RUplSjU)  
+   Link: <a href="https://www.youtube.com/watch?v=j7G3RUplSjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7G3RUplSjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyer Reacts To MASSIVE $10 Million Streaming ScamIn this episode of the Top Music Attorney Podcast, Entertainment Attorney, Miss Krystl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: irrationalchange.com  
-   Title: [ai generated music](&#123;&#123; 'ai-songs/' | relative_url &#125;&#125;) listened to by ai bots leads to a fraud conviction  
-   Link: [https://www.irrationalchange.com/besci-ai-pulse/ai-generated-music-listened-to-by-ai-bots-leads-to-a-fraud-conviction](https://www.irrationalchange.com/besci-ai-pulse/ai-generated-music-listened-to-by-ai-bots-leads-to-a-fraud-conviction)  
+   Title: ai generated music listened to by ai bots leads to a fraud conviction  
+   Link: <a href="https://www.irrationalchange.com/besci-ai-pulse/ai-generated-music-listened-to-by-ai-bots-leads-to-a-fraud-conviction" target="_blank" rel="noopener noreferrer nofollow">https://www.irrationalchange.com/besci-ai-pulse/ai-generated-music-listened-to-by-ai-bots-leads-to-a-fraud-conviction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI generated music listened to by AI bots leads to a fraud...30 Mar 2026 — A North Carolina man, Michael Smith, pleaded guilty to runnin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 395200327 A man abused AI for several years An Academic Case Study  
-   Link: [https://www.researchgate.net/publication/395200327_A_man_abused_AI_for_several_years_An_Academic_Case_Study](https://www.researchgate.net/publication/395200327_A_man_abused_AI_for_several_years_An_Academic_Case_Study)  
+   Link: <a href="https://www.researchgate.net/publication/395200327_A_man_abused_AI_for_several_years_An_Academic_Case_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395200327_A_man_abused_AI_for_several_years_An_Academic_Case_Study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A man abused AI for several years: An Academic Case StudySep 2, 2025 — PDF | This case examines the indictment of Michael Smith, a 52-yea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: rollingstone.com  
    Title: mike smith guilty ai generated music streaming fraud 1235534089  
-   Link: [https://www.rollingstone.com/music/music-news/mike-smith-guilty-ai-generated-music-streaming-fraud-1235534089/](https://www.rollingstone.com/music/music-news/mike-smith-guilty-ai-generated-music-streaming-fraud-1235534089/)  
+   Link: <a href="https://www.rollingstone.com/music/music-news/mike-smith-guilty-ai-generated-music-streaming-fraud-1235534089/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/mike-smith-guilty-ai-generated-music-streaming-fraud-1235534089/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mike Smith Pleads Guilty to AI-Assisted Music-Streaming...19 Mar 2026 — Mike Smith pleaded guilty to defrauding music-streaming services...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: incidentdatabase.ai  
-   Link: [https://incidentdatabase.ai/cite/779/](https://incidentdatabase.ai/cite/779/)  
+   Link: <a href="https://incidentdatabase.ai/cite/779/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/cite/779/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gs and fake streaming accounts to scam over $10 million in royalties from major...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musictech.com  
    Title: streaming fraudster pleads guilty eight million royalties  
-   Link: [https://musictech.com/news/industry/streaming-fraudster-pleads-guilty-eight-million-royalties/](https://musictech.com/news/industry/streaming-fraudster-pleads-guilty-eight-million-royalties/)  
+   Link: <a href="https://musictech.com/news/industry/streaming-fraudster-pleads-guilty-eight-million-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://musictech.com/news/industry/streaming-fraudster-pleads-guilty-eight-million-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fraudulent operation began all the way back in 2017. Smith has pleaded guilty to one count of conspiracy to commit wire fraud, which carr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: routenote.com  
-   Link: [https://routenote.com/blog/first-us-streaming-fraud-case-ai-music/](https://routenote.com/blog/first-us-streaming-fraud-case-ai-music/)  
+   Link: <a href="https://routenote.com/blog/first-us-streaming-fraud-case-ai-music/" target="_blank" rel="noopener noreferrer nofollow">https://routenote.com/blog/first-us-streaming-fraud-case-ai-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>erves as a warning for the industry when it comes tackling streaming...Read more...</p></details>

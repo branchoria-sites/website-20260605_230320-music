@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e
 - music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e
 tags:
-- music
+- music-3-a01-be
 - sync
 - clearance
 keywords:
-- music
+- music-3-a01-be
 - sync
 - clearance
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Most sync deals must clear both the written song and the chosen recording before music can legally meet moving images.
 hero_summary: Most sync deals must clear both the written song and the chosen recording before music can legally meet moving images.
 layout: default
 permalink: /clearance/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /sync/
 nav_short_title: Clearance
 title: Why One Song Often Needs Two Yeses
-title_full: Why One Song Often Needs Two Yeses | Sync
+title_full: Why One Song Often Needs Two Yeses
 display_title_short: Clearance
 display_title: Clearance
 heading_title: Why One Song Often Needs Two Yeses
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Screen Placements Revive Songs | Music
+parent_title: How Screen Placements Revive Songs
 parent_permalink: /sync/
 parent_nav_short_title: Sync
 parent_heading_title: How Screen Placements Revive Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why One Scene Can Rewrite a Song
 up_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -265,7 +265,7 @@ next_link:
   permalink: /game-deals/
   short_title: Game Deals
   heading_title: When Songs Become Part of Game Worlds
-date: '2026-06-09 07:11:27 '
+date: '2026-06-11 23:37:05 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1.webp
@@ -276,18 +276,14 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearan
 
 A song used in a film, television programme, advertisement or video game often requires two separate permissions before it can legally accompany moving images. One permission covers the underlying composition—the melody and lyrics written by songwriters and controlled by publishers. The other covers the specific sound [recording]({{ 'recording/' | relative_url }}) that audiences recognise, usually controlled by a record label or the recording owner. This “two-rights” structure sits at the centre of most sync [licensing]({{ 'licensing/' | relative_url }}) deals and explains why a producer can secure approval from one rights holder yet still be unable to use the music. The process may seem administrative, but it shapes costs, timelines, creative choices and even which songs ultimately appear on screen. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-dark.svg" | relative_url }}" alt="Clearance illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Composition Rights Versus Master Rights
 
-The first approval is the synchronisation licence, commonly called a sync licence. This grants permission to pair a musical composition with visual content. It applies to the song itself—the words, [melody]({{ 'melody/' | relative_url }}) and underlying musical work—regardless of who performs it. Publishers, songwriters or their representatives usually control this right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPHow To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPA Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</span></span></span>
+The first approval is the synchronisation licence, commonly called a sync licence. This grants permission to pair a musical composition with visual content. It applies to the song itself—the words, [melody]({{ 'melody/' | relative_url }}) and underlying musical work—regardless of who performs it. Publishers, songwriters or their representatives usually control this right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">A Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</span></span></span>
 
 The second approval is the master use licence. This covers the actual recording that listeners hear. If a producer wants to use a famous recording rather than create a new version, permission must also come from whoever owns the master recording, often a record label but sometimes the artist or another [rights]({{ 'rights/' | relative_url }}) holder. Musicbed <span class="citation-chip-wrap"><a class="citation-chip" href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartdaylaw.com">[2bartdaylaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartdaylaw.com</span><span class="citation-popover-title">Licensing Music For Films</span><span class="citation-popover-snippet">So, if the producer of a film, television show,Read more...</span></span></span>
 
 A simple example illustrates the distinction. A television producer may want to use a classic hit. The composition belongs to the songwriters and publisher, while the well-known recording belongs to a label. Even if the publisher approves the placement, the producer cannot use the original recording without the label's consent. Likewise, label approval alone is insufficient because the composition remains separately protected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">What is a Music Synchronization License?</span><span class="citation-popover-snippet">Sync...3 Sept 2019 — Master use license from a record label/recording artists, allowing to synchronize the sound recording. Music superv...</span></span></span> This separation is a consequence of copyright structure rather than industry habit. Music copyright generally recognises the composition andthe sound recording as distinct assets, each with its own ownership chain and licensing requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hornwright.com">[Horn Wright, LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hornwright.com</span><span class="citation-popover-snippet">Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and lyrics.Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V33bcQ0g_NE" title="Licensing Your Music - Understanding the Different Types and How to Do It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V33bcQ0g_NE" target="_blank" rel="noopener noreferrer">Licensing Your Music - Understanding the Different Types and How to Do It</a></p><p class="youtube-embed-meta">Channel: Powered By Rock &middot; Views: 391 &middot; Uploaded: February 2024 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V33bcQ0g_NE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V33bcQ0g_NE">Open on YouTube</a></p></div></div></div>
 
 ## Why Split Ownership Slows Approvals
 
@@ -302,10 +298,9 @@ Several factors can delay approval:
 * **Different commercial expectations.** One side may accept a proposed fee while another demands more.
 * **Creative objections.** Rights holders may reject uses that conflict with their brand, values or artistic preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartdaylaw.com">[bartdaylaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartdaylaw.com</span><span class="citation-popover-title">Licensing Music For Films</span><span class="citation-popover-snippet">So, if the producer of a film, television show,Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
 
-The practical consequence is that a producer can spend weeks pursuing a song only to discover that one stakeholder refuses permission. Industry discussions frequently describe sync clearance as requiring unanimous approval from all relevant owners rather than a simple majority decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditA comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</span></span></span>
+The practical consequence is that a producer can spend weeks pursuing a song only to discover that one stakeholder refuses permission. Industry discussions frequently describe sync clearance as requiring unanimous approval from all relevant owners rather than a simple majority decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</span></span></span>
 
 For screen productions operating under tight schedules, this uncertainty can be as significant as the licensing fee itself. A perfect creative match may be abandoned because clearance cannot be completed before delivery deadlines.
-
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-2-dark.svg" | relative_url }}" alt="Clearance illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Governance Challenge Behind Every Placement
@@ -314,17 +309,14 @@ The two-rights system is fundamentally a governance system. It determines who ge
 
 From a rights-holder perspective, separate approvals provide meaningful control. Songwriters can protect the integrity of their compositions, while recording owners can decide how a particular performance or production is used. A publisher may approve a cover version in a commercial while refusing use of the original recording, or vice versa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hornwright.com">[Horn Wright, LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hornwright.com</span><span class="citation-popover-snippet">Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and lyrics.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mraservices.com/licensing-of-popular-music-in-advertising/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mraservices.com">[MRA Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mraservices.com</span><span class="citation-popover-snippet">MRA ServicesLicensing of Popular Music in Advertising - MRA Services11 Dec 2017 — Synchronization License: Rights to synchronize the musi...</span></span></span>
 
-For producers, however, the same structure creates transaction costs. Locating owners, verifying ownership percentages and coordinating negotiations all consume time and legal resources. Industry organisations such as ASCAP and BMI provide databases and rights-management tools that help identify ownership information, but the responsibility for obtaining permissions remains with the producer or music supervisor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanolaw.com">[Romano Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanolaw.com</span><span class="citation-popover-title">staying sync rights owners clear music tv film</span><span class="citation-popover-snippet">Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</span></span></span> ASCAP The result is a balancing act between creative freedom <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPHow To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span>, copyright protection and commercial efficiency. Every screen placement effectively becomes a small governance exercise involving multiple stakeholders with different interests.
+For producers, however, the same structure creates transaction costs. Locating owners, verifying ownership percentages and coordinating negotiations all consume time and legal resources. Industry organisations such as ASCAP and BMI provide databases and rights-management tools that help identify ownership information, but the responsibility for obtaining permissions remains with the producer or music supervisor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanolaw.com">[Romano Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanolaw.com</span><span class="citation-popover-title">staying sync rights owners clear music tv film</span><span class="citation-popover-snippet">Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</span></span></span> ASCAP The result is a balancing act between creative freedom <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span>, copyright protection and commercial efficiency. Every screen placement effectively becomes a small governance exercise involving multiple stakeholders with different interests.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5p15htWZ9H4" title="Why You Should Master Your Own Tracks For Sync Licensing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5p15htWZ9H4" target="_blank" rel="noopener noreferrer">Why You Should Master Your Own Tracks For Sync Licensing</a></p><p class="youtube-embed-meta">Channel: Sync My Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5p15htWZ9H4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5p15htWZ9H4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-dark.svg" | relative_url }}" alt="Clearance illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When One-Stop Music Becomes Attractive
 
 Because two-rights clearance can be slow and uncertain, music supervisors often value what the industry calls “one-stop” music. In a one-stop arrangement, a single person or company controls both the publishing and [master rights]({{ 'master-rights/' | relative_url }}) and can grant all necessary permissions through one negotiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
 
 One-stop music offers several advantages:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -339,17 +331,13 @@ This is one reason independent artists who own both their masters and publishing
 
 Importantly, “one-stop” does not mean copyright disappears. It means that the necessary permissions are consolidated under a single decision-maker, reducing administrative friction while preserving legal protection for the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundstripe.com/blogs/music-licensing-terms-decoded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundstripe.com">[soundstripe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundstripe.com</span><span class="citation-popover-title">music licensing terms decoded</span><span class="citation-popover-snippet">Synchronization License: Music Licensing Terms Decoded14 May 2026 — Practical implication: when a music license claims to be &quot;all-in,&quot; co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V33bcQ0g_NE" title="Licensing Your Music - Understanding the Different Types and How to Do It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V33bcQ0g_NE" target="_blank" rel="noopener noreferrer">Licensing Your Music - Understanding the Different Types and How to Do It</a></p><p class="youtube-embed-meta">Channel: Powered By Rock &middot; Views: 391 &middot; Uploaded: February 2024 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V33bcQ0g_NE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V33bcQ0g_NE">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-dark.svg" | relative_url }}" alt="Clearance illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Two Yeses Matter to a Song's Screen Life
 
 The most memorable sync placements often appear effortless to audiences. Viewers experience only the emotional effect of the music within a scene. Behind that moment, however, sits a clearance process designed to respect the distinct rights embedded in a song.
 
 The requirement for both composition and master approval influences which recordings reach screens, how quickly deals can be completed and whether a production chooses a famous recording, a cover version or an entirely different track. Understanding this two-rights framework explains why music licensing is not merely a creative decision but also a legal and organisational one. Every successful sync placement depends on securing both halves of the song before it can begin its new life alongside moving images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmsupply.com/articles/film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmsupply.com">[filmsupply.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmsupply.com</span><span class="citation-popover-snippet">The sync is the song itself and how it is synchronized...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[3ASCAP 3PRS for Music(#endnote-20]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP does not license rights for recording artists, musicians, singers or record labels.... A synchronization...</span></span></span> "Snippet: PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...")
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SEliWc2Tz3k" title="Sync Licensing: How it works for Indie Artists and Music Producers in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SEliWc2Tz3k" target="_blank" rel="noopener noreferrer">Sync Licensing: How it works for Indie Artists and Music Producers in 2025</a></p><p class="youtube-embed-meta">Channel: xJ-Will</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SEliWc2Tz3k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SEliWc2Tz3k">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -747,203 +735,203 @@ The requirement for both composition and master approval influences which record
 
 1. <a id="endnote-1"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films](https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPHow To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</p></details>
+   Link: <a href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: soundcharts.com  
    Title: What is a Music Synchronization License?  
-   Link: [https://soundcharts.com/en/blog/how-music-sync-licensing-works](https://soundcharts.com/en/blog/how-music-sync-licensing-works)  
+   Link: <a href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/how-music-sync-licensing-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sync...3 Sept 2019 — Master use license from a record label/recording artists, allowing to synchronize the sound recording. Music superv...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film](https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPA Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</p></details>
+   Link: <a href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: musicbed.com  
-   Link: [https://www.musicbed.com/articles/resources/types-of-music-licenses/](https://www.musicbed.com/articles/resources/types-of-music-licenses/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicbedUnderstanding the Types of Music Licenses for Film and...A Master Use License grants permission to use a specific recording of a...</p></details>
+   Link: <a href="https://www.musicbed.com/articles/resources/types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/articles/resources/types-of-music-licenses/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Types of Music Licenses for Film and...A Master Use License grants permission to use a specific recording of a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bartdaylaw.com  
    Title: Licensing Music For Films  
-   Link: [https://bartdaylaw.com/licensing-music-for-films/](https://bartdaylaw.com/licensing-music-for-films/)  
+   Link: <a href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow">https://bartdaylaw.com/licensing-music-for-films/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>So, if the producer of a film, television show,Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hornwright.com  
-   Link: [https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/](https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/)  
+   Link: <a href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow">https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: slinkyproductions.co.uk  
    Title: 05 music sync licensing patrick cloherty  
-   Link: [https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/](https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/)  
+   Link: <a href="https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/" target="_blank" rel="noopener noreferrer nofollow">https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>05 – Music Sync Licensing For Film, TV &amp; VideoA music synchronisation license is a music license granted by the owner or composer of a pa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/](https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditA comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</p></details>
+   Link: <a href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing](https://www.ascap.com/help/ascap-licensing)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP does not license rights for recording artists, musicians, singers or record labels.... A synchronization...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights](https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights)  
+   Link: <a href="https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI and Performing Rights | BMI.comThe “synch license,” as it is sometimes called, pays copyright owners when their music is used in comb...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tonalchaostrailers.com  
-   Link: [https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/](https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/)  
+   Link: <a href="https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A master license covers the specific recording. A blanket license covers an entire...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: soundstripe.com  
    Title: music licensing terms decoded  
-   Link: [https://www.soundstripe.com/blogs/music-licensing-terms-decoded](https://www.soundstripe.com/blogs/music-licensing-terms-decoded)  
+   Link: <a href="https://www.soundstripe.com/blogs/music-licensing-terms-decoded" target="_blank" rel="noopener noreferrer nofollow">https://www.soundstripe.com/blogs/music-licensing-terms-decoded</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronization License: Music Licensing Terms Decoded14 May 2026 — Practical implication: when a music license claims to be &quot;all-in,&quot; co...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: musicbed.com  
-   Link: [https://www.musicbed.com/knowledge-base/types-of-music-licenses/28](https://www.musicbed.com/knowledge-base/types-of-music-licenses/28)  
+   Link: <a href="https://www.musicbed.com/knowledge-base/types-of-music-licenses/28" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/knowledge-base/types-of-music-licenses/28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Music LicensesThe master license gives the user permission to use a pre-recorded version... Generally a master license is issue...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: filmsupply.com  
-   Link: [https://www.filmsupply.com/articles/film-music-licensing/](https://www.filmsupply.com/articles/film-music-licensing/)  
+   Link: <a href="https://www.filmsupply.com/articles/film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsupply.com/articles/film-music-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The sync is the song itself and how it is synchronized...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/licensing](https://www.bmi.com/licensing)  
+   Link: <a href="https://www.bmi.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing | BMI.comA BMI music license gives you clearance to play over 25 million songs in BMI&#x27;s award-winning catalog. SEARCH SON...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/](https://www.bmi.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI | BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
+   Link: <a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bmi.com  
    Title: 10 things you need to know about placing music on tv and in films  
-   Link: [https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films](https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films)  
+   Link: <a href="https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This license is issued by...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/](https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Need to license certain songs for using them in a feature filmApproach the publisher label. They typically retain and deal with sync righ...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: who.int  
-   Link: [https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index)  
+   Link: <a href="https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index</a>  
 
 20. <a id="endnote-20"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing](https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing)  
+   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thatpitch.com  
    Title: That Pitch Blog What Master Rights Mean in Sync Licensing  
-   Link: [https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/](https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/)  
+   Link: <a href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mraservices.com  
-   Link: [https://mraservices.com/licensing-of-popular-music-in-advertising/](https://mraservices.com/licensing-of-popular-music-in-advertising/)  
+   Link: <a href="https://mraservices.com/licensing-of-popular-music-in-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://mraservices.com/licensing-of-popular-music-in-advertising/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MRA ServicesLicensing of Popular Music in Advertising - MRA Services11 Dec 2017 — Synchronization License: Rights to synchronize the musi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: library.mi.edu  
-   Link: [https://library.mi.edu/musiccopyright/licensing](https://library.mi.edu/musiccopyright/licensing)  
+   Link: <a href="https://library.mi.edu/musiccopyright/licensing" target="_blank" rel="noopener noreferrer nofollow">https://library.mi.edu/musiccopyright/licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Copyright and LicensingDec 2, 2022 — Synchronization licenses pay the composer for the right to sync their composition (music and l...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: romanolaw.com  
    Title: staying [sync rights](&#123;&#123; 'sync-rights/' | relative_url &#125;&#125;) owners clear music tv film  
-   Link: [https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/](https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/)  
+   Link: <a href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thatpitch.com  
    Title: That Pitch Blog What Music Supervisors Do in Sync Licensing  
-   Link: [https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/](https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/)  
+   Link: <a href="https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>synchronization licenses for the composition and master use licenses for the specific recording.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thatpitch.com  
-   Link: [https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/](https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/)  
+   Link: <a href="https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogOne-Stop Clearance in Sync Licensing Explained - That Pitch24 Mar 2026 — Sync licensing is how your music gets placed in v...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: thatpitch.com  
-   Link: [https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/](https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/)  
+   Link: <a href="https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing and Master Rights in Sync Licensing ContractsA sync license agreement is essentially a contract that grants permission to sync...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: truecadence.org  
    Title: sync licensing  
-   Link: [https://truecadence.org/sync-licensing/](https://truecadence.org/sync-licensing/)  
+   Link: <a href="https://truecadence.org/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://truecadence.org/sync-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know14 Mar 2026 — Sync licensing is an agreement between a production team (who could be working on a film, video...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: calculator.net  
-   Link: [https://www.calculator.net/bmi-calculator.html](https://www.calculator.net/bmi-calculator.html)  
+   Link: <a href="https://www.calculator.net/bmi-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/bmi-calculator.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI CalculatorBMI is a measurement of a person&#x27;s leanness or corpulence based on their height and weight, and is intended to quantify tis...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reelcrafter.com  
-   Link: [https://www.reelcrafter.com/blog/how-sync-licensing-works](https://www.reelcrafter.com/blog/how-sync-licensing-works)  
+   Link: <a href="https://www.reelcrafter.com/blog/how-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://www.reelcrafter.com/blog/how-sync-licensing-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How sync licensing worksIn this post, we&#x27;ll cover the basics of sync licensing, from copyright and composition to fees and [royalties](&amp;#123;&amp;#123; &#x27;royalties/&#x27; | relative_url &amp;#125;&amp;#125;). Read...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: unitedmasters.com  
-   Link: [https://unitedmasters.com/en/sync-licensing-101](https://unitedmasters.com/en/sync-licensing-101)  
+   Link: <a href="https://unitedmasters.com/en/sync-licensing-101" target="_blank" rel="noopener noreferrer nofollow">https://unitedmasters.com/en/sync-licensing-101</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sync Licensing 101 for ArtistsA music synchronization license, or “sync” for short, is a music license granted by an artist, record label...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: theupstatesound.com  
-   Link: [https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/](https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/)  
+   Link: <a href="https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Sync Licensing in the Music IndustryWhen a song is licensed for use in a commercial, a TV show, or a film, it is “synchroni...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: aristake.com  
-   Link: [https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/](https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/)  
+   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties9 May 2019 — Any songwriter in the US can sign up for ASCAP or BMI without being invited or having to...</p></details>
    Published: May 2019  
 
 34. <a id="endnote-34"></a>
    Source: discmakers.com  
-   Link: [https://www.discmakers.com/resources/music-licensing-guide](https://www.discmakers.com/resources/music-licensing-guide)  
+   Link: <a href="https://www.discmakers.com/resources/music-licensing-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.discmakers.com/resources/music-licensing-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The different types of music licenses: a complete overviewYou&#x27;ll still need the master use license even if it&#x27;s your own recording...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: certificates.gsbf.co.uk  
    Title: gsbf.co.uk Synchronization and Licensing — Guide  
-   Link: [https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing](https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing)  
+   Link: <a href="https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing" target="_blank" rel="noopener noreferrer nofollow">https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Licensing — Guide - GSBF1 day ago — Sync licenses often require the approval of both the music publisher (who controls the compositio...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/](https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/)  
+   Link: <a href="https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r copyright and this is given to artist or record label 2-...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/newuse](https://musiciansunion.org.uk/newuse)  
+   Link: <a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rces and template licences for TV, film and advertising companies...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9](https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9)  
+   Link: <a href="https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e actual sound recording. Mechanical License → For...Read more...</p></details>

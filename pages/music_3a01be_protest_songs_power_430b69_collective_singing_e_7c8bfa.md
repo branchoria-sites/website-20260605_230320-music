@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90
 - music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad
 tags:
-- music
+- music-3-a01-be
 - protest-songs
 - collective-singing
 keywords:
-- music
+- music-3-a01-be
 - protest-songs
 - collective-singing
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Singing together in protests creates shared emotions that strengthen solidarity and morale among participants.
 hero_summary: Singing together in protests creates shared emotions that strengthen solidarity and morale among participants.
 layout: default
 permalink: /collective-singing/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /protest-songs/
 nav_short_title: Collective Singing
 title: How Group Singing Builds Solidarity in Protests
-title_full: How Group Singing Builds Solidarity in Protests | Protest Songs
+title_full: How Group Singing Builds Solidarity in Protests
 display_title_short: Collective Singing
 display_title: Collective Singing
 heading_title: How Group Singing Builds Solidarity in Protests
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Protest Songs Still Mobilize People | Music
+parent_title: Why Protest Songs Still Mobilize People
 parent_permalink: /protest-songs/
 parent_nav_short_title: Protest Songs
 parent_heading_title: Why Protest Songs Still Mobilize People
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Protest Songs Flatten Complex Messages
 up_link:
   basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -259,7 +259,7 @@ next_link:
   permalink: /digital-protest-music/
   short_title: Digital Protest Music
   heading_title: How Social Media Transforms Protest Songs Online
-date: '2026-06-09 07:01:15 '
+date: '2026-06-11 23:32:16 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_collective_singing
 
 Collective singing in protests is far more than a backdrop to chants and slogans; it is an **emotional mechanism** that shapes how participants feel about themselves, one another, and the shared cause. When people sing together amid the intensity of protest, they tap into powerful affective processes that can raise morale, forge solidarity, help release negative emotions, and even produce moments of shared transcendence. Unlike passive listening or individual expression, **singing together synchronises bodies and emotions**, creating a shared affective space that feeds both the personal resilience of participants and the collective energy of the movement itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1-dark.svg" | relative_url }}" alt="Collective Singing illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Emotional Bonding Through Chants
 
@@ -278,15 +277,11 @@ One of the clearest lenses on how collective singing works in protests comes fro
 
 This research also highlights that singing can generate what some scholars call a **spiritual or transcendent emotional experience**, where individuals feel a sense of uplift or collective elevation beyond everyday feelings. Protesters described instances in which song moved them to feel hopeful and empowered, even amid stressful or confrontational situations, underscoring that the emotional effects of group singing extend beyond simple morale boosts to more encompassing shared experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LhjGs_a-KQc" title="Why This Peaceful Protest Is Going Viral Across America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LhjGs_a-KQc" target="_blank" rel="noopener noreferrer">Why This Peaceful Protest Is Going Viral Across America</a></p><p class="youtube-embed-meta">Channel: The Long Island Sound, Music Discovery, Interviews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LhjGs_a-KQc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LhjGs_a-KQc">Open on YouTube</a></p></div></div></div>
-
 ## Raising Morale with Repeated Refrains
 
 The emotional impact of singing together is not limited to rare moments of transcendence; it also includes more **everyday affective benefits**. Studies of group singing outside protest contexts have shown that singing together induces **positive affect and rapid social bonding**, effects that are likely intensified in the emotionally charged atmosphere of demonstrations. Research in other group settings finds that singing leads to increases in positive mood and feelings of closeness among participants, often more quickly than in non-singing group activities. This rapid affective alignment—sometimes called an “ice‑breaker effect”—means that participants can feel emotionally connected to one another even when they began as relative strangers.[PMC]
 
 These findings are relevant for protests because chants and repeated refrains function much like organised group singing: rhythmic, synchronised, and participatory. By engaging protesters physically and emotionally in coordinated sound production, chants can help **sustain energy, reduce feelings of fatigue or frustration, and reinforce collective motivation** over the often long and taxing duration of a demonstration.
-
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-2-dark.svg" | relative_url }}" alt="Collective Singing illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spiritual and Collective Transcendence
@@ -295,24 +290,16 @@ Beyond bonding and mood regulation, collective singing in protests can facilitat
 
 Collective effervescence in protests can make individuals feel part of something **larger than themselves**, reinforcing the sense that their shared struggle carries moral and emotional significance. Singing together creates an immediate, embodied sense of community, strengthening both **horizontal bonds among participants** and vertical commitment to the cause. The emotional synchrony that arises from shared vocal expression helps to anchor individuals in a common emotional landscape, which can be especially vital during prolonged marches or moments of confrontation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-J7HcVLsCrY" title="The Feelings Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-J7HcVLsCrY" target="_blank" rel="noopener noreferrer">The Feelings Song</a></p><p class="youtube-embed-meta">Channel: Miss Molly</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-J7HcVLsCrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-J7HcVLsCrY">Open on YouTube</a></p></div></div></div>
-
 ## Shared Emotion and Group Identity
 
-The mechanisms through which collective singing affects emotion are intrinsically tied to **synchronisation and social coordination**. Singing requires participants to align their breathing, timing, and vocal output—acts that go beyond cognitive agreement and touch on shared bodily experience. This synchrony is associated with emotional contagion, where feelings like joy, defiance, or hope spread rapidly through a group. These processes contribute not only to immediate positive affect but also to a **sense of collective identity**, as individuals begin to feel that their emotional experiences belong to a shared group rather than to isolated selves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36118463/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedEmotional processes, collective behavior, and social movements: A meta-analytic review of collective effervescence outcomes during...</span></span></span>
+The mechanisms through which collective singing affects emotion are intrinsically tied to **synchronisation and social coordination**. Singing requires participants to align their breathing, timing, and vocal output—acts that go beyond cognitive agreement and touch on shared bodily experience. This synchrony is associated with emotional contagion, where feelings like joy, defiance, or hope spread rapidly through a group. These processes contribute not only to immediate positive affect but also to a **sense of collective identity**, as individuals begin to feel that their emotional experiences belong to a shared group rather than to isolated selves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36118463/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotional processes, collective behavior, and social movements: A meta-analytic review of collective effervescence outcomes during...</span></span></span>
 
 This shared emotional state can be especially significant in protest environments, where participants are facing uncertainty, opposition, or stress. By engaging in collective singing, protesters create a **mutual emotional resource** that can buffer against discouragement and strengthen commitment. The embodied nature of singing makes these effects tangible: the sound, [rhythm]({{ 'rhythm/' | relative_url }}), and [physical]({{ 'physical/' | relative_url }}) synchrony provide multiple channels through which emotions circulate and intensify across the group.
-
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-3-dark.svg" | relative_url }}" alt="Collective Singing illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
 In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | relative_url }}); it is an **affective engine** that shapes how participants feel, relate, and endure. Through boosting morale, fostering emotional bonds, and facilitating collective transcendence, singing galvanises participants’ emotional lives in ways that help sustain both the individual and shared momentum of a movement. The emotional effects of this practice are grounded in synchrony, shared experience, and embodied expression, making collective singing a powerful mechanism in how [protest songs]({{ 'protest-songs/' | relative_url }}) build collective power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kzFgoaZ9-VQ" title="Emotional responses to music | Hauke Egermann | TEDxGhent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kzFgoaZ9-VQ" target="_blank" rel="noopener noreferrer">Emotional responses to music | Hauke Egermann | TEDxGhent</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kzFgoaZ9-VQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kzFgoaZ9-VQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -711,105 +698,105 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe ice-breaker effect: singing mediates fast social bonding  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCOctober 28, 2015...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2015...</p></details>
    Published: October 28, 2015  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lective gatherings and demonstrations - PMCAugust 31, 2022...</p></details>
    Published: August 31, 2022  
 
 3. <a id="endnote-3"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0038038511416160](https://journals.sagepub.com/doi/10.1177/0038038511416160)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0038038511416160</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36118463/](https://pubmed.ncbi.nlm.nih.gov/36118463/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedEmotional processes, collective behavior, and social movements: A meta-analytic review of collective effervescence outcomes during...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36118463/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36118463/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional processes, collective behavior, and social movements: A meta-analytic review of collective effervescence outcomes during...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30319371/](https://pubmed.ncbi.nlm.nih.gov/30319371/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30319371/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30319371/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2018 Sep 27:12:223. doi: 10.3389/fnbeh.2018.00223. eCollection 2018. PSYCHOBIOLOGICAL EFFECTS OF CHORAL SINGING ON AFFECTIVE STATE, SOCIA...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/0038038511416160](https://journals.sagepub.com/doi/abs/10.1177/0038038511416160)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0038038511416160</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe Bensimon, 2012Ja...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160](https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160)  
+   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe Bensimon, 2012Ja...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cris.biu.ac.il  
-   Link: [https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment](https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment)  
+   Link: <a href="https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment" target="_blank" rel="noopener noreferrer nofollow">https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>sociological role of collective singing during intense moments of protest: The disengagement from the Gaza Strip - Bar-Ilan UniversityTHE...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cris.iucc.ac.il  
-   Link: [https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2](https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2)  
+   Link: <a href="https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2" target="_blank" rel="noopener noreferrer nofollow">https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sociological role of collective singing during intense moments of protest: The disengagement from the Gaza Strip - Israeli Research Commu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1755458622000573](https://www.sciencedirect.com/science/article/pii/S1755458622000573)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEMOTION, SPACE AND SOCIETY Volume 45, November 2022, 100925 IN [HARMONY](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;) OR OUT OF TUNE: AFFECTIVE AND EMOTIONAL GEOGRAPHIES O...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1755458622000573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755458622000573</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EMOTION, SPACE AND SOCIETY Volume 45, November 2022, 100925 IN [HARMONY](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;) OR OUT OF TUNE: AFFECTIVE AND EMOTIONAL GEOGRAPHIES O...</p></details>
    Published: November 2022  
 
 13. <a id="endnote-13"></a>
    Source: psy.ox.ac.uk  
-   Link: [https://www.psy.ox.ac.uk/publications/609241](https://www.psy.ox.ac.uk/publications/609241)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— Department of Experimental PsychologyNovember 1, 2016 — SINGING TOGETHER OR APART: THE EFFECT OF COMPETITIVE AND COOPERATIVE SINGING ON...</p></details>
+   Link: <a href="https://www.psy.ox.ac.uk/publications/609241" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/publications/609241</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Experimental PsychologyNovember 1, 2016 — SINGING TOGETHER OR APART: THE EFFECT OF COMPETITIVE AND COOPERATIVE SINGING ON...</p></details>
    Published: November 1, 2016  
 
 14. <a id="endnote-14"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/10070001/](https://discovery.ucl.ac.uk/10070001/)  
+   Link: <a href="https://discovery.ucl.ac.uk/10070001/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10070001/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>together or apart: The effect of competitive and cooperative singing on social bonding within and between sub-groups of a university Frat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psy.ox.ac.uk  
    Title: ox.ac.uk The ice-breaker effect: singing mediates fast social bonding  
-   Link: [https://www.psy.ox.ac.uk/publications/574662](https://www.psy.ox.ac.uk/publications/574662)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— Department of Experimental PsychologyOctober 1, 2015 — THE ICE-BREAKER EFFECT: SINGING MEDIATES FAST SOCIAL BONDING. PEARCE E., LAUNAY...</p></details>
+   Link: <a href="https://www.psy.ox.ac.uk/publications/574662" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/publications/574662</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Experimental PsychologyOctober 1, 2015 — THE ICE-BREAKER EFFECT: SINGING MEDIATES FAST SOCIAL BONDING. PEARCE E., LAUNAY...</p></details>
    Published: October 1, 2015  
 
 16. <a id="endnote-16"></a>
    Source: pure.york.ac.uk  
    Title: york.ac.uk Group Singing as a Resource for the Development of a Healthy Public  
-   Link: [https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ](https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ)  
+   Link: <a href="https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A. Camlin, Helena Daffern, Katherine Zeserson * Electronic Engineering Research output: Contribution to journal › Article › p...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: revistas.urosario.edu.co  
    Title: urosario.edu.co Cuando el sentimiento y la música se encuentran  
-   Link: [https://revistas.urosario.edu.co/index.php/desafios/article/view/7290](https://revistas.urosario.edu.co/index.php/desafios/article/view/7290)  
+   Link: <a href="https://revistas.urosario.edu.co/index.php/desafios/article/view/7290" target="_blank" rel="noopener noreferrer nofollow">https://revistas.urosario.edu.co/index.php/desafios/article/view/7290</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La praxis sonoro-emocional en las marchas de protesta en la Ciudad de México 2015-2018 | DesafíosISSN-e: 2145-5112 ISSN: 0124-4035 DOI: h...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: neuroscience.ox.ac.uk  
-   Link: [https://www.neuroscience.ox.ac.uk/publications/648542](https://www.neuroscience.ox.ac.uk/publications/648542)  
+   Link: <a href="https://www.neuroscience.ox.ac.uk/publications/648542" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscience.ox.ac.uk/publications/648542</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in to others: Exploring relational and collective bonding in singing and non-singing groups over time — Oxford NeuroscienceTUNING IN TO O...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>together or apart: The effect of competitive and cooperative singing on social bonding within and between sub-groups of a university Frat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0305735602302004](https://journals.sagepub.com/doi/10.1177/0305735602302004)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735602302004" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735602302004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unwin, Dianna T. Kenny, Pamela J. Davis, 2002First published October 2002 Request permissions THE EFFECTS OF GROUP SINGING ON MOOD Margar...</p></details>
    Published: October 2002  
 
 21. <a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0305735616667543](https://journals.sagepub.com/doi/10.1177/0305735616667543)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735616667543</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M. Dunbar, 2017September 16, 2016 — First published online September 16, 2016 Request permissions TUNING IN TO OTHERS: EXPLORING RELATION...</p></details>
-   Published: September 16, 2016  
+   Published: September 16, 2016

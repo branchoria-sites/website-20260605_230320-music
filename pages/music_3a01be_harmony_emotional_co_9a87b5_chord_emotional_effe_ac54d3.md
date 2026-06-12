@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260
 - music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1
 tags:
-- music
+- music-3-a01-be
 - harmony
 - chord-emotion
 keywords:
-- music
+- music-3-a01-be
 - harmony
 - chord-emotion
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Major and minor chords influence feeling, but their effect changes depending on musical context and progression.
 hero_summary: Major and minor chords influence feeling, but their effect changes depending on musical context and progression.
 layout: default
 permalink: /chord-emotion/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /harmony/
 nav_short_title: Chord Emotion
 title: How Major and Minor Chords Change Listener Emotions
-title_full: How Major and Minor Chords Change Listener Emotions | Harmony
+title_full: How Major and Minor Chords Change Listener Emotions
 display_title_short: Chord Emotion
 display_title: Chord Emotion
 heading_title: How Major and Minor Chords Change Listener Emotions
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Harmony Changes What Music Means | Music
+parent_title: How Harmony Changes What Music Means
 parent_permalink: /harmony/
 parent_nav_short_title: Harmony
 parent_heading_title: How Harmony Changes What Music Means
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Unresolved Chords Keep Music Emotionally Open
 up_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -259,7 +259,7 @@ next_link:
   permalink: /cultural-context/
   short_title: Cultural Context
   heading_title: Why Major and Minor Chords Feel Different Across Cultures
-date: '2026-06-09 07:25:22 '
+date: '2026-06-11 23:44:12 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1.webp
@@ -268,21 +268,20 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_e
 
 ## Introduction
 
-Major and minor chords are among the most powerful ways [harmony]({{ 'harmony/' | relative_url }}) shapes musical emotion. In many Western musical traditions, major chords are commonly perceived as brighter, more positive, or more stable, while minor chords are often heard as sadder, darker, or more introspective. Yet this contrast is not a fixed emotional code. Research increasingly shows that the emotional effect of a chord depends not only on whether it is major or minor, but also on what comes before it, what follows it, the listener's cultural [background]({{ 'background/' | relative_url }}), and the expectations created by the surrounding music. The same note or melody can feel comforting, triumphant, nostalgic, mournful, or ambiguous simply because the underlying harmony changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</span></span></span>
-
+Major and minor chords are among the most powerful ways [harmony]({{ 'harmony/' | relative_url }}) shapes musical emotion. In many Western musical traditions, major chords are commonly perceived as brighter, more positive, or more stable, while minor chords are often heard as sadder, darker, or more introspective. Yet this contrast is not a fixed emotional code. Research increasingly shows that the emotional effect of a chord depends not only on whether it is major or minor, but also on what comes before it, what follows it, the listener's cultural [background]({{ 'background/' | relative_url }}), and the expectations created by the surrounding music. The same note or melody can feel comforting, triumphant, nostalgic, mournful, or ambiguous simply because the underlying harmony changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1-dark.svg" | relative_url }}" alt="Chord Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding how major and minor chords alter emotional perception helps explain a central mechanism of musical expression: harmony changes the meaning listeners assign to the sounds they hear.
 
 ## Is a Major Chord Really Happier Than a Minor Chord?
 
-When listeners hear isolated chords, they tend to make remarkably consistent emotional judgements. Numerous psychological studies have found that major triads are typically rated as more pleasant, positive, and emotionally uplifting than minor triads, which are more often associated with sadness, seriousness, or negative affect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">However, previous studies have primarily focused on the emotions</span><span class="citation-popover-snippet">PMCPerception of Western Musical Modes: A Chinese Study - PMCby L Fang · 2017 · Cited by 37 — The major mode conveys positive emotion, wh...</span></span></span>
+When listeners hear isolated chords, they tend to make remarkably consistent emotional judgements. Numerous psychological studies have found that major triads are typically rated as more pleasant, positive, and emotionally uplifting than minor triads, which are more often associated with sadness, seriousness, or negative affect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">However, previous studies have primarily focused on the emotions</span><span class="citation-popover-snippet">Perception of Western Musical Modes: A Chinese Study - PMCby L Fang · 2017 · Cited by 37 — The major mode conveys positive emotion, wh...</span></span></span>
 
 The distinction comes from a very small musical change. A major and minor triad differ by only one note: the third of the chord is lowered by a semitone in the minor version. Despite this subtle alteration, listeners often experience a substantial emotional shift.
 
-Researchers have also observed that the brain appears to process the emotional meaning of major and minor chords rapidly. Experiments measuring neural responses suggest that listeners do not simply learn to label major as "happy" and minor as "sad" after conscious reflection. Emotional associations emerge at early stages of auditory processing, indicating that chord quality becomes linked to emotional interpretation almost immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
+Researchers have also observed that the brain appears to process the emotional meaning of major and minor chords rapidly. Experiments measuring neural responses suggest that listeners do not simply learn to label major as "happy" and minor as "sad" after conscious reflection. Emotional associations emerge at early stages of auditory processing, indicating that chord quality becomes linked to emotional interpretation almost immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
 
-Importantly, listeners do not usually describe major chords as purely "happy" or minor chords as purely "sad". Major chords are often associated with brightness, openness, confidence, or warmth. Minor chords may evoke melancholy, tenderness, longing, mystery, or emotional depth. These broader emotional qualities help explain why minor harmonies are frequently used in [music]({{ 'music/' | relative_url }}) that listeners find beautiful rather than simply depressing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</span></span></span>
+Importantly, listeners do not usually describe major chords as purely "happy" or minor chords as purely "sad". Major chords are often associated with brightness, openness, confidence, or warmth. Minor chords may evoke melancholy, tenderness, longing, mystery, or emotional depth. These broader emotional qualities help explain why minor harmonies are frequently used in music that listeners find beautiful rather than simply depressing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</span></span></span>
 
 ## Why a Single Note Can Feel Different Under Different Chords
 
@@ -292,8 +291,7 @@ Imagine a [melody]({{ 'melody/' | relative_url }}) note such as E. Over a C majo
 
 In other words, listeners do not hear notes in isolation. They hear relationships. A note acquires emotional meaning through its connection to the surrounding chord.
 
-This relational hearing helps explain why identical melodies can convey radically different emotions when harmonised differently. The emotional change is not located in the melody alone; it emerges from the interaction between melody and harmony. The chord provides a context that tells the listener how to interpret the notes above it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</span></span></span>
-
+This relational hearing helps explain why identical melodies can convey radically different emotions when harmonised differently. The emotional change is not located in the melody alone; it emerges from the interaction between melody and harmony. The chord provides a context that tells the listener how to interpret the notes above it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rx52vrd5Dh8" title="Are Emotions in Chords Real ? The Myth Behind Music Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rx52vrd5Dh8" target="_blank" rel="noopener noreferrer">Are Emotions in Chords Real ? The Myth Behind Music Theory</a></p><p class="youtube-embed-meta">Channel: Alexandre David composer &middot; Views: 2.6K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rx52vrd5Dh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rx52vrd5Dh8">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +299,7 @@ This relational hearing helps explain why identical melodies can convey radicall
 
 The traditional major-happy and minor-sad distinction becomes less reliable once chords are placed into real musical sequences.
 
-A 2025 experimental study examined listeners' reactions to major and minor chords both in isolation and as endings to chord progressions. Participants rated isolated major chords as more pleasant than isolated minor chords, consistent with decades of previous research. However, the emotional difference changed when the chords appeared within progressions. Stable harmonic endings strengthened the emotional contrast between major and minor chords, whereas unstable endings reduced it significantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
+A 2025 experimental study examined listeners' reactions to major and minor chords both in isolation and as endings to chord progressions. Participants rated isolated major chords as more pleasant than isolated minor chords, consistent with decades of previous research. However, the emotional difference changed when the chords appeared within progressions. Stable harmonic endings strengthened the emotional contrast between major and minor chords, whereas unstable endings reduced it significantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
 
 This finding illustrates a crucial principle: listeners react not just to a chord but to how that chord fulfils or frustrates expectations.
 
@@ -314,12 +312,11 @@ Several contextual factors can reshape emotional perception:
 
 * **Tempo:** Fast music in a minor key often feels energetic or aggressive rather than sorrowful.
 * **Instrumentation:** A major chord played softly by a solo instrument can sound fragile or nostalgic.
-* **Genre conventions:** Emotional interpretations are influenced by musical styles that listeners already know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
+* **Genre conventions:** Emotional interpretations are influenced by musical styles that listeners already know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
 
 </div>
 
 Because harmony operates through expectation, emotional meaning emerges over time rather than residing permanently inside any single chord.
-
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-2-dark.svg" | relative_url }}" alt="Chord Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When Major Sounds Sad and Minor Sounds Hopeful
@@ -330,22 +327,21 @@ Major harmonies can sound wistful when combined with [slow tempos]({{ 'slow-temp
 
 Likewise, minor harmonies can communicate strength, determination, excitement, or beauty. In film music, minor chords frequently accompany heroic struggle rather than despair. In popular music, they often create emotional richness while remaining energetic and engaging.
 
-These examples do not disprove the major-minor distinction. Instead, they show that chord quality contributes one emotional cue among many. The final emotional impression results from the interaction of harmony with rhythm, melody, timbre, dynamics, and listener expectations. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.schoolofcomposition.com/is-major-happy-and-minor-sad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: schoolofcomposition.com">[School of Composition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">schoolofcomposition.com</span><span class="citation-popover-snippet">In today&#x27;s lesson we look at what this statement really means and perhaps more...Read more...</span></span></span>
+These examples do not disprove the major-minor distinction. Instead, they show that chord quality contributes one emotional cue among many. The final emotional impression results from the interaction of harmony with [rhythm]({{ 'rhythm/' | relative_url }}), melody, timbre, dynamics, and listener expectations. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.schoolofcomposition.com/is-major-happy-and-minor-sad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: schoolofcomposition.com">[School of Composition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">schoolofcomposition.com</span><span class="citation-popover-snippet">In today&#x27;s lesson we look at what this statement really means and perhaps more...Read more...</span></span></span>
 
 ## What Empirical Studies Reveal About Emotional Ratings
 
 Laboratory studies consistently find measurable differences in how listeners rate major and minor harmonies.
 
-Across experiments, major chords tend to receive higher ratings for pleasantness, positivity, and happiness, while minor chords receive higher ratings for sadness or negative valence. These patterns appear in both Western and non-Western participant samples that have substantial exposure to Western tonal music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">However, previous studies have primarily focused on the emotions</span><span class="citation-popover-snippet">PMCPerception of Western Musical Modes: A Chinese Study - PMCby L Fang · 2017 · Cited by 37 — The major mode conveys positive emotion, wh...</span></span></span>
+Across experiments, major chords tend to receive higher ratings for pleasantness, positivity, and happiness, while minor chords receive higher ratings for sadness or negative valence. These patterns appear in both Western and non-Western participant samples that have substantial exposure to Western tonal music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">However, previous studies have primarily focused on the emotions</span><span class="citation-popover-snippet">Perception of Western Musical Modes: A Chinese Study - PMCby L Fang · 2017 · Cited by 37 — The major mode conveys positive emotion, wh...</span></span></span>
 
 Researchers have also found evidence beyond direct emotional ratings:
 
-* Brain-imaging studies show different neural activation patterns when listeners hear major versus minor harmonies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/16962796/Emotion_Processing_of_Major_Minor_and_Dissonant_Chords_A_Functional_Magnetic_Resonance_Imaging_Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaEmotion Processing of Major, Minor, and Dissonant ChordsOct 11, 2025 — The results indicate that (1) neural processing in emotion...</span></span></span>
+* Brain-imaging studies show different neural activation patterns when listeners hear major versus minor harmonies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/16962796/Emotion_Processing_of_Major_Minor_and_Dissonant_Chords_A_Functional_Magnetic_Resonance_Imaging_Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Emotion Processing of Major, Minor, and Dissonant ChordsOct 11, 2025 — The results indicate that (1) neural processing in emotion...</span></span></span>
 * Large-scale analyses linking song lyrics and chord usage have found that songs using major chords tend to be associated with more positively valenced language than songs dominated by minor chords. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/4/11/170952/93447/The-Minor-fall-the-Major-lift-inferring-emotional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-title">The Minor fall the Major lift inferring emotional</span><span class="citation-popover-snippet">Royal Society Publishinginferring emotional valence of musical chords through lyricsby A Kolchinsky · 2017 · Cited by 46 — We find that M...</span></span></span>
 * Studies of expectation suggest that switching unexpectedly between major and minor modes can generate reward-related prediction effects in the brain, indicating that emotional responses are tied to whether harmonic outcomes match or violate listener expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.12646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Together, these findings support a nuanced conclusion. Major and minor chords genuinely influence emotional perception, but they do so within a broader cognitive system that constantly evaluates context, prediction, and musical meaning.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2RCOcEu-xLQ" title="How Chords Work in Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2RCOcEu-xLQ" target="_blank" rel="noopener noreferrer">How Chords Work in Music</a></p><p class="youtube-embed-meta">Channel: Mike George &middot; Views: 247.2K &middot; Uploaded: August 2022 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2RCOcEu-xLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2RCOcEu-xLQ">Open on YouTube</a></p></div></div></div>
 
@@ -353,12 +349,11 @@ Together, these findings support a nuanced conclusion. Major and minor chords ge
 
 One of the most important developments in recent music-perception research is the recognition that the major-minor emotional distinction is not completely universal.
 
-Studies comparing listeners from different cultural backgrounds have found that strong associations between major harmony and happiness are most pronounced among people familiar with Western tonal music. In populations with different musical traditions and less exposure to Western harmony, these emotional associations may be weaker or absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">what makes a song sound happy it depends on your culture study finds</span><span class="citation-popover-snippet">What makes a song sound happy? It depends on your...Jun 29, 2022 — The perception of music in major keys as happy and minor keys as sad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westernsydney.edu.au/news-centre/stories/2022/perceptions-of-happy-and-sad-music-may-not-be-universal-across-cultures-new-research-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westernsydney.edu.au">[3Home | Western Sydney University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westernsydney.edu.au</span><span class="citation-popover-snippet">Home | Western Sydney UniversityPerceptions of happy and sad music may not be universal...Jun 30, 2022 — They then compared the emotiona...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2022-06-perceptions-happy-sad-music-universal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2022 06 perceptions happy sad music universal</span><span class="citation-popover-snippet">Perceptions of happy and sad music may not be universal...Jun 30, 2022 — They then compared the emotional perceptions and preferences fo...</span></span></span>
+Studies comparing listeners from different cultural backgrounds have found that strong associations between major harmony and happiness are most pronounced among people familiar with Western tonal music. In populations with different musical traditions and less exposure to Western harmony, these emotional associations may be weaker or absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">what makes a song sound happy it depends on your culture study finds</span><span class="citation-popover-snippet">What makes a song sound happy? It depends on your...Jun 29, 2022 — The perception of music in major keys as happy and minor keys as sad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westernsydney.edu.au/news-centre/stories/2022/perceptions-of-happy-and-sad-music-may-not-be-universal-across-cultures-new-research-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westernsydney.edu.au">[3Home &#124; Western Sydney University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westernsydney.edu.au</span><span class="citation-popover-snippet">Home &#124; Western Sydney UniversityPerceptions of happy and sad music may not be universal...Jun 30, 2022 — They then compared the emotiona...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2022-06-perceptions-happy-sad-music-universal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2022 06 perceptions happy sad music universal</span><span class="citation-popover-snippet">Perceptions of happy and sad music may not be universal...Jun 30, 2022 — They then compared the emotional perceptions and preferences fo...</span></span></span>
 
 This does not mean the distinction is arbitrary. Rather, emotional responses appear to emerge from an interaction between acoustic properties and cultural learning. Listeners gradually absorb the emotional conventions of the musical systems they hear throughout their lives.
 
 As a result, major and minor chords function partly as emotional signals and partly as learned cultural cues. The emotional power of harmony comes from both the sound itself and the expectations that listeners bring to it. Durham University <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/time-travelling-with-apollo/202111/music-to-our-ears" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">music to our ears</span><span class="citation-popover-snippet">Nov 8, 2021 — The study strongly suggests that emotional reactions to major and minor chords are culturally dependent.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n6MViTAfNio" title="Which Chord Sequences Produce Which Emotions (A Complete Map Of The Tonal System)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n6MViTAfNio" target="_blank" rel="noopener noreferrer">Which Chord Sequences Produce Which Emotions (A Complete Map Of The Tonal System)</a></p><p class="youtube-embed-meta">Channel: Pur Pasteur &middot; Views: 424.4K &middot; Uploaded: February 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n6MViTAfNio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n6MViTAfNio">Open on YouTube</a></p></div></div></div>
 
@@ -368,8 +363,7 @@ The emotional effect of major and minor chords is best understood as a process o
 
 Major chords often create impressions of stability, openness, and positive affect. Minor chords often introduce shades of melancholy, tension, or introspection. Yet listeners rarely respond to these harmonies in isolation. They hear them as part of unfolding musical events.
 
-A major chord may feel triumphant after uncertainty. A minor chord may feel comforting after tension. The same note can sound hopeful, tragic, or serene depending on the chord that surrounds it. Research increasingly suggests that this contextual flexibility is not a complication of the major-minor distinction but the very reason harmony is so emotionally expressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
-
+A major chord may feel triumphant after uncertainty. A minor chord may feel comforting after tension. The same note can sound hopeful, tragic, or serene depending on the chord that surrounds it. Research increasingly suggests that this contextual flexibility is not a complication of the major-minor distinction but the very reason harmony is so emotionally expressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-3-dark.svg" | relative_url }}" alt="Chord Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -769,123 +763,123 @@ A major chord may feel triumphant after uncertainty. A minor chord may feel comf
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1571064524001672](https://www.sciencedirect.com/science/article/pii/S1571064524001672)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The major-minor mode dichotomy in music perceptionby G Carraturo · 2025 · Cited by 28 — Traditionally, in Western music, maj...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, previous studies have primarily focused on the emotions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPerception of Western Musical Modes: A Chinese Study - PMCby L Fang · 2017 · Cited by 37 — The major mode conveys positive emotion, wh...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5671660/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perception of Western Musical Modes: A Chinese Study - PMCby L Fang · 2017 · Cited by 37 — The major mode conveys positive emotion, wh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825000034](https://www.sciencedirect.com/science/article/pii/S0001691825000034)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 2 — This study investigates whethe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 2 — This study investigates whethe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/16962796/Emotion_Processing_of_Major_Minor_and_Dissonant_Chords_A_Functional_Magnetic_Resonance_Imaging_Study](https://www.academia.edu/16962796/Emotion_Processing_of_Major_Minor_and_Dissonant_Chords_A_Functional_Magnetic_Resonance_Imaging_Study)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaEmotion Processing of Major, Minor, and Dissonant ChordsOct 11, 2025 — The results indicate that (1) neural processing in emotion...</p></details>
+   Link: <a href="https://www.academia.edu/16962796/Emotion_Processing_of_Major_Minor_and_Dissonant_Chords_A_Functional_Magnetic_Resonance_Imaging_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/16962796/Emotion_Processing_of_Major_Minor_and_Dissonant_Chords_A_Functional_Magnetic_Resonance_Imaging_Study</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Processing of Major, Minor, and Dissonant ChordsOct 11, 2025 — The results indicate that (1) neural processing in emotion...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.12646](https://arxiv.org/abs/2212.12646)  
+   Link: <a href="https://arxiv.org/abs/2212.12646" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.12646</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1706.08609](https://arxiv.org/abs/1706.08609)  
+   Link: <a href="https://arxiv.org/abs/1706.08609" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1706.08609</a>  
 
 7. <a id="endnote-7"></a>
    Source: phys.org  
    Title: 2022 06 perceptions happy sad music universal  
-   Link: [https://phys.org/news/2022-06-perceptions-happy-sad-music-universal.html](https://phys.org/news/2022-06-perceptions-happy-sad-music-universal.html)  
+   Link: <a href="https://phys.org/news/2022-06-perceptions-happy-sad-music-universal.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2022-06-perceptions-happy-sad-music-universal.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptions of happy and sad music may not be universal...Jun 30, 2022 — They then compared the emotional perceptions and preferences fo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39793277/](https://pubmed.ncbi.nlm.nih.gov/39793277/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39793277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39793277/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whether the e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24957406/](https://pubmed.ncbi.nlm.nih.gov/24957406/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMusical chords and emotion: major and minor triads are...by DR Bakker · 2015 · Cited by 99 — The early stages of processing that a...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24957406/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24957406/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical chords and emotion: major and minor triads are...by DR Bakker · 2015 · Cited by 99 — The early stages of processing that a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: schoolofcomposition.com  
-   Link: [https://www.schoolofcomposition.com/is-major-happy-and-minor-sad/](https://www.schoolofcomposition.com/is-major-happy-and-minor-sad/)  
+   Link: <a href="https://www.schoolofcomposition.com/is-major-happy-and-minor-sad/" target="_blank" rel="noopener noreferrer nofollow">https://www.schoolofcomposition.com/is-major-happy-and-minor-sad/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In today&#x27;s lesson we look at what this statement really means and perhaps more...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: royalsocietypublishing.org  
    Title: The Minor fall the Major lift inferring emotional  
-   Link: [https://royalsocietypublishing.org/rsos/article/4/11/170952/93447/The-Minor-fall-the-Major-lift-inferring-emotional](https://royalsocietypublishing.org/rsos/article/4/11/170952/93447/The-Minor-fall-the-Major-lift-inferring-emotional)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/4/11/170952/93447/The-Minor-fall-the-Major-lift-inferring-emotional" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/4/11/170952/93447/The-Minor-fall-the-Major-lift-inferring-emotional</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society Publishinginferring emotional valence of musical chords through lyricsby A Kolchinsky · 2017 · Cited by 46 — We find that M...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: what makes a song sound happy it depends on your [culture](&#123;&#123; 'culture/' | relative_url &#125;&#125;) study finds  
-   Link: [https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds](https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds)  
+   Link: <a href="https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/2022/jun/30/what-makes-a-song-sound-happy-it-depends-on-your-culture-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What makes a song sound happy? It depends on your...Jun 29, 2022 — The perception of music in major keys as happy and minor keys as sad...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychologytoday.com  
    Title: music to our ears  
-   Link: [https://www.psychologytoday.com/us/blog/time-travelling-with-apollo/202111/music-to-our-ears](https://www.psychologytoday.com/us/blog/time-travelling-with-apollo/202111/music-to-our-ears)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/time-travelling-with-apollo/202111/music-to-our-ears" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/time-travelling-with-apollo/202111/music-to-our-ears</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 8, 2021 — The study strongly suggests that emotional reactions to major and minor chords are culturally dependent.Read more...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387957319_Moderating_effects_of_chord_progressions_on_the_emotional_experience_of_major_and_minor_chords](https://www.researchgate.net/publication/387957319_Moderating_effects_of_chord_progressions_on_the_emotional_experience_of_major_and_minor_chords)  
+   Link: <a href="https://www.researchgate.net/publication/387957319_Moderating_effects_of_chord_progressions_on_the_emotional_experience_of_major_and_minor_chords" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387957319_Moderating_effects_of_chord_progressions_on_the_emotional_experience_of_major_and_minor_chords</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...1 Jan 2025 — Moderating effects of chord progressions on the emotional exper...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/major](https://www.merriam-webster.com/dictionary/major)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/major" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/major</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR Definition &amp; Meaning6 days ago — The meaning of MAJOR is greater in dignity, rank, importance, or interest. How to use major in a s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/876194196241093/posts/2131858970674603/](https://www.facebook.com/groups/876194196241093/posts/2131858970674603/)  
+   Link: <a href="https://www.facebook.com/groups/876194196241093/posts/2131858970674603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/876194196241093/posts/2131858970674603/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Major keys can sound sad or wistfulIt bothers me when people say “major keys sound happy” without any caveats. A major key center can eas...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263355617_Musical_chords_and_emotion_Major_and_minor_triads_are_processed_for_emotion](https://www.researchgate.net/publication/263355617_Musical_chords_and_emotion_Major_and_minor_triads_are_processed_for_emotion)  
+   Link: <a href="https://www.researchgate.net/publication/263355617_Musical_chords_and_emotion_Major_and_minor_triads_are_processed_for_emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263355617_Musical_chords_and_emotion_Major_and_minor_triads_are_processed_for_emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical chords and emotion: Major and minor triads are...The early stages of processing that are involved suggest that major and minor c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: westernsydney.edu.au  
-   Link: [https://www.westernsydney.edu.au/news-centre/stories/2022/perceptions-of-happy-and-sad-music-may-not-be-universal-across-cultures-new-research-finds](https://www.westernsydney.edu.au/news-centre/stories/2022/perceptions-of-happy-and-sad-music-may-not-be-universal-across-cultures-new-research-finds)  
+   Link: <a href="https://www.westernsydney.edu.au/news-centre/stories/2022/perceptions-of-happy-and-sad-music-may-not-be-universal-across-cultures-new-research-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.westernsydney.edu.au/news-centre/stories/2022/perceptions-of-happy-and-sad-music-may-not-be-universal-across-cultures-new-research-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Western Sydney UniversityPerceptions of happy and sad music may not be universal...Jun 30, 2022 — They then compared the emotiona...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: artemyk.github.io  
-   Link: [https://artemyk.github.io/assets/pdf/papers/Kolchinsky%20et%20al_2017_The%20Minor%20fall%2C%20the%20Major%20lift.pdf](https://artemyk.github.io/assets/pdf/papers/Kolchinsky%20et%20al_2017_The%20Minor%20fall%2C%20the%20Major%20lift.pdf)  
+   Link: <a href="https://artemyk.github.io/assets/pdf/papers/Kolchinsky%20et%20al_2017_The%20Minor%20fall%2C%20the%20Major%20lift.pdf" target="_blank" rel="noopener noreferrer nofollow">https://artemyk.github.io/assets/pdf/papers/Kolchinsky%20et%20al_2017_The%20Minor%20fall%2C%20the%20Major%20lift.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>higher valence lyrics than Minor chords, consistent with the previous music perception studies that showed that...Read mo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: interlude.hk  
    Title: the emotional architecture of chords major minor and the power of dynamics  
-   Link: [https://interlude.hk/the-emotional-architecture-of-chords-major-minor-and-the-power-of-dynamics/](https://interlude.hk/the-emotional-architecture-of-chords-major-minor-and-the-power-of-dynamics/)  
+   Link: <a href="https://interlude.hk/the-emotional-architecture-of-chords-major-minor-and-the-power-of-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://interlude.hk/the-emotional-architecture-of-chords-major-minor-and-the-power-of-dynamics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Chords &amp; Dynamics Shape Emotion in Classical MusicJan 11, 2026 — Discover how major and minor chords create emotion in music. Learn w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Rx52vrd5Dh8](https://www.youtube.com/watch?v=Rx52vrd5Dh8)  
+   Link: <a href="https://www.youtube.com/watch?v=Rx52vrd5Dh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rx52vrd5Dh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Emotions in Chords Real? The Myth Behind Music TheoryDiscover the truth behind the conventional belief that chords inherently convey...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: insounder.org  
    Title: music not rocket science 3 myth happy major and sad minor  
-   Link: [https://insounder.org/music-not-rocket-science-3-myth-happy-major-and-sad-minor](https://insounder.org/music-not-rocket-science-3-myth-happy-major-and-sad-minor)  
+   Link: <a href="https://insounder.org/music-not-rocket-science-3-myth-happy-major-and-sad-minor" target="_blank" rel="noopener noreferrer nofollow">https://insounder.org/music-not-rocket-science-3-myth-happy-major-and-sad-minor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Myth of Happy Major and Sad MinorMar 21, 2024 — Let&#x27;s look at two examples of pieces that completely disprove the myth of happy major...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: musicscience.net  
    Title: how automatic are emotional responses to musical chords  
-   Link: [https://musicscience.net/2023/11/21/how-automatic-are-emotional-responses-to-musical-chords/](https://musicscience.net/2023/11/21/how-automatic-are-emotional-responses-to-musical-chords/)  
+   Link: <a href="https://musicscience.net/2023/11/21/how-automatic-are-emotional-responses-to-musical-chords/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/2023/11/21/how-automatic-are-emotional-responses-to-musical-chords/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Nov 21, 2023 — In other words, a dissonant chord used in both major and minor keys is arguably a more familiar marker of negative valenc...</p></details>

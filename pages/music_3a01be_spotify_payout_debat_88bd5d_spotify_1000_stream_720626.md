@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359
 - music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df
 tags:
-- music
+- music-3-a01-be
 - spotify-payouts
 - 1-000-streams
 keywords:
-- music
+- music-3-a01-be
 - spotify-payouts
 - 1-000-streams
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Spotify's 1,000-stream rule removes very low-stream tracks from recorded royalty calculations and sharpens the fairness debate.
 hero_summary: Spotify's 1,000-stream rule removes very low-stream tracks from recorded royalty calculations and sharpens the fairness debate.
 layout: default
 permalink: /1-000-streams-a35779/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /spotify-payouts/
 nav_short_title: 1 000 Streams
 title: Who loses under Spotify's 1,000 stream rule?
-title_full: Who loses under Spotify's 1,000 stream rule? | Spotify Payouts
+title_full: Who loses under Spotify's 1,000 stream rule?
 display_title_short: 1 000 Streams
 display_title: 1 000 Streams
 heading_title: Who loses under Spotify's 1,000 stream rule?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Streaming Payout Claims Really Mean | Music
+parent_title: What Streaming Payout Claims Really Mean
 parent_permalink: /spotify-payouts/
 parent_nav_short_title: Spotify Payouts
 parent_heading_title: What Streaming Payout Claims Really Mean
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one stream creates two royalty trails
 up_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -259,7 +259,7 @@ next_link:
   permalink: /artist-share/
   short_title: Artist Share
   heading_title: Why Spotify money reaches artists unevenly
-date: '2026-06-09 07:07:11 '
+date: '2026-06-11 23:35:04 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stre
 
 ## Introduction
 
-Spotify’s 1,000-stream threshold is one of the most controversial changes to streaming [royalties]({{ 'royalties/' | relative_url }}) in recent years because it directly affects which tracks qualify for payment. Since April 2024, a [recording]({{ 'recording/' | relative_url }}) must reach at least 1,000 streams in the previous 12 months before it is included in Spotify’s recorded-music royalty calculations. Tracks below that level still remain available on the platform, but they no longer generate recorded royalties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">track monetization eligibility</span><span class="citation-popover-snippet">SpotifyTrack monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
-
+Spotify’s 1,000-stream threshold is one of the most controversial changes to streaming [royalties]({{ 'royalties/' | relative_url }}) in recent years because it directly affects which tracks qualify for payment. Since April 2024, a [recording]({{ 'recording/' | relative_url }}) must reach at least 1,000 streams in the previous 12 months before it is included in Spotify’s recorded-music royalty calculations. Tracks below that level still remain available on the platform, but they no longer generate recorded royalties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">track monetization eligibility</span><span class="citation-popover-snippet">Track monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1-dark.svg" | relative_url }}" alt="1 000 Streams illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The policy matters because it changes how money is distributed at the bottom end of the streaming economy. Spotify argues that tiny royalty payments were often too small to reach artists after distributor fees and accounting costs, and that reallocating those funds strengthens payments for tracks that have achieved meaningful audience traction. Critics respond that the rule removes income from emerging, niche and experimental artists, even if the sums involved are modest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
@@ -284,7 +283,6 @@ Industry reporting before the launch estimated that roughly US$40 million annual
 
 A key point is that the threshold applies at the track level, not the artist level. An artist with one successful song and several little-heard tracks may still earn royalties from the successful recording while receiving nothing from the others. Conversely, a small independent artist whose entire [catalogue]({{ 'catalogue/' | relative_url }}) remains below 1,000 annual streams may see all recorded royalty earnings disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N-a_uUKEpfA" title="Spotify&#x27;s Royalty Change Is Even More BRUTAL Than We Thought..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N-a_uUKEpfA" target="_blank" rel="noopener noreferrer">Spotify&#x27;s Royalty Change Is Even More BRUTAL Than We Thought...</a></p><p class="youtube-embed-meta">Channel: Andrew Southworth &middot; Views: 22.2K &middot; Uploaded: November 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N-a_uUKEpfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N-a_uUKEpfA">Open on YouTube</a></p></div></div></div>
 
 ## Who loses under the rule?
@@ -295,24 +293,22 @@ The impact is especially visible in three groups:
 
 * **New artists** who have not yet built an audience.
 * **Niche genres** with small but dedicated listener bases.
-* **Large catalogues of older recordings** that attract occasional plays but not enough volume to cross the threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">spotify has officially demonetised all songs with less than 1000 streams</span><span class="citation-popover-snippet">euronewsSpotify demonetises all songs with less than 1000 streams8 Apr 2024 — Spotify has officially demonetised all songs with less than...</span></span></span>
+* **Large catalogues of older recordings** that attract occasional plays but not enough volume to cross the threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">spotify has officially demonetised all songs with less than 1000 streams</span><span class="citation-popover-snippet">Spotify demonetises all songs with less than 1000 streams8 Apr 2024 — Spotify has officially demonetised all songs with less than...</span></span></span>
 
-One reason the debate remains heated is the scale of affected tracks. Reports on the rollout noted that a majority of tracks on Spotify fall below the threshold, even though those recordings account for only a small percentage of total streams and royalty value. In other words, the policy affects many recordings but relatively little money on a per-track basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">spotify has officially demonetised all songs with less than 1000 streams</span><span class="citation-popover-snippet">euronewsSpotify demonetises all songs with less than 1000 streams8 Apr 2024 — Spotify has officially demonetised all songs with less than...</span></span></span>
+One reason the debate remains heated is the scale of affected tracks. Reports on the rollout noted that a majority of tracks on Spotify fall below the threshold, even though those recordings account for only a small percentage of total streams and royalty value. In other words, the policy affects many recordings but relatively little money on a per-track basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">spotify has officially demonetised all songs with less than 1000 streams</span><span class="citation-popover-snippet">Spotify demonetises all songs with less than 1000 streams8 Apr 2024 — Spotify has officially demonetised all songs with less than...</span></span></span>
 
 That distinction explains why Spotify can argue that the economic impact is limited while critics can simultaneously point to millions of tracks that have effectively been demonetised.
-
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-2-dark.svg" | relative_url }}" alt="1 000 Streams illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spotify's case for reducing manipulation
 
 Spotify did not present the threshold as a standalone cost-saving measure. It was introduced alongside broader royalty reforms aimed at artificial streaming and other forms of manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Changes to Spotify&#x27;s royalty model, including the 1000...Apr 2, 2024 — In October, MBW broke the news that major changes were coming to...</span></span></span>
 
-The company argues that extremely small royalty payments create inefficiencies throughout the [music]({{ 'music/' | relative_url }}) supply chain. A track generating only a few cents may still require accounting, reporting and payment processing by distributors and [rights]({{ 'rights/' | relative_url }}) organisations. Spotify has argued that these administrative costs can exceed the value of the royalty itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The company argues that extremely small royalty payments create inefficiencies throughout the music supply chain. A track generating only a few cents may still require accounting, reporting and payment processing by distributors and [rights]({{ 'rights/' | relative_url }}) organisations. Spotify has argued that these administrative costs can exceed the value of the royalty itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 The anti-fraud argument is equally important. Streaming services face persistent problems with bot-generated plays, mass-uploaded content and attempts to exploit the pro-rata royalty system. Spotify introduced additional measures against artificial streaming at the same time as the threshold, including stronger enforcement and penalties linked to suspicious activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Changes to Spotify&#x27;s royalty model, including the 1000...Apr 2, 2024 — In October, MBW broke the news that major changes were coming to...</span></span></span>
 
 From Spotify’s perspective, concentrating royalties among tracks that demonstrate at least a minimum level of genuine audience engagement makes the system less vulnerable to abuse and ensures that more money reaches tracks with real listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U5qC6u2MYtw" title="Understanding Artificial Streaming | Spotify for Artists Masterclass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U5qC6u2MYtw" target="_blank" rel="noopener noreferrer">Understanding Artificial Streaming | Spotify for Artists Masterclass</a></p><p class="youtube-embed-meta">Channel: Spotify for Artists &middot; Views: 290.8K &middot; Uploaded: June 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U5qC6u2MYtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U5qC6u2MYtw">Open on YouTube</a></p></div></div></div>
 
@@ -320,27 +316,24 @@ From Spotify’s perspective, concentrating royalties among tracks that demonstr
 
 Many independent artists do not object because they expect to earn significant money from 500 or 800 annual streams. The criticism is often about principle rather than immediate income.
 
-Under the threshold system, a stream below the cutoff has no recorded-royalty value, while the 1,000th stream suddenly makes the track eligible for participation. Critics argue that this creates a hard boundary in a system that previously treated every listen as economically meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routenote.com">[RouteNote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routenote.com</span><span class="citation-popover-title">why spotify says its 1000 stream rule is fairer than it looks</span><span class="citation-popover-snippet">RouteNoteWhy Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</span></span></span>
+Under the threshold system, a stream below the cutoff has no recorded-royalty value, while the 1,000th stream suddenly makes the track eligible for participation. Critics argue that this creates a hard boundary in a system that previously treated every listen as economically meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routenote.com">[RouteNote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routenote.com</span><span class="citation-popover-title">why spotify says its 1000 stream rule is fairer than it looks</span><span class="citation-popover-snippet">Why Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</span></span></span>
 
-Artist advocates also point out that early-stage careers are built from many small signals rather than a few large successes. A new musician may spend years accumulating modest audiences across dozens of songs. If those recordings never reach the threshold, the artist receives no recorded royalties despite generating genuine engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routenote.com">[RouteNote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routenote.com</span><span class="citation-popover-title">why spotify says its 1000 stream rule is fairer than it looks</span><span class="citation-popover-snippet">RouteNoteWhy Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</span></span></span>
+Artist advocates also point out that early-stage careers are built from many small signals rather than a few large successes. A new musician may spend years accumulating modest audiences across dozens of songs. If those recordings never reach the threshold, the artist receives no recorded royalties despite generating genuine engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routenote.com">[RouteNote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routenote.com</span><span class="citation-popover-title">why spotify says its 1000 stream rule is fairer than it looks</span><span class="citation-popover-snippet">Why Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</span></span></span>
 
-Some independent-sector analyses have estimated that tens of millions of dollars that would previously have flowed to low-stream recordings were redistributed elsewhere in 2024. Supporters of the policy view that redistribution as economically rational. Opponents view it as a transfer away from emerging creators toward already-established catalogues that were more likely to exceed the threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypebot.com">[Hypebot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypebot.com</span><span class="citation-popover-title">did the spotify 1000 stream rule cost indie artists 47 million spotify responds</span><span class="citation-popover-snippet">HypebotSpotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025 — That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</span></span></span>
+Some independent-sector analyses have estimated that tens of millions of dollars that would previously have flowed to low-stream recordings were redistributed elsewhere in 2024. Supporters of the policy view that redistribution as economically rational. Opponents view it as a transfer away from emerging creators toward already-established catalogues that were more likely to exceed the threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypebot.com">[Hypebot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypebot.com</span><span class="citation-popover-title">did the spotify 1000 stream rule cost indie artists 47 million spotify responds</span><span class="citation-popover-snippet">Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025 — That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</span></span></span>
 
 The disagreement reflects a deeper governance question within streaming: should royalty systems reward every instance of listener demand, however small, or should they prioritise tracks that have already demonstrated a minimum scale of audience support?
-
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-3-dark.svg" | relative_url }}" alt="1 000 Streams illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the debate extends beyond a few dollars
 
 Supporters of the threshold frequently note that 1,000 streams often represent only a few dollars in gross recording royalties. They argue that such sums rarely reach artists directly after distributor thresholds, contractual splits and administrative costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metalinjection.net">[Metal Injection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metalinjection.net</span><span class="citation-popover-title">songs need at least 1000 plays yearly on spotify to get royalties in 2024</span><span class="citation-popover-snippet">$3.00 is well below the threshold at which almost every distributor allows artists...Read more...</span></span></span>
 
-Critics counter that the issue is not merely the size of the payment. The threshold establishes a precedent that some streams count toward royalty distribution while others do not. For artists already concerned about concentration of [attention]({{ 'attention/' | relative_url }}) and revenue on major hits, the policy symbolises a shift toward rewarding scale over participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routenote.com">[RouteNote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routenote.com</span><span class="citation-popover-title">why spotify says its 1000 stream rule is fairer than it looks</span><span class="citation-popover-snippet">RouteNoteWhy Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</span></span></span>
+Critics counter that the issue is not merely the size of the payment. The threshold establishes a precedent that some streams count toward royalty distribution while others do not. For artists already concerned about concentration of [attention]({{ 'attention/' | relative_url }}) and revenue on major hits, the policy symbolises a shift toward rewarding scale over participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routenote.com">[RouteNote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routenote.com</span><span class="citation-popover-title">why spotify says its 1000 stream rule is fairer than it looks</span><span class="citation-popover-snippet">Why Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</span></span></span>
 
 As a result, the 1,000-stream rule has become a focal point in the wider streaming debate. It is not simply a technical accounting adjustment. It raises fundamental questions about who streaming platforms are designed to serve: the largest share of working musicians who generate most listening activity, or the long tail of creators whose audiences are small but real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_GZfolW4g7s" title="Spotify No Longer Paying Artists For Streams In 2024?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_GZfolW4g7s" target="_blank" rel="noopener noreferrer">Spotify No Longer Paying Artists For Streams In 2024?</a></p><p class="youtube-embed-meta">Channel: Curtiss King TV &middot; Views: 90.0K &middot; Uploaded: October 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_GZfolW4g7s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_GZfolW4g7s">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -739,271 +732,271 @@ As a result, the 1,000-stream rule has become a focal point in the wider streami
 1. <a id="endnote-1"></a>
    Source: support.spotify.com  
    Title: track monetization eligibility  
-   Link: [https://support.spotify.com/us/artists/article/track-monetization-eligibility/](https://support.spotify.com/us/artists/article/track-monetization-eligibility/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyTrack monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/track-monetization-eligibility/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Track monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</p></details>
    Published: April 2024  
 
 2. <a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: royalties guide  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</p></details>
    Published: April 2024  
 
 3. <a id="endnote-3"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/en/blog/modernizing-our-royalty-system](https://artists.spotify.com/en/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/en/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/modernizing-our-royalty-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsModernizing Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have rea...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: euronews.com  
    Title: spotify has officially demonetised all songs with less than 1000 streams  
-   Link: [https://www.euronews.com/[culture](https://www.euronews.com/[culture)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>euronewsSpotify demonetises all songs with less than 1000 streams8 Apr 2024 — Spotify has officially demonetised all songs with less than...</p></details>
+   Link: <a href="https://www.euronews.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/[culture</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify demonetises all songs with less than 1000 streams8 Apr 2024 — Spotify has officially demonetised all songs with less than...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: routenote.com  
    Title: why spotify says its 1000 stream rule is fairer than it looks  
-   Link: [https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/](https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RouteNoteWhy Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</p></details>
+   Link: <a href="https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/" target="_blank" rel="noopener noreferrer nofollow">https://routenote.com/blog/why-spotify-says-its-1000-stream-rule-is-fairer-than-it-looks/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Spotify says its 1000-stream rule is fairer than it looks19 Dec 2025 — Critics argue that every stream should count, particu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/artificial-streaming](https://artists.spotify.com/en/artificial-streaming)  
+   Link: <a href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/artificial-streaming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingThose streams do not earn royalties. · Those streams do not count toward public stream numbers or...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: hypebot.com  
    Title: did the spotify 1000 stream rule cost indie artists 47 million spotify responds  
-   Link: [https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/](https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HypebotSpotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025 — That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</p></details>
+   Link: <a href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025 — That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: routenote.com  
    Title: spotifys 1000 stream threshold cost indie artists 50 million in 2024  
-   Link: [https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/](https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/)  
+   Link: <a href="https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How has Spotify&#x27;s 1000-stream threshold affected indie artists?April 24, 2025 — A new report reveals how Spotify&#x27;s royalty policy has imp...</p></details>
    Published: April 24, 2025  
 
 9. <a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraud Alliance. Why. Spotify is able to fight artificial streaming... 99.5% of all streams are of tracks that have at least 1,000 annual...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: artists.spotify.com  
    Title: artificial streaming  
-   Link: [https://artists.spotify.com/artificial-streaming](https://artists.spotify.com/artificial-streaming)  
+   Link: <a href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/artificial-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StreamingThey&#x27;re scams and should be avoided. They may claim to be able to get a song streamed, playlisted, or prioritized in Spotify&#x27;s a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: artist.tools  
    Title: spotify royalties calculator  
-   Link: [https://www.artist.tools/spotify-royalties-calculator](https://www.artist.tools/spotify-royalties-calculator)  
+   Link: <a href="https://www.artist.tools/spotify-royalties-calculator" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/spotify-royalties-calculator</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026: Streams to MoneySpotify, on average, pays artists $2.38 per thousand streams. With our Spotify Royalty Calculator, you can estimate...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Spotify’s New Royalty Model Explained: The 1,000 Stream Threshold  
-   Link: [https://www.youtube.com/watch?v=F3a37yW5Yq4](https://www.youtube.com/watch?v=F3a37yW5Yq4)  
+   Link: <a href="https://www.youtube.com/watch?v=F3a37yW5Yq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3a37yW5Yq4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the New Spotify Royalty Changes Actually Affect Indie Artists...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/](https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Changes to Spotify&#x27;s royalty model, including the 1000...Apr 2, 2024 — In October, MBW broke the news that major changes were coming to...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise](https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise)  
+   Link: <a href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musicbusinessworldwide.com  
    Title: confirmed next year tracks on spotify 1000 plays  
-   Link: [https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/](https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...Nov 5, 2023 — In 2024, Spotify expects this will move...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicbusinessworldwide.com  
    Title: spotify is changing its royalty model to crush streaming fraud  
-   Link: [https://www.musicbusinessworldwide.com/spotify-is-changing-its-royalty-model-to-crush-streaming-fraud/](https://www.musicbusinessworldwide.com/spotify-is-changing-its-royalty-model-to-crush-streaming-fraud/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/spotify-is-changing-its-royalty-model-to-crush-streaming-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-is-changing-its-royalty-model-to-crush-streaming-fraud/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fraudulent activity is detected on tracks that they&#x27;ve uploaded to Spotify; and...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metalinjection.net  
    Title: songs need at least 1000 plays yearly on spotify to get royalties in 2024  
-   Link: [https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024](https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024)  
+   Link: <a href="https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>$3.00 is well below the threshold at which almost every distributor allows artists...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/as-spotify-lowers-monetization-threshold-for-podcasters-should-it-increase-payout-barrier-for-music-artists/](https://www.musicbusinessworldwide.com/as-spotify-lowers-monetization-threshold-for-podcasters-should-it-increase-payout-barrier-for-music-artists/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/as-spotify-lowers-monetization-threshold-for-podcasters-should-it-increase-payout-barrier-for-music-artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-spotify-lowers-monetization-threshold-for-podcasters-should-it-increase-payout-barrier-for-music-artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As Spotify lowers monetization threshold for podcasters...Jan 8, 2026 — A provocative new essay argues that the streaming giant should i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musicbusinessworldwide.com  
    Title: spotify confirms details of how its royalty model will change in q1 20241  
-   Link: [https://www.musicbusinessworldwide.com/spotify-confirms-details-of-how-its-royalty-model-will-change-in-q1-20241/](https://www.musicbusinessworldwide.com/spotify-confirms-details-of-how-its-royalty-model-will-change-in-q1-20241/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/spotify-confirms-details-of-how-its-royalty-model-will-change-in-q1-20241/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-confirms-details-of-how-its-royalty-model-will-change-in-q1-20241/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify confirms details of how its royalty model will change...Nov 21, 2023 — Starting early next year, “tracks must have reached at le...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: spotify confirms that starting in 2024 tracks  
-   Link: [https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/](https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/)  
+   Link: <a href="https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify confirms that starting in 2024, tracks will have to be...In 2024, Spotify expects this will move $40 million that would have pre...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: spotify announces plans to stop paying artists  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/](https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds like small artists will get the same payout overall, it just might take extra time. Like...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
    Title: spotify is changing its royalty model to crush  
-   Link: [https://www.reddit.com/r/popheads/comments/17fvaix/spotify_is_changing_its_royalty_model_to_crush/](https://www.reddit.com/r/popheads/comments/17fvaix/spotify_is_changing_its_royalty_model_to_crush/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/17fvaix/spotify_is_changing_its_royalty_model_to_crush/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/17fvaix/spotify_is_changing_its_royalty_model_to_crush/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>official website literally says a song must have had 1000 streams in the last year to be eligible so it&#x27;s not quite as...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: support.fuga.com  
-   Link: [https://support.fuga.com/hc/en-us/articles/36690008503700-Understanding-Spotify-s-Artificial-Streaming-Penalty-and-FUGA-s-Enforcement-Policy](https://support.fuga.com/hc/en-us/articles/36690008503700-Understanding-Spotify-s-Artificial-Streaming-Penalty-and-FUGA-s-Enforcement-Policy)  
+   Link: <a href="https://support.fuga.com/hc/en-us/articles/36690008503700-Understanding-Spotify-s-Artificial-Streaming-Penalty-and-FUGA-s-Enforcement-Policy" target="_blank" rel="noopener noreferrer nofollow">https://support.fuga.com/hc/en-us/articles/36690008503700-Understanding-Spotify-s-Artificial-Streaming-Penalty-and-FUGA-s-Enforcement-Policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Artificial Streaming Penalty and...30 Jul 2025 — When such activity is detected at scale, Spotify imposes a flat penalty of €1...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cyberprmusic.com  
-   Link: [https://cyberprmusic.com/spotify-royalty/](https://cyberprmusic.com/spotify-royalty/)  
+   Link: <a href="https://cyberprmusic.com/spotify-royalty/" target="_blank" rel="noopener noreferrer nofollow">https://cyberprmusic.com/spotify-royalty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s 1000-Stream Rule Explained: Why Building Real...Spotify now requires each track to achieve at least 1,000 streams within a 12...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/indievisionmusic/posts/1366705367387533/](https://www.facebook.com/groups/indievisionmusic/posts/1366705367387533/)  
+   Link: <a href="https://www.facebook.com/groups/indievisionmusic/posts/1366705367387533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/indievisionmusic/posts/1366705367387533/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s royalty model changes for streaming fraudSpotify doesn&#x27;t pay a fixed “per-stream” rate. Each month it pools subscription + ad r...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: musicinafrica.net  
    Title: spotifys 1000 stream threshold criticised southeast european indie labels  
-   Link: [https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels](https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels)  
+   Link: <a href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s 1000-stream threshold criticised by Southeast...Dec 27, 2025 — The Spotify policy, which requires a track to reach 1000 annual...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QS7WZm38Sjc](https://www.youtube.com/watch?v=QS7WZm38Sjc)  
+   Link: <a href="https://www.youtube.com/watch?v=QS7WZm38Sjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QS7WZm38Sjc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Will STOP Paying Royalties on 67% of Tracks in 2024Spotify will stop paying royalties on tracks that get less than 1,000 streams...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=N-a_uUKEpfA](https://www.youtube.com/watch?v=N-a_uUKEpfA)  
+   Link: <a href="https://www.youtube.com/watch?v=N-a_uUKEpfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N-a_uUKEpfA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Royalty Change Is Even More BRUTAL Than We...We have more information on Spotify&#x27;s new royalty model coming in 2024! Spotify...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac](https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac)  
+   Link: <a href="https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>abel stars. 87% of tracks now deemed worthless...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: royalti.io  
    Title: spotify new royalty model streaming fraud  
-   Link: [https://royalti.io/blog/spotify-new-royalty-model-streaming-fraud](https://royalti.io/blog/spotify-new-royalty-model-streaming-fraud)  
+   Link: <a href="https://royalti.io/blog/spotify-new-royalty-model-streaming-fraud" target="_blank" rel="noopener noreferrer nofollow">https://royalti.io/blog/spotify-new-royalty-model-streaming-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Spotify&#x27;s 2024 Royalty Model Will Reshape Music...27 Aug 2024 — Discover how Spotify&#x27;s new royalty model combats streaming fraud and...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nme.com  
-   Link: [https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010](https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010)  
+   Link: <a href="https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has now officially demonetised all songs with less...5 Apr 2024 — Spotify have now officially demonetised all songs on the platf...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: sonosuite.com  
-   Link: [https://sonosuite.com/blog/spotify-introduces-game-changing-royalty-system-to-fight-artificial-streaming-fraud](https://sonosuite.com/blog/spotify-introduces-game-changing-royalty-system-to-fight-artificial-streaming-fraud)  
+   Link: <a href="https://sonosuite.com/blog/spotify-introduces-game-changing-royalty-system-to-fight-artificial-streaming-fraud" target="_blank" rel="noopener noreferrer nofollow">https://sonosuite.com/blog/spotify-introduces-game-changing-royalty-system-to-fight-artificial-streaming-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Reduce payments lost in the system. · Crackdown on noise...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: basschat.co.uk  
    Title: Spotify rule change  
-   Link: [https://www.basschat.co.uk/topic/498929-spotify-rule-change/](https://www.basschat.co.uk/topic/498929-spotify-rule-change/)  
+   Link: <a href="https://www.basschat.co.uk/topic/498929-spotify-rule-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.basschat.co.uk/topic/498929-spotify-rule-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General Discussion15 Aug 2024 — Songs now have to have a least a 1000 Spotify streams in the last 12 months to qualify for any payment, s...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: imusician.pro  
    Title: spotify royalty model changes in effect since april 2024  
-   Link: [https://imusician.pro/en/resources/blog/spotify-royalty-model-changes-in-effect-since-april-2024](https://imusician.pro/en/resources/blog/spotify-royalty-model-changes-in-effect-since-april-2024)  
+   Link: <a href="https://imusician.pro/en/resources/blog/spotify-royalty-model-changes-in-effect-since-april-2024" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-royalty-model-changes-in-effect-since-april-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Changes its Royalty Payout SystemApr 16, 2024 — Lastly, Spotify will continue tackling artificial streaming and detecting fraudul...</p></details>
    Published: april 2024  
 
 36. <a id="endnote-36"></a>
    Source: artistrightswatch.com  
-   Link: [https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/](https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/)  
+   Link: <a href="https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/" target="_blank" rel="noopener noreferrer nofollow">https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Can&#x27;t Force Artists to Use Distributors29 Dec 2025 — Spotify doesn&#x27;t get to demand artists use a distributor that batches payment...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: ludwig-van.com  
-   Link: [https://www.ludwig-van.com/main/2023/11/13/spotifys-new-royalty-policy-game-changer-artists/](https://www.ludwig-van.com/main/2023/11/13/spotifys-new-royalty-policy-game-changer-artists/)  
+   Link: <a href="https://www.ludwig-van.com/main/2023/11/13/spotifys-new-royalty-policy-game-changer-artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.ludwig-van.com/main/2023/11/13/spotifys-new-royalty-policy-game-changer-artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s New Royalty Policy is a Game-Changer for ArtistsNov 13, 2023 — Starting in 2024, tracks with fewer than 1,000 streams will no l...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: allotlines.tawk.help  
    Title: spotify royalty payout changes  
-   Link: [https://allotlines.tawk.help/article/spotify-royalty-payout-changes](https://allotlines.tawk.help/article/spotify-royalty-payout-changes)  
+   Link: <a href="https://allotlines.tawk.help/article/spotify-royalty-payout-changes" target="_blank" rel="noopener noreferrer nofollow">https://allotlines.tawk.help/article/spotify-royalty-payout-changes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty Payout ChangesStarting in early 2024, tracks on Spotify must reach at least 1,000 streams in the previous 12 months in order to g...</p></details>
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicmarketing/comments/19fdhp5/potential_impacts_of_the_spotify_royalty_changes/](https://www.reddit.com/r/musicmarketing/comments/19fdhp5/potential_impacts_of_the_spotify_royalty_changes/)  
+   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/19fdhp5/potential_impacts_of_the_spotify_royalty_changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/19fdhp5/potential_impacts_of_the_spotify_royalty_changes/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
    Title: songs on spotify will need 1000 streams to make royalties from 2024the swedish s  
-   Link: [https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/](https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/)  
+   Link: <a href="https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs on Spotify will need 1000 streams to make royalties...7 Nov 2023 — Songs on Spotify will need 1,000 streams to make royalties from...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: djmag.com  
-   Link: [https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024](https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024)  
+   Link: <a href="https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs on Spotify will need 1000 streams to make royalties...7 Nov 2023 — Songs on Spotify will need 1,000 streams to make royalties from...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: create.ac.uk  
    Title: rethinking royalties spotifys new streaming threshold  
-   Link: [https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/](https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/)  
+   Link: <a href="https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking Royalties: Spotify&#x27;s New Streaming Threshold24 Nov 2023 — Of the proposed regulations, our focus today narrows down on one cha...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: theregreview.org  
    Title: stern the inequalities of digital music streaming  
-   Link: [https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/](https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/)  
+   Link: <a href="https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Inequalities of Digital Music Streaming30 May 2024 — Artists on average are paid less than one-tenth of a cent [per stream](&amp;#123;&amp;#123; &#x27;per-stream/&#x27; | relative_url &amp;#125;&amp;#125;) on Spotify...</p></details>
    Published: May 2024  
 
 44. <a id="endnote-44"></a>
    Source: support.unitedmasters.com  
    Title: 30011900581267 Spotify Track Monetization FAQ  
-   Link: [https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ](https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ)  
+   Link: <a href="https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ" target="_blank" rel="noopener noreferrer nofollow">https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Track Monetization FAQ20 Jan 2026 — What are Spotify&#x27;s new requirements? Starting April 2024, tracks must have reached a threshold of at...</p></details>
    Published: April 2024  
 
 45. <a id="endnote-45"></a>
    Source: dittomusic.com  
    Title: how much does spotify pay per stream  
-   Link: [https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream](https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream)  
+   Link: <a href="https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in 20266 Jan 2025 — As of 2024, tracks on Spotify must have reached at least 1,000 streams in the previous 12 months to generate royaltie...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: thetrichordist.com  
-   Link: [https://thetrichordist.com/2025/08/07/spotifys-royalty-threshold-is-conscious-parallelism-reshaping-the-music-business-but-not-in-a-good-way/](https://thetrichordist.com/2025/08/07/spotifys-royalty-threshold-is-conscious-parallelism-reshaping-the-music-business-but-not-in-a-good-way/)  
+   Link: <a href="https://thetrichordist.com/2025/08/07/spotifys-royalty-threshold-is-conscious-parallelism-reshaping-the-music-business-but-not-in-a-good-way/" target="_blank" rel="noopener noreferrer nofollow">https://thetrichordist.com/2025/08/07/spotifys-royalty-threshold-is-conscious-parallelism-reshaping-the-music-business-but-not-in-a-good-way/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The TrichordistSpotify&#x27;s Royalty Threshold Is Conscious Parallelism...7 Aug 2025 — The 1,000-stream threshold is a cautionary tale for s...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: blog.discmakers.com  
    Title: how small artists got robbed  
-   Link: [https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/](https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/)  
+   Link: <a href="https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/" target="_blank" rel="noopener noreferrer nofollow">https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>discmakers.comSpotify&#x27;s $47 Million Deception: How Small Artists Got RobbedApril 21, 2025 — I calculated that because of Spotify&#x27;s policy...</p></details>
    Published: April 21, 2025  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/](https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/)  
+   Link: <a href="https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From 2024, tracks on Spotify will have to be played 1000...Every song by a smaller artist on any label will still get 1000 streams withi...</p></details>

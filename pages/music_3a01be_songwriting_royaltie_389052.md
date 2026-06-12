@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - publishing
 keywords:
-- music
+- music-3-a01-be
 - publishing
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Songs keep earning through performance, broadcast, sync, publishing and public use long after a recording is released.
 hero_summary: Songs keep earning through performance, broadcast, sync, publishing and public use long after a recording is released.
 layout: default
 permalink: /publishing/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Publishing
 title: How Songs Earn Beyond The Recording
-title_full: How Songs Earn Beyond The Recording | Music
+title_full: How Songs Earn Beyond The Recording
 display_title_short: Publishing
 display_title: Publishing
 heading_title: How Songs Earn Beyond The Recording
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 next_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
-date: '2026-06-09 06:26:30 '
+date: '2026-06-11 23:14:34 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052-overview-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052-overview.webp
@@ -503,28 +503,21 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052-overview-social.j
 
 A song can keep earning money long after its first [recording]({{ 'recording/' | relative_url }}) has faded from the charts because the composition is a separate right from the master recording. The composition is the underlying melody, lyrics and musical work; the recording is one captured performance of it. That distinction is why a songwriter can be paid when a song is broadcast on radio, performed at a gig, streamed, used in a television drama, played in a café, licensed for an advert, or revived decades later by a film, game or social trend. In practice, these earnings flow through music publishers, performing rights organisations, mechanical licensing systems and direct sync deals, each paying for a different kind of use. PRS for Music, for example, says it collects and pays [royalties]({{ 'royalties/' | relative_url }}) when members’ music is played in public, broadcast, downloaded, streamed or performed live in the UK and internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-overview.webp" | relative_url }}" alt="Overview image for Publishing" loading="eager" decoding="sync" fetchpriority="high">
 ## Composition income is not the same as recording income
 
 The first key to songwriting royalties is separating “the song” from “the track”. A recording of a song may be owned or controlled by a label, artist, producer or master-rights company. The composition behind it is owned or controlled by songwriters, composers, lyricists and publishers. PRS for Music’s sync [licensing]({{ 'licensing/' | relative_url }}) guidance states the distinction plainly: composition and publishing rights cover the words and melody, while [master rights]({{ 'master-rights/' | relative_url }}) cover the particular recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span>
 
-That separation means the same piece of [music]({{ 'music/' | relative_url }}) can generate two parallel income streams from one use. If a television programme uses the original recording of a famous song, the producer normally needs permission for both the master and the composition. If a supermarket plays that recording over its sound system, money may be due to both recording-side rightsholders and composition-side rightsholders through different licensing channels. If a cover band performs the song live, the master recording is not being used, but the composition still is.
+That separation means the same piece of music can generate two parallel income streams from one use. If a television programme uses the original recording of a famous song, the producer normally needs permission for both the master and the composition. If a supermarket plays that recording over its sound system, money may be due to both recording-side rightsholders and composition-side rightsholders through different licensing channels. If a cover band performs the song live, the master recording is not being used, but the composition still is.
 
 For songwriters, the composition side usually includes several broad kinds of income:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * **Performance royalties**, triggered when a song is performed, broadcast, streamed, or played in public.
-* **Mechanical royalties**, historically linked to reproductions such as records, CDs and downloads, and now also relevant to interactive streaming in some territories.
+* **[Mechanical royalties]({{ 'mechanical-royalties/' | relative_url }})**, historically linked to reproductions such as records, CDs and downloads, and now also relevant to interactive streaming in some territories.
 * **Synchronisation income**, paid when a song is matched with visual media such as film, television, advertising, trailers or games.
 * **Print and other publishing income**, smaller for most popular music but still relevant for sheet music, lyric use and educational materials.
 
-</div>
-
 These categories overlap in everyday listening. An on-demand stream may generate recording revenue for the master owner, mechanical royalties for the composition, and performance royalties for the composition. The listener hears one play; the rights system sees several legally distinct uses.
-
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-1-dark.svg" | relative_url }}" alt="Publishing illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Publishing shares decide who receives the song money
@@ -545,7 +538,6 @@ The mechanism matters because many public uses are too small or scattered for in
 
 The system is powerful, but not frictionless. Live performance is a good example. When an artist performs a song at a gig, the songwriter can be owed performance royalties even if the performer is not the original recording artist. But accurate payment may depend on setlists, venue reporting, ticket data and society processing. Reporting failures can leave money unmatched or delayed. The Guardian reported in 2025 that songwriters in the UK could be missing royalties from more than 100,000 gigs since 2022 because performances without identifiable setlists can become unallocated income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wp43OdtAAkM" title="Kate Bush - Running Up That Hill - Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer">Kate Bush - Running Up That Hill - Official Music Video</a></p><p class="youtube-embed-meta">Channel: KateBushMusic &middot; Views: 409.3M &middot; Uploaded: January 2011 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wp43OdtAAkM">Open on YouTube</a></p></div></div></div>
 
 ## Broadcast and streaming keep compositions circulating
@@ -565,7 +557,6 @@ Sync is different from many collective royalties because the initial fee is usua
 A sync placement can also create secondary income. If the programme is broadcast, repeated, exported, streamed on licensed video services, or used in promotional clips, performance royalties may follow through collecting societies. Curve Royalty Systems notes that a sync placement may lead to further performance royalties when an advert or film is performed on television stations or in cinemas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Open source on curveroyaltysystems.com.</span></span></span>
 
 The cultural effect can be even larger than the licence fee. Kate Bush’s “Running Up That Hill” is the modern textbook example. After its use in *Stranger Things*, the 1985 song returned to global attention, becoming one of the most streamed songs in multiple countries and reaching new chart peaks decades after release. WIPO described how the placement pushed the song into top streaming positions across major services and territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not that every sync creates a windfall; it is that the composition right allows an old song to re-enter circulation when a new context makes listeners care again.
-
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-2-dark.svg" | relative_url }}" alt="Publishing illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Public use creates money from places listeners barely notice
@@ -593,7 +584,6 @@ Several qualities make a catalogue especially durable:
 
 This is also why music catalogues became attractive to investors. A catalogue is a bundle of future cashflows, not merely a sentimental archive. Its value depends on how often songs are used, how predictable the royalty history is, how long the rights last, and whether new uses can be found without damaging the songs’ cultural value.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AKzNoCnXoJ0" title="EVERYTHING You NEED to Know About Music Publishing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AKzNoCnXoJ0" target="_blank" rel="noopener noreferrer">EVERYTHING You NEED to Know About Music Publishing</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 22.9K &middot; Uploaded: February 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AKzNoCnXoJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AKzNoCnXoJ0">Open on YouTube</a></p></div></div></div>
 
 ## The hidden bottleneck is data, not just demand
@@ -604,7 +594,6 @@ The UK Intellectual Property Office highlighted the importance of music metadata
 
 This is where publishing administration earns its keep. The administrator’s job is not glamorous, but it is central to royalty survival: register the work, confirm splits, monitor income, claim missing royalties, process foreign collections, resolve conflicts and make sure a song is searchable in the systems that license music at scale.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LZ3ZqrU-00Y" title="How to Claim Your PRS for Music Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LZ3ZqrU-00Y" target="_blank" rel="noopener noreferrer">How to Claim Your PRS for Music Royalties</a></p><p class="youtube-embed-meta">Channel: Sam Horton Music &middot; Views: 2.9K &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LZ3ZqrU-00Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LZ3ZqrU-00Y">Open on YouTube</a></p></div></div></div>
 
 ## The main misunderstanding: royalties are not one pipe
@@ -614,7 +603,6 @@ The phrase “song royalties” can make the system sound like a single payment 
 That complexity is frustrating, but it is also what gives songs their long afterlife. A recording may peak in one commercial cycle. A composition can move through many cycles: first release, cover version, radio nostalgia, advert revival, film placement, playlist rediscovery, live performance, sample clearance and international licensing. The song becomes a portable asset, travelling from one use to another while the original recording is only one possible expression of it.
 
 The practical takeaway is that songwriting income depends on three things at once: ownership, usage and administration. Ownership decides who is entitled to money. Usage creates the royalty event. Administration determines whether the money is found, matched and paid. When all three work, a song can keep earning for decades after its first recording has stopped being the main story.
-
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-3-dark.svg" | relative_url }}" alt="Publishing illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1014,243 +1002,243 @@ The practical takeaway is that songwriting income depends on three things at onc
 
 1. <a id="endnote-1"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/music-creators](https://www.ascap.com/music-creators)  
+   Link: <a href="https://www.ascap.com/music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music CreatorsWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). I...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: blog.songtrust.com  
    Title: songwriting royalties explained writers vs publishers share  
-   Link: [https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share](https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share)  
+   Link: <a href="https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Song Royalty Ownership: Writer&#x27;s Share vs Publisher&#x27;s Share16 May 2019 — A writer share is a portion of performance royalties that are pa...</p></details>
    Published: May 2019  
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Licensing bodies and collective management organisations  
-   Link: [https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations](https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations)  
+   Link: <a href="https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations</a>  
 
 4. <a id="endnote-4"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/music-modernization/faq.html](https://www.copyright.gov/music-modernization/faq.html)  
+   Link: <a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses](https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses)  
+   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses</a>  
 
 6. <a id="endnote-6"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628](https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628)  
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
 
 7. <a id="endnote-7"></a>
    Source: cisac.org  
    Title: cisac global collections report 2025  
-   Link: [https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025](https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025)  
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025</a>  
 
 8. <a id="endnote-8"></a>
    Source: ipo.blog.gov.uk  
    Title: music metadata matters how to get paid and credited  
-   Link: [https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/](https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/)  
+   Link: <a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
 
 9. <a id="endnote-9"></a>
    Source: ascap.com  
    Title: Welcome to ASCAP  
-   Link: [https://www.ascap.com/](https://www.ascap.com/)  
+   Link: <a href="https://www.ascap.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/</a>  
 
 10. <a id="endnote-10"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help](https://www.ascap.com/help)  
+   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
 
 11. <a id="endnote-11"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/songview](https://www.ascap.com/songview)  
+   Link: <a href="https://www.ascap.com/songview" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/songview</a>  
 
 12. <a id="endnote-12"></a>
    Source: cisac.org  
    Title: prs music expands reach royalties across industry  
-   Link: [https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry](https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry)  
+   Link: <a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
 
 13. <a id="endnote-13"></a>
    Source: cisac.org  
    Title: cisac global collections report 2025  
-   Link: [https://www.cisac.org/cisac-global-collections-report-2025](https://www.cisac.org/cisac-global-collections-report-2025)  
+   Link: <a href="https://www.cisac.org/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/cisac-global-collections-report-2025</a>  
 
 14. <a id="endnote-14"></a>
    Source: blog.songtrust.com  
    Title: what are music royalties  
-   Link: [https://blog.songtrust.com/what-are-music-royalties](https://blog.songtrust.com/what-are-music-royalties)  
+   Link: <a href="https://blog.songtrust.com/what-are-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/what-are-music-royalties</a>  
 
 15. <a id="endnote-15"></a>
    Source: songtrust.com  
-   Link: [https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization](https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization)  
+   Link: <a href="https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization</a>  
 
 16. <a id="endnote-16"></a>
    Source: songtrust.com  
-   Link: [https://www.songtrust.com/the-mechanical-licensing-collective](https://www.songtrust.com/the-mechanical-licensing-collective)  
+   Link: <a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
 
 17. <a id="endnote-17"></a>
    Source: songtrust.com  
-   Link: [https://www.songtrust.com/register-songs-for-music-publishing](https://www.songtrust.com/register-songs-for-music-publishing)  
+   Link: <a href="https://www.songtrust.com/register-songs-for-music-publishing" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/register-songs-for-music-publishing</a>  
 
 18. <a id="endnote-18"></a>
    Source: blog.songtrust.com  
    Title: phonorecords iv agreement update  
-   Link: [https://blog.songtrust.com/phonorecords-iv-agreement-update](https://blog.songtrust.com/phonorecords-iv-agreement-update)  
+   Link: <a href="https://blog.songtrust.com/phonorecords-iv-agreement-update" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/phonorecords-iv-agreement-update</a>  
 
 19. <a id="endnote-19"></a>
    Source: copyright.gov  
-   Link: [https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com](https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com)  
+   Link: <a href="https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com" target="_blank" rel="noopener noreferrer nofollow">https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com</a>  
 
 20. <a id="endnote-20"></a>
    Source: artists.spotify.com  
    Title: collecting mechanical royalties can be tricky the mlc is here to fix that  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
 
 21. <a id="endnote-21"></a>
    Source: curveroyaltysystems.com  
    Title: Lesson 2: Flow of Revenues in Music Publishing Royalties  
-   Link: [https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music](https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music)  
+   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music</a>  
 
 22. <a id="endnote-22"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do](https://www.prsformusic.com/what-we-do)  
+   Link: <a href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicWhat we doWe collect and pay royalties when a member&#x27;s music is played in public, broadcast, downloaded, streamed, or perfor...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing](https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing)  
+   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) that make up the song) are owned by w...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe pay royalties to our members for the use of their work while prote...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
 26. <a id="endnote-26"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
 
 27. <a id="endnote-27"></a>
    Source: themlc.com  
    Title: phono 4  
-   Link: [https://www.themlc.com/faqs/categories/phono-4](https://www.themlc.com/faqs/categories/phono-4)  
+   Link: <a href="https://www.themlc.com/faqs/categories/phono-4" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/faqs/categories/phono-4</a>  
 
 28. <a id="endnote-28"></a>
    Source: diymusician.cdbaby.com  
    Title: DIY Musician Sync Licensing and Placement Guide  
-   Link: [https://diymusician.cdbaby.com/music-career/sync-licensing/](https://diymusician.cdbaby.com/music-career/sync-licensing/)  
+   Link: <a href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-career/sync-licensing/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/](https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/)  
+   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/](https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/)  
+   Link: <a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
 
 31. <a id="endnote-31"></a>
    Source: theguardian.com  
    Title: kate bush running up that hill uk top 10 stranger things  
-   Link: [https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things](https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things)  
+   Link: <a href="https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Kate Bush  
-   Link: [https://www.youtube.com/watch?v=wp43OdtAAkM](https://www.youtube.com/watch?v=wp43OdtAAkM)  
+   Link: <a href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wp43OdtAAkM</a>  
 
 33. <a id="endnote-33"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
 
 34. <a id="endnote-34"></a>
    Source: prsformusic.com  
    Title: 2024 financial results  
-   Link: [https://www.prsformusic.com/about-us/track-record/2024-financial-results](https://www.prsformusic.com/about-us/track-record/2024-financial-results)  
+   Link: <a href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record/2024-financial-results</a>  
 
 35. <a id="endnote-35"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/sitemap.xml](https://www.prsformusic.com/sitemap.xml)  
+   Link: <a href="https://www.prsformusic.com/sitemap.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/sitemap.xml</a>  
 
 36. <a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET](https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET)  
+   Link: <a href="https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET</a>  
 
 37. <a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz](https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz)  
+   Link: <a href="https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz</a>  
 
 38. <a id="endnote-38"></a>
    Source: apraamcos.com.au  
    Title: cisac releases global collections report  
-   Link: [https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report](https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report)  
+   Link: <a href="https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report</a>  
 
 39. <a id="endnote-39"></a>
    Source: Wikipedia  
    Title: PRS for Music  
-   Link: [https://en.wikipedia.org/wiki/PRS_for_Music](https://en.wikipedia.org/wiki/PRS_for_Music)  
+   Link: <a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
 
 40. <a id="endnote-40"></a>
    Source: recordoftheday.com  
-   Link: [https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry](https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry)  
+   Link: <a href="https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry</a>  
 
 41. <a id="endnote-41"></a>
    Source: teosto.fi  
    Title: CISAC Global Collections Report 2024  
-   Link: [https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf](https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf)  
+   Link: <a href="https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: afrosoundtrack.com  
    Title: cisac 2025 african music royalty growth  
-   Link: [https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/](https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/)  
+   Link: <a href="https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: Explained: The Difference Between Master and Publishing Royalties  
-   Link: [https://www.youtube.com/watch?v=T6M-J4j30hU](https://www.youtube.com/watch?v=T6M-J4j30hU)  
+   Link: <a href="https://www.youtube.com/watch?v=T6M-J4j30hU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T6M-J4j30hU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical vs Performance Royalties: What Every Songwriter Needs To Know...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Mechanical vs Performance Royalties: What Every Songwriter Needs To Know  
-   Link: [https://www.youtube.com/watch?v=gT8U78L3M9w](https://www.youtube.com/watch?v=gT8U78L3M9w)  
+   Link: <a href="https://www.youtube.com/watch?v=gT8U78L3M9w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT8U78L3M9w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing and Sync Explained for Artists...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv](https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv)  
+   Link: <a href="https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv</a>  
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: How Music Royalties Work (Master vs Publishing)  
-   Link: [https://www.youtube.com/watch?v=l_aH9O-u28w](https://www.youtube.com/watch?v=l_aH9O-u28w)  
+   Link: <a href="https://www.youtube.com/watch?v=l_aH9O-u28w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aH9O-u28w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: The Difference Between Master and Publishing Royalties...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era](https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era)  
+   Link: <a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
 
 48. <a id="endnote-48"></a>
    Source: apraamcos.com.au  
-   Link: [https://www.apraamcos.com.au/](https://www.apraamcos.com.au/)  
+   Link: <a href="https://www.apraamcos.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/](https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/)  
+   Link: <a href="https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/</a>  
 
 50. <a id="endnote-50"></a>
    Source: ukmusic.org  
-   Link: [https://www.ukmusic.org/policy-campaigns/copyright/](https://www.ukmusic.org/policy-campaigns/copyright/)  
+   Link: <a href="https://www.ukmusic.org/policy-campaigns/copyright/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/policy-campaigns/copyright/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/](https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/)  
+   Link: <a href="https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/</a>  
 
 52. <a id="endnote-52"></a>
    Source: mpaonline.org.uk  
-   Link: [https://mpaonline.org.uk/resources/faqs/](https://mpaonline.org.uk/resources/faqs/)  
+   Link: <a href="https://mpaonline.org.uk/resources/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/resources/faqs/</a>

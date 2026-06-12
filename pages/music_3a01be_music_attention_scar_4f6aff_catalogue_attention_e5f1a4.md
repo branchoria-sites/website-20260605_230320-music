@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce
 - music_3a01be_music_attention_scar_4f6aff_spotify_stream_thres_6d0ae7
 tags:
-- music
+- music-3-a01-be
 - attention
 - catalogue-gap
 keywords:
-- music
+- music-3-a01-be
 - attention
 - catalogue-gap
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The scale of streaming catalogues shows how sharply music supply has outgrown the listening time available to any audience.
 hero_summary: The scale of streaming catalogues shows how sharply music supply has outgrown the listening time available to any audience.
 layout: default
 permalink: /catalogue-gap/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /attention/
 nav_short_title: Catalogue Gap
 title: How Big Can The Music Shelf Get?
-title_full: How Big Can The Music Shelf Get? | Attention
+title_full: How Big Can The Music Shelf Get?
 display_title_short: Catalogue Gap
 display_title: Catalogue Gap
 heading_title: How Big Can The Music Shelf Get?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Being Available Is Not Being Heard | Music
+parent_title: Why Being Available Is Not Being Heard
 parent_permalink: /attention/
 parent_nav_short_title: Attention
 parent_heading_title: Why Being Available Is Not Being Heard
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When A Playlist Frames The Song
 up_link:
   basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -265,7 +265,7 @@ next_link:
   permalink: /low-plays/
   short_title: Low Plays
   heading_title: Why Songs Vanish After Release
-date: '2026-06-09 06:58:33 '
+date: '2026-06-11 23:30:55 '
 header:
   og_image: /assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attenti
 
 The clearest evidence that [attention]({{ 'attention/' | relative_url }}) has become music’s scarcest resource is not found in listener behaviour alone. It is visible in the size of the [catalogue]({{ 'catalogue/' | relative_url }}) itself. Streaming services now contain hundreds of millions of tracks, and that number grows by tens of millions every year. In this environment, release is no longer a scarce event. Discovery is.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-1-dark.svg" | relative_url }}" alt="Catalogue Gap illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key question is not whether [music]({{ 'music/' | relative_url }}) can reach a streaming platform. It can. The question is whether any listener will ever encounter it among an ever-expanding ocean of alternatives. Recent catalogue data provides a rare quantitative view of this gap between supply and attention, revealing that music availability is growing far faster than the audience’s capacity to listen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
+The key question is not whether music can reach a streaming platform. It can. The question is whether any listener will ever encounter it among an ever-expanding ocean of alternatives. Recent catalogue data provides a rare quantitative view of this gap between supply and attention, revealing that music availability is growing far faster than the audience’s capacity to listen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
 
 ## The Rise From Catalogue Scarcity to Catalogue Overload
 
@@ -290,7 +289,6 @@ The scale is difficult to visualise. A listener who spent every waking hour expl
 
 This shift fundamentally changes what a release means. Being present in the catalogue no longer implies meaningful availability to audiences. It means being stored within a system whose size vastly exceeds the attention available to process it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6awkEgaQl-M" title="Over 50 million songs got zero streams in 2025 – and other eye-popping data on music streaming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6awkEgaQl-M" target="_blank" rel="noopener noreferrer">Over 50 million songs got zero streams in 2025 – and other eye-popping data on music streaming</a></p><p class="youtube-embed-meta">Channel: The Price of Music Podcast &middot; Views: 74 &middot; Uploaded: January 2026 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6awkEgaQl-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6awkEgaQl-M">Open on YouTube</a></p></div></div></div>
 
 ## What Track-Count Data Reveals About Attention Scarcity
@@ -300,7 +298,6 @@ The most striking evidence comes from comparing catalogue size with actual liste
 Luminate's 2025 figures show that 88% of tracks on streaming platforms received 1,000 plays or fewer during the year. At the same time, just 541,000 tracks—around 0.2% of the total catalogue—generated 49.4% of all global audio-streaming consumption. Music Business Worldwide <span class="citation-chip-wrap"><a class="citation-chip" href="https://djmag.com/news/music-streams-nearly-10-globally-51-trillion-2025-report-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmag.com">[DJ Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmag.com</span><span class="citation-popover-title">music streams nearly 10 globally 51 trillion 2025 report finds</span><span class="citation-popover-snippet">Music streams up nearly 10% globally to 5.1 trillion in 2025...19 Jan 2026 — Luminate&#x27;s report also found that 88% of tracks received fe...</span></span></span>
 
 Those numbers reveal two simultaneous realities:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -315,13 +312,12 @@ The imbalance becomes even clearer when viewed from the opposite direction. Repo
 
 The attention gap therefore is not merely a matter of unequal popularity. It is a structural outcome of catalogue scale. As supply expands, a growing proportion of music occupies digital shelf space without entering active circulation.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-2-dark.svg" | relative_url }}" alt="Catalogue Gap illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Consumption Concentrates Despite Unlimited Choice
 
 Unlimited choice does not create unlimited listening.
 
-Every listener still has finite hours in a day. Even as global music consumption reached approximately 5.1 trillion streams in 2025, the growth in listening remained far smaller than the growth in catalogue size. New music enters the system faster than audience attention expands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imusician.pro/en/resources/blog/2025-streaming-5-1-trillion-half-of-tracks-10-plays-or-less" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imusician.pro">[iMusician]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imusician.pro</span><span class="citation-popover-title">2025 streaming 5 1 trillion half of tracks 10 plays or less</span><span class="citation-popover-snippet">iMusician2025 Streaming Hits 5.1T Plays, But Most Tracks Get Few...30 Jan 2026 — In 2025, global on-demand music streams reached 5.1 tri...</span></span></span>
+Every listener still has finite hours in a day. Even as global music consumption reached approximately 5.1 trillion streams in 2025, the growth in listening remained far smaller than the growth in catalogue size. New music enters the system faster than audience attention expands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imusician.pro/en/resources/blog/2025-streaming-5-1-trillion-half-of-tracks-10-plays-or-less" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imusician.pro">[iMusician]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imusician.pro</span><span class="citation-popover-title">2025 streaming 5 1 trillion half of tracks 10 plays or less</span><span class="citation-popover-snippet">2025 Streaming Hits 5.1T Plays, But Most Tracks Get Few...30 Jan 2026 — In 2025, global on-demand music streams reached 5.1 tri...</span></span></span>
 
 As a result, listeners often rely on shortcuts:
 
@@ -335,7 +331,6 @@ These behaviours are rational responses to abundance. Yet they also reinforce co
 
 The catalogue grows democratically; attention does not.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zIBD51pB34M" title="13,800 Artists Generated $100k on Spotify in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zIBD51pB34M" target="_blank" rel="noopener noreferrer">13,800 Artists Generated $100k on Spotify in 2025</a></p><p class="youtube-embed-meta">Channel: Andrew Southworth &middot; Views: 4.5K &middot; Uploaded: March 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zIBD51pB34M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zIBD51pB34M">Open on YouTube</a></p></div></div></div>
 
 ## Why More Supply Changes the Meaning of Release
@@ -346,23 +341,20 @@ That distinction matters because many traditional assumptions about exposure wer
 
 The bottleneck has shifted downstream. A release must now compete not only with new music but also with hundreds of millions of existing tracks, including decades of back catalogue. Every new upload enters a marketplace where listener attention is already heavily committed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
 
-This does not mean discovery is impossible. Streaming platforms still create pathways through playlists, recommendations and personalised discovery tools. Spotify reports that its [Discover Weekly]({{ 'discover-weekly/' | relative_url }}) playlist alone has driven billions of streams and tens of millions of artist discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">SpotifyDiscover Weekly Turns 10: Celebrating 100 Billion+ Tracks...30 Jun 2025 — With more than 100 billion tracks streamed, Discover We...</span></span></span>
+This does not mean discovery is impossible. Streaming platforms still create pathways through playlists, recommendations and personalised discovery tools. Spotify reports that its [Discover Weekly]({{ 'discover-weekly/' | relative_url }}) playlist alone has driven billions of streams and tens of millions of artist discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Discover Weekly Turns 10: Celebrating 100 Billion+ Tracks...30 Jun 2025 — With more than 100 billion tracks streamed, Discover We...</span></span></span>
 
 However, the catalogue data shows why discovery systems have become so important. Without mechanisms that direct attention, the sheer quantity of available music overwhelms any individual's capacity to explore.
 
 The modern challenge is therefore different from the historical one. The problem is no longer how to place music on the shelf. It is how to become visible on a shelf that effectively has no end.
-
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-3-dark.svg" | relative_url }}" alt="Catalogue Gap illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Catalogue Gap in One Statistic
 
 If streaming services host roughly 253 million tracks and only about 541,000 account for nearly half of all listening, then attention is concentrated on a tiny fraction of available music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
 
-That single comparison captures the catalogue gap. Music supply has expanded to unprecedented levels, while human attention remains finite. The result is a world in which more music is available than ever before, yet meaningful discovery becomes increasingly difficult. The modern music economy is therefore defined not by access to recordings, but by competition for awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
+That single comparison captures the catalogue gap. Music supply has expanded to unprecedented levels, while human attention remains finite. The result is a world in which more music is available than ever before, yet meaningful discovery becomes increasingly difficult. The modern music economy is therefore defined not by [access]({{ 'access/' | relative_url }}) to recordings, but by competition for awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cW9hwyxwK6k" title="How the Spotify algorithm is DESTROYING the music industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer">How the Spotify algorithm is DESTROYING the music industry</a></p><p class="youtube-embed-meta">Channel: SoundGuys &middot; Views: 3.7K &middot; Uploaded: April 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cW9hwyxwK6k">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1bZ0OSEViyo" title="The Real Reason Why Music Is Getting Worse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1bZ0OSEViyo" target="_blank" rel="noopener noreferrer">The Real Reason Why Music Is Getting Worse</a></p><p class="youtube-embed-meta">Channel: Rick Beato &middot; Views: 5.2M &middot; Uploaded: June 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1bZ0OSEViyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1bZ0OSEViyo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,15 +473,15 @@ That single comparison captures the catalogue gap. Music supply has expanded to 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,"><img src="{{ '/assets/images/marketplace-covers/daecb9cc6da8197cebd8.jpg' | relative_url }}" alt="Listing image for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art," loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for May the Beer be wth you Wilbur Pierce Poster Print"><img src="https://i.ebayimg.com/images/g/JtcAAeSwF-xo5ATs/s-l225.jpg" alt="Listing image for May the Beer be wth you Wilbur Pierce Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">May the Beer be wth you Wilbur Pierce Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +489,15 @@ That single comparison captures the catalogue gap. Music supply has expanded to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art"><img src="{{ '/assets/images/marketplace-covers/192d30de036d9d1ec182.jpg' | relative_url }}" alt="Listing image for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How happy I would be with both James Tissot Poster Print"><img src="https://i.ebayimg.com/images/g/VOcAAeSwhk9o4pUW/s-l225.jpg" alt="Listing image for How happy I would be with both James Tissot Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">How happy I would be with both James Tissot Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +505,15 @@ That single comparison captures the catalogue gap. Music supply has expanded to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hamlet: Neither a Borrower nor a Lender Be William Shakespeare Poster Print"><img src="https://i.ebayimg.com/images/g/-9sAAeSwt61o4pnP/s-l225.jpg" alt="Listing image for Hamlet: Neither a Borrower nor a Lender Be William Shakespeare Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Hamlet: Neither a Borrower nor a Lender Be William Shakespeare Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +521,15 @@ That single comparison captures the catalogue gap. Music supply has expanded to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flowers Being Watered - Mary, Mary Jesse Willcox Smith Poster Print"><img src="https://i.ebayimg.com/images/g/3ogAAeSwRbxo5AMK/s-l225.jpg" alt="Listing image for Flowers Being Watered - Mary, Mary Jesse Willcox Smith Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Flowers Being Watered - Mary, Mary Jesse Willcox Smith Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +537,7 @@ That single comparison captures the catalogue gap. Music supply has expanded to 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print" data-ebay-reference="catalogue-gap-how-big-can-the-music-shelf-get-music-music-art-print" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-can-the-music-shelf-get-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="how-big-can-the-music-shelf-get-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,182 +753,182 @@ That single comparison captures the catalogue gap. Music supply has expanded to 
 1. <a id="endnote-1"></a>
    Source: imusician.pro  
    Title: 2025 streaming 5 1 trillion half of tracks 10 plays or less  
-   Link: [https://imusician.pro/en/resources/blog/2025-streaming-5-1-trillion-half-of-tracks-10-plays-or-less](https://imusician.pro/en/resources/blog/2025-streaming-5-1-trillion-half-of-tracks-10-plays-or-less)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iMusician2025 Streaming Hits 5.1T Plays, But Most Tracks Get Few...30 Jan 2026 — In 2025, global on-demand music streams reached 5.1 tri...</p></details>
+   Link: <a href="https://imusician.pro/en/resources/blog/2025-streaming-5-1-trillion-half-of-tracks-10-plays-or-less" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/2025-streaming-5-1-trillion-half-of-tracks-10-plays-or-less</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Streaming Hits 5.1T Plays, But Most Tracks Get Few...30 Jan 2026 — In 2025, global on-demand music streams reached 5.1 tri...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/](https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyDiscover Weekly Turns 10: Celebrating 100 Billion+ Tracks...30 Jun 2025 — With more than 100 billion tracks streamed, Discover We...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Weekly Turns 10: Celebrating 100 Billion+ Tracks...30 Jun 2025 — With more than 100 billion tracks streamed, Discover We...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-[albums](https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-[albums)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-[albums" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-[albums</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Artists, Songs, Albums, Podcasts, and Audiobooks...3 Dec 2025 — In the world of audiobooks, the romantasy boom on Spotify was undeni...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: open.spotify.com  
    Title: 2u Ufikj W8NUco XOe Wpd Iu8  
-   Link: [https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8](https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8)  
+   Link: <a href="https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 million songs got zero streams in 202521 Jan 2026 — Over 50 million songs got zero streams in 2025 – and other eye-popping data on mus...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY](https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY)  
+   Link: <a href="https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracks of 2025 GlobalThe most streamed songs of 2025. Cover: Lady Gaga &amp; Bruno Mars. Spotify. 646,936 saves. Die With A Smile · Lady Gaga...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/](https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/there-are-now-more-than-200m-tracks-on-audio-streaming-services-nearly-100m-of-them-attracted-no-more-than-10-plays-each/](https://www.musicbusinessworldwide.com/there-are-now-more-than-200m-tracks-on-audio-streaming-services-nearly-100m-of-them-attracted-no-more-than-10-plays-each/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/there-are-now-more-than-200m-tracks-on-audio-streaming-services-nearly-100m-of-them-attracted-no-more-than-10-plays-each/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/there-are-now-more-than-200m-tracks-on-audio-streaming-services-nearly-100m-of-them-attracted-no-more-than-10-plays-each/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideThere are now over 200m tracks on audio streaming...15 Jan 2025 — According to Luminate&#x27;s 2024 Year-End Music Re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theplayground.co.uk  
-   Link: [https://theplayground.co.uk/streaming-platforms-now-host-over-a-quarter-of-a-billion-tracks/](https://theplayground.co.uk/streaming-platforms-now-host-over-a-quarter-of-a-billion-tracks/)  
+   Link: <a href="https://theplayground.co.uk/streaming-platforms-now-host-over-a-quarter-of-a-billion-tracks/" target="_blank" rel="noopener noreferrer nofollow">https://theplayground.co.uk/streaming-platforms-now-host-over-a-quarter-of-a-billion-tracks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The PlaygroundStreaming Platforms Now Host Over a Quarter of a Billion...Music streaming platforms are now home to a staggering 253 mill...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: djmag.com  
    Title: music streams nearly 10 globally 51 trillion 2025 report finds  
-   Link: [https://djmag.com/news/music-streams-nearly-10-globally-51-trillion-2025-report-finds](https://djmag.com/news/music-streams-nearly-10-globally-51-trillion-2025-report-finds)  
+   Link: <a href="https://djmag.com/news/music-streams-nearly-10-globally-51-trillion-2025-report-finds" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/music-streams-nearly-10-globally-51-trillion-2025-report-finds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streams up nearly 10% globally to 5.1 trillion in 2025...19 Jan 2026 — Luminate&#x27;s report also found that 88% of tracks received fe...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/the-ai-music-streaming-flood-where-were-at/](https://www.musicbusinessworldwide.com/the-ai-music-streaming-flood-where-were-at/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/the-ai-music-streaming-flood-where-were-at/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/the-ai-music-streaming-flood-where-were-at/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideThe AI Music Streaming Flood: Where We&#x27;re At1 day ago — Meanwhile, Luminate has confirmed that some 223.8 million...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: therecord.media  
    Title: spotify disables scraping annas  
-   Link: [https://therecord.media/spotify-disables-scraping-annas](https://therecord.media/spotify-disables-scraping-annas)  
+   Link: <a href="https://therecord.media/spotify-disables-scraping-annas" target="_blank" rel="noopener noreferrer nofollow">https://therecord.media/spotify-disables-scraping-annas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify disables accounts after open-source group scrapes...22 Dec 2025 — Spotify responded to the scraping and upload over the weekend...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/](https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Half of all paid music streams globally take place in just 4...22 Jan 2026 — Just four countries – the United States, Mexico, Brazil and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/from-gmrs-new-ceo-jeff-toig-to-quarter-of-a-billion-tracks-on-streaming-services-its-mbws-weekly-round-up/](https://www.musicbusinessworldwide.com/from-gmrs-new-ceo-jeff-toig-to-quarter-of-a-billion-tracks-on-streaming-services-its-mbws-weekly-round-up/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/from-gmrs-new-ceo-jeff-toig-to-quarter-of-a-billion-tracks-on-streaming-services-its-mbws-weekly-round-up/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/from-gmrs-new-ceo-jeff-toig-to-quarter-of-a-billion-tracks-on-streaming-services-its-mbws-weekly-round-up/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From GMR&#x27;s Jeff Toig to streaming&#x27;s quarter of a billion...Jan 16, 2026 — Meanwhile, there were 253 million music tracks sitting on audi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/companies/luminate/](https://www.musicbusinessworldwide.com/companies/luminate/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/companies/luminate/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/companies/luminate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateLuminate is an analysis and data monitoring company operating in the music industry. It issues half-year and annual reports on th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musicinafrica.net  
-   Link: [https://www.musicinafrica.net/magazine/spotify-catalogue-hits-250-million-tracks-amid-questions-over-ai-recommendation-strategy](https://www.musicinafrica.net/magazine/spotify-catalogue-hits-250-million-tracks-amid-questions-over-ai-recommendation-strategy)  
+   Link: <a href="https://www.musicinafrica.net/magazine/spotify-catalogue-hits-250-million-tracks-amid-questions-over-ai-recommendation-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotify-catalogue-hits-250-million-tracks-amid-questions-over-ai-recommendation-strategy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify catalogue hits 250 million tracks amid questions...29 Apr 2026 — Spotify has reported that its catalogue has expanded to around...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: chartmasters.org  
    Title: spotify most streamed artists 2025  
-   Link: [https://chartmasters.org/spotify-most-streamed-artists-2025/](https://chartmasters.org/spotify-most-streamed-artists-2025/)  
+   Link: <a href="https://chartmasters.org/spotify-most-streamed-artists-2025/" target="_blank" rel="noopener noreferrer nofollow">https://chartmasters.org/spotify-most-streamed-artists-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Most-Streamed Artists of 20259 Jan 2026 — [Bad Bunny](&amp;#123;&amp;#123; &#x27;bad-bunny/&#x27; | relative_url &amp;#125;&amp;#125;) and Taylor Swift continue to be in a league of their own on Spotify, stealing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/alitaqishah/spotify-wrapped-2025-top-songs-and-artists](https://www.kaggle.com/datasets/alitaqishah/spotify-wrapped-2025-top-songs-and-artists)  
+   Link: <a href="https://www.kaggle.com/datasets/alitaqishah/spotify-wrapped-2025-top-songs-and-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/alitaqishah/spotify-wrapped-2025-top-songs-and-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Wrapped 2025 | Top Songs &amp; ArtistsFile 1 — Spotify Wrapped 2025 Top 50 Songs; #1 Song, Die With A Smile — Lady Gaga &amp; Bruno Mars...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: kaggle.com  
    Title: spotify global music dataset 20092025  
-   Link: [https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025](https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025)  
+   Link: <a href="https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Global Music Dataset (2009–2025)Data for recent and contemporary Spotify tunes (mainly from 2025) are included in this file. A si...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: luminatedata.com  
-   Link: [https://luminatedata.com/](https://luminatedata.com/)  
+   Link: <a href="https://luminatedata.com/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate | Entertainment Industry Data, Analytics &amp; InsightsThe most comprehensive analytics platform revealing the trends, behaviors and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: unchainedmusic.io  
    Title: Spotify's Music Catalogue Was Scraped  
-   Link: [https://www.unchainedmusic.io/blog-posts/spotify-music-catalogue-was-scraped-what-does-it-mean](https://www.unchainedmusic.io/blog-posts/spotify-music-catalogue-was-scraped-what-does-it-mean)  
+   Link: <a href="https://www.unchainedmusic.io/blog-posts/spotify-music-catalogue-was-scraped-what-does-it-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.unchainedmusic.io/blog-posts/spotify-music-catalogue-was-scraped-what-does-it-mean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What does it Mean?29 Dec 2025 — In December 2025, Spotify confirmed that a massive portion of its music library had been scraped by the a...</p></details>
    Published: December 2025  
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: activist group says it has scraped 86m music files from spotify  
-   Link: [https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify](https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify)  
+   Link: <a href="https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: euronews.com  
-   Link: [https://www.euronews.com/next/2025/12/22/spotify-investigates-data-breach-after-pirate-group-claims-it-scraped-its-music-library](https://www.euronews.com/next/2025/12/22/spotify-investigates-data-breach-after-pirate-group-claims-it-scraped-its-music-library)  
+   Link: <a href="https://www.euronews.com/next/2025/12/22/spotify-investigates-data-breach-after-pirate-group-claims-it-scraped-its-music-library" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2025/12/22/spotify-investigates-data-breach-after-pirate-group-claims-it-scraped-its-music-library</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify investigates data breach, after pirate group claims it...22 Dec 2025 — A pirate activist group said it &#x27;backed up&#x27; Spotify&#x27;s mus...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: kworb.net  
    Title: songs 2025  
-   Link: [https://kworb.net/spotify/songs_2025.html](https://kworb.net/spotify/songs_2025.html)  
+   Link: <a href="https://kworb.net/spotify/songs_2025.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/songs_2025.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Most Streamed Songs Released In 2025Spotify most streamed songs released in 2025. Artist and Title, Streams, Daily... Armin van...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/drewthurlow_luminate-releases-2025-year-end-music-report-activity-7417581102132813825-hCMW](https://www.linkedin.com/posts/drewthurlow_luminate-releases-2025-year-end-music-report-activity-7417581102132813825-hCMW)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInLuminate&#x27;s 2025 Year End Report: Music Streaming TrendsLuminate&#x27;s 2025 Year End Report is here. What is it telling us? Global on...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/drewthurlow_luminate-releases-2025-year-end-music-report-activity-7417581102132813825-hCMW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drewthurlow_luminate-releases-2025-year-end-music-report-activity-7417581102132813825-hCMW</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate&#x27;s 2025 Year End Report: Music Streaming TrendsLuminate&#x27;s 2025 Year End Report is here. What is it telling us? Global on...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nialler9.com  
    Title: 88 of songs on spotify didnt make money last year due to this rule  
-   Link: [https://nialler9.com/88-of-songs-on-spotify-didnt-make-money-last-year-due-to-this-rule/](https://nialler9.com/88-of-songs-on-spotify-didnt-make-money-last-year-due-to-this-rule/)  
+   Link: <a href="https://nialler9.com/88-of-songs-on-spotify-didnt-make-money-last-year-due-to-this-rule/" target="_blank" rel="noopener noreferrer nofollow">https://nialler9.com/88-of-songs-on-spotify-didnt-make-money-last-year-due-to-this-rule/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why 88% of Spotify songs didn&#x27;t make any revenue last year26 Jan 2026 — Thanks to the Luminate 2025 Year-End Music Report, we now know th...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: mixmag.net.au  
    Title: music streams grew by almost 10 to 5 1 trillion in 2025 news  
-   Link: [https://mixmag.net.au/read/music-streams-grew-by-almost-10-to-5-1-trillion-in-2025-news](https://mixmag.net.au/read/music-streams-grew-by-almost-10-to-5-1-trillion-in-2025-news)  
+   Link: <a href="https://mixmag.net.au/read/music-streams-grew-by-almost-10-to-5-1-trillion-in-2025-news" target="_blank" rel="noopener noreferrer nofollow">https://mixmag.net.au/read/music-streams-grew-by-almost-10-to-5-1-trillion-in-2025-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streams grew by almost 10% to 5.1 trillion in 2025Luminate estimates that around 541,000 tracks make up the &quot;backbone&quot; of global st...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: computing.co.uk  
    Title: activist group claims massive 300tb spotify music scrape  
-   Link: [https://www.computing.co.uk/news/2025/legislation-regulation/activist-group-claims-massive-300tb-spotify-music-scrape](https://www.computing.co.uk/news/2025/legislation-regulation/activist-group-claims-massive-300tb-spotify-music-scrape)  
+   Link: <a href="https://www.computing.co.uk/news/2025/legislation-regulation/activist-group-claims-massive-300tb-spotify-music-scrape" target="_blank" rel="noopener noreferrer nofollow">https://www.computing.co.uk/news/2025/legislation-regulation/activist-group-claims-massive-300tb-spotify-music-scrape</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Dec 2025 — The group, known as Anna&#x27;s Archive, said it had scraped just under 300TB of data from Spotify, including 86 million music f...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: hypebot.com  
-   Link: [https://www.hypebot.com/luminate-reports-music-streaming-saturation-2025-2026/](https://www.hypebot.com/luminate-reports-music-streaming-saturation-2025-2026/)  
+   Link: <a href="https://www.hypebot.com/luminate-reports-music-streaming-saturation-2025-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypebot.com/luminate-reports-music-streaming-saturation-2025-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>106000-a-Day Deluge: 88% of Tracks Starve for Streams20 Jan 2026 — 253 million audio ISRCs, a overwhelming 88% of tracks (approx...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/626727682/posts/to-put-it-into-perspective106000-uploads-a-dayfrom-music-business-worldwide-stag/10162868650757683/](https://www.facebook.com/626727682/posts/to-put-it-into-perspective106000-uploads-a-dayfrom-music-business-worldwide-stag/10162868650757683/)  
+   Link: <a href="https://www.facebook.com/626727682/posts/to-put-it-into-perspective106000-uploads-a-dayfrom-music-business-worldwide-stag/10162868650757683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/626727682/posts/to-put-it-into-perspective106000-uploads-a-dayfrom-music-business-worldwide-stag/10162868650757683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lose of 2025. Yep: over quarter of a billion. Some milestone.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: anythingcounter.com  
-   Link: [https://anythingcounter.com/spotify-uploads-per-day](https://anythingcounter.com/spotify-uploads-per-day)  
+   Link: <a href="https://anythingcounter.com/spotify-uploads-per-day" target="_blank" rel="noopener noreferrer nofollow">https://anythingcounter.com/spotify-uploads-per-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs uploaded that nobody will ever hear | AnythingCounterLuminate 2025 found that just 541,000 tracks (about 0.2% of the catalog) drove...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: chartmasters.org  
-   Link: [https://chartmasters.org/most-streamed-songs-spotify/](https://chartmasters.org/most-streamed-songs-spotify/)  
+   Link: <a href="https://chartmasters.org/most-streamed-songs-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://chartmasters.org/most-streamed-songs-spotify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30,987,370 filtered streams on October 3, 2025.Read more...</p></details>
    Published: October 3, 2025  
 
 32. <a id="endnote-32"></a>
    Source: luminatedata.com  
    Title: yearend music industry report 2025  
-   Link: [https://luminatedata.com/reports/yearend-music-industry-report-2025/](https://luminatedata.com/reports/yearend-music-industry-report-2025/)  
+   Link: <a href="https://luminatedata.com/reports/yearend-music-industry-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/yearend-music-industry-report-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate Releases 2025 Year-End Music ReportThis year&#x27;s report covers the most vital trend shifts in how music is consumed and monetized...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: diymusician.cdbaby.com  
    Title: takeaways from luminate 2025  
-   Link: [https://diymusician.cdbaby.com/music-news/takeaways-from-luminate-2025/](https://diymusician.cdbaby.com/music-news/takeaways-from-luminate-2025/)  
+   Link: <a href="https://diymusician.cdbaby.com/music-news/takeaways-from-luminate-2025/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-news/takeaways-from-luminate-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cdbaby.com5 key takeaways from Luminate&#x27;s 2025 Year-End Report4 Feb 2026 — 106,000 tracks were delivered to streaming platforms each day...</p></details>

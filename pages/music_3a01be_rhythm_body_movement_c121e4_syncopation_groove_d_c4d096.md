@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf
 - music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c
 tags:
-- music
+- music-3-a01-be
 - rhythm
 - syncopation
 keywords:
-- music
+- music-3-a01-be
 - rhythm
 - syncopation
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Groove often feels best when a steady pulse is challenged just enough by off-beat accents, delays and rhythmic surprises.
 hero_summary: Groove often feels best when a steady pulse is challenged just enough by off-beat accents, delays and rhythmic surprises.
 layout: default
 permalink: /syncopation/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /rhythm/
 nav_short_title: Syncopation
 title: Why Off Beat Rhythms Make People Move
-title_full: Why Off Beat Rhythms Make People Move | Rhythm
+title_full: Why Off Beat Rhythms Make People Move
 display_title_short: Syncopation
 display_title: Syncopation
 heading_title: Why Off Beat Rhythms Make People Move
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Rhythm Makes Music Feel Physical | Music
+parent_title: Why Rhythm Makes Music Feel Physical
 parent_permalink: /rhythm/
 parent_nav_short_title: Rhythm
 parent_heading_title: Why Rhythm Makes Music Feel Physical
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Dance Floors Turn Beats Into Belonging
 up_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -259,7 +259,7 @@ prev_link:
   permalink: /shared-timing/
   short_title: Shared Timing
   heading_title: How Dance Floors Turn Beats Into Belonging
-date: '2026-06-09 07:48:12 '
+date: '2026-06-11 23:55:46 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groov
 
 ## Introduction
 
-Syncopation makes grooves feel danceable because it creates a controlled conflict between what listeners expect and what they actually hear. Instead of placing every important accent on the strongest beats, syncopated rhythms shift emphasis onto weaker beats, off-beats, or unexpected moments. The result is a musical push-and-pull: the pulse remains clear enough to follow, but the [rhythm]({{ 'rhythm/' | relative_url }}) constantly teases that pulse by leaning against it. Research on groove consistently finds that people are most likely to experience pleasure and an urge to move when rhythms balance predictability with [surprise]({{ 'surprise/' | relative_url }}) rather than being either completely regular or highly chaotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</span></span></span>
-
+Syncopation makes grooves feel danceable because it creates a controlled conflict between what listeners expect and what they actually hear. Instead of placing every important accent on the strongest beats, syncopated rhythms shift emphasis onto weaker beats, off-beats, or unexpected moments. The result is a musical push-and-pull: the pulse remains clear enough to follow, but the [rhythm]({{ 'rhythm/' | relative_url }}) constantly teases that pulse by leaning against it. Research on groove consistently finds that people are most likely to experience pleasure and an urge to move when rhythms balance predictability with [surprise]({{ 'surprise/' | relative_url }}) rather than being either completely regular or highly chaotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Syncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-dark.svg" | relative_url }}" alt="Syncopation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader question of how rhythm moves bodies, syncopation is one of the most effective mechanisms because it turns listening into an active process. The body is not merely following a beat; it is continually predicting where the beat is and enjoying the experience of finding it again after each rhythmic detour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
@@ -280,7 +279,7 @@ A straightforward rhythm confirms expectations. If strong sounds consistently oc
 
 For example, in a simple four-beat pattern, listeners often feel beats one, two, three and four as the rhythmic framework. A syncopated rhythm may emphasise the “and” between beats or delay an expected accent until slightly later. The underlying pulse remains present, but the surface rhythm seems to tug against it.
 
-This matters because human rhythm perception relies heavily on prediction. Research in [music]({{ 'music/' | relative_url }}) cognition and neuroscience shows that listeners continuously generate internal models of timing and beat structure. Even during passive listening, motor-related brain systems become involved in anticipating future beats. Syncopation creates small prediction errors that force those timing systems to stay engaged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+This matters because human rhythm perception relies heavily on prediction. Research in music cognition and neuroscience shows that listeners continuously generate internal models of timing and beat structure. Even during passive listening, motor-related brain systems become involved in anticipating future beats. Syncopation creates small prediction errors that force those timing systems to stay engaged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
 The key point is that syncopation does not erase the beat. If it did, dancing would become difficult. Instead, it creates a temporary mismatch between the beat listeners feel and the accents they hear. That mismatch generates tension, [attention]({{ 'attention/' | relative_url }}) and anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
@@ -288,16 +287,15 @@ The key point is that syncopation does not erase the beat. If it did, dancing wo
 
 The danceability of syncopation comes from a balance rather than an extreme. A completely predictable rhythm offers stability but little excitement. A highly unpredictable rhythm can become difficult to follow. Groove emerges in the middle ground.
 
-One influential study asked participants to listen to funk-inspired drum patterns with varying degrees of syncopation and rate both their pleasure and their desire to move. The results formed an inverted-U pattern: rhythms with a medium level of syncopation produced the strongest responses. Too little syncopation was less engaging, while too much reduced the desire to move because the pulse became harder to track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCActive Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</span></span></span>
+One influential study asked participants to listen to funk-inspired drum patterns with varying degrees of syncopation and rate both their pleasure and their desire to move. The results formed an inverted-U pattern: rhythms with a medium level of syncopation produced the strongest responses. Too little syncopation was less engaging, while too much reduced the desire to move because the pulse became harder to track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Active Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</span></span></span>
 
-This finding has been replicated and expanded in later groove research. Reviews of the field describe groove as emerging from a fine-tuned interaction between predictability and surprise. Repetition provides the listener with a stable temporal framework, while syncopation introduces enough uncertainty to make participation rewarding. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceNeural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Direct In practical terms, syncopation encourages movement because moving helps listeners maintain and reinforce their sense of the beat. Tapping a foot, nodding the head or dancing effectively becomes part of the process of resolving rhythmic tension. Rather than being a response that occurs after perception, movement helps support perception itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</span></span></span>
+This finding has been replicated and expanded in later groove research. Reviews of the field describe groove as emerging from a fine-tuned interaction between predictability and surprise. Repetition provides the listener with a stable temporal framework, while syncopation introduces enough uncertainty to make participation rewarding. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Direct In practical terms, syncopation encourages movement because moving helps listeners maintain and reinforce their sense of the beat. Tapping a foot, nodding the head or dancing effectively becomes part of the process of resolving rhythmic tension. Rather than being a response that occurs after perception, movement helps support perception itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</span></span></span>
 
 ## The Pleasure of Finding the Pulse Again
 
 A useful way to understand syncopation is to think of it as a game between certainty and uncertainty.
 
 The listener establishes a pulse:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,10 +306,9 @@ The listener establishes a pulse:
 
 </div>
 
-Researchers studying groove increasingly interpret this process through predictive timing models. According to these accounts, the brain enjoys situations where expectations are challenged but not destroyed. Syncopation supplies exactly that condition. It introduces enough uncertainty to be interesting while preserving enough structure for the listener to remain oriented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceNeural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+Researchers studying groove increasingly interpret this process through predictive timing models. According to these accounts, the brain enjoys situations where expectations are challenged but not destroyed. Syncopation supplies exactly that condition. It introduces enough uncertainty to be interesting while preserving enough structure for the listener to remain oriented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
 This helps explain why [dance music]({{ 'dance-music/' | relative_url }}) often feels energetic even when tempos are moderate. The sensation of forward motion does not come solely from speed. It comes from rhythmic events continually pulling attention away from the expected beat and then allowing the listener to reconnect with it.
-
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-2-dark.svg" | relative_url }}" alt="Syncopation illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from Funk, Disco, Hip-Hop and Dance Music
@@ -327,7 +324,6 @@ Many funk grooves place significant emphasis on sixteenth-note subdivisions betw
 Disco demonstrates a different balance. The bass drum often provides an unwavering four-on-the-floor pulse, creating exceptional stability for dancers. Above that foundation, bass lines, guitar parts, strings and vocal phrases frequently introduce syncopated accents.
 
 The result is a groove that feels both secure and lively. Dancers can rely on the steady pulse while responding to the rhythmic surprises occurring around it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hoW0exfFZoM" title="Groove on the Brain: Rhythmic Complexity and Predictive Coding - Peter Vuust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hoW0exfFZoM" target="_blank" rel="noopener noreferrer">Groove on the Brain: Rhythmic Complexity and Predictive Coding - Peter Vuust</a></p><p class="youtube-embed-meta">Channel: socialBRIDGES Archive &middot; Views: 610 &middot; Uploaded: February 2022 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hoW0exfFZoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hoW0exfFZoM">Open on YouTube</a></p></div></div></div>
 
@@ -347,8 +343,7 @@ The strongest dance grooves frequently rely not on abandoning the grid but on st
 
 It might seem logical that more rhythmic surprise would create more excitement. Research suggests otherwise.
 
-When syncopation becomes excessive, listeners can struggle to infer the underlying beat. Once the pulse becomes uncertain, movement becomes harder because dancers no longer have a reliable temporal reference. The same rhythmic complexity that creates excitement can eventually undermine groove. PLOS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceNeural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Daily This is why highly danceable music usually preserves some strong indicators of pulse even when surface rhythms are complex. A kick drum, bass pattern, handclap or recurring accent often functions as an anchor. Syncopation works best when it has something stable to push against.
-
+When syncopation becomes excessive, listeners can struggle to infer the underlying beat. Once the pulse becomes uncertain, movement becomes harder because dancers no longer have a reliable temporal reference. The same rhythmic complexity that creates excitement can eventually undermine groove. PLOS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Daily This is why highly danceable music usually preserves some strong indicators of pulse even when surface rhythms are complex. A kick drum, bass pattern, handclap or recurring accent often functions as an anchor. Syncopation works best when it has something stable to push against.
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-3-dark.svg" | relative_url }}" alt="Syncopation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Syncopation as a Movement Engine
@@ -753,119 +748,119 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
 
 1. <a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Syncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCActive Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Active Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0149763423004918](https://www.sciencedirect.com/science/article/pii/S0149763423004918)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0149763423004918" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763423004918</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of psychological and neuroscientific research on...by T Etani · 2024 · Cited by 63 — This article reviews research on groove as...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedaily.com  
-   Link: [https://www.sciencedaily.com/releases/2014/04/140416172235.htm](https://www.sciencedaily.com/releases/2014/04/140416172235.htm)  
+   Link: <a href="https://www.sciencedaily.com/releases/2014/04/140416172235.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2014/04/140416172235.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In funk music, rhythmic complexity influences dancing desireApr 17, 2014 — The authors posit that the relationship between body movement...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pleasurable urge to move to music is unchanged in...by ID Romkey · 2025 · Cited by 14 — In cognitive science, the sensation of “groove”...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMotor and Predictive Processes in Auditory Beat and...by S Proksch · 2020 · Cited by 76 — In this article, we review recent adv...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.adi2525](https://www.science.org/doi/10.1126/sciadv.adi2525)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceNeural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adi2525</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: universalproductionmusic.com  
    Title: Universal Production Music What makes music funky  
-   Link: [https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky](https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky)  
+   Link: <a href="https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky" target="_blank" rel="noopener noreferrer nofollow">https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Syncopation is making the beats that are normally weak, dominant in a piece of music. That means you don...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: beatstorapon.com  
    Title: Beats To Rap On Why Does Music Make You Dance?  
-   Link: [https://beatstorapon.com/blog/why-does-music-make-you-dance/](https://beatstorapon.com/blog/why-does-music-make-you-dance/)  
+   Link: <a href="https://beatstorapon.com/blog/why-does-music-make-you-dance/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/why-does-music-make-you-dance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Beats...3 days ago — 4 days ago — The Hip-Hop / Funk Breakbeat. The hip-hop and funk drum pattern relies heavily on dyna...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: venicebeachdrumcircle.wordpress.com  
    Title: the science of groove  
-   Link: [https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/](https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/)  
+   Link: <a href="https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/" target="_blank" rel="noopener noreferrer nofollow">https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Groove - Venice Beach Drum CircleOct 4, 2025 — Neuroscience is uncovering how rhythm, prediction, and pleasure intertwine to c...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: neuroscience.gsu.edu  
-   Link: [https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf](https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf)  
+   Link: <a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This work reviews the growing body of interdisciplinary research on music cognition, using biomechanical, kinesiological, clinical, psych...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move](https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move)  
+   Link: <a href="https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rhyme May Define, but the Groove Makes You Move... Syncopation characterises many genres associated with groove, e.g. funk [11], elec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7](https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7)  
+   Link: <a href="https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This region integrates auditory and motor systems, prompting people to move to the beat. The research led by Benjamin Morillon highlights...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/](https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/)  
+   Link: <a href="https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/</a>  
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCmusical groove in brain, body, and social interactions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Stupacher · 2022 · Cited by 74 — In dance, music making, and music listening, groove research can help us to better understand th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Stupacher · 2022 · Cited by 74 — In dance, music making, and music listening, groove research can help us to better understand th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mdlbeast.com  
    Title: the science of groove why some beats just make you move  
-   Link: [https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move](https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move)  
+   Link: <a href="https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move" target="_blank" rel="noopener noreferrer nofollow">https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Groove: Why Some Beats Just Make You...17 Jul 2025 — Discover the science behind groove how rhythm, syncopation, and bass...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research.birmingham.ac.uk  
    Title: syncopation body movement and pleasure in groove music  
-   Link: [https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music](https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>birmingham.ac.ukSyncopation, body-movement and pleasure in groove musicby M Witek · 2014 · Cited by 597 — Here we report results from a w...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: direct.mit.edu  
    Title: Musical groove listening does not enhance primary  
-   Link: [https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary)  
+   Link: <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>groove listening does not enhance primary motor...by SR O’Connell · 2026 — This type of model proposes that groove results from a modera...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: online.ucpress.edu  
    Title: A Critical Cross cultural Study of Sensorimotor  
-   Link: [https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor](https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor)  
+   Link: <a href="https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Cross-cultural Study of Sensorimotor and Groove...Here we report on two studies in which sensorimotor and groove responses to s...</p></details>

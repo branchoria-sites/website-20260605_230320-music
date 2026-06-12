@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - streaming
 keywords:
-- music
+- music-3-a01-be
 - streaming
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming moved listening from owned albums and downloads toward instant access, playlists and algorithmic discovery.
 hero_summary: Streaming moved listening from owned albums and downloads toward instant access, playlists and algorithmic discovery.
 layout: default
 permalink: /streaming/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Streaming
 title: How Streaming Changed Listening Habits
-title_full: How Streaming Changed Listening Habits | Music
+title_full: How Streaming Changed Listening Habits
 display_title_short: Streaming
 display_title: Streaming
 heading_title: How Streaming Changed Listening Habits
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 next_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
-date: '2026-06-09 06:12:34 '
+date: '2026-06-11 23:06:35 '
 header:
   og_image: /assets/images/music_3a01be_streaming_listening_72e5f3-overview-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_listening_72e5f3-overview.webp
@@ -503,20 +503,18 @@ image: /assets/images/music_3a01be_streaming_listening_72e5f3-overview-social.jp
 
 Streaming changed everyday listening by making music feel less like a collection of things people own and more like an always-available service. Instead of buying an album, importing files, or carrying a small library on a device, listeners can search a [catalogue]({{ 'catalogue/' | relative_url }}), tap a playlist, follow an algorithmic recommendation, or let music run in the [background]({{ 'background/' | relative_url }}) while commuting, cooking, working, exercising or relaxing. The shift matters because it has changed not only how music is paid for, but how it is chosen, remembered and fitted into ordinary routines.
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-overview.webp" | relative_url }}" alt="Overview image for Streaming" loading="eager" decoding="sync" fetchpriority="high">
-The clearest evidence is economic as well as behavioural. IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, with streaming accounting for 69.6% of recorded music income and paid subscriptions alone accounting for 52.4%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> In the United States, the RIAA reported that streaming represented 82% of total recorded music revenue for the fifth year running in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Reports: US Recorded Music Annual Revenue</span><span class="citation-popover-snippet">2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</span></span></span> Those figures do not prove that every listener has abandoned albums, radio or [physical]({{ 'physical/' | relative_url }}) [formats]({{ 'formats/' | relative_url }}), but they do show that streaming has become the central infrastructure through which recorded music is encountered.
+The clearest evidence is economic as well as behavioural. IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, with streaming accounting for 69.6% of recorded music income and paid subscriptions alone accounting for 52.4%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> In the United States, the RIAA reported that streaming represented 82% of total recorded music revenue for the fifth year running in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Reports: US Recorded Music Annual Revenue</span><span class="citation-popover-snippet">2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</span></span></span> Those figures do not prove that every listener has abandoned albums, radio or [physical]({{ 'physical/' | relative_url }}) [formats]({{ 'formats/' | relative_url }}), but they do show that streaming has become the central infrastructure through which recorded music is encountered.
 
 ## Access Replaced the Personal Library
 
-The old model of recorded [music]({{ 'music/' | relative_url }}) was built around possession. A listener bought a CD, vinyl record, cassette or download, and the resulting library was limited by money, storage space, taste and effort. Streaming changed that default. For a monthly fee, or through advertising-supported [access]({{ 'access/' | relative_url }}), the listener no longer needs to decide whether one album is worth buying before hearing it repeatedly. A song can be sampled once, saved, skipped, replayed, shared or forgotten with almost no friction.
+The old model of recorded music was built around possession. A listener bought a CD, [vinyl]({{ 'vinyl/' | relative_url }}) record, cassette or download, and the resulting library was limited by money, storage space, taste and effort. Streaming changed that default. For a monthly fee, or through advertising-supported [access]({{ 'access/' | relative_url }}), the listener no longer needs to decide whether one album is worth buying before hearing it repeatedly. A song can be sampled once, saved, skipped, replayed, shared or forgotten with almost no friction.
 
-Research on streaming adoption repeatedly points to this access model as one of the central reasons people changed habits. A 2025 qualitative study of college students found that participants moved from CDs and downloads to music streaming mainly because of convenience and “massive song choices for a reasonable price”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</span></span></span> Earlier research on the psychology of streaming framed the same shift as a move from ownership responsibilities towards access, discovery, nostalgia and emotional use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateExploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</span><span class="citation-popover-meta">Published: October 1, 2016</span></span></span> In everyday terms, streaming reduces the practical burden of having a music collection: there is less need to rip CDs, manage files, sync devices, back up libraries or decide in advance what music will be needed later.
+Research on streaming adoption repeatedly points to this access model as one of the central reasons people changed habits. A 2025 qualitative study of college students found that participants moved from CDs and downloads to music streaming mainly because of convenience and “massive song choices for a reasonable price”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</span></span></span> Earlier research on the psychology of streaming framed the same shift as a move from ownership responsibilities towards access, discovery, nostalgia and emotional use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Exploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</span><span class="citation-popover-meta">Published: October 1, 2016</span></span></span> In everyday terms, streaming reduces the practical burden of having a music collection: there is less need to rip CDs, manage files, sync devices, back up libraries or decide in advance what music will be needed later.
 
 That convenience also changes the meaning of commitment. Buying an album once required a small bet: the listener had to care enough to spend money on that particular object or file. Streaming weakens that threshold. People can try a new artist because a song appears in a playlist, because a friend sends a link, because an app recommends it, or because a fragment has circulated elsewhere online. The cost of curiosity falls, but so does the sense that every piece of music in a library has been deliberately chosen.
 
 The result is not the death of ownership. Physical formats remain meaningful for many fans precisely because they offer tangibility, artwork, ritual and a stronger feeling of support for artists. IFPI reported that physical-format revenue grew 8.0% in 2025, helped by vinyl’s nineteenth consecutive year of growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> But for everyday listening, ownership is now often the exception rather than the default. A vinyl record may be a treasured object; the playlist or search bar is what many people use on an ordinary Tuesday.
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-1-dark.svg" | relative_url }}" alt="Streaming illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playlists Changed the Unit of Listening
@@ -530,7 +528,6 @@ The practical effect is that music is increasingly selected for what it does in 
 Spotify’s own product language shows how normal this has become. Its 2025 Wrapped material described listening through “moments, moods, and memories”, while newer features such as weekly listening statistics, Discover Weekly, Release Radar and daylist treat everyday listening as a pattern of habits that can be summarised, refreshed and shared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">The Simple Truth About How Your Wrapped Comes to Life</span><span class="citation-popover-snippet">The Simple Truth About How Your Wrapped Comes to Life</span></span></span> The platform is not merely storing songs; it is turning listening into a stream of personalised occasions.
 
 This shift has made listening more flexible, but also more fragmented. The album remains a powerful artistic format, but many listeners encounter songs first as standalone tracks inside a playlist. An artist’s work may be heard beside dozens of unrelated tracks selected by a platform, editor or algorithm. That can help a new song travel quickly, but it can also detach music from the album sequence, artwork, liner notes, local scene or cultural context that once framed it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b-zr4041sBM" title="Finding The PERFECT Music Streaming Service For Your Needs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b-zr4041sBM" target="_blank" rel="noopener noreferrer">Finding The PERFECT Music Streaming Service For Your Needs</a></p><p class="youtube-embed-meta">Channel: Audio Advice &middot; Views: 62.3K &middot; Uploaded: March 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b-zr4041sBM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b-zr4041sBM">Open on YouTube</a></p></div></div></div>
 
@@ -546,7 +543,6 @@ That is why recommendation can feel personal. When a playlist seems to know what
 
 The everyday consequence is subtle. A listener may feel more adventurous because they hear more unfamiliar tracks than before, yet still be guided within a platform-shaped corridor of similarity. Discovery becomes easier, but not necessarily freer. The listener has access to an enormous catalogue, while the visible slice of that catalogue is constantly sorted by systems they do not fully see.
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-2-dark.svg" | relative_url }}" alt="Streaming illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Music Became More Continuous and Situational
 
@@ -560,9 +556,7 @@ This situational use has affected the language of music culture. People talk abo
 
 For artists and labels, this changes the challenge of being heard. A song might succeed not because a listener seeks out the artist, but because it fits a platform context: background pop, chilled electronic music, upbeat workout tracks, acoustic covers, lo-fi study beats, ambient sleep music or a genre-specific discovery list. The everyday listener experiences this as convenience; the music industry experiences it as a contest for placement, retention and repeat listening.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gvLs-uU9QN8" title="How Algorithms Changed Music Discovery | Voltage Labs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer">How Algorithms Changed Music Discovery | Voltage Labs</a></p><p class="youtube-embed-meta">Channel: Voltage Labs &middot; Views: 19.5K &middot; Uploaded: August 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gvLs-uU9QN8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-3-dark.svg" | relative_url }}" alt="Streaming illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Listener Gained Control, Then Gave Some Back
 
 Streaming appears to give listeners unprecedented control. They can play almost any available track instantly, skip what they dislike, create playlists, follow artists, download for offline use, and move between decades, countries and genres in seconds. Compared with radio scheduling or the limited stock of a local shop, this is a dramatic expansion of choice.
@@ -575,8 +569,8 @@ This dependence also affects memory and identity. In an owned collection, the li
 
 That may be useful, but it also changes the relationship between taste and measurement. Listening becomes something to optimise, visualise and compare. A private habit can become a public identity card: top artists, minutes listened, most-played genres, obscure discoveries, guilty pleasures. Streaming did not invent musical self-expression, but it made the data trail of listening much more visible.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gvLs-uU9QN8" title="How Algorithms Changed Music Discovery | Voltage Labs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer">How Algorithms Changed Music Discovery | Voltage Labs</a></p><p class="youtube-embed-meta">Channel: Voltage Labs &middot; Views: 19.5K &middot; Uploaded: August 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gvLs-uU9QN8">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-3-dark.svg" | relative_url }}" alt="Streaming illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Streaming Did Not Fully Replace
 
 Streaming is now central, but it has not erased older listening habits. Radio remains important for many listeners, especially for news, companionship, presenters, local identity and passive discovery. Physical formats retain value for collectors and fans who want ownership, artwork, better control over access, or a more deliberate listening ritual. Downloads still matter for some DJs, archivists, audiophiles and listeners who dislike subscription dependence.
@@ -586,9 +580,6 @@ The strongest change is therefore not a simple replacement story. It is a rebala
 That change has benefits. Music is easier to find, cheaper to sample, more portable, more global and more adaptable to daily life. It can help a listener move from a childhood favourite to a new artist in another country within seconds. It can also make obscure catalogues more reachable than they were in many local retail environments.
 
 The trade-offs are equally real. The listener owns less, depends more on platforms, may hear music in more fragmented forms, and may mistake algorithmic convenience for independent discovery. The album, the record shop, the radio presenter and the personal collection have not vanished, but they now coexist with an environment where the next song is often chosen by a system designed to keep listening going.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## The Everyday Habit Streaming Left Behind
 
@@ -715,15 +706,15 @@ Streaming changed everyday listening because it moved music from the shelf to th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Watercolour Album Art T-Shirt, Indie Rock Rem Music Fan, Retro Circles"><img src="{{ '/assets/images/marketplace-covers/748847328836ff3f9a56.jpg' | relative_url }}" alt="Listing image for Watercolour Album Art T-Shirt, Indie Rock Rem Music Fan, Retro Circles" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="https://i.ebayimg.com/images/g/338AAeSwcHFo0VBT/s-l225.jpg" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Watercolour Album Art T-Shirt, Indie Rock Rem Music Fan, Retro Circles</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -731,15 +722,15 @@ Streaming changed everyday listening because it moved music from the shelf to th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Damned Punk Rock Music T Shirt Sweatshirt Hoodie 348"><img src="{{ '/assets/images/marketplace-covers/905263811f35eb9c05ea.jpg' | relative_url }}" alt="Listing image for The Damned Punk Rock Music T Shirt Sweatshirt Hoodie 348" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc"><img src="https://i.ebayimg.com/images/g/13QAAeSwyD1oiNNl/s-l225.jpg" alt="Listing image for My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Damned Punk Rock Music T Shirt Sweatshirt Hoodie 348</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -747,15 +738,15 @@ Streaming changed everyday listening because it moved music from the shelf to th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UB40 40th Anniversary T-Shirt - Vintage Music Lover Band Gift Tee Top"><img src="{{ '/assets/images/marketplace-covers/9151cd7b65b067d3cc38.jpg' | relative_url }}" alt="Listing image for UB40 40th Anniversary T-Shirt - Vintage Music Lover Band Gift Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spotify Print"><img src="https://i.ebayimg.com/images/g/IYoAAOSwFRdg2vVx/s-l225.jpg" alt="Listing image for Spotify Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UB40 40th Anniversary T-Shirt - Vintage Music Lover Band Gift Tee Top</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Spotify Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -763,15 +754,15 @@ Streaming changed everyday listening because it moved music from the shelf to th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for It Must Be Love Ska Music T Shirt - 2 Tone Madness The Specials Selecter"><img src="{{ '/assets/images/marketplace-covers/143c59b8c0bee2268b32.jpg' | relative_url }}" alt="Listing image for It Must Be Love Ska Music T Shirt - 2 Tone Madness The Specials Selecter" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-9EAAeSwko9p1T1-/s-l225.jpg" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">It Must Be Love Ska Music T Shirt - 2 Tone Madness The Specials Selecter</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -779,7 +770,7 @@ Streaming changed everyday listening because it moved music from the shelf to th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaming-how-streaming-changed-listening-habits-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="streaming-how-streaming-changed-listening-habits-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -994,250 +985,250 @@ Streaming changed everyday listening because it moved music from the shelf to th
 
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</p></details>
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</p></details>
    Published: March 18, 2026  
 
 2. <a id="endnote-2"></a>
    Source: riaa.com  
    Title: Reports: US Recorded Music Annual Revenue  
-   Link: [https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/](https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership](https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateExploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</p></details>
    Published: October 1, 2016  
 
 4. <a id="endnote-4"></a>
    Source: ofcom.org.uk  
    Title: audio report 2026  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128</a>  
 
 5. <a id="endnote-5"></a>
    Source: newsroom.spotify.com  
    Title: The Simple Truth About How Your Wrapped Comes to Life  
-   Link: [https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/](https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/</a>  
 
 6. <a id="endnote-6"></a>
    Source: newsroom.spotify.com  
    Title: new feature listening stats  
-   Link: [https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/](https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/)  
+   Link: <a href="https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/</a>  
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: The impact of recommendation algorithms on the UK's  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results</a>  
 
 8. <a id="endnote-8"></a>
    Source: journals.library.columbia.edu  
-   Link: [https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048](https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048)  
+   Link: <a href="https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048" target="_blank" rel="noopener noreferrer nofollow">https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048</a>  
 
 9. <a id="endnote-9"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/](https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/)  
+   Link: <a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
 
 10. <a id="endnote-10"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf](https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: riaa.com  
    Title: 2025 mid year music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/</a>  
 
 14. <a id="endnote-14"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/](https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/)  
+   Link: <a href="https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/</a>  
 
 15. <a id="endnote-15"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/](https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
 
 16. <a id="endnote-16"></a>
    Source: riaa.com  
    Title: RIAA US Latin Mid Year Revenue 2025  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf](https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: newsroom.spotify.com  
    Title: 2025 wrapped user experience  
-   Link: [https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/](https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/</a>  
 
 18. <a id="endnote-18"></a>
    Source: newsroom.spotify.com  
    Title: the art and science behind spotify wrapped  
-   Link: [https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/](https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/)  
+   Link: <a href="https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/</a>  
 
 19. <a id="endnote-19"></a>
    Source: newsroom.spotify.com  
    Title: loud and clear music economics highlights  
-   Link: [https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/](https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/)  
+   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
 
 20. <a id="endnote-20"></a>
    Source: artists.spotify.com  
    Title: what were building for artists in 2026  
-   Link: [https://artists.spotify.com/blog/what-were-building-for-artists-in-2026](https://artists.spotify.com/blog/what-were-building-for-artists-in-2026)  
+   Link: <a href="https://artists.spotify.com/blog/what-were-building-for-artists-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/what-were-building-for-artists-in-2026</a>  
 
 21. <a id="endnote-21"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/home](https://artists.spotify.com/en/home)  
+   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
 
 22. <a id="endnote-22"></a>
    Source: newsroom.spotify.com  
    Title: wrapped methodology explained  
-   Link: [https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/](https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/</a>  
 
 23. <a id="endnote-23"></a>
    Source: ofcom.org.uk  
    Title: top trends from our latest audio listening research  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research](https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research</a>  
 
 24. <a id="endnote-24"></a>
    Source: ofcom.org.uk  
    Title: audio report 2025  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: ofcom.org.uk  
    Title: Audio listening in the UK  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: [https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify](https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify)  
+   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
    Title: 403343293 The Platformization of Music  
-   Link: [https://www.researchgate.net/publication/403343293_The_Platformization_of_Music](https://www.researchgate.net/publication/403343293_The_Platformization_of_Music)  
+   Link: <a href="https://www.researchgate.net/publication/403343293_The_Platformization_of_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403343293_The_Platformization_of_Music</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming](https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming)  
+   Link: <a href="https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gvLs-uU9QN8](https://www.youtube.com/watch?v=gvLs-uU9QN8)  
+   Link: <a href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gvLs-uU9QN8</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=b-zr4041sBM](https://www.youtube.com/watch?v=b-zr4041sBM)  
+   Link: <a href="https://www.youtube.com/watch?v=b-zr4041sBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b-zr4041sBM</a>  
 
 31. <a id="endnote-31"></a>
    Source: GOV.UK  
    Title: the impact of recommendation algorithms on the uks music industry  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: How Streaming Platforms Changed the Music Industry  
-   Link: [https://www.youtube.com/watch?v=N4tP83R_h4Q](https://www.youtube.com/watch?v=N4tP83R_h4Q)  
+   Link: <a href="https://www.youtube.com/watch?v=N4tP83R_h4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4tP83R_h4Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Algorithm Shapes What We Listen To...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FjC5Jc6N5Fw](https://www.youtube.com/watch?v=FjC5Jc6N5Fw)  
+   Link: <a href="https://www.youtube.com/watch?v=FjC5Jc6N5Fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjC5Jc6N5Fw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Music Ownership is Dying...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Why Music Ownership is Dying  
-   Link: [https://www.youtube.com/watch?v=J9cTq3_g70Q](https://www.youtube.com/watch?v=J9cTq3_g70Q)  
+   Link: <a href="https://www.youtube.com/watch?v=J9cTq3_g70Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J9cTq3_g70Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Streaming Changed How We Discover Music...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: How Streaming Changed How We Discover Music  
-   Link: [https://www.youtube.com/watch?v=c5wS-t14_80](https://www.youtube.com/watch?v=c5wS-t14_80)  
+   Link: <a href="https://www.youtube.com/watch?v=c5wS-t14_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c5wS-t14_80</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaming and Algorithmic Curation...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Psychology of Streaming and Algorithmic Curation  
-   Link: [https://www.youtube.com/watch?v=P_w4vY-o8P0](https://www.youtube.com/watch?v=P_w4vY-o8P0)  
+   Link: <a href="https://www.youtube.com/watch?v=P_w4vY-o8P0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_w4vY-o8P0</a>  
 
 37. <a id="endnote-37"></a>
    Source: ajqr.org  
-   Link: [https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556](https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556)  
+   Link: <a href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research Music discovery is not dead, just evolving – the industry  
-   Link: [https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it](https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it)  
+   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
 
 39. <a id="endnote-39"></a>
    Source: firstmonday.org  
    Title: First Monday Don't mess with my algorithm: Exploring the relationship  
-   Link: [https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150](https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150)  
+   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150</a>  
 
 40. <a id="endnote-40"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20539517251338742](https://journals.sagepub.com/doi/10.1177/20539517251338742)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517251338742</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/](https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/)  
+   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/](https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/)  
+   Link: <a href="https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/</a>  
 
 43. <a id="endnote-43"></a>
    Source: techcrunch.com  
-   Link: [https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/](https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/)  
+   Link: <a href="https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWQ5mfDlDER/](https://www.instagram.com/p/DWQ5mfDlDER/)  
+   Link: <a href="https://www.instagram.com/p/DWQ5mfDlDER/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWQ5mfDlDER/</a>  
 
 45. <a id="endnote-45"></a>
    Source: medium.com  
-   Link: [https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600](https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600)  
+   Link: <a href="https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600</a>  
 
 46. <a id="endnote-46"></a>
    Source: vi.be  
-   Link: [https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf](https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf)  
+   Link: <a href="https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/](https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/)  
+   Link: <a href="https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/</a>  
 
 48. <a id="endnote-48"></a>
    Source: diarydirectory.com  
-   Link: [https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553](https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553)  
+   Link: <a href="https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553" target="_blank" rel="noopener noreferrer nofollow">https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553</a>  
 
 49. <a id="endnote-49"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/36325338/Streaming_the_Everyday_Life](https://www.academia.edu/36325338/Streaming_the_Everyday_Life)  
+   Link: <a href="https://www.academia.edu/36325338/Streaming_the_Everyday_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36325338/Streaming_the_Everyday_Life</a>  
 
 50. <a id="endnote-50"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/](https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/</a>  
 
 51. <a id="endnote-51"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf](https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: revistas.ucm.es  
-   Link: [https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481](https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481)  
+   Link: <a href="https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481" target="_blank" rel="noopener noreferrer nofollow">https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481</a>  
 
 53. <a id="endnote-53"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk](https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk)  
+   Link: <a href="https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk</a>

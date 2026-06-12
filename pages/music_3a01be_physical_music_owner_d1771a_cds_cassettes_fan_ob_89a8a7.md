@@ -9,23 +9,23 @@ sibling_basenames:
 - music_3a01be_physical_music_owner_d1771a_kpop_photo_cards_fa4b4f
 - music_3a01be_physical_music_owner_d1771a_signed_music_ownersh_907c76
 tags:
-- music
+- music-3-a01-be
 - physical
 keywords:
-- music
+- music-3-a01-be
 - physical
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: CDs and cassettes often offer cheaper, smaller and more portable forms of ownership than vinyl or deluxe sets.
 hero_summary: CDs and cassettes often offer cheaper, smaller and more portable forms of ownership than vinyl or deluxe sets.
 layout: default
 permalink: /cds-tapes/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /physical/
 nav_short_title: CDs & Tapes
 title: Why CDs And Cassettes Still Matter
-title_full: Why CDs And Cassettes Still Matter | Physical
+title_full: Why CDs And Cassettes Still Matter
 display_title_short: CDs & Tapes
 display_title: CDs & Tapes
 heading_title: Why CDs And Cassettes Still Matter
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Fans Still Want Music Objects | Music
+parent_title: Why Fans Still Want Music Objects
 parent_permalink: /physical/
 parent_nav_short_title: Physical
 parent_heading_title: Why Fans Still Want Music Objects
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
@@ -247,7 +247,7 @@ sibling_links:
   heading_title: Why Signed Albums Feel More Personal
 up_link:
   basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
@@ -263,7 +263,7 @@ next_link:
   permalink: /fan-pressure/
   short_title: Fan Pressure
   heading_title: When Collecting Starts To Feel Like Pressure
-date: '2026-06-09 07:41:24 '
+date: '2026-06-11 23:51:54 '
 header:
   og_image: /assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-1.webp
@@ -274,20 +274,18 @@ image: /assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan
 
 [Physical]({{ 'physical/' | relative_url }}) music [ownership]({{ 'ownership/' | relative_url }}) is often associated with expensive vinyl records and elaborate collector’s editions, but many fans build their strongest sense of ownership through far cheaper formats. CDs and cassettes have long offered a practical middle ground: they are affordable, easy to store, portable, and often available at prices that younger listeners can realistically afford. In an era dominated by streaming, these smaller formats continue to give fans something tangible to collect without requiring the cost, space, or equipment associated with larger physical releases.
 
-
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-1-dark.svg" | relative_url }}" alt="CDs &amp; Tapes illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-While vinyl has become the prestige format of modern [music]({{ 'music/' | relative_url }}) fandom, CDs and cassettes remain important because they lower the barrier to participation. They allow fans to own an album, support an artist, display their taste, and build a collection one inexpensive purchase at a time. Even as streaming accounts for the overwhelming majority of industry revenue, physical [formats]({{ 'formats/' | relative_url }}) retain cultural value because they transform listening into possession. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAARIAA 2024 Year-End Revenue ReportMarch 17, 2025 — STREAMING. Streaming continued to account for the vast majority of recorded music r...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span>
+While [vinyl]({{ 'vinyl/' | relative_url }}) has become the prestige format of modern music fandom, CDs and cassettes remain important because they lower the barrier to participation. They allow fans to own an album, support an artist, display their taste, and build a collection one inexpensive purchase at a time. Even as streaming accounts for the overwhelming majority of industry revenue, physical [formats]({{ 'formats/' | relative_url }}) retain cultural value because they transform listening into possession. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year-End Revenue ReportMarch 17, 2025 — STREAMING. Streaming continued to account for the vast majority of recorded music r...</span><span class="citation-popover-meta">Published: March 17, 2025</span></span></span>
 
 ## Affordability and Access for Younger Fans
 
-One reason CDs and cassettes remain relevant is simple economics. New [vinyl]({{ 'vinyl/' | relative_url }}) releases frequently cost several times more than a standard CD and considerably more than a cassette. For teenagers, students, and newer fans, the difference can determine whether ownership feels accessible at all.
+One reason CDs and cassettes remain relevant is simple economics. New vinyl releases frequently cost several times more than a standard CD and considerably more than a cassette. For teenagers, students, and newer fans, the difference can determine whether ownership feels accessible at all.
 
-Historically, CDs occupied a unique position in music culture because they combined durability, relatively low manufacturing costs, and mass availability. Even today, second-hand CDs can often be purchased for only a few pounds or dollars, allowing fans to assemble large collections without significant expense. This affordability makes experimentation easier. A listener can take a chance on an unfamiliar artist or complete a favourite band's catalogue without making a major financial commitment.
+Historically, CDs occupied a unique position in music culture because they combined durability, relatively low manufacturing costs, and mass availability. Even today, second-hand CDs can often be purchased for only a few pounds or dollars, allowing fans to assemble large collections without significant expense. This affordability makes experimentation easier. A listener can take a chance on an unfamiliar artist or complete a favourite band's [catalogue]({{ 'catalogue/' | relative_url }}) without making a major financial commitment.
 
 The cassette revival has followed a similar logic. Although nostalgia plays a role, many modern cassette releases are marketed as lower-cost alternatives to vinyl. Independent artists frequently sell tapes at concerts because they are inexpensive to manufacture in small quantities and can be offered at fan-friendly prices. The result is a format that functions less as a luxury item and more as an accessible souvenir of support. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehustle.co/news/young-listeners-are-pressing-play-on-cassette-tapes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehustle.co">[The Hustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehustle.co</span><span class="citation-popover-snippet">The HustleYoung listeners are pressing play on cassette tapes - The HustleThe humble cassette tape is having a resurgence driven by Gen Z...</span></span></span>
 
 This affordability matters because ownership often begins with small purchases. A first CD bought with pocket money or a cassette picked up at a local gig can become the foundation of a much larger relationship with an artist.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9FyF6WAaILU" title="The shocking rise of cassette tapes?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9FyF6WAaILU" target="_blank" rel="noopener noreferrer">The shocking rise of cassette tapes?</a></p><p class="youtube-embed-meta">Channel: Channel 33 RPM &middot; Views: 12.2K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9FyF6WAaILU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9FyF6WAaILU">Open on YouTube</a></p></div></div></div>
 
@@ -301,14 +299,12 @@ Physical ownership is not only about playback. Many fans rarely play the discs o
 
 Because these formats are small, they also lend themselves to visible but manageable displays. Shelves of CDs, cassette racks, and stacked jewel cases create a personal archive that signals taste and commitment. The collection becomes part of a room's character and, by extension, part of the collector's identity.
 
-
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-2-dark.svg" | relative_url }}" alt="CDs &amp; Tapes illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Appeal of Nostalgia Across Generations
 
 Cassettes occupy a particularly unusual cultural position. Older listeners may remember them as everyday listening tools, while younger listeners encounter them as retro artefacts. Recent reporting has linked cassette demand to Gen Z consumers who grew up in the streaming era and view analogue media as novel, collectible, and more personal than an app-based library. Sales remain tiny compared with their historical peak, but they have risen dramatically from the near-extinction levels of the mid-2010s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehustle.co/news/young-listeners-are-pressing-play-on-cassette-tapes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehustle.co">[The Hustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehustle.co</span><span class="citation-popover-snippet">The HustleYoung listeners are pressing play on cassette tapes - The HustleThe humble cassette tape is having a resurgence driven by Gen Z...</span></span></span>
 
 CDs have experienced a similar, though less dramatic, reappraisal. Some younger collectors are attracted by their affordability, durability, and freedom from subscription platforms. The format offers a way to own music physically without paying vinyl prices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/business/2025/12/14/dvd-cd-revival-sales/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">dvd cd revival sales</span><span class="citation-popover-snippet">Although streaming dominates digital consumption, physical disc sales are stabilizing and even increasing in certain niches. Platforms li...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a9EHtcQmZ3s" title="Which Physical Music Format Is Actually Worth Buying in 2026?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a9EHtcQmZ3s" target="_blank" rel="noopener noreferrer">Which Physical Music Format Is Actually Worth Buying in 2026?</a></p><p class="youtube-embed-meta">Channel: HiFi Brothers &middot; Views: 11.8K &middot; Uploaded: April 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a9EHtcQmZ3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a9EHtcQmZ3s">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +315,6 @@ The collecting experience of CDs and cassettes differs from that of premium form
 A fan who can only afford one vinyl album may be able to buy several CDs or tapes for the same amount. That difference changes the psychology of collecting. Ownership becomes less about acquiring a showcase item and more about building a personal catalogue. Over time, shelves fill with albums connected to different life stages, discoveries, concerts, and friendships.
 
 Several factors make these formats especially effective collection builders:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,19 +328,17 @@ Several factors make these formats especially effective collection builders:
 
 This accumulation creates a sense of investment that streaming libraries rarely reproduce. A streaming account may contain thousands of albums, but a shelf of CDs or cassettes reflects deliberate choices made over years.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iK6AHrZV9bo" title="Physical Music Sales Rise in 2024 as the CD Joins The Vinyl Revival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iK6AHrZV9bo" target="_blank" rel="noopener noreferrer">Physical Music Sales Rise in 2024 as the CD Joins The Vinyl Revival</a></p><p class="youtube-embed-meta">Channel: Now Spinning Magazine &middot; Views: 3.6K &middot; Uploaded: July 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iK6AHrZV9bo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iK6AHrZV9bo">Open on YouTube</a></p></div></div></div>
 
 ## Why CDs and Cassettes Occupy a Different Space Than Vinyl
 
-The modern physical music market often focuses on vinyl as a premium collectible. Industry revenue figures show vinyl generating far more income than CDs or cassettes, and its growth has become one of the defining stories of physical music's revival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">2024 year end music industry revenue report riaa</span><span class="citation-popover-snippet">RIAA100 Million Paid Subscriptions Milestone Drives US...18 Mar 2025 — RIAA 2024 Year-End Revenue Report Illustrates New Growth at $17.7...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">2024 year end music industry revenue report riaa</span><span class="citation-popover-snippet">2024 Year-End Music Industry Revenue ReportPaid streaming hit 100 million subscriptions for the first time in history, increasing total r...</span></span></span>
+The modern physical music market often focuses on vinyl as a premium collectible. Industry revenue figures show vinyl generating far more income than CDs or cassettes, and its growth has become one of the defining stories of physical music's revival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">2024 year end music industry revenue report riaa</span><span class="citation-popover-snippet">100 Million Paid Subscriptions Milestone Drives US...18 Mar 2025 — RIAA 2024 Year-End Revenue Report Illustrates New Growth at $17.7...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">2024 year end music industry revenue report riaa</span><span class="citation-popover-snippet">2024 Year-End Music Industry Revenue ReportPaid streaming hit 100 million subscriptions for the first time in history, increasing total r...</span></span></span>
 
 Yet the role of CDs and cassettes is different. Their value lies less in prestige and more in accessibility. They allow participation in physical music culture without requiring large budgets, specialised furniture, or expensive playback equipment.
 
-Some collectors even argue that modern cassettes function primarily as merchandise rather than listening formats, highlighting how ownership and fan connection can become more important than practical playback. Whether viewed as media formats or fan artefacts, their significance comes from the same place: they provide a tangible object that represents a relationship with music. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/cassette/comments/1n60wru/cassettes_are_making_a_comeback_how_do_you_feel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditCassettes Are Making a Comeback — How Do You Feel...They&#x27;re not making a comeback. They&#x27;re merch. You can&#x27;t buy them off the shelf...</span></span></span>
+Some collectors even argue that modern cassettes function primarily as merchandise rather than listening formats, highlighting how ownership and fan connection can become more important than practical playback. Whether viewed as media formats or fan artefacts, their significance comes from the same place: they provide a tangible object that represents a relationship with music. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/cassette/comments/1n60wru/cassettes_are_making_a_comeback_how_do_you_feel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Cassettes Are Making a Comeback — How Do You Feel...They&#x27;re not making a comeback. They&#x27;re merch. You can&#x27;t buy them off the shelf...</span></span></span>
 
 For many listeners, that relationship begins not with a deluxe box set or a £40 vinyl pressing, but with a modest CD or cassette that makes an album feel truly theirs.
-
 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-3-dark.svg" | relative_url }}" alt="CDs &amp; Tapes illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -746,151 +739,151 @@ For many listeners, that relationship begins not with a deluxe box set or a £40
 1. <a id="endnote-1"></a>
    Source: riaa.com  
    Title: RIAA 2024Year End Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARIAA 2024 Year-End Revenue ReportMarch 17, 2025 — STREAMING. Streaming continued to account for the vast majority of recorded music r...</p></details>
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA 2024 Year-End Revenue ReportMarch 17, 2025 — STREAMING. Streaming continued to account for the vast majority of recorded music r...</p></details>
    Published: March 17, 2025  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FRANCE24.English/posts/after-vinyl-its-now-cassettes-turn-to-make-a-big-comeback-cheaper-than-vinyl-but/1158254119807296/](https://www.facebook.com/FRANCE24.English/posts/after-vinyl-its-now-cassettes-turn-to-make-a-big-comeback-cheaper-than-vinyl-but/1158254119807296/)  
+   Link: <a href="https://www.facebook.com/FRANCE24.English/posts/after-vinyl-its-now-cassettes-turn-to-make-a-big-comeback-cheaper-than-vinyl-but/1158254119807296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FRANCE24.English/posts/after-vinyl-its-now-cassettes-turn-to-make-a-big-comeback-cheaper-than-vinyl-but/1158254119807296/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The nostalgia factor is one reason people are re- discovering cassettes, another is the appeal...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA100 Million Paid Subscriptions Milestone Drives US...18 Mar 2025 — RIAA 2024 Year-End Revenue Report Illustrates New Growth at $17.7...</p></details>
+   Link: <a href="https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>100 Million Paid Subscriptions Milestone Drives US...18 Mar 2025 — RIAA 2024 Year-End Revenue Report Illustrates New Growth at $17.7...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Year-End Music Industry Revenue ReportPaid streaming hit 100 million subscriptions for the first time in history, increasing total r...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/cassette/comments/1n60wru/cassettes_are_making_a_comeback_how_do_you_feel/](https://www.reddit.com/r/cassette/comments/1n60wru/cassettes_are_making_a_comeback_how_do_you_feel/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCassettes Are Making a Comeback — How Do You Feel...They&#x27;re not making a comeback. They&#x27;re [merch](&amp;#123;&amp;#123; &#x27;merch/&#x27; | relative_url &amp;#125;&amp;#125;). You can&#x27;t buy them off the shelf...</p></details>
+   Link: <a href="https://www.reddit.com/r/cassette/comments/1n60wru/cassettes_are_making_a_comeback_how_do_you_feel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cassette/comments/1n60wru/cassettes_are_making_a_comeback_how_do_you_feel/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cassettes Are Making a Comeback — How Do You Feel...They&#x27;re not making a comeback. They&#x27;re [merch](&amp;#123;&amp;#123; &#x27;merch/&#x27; | relative_url &amp;#125;&amp;#125;). You can&#x27;t buy them off the shelf...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/u-s-sales-database/](https://www.riaa.com/u-s-sales-database/)  
+   Link: <a href="https://www.riaa.com/u-s-sales-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/u-s-sales-database/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Music Revenue DatabaseExplore how the US recorded music industry has evolved over the past five decades. Each year provides a snapshot...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/](https://www.riaa.com/reports/)  
+   Link: <a href="https://www.riaa.com/reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/</a>  
 
 8. <a id="endnote-8"></a>
    Source: riaa.com  
    Title: RIAA 2024 Year End US Market Latin Music Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>formats are up 35% compared to 2022 levels but still make up less than 1% o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/](https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Reports: US Recorded Music Annual Revenue...16 Mar 2026 — US recorded music hit record high at $11.5B; [Streaming revenues](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;) grew to $...</p></details>
+   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Reports: US Recorded Music Annual Revenue...16 Mar 2026 — US recorded music hit record high at $11.5B; Streaming revenues grew to $...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/](https://www.riaa.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA: HomeThe Recording Industry Association of America® advocates for recorded music and the people and companies that create it in the...</p></details>
+   Link: <a href="https://www.riaa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeThe [Recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;) Industry Association of America® advocates for recorded music and the people and companies that create it in the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Fox32Chicago/posts/the-cd-is-back-why-a-new-generation-is-pressing-play-on-physical-music-story-bit/1327869866052877/](https://www.facebook.com/Fox32Chicago/posts/the-cd-is-back-why-a-new-generation-is-pressing-play-on-physical-music-story-bit/1327869866052877/)  
+   Link: <a href="https://www.facebook.com/Fox32Chicago/posts/the-cd-is-back-why-a-new-generation-is-pressing-play-on-physical-music-story-bit/1327869866052877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/the-cd-is-back-why-a-new-generation-is-pressing-play-on-physical-music-story-bit/1327869866052877/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CD is back: Why a new generation is pressing play on...Physical music sales – primarily vinyl records, but CDs, too, and even casset...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/www.shesaid.so/posts/audiences-raised-on-streaming-are-actively-buying-vinyl-and-cds-againvinyl-sales/1341022941399577/](https://www.facebook.com/www.shesaid.so/posts/audiences-raised-on-streaming-are-actively-buying-vinyl-and-cds-againvinyl-sales/1341022941399577/)  
+   Link: <a href="https://www.facebook.com/www.shesaid.so/posts/audiences-raised-on-streaming-are-actively-buying-vinyl-and-cds-againvinyl-sales/1341022941399577/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/www.shesaid.so/posts/audiences-raised-on-streaming-are-actively-buying-vinyl-and-cds-againvinyl-sales/1341022941399577/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Listening remains digital. But ownership, collectability, and album culture are re- entering...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: sales of cassettes surged to a 20 year high in 2025 and robbie williams central  
-   Link: [https://www.facebook.com/OfficialCharts/posts/sales-of-cassettes-surged-to-a-20-year-high-in-2025-and-robbie-williams-central-/1285137790313951/](https://www.facebook.com/OfficialCharts/posts/sales-of-cassettes-surged-to-a-20-year-high-in-2025-and-robbie-williams-central-/1285137790313951/)  
+   Link: <a href="https://www.facebook.com/OfficialCharts/posts/sales-of-cassettes-surged-to-a-20-year-high-in-2025-and-robbie-williams-central-/1285137790313951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialCharts/posts/sales-of-cassettes-surged-to-a-20-year-high-in-2025-and-robbie-williams-central-/1285137790313951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sales of cassettes surged to a 20-year high in 2025, and...According to the end-of-year report by music industry body the BPI, cassette...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/478613695592616/posts/9405095416277688/](https://www.facebook.com/groups/478613695592616/posts/9405095416277688/)  
+   Link: <a href="https://www.facebook.com/groups/478613695592616/posts/9405095416277688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/478613695592616/posts/9405095416277688/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA 2024 Year-End Report: Music Streaming and Vinyl...The RIAA (Recording Industry Association of America) 2024 year-end report has bee...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/discmakers/videos/physical-media-is-now-growing-3-times-as-fast-as-streaming/1182966363335739/](https://www.facebook.com/discmakers/videos/physical-media-is-now-growing-3-times-as-fast-as-streaming/1182966363335739/)  
+   Link: <a href="https://www.facebook.com/discmakers/videos/physical-media-is-now-growing-3-times-as-fast-as-streaming/1182966363335739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/discmakers/videos/physical-media-is-now-growing-3-times-as-fast-as-streaming/1182966363335739/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f the year to almost $994 million. That growth is more than three...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/1px4e0n/will_music_on_any_physical_media_ever_regain_its/](https://www.reddit.com/r/LetsTalkMusic/comments/1px4e0n/will_music_on_any_physical_media_ever_regain_its/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/1px4e0n/will_music_on_any_physical_media_ever_regain_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/1px4e0n/will_music_on_any_physical_media_ever_regain_its/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking at where things are going with social media and streaming services, I somehow feel like in 10-15...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thehustle.co  
-   Link: [https://thehustle.co/news/young-listeners-are-pressing-play-on-cassette-tapes](https://thehustle.co/news/young-listeners-are-pressing-play-on-cassette-tapes)  
+   Link: <a href="https://thehustle.co/news/young-listeners-are-pressing-play-on-cassette-tapes" target="_blank" rel="noopener noreferrer nofollow">https://thehustle.co/news/young-listeners-are-pressing-play-on-cassette-tapes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The HustleYoung listeners are pressing play on cassette tapes - The HustleThe humble cassette tape is having a resurgence driven by Gen Z...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: washingtonpost.com  
    Title: dvd cd revival sales  
-   Link: [https://www.washingtonpost.com/business/2025/12/14/dvd-cd-revival-sales/](https://www.washingtonpost.com/business/2025/12/14/dvd-cd-revival-sales/)  
+   Link: <a href="https://www.washingtonpost.com/business/2025/12/14/dvd-cd-revival-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/business/2025/12/14/dvd-cd-revival-sales/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although streaming dominates digital consumption, physical disc sales are stabilizing and even increasing in certain niches. Platforms li...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/claytondurant_the-recording-industry-association-of-america-activity-7307825978414673921-NcZz](https://www.linkedin.com/posts/claytondurant_the-recording-industry-association-of-america-activity-7307825978414673921-NcZz)  
+   Link: <a href="https://www.linkedin.com/posts/claytondurant_the-recording-industry-association-of-america-activity-7307825978414673921-NcZz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claytondurant_the-recording-industry-association-of-america-activity-7307825978414673921-NcZz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming dominates music revenue, vinyl sales grow84% of all recorded music revenues in 2024 came from paid subscriptions, ad-supported...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/](https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</p></details>
+   Link: <a href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: solid-merch.com  
-   Link: [https://www.solid-merch.com/the-silver-disc-strikes-back-why-cds-are-making-a-comeback/](https://www.solid-merch.com/the-silver-disc-strikes-back-why-cds-are-making-a-comeback/)  
+   Link: <a href="https://www.solid-merch.com/the-silver-disc-strikes-back-why-cds-are-making-a-comeback/" target="_blank" rel="noopener noreferrer nofollow">https://www.solid-merch.com/the-silver-disc-strikes-back-why-cds-are-making-a-comeback/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>saw a significant uptick in 2021. According to the Recording Industry Association of America (RIAA)...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sae.edu  
    Title: the return of vinyl analysing the resurgence of physical music formats  
-   Link: [https://www.sae.edu/gbr/insights/the-return-of-vinyl-analysing-the-resurgence-of-physical-music-formats/](https://www.sae.edu/gbr/insights/the-return-of-vinyl-analysing-the-resurgence-of-physical-music-formats/)  
+   Link: <a href="https://www.sae.edu/gbr/insights/the-return-of-vinyl-analysing-the-resurgence-of-physical-music-formats/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/the-return-of-vinyl-analysing-the-resurgence-of-physical-music-formats/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Return of Vinyl and Physical Music | Insights25 Oct 2023 — According to the Entertainment Retailers Association, vinyl album sales grew 1...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: makingvinyl.com  
-   Link: [https://makingvinyl.com/revenues-from-physical-music-formats-continue-to-grow/](https://makingvinyl.com/revenues-from-physical-music-formats-continue-to-grow/)  
+   Link: <a href="https://makingvinyl.com/revenues-from-physical-music-formats-continue-to-grow/" target="_blank" rel="noopener noreferrer nofollow">https://makingvinyl.com/revenues-from-physical-music-formats-continue-to-grow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenues from Physical Music Formats Continue to GrowVinyl records drove this growth, with revenues increasing by 17% to $1.2 billion...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reprtoir.com  
-   Link: [https://www.reprtoir.com/blog/physical-music-sales-comeback-2026](https://www.reprtoir.com/blog/physical-music-sales-comeback-2026)  
+   Link: <a href="https://www.reprtoir.com/blog/physical-music-sales-comeback-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.reprtoir.com/blog/physical-music-sales-comeback-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Physical Music Sales Making a Comeback in 2026?19 Jan 2026 — Physical music sales are returning, but not in their previous form...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om121917/streaming-and-physical-gains-boost-us-recorded-music-retail-sales-to-eighth-consecutive-year-of-growth](https://omdia.tech.informa.com/om121917/streaming-and-physical-gains-boost-us-recorded-music-retail-sales-to-eighth-consecutive-year-of-growth)  
+   Link: <a href="https://omdia.tech.informa.com/om121917/streaming-and-physical-gains-boost-us-recorded-music-retail-sales-to-eighth-consecutive-year-of-growth" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om121917/streaming-and-physical-gains-boost-us-recorded-music-retail-sales-to-eighth-consecutive-year-of-growth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and physical gains boost US recorded-music retail...3 Apr 2024 — Vinyl sales were up 10.3% (.2%), to $1.35bn from $1.22bn in 2022 (see F...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: stereonet.com  
    Title: 618130 physical media sales on the decline  
-   Link: [https://www.stereonet.com/forums/topic/618130-physical-media-sales-on-the-decline/](https://www.stereonet.com/forums/topic/618130-physical-media-sales-on-the-decline/)  
+   Link: <a href="https://www.stereonet.com/forums/topic/618130-physical-media-sales-on-the-decline/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereonet.com/forums/topic/618130-physical-media-sales-on-the-decline/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Media sales on the decline15 Oct 2024 — Part of me wonders if people are also sick of renting music via Streaming and seeking ph...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dynamoi.com  
    Title: vinyl and physical sales statistics  
-   Link: [https://dynamoi.com/learn/music-distribution/vinyl-and-physical-sales-statistics](https://dynamoi.com/learn/music-distribution/vinyl-and-physical-sales-statistics)  
+   Link: <a href="https://dynamoi.com/learn/music-distribution/vinyl-and-physical-sales-statistics" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/music-distribution/vinyl-and-physical-sales-statistics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl Sales Statistics [2024]26 Apr 2026 — US vinyl revenue grew from $619.6 million in 2020 to approximately $1.4 billion in 2024, but R...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
    Title: vinyl record sales us taylor swift  
-   Link: [https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift](https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift)  
+   Link: <a href="https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks the 19th consecutive year of growth for vinyl, which significantly outperformed CDs and cassettes in revenue. Much of this res...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870
 - music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f
 tags:
-- music
+- music-3-a01-be
 - lyrics
 - identification
 keywords:
-- music
+- music-3-a01-be
 - lyrics
 - identification
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Song stories give listeners words for their own losses, longings, memories, and turning points.
 hero_summary: Song stories give listeners words for their own losses, longings, memories, and turning points.
 layout: default
 permalink: /identification/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /lyrics/
 nav_short_title: Identification
 title: Why Some Lyrics Feel Like Your Story
-title_full: Why Some Lyrics Feel Like Your Story | Lyrics
+title_full: Why Some Lyrics Feel Like Your Story
 display_title_short: Identification
 display_title: Identification
 heading_title: Why Some Lyrics Feel Like Your Story
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Lyrics Make Feelings Public | Music
+parent_title: How Lyrics Make Feelings Public
 parent_permalink: /lyrics/
 parent_nav_short_title: Lyrics
 parent_heading_title: How Lyrics Make Feelings Public
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sung Words Hit Harder Than Spoken Ones
 up_link:
   basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -265,7 +265,7 @@ next_link:
   permalink: /protest-lyrics/
   short_title: Protest Lyrics
   heading_title: When Lyrics Leave Songs and Become Slogans
-date: '2026-06-09 07:32:00 '
+date: '2026-06-11 23:46:57 '
 header:
   og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1.webp
@@ -276,23 +276,18 @@ image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_i
 
 Many listeners find themselves thinking, *“It’s like this song was written about me”* when a line in a verse or chorus mirrors a personal feeling or experience. This sense of recognition isn’t just poetic shorthand; it emerges from how [lyrics]({{ 'lyrics/' | relative_url }}) transform abstract emotion into words that map onto individual lives. Through linguistic meaning, narrative cues, and psychological mechanisms like empathy and [memory]({{ 'memory/' | relative_url }}), lyrics help people recognise aspects of themselves, their histories and their emotional worlds within a song—bridging the gap between private experience and shared language. Research shows that lyrics do more than accompany music: they give listeners a way to *see* their own feelings reflected back at them in language they can grasp and revisit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-dark.svg" | relative_url }}" alt="Identification illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Narrative Arcs Listeners Recognise
 
 One way lyrics help listeners recognise themselves is through *narrative structure*. Songs often follow emotional arcs—conflict, longing, resolution—that resemble the unfolding of real-life stories. When listeners hear a familiar arc in words, it can cue episodic memory and personal reflection. For example, psychological research into lyrical content highlights that lyrics can make emotions and personal problems more accessible for listeners who are dealing with similar issues. In other words, stories in lyrics provide *mental scripts* that mirror everyday emotional journeys and help listeners locate their own experiences within those arcs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
-Importantly, listeners do more than hear melodies; they process the **meaning** of lyrics even when they are familiar with a song, indicating that semantic understanding persists beyond initial exposure. A neurocognitive study using event‑related potentials found that people process the semantic content of lyrics continually, suggesting ongoing integration of lyrical meaning with personal relevance over repeated listens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOld songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dG8rvxEDgCU" title="Why Does Music Make You Emotional?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dG8rvxEDgCU" target="_blank" rel="noopener noreferrer">Why Does Music Make You Emotional?</a></p><p class="youtube-embed-meta">Channel: SciShow Psych</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dG8rvxEDgCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dG8rvxEDgCU">Open on YouTube</a></p></div></div></div>
+Importantly, listeners do more than hear melodies; they process the **meaning** of lyrics even when they are familiar with a song, indicating that semantic understanding persists beyond initial exposure. A neurocognitive study using event‑related potentials found that people process the semantic content of lyrics continually, suggesting ongoing integration of lyrical meaning with personal relevance over repeated listens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Old songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</span></span></span>
 
 ## Memory and Imagery in Lyric Listening
 
-Lyrics often function as *memory cues*. Language has a unique ability to trigger autobiographical memories because it connects with narrative structures stored in long‑term memory. Research into [music]({{ 'music/' | relative_url }}) and emotion shows that lyrics can *intensify* emotional responses and evoke memories more strongly than music alone, partly because words give distinct cues that map onto specific life events or feelings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
+Lyrics often function as *memory cues*. Language has a unique ability to trigger autobiographical memories because it connects with narrative structures stored in long‑term memory. Research into music and emotion shows that lyrics can *intensify* emotional responses and evoke memories more strongly than music alone, partly because words give distinct cues that map onto specific life events or feelings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
 The process isn’t merely about recalling a song; it’s about bringing memories and feelings to the surface. For some listeners, certain lines become tightly linked with personal milestones—break‑ups, first loves, losses or turning points—precisely because the words articulate what they were feeling at that moment. In a psychological context, this can serve both *identity exploration* and *narrative coherence*, as lyrics help listeners interpret and organise personal experience through tailored verbal imagery.
-
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-2-dark.svg" | relative_url }}" alt="Identification illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Personal Feeling Becomes Shareable
@@ -301,22 +296,14 @@ Lyrics do more than reflect private feelings—they enable listeners to *project
 
 Familiar or emotionally rich lyrics often feel *meaningful* because they resonate with common human themes—loss, love, resilience—which listeners can latch onto and interpret in the context of their own lives. In some studies, lyrics attached to familiar melodies are judged more meaningful than the same words spoken as poetry, indicating that the musical context enhances the personal salience of the text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
-This mechanism also helps explain why ambiguous or open‑ended lyrics often feel especially personal: by leaving space for interpretation, they invite listeners to fill in gaps with their own stories, making the song’s meaning uniquely theirs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtakes.com">[SongTakes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtakes.com</span><span class="citation-popover-title">Song Takes Why We Write Songs And How Listeners Decode Them | Song Takes</span><span class="citation-popover-snippet">SongTakesWhy We Write Songs And How Listeners Decode Them | SongTakesMay 16, 2026...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
+This mechanism also helps explain why ambiguous or open‑ended lyrics often feel especially personal: by leaving space for interpretation, they invite listeners to fill in gaps with their own stories, making the song’s meaning uniquely theirs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtakes.com">[SongTakes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtakes.com</span><span class="citation-popover-title">Song Takes Why We Write Songs And How Listeners Decode Them &#124; Song Takes</span><span class="citation-popover-snippet">Why We Write Songs And How Listeners Decode Them &#124; SongTakesMay 16, 2026...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6KooPpa5hCE" title="Rhythm of Perspective: How Music Shapes Identity and Culture | Shireen Chrungoo | TEDxYouth@TFIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6KooPpa5hCE" target="_blank" rel="noopener noreferrer">Rhythm of Perspective: How Music Shapes Identity and Culture | Shireen Chrungoo | TEDxYouth@TFIS</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6KooPpa5hCE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6KooPpa5hCE">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJBYylTf6-A" title="I Cry In Silence | Emotional Sad Song (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJBYylTf6-A" target="_blank" rel="noopener noreferrer">I Cry In Silence | Emotional Sad Song (Lyrics)</a></p><p class="youtube-embed-meta">Channel: 𝕌𝕟𝕜𝕟𝕠𝕨𝕟 𝕄𝕖𝕝𝕠𝕕𝕚𝕖𝕤</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJBYylTf6-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJBYylTf6-A">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-dark.svg" | relative_url }}" alt="Identification illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confidence and Limitations in Recognition
 
 It’s worth acknowledging that not all listeners experience lyrics in the same way. Some engage more with emotional tone and musical texture than with lexical meaning, and comprehension of language influences how much lyrics shape emotional interpretation. Listeners who do not process lyrics deeply may still respond to mood and sound, but those who *attend* to the words are more likely to recognise and internalise them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.05882" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">September 12, 2019...</span><span class="citation-popover-meta">Published: September 12, 2019</span></span></span>
 
 Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in which they see their own reflections, and maps that help them make sense of inner landscapes otherwise hard to articulate. Through narrative cues, memory triggers, empathic engagement and cultural sharing, lyrics help listeners find a sense of recognition that feels both deeply personal and broadly human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-dark.svg" | relative_url }}" alt="Identification illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -714,59 +701,59 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0911604415000068](https://www.sciencedirect.com/science/article/pii/S0911604415000068)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOld songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0911604415000068</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Old songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: songtakes.com  
    Title: Song Takes Why We Write Songs And How Listeners Decode Them | Song Takes  
-   Link: [https://songtakes.com/blog/why-write-songs-decoding-songs](https://songtakes.com/blog/why-write-songs-decoding-songs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SongTakesWhy We Write Songs And How Listeners Decode Them | SongTakesMay 16, 2026...</p></details>
+   Link: <a href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow">https://songtakes.com/blog/why-write-songs-decoding-songs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Write Songs And How Listeners Decode Them | SongTakesMay 16, 2026...</p></details>
    Published: May 16, 2026  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1909.05882](https://arxiv.org/abs/1909.05882)  
+   Link: <a href="https://arxiv.org/abs/1909.05882" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.05882</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 2019...</p></details>
    Published: September 12, 2019  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: The consumption of music as self-representation in social interaction  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1441358209000056](https://www.sciencedirect.com/science/article/pii/S1441358209000056)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1441358209000056" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1441358209000056</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectVolume 17, Issue 1, May 2009, Pages 16-26 THE CONSUMPTION OF MUSIC AS SELF-REPRESENTATION IN SOCIAL INTERACTION [https://doi...&quot;](https://doi...&quot;)...</p></details>
    Published: May 2009  
 
 5. <a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03057356251387705](https://journals.sagepub.com/doi/10.1177/03057356251387705)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356251387705</a>  
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03057356211013390](https://journals.sagepub.com/doi/10.1177/03057356211013390)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Songs for the Ego: Theorizing Musical Self-EnhancementJanuary 20, 2016...</p></details>
    Published: January 20, 2016  
 
 8. <a id="endnote-8"></a>
    Source: research.bond.edu.au  
-   Link: [https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics](https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics)  
+   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full](https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>usic-Listening-Induced Eudaimonia (UMMIE)November 28, 2025 — It is not implausible that a message component (a word, imagery) that is com...</p></details>
    Published: November 28, 2025  
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
    Title: Frontiers | Lyrics do matter: how “coping songs” relate to well-being goals  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID pandemic caseDecember 23, 2024 — THE ROLE OF LYRICS IN MOOD REGULATION The personal “meaning” of a song for an individual arise...</p></details>
    Published: December 23, 2024  
 
@@ -774,53 +761,53 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
 
 11. <a id="endnote-11"></a>
    Source: research.ed.ac.uk  
-   Link: [https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/](https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/)  
+   Link: <a href="https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the self through songwriting: An analysis of songs composed by people with acquired neurodisability in an inpatient rehabilitation progra...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSongs for the Ego: Theorizing Musical Self-Enhancement  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for the Ego: Theorizing Musical Self-Enhancement - PMCJanuary 20, 2016 — EMPATHY AND MUSICAL SUBJECTIVITY: EGO PROJECTION A very intuitiv...</p></details>
    Published: January 20, 2016  
 
 13. <a id="endnote-13"></a>
    Source: ovid.com  
-   Link: [https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics](https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics)  
+   Link: <a href="https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* Nave, Andrea M. * Yaworsky, Renée R. Author information * ^{1}Department of Psychology, Le Moyne College ^{2}...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: repozytorium.ukw.edu.pl  
    Title: ukw.edu.pl The Attribution of Emotion and Meaning to Song Lyrics  
-   Link: [https://repozytorium.ukw.edu.pl/handle/item/852](https://repozytorium.ukw.edu.pl/handle/item/852)  
+   Link: <a href="https://repozytorium.ukw.edu.pl/handle/item/852" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.ukw.edu.pl/handle/item/852</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Attribution of Emotion and Meaning to Song Lyrics - Repozytorium Uniwersytetu Kazimierza WielkiegoTHE ATTRIBUTION OF EMOTION AND MEANING...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: s1.propertyindustryeye.com  
    Title: song lyrics just like me 1770877611  
-   Link: [https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611](https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611)  
+   Link: <a href="https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611" target="_blank" rel="noopener noreferrer nofollow">https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lyrics just like me: why personal connection mattersFebruary 12, 2026 — SONG LYRICS JUST LIKE ME: WHY PERSONAL CONNECTION MATTERS Feb 12...</p></details>
    Published: February 12, 2026  
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.gov“Finding my Blackness, Finding my [Rhythm](&amp;#123;&amp;#123; &#x27;rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)”: Music and Identity Development in African, Caribbean, and Black Emerging Adults - PMCJu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music is a human universal with structure and functions that are strikingly similar across cultures, suggesting deep evolutionary roots...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mdpi.com  
    Title: 2073 431X  
-   Link: [https://www.mdpi.com/2073-431X/14/11/460](https://www.mdpi.com/2073-431X/14/11/460)  
+   Link: <a href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/14/11/460</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025 — 24 October 2025 EMOTION IN W...</p></details>
    Published: October 24, 2025  
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20592043241301997](https://journals.sagepub.com/doi/10.1177/20592043241301997)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043241301997" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043241301997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greasley, 2025January 15, 2025 — First published online January 15, 2025 Request permissions “WITH A LITTLE HELP FROM MY FRIENDS”: EXPLOR...</p></details>
-   Published: January 15, 2025  
+   Published: January 15, 2025

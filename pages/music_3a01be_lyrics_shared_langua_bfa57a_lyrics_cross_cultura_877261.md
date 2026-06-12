@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870
 - music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f
 tags:
-- music
+- music-3-a01-be
 - lyrics
 - culture
 keywords:
-- music
+- music-3-a01-be
 - lyrics
 - culture
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Lyrics do not carry fixed meanings, because listeners interpret emotional language through culture, memory, and shared norms.
 hero_summary: Lyrics do not carry fixed meanings, because listeners interpret emotional language through culture, memory, and shared norms.
 layout: default
 permalink: /culture/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /lyrics/
 nav_short_title: Culture
 title: Why The Same Lyric Means Different Things
-title_full: Why The Same Lyric Means Different Things | Lyrics
+title_full: Why The Same Lyric Means Different Things
 display_title_short: Culture
 display_title: Culture
 heading_title: Why The Same Lyric Means Different Things
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Lyrics Make Feelings Public | Music
+parent_title: How Lyrics Make Feelings Public
 parent_permalink: /lyrics/
 parent_nav_short_title: Lyrics
 parent_heading_title: How Lyrics Make Feelings Public
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sung Words Hit Harder Than Spoken Ones
 up_link:
   basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -265,7 +265,7 @@ next_link:
   permalink: /identification/
   short_title: Identification
   heading_title: Why Some Lyrics Feel Like Your Story
-date: '2026-06-09 07:31:32 '
+date: '2026-06-11 23:46:47 '
 header:
   og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cult
 
 ## Introduction
 
-A lyric may seem to express a clear emotion, yet its meaning is rarely fixed. The same line can feel romantic in one country, tragic in another, and politically charged somewhere else. This happens because [lyrics]({{ 'lyrics/' | relative_url }}) do not travel as pure messages. They are interpreted through cultural norms, language habits, collective memories, social expectations, and personal experience. As songs circulate across borders, listeners often hear the same words but connect them to different emotional worlds. Research on [music]({{ 'music/' | relative_url }}) and emotion consistently finds that the emotional impact of lyrics varies across cultural groups, even when people are listening to the same songs. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span> Gate Understanding why meanings shift helps explain how lyrics become shared language while remaining open to multiple interpretations.
-
+A lyric may seem to express a clear emotion, yet its meaning is rarely fixed. The same line can feel romantic in one country, tragic in another, and politically charged somewhere else. This happens because [lyrics]({{ 'lyrics/' | relative_url }}) do not travel as pure messages. They are interpreted through cultural norms, language habits, collective memories, social expectations, and personal experience. As songs circulate across borders, listeners often hear the same words but connect them to different emotional worlds. Research on music and emotion consistently finds that the emotional impact of lyrics varies across cultural groups, even when people are listening to the same songs. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span> Gate Understanding why meanings shift helps explain how lyrics become shared language while remaining open to multiple interpretations.
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-dark.svg" | relative_url }}" alt="Culture illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Culture Shapes Emotional Interpretation
@@ -288,10 +287,7 @@ Consider a lyric about leaving home. One audience may hear a celebration of inde
 
 Studies examining musical emotions across cultures have found that lyrics can alter emotional responses in culturally specific ways. In one cross-cultural investigation, Portuguese and Swedish listeners reacted differently to the same lyrical material, with lyrics increasing nostalgia in one group and [surprise]({{ 'surprise/' | relative_url }})-related emotions in the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics...by GT Barradas · 2022 · Cited by 103 — The present study indica...</span></span></span>
 
-This does not mean that cultures are isolated emotional systems. Many emotional reactions overlap. Instead, culture influences which meanings become most salient when listeners interpret a song. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCross-cultural perspectives on music and musicality</span><span class="citation-popover-snippet">PMC - NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z7fY8B3aHkM" title="How your culture informs your emotional reaction to music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer">How your culture informs your emotional reaction to music</a></p><p class="youtube-embed-meta">Channel: The Conversation &middot; Views: 608 &middot; Uploaded: April 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z7fY8B3aHkM">Open on YouTube</a></p></div></div></div>
+This does not mean that cultures are isolated emotional systems. Many emotional reactions overlap. Instead, culture influences which meanings become most salient when listeners interpret a song. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCross-cultural perspectives on music and musicality</span><span class="citation-popover-snippet">NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</span></span></span>
 
 ## Translation, Context, and Shared Memory
 
@@ -311,10 +307,9 @@ Lyrics also acquire meaning through shared historical experiences.
 
 A reference to economic hardship, migration, war, political struggle, or national identity may resonate strongly within one society because it connects to collective [memory]({{ 'memory/' | relative_url }}). Listeners who lack that historical context may hear the same lyric as a more general emotional statement.
 
-This process helps explain why some songs become unofficial anthems for particular communities. The words themselves matter, but so do the memories attached to them. Cultural narratives can transform a lyric from a personal reflection into a symbol of a generation, region, or movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic as a Cultural Inheritance System: A Contextual</span><span class="citation-popover-snippet">PMCby RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</span></span></span>
+This process helps explain why some songs become unofficial anthems for particular communities. The words themselves matter, but so do the memories attached to them. Cultural narratives can transform a lyric from a personal reflection into a symbol of a generation, region, or movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic as a Cultural Inheritance System: A Contextual</span><span class="citation-popover-snippet">by RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</span></span></span>
 
 Because memories differ across societies, meanings shift as songs travel.
-
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-2-dark.svg" | relative_url }}" alt="Culture illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Communities Often Disagree About What Lyrics Mean
@@ -324,7 +319,6 @@ Meaning is not determined solely by songwriters. Listeners actively participate 
 Research on lyric interpretation shows that meaning emerges through interaction between words, music, familiarity, and personal association. The same text can be interpreted differently depending on the musical setting and on what listeners already associate with the song. Familiarity can even increase the perceived meaningfulness of lyrics over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
 
 Communities therefore negotiate meaning collectively through:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,21 +334,18 @@ A lyric initially written about a relationship might later be adopted as a polit
 
 This creates a tension between authorial intent and audience interpretation. Songwriters may have a particular meaning in mind, but communities often attach additional layers that eventually become just as influential.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iSkJFs7myn0" title="THE POWER OF MUSIC IN FILM - How music affects film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iSkJFs7myn0" target="_blank" rel="noopener noreferrer">THE POWER OF MUSIC IN FILM - How music affects film</a></p><p class="youtube-embed-meta">Channel: Jack Pierce</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iSkJFs7myn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iSkJFs7myn0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z7fY8B3aHkM" title="How your culture informs your emotional reaction to music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer">How your culture informs your emotional reaction to music</a></p><p class="youtube-embed-meta">Channel: The Conversation &middot; Views: 608 &middot; Uploaded: April 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z7fY8B3aHkM">Open on YouTube</a></p></div></div></div>
 
 ## When Music Changes the Meaning of the Words
 
 Lyrics are never heard in isolation. Their interpretation is influenced by [melody]({{ 'melody/' | relative_url }}), harmony, rhythm, vocal delivery, and performance style.
 
-Studies have shown that identical lyrics can be perceived differently depending on their musical context. Music can push listeners towards hearing words as hopeful, ironic, threatening, melancholic, or uplifting. Familiar songs can also lend emotional significance to lyrics through accumulated personal and cultural associations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
+Studies have shown that identical lyrics can be perceived differently depending on their musical context. Music can push listeners towards hearing words as hopeful, ironic, threatening, melancholic, or uplifting. [Familiar songs]({{ 'familiar-songs/' | relative_url }}) can also lend emotional significance to lyrics through accumulated personal and cultural associations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
 
 This matters across cultures because musical conventions themselves vary. Certain sounds may signal celebration in one musical tradition and solemnity in another. As a result, listeners may derive different emotional meanings from the interaction between lyrics and music, even when the verbal content remains unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">IET Research JournalsCross‐cultural analysis of the correlation between musical...20 Sept 2021 — In the cross-cultural context, both per...</span></span></span>
 
 The lyric does not act alone. It is interpreted through a cultural listening framework that includes both language and sound.
 
-
-<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-dark.svg" | relative_url }}" alt="Culture illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Multiple Meanings Are Not a Problem
 
 A common assumption is that a lyric has one correct meaning that listeners either understand or misunderstand. Cultural research on music suggests a more complex reality.
@@ -365,9 +356,7 @@ Rather than treating cultural variation as distortion, it can be understood as p
 
 In this sense, lyrics succeed as shared language not because everyone hears exactly the same thing, but because different communities can recognise themselves within the same words. The lyric becomes a meeting point between personal feeling and cultural interpretation, allowing a single song to carry many meanings at once.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zRwt25M5nGw" title="Don&#x27;t Put People in Boxes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zRwt25M5nGw" target="_blank" rel="noopener noreferrer">Don&#x27;t Put People in Boxes</a></p><p class="youtube-embed-meta">Channel: NewHope Church</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zRwt25M5nGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zRwt25M5nGw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-dark.svg" | relative_url }}" alt="Culture illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,107 +754,107 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions](https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions)  
+   Link: <a href="https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-cultural perspective on lyrics and their relationship...The present study indicates that lyrics have an effect on musical emotio...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCross-cultural perspectives on music and musicality  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMusic as a Cultural Inheritance System: A Contextual  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03057356211013390](https://journals.sagepub.com/doi/10.1177/03057356211013390)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics...by GT Barradas · 2022 · Cited by 103 — The present study indica...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf](https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineFavorite music expresses socially engaging emotionsby J Tang · 2025 · Cited by 5 — Studies have shown cultural...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ferreiralab.faculty.ucdavis.edu  
    Title: Ferreira Lab Do you chill when I chill?  
-   Link: [https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf](https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf)  
+   Link: <a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-cultural study of strong...by E Beier · 2020 · Cited by 32 — Overall, this research counters the idea of musical emotional meani...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy](https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy)  
+   Link: <a href="https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This choice significantly influenced Japanese music, blending Western folk-rock with Japanese lyrics and inspiring genres such as city po...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: research.bond.edu.au  
    Title: the attribution of meaning and emotion to song lyrics  
-   Link: [https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/](https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/)  
+   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
-   Link: [https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032)  
+   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalsCross‐cultural analysis of the correlation between musical...20 Sept 2021 — In the cross-[cultural context](&amp;#123;&amp;#123; &#x27;cultural-context/&#x27; | relative_url &amp;#125;&amp;#125;), both per...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: research.bond.edu.au  
-   Link: [https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf](https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf)  
+   Link: <a href="https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalCross-Cultural Biases of Emotion Perception in Musicby MG Li · 2025 · Cited by 14 — Abstract: Objectives...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective](https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective)  
+   Link: <a href="https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music and emotion: A cross cultural perspectiveThis chapter explores the intricate relationship between music and emotion from a cr...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions](https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions)  
+   Link: <a href="https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The author reflects on personal experiences of cultural misunderstandings upon migrating to England from India, where gestures and emotio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aesthetics.mpg.de  
-   Link: [https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html](https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html)  
+   Link: <a href="https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mpg.deCross-cultural study on perceived emotions in musicWe will seek to determine which musical and non-musical factors play a role in e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicpsychology.co.uk  
-   Link: [https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/](https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/)  
+   Link: <a href="https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional reponses to music: The influence of lyricsOverall, the paper gives insight into the effects of lyrics on the neural processing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=z7fY8B3aHkM](https://www.youtube.com/watch?v=z7fY8B3aHkM)  
+   Link: <a href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7fY8B3aHkM</a>  
 
 16. <a id="endnote-16"></a>
    Source: durham.ac.uk  
    Title: how culture informs the emotions you feel when listening to music  
-   Link: [https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/](https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/)  
+   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityHow culture informs the emotions you feel when listening...3 Feb 2022 — So, as our research aimed to discover how the e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mappmagazine.com  
-   Link: [https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions](https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions)  
+   Link: <a href="https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce emotional health on an individual level and possibly a global one.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: injoqast.net  
-   Link: [https://injoqast.net/index.php/INJOSER/article/download/278/305](https://injoqast.net/index.php/INJOSER/article/download/278/305)  
+   Link: <a href="https://injoqast.net/index.php/INJOSER/article/download/278/305" target="_blank" rel="noopener noreferrer nofollow">https://injoqast.net/index.php/INJOSER/article/download/278/305</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly to endure in public memory and influence societal values.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/](https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/)  
+   Link: <a href="https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ive processing and understanding of a specific...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ulb-dok.uibk.ac.at  
    Title: uibk.ac.at Melody vs  
-   Link: [https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670](https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670)  
+   Link: <a href="https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670" target="_blank" rel="noopener noreferrer nofollow">https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyrics: Unraveling their Impact on Emotional...In a cross cultural study, Barradas and. Sakka (2021) explored the impact of lyrics on ar...</p></details>

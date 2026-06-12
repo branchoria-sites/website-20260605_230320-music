@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - short-clips
 keywords:
-- music
+- music-3-a01-be
 - short-clips
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Short-form video rewards songs with fast hooks, striking textures and repeatable moments that travel outside the full track.
 hero_summary: Short-form video rewards songs with fast hooks, striking textures and repeatable moments that travel outside the full track.
 layout: default
 permalink: /short-clips/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Short Clips
 title: How Short Clips Reshape Hit Songs
-title_full: How Short Clips Reshape Hit Songs | Music
+title_full: How Short Clips Reshape Hit Songs
 display_title_short: Short Clips
 display_title: Short Clips
 heading_title: How Short Clips Reshape Hit Songs
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 next_link:
   basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
-date: '2026-06-09 06:25:56 '
+date: '2026-06-11 23:14:12 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922-overview-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922-overview.webp
@@ -501,18 +501,16 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922-overview-social.j
 
 ## Introduction
 
-Short clips have not replaced songwriting, but they have changed what many writers now test for. A song no longer has to wait for a radio edit, a playlist placement or a full chorus to prove itself; it can be judged by whether a few seconds invite someone to replay, lip-sync, dance, make a joke, cut a fan edit or search for the full track. That pressure rewards fast [hooks]({{ 'hooks/' | relative_url }}), vivid textures and lyrical fragments that can survive outside the song. TikTok and similar short-form platforms matter because they turn listeners into distributors: a musical moment travels when people can reuse it, not only when they hear it. TikTok’s own 2024 Luminate-backed report said 84% of songs entering the Billboard Global 200 that year had gone viral on TikTok first, and that US TikTok users were 74% more likely than average short-form video users to discover and share new [music]({{ 'music/' | relative_url }}) on social and short-form platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.tiktok.com">[TikTok Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.tiktok.com</span><span class="citation-popover-title">Tik Tok Newsroom Tik Tok and Luminate release the latest Music Impact Report</span><span class="citation-popover-snippet">Tik Tok Newsroom Tik Tok and Luminate release the latest Music Impact Report</span></span></span>
-
+Short clips have not replaced songwriting, but they have changed what many writers now test for. A song no longer has to wait for a radio edit, a playlist placement or a full chorus to prove itself; it can be judged by whether a few seconds invite someone to replay, lip-sync, dance, make a joke, cut a fan edit or search for the full track. That pressure rewards fast [hooks]({{ 'hooks/' | relative_url }}), vivid textures and lyrical fragments that can survive outside the song. TikTok and similar short-form platforms matter because they turn listeners into distributors: a musical moment travels when people can reuse it, not only when they hear it. TikTok’s own 2024 Luminate-backed report said 84% of songs entering the Billboard Global 200 that year had gone viral on TikTok first, and that US TikTok users were 74% more likely than average short-form video users to discover and share new music on social and short-form platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.tiktok.com">[TikTok Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.tiktok.com</span><span class="citation-popover-title">Tik Tok Newsroom Tik Tok and Luminate release the latest Music Impact Report</span><span class="citation-popover-snippet">Tik Tok Newsroom Tik Tok and Luminate release the latest Music Impact Report</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-overview.webp" | relative_url }}" alt="Overview image for Short Clips" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the first seconds now carry more weight
 
-Short-form video rewards songs that can declare themselves quickly. That does not always mean the chorus must arrive immediately, but it does mean the track needs an identifiable point of entry: a vocal phrase, a rhythmic switch, a production texture, a funny line, a drum fill, a drop, a gasp, a count-in or a lyric that makes visual sense. Berklee’s discussion of TikTok-era songwriting describes how small structural details can help songs connect on the platform, including countdown-style and alphabet-style hooks that users can instantly recognise and repurpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[Berklee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">Tik Tok Is Changing the DNA of Hit Songs, and Artists Are Taking Note | Berklee</span><span class="citation-popover-snippet">Tik Tok Is Changing the DNA of Hit Songs, and Artists Are Taking Note | Berklee</span></span></span>
+Short-form video rewards songs that can declare themselves quickly. That does not always mean the chorus must arrive immediately, but it does mean the track needs an identifiable point of entry: a vocal phrase, a rhythmic switch, a production texture, a funny line, a drum fill, a drop, a gasp, a count-in or a lyric that makes visual sense. Berklee’s discussion of TikTok-era songwriting describes how small structural details can help songs connect on the platform, including countdown-style and alphabet-style hooks that users can instantly recognise and repurpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[Berklee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">Tik Tok Is Changing the DNA of Hit Songs, and Artists Are Taking Note &#124; Berklee</span><span class="citation-popover-snippet">Tik Tok Is Changing the DNA of Hit Songs, and Artists Are Taking Note &#124; Berklee</span></span></span>
 
 This changes the writer’s checklist. In older radio logic, an intro could set mood, establish a band sound, or delay gratification before the chorus. In clip-first logic, the intro has to justify itself against a thumb already moving to the next video. That is one reason the broader trend towards shorter songs and shorter build-ups feels connected to short-form platforms, even though streaming, genre history and production fashion also play a role. A Washington Post analysis found that the average length of a Billboard Hot 100 song had fallen from more than four minutes in 1990 to around three minutes, while also noting that song length has always responded to technological and cultural [formats]({{ 'formats/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://joebennett.net/wp-content/uploads/2024/02/Pop-songs-are-getting-shorter-in-the-era-of-streaming-and-TikTok-Washington-Post.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joebennett.net">[Joe Bennett Music Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joebennett.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The key songwriting shift is not simply “make it short”. It is “make the musical reason to keep listening arrive early”. Some tracks do this with a chorus up front. Others use a striking pre-chorus, a whispered line, a distorted bass entrance or a rhythmic loop that can be understood even when heard through a phone speaker. The clip becomes a pressure test for whether the song has a portable centre.
-
 
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-1-dark.svg" | relative_url }}" alt="Short Clips illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hook is no longer only the chorus
@@ -523,7 +521,6 @@ That matters because writers and producers increasingly think in “moments” a
 
 The 2025 revival of Connie Francis’s 1962 recording “Pretty Little Baby” shows that this logic is not limited to newly written songs. People reported that the track became TikTok’s top global song of 2025, with more than 28.4 million posts using it and videos featuring it passing 68.6 billion views; it then became her most-streamed song and entered modern chart contexts long after its original release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The example is important for songwriting because it proves the platform can discover a clip-friendly quality after the fact. Modern writers cannot fully control virality, but they can notice what short clips tend to reward: instant mood, recognisable [contour]({{ 'contour/' | relative_url }}), and a sound that lets the viewer feel they are part of the scene.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wo6CAG6VNO8" title="TikTok Broke Pop Songwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer">TikTok Broke Pop Songwriting</a></p><p class="youtube-embed-meta">Channel: Maya Wagner &middot; Views: 40.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wo6CAG6VNO8">Open on YouTube</a></p></div></div></div>
 
 ## Repeatable moments change the shape of songs
@@ -532,8 +529,7 @@ Short clips reward repetition differently from radio. Radio repetition happened 
 
 For songwriters, that can encourage compressed forms: fewer long intros, fewer slow narrative set-ups, more repeated title phrases, more immediate melodic identity and more sections that can loop cleanly. It can also encourage “open” [lyrics]({{ 'lyrics/' | relative_url }}) that are specific enough to feel emotional but broad enough to be applied to many contexts. A line that only makes sense inside the second verse of a detailed story may be powerful in the full song, but a line that can caption a breakup, a friendship, a film character or a self-mythologising outfit video has more short-form range.
 
-This does not mean all viral songs are simple. Some succeed because the clip isolates complexity: a surprising chord change, a dramatic vocal leap, a sudden texture switch or an unusual contrast between lyric and image. The craft question becomes where to place that surprise. In a clip-first environment, the arresting detail often has to appear early enough to be found, or be easy for fans to extract and circulate.
-
+This does not mean all viral songs are simple. Some succeed because the clip isolates complexity: a surprising chord change, a dramatic vocal leap, a sudden texture switch or an unusual contrast between lyric and image. The craft question becomes where to place that [surprise]({{ 'surprise/' | relative_url }}). In a clip-first environment, the arresting detail often has to appear early enough to be found, or be easy for fans to extract and circulate.
 
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-2-dark.svg" | relative_url }}" alt="Short Clips illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clip-first writing can help discovery but weaken artist discovery
@@ -543,7 +539,6 @@ Short-form platforms are powerful at spreading songs, but song discovery and art
 That creates a songwriting dilemma. A clip can make a fragment famous while leaving the artist’s wider identity blurry. The most successful short-form moment may not be the part that best represents the song’s depth, the album’s sound or the performer’s long-term voice. A writer may be tempted to optimise for the detachable fragment, while an artist may need the full track to build trust, sell tickets and make people care about the next release.
 
 Recent research on music creators describes this as “platform negotiation”: artists are not simply obeying the algorithm, but weighing visibility against career sustainability, identity and workload. The study argues that optimisation for short-form platforms does not automatically translate into durable money or career mobility, and that many creators are trying to use content in ways that support fandom rather than only chase virality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251388000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nGVJ1KVK_z0" title="🔥 30 EASY Short Form Content Ideas for Music Producers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nGVJ1KVK_z0" target="_blank" rel="noopener noreferrer">🔥 30 EASY Short Form Content Ideas for Music Producers</a></p><p class="youtube-embed-meta">Channel: musicbydru &middot; Views: 15.9K &middot; Uploaded: June 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nGVJ1KVK_z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nGVJ1KVK_z0">Open on YouTube</a></p></div></div></div>
 
@@ -561,7 +556,6 @@ There are three common failure modes:
 
 The opposite danger is ignoring short-form behaviour entirely. For many new artists, clips are not a side channel; they are part of how songs are tested, shared and remembered. Luminate has described short-form users as active participants who can become “part of the show”, and found that some fan communities, including J-pop and K-pop listeners, are especially likely to post on short-form platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.tiktok.com/en-gb/music-report-confirms-tiktok-fuels-music-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.tiktok.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.tiktok.com</span><span class="citation-popover-title">music report confirms tiktok fuels music discovery</span><span class="citation-popover-snippet">music report confirms tiktok fuels music discovery</span></span></span> For genres with dance, choreography, visual identity, fandom edits or strong performance culture, writing a moment that fans can inhabit may be a real part of the song’s life.
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-3-dark.svg" | relative_url }}" alt="Short Clips illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What stronger clip-era songwriting looks like
 
@@ -571,9 +565,7 @@ A practical way to understand the change is to compare two questions. The older 
 
 The best writers treat that question as a constraint, not a cage. They build songs that can travel in fragments but still reward full listening. They understand that a viral sound may introduce the track, but the complete song has to do the deeper work: develop the feeling, reveal the voice, make the artist memorable and give listeners a reason to return after the trend moves on.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HbRo9F-v9sc" title="How TikTok Music Videos Go Viral - The New Music Business Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HbRo9F-v9sc" target="_blank" rel="noopener noreferrer">How TikTok Music Videos Go Viral - The New Music Business Podcast</a></p><p class="youtube-embed-meta">Channel: Ari&#x27;s Take &middot; Views: 3.2K &middot; Uploaded: December 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HbRo9F-v9sc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HbRo9F-v9sc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -692,15 +684,15 @@ The best writers treat that question as a constraint, not a cage. They build son
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Kooks Adults T-Shirt Fun Music Inspired Tee Top New"><img src="{{ '/assets/images/marketplace-covers/2ade94facc723af06924.jpg' | relative_url }}" alt="Listing image for The Kooks Adults T-Shirt Fun Music Inspired Tee Top New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOOG T SHIRT SYNTHESIZER MUSIC PRODUCER"><img src="https://i.ebayimg.com/images/g/kM4AAeSwNn5o5j1c/s-l225.jpg" alt="Listing image for MOOG T SHIRT SYNTHESIZER MUSIC PRODUCER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Kooks Adults T-Shirt Fun Music Inspired Tee Top New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">MOOG T SHIRT SYNTHESIZER MUSIC PRODUCER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -708,15 +700,15 @@ The best writers treat that question as a constraint, not a cage. They build son
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That The Circus Live 2026 T-Shirt Fun Music Tour Themed Top Tee"><img src="{{ '/assets/images/marketplace-covers/e95c4f005dfd15b177fc.jpg' | relative_url }}" alt="Listing image for Take That The Circus Live 2026 T-Shirt Fun Music Tour Themed Top Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution Of Man Music Producer T Shirt Unisex Audio Engineer DJ Graphic Tee Top"><img src="https://i.ebayimg.com/images/g/9tcAAeSwoQxqJmiT/s-l225.jpg" alt="Listing image for Evolution Of Man Music Producer T Shirt Unisex Audio Engineer DJ Graphic Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Take That The Circus Live 2026 T-Shirt Fun Music Tour Themed Top Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution Of Man Music Producer T Shirt Unisex Audio Engineer DJ Graphic Tee Top</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -724,15 +716,15 @@ The best writers treat that question as a constraint, not a cage. They build son
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Watercolour Album Art T-Shirt, Indie Rock Rem Music Fan, Retro Circles"><img src="{{ '/assets/images/marketplace-covers/748847328836ff3f9a56.jpg' | relative_url }}" alt="Listing image for Watercolour Album Art T-Shirt, Indie Rock Rem Music Fan, Retro Circles" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEADMAU5 STAR JOYSTICK JUNKIES T SHIRT BNWT OFFICIAL HOUSE MUSIC PRODUCER DJ"><img src="https://i.ebayimg.com/images/g/9WoAAOSw3v5YuAew/s-l225.jpg" alt="Listing image for DEADMAU5 STAR JOYSTICK JUNKIES T SHIRT BNWT OFFICIAL HOUSE MUSIC PRODUCER DJ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Watercolour Album Art T-Shirt, Indie Rock Rem Music Fan, Retro Circles</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DEADMAU5 STAR JOYSTICK JUNKIES T SHIRT BNWT OFFICIAL HOUSE MUSIC PRODUCER DJ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -740,15 +732,15 @@ The best writers treat that question as a constraint, not a cage. They build son
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for It Must Be Love Ska Music T Shirt - 2 Tone Madness The Specials Selecter"><img src="{{ '/assets/images/marketplace-covers/143c59b8c0bee2268b32.jpg' | relative_url }}" alt="Listing image for It Must Be Love Ska Music T Shirt - 2 Tone Madness The Specials Selecter" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drum and Bass Alliance T Shirt DJ &amp; n DnB Amen Music Producer Junglist Mens Tee"><img src="https://i.ebayimg.com/images/g/oUwAAOSwnNBXYpP7/s-l225.jpg" alt="Listing image for Drum and Bass Alliance T Shirt DJ &amp; n DnB Amen Music Producer Junglist Mens Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">It Must Be Love Ska Music T Shirt - 2 Tone Madness The Specials Selecter</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Drum and Bass Alliance T Shirt DJ &amp; n DnB Amen Music Producer Junglist Mens Tee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -756,7 +748,7 @@ The best writers treat that question as a constraint, not a cage. They build son
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="short-clips-how-short-clips-reshape-hit-songs-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-short-clips-reshape-hit-songs-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-short-clips-reshape-hit-songs-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -972,141 +964,141 @@ The best writers treat that question as a constraint, not a cage. They build son
 1. <a id="endnote-1"></a>
    Source: newsroom.tiktok.com  
    Title: Tik Tok Newsroom Tik Tok and Luminate release the latest Music Impact Report  
-   Link: [https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report](https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report</a>  
 
 2. <a id="endnote-2"></a>
    Source: berklee.edu  
    Title: Tik Tok Is Changing the DNA of Hit Songs, and Artists Are Taking Note | Berklee  
-   Link: [https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note](https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note)  
+   Link: <a href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note</a>  
 
 3. <a id="endnote-3"></a>
    Source: people.com  
-   Link: [https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240](https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240)  
+   Link: <a href="https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240" target="_blank" rel="noopener noreferrer nofollow">https://people.com/connie-francis-pretty-little-baby-is-tiktoks-2025-global-song-5-years-after-singer-s-death-11867240</a>  
 
 4. <a id="endnote-4"></a>
    Source: newsroom.tiktok.com  
    Title: music report confirms tiktok fuels music discovery  
-   Link: [https://newsroom.tiktok.com/en-gb/music-report-confirms-tiktok-fuels-music-discovery](https://newsroom.tiktok.com/en-gb/music-report-confirms-tiktok-fuels-music-discovery)  
+   Link: <a href="https://newsroom.tiktok.com/en-gb/music-report-confirms-tiktok-fuels-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-gb/music-report-confirms-tiktok-fuels-music-discovery</a>  
 
 5. <a id="endnote-5"></a>
    Source: ads.tiktok.com  
    Title: creative Tools  
-   Link: [https://ads.tiktok.com/creative/creativeCenter/tools/creativeTools](https://ads.tiktok.com/creative/creativeCenter/tools/creativeTools)  
+   Link: <a href="https://ads.tiktok.com/creative/creativeCenter/tools/creativeTools" target="_blank" rel="noopener noreferrer nofollow">https://ads.tiktok.com/creative/creativeCenter/tools/creativeTools</a>  
 
 6. <a id="endnote-6"></a>
    Source: support.tiktok.com  
-   Link: [https://support.tiktok.com/](https://support.tiktok.com/)  
+   Link: <a href="https://support.tiktok.com/" target="_blank" rel="noopener noreferrer nofollow">https://support.tiktok.com/</a>  
 
 7. <a id="endnote-7"></a>
    Source: newsroom.tiktok.com  
    Title: billboard top 50 chart  
-   Link: [https://newsroom.tiktok.com/tiktok-billboard-top-50-chart?from_seo_redirect=1&lang=en](https://newsroom.tiktok.com/tiktok-billboard-top-50-chart?from_seo_redirect=1&lang=en)  
+   Link: <a href="https://newsroom.tiktok.com/tiktok-billboard-top-50-chart?from_seo_redirect=1&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/tiktok-billboard-top-50-chart?from_seo_redirect=1&amp;lang=en</a>  
 
 8. <a id="endnote-8"></a>
    Source: sounds.co  
-   Link: [https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber](https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber)  
+   Link: <a href="https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber" target="_blank" rel="noopener noreferrer nofollow">https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber</a>  
 
 9. <a id="endnote-9"></a>
    Source: billboard.com  
    Title: songs getting shorter tiktok streaming  
-   Link: [https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/](https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/)  
+   Link: <a href="https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/</a>  
 
 10. <a id="endnote-10"></a>
    Source: billboard.com  
    Title: tiktok billboard top 50 chart launch 1235412993  
-   Link: [https://www.billboard.com/music/chart-beat/tiktok-billboard-top-50-chart-launch-1235412993/](https://www.billboard.com/music/chart-beat/tiktok-billboard-top-50-chart-launch-1235412993/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/tiktok-billboard-top-50-chart-launch-1235412993/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/tiktok-billboard-top-50-chart-launch-1235412993/</a>  
 
 11. <a id="endnote-11"></a>
    Source: joebennett.net  
-   Link: [https://joebennett.net/wp-content/uploads/2024/02/Pop-songs-are-getting-shorter-in-the-era-of-streaming-and-TikTok-Washington-Post.pdf](https://joebennett.net/wp-content/uploads/2024/02/Pop-songs-are-getting-shorter-in-the-era-of-streaming-and-TikTok-Washington-Post.pdf)  
+   Link: <a href="https://joebennett.net/wp-content/uploads/2024/02/Pop-songs-are-getting-shorter-in-the-era-of-streaming-and-TikTok-Washington-Post.pdf" target="_blank" rel="noopener noreferrer nofollow">https://joebennett.net/wp-content/uploads/2024/02/Pop-songs-are-getting-shorter-in-the-era-of-streaming-and-TikTok-Washington-Post.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: abc.net.au  
-   Link: [https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224](https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224)  
+   Link: <a href="https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224</a>  
 
 13. <a id="endnote-13"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research Gen Z social habits spell trouble for music discovery  
-   Link: [https://www.midiaresearch.com/blog/gen-z-social-habits-spell-trouble-for-music-discovery](https://www.midiaresearch.com/blog/gen-z-social-habits-spell-trouble-for-music-discovery)  
+   Link: <a href="https://www.midiaresearch.com/blog/gen-z-social-habits-spell-trouble-for-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/gen-z-social-habits-spell-trouble-for-music-discovery</a>  
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20563051251388000](https://journals.sagepub.com/doi/10.1177/20563051251388000)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051251388000" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051251388000</a>  
 
 15. <a id="endnote-15"></a>
    Source: luminatedata.com  
    Title: Luminate Short-Form Gains New Heights | Luminate  
-   Link: [https://luminatedata.com/blog/short-form-gains-new-heights/](https://luminatedata.com/blog/short-form-gains-new-heights/)  
+   Link: <a href="https://luminatedata.com/blog/short-form-gains-new-heights/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/short-form-gains-new-heights/</a>  
 
 16. <a id="endnote-16"></a>
    Source: luminatedata.com  
    Title: what will drive music discovery if tiktok is banned  
-   Link: [https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/](https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/)  
+   Link: <a href="https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/</a>  
 
 17. <a id="endnote-17"></a>
    Source: luminatedata.com  
-   Link: [https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/](https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/)  
+   Link: <a href="https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/case-studies/tiktok-music-discovery-monetization-chart-success/</a>  
 
 18. <a id="endnote-18"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.zhiliaoapp.musically](https://play.google.com/store/apps/details?hl=en_GB&id=com.zhiliaoapp.musically)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.zhiliaoapp.musically" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.zhiliaoapp.musically</a>  
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/tiktok/?hl=en](https://www.instagram.com/tiktok/?hl=en)  
+   Link: <a href="https://www.instagram.com/tiktok/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/tiktok/?hl=en</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Tik Tok  
-   Link: [https://en.wikipedia.org/wiki/TikTok](https://en.wikipedia.org/wiki/TikTok)  
+   Link: <a href="https://en.wikipedia.org/wiki/TikTok" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/TikTok</a>  
 
 21. <a id="endnote-21"></a>
    Source: repositories.lib.utexas.edu  
-   Link: [https://repositories.lib.utexas.edu/server/api/core/bitstreams/d6c7874c-a7af-4d26-871b-048f59b51080/content](https://repositories.lib.utexas.edu/server/api/core/bitstreams/d6c7874c-a7af-4d26-871b-048f59b51080/content)  
+   Link: <a href="https://repositories.lib.utexas.edu/server/api/core/bitstreams/d6c7874c-a7af-4d26-871b-048f59b51080/content" target="_blank" rel="noopener noreferrer nofollow">https://repositories.lib.utexas.edu/server/api/core/bitstreams/d6c7874c-a7af-4d26-871b-048f59b51080/content</a>  
 
 22. <a id="endnote-22"></a>
    Source: slideshare.net  
    Title: luminate mid year music report 2024 by the luminate  
-   Link: [https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130](https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130)  
+   Link: <a href="https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music](https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music)  
+   Link: <a href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music</a>  
 
 24. <a id="endnote-24"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=142451](https://www.scirp.org/journal/paperinformation?paperid=142451)  
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=142451" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=142451</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/headphonesty/posts/heres-why-songs-are-getting-shorter-and-shorter/1347928444009516/](https://www.facebook.com/headphonesty/posts/heres-why-songs-are-getting-shorter-and-shorter/1347928444009516/)  
+   Link: <a href="https://www.facebook.com/headphonesty/posts/heres-why-songs-are-getting-shorter-and-shorter/1347928444009516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/headphonesty/posts/heres-why-songs-are-getting-shorter-and-shorter/1347928444009516/</a>  
 
 26. <a id="endnote-26"></a>
    Source: stereofox.com  
-   Link: [https://www.stereofox.com/resources/how-tiktok-is-changing-the-music-industry/](https://www.stereofox.com/resources/how-tiktok-is-changing-the-music-industry/)  
+   Link: <a href="https://www.stereofox.com/resources/how-tiktok-is-changing-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/resources/how-tiktok-is-changing-the-music-industry/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/truespotify/comments/1ojcqj6/how_has_short_form_media_affected_your_music/](https://www.reddit.com/r/truespotify/comments/1ojcqj6/how_has_short_form_media_affected_your_music/)  
+   Link: <a href="https://www.reddit.com/r/truespotify/comments/1ojcqj6/how_has_short_form_media_affected_your_music/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/truespotify/comments/1ojcqj6/how_has_short_form_media_affected_your_music/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/](https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/)  
+   Link: <a href="https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/</a>  
 
 29. <a id="endnote-29"></a>
    Source: musicbiz.org  
-   Link: [https://musicbiz.org/news/music-biz-member-tiktok-billboard-partner-to-launch-tiktok-billboard-top-50-chart/](https://musicbiz.org/news/music-biz-member-tiktok-billboard-partner-to-launch-tiktok-billboard-top-50-chart/)  
+   Link: <a href="https://musicbiz.org/news/music-biz-member-tiktok-billboard-partner-to-launch-tiktok-billboard-top-50-chart/" target="_blank" rel="noopener noreferrer nofollow">https://musicbiz.org/news/music-biz-member-tiktok-billboard-partner-to-launch-tiktok-billboard-top-50-chart/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/the-tiktok-billboard-top-50-chart-is-celebrating-its-first-birthday-from-emotion/903207618346484/](https://www.facebook.com/Billboard/posts/the-tiktok-billboard-top-50-chart-is-celebrating-its-first-birthday-from-emotion/903207618346484/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/the-tiktok-billboard-top-50-chart-is-celebrating-its-first-birthday-from-emotion/903207618346484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/the-tiktok-billboard-top-50-chart-is-celebrating-its-first-birthday-from-emotion/903207618346484/</a>  
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSOsy0PjHOp/](https://www.instagram.com/p/DSOsy0PjHOp/)  
+   Link: <a href="https://www.instagram.com/p/DSOsy0PjHOp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSOsy0PjHOp/</a>  
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/16imetv/tiktok_billboard_partner_to_launch_tiktok/](https://www.reddit.com/r/popheads/comments/16imetv/tiktok_billboard_partner_to_launch_tiktok/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/16imetv/tiktok_billboard_partner_to_launch_tiktok/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/16imetv/tiktok_billboard_partner_to_launch_tiktok/</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f
 - music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f
 tags:
-- music
+- music-3-a01-be
 - melody
 - emotion
 keywords:
-- music
+- music-3-a01-be
 - melody
 - emotion
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A melody can become memorable because emotional listening moments tie the tune to people, places and personal events.
 hero_summary: A melody can become memorable because emotional listening moments tie the tune to people, places and personal events.
 layout: default
 permalink: /emotion-ad77f9/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /melody/
 nav_short_title: Emotion
 title: Why Some Melodies Bring Memories Back
-title_full: Why Some Melodies Bring Memories Back | Melody
+title_full: Why Some Melodies Bring Memories Back
 display_title_short: Emotion
 display_title: Emotion
 heading_title: Why Some Melodies Bring Memories Back
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some Melodies Stay In Your Head | Music
+parent_title: Why Some Melodies Stay In Your Head
 parent_permalink: /melody/
 parent_nav_short_title: Melody
 parent_heading_title: Why Some Melodies Stay In Your Head
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Catchy Melodies Need a Twist
 up_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -265,7 +265,7 @@ next_link:
   permalink: /surprise/
   short_title: Surprise
   heading_title: Why Catchy Melodies Need a Twist
-date: '2026-06-09 07:34:38 '
+date: '2026-06-11 23:48:07 '
 header:
   og_image: /assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_
 
 ## Introduction
 
-A [melody]({{ 'melody/' | relative_url }}) becomes especially memorable when it is tied to a meaningful moment in a person's life. The tune itself may be simple, but hearing it during a first relationship, a major achievement, a family gathering or a difficult period can create a lasting connection between the [music]({{ 'music/' | relative_url }}) and the event. Years later, only a few notes may be enough to bring back people, places and feelings that seemed long forgotten.
-
+A [melody]({{ 'melody/' | relative_url }}) becomes especially memorable when it is tied to a meaningful moment in a person's life. The tune itself may be simple, but hearing it during a first relationship, a major achievement, a family gathering or a difficult period can create a lasting connection between the music and the event. Years later, only a few notes may be enough to bring back people, places and feelings that seemed long forgotten.
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-1-dark.svg" | relative_url }}" alt="Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Researchers refer to these experiences as music-evoked autobiographical memories: personal memories that are triggered by music. Studies consistently show that music is an unusually powerful cue for recalling life events, often producing memories that feel more vivid, emotional and immersive than those triggered by many other types of stimuli. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMusic evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
+Researchers refer to these experiences as music-evoked autobiographical memories: personal memories that are triggered by music. Studies consistently show that music is an unusually powerful cue for recalling life events, often producing memories that feel more vivid, emotional and immersive than those triggered by many other types of stimuli. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
 
 ## How Music Engages Emotion and Memory
 
-The connection between melody and [memory]({{ 'memory/' | relative_url }}) is strengthened because music activates systems involved in both emotional processing and memory retrieval. Brain imaging research has shown that listening to music engages [regions]({{ 'regions/' | relative_url }}) associated with emotional responses and autobiographical memory, including areas linked to the hippocampus and amygdala. These systems help explain why music can feel emotionally charged even when no words are present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.hms.harvard.edu">[Harvard Medicine Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.hms.harvard.edu</span><span class="citation-popover-snippet">Harvard Medicine MagazineHow Music Resonates in the Brain | Harvard Medicine MagazineMusic also lights up nearly all of the brain — inclu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of music-evoked autobiographical memories are...by S Nawaz · 2025 · Cited by 7 — Studies of music-evoked autobiographical memories (MEAM...</span></span></span>
+The connection between melody and [memory]({{ 'memory/' | relative_url }}) is strengthened because music activates systems involved in both emotional processing and memory retrieval. Brain imaging research has shown that listening to music engages [regions]({{ 'regions/' | relative_url }}) associated with emotional responses and autobiographical memory, including areas linked to the hippocampus and amygdala. These systems help explain why music can feel emotionally charged even when no words are present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.hms.harvard.edu">[Harvard Medicine Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.hms.harvard.edu</span><span class="citation-popover-snippet">Harvard Medicine MagazineHow Music Resonates in the Brain &#124; Harvard Medicine MagazineMusic also lights up nearly all of the brain — inclu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of music-evoked autobiographical memories are...by S Nawaz · 2025 · Cited by 7 — Studies of music-evoked autobiographical memories (MEAM...</span></span></span>
 
 Emotion matters because emotionally significant experiences are generally remembered more strongly than ordinary ones. When a melody accompanies an emotionally intense moment, the emotional state can help strengthen the memory trace. Researchers have long argued that music's ability to evoke emotion contributes directly to its ability to become embedded in long-term memory. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The Impact of Emotion on Musical Long-Term Memoryby C Nineuil · 2020 · Cited by 20 — Our results showed that the emotional enhancement of...</span></span></span>
 
@@ -291,8 +290,7 @@ This relationship works in two directions:
 * A melody can help encode an emotional event when it is first experienced.
 * Later, the same melody can reactivate the emotional state associated with that event.
 
-As a result, listeners often do not simply remember a song. They remember how they felt when that song was part of their lives. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[Georgia Tech Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past | ResearchDec 2, 2024 — Our results suggest that music acts as an emoti...</span></span></span>
-
+As a result, listeners often do not simply remember a song. They remember how they felt when that song was part of their lives. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[Georgia Tech Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past &#124; ResearchDec 2, 2024 — Our results suggest that music acts as an emoti...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zhoaU34HQxY" title="How music influences your memories - Dr Kelly Jakubowski - Bright Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer">How music influences your memories - Dr Kelly Jakubowski - Bright Talks</a></p><p class="youtube-embed-meta">Channel: Bright Ideas Gathering &middot; Views: 961 &middot; Uploaded: November 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zhoaU34HQxY">Open on YouTube</a></p></div></div></div>
 
@@ -300,14 +298,13 @@ As a result, listeners often do not simply remember a song. They remember how th
 
 Not every melody becomes a powerful memory cue. The strongest associations usually develop when music is present during personally important experiences.
 
-Researchers studying music-evoked autobiographical memories have found that [familiar songs]({{ 'familiar-songs/' | relative_url }}) frequently trigger recollections of specific life periods, relationships and events. Familiarity increases the likelihood that a piece of music will evoke detailed personal memories, especially when the music was repeatedly heard during meaningful stages of life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">PMC - NIHby L Jäncke · 2008 · Cited by 561 — Because emotions enhance memory processes and music evokes strong emotions, music could be i...</span></span></span>
+Researchers studying music-evoked autobiographical memories have found that [familiar songs]({{ 'familiar-songs/' | relative_url }}) frequently trigger recollections of specific life periods, relationships and events. Familiarity increases the likelihood that a piece of music will evoke detailed personal memories, especially when the music was repeatedly heard during meaningful stages of life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Because emotions enhance memory processes and music evokes strong emotions, music could be i...</span></span></span>
 
 A common example is hearing a song that was popular during adolescence or early adulthood. These years often contain major identity-forming experiences, including friendships, romances, educational transitions and early independence. Because music is deeply woven into these experiences, melodies from that period often become unusually potent memory cues later in life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6167197/psychology-behind-remembering-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Why We Remember Music and Forget Everything Else</span><span class="citation-popover-snippet">We spend significant amounts of time listening to music, making it easier to recall lyrics and melodies. The Heardle app leverages this b...</span></span></span>
 
-Research by Petr Janata and colleagues found that a substantial proportion of songs presented to listeners spontaneously triggered autobiographical memories, many accompanied by strong emotions and nostalgia. Positive emotions were especially common, although songs could also evoke painful or bittersweet memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMusic evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span>
+Research by Petr Janata and colleagues found that a substantial proportion of songs presented to listeners spontaneously triggered autobiographical memories, many accompanied by strong emotions and nostalgia. Positive emotions were especially common, although songs could also evoke painful or bittersweet memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span>
 
 The melody acts almost like a retrieval key. Rather than consciously searching for a memory, listeners often find that the memory arrives automatically when the music begins.
-
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-2-dark.svg" | relative_url }}" alt="Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Melody Cues Autobiographical Memories
@@ -315,7 +312,6 @@ The melody acts almost like a retrieval key. Rather than consciously searching f
 Melodies are particularly effective memory cues because they unfold in a recognisable sequence. Even a short fragment can be distinctive enough to identify a song instantly.
 
 When listeners hear the opening notes of a familiar melody, they often reconstruct much more than the tune itself. The melody can reactivate a broader network of associations, including:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,10 +322,9 @@ When listeners hear the opening notes of a familiar melody, they often reconstru
 
 </div>
 
-Researchers have shown that music often evokes autobiographical memories that are vivid, detailed and rich in sensory and emotional content. In some studies, music-triggered memories were found to be more vivid than memories prompted by familiar faces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMusic evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span>
+Researchers have shown that music often evokes autobiographical memories that are vivid, detailed and rich in sensory and emotional content. In some studies, music-triggered memories were found to be more vivid than memories prompted by familiar faces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span>
 
-Importantly, melodies do not merely retrieve factual information. They often recreate aspects of the original emotional experience. This is why a listener may feel a sudden wave of excitement, comfort, longing or sadness before they have consciously identified the memory being recalled. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.hms.harvard.edu">[Harvard Medicine Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.hms.harvard.edu</span><span class="citation-popover-snippet">Harvard Medicine MagazineHow Music Resonates in the Brain | Harvard Medicine MagazineMusic also lights up nearly all of the brain — inclu...</span></span></span>
-
+Importantly, melodies do not merely retrieve factual information. They often recreate aspects of the original emotional experience. This is why a listener may feel a sudden wave of excitement, comfort, longing or sadness before they have consciously identified the memory being recalled. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.hms.harvard.edu">[Harvard Medicine Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.hms.harvard.edu</span><span class="citation-popover-snippet">Harvard Medicine MagazineHow Music Resonates in the Brain &#124; Harvard Medicine MagazineMusic also lights up nearly all of the brain — inclu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MZFFwy5fwYI" title="Your brain on music | Alan Harvey | TEDxPerth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MZFFwy5fwYI" target="_blank" rel="noopener noreferrer">Your brain on music | Alan Harvey | TEDxPerth</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 570.0K &middot; Uploaded: June 2018 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MZFFwy5fwYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MZFFwy5fwYI">Open on YouTube</a></p></div></div></div>
 
@@ -337,28 +332,26 @@ Importantly, melodies do not merely retrieve factual information. They often rec
 
 One of the most common emotions associated with melody-triggered memories is nostalgia. Unlike simple recollection, nostalgia combines memory with emotion, producing a feeling of connection to one's personal past.
 
-Studies of music-evoked autobiographical memories repeatedly identify nostalgia as a frequent response. Songs associated with important life periods often produce a mixture of happiness, longing and reflection. The listener remembers not only what happened but also who they were at that point in life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMusic evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/09658210701734593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Characterisation of music-evoked autobiographical...by P Janata · 2007 · Cited by 643 — On average, 30% of the song presentations evoked...</span></span></span>
+Studies of music-evoked autobiographical memories repeatedly identify nostalgia as a frequent response. Songs associated with important life periods often produce a mixture of happiness, longing and reflection. The listener remembers not only what happened but also who they were at that point in life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/09658210701734593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Characterisation of music-evoked autobiographical...by P Janata · 2007 · Cited by 643 — On average, 30% of the song presentations evoked...</span></span></span>
 
 This helps explain why people may return to the same songs for decades. The melody functions as a portable reminder of personal history. Hearing it can temporarily reconnect listeners with earlier versions of themselves, their relationships and their experiences.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R0JKCYZ8hng" title="How playing an instrument benefits your brain - Anita Collins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R0JKCYZ8hng" target="_blank" rel="noopener noreferrer">How playing an instrument benefits your brain - Anita Collins</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 14.7M &middot; Uploaded: July 2014 &middot; Length: 4 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R0JKCYZ8hng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R0JKCYZ8hng">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival &middot; Views: 92.8K &middot; Uploaded: March 2015 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
 
 ## When Emotional Associations Change
 
 The emotional meaning attached to a melody is not always fixed. New experiences can reshape how a song is remembered.
 
-Recent research suggests that music can become intertwined with recalled memories and may even influence the emotional tone of those memories during retrieval. A melody originally linked to sadness may acquire new associations if it becomes part of later positive experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[Georgia Tech Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past | ResearchDec 2, 2024 — Our results suggest that music acts as an emoti...</span></span></span>
+Recent research suggests that music can become intertwined with recalled memories and may even influence the emotional tone of those memories during retrieval. A melody originally linked to sadness may acquire new associations if it becomes part of later positive experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[Georgia Tech Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past &#124; ResearchDec 2, 2024 — Our results suggest that music acts as an emoti...</span></span></span>
 
 This flexibility helps explain why some songs shift in meaning over time. A tune once associated with heartbreak may later evoke resilience, friendship or personal growth. The melody remains the same, but the network of emotional memories attached to it evolves.
-
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Emotional Attachment Makes Melodies Last
 
 The memorability of a melody is not determined solely by its musical structure. Emotional attachment gives the tune personal significance.
 
-When melodies become linked to meaningful experiences, they stop functioning as mere sequences of notes. They become cues for autobiographical memory, capable of reviving emotions, identities, relationships and moments from the past. Research consistently shows that music is one of the most effective triggers of such memories, often producing vivid recollections that feel emotionally alive years after the original event. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMusic evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe transformative power of music: Insights into</span><span class="citation-popover-snippet">PMC - NIHby MT Zaatar · 2023 · Cited by 136 — In this literature review, we explore the intricate relationship between music and the brai...</span></span></span>
+When melodies become linked to meaningful experiences, they stop functioning as mere sequences of notes. They become cues for autobiographical memory, capable of reviving emotions, identities, relationships and moments from the past. Research consistently shows that music is one of the most effective triggers of such memories, often producing vivid recollections that feel emotionally alive years after the original event. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe transformative power of music: Insights into</span><span class="citation-popover-snippet">NIHby MT Zaatar · 2023 · Cited by 136 — In this literature review, we explore the intricate relationship between music and the brai...</span></span></span>
 
 This emotional bonding helps explain why certain melodies remain unforgettable. People may remember them not simply because they heard them often, but because those melodies became woven into the story of their lives.
 
@@ -479,15 +472,15 @@ This emotional bonding helps explain why certain melodies remain unforgettable. 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,"><img src="{{ '/assets/images/marketplace-covers/daecb9cc6da8197cebd8.jpg' | relative_url }}" alt="Listing image for Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art," loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Custom Vinyl Lyric Music Print, First Dance Song, Personalised Record Art,</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +488,15 @@ This emotional bonding helps explain why certain melodies remain unforgettable. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art"><img src="{{ '/assets/images/marketplace-covers/192d30de036d9d1ec182.jpg' | relative_url }}" alt="Listing image for Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Rave Music 90&#x27;s like 3 People Canvas Picture-Framed Print-Poster Paper-Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +504,15 @@ This emotional bonding helps explain why certain melodies remain unforgettable. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +520,15 @@ This emotional bonding helps explain why certain melodies remain unforgettable. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,7 +536,7 @@ This emotional bonding helps explain why certain melodies remain unforgettable. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music art print -book -books" data-ebay-reference="emotion-ad77f9-why-some-melodies-bring-memories-back-music-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-some-melodies-bring-memories-back-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -758,145 +751,145 @@ This emotional bonding helps explain why certain melodies remain unforgettable. 
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12367148/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12367148/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12367148/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music-evoked autobiographical memories are...by S Nawaz · 2025 · Cited by 7 — Studies of music-evoked autobiographical memories (MEAM...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: magazine.hms.harvard.edu  
-   Link: [https://magazine.hms.harvard.edu/articles/how-music-resonates-brain](https://magazine.hms.harvard.edu/articles/how-music-resonates-brain)  
+   Link: <a href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow">https://magazine.hms.harvard.edu/articles/how-music-resonates-brain</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Medicine MagazineHow Music Resonates in the Brain | Harvard Medicine MagazineMusic also lights up nearly all of the brain — inclu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMusic, memory and emotion  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby L Jäncke · 2008 · Cited by 561 — Because emotions enhance memory processes and music evokes strong emotions, music could be i...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Jäncke · 2008 · Cited by 561 — Because emotions enhance memory processes and music evokes strong emotions, music could be i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe transformative power of music: Insights into  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MT Zaatar · 2023 · Cited by 136 — In this literature review, we explore the intricate relationship between music and the brai...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MT Zaatar · 2023 · Cited by 136 — In this literature review, we explore the intricate relationship between music and the brai...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMusic-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 13 — One purported mechanism by which music...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 13 — One purported mechanism by which music...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10466948/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10466948/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDifferential effects of familiarity and emotional expression of...by K Jakubowski · 2022 · Cited by 31 — In sum, more familiar music...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10466948/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10466948/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Differential effects of familiarity and emotional expression of...by K Jakubowski · 2022 · Cited by 31 — In sum, more familiar music...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: time.com  
    Title: Why We Remember Music and Forget Everything Else  
-   Link: [https://time.com/6167197/psychology-behind-remembering-music/](https://time.com/6167197/psychology-behind-remembering-music/)  
+   Link: <a href="https://time.com/6167197/psychology-behind-remembering-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6167197/psychology-behind-remembering-music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We spend significant amounts of time listening to music, making it easier to recall [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) and melodies. The Heardle app leverages this b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26259098/](https://pubmed.ncbi.nlm.nih.gov/26259098/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMusic evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26259098/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26259098/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music evokes vivid autobiographical memoriesby AM Belfi · 2016 · Cited by 287 — The results show that music not only effectively ev...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: durham.ac.uk  
    Title: why does music bring back memories what the science says  
-   Link: [https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/](https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/)  
+   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Emotion on Musical Long-Term Memoryby C Nineuil · 2020 · Cited by 20 — Our results showed that the emotional enhancement of...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: research.gatech.edu  
    Title: music can change how you feel about past  
-   Link: [https://research.gatech.edu/music-can-change-how-you-feel-about-past](https://research.gatech.edu/music-can-change-how-you-feel-about-past)  
+   Link: <a href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow">https://research.gatech.edu/music-can-change-how-you-feel-about-past</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia Tech ResearchMusic Can Change How You Feel About the Past | ResearchDec 2, 2024 — Our results suggest that music acts as an emoti...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17965981/](https://pubmed.ncbi.nlm.nih.gov/17965981/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedCharacterization of music-evoked autobiographical...On average, 30% of the song presentations evoked autobiographical memories, an...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17965981/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17965981/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterization of music-evoked autobiographical...On average, 30% of the song presentations evoked autobiographical memories, an...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/09658210701734593](https://www.tandfonline.com/doi/abs/10.1080/09658210701734593)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/09658210701734593" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09658210701734593</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterisation of music-evoked autobiographical...by P Janata · 2007 · Cited by 643 — On average, 30% of the song presentations evoked...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38217422/](https://pubmed.ncbi.nlm.nih.gov/38217422/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38217422/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38217422/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govMusic-Evoked Autobiographical Memories are Associated...by K Mehl · 2025 · Cited by 12 — Conclusions: These results suggest that...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hippocampus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hippocampus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HippocampusThe hippocampus (pl.: hippocampi), also hippocampus proper, is a major component of the brain of humans and many other ve...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicscience.net  
    Title: Music-Evoked Autobiographical Memories  
-   Link: [https://musicscience.net/research/music-memory/meams/](https://musicscience.net/research/music-memory/meams/)  
+   Link: <a href="https://musicscience.net/research/music-memory/meams/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/meams/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Applied Research in Memory and Cognition...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/us/new](https://music.apple.com/us/new)  
+   Link: <a href="https://music.apple.com/us/new" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/new</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Apple Music - Web PlayerListen to millions of songs, watch music videos, and experience live performances all on Apple Music. P...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/psychology/comments/1lj9fzz/music_to_my_brain_emotional_attachment_to_music/](https://www.reddit.com/r/psychology/comments/1lj9fzz/music_to_my_brain_emotional_attachment_to_music/)  
+   Link: <a href="https://www.reddit.com/r/psychology/comments/1lj9fzz/music_to_my_brain_emotional_attachment_to_music/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1lj9fzz/music_to_my_brain_emotional_attachment_to_music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional attachment to music helps us rememberIn music therapy, especially geriatric psych settings, this is used to promote positive re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection](https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How music, memory, and emotion are connectedElizabeth Margulis, PhD, director of the Music Cognition Lab at Princeton University, talks a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musicpsychology.co.uk  
-   Link: [https://musicpsychology.co.uk/music-emotion-and-the-brain/](https://musicpsychology.co.uk/music-emotion-and-the-brain/)  
+   Link: <a href="https://musicpsychology.co.uk/music-emotion-and-the-brain/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/music-emotion-and-the-brain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music, emotion and the brainThe hippocampus is implicated in music-evoked positive emotions that can, in effect, pacify this system, redu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/etimes/wellness/psychology-explains-why-certain-songs-trigger-emotions/articleshow/131393880.cms](https://timesofindia.indiatimes.com/etimes/wellness/psychology-explains-why-certain-songs-trigger-emotions/articleshow/131393880.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/etimes/wellness/psychology-explains-why-certain-songs-trigger-emotions/articleshow/131393880.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/wellness/psychology-explains-why-certain-songs-trigger-emotions/articleshow/131393880.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It explains that specific songs can provoke feelings of happiness, nostalgia, calmness, or sadness due to their direct influence on brain...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/music-and-memory-the-neuroscience-of-melodic-recall-244e23d23a2e](https://medium.com/illumination/music-and-memory-the-neuroscience-of-melodic-recall-244e23d23a2e)  
+   Link: <a href="https://medium.com/illumination/music-and-memory-the-neuroscience-of-melodic-recall-244e23d23a2e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/music-and-memory-the-neuroscience-of-melodic-recall-244e23d23a2e</a>  
 
 23. <a id="endnote-23"></a>
    Source: selfdefiningmemories.com  
-   Link: [https://www.selfdefiningmemories.com/lesiuk-ripani-2025-the-cognitive-and-emotional-content-of-music-evoked-autobiographical-memories-in-older-adults.pdf](https://www.selfdefiningmemories.com/lesiuk-ripani-2025-the-cognitive-and-emotional-content-of-music-evoked-autobiographical-memories-in-older-adults.pdf)  
+   Link: <a href="https://www.selfdefiningmemories.com/lesiuk-ripani-2025-the-cognitive-and-emotional-content-of-music-evoked-autobiographical-memories-in-older-adults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.selfdefiningmemories.com/lesiuk-ripani-2025-the-cognitive-and-emotional-content-of-music-evoked-autobiographical-memories-in-older-adults.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The cognitive and emotional content of music-evoked...by T Lesiuk · 2025 · Cited by 5 — These memories, which are known as music-evoked...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Listening to music engages not only the auditory cortex,  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10605363/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10605363/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10605363/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10605363/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crescendo: How Music Shapes the Brain&#x27;s Structure...by C Toader · 2023 · Cited by 89 — Music Seems to Encourage Enhanced Connectivity be...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: rijournals.com  
-   Link: [https://rijournals.com/wp-content/uploads/2025/01/RIJCIAM-41-2025-P9.pdf](https://rijournals.com/wp-content/uploads/2025/01/RIJCIAM-41-2025-P9.pdf)  
+   Link: <a href="https://rijournals.com/wp-content/uploads/2025/01/RIJCIAM-41-2025-P9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rijournals.com/wp-content/uploads/2025/01/RIJCIAM-41-2025-P9.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>k of a person&#x27;s life can bring back vivid memories: the taste of a favorite food, the scent of a.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: wp.nyu.edu  
    Title: kaleidoscopic sound dr petr janata on the psychology of music  
-   Link: [https://wp.nyu.edu/steinhardt-appsych_opus/kaleidoscopic-sound-dr-petr-janata-on-the-psychology-of-music/](https://wp.nyu.edu/steinhardt-appsych_opus/kaleidoscopic-sound-dr-petr-janata-on-the-psychology-of-music/)  
+   Link: <a href="https://wp.nyu.edu/steinhardt-appsych_opus/kaleidoscopic-sound-dr-petr-janata-on-the-psychology-of-music/" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/steinhardt-appsych_opus/kaleidoscopic-sound-dr-petr-janata-on-the-psychology-of-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Petr Janata on the Psychology of Musicby SB Judd — His current research interests involve the relationship between music, emotion, and me...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scholarsmine.mst.edu  
    Title: Individual Differences in Music evoked Autobiographical Memories  
-   Link: [https://scholarsmine.mst.edu/context/psysci_facwork/article/1337/viewcontent/Individual_Differences_in_Music_evoked_Autobiographical_Memories.pdf](https://scholarsmine.mst.edu/context/psysci_facwork/article/1337/viewcontent/Individual_Differences_in_Music_evoked_Autobiographical_Memories.pdf)  
+   Link: <a href="https://scholarsmine.mst.edu/context/psysci_facwork/article/1337/viewcontent/Individual_Differences_in_Music_evoked_Autobiographical_Memories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsmine.mst.edu/context/psysci_facwork/article/1337/viewcontent/Individual_Differences_in_Music_evoked_Autobiographical_Memories.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music is increasingly used as a cue for autobiographical memories in psychological research and clinical interventions.Read more...</p></details>

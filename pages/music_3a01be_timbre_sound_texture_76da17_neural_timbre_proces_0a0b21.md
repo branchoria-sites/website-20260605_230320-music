@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b
 - music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b
 tags:
-- music
+- music-3-a01-be
 - timbre
 - neural-timbre
 keywords:
-- music
+- music-3-a01-be
 - timbre
 - neural-timbre
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Auditory neurons process spectral and temporal sound features to identify voices and instruments regardless of pitch.
 hero_summary: Auditory neurons process spectral and temporal sound features to identify voices and instruments regardless of pitch.
 layout: default
 permalink: /neural-timbre/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /timbre/
 nav_short_title: Neural Timbre
 title: How the Brain Distinguishes Timbre Instantly
-title_full: How the Brain Distinguishes Timbre Instantly | Timbre
+title_full: How the Brain Distinguishes Timbre Instantly
 display_title_short: Neural Timbre
 display_title: Neural Timbre
 heading_title: How the Brain Distinguishes Timbre Instantly
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The Same Note Can Feel Different | Music
+parent_title: Why The Same Note Can Feel Different
 parent_permalink: /timbre/
 parent_nav_short_title: Timbre
 parent_heading_title: Why The Same Note Can Feel Different
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Vocal Tract Formants Define Individual Timbre
 up_link:
   basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -265,7 +265,7 @@ next_link:
   permalink: /synthetic-timbre/
   short_title: Synthetic Timbre
   heading_title: Making Synthesized Sounds Feel Human and Expressive
-date: '2026-06-09 07:54:45 '
+date: '2026-06-11 23:58:53 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1.webp
@@ -274,45 +274,32 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_pro
 
 ## Introduction
 
-When we hear the character of a violin, the breathiness of a singer’s voice or the warm richness of a cello, our brain rapidly interprets **[timbre]({{ 'timbre/' | relative_url }})** — the quality that distinguishes sounds even when pitch and loudness are the same. At the heart of this ability is how neurons in the **auditory cortex** encode the spectral and temporal features of sound to construct rich, identifiable timbral representations. Unlike low‑level cochlear filtering, cortical mechanisms integrate complex patterns over time and frequency to support the perceptual constancy of timbre across contexts such as musical performance and speech. Extensive research in humans and animal models reveals that this neural encoding is **distributed**, spectrotemporal in nature, and tightly linked to timbre identity rather than isolated [physical]({{ 'physical/' | relative_url }}) cues alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">PMCFebruary 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
-
+When we hear the character of a violin, the breathiness of a singer’s voice or the warm richness of a cello, our brain rapidly interprets **[timbre]({{ 'timbre/' | relative_url }})** — the quality that distinguishes sounds even when pitch and loudness are the same. At the heart of this ability is how neurons in the **auditory cortex** encode the spectral and temporal features of sound to construct rich, identifiable timbral representations. Unlike low‑level cochlear filtering, cortical mechanisms integrate complex patterns over time and frequency to support the perceptual constancy of timbre across contexts such as musical performance and speech. Extensive research in humans and animal models reveals that this neural encoding is **distributed**, spectrotemporal in nature, and tightly linked to timbre identity rather than isolated [physical]({{ 'physical/' | relative_url }}) cues alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">February 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-dark.svg" | relative_url }}" alt="Neural Timbre illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Auditory Cortex Representation of Spectral Features
 
 Neurons in the auditory cortex respond to combinations of frequencies and their relative power — the spectral envelope — which is a core element of timbre. In classic models, neurons are organised tonotopically so that different frequencies map onto different cortical locations; however, timbre perception depends on **integrating across these frequencies** rather than simply detecting one at a time. Animal studies show that single neurons in primary auditory cortex can be sensitive to complex spectral envelope cues that contribute to timbre, though in many cases the same neurons also respond to other features like pitch and sound location, indicating **overlapping sensitivity** rather than strict segregation of timbre coding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNeural and behavioral investigations into timbre perception</span></span></span>
 
-Human neuroimaging with encoding models expands this picture by linking **perceptual dimensions of timbre** directly to cortical responses. Functional MRI studies have compared models grounded in subjective timbre ratings with models based on physical acoustics (spectral and temporal modulations). These analyses find that models capturing **joint spectrotemporal features** — combinations of spectral shape and temporal modulation — often outperform purely spectral descriptions, suggesting that cortical populations encode **dynamic spectral patterns** associated with distinctive timbral qualities. In early auditory cortex [regions]({{ 'regions/' | relative_url }}) near **Heschl’s gyrus**, subjective timbre dimensions can predict neural responses as well as or better than physical spectral models, indicating a perceptually meaningful cortical representation of timbre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMultiplexed and Robust Representations of Sound Features in Auditory Cortex</span><span class="citation-popover-snippet">PMCOctober 12, 2011...</span><span class="citation-popover-meta">Published: October 12, 2011</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bT4quNQgaOg" title="How Do You Hear? Auditory Structures and Pathway - Auditory Cortex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bT4quNQgaOg" target="_blank" rel="noopener noreferrer">How Do You Hear? Auditory Structures and Pathway - Auditory Cortex</a></p><p class="youtube-embed-meta">Channel: Psych Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bT4quNQgaOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bT4quNQgaOg">Open on YouTube</a></p></div></div></div>
-
-## Temporal Evolution and Sound Identity
-
-Timbre is not static; how a sound’s spectral content evolves over time — the **attack, sustain, decay, and modulation patterns** — contributes substantially to its identity. Cortical neurons’ responses reflect this temporal structure. In electrophysiological recordings from mammalian auditory cortex, timbre‑related information often appears **earlier in the neural response** than pitch information, supporting behavioural observations that listeners can discriminate timbre rapidly. This early temporal encoding aligns with the idea that transient spectral changes (e.g. rapid onset differences between instruments) are crucial for timbre recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCFebruary 18, 2009...</span><span class="citation-popover-meta">Published: February 18, 2009</span></span></span>
-
-At the population level, cortical representations combine frequency and temporal modulation tuning. Research using models of **spectrotemporal receptive fields (STRFs)** shows that neurons are sensitive to joint spectrotemporal patterns, effectively performing a multi‑resolution analysis of sound. Such encoding enables the auditory cortex to track both fine spectral details (which shape timbral colour) and temporal fluctuations (which signal dynamic changes in sound identity). This spectrotemporal integration appears essential for distinguishing complex natural sounds, including musical instruments and voices, across variations in pitch or loudness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSEncoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex | PLOS Computational BiologyJan...</span></span></span>
-
+Human neuroimaging with encoding models expands this picture by linking **perceptual dimensions of timbre** directly to cortical responses. Functional MRI studies have compared models grounded in subjective timbre ratings with models based on physical acoustics (spectral and temporal modulations). These analyses find that models capturing **joint spectrotemporal features** — combinations of spectral shape and temporal modulation — often outperform purely spectral descriptions, suggesting that cortical populations encode **dynamic spectral patterns** associated with distinctive timbral qualities. In early auditory cortex [regions]({{ 'regions/' | relative_url }}) near **Heschl’s gyrus**, subjective timbre dimensions can predict neural responses as well as or better than physical spectral models, indicating a perceptually meaningful cortical representation of timbre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMultiplexed and Robust Representations of Sound Features in Auditory Cortex</span><span class="citation-popover-snippet">October 12, 2011...</span><span class="citation-popover-meta">Published: October 12, 2011</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-2-dark.svg" | relative_url }}" alt="Neural Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Temporal Evolution and Sound Identity
+
+Timbre is not static; how a sound’s spectral content evolves over time — the **attack, sustain, decay, and modulation patterns** — contributes substantially to its identity. Cortical neurons’ responses reflect this temporal structure. In electrophysiological recordings from mammalian auditory cortex, timbre‑related information often appears **earlier in the neural response** than pitch information, supporting behavioural observations that listeners can discriminate timbre rapidly. This early temporal encoding aligns with the idea that transient spectral changes (e.g. rapid onset differences between instruments) are crucial for timbre recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">February 18, 2009...</span><span class="citation-popover-meta">Published: February 18, 2009</span></span></span>
+
+At the population level, cortical representations combine frequency and temporal modulation tuning. Research using models of **spectrotemporal receptive fields (STRFs)** shows that neurons are sensitive to joint spectrotemporal patterns, effectively performing a multi‑resolution analysis of sound. Such encoding enables the auditory cortex to track both fine spectral details (which shape timbral colour) and temporal fluctuations (which signal dynamic changes in sound identity). This spectrotemporal integration appears essential for distinguishing complex natural sounds, including musical instruments and voices, across variations in pitch or loudness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Encoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex &#124; PLOS Computational BiologyJan...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-dark.svg" | relative_url }}" alt="Neural Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timbre Adaptation and Perceptual Shifts
 
-Beyond early encoding, auditory cortical populations adapt their responses based on experience, expectation, and context. Encoding models trained on subjective perceptual timbre dimensions — such as those derived from listener ratings — outperform simpler physical models in predicting cortical activity, especially in right auditory areas near and beyond Heschl’s gyrus. This suggests that the brain’s timbre representation aligns not only with physical sound features but with **perceptual categories** that matter for recognising voices and instruments. Such alignment may reflect plasticity driven by extensive exposure to [music]({{ 'music/' | relative_url }}) and speech, where learned timbral distinctions become embedded in cortical tuning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</span></span></span>
+Beyond early encoding, auditory cortical populations adapt their responses based on experience, expectation, and context. Encoding models trained on subjective perceptual timbre dimensions — such as those derived from listener ratings — outperform simpler physical models in predicting cortical activity, especially in right auditory areas near and beyond Heschl’s gyrus. This suggests that the brain’s timbre representation aligns not only with physical sound features but with **perceptual categories** that matter for recognising voices and instruments. Such alignment may reflect plasticity driven by extensive exposure to music and speech, where learned timbral distinctions become embedded in cortical tuning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</span></span></span>
 
-The distributed nature of timbre encoding also means that neurons rarely respond exclusively to timbre alone. Instead, timbre, pitch and spatial cues often interact within single neurons or across local populations, highlighting a **multidimensional and context‑sensitive cortical code**. This distributed coding supports perceptual constancy: the ability to recognise a timbre across changes in fundamental frequency or acoustic environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">PMCFebruary 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QGymiYqhemg" title="DayCon 2019: The Neuroscience of Music Perception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QGymiYqhemg" target="_blank" rel="noopener noreferrer">DayCon 2019: The Neuroscience of Music Perception</a></p><p class="youtube-embed-meta">Channel: SITN: A Harvard Griffin GSAS Student Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QGymiYqhemg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QGymiYqhemg">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KVX8j5s53Os" title="From Perception to Pleasure: How Music Changes the Brain | Dr. Robert Zatorre | TEDxHECMontréal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KVX8j5s53Os" target="_blank" rel="noopener noreferrer">From Perception to Pleasure: How Music Changes the Brain | Dr. Robert Zatorre | TEDxHECMontréal</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KVX8j5s53Os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KVX8j5s53Os">Open on YouTube</a></p></div></div></div>
+The distributed nature of timbre encoding also means that neurons rarely respond exclusively to timbre alone. Instead, timbre, pitch and spatial cues often interact within single neurons or across local populations, highlighting a **multidimensional and context‑sensitive cortical code**. This distributed coding supports perceptual constancy: the ability to recognise a timbre across changes in fundamental frequency or acoustic environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">February 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
 
 ## Summary
 
 Neural encoding of timbre in the auditory cortex is shaped by the integration of **spectral envelopes and temporal dynamics** across wide frequency ranges. Cortical populations represent joint spectrotemporal patterns that correspond to perceptual qualities of timbre, beyond simple frequency‑specific responses. This encoding supports rapid timbre discrimination, aligns with learned perceptual categories, and interacts with other auditory features like pitch and spatial location. The result is a robust, distributed cortical mechanism that underpins our ability to recognise the expressive qualities of human voices and musical instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNeural and behavioral investigations into timbre perception</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-dark.svg" | relative_url }}" alt="Neural Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -711,93 +698,93 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCFebruary 1, 2018...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2018...</p></details>
    Published: February 1, 2018  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNeural and behavioral investigations into timbre perception  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMultiplexed and Robust Representations of Sound Features in Auditory Cortex  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCOctober 12, 2011...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2011...</p></details>
    Published: October 12, 2011  
 
 4. <a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSEncoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex | PLOS Computational BiologyJan...</p></details>
+   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex | PLOS Computational BiologyJan...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCFebruary 18, 2009...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2009...</p></details>
    Published: February 18, 2009  
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23133363/](https://pubmed.ncbi.nlm.nih.gov/23133363/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23133363/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23133363/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in our ears: the biological bases of musical timbre perception - PubMedNovember 1, 2012 — ABSTRACT Timbre is the attribute of sound that...</p></details>
    Published: November 1, 2012  
 
 7. <a id="endnote-7"></a>
    Source: neuroscience.ox.ac.uk  
-   Link: [https://www.neuroscience.ox.ac.uk/publications/113872](https://www.neuroscience.ox.ac.uk/publications/113872)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>— Oxford NeuroscienceINTERDEPENDENT ENCODING OF PITCH, TIMBRE, AND SPATIAL LOCATION IN AUDITORY CORTEX. BIZLEY JK., WALKER KMM., SILVERMA...</p></details>
+   Link: <a href="https://www.neuroscience.ox.ac.uk/publications/113872" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscience.ox.ac.uk/publications/113872</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford NeuroscienceINTERDEPENDENT ENCODING OF PITCH, TIMBRE, AND SPATIAL LOCATION IN AUDITORY CORTEX. BIZLEY JK., WALKER KMM., SILVERMA...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Encoding of natural timbre dimensions in human auditory cortex  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1053811917308844](https://www.sciencedirect.com/science/article/pii/S1053811917308844)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1053811917308844" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1053811917308844</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of natural timbre dimensions in human auditory cortex - ScienceDirectFebruary 1, 2018 — Volume 166, 1 February 2018, Pages 60-70...</p></details>
    Published: February 1, 2018  
 
 9. <a id="endnote-9"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: nl Encoding of natural timbre dimensions in human auditory cortex  
-   Link: [https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/](https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/)  
+   Link: <a href="https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of natural timbre dimensions in human auditory cortex - Maastricht UniversityFebruary 1, 2018 — ENCODING OF NATURAL TIMBRE DIMENSIONS IN...</p></details>
    Published: February 1, 2018  
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Some animal studies of auditory cortical p  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28025255/](https://pubmed.ncbi.nlm.nih.gov/28025255/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28025255/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28025255/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Pitch and Timbre Variation in Human Auditory Cortex - PubMedFebruary 1, 2017 — ABSTRACT Pitch and timbre are two primary dimensions of...</p></details>
    Published: February 1, 2017  
 
 11. <a id="endnote-11"></a>
    Source: experts.umn.edu  
    Title: encoding of natural timbre dimensions in human auditory cortex  
-   Link: [https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex](https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex)  
+   Link: <a href="https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen *, Michelle Moerel *, Agustín Lage-Castellanos *, Federico De Martino *, Elia Formisano *, Andrew J. Oxenham * P...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers | Neural and behavioral investigations into timbre perception  
-   Link: [https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full)  
+   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) NEURAL AND BEHA...</p></details>
    Published: November 2013  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/09298219708570723](https://www.tandfonline.com/doi/abs/10.1080/09298219708570723)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/09298219708570723" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09298219708570723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Representation of musical timbre in the auditory cortex*: Journal of New Music Research: Vol 26, No 2June 3, 2008 — Image: Publication C...</p></details>
    Published: June 3, 2008  
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1073858410371009](https://journals.sagepub.com/doi/10.1177/1073858410371009)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1073858410371009" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1073858410371009</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizley, Kerry M. M. Walker, 2010June 7, 2010 — SENSITIVITY AND SELECTIVITY OF NEURONS IN AUDITORY CORTEX TO THE PITCH, TIMBRE, AND LOCATI...</p></details>
-   Published: June 7, 2010  
+   Published: June 7, 2010

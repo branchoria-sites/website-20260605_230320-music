@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_vinyl_streaming_era_a87a09_vinyl_ownership_c6792f
 - music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe
 tags:
-- music
+- music-3-a01-be
 - vinyl
 - artwork
 keywords:
-- music
+- music-3-a01-be
 - vinyl
 - artwork
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Large sleeves, inserts, coloured discs, and gatefolds make albums decorative, giftable, and easier for fans to display.
 hero_summary: Large sleeves, inserts, coloured discs, and gatefolds make albums decorative, giftable, and easier for fans to display.
 layout: default
 permalink: /artwork/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /vinyl/
 nav_short_title: Artwork
 title: How Album Art Became Big Again
-title_full: How Album Art Became Big Again | Vinyl
+title_full: How Album Art Became Big Again
 display_title_short: Artwork
 display_title: Artwork
 heading_title: How Album Art Became Big Again
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Vinyl Came Back In A Digital Age | Music
+parent_title: Why Vinyl Came Back In A Digital Age
 parent_permalink: /vinyl/
 parent_nav_short_title: Vinyl
 parent_heading_title: Why Vinyl Came Back In A Digital Age
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Are Vinyl Variants Good for Fans?
 up_link:
   basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -259,7 +259,7 @@ next_link:
   permalink: /ownership/
   short_title: Ownership
   heading_title: Why Vinyl Still Feels Like Owning Music
-date: '2026-06-09 06:48:26 '
+date: '2026-06-11 23:25:27 '
 header:
   og_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1.webp
@@ -270,28 +270,24 @@ image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwor
 
 [Vinyl]({{ 'vinyl/' | relative_url }}) records survived the streaming era partly because they restored something that digital music shrank: album artwork. On a phone screen, even a celebrated cover may appear as a small thumbnail competing with playlists, notifications and recommendations. A 12-inch vinyl sleeve turns the same image into a large [physical]({{ 'physical/' | relative_url }}) object that can be held, studied, displayed and collected. For many buyers, the artwork is not an accessory to the music; it is part of the product itself. Research on contemporary vinyl consumers has found that album artwork plays a significant role in how listeners remember, discuss and value records, especially in a streaming-dominated environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — This research stem...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1-dark.svg" | relative_url }}" alt="Artwork illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why vinyl continues to grow even while streaming dominates everyday listening. Buyers are often paying not only for [music]({{ 'music/' | relative_url }}) but also for design, packaging and the experience of owning a visually distinctive object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Reports: US Recorded Music Annual Revenue</span><span class="citation-popover-snippet">RIAARIAA Reports: US Recorded Music Annual Revenue...March 16, 2026 — 16 Mar 2026 — In 19th consecutive year of growth (.3% in 2025), vi...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span>
-
+This helps explain why vinyl continues to grow even while streaming dominates everyday listening. Buyers are often paying not only for music but also for design, packaging and the experience of owning a visually distinctive object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Reports: US Recorded Music Annual Revenue</span><span class="citation-popover-snippet">RIAA Reports: US Recorded Music Annual Revenue...March 16, 2026 — 16 Mar 2026 — In 19th consecutive year of growth (.3% in 2025), vi...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ixMNf9xy3w" title="Does Album Art Still Matter? For Vinyl &amp; Digital..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ixMNf9xy3w" target="_blank" rel="noopener noreferrer">Does Album Art Still Matter? For Vinyl &amp; Digital...</a></p><p class="youtube-embed-meta">Channel: Sound Matters &middot; Views: 1.1K &middot; Uploaded: February 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ixMNf9xy3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ixMNf9xy3w">Open on YouTube</a></p></div></div></div>
 
 ## From Streaming Thumbnails to 12-Inch Sleeves
 
-Album covers have always mattered in popular music, but the scale of vinyl gives them a different cultural role. A square sleeve measuring roughly 12 inches by 12 inches provides enough space for photography, illustration, typography and visual storytelling to become part of the listening experience. Many of the most famous images in music history became iconic partly because they appeared on large record sleeves that listeners repeatedly handled and examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">best album covers of all time 6715351</span><span class="citation-popover-snippet">BillboardThe 100 Best Album Covers of All Time7 Aug 2023 — We&#x27;ve rounded up a list of the 100 greatest album covers of all time, reaching...</span></span></span>
+Album covers have always mattered in popular music, but the scale of vinyl gives them a different cultural role. A square sleeve measuring roughly 12 inches by 12 inches provides enough space for photography, illustration, typography and visual storytelling to become part of the listening experience. Many of the most famous images in music history became iconic partly because they appeared on large record sleeves that listeners repeatedly handled and examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">best album covers of all time 6715351</span><span class="citation-popover-snippet">The 100 Best Album Covers of All Time7 Aug 2023 — We&#x27;ve rounded up a list of the 100 greatest album covers of all time, reaching...</span></span></span>
 
-Streaming platforms did not eliminate album art, but they changed how it is encountered. Covers are usually viewed as small digital images, often for only a few seconds before a listener moves on. By contrast, vinyl encourages prolonged [attention]({{ 'attention/' | relative_url }}). While a record plays, listeners can read liner notes, inspect photographs, follow [lyrics]({{ 'lyrics/' | relative_url }}) and engage with the visual concept behind the album. Designers and musicians frequently describe the vinyl format as one of the few remaining spaces where music packaging can function as a complete artistic statement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioculture.co.nz">[AudioCulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioculture.co.nz</span><span class="citation-popover-title">art on their sleeves album design in the 21st century</span><span class="citation-popover-snippet">AudioCultureArt on Their Sleeves: album design in the 21st century22 Nov 2023 — Here is art – sometimes framable – to pore over and decip...</span></span></span>
+Streaming platforms did not eliminate album art, but they changed how it is encountered. Covers are usually viewed as small digital images, often for only a few seconds before a listener moves on. By contrast, vinyl encourages prolonged [attention]({{ 'attention/' | relative_url }}). While a record plays, listeners can read liner notes, inspect photographs, follow [lyrics]({{ 'lyrics/' | relative_url }}) and engage with the visual concept behind the album. Designers and musicians frequently describe the vinyl format as one of the few remaining spaces where music packaging can function as a complete artistic statement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioculture.co.nz">[AudioCulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioculture.co.nz</span><span class="citation-popover-title">art on their sleeves album design in the 21st century</span><span class="citation-popover-snippet">Art on Their Sleeves: album design in the 21st century22 Nov 2023 — Here is art – sometimes framable – to pore over and decip...</span></span></span>
 
 This difference matters because music consumption has become increasingly intangible. When millions of songs are available instantly, visual presentation can help transform an album from a file into an object with identity. The sleeve becomes part of what the buyer is purchasing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CBmmMDSsyI0" title="Best Gatefold Album Covers - Iconic Classics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CBmmMDSsyI0" target="_blank" rel="noopener noreferrer">Best Gatefold Album Covers - Iconic Classics</a></p><p class="youtube-embed-meta">Channel: Sound Matters &middot; Views: 2.3K &middot; Uploaded: March 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CBmmMDSsyI0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CBmmMDSsyI0">Open on YouTube</a></p></div></div></div>
 
 ## Posters, Inserts, Gatefolds, and Coloured Vinyl
 
 Modern vinyl releases often expand far beyond a simple record sleeve. Labels and artists use packaging features that have little equivalent in streaming services:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,20 +303,18 @@ These features allow the physical release to become a collectible artefact rathe
 
 The appeal is not limited to collectors seeking rarity. Attractive packaging also makes records easier to give as gifts. A vinyl album can function simultaneously as music, artwork and memorabilia, which helps justify prices that are often far higher than the cost of a streaming subscription.
 
-A notable aspect of the current vinyl market is that many releases are designed with display in mind. Record shelves, wall-mounted frames and social media photographs all encourage albums to be treated as decorative objects. In this sense, artwork is no longer confined to the listening moment; it becomes part of home décor and personal identity.
-
+A notable aspect of the current vinyl market is that many releases are designed with display in mind. Record shelves, wall-mounted frames and social media photographs all encourage [albums]({{ 'albums/' | relative_url }}) to be treated as decorative objects. In this sense, artwork is no longer confined to the listening moment; it becomes part of home décor and personal identity.
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-2-dark.svg" | relative_url }}" alt="Artwork illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Physical Design Matters to Younger Buyers
 
-One common misconception is that vinyl artwork appeals mainly to older listeners who remember the pre-digital era. Research into younger vinyl consumers suggests a more complex picture. Studies of vinyl revival culture have identified visual appeal, physical interaction and the desire for tangible ownership as important motivations among younger buyers, many of whom grew up with streaming services rather than record collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/109582189/Why_do_young_people_consume_vinyl_records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Why do young people consume vinyl records?January 1, 2023 — Five key motivations identified are coolness, celebrity endorse...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+One common misconception is that vinyl artwork appeals mainly to older listeners who remember the pre-digital era. Research into younger vinyl consumers suggests a more complex picture. Studies of vinyl revival culture have identified visual appeal, physical interaction and the desire for tangible [ownership]({{ 'ownership/' | relative_url }}) as important motivations among younger buyers, many of whom grew up with streaming services rather than record collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/109582189/Why_do_young_people_consume_vinyl_records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Why do young people consume vinyl records?January 1, 2023 — Five key motivations identified are coolness, celebrity endorse...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 For younger listeners, the attraction is often not nostalgia for a past they never experienced. Instead, it is the novelty of owning something substantial in a largely digital media environment. The artwork provides a visible connection to artists and albums that otherwise exist mainly as entries in an app.
 
 Visual culture also plays a role. Younger audiences are accustomed to expressing identity through images, collections and curated personal spaces. A shelf of records communicates taste in a way that a hidden streaming library cannot. Album covers become cultural signals, conversation pieces and display items. Research on vinyl consumption has shown that artwork helps listeners construct memories and emotional attachments around records, reinforcing the feeling that certain albums deserve a special place in their lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — This research stem...</span></span></span>
 
 Industry surveys indicate strong engagement with vinyl among Generation Z consumers, suggesting that physical design remains relevant even for audiences who have never relied on records as their primary listening format. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vinylalliance.org/wp-content/uploads/2025/01/Gen-Z-Report-Preview.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vinylalliance.org">[Vinyl Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vinylalliance.org</span><span class="citation-popover-snippet">Vinyl AllianceGEN Z REPoRT PREVIEWAccording to our Vinyl Alliance survey 76% of Gen Z vinyl fans buy records at least once a month, with...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S90hvsnFYgQ" title="Why Do We Buy Vinyl Records? Six Great Reasons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S90hvsnFYgQ" target="_blank" rel="noopener noreferrer">Why Do We Buy Vinyl Records? Six Great Reasons</a></p><p class="youtube-embed-meta">Channel: Sound Matters &middot; Views: 6.1K &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S90hvsnFYgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S90hvsnFYgQ">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +323,6 @@ Industry surveys indicate strong engagement with vinyl among Generation Z consum
 The enduring importance of album art highlights a broader shift in how vinyl functions. Most buyers already have convenient access to the music through streaming. What they cannot stream is the physical experience of ownership.
 
 Artwork helps create that experience by combining several forms of value at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,8 +334,7 @@ Artwork helps create that experience by combining several forms of value at once
 
 </div>
 
-As streaming became the dominant way to hear music, the visual and tactile qualities of vinyl became more important rather than less. The large sleeve, the gatefold spread, the poster tucked inside and the coloured disc itself all give fans something tangible to engage with. In a music culture increasingly organised around screens and subscriptions, album artwork regained significance because vinyl turned it back into something people could hold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioculture.co.nz">[AudioCulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioculture.co.nz</span><span class="citation-popover-title">art on their sleeves album design in the 21st century</span><span class="citation-popover-snippet">AudioCultureArt on Their Sleeves: album design in the 21st century22 Nov 2023 — Here is art – sometimes framable – to pore over and decip...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — This research stem...</span></span></span>
-
+As streaming became the dominant way to hear music, the visual and tactile qualities of vinyl became more important rather than less. The large sleeve, the gatefold spread, the poster tucked inside and the coloured disc itself all give fans something tangible to engage with. In a music culture increasingly organised around screens and subscriptions, album artwork regained significance because vinyl turned it back into something people could hold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioculture.co.nz">[AudioCulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioculture.co.nz</span><span class="citation-popover-title">art on their sleeves album design in the 21st century</span><span class="citation-popover-snippet">Art on Their Sleeves: album design in the 21st century22 Nov 2023 — Here is art – sometimes framable – to pore over and decip...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — This research stem...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-3-dark.svg" | relative_url }}" alt="Artwork illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -463,15 +455,15 @@ As streaming became the dominant way to hear music, the visual and tactile quali
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display"><img src="{{ '/assets/images/marketplace-covers/d4c9188e058f27879ea0.jpg' | relative_url }}" alt="Listing image for 12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 A4 A5 Rihanna Various Album Cover Wall Art Posters Poster"><img src="https://i.ebayimg.com/images/g/ABsAAeSwFhlpneGE/s-l225.jpg" alt="Listing image for Large A0 A1 A2 A3 A4 A5 Rihanna Various Album Cover Wall Art Posters Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer">12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 A4 A5 Rihanna Various Album Cover Wall Art Posters Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: album wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +471,15 @@ As streaming became the dominant way to hear music, the visual and tactile quali
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Choose your Album Cover - Album Cover Print - Framed Canvas Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/6e8ef2ac17812c831cad.jpg' | relative_url }}" alt="Listing image for Choose your Album Cover - Album Cover Print - Framed Canvas Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Taylor swift bedroom poster prints album cover boys girls gift A2 A3 A4 A5 X11"><img src="https://i.ebayimg.com/images/g/YOIAAOSwb-FmSlo4/s-l225.jpg" alt="Listing image for Taylor swift bedroom poster prints album cover boys girls gift A2 A3 A4 A5 X11" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer">Choose your Album Cover - Album Cover Print - Framed Canvas Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Taylor swift bedroom poster prints album cover boys girls gift A2 A3 A4 A5 X11</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: album wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +487,15 @@ As streaming became the dominant way to hear music, the visual and tactile quali
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CD &amp; Album Cover Frame Merged Display Case Wall Art Black Frame Music Decor"><img src="{{ '/assets/images/marketplace-covers/dac22905b68c29651aa0.jpg' | relative_url }}" alt="Listing image for CD &amp; Album Cover Frame Merged Display Case Wall Art Black Frame Music Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes"><img src="https://i.ebayimg.com/images/g/CoMAAOSwxaJksAwI/s-l225.jpg" alt="Listing image for EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer">CD &amp; Album Cover Frame Merged Display Case Wall Art Black Frame Music Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: album wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +503,15 @@ As streaming became the dominant way to hear music, the visual and tactile quali
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson, Off The Wall, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/99ef24a7730e885eb1e7.jpg' | relative_url }}" alt="Listing image for Michael Jackson, Off The Wall, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LINKIN PARK &quot;HYBRID THEORY&quot;.. Retro Album Cover Poster Various Sizes"><img src="https://i.ebayimg.com/images/g/CUAAAOSwsNFksA6D/s-l225.jpg" alt="Listing image for LINKIN PARK &quot;HYBRID THEORY&quot;.. Retro Album Cover Poster Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson, Off The Wall, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">LINKIN PARK &quot;HYBRID THEORY&quot;.. Retro Album Cover Poster Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: album wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +519,7 @@ As streaming became the dominant way to hear music, the visual and tactile quali
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=artwork-how-album-art-became-big-again-music-album-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album wall art" data-ebay-reference="artwork-how-album-art-became-big-again-music-album-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-album-art-became-big-again-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="how-album-art-became-big-again-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,125 +735,125 @@ As streaming became the dominant way to hear music, the visual and tactile quali
 1. <a id="endnote-1"></a>
    Source: riaa.com  
    Title: Reports: US Recorded Music Annual Revenue  
-   Link: [https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/](https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARIAA Reports: US Recorded Music Annual Revenue...March 16, 2026 — 16 Mar 2026 — In 19th consecutive year of growth (.3% in 2025), vi...</p></details>
+   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Reports: US Recorded Music Annual Revenue...March 16, 2026 — 16 Mar 2026 — In 19th consecutive year of growth (.3% in 2025), vi...</p></details>
    Published: March 16, 2026  
 
 2. <a id="endnote-2"></a>
    Source: billboard.com  
    Title: best album covers of all time 6715351  
-   Link: [https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/](https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardThe 100 Best Album Covers of All Time7 Aug 2023 — We&#x27;ve rounded up a list of the 100 greatest album covers of all time, reaching...</p></details>
+   Link: <a href="https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 100 Best Album Covers of All Time7 Aug 2023 — We&#x27;ve rounded up a list of the 100 greatest album covers of all time, reaching...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rpmrecords.dk  
-   Link: [https://rpmrecords.dk/artwork-packaging/](https://rpmrecords.dk/artwork-packaging/)  
+   Link: <a href="https://rpmrecords.dk/artwork-packaging/" target="_blank" rel="noopener noreferrer nofollow">https://rpmrecords.dk/artwork-packaging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RPM RecordsBelow, you will find vinyl cover templates for 7-inch or 12-inch records, center labels, gatefolds, inner sleeves, and more.Re...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/109582189/Why_do_young_people_consume_vinyl_records](https://www.academia.edu/109582189/Why_do_young_people_consume_vinyl_records)  
+   Link: <a href="https://www.academia.edu/109582189/Why_do_young_people_consume_vinyl_records" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/109582189/Why_do_young_people_consume_vinyl_records</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Why do young people consume vinyl records?January 1, 2023 — Five key motivations identified are coolness, celebrity endorse...</p></details>
    Published: January 1, 2023  
 
 5. <a id="endnote-5"></a>
    Source: riaa.com  
    Title: 2025 mid year music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Mid-Year Music Industry Revenue ReportVinyl held steady, making up more than three-quarters of all physical music revenues following...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: riaa.com  
    Title: RIAA 2024Year End Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA 2024 Year-End Revenue ReportRevenues from vinyl records grew 7% to $1.4 billion – the eighteenth consecutive year of growth – and ac...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: makingvinyl.com  
    Title: Vinyl records  
-   Link: [https://makingvinyl.com/revenues-from-physical-music-[formats](https://makingvinyl.com/revenues-from-physical-music-[formats)  
+   Link: <a href="https://makingvinyl.com/revenues-from-physical-music-[formats" target="_blank" rel="noopener noreferrer nofollow">https://makingvinyl.com/revenues-from-physical-music-[formats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenues from Physical Music Formats Continue to GrowAccording to the RIAA 2022 Year End report, total physical music revenues in 2022 re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: vinyl.com  
    Title: the impact of vinyl records on modern music  
-   Link: [https://vinyl.com/blogs/blog/the-impact-of-vinyl-records-on-modern-music?srsltid=AfmBOopFXtfIJjBqwDwBmc-IksMuAEqdBo8OOGzzYSBwsvA4unzDLJkW](https://vinyl.com/blogs/blog/the-impact-of-vinyl-records-on-modern-music?srsltid=AfmBOopFXtfIJjBqwDwBmc-IksMuAEqdBo8OOGzzYSBwsvA4unzDLJkW)  
+   Link: <a href="https://vinyl.com/blogs/blog/the-impact-of-vinyl-records-on-modern-music?srsltid=AfmBOopFXtfIJjBqwDwBmc-IksMuAEqdBo8OOGzzYSBwsvA4unzDLJkW" target="_blank" rel="noopener noreferrer nofollow">https://vinyl.com/blogs/blog/the-impact-of-vinyl-records-on-modern-music?srsltid=AfmBOopFXtfIJjBqwDwBmc-IksMuAEqdBo8OOGzzYSBwsvA4unzDLJkW</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2024 — Vinyl records have woven a rich, enduring thread through the fabric of modern music, influencing everything from production...</p></details>
    Published: May 2024  
 
 9. <a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124](https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — This research stem...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: audioculture.co.nz  
    Title: art on their sleeves album design in the 21st century  
-   Link: [https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century](https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AudioCultureArt on Their Sleeves: album design in the 21st century22 Nov 2023 — Here is art – sometimes framable – to pore over and decip...</p></details>
+   Link: <a href="https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century" target="_blank" rel="noopener noreferrer nofollow">https://www.audioculture.co.nz/articles/art-on-their-sleeves-album-design-in-the-21st-century</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art on Their Sleeves: album design in the 21st century22 Nov 2023 — Here is art – sometimes framable – to pore over and decip...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: loudersound.com  
-   Link: [https://www.loudersound.com/music/albums/its-a-veritable-smorgasbord-of-musicality-for-the-curious-and-a-buffet-of-favourites-for-the-fans-new-career-spanning-frank-zappa-collection-to-be-released-on-vinyl-for-the-very-first-time](https://www.loudersound.com/music/albums/its-a-veritable-smorgasbord-of-musicality-for-the-curious-and-a-buffet-of-favourites-for-the-fans-new-career-spanning-frank-zappa-collection-to-be-released-on-vinyl-for-the-very-first-time)  
+   Link: <a href="https://www.loudersound.com/music/albums/its-a-veritable-smorgasbord-of-musicality-for-the-curious-and-a-buffet-of-favourites-for-the-fans-new-career-spanning-frank-zappa-collection-to-be-released-on-vinyl-for-the-very-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.loudersound.com/music/albums/its-a-veritable-smorgasbord-of-musicality-for-the-curious-and-a-buffet-of-favourites-for-the-fans-new-career-spanning-frank-zappa-collection-to-be-released-on-vinyl-for-the-very-first-time</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Originally available only on CD, this will be the first time the album is available on vinyl. The collection showcases a wide array of Za...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vinylalliance.org  
-   Link: [https://vinylalliance.org/wp-content/uploads/2025/01/Gen-Z-Report-Preview.pdf](https://vinylalliance.org/wp-content/uploads/2025/01/Gen-Z-Report-Preview.pdf)  
+   Link: <a href="https://vinylalliance.org/wp-content/uploads/2025/01/Gen-Z-Report-Preview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vinylalliance.org/wp-content/uploads/2025/01/Gen-Z-Report-Preview.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl AllianceGEN Z REPoRT PREVIEWAccording to our Vinyl Alliance survey 76% of Gen Z vinyl fans buy records at least once a month, with...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming](https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming)  
+   Link: <a href="https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the age of music streaming, the physicality of vinyl has never been so appealing. While studies have focused on the medium itself...R...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/album-covers/s?k=album+covers&page=2](https://www.amazon.com/album-covers/s?k=album+covers&page=2)  
+   Link: <a href="https://www.amazon.com/album-covers/s?k=album+covers&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/album-covers/s?k=album+covers&amp;page=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Album CoversPreserve the legacy of iconic album covers with protective sleeves and storage solutions. Ensure your collection remains in t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: etsy.com  
-   Link: [https://www.etsy.com/market/vinyl_album_art](https://www.etsy.com/market/vinyl_album_art)  
+   Link: <a href="https://www.etsy.com/market/vinyl_album_art" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/market/vinyl_album_art</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl Album ArtExplore unique vinyl album art, perfect for music lovers and collectors. Discover custom posters, vintage prints, and icon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wallpaper.com  
-   Link: [https://www.wallpaper.com/art/music/pet-shop-boys-mark-farrow-interview](https://www.wallpaper.com/art/music/pet-shop-boys-mark-farrow-interview)  
+   Link: <a href="https://www.wallpaper.com/art/music/pet-shop-boys-mark-farrow-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.wallpaper.com/art/music/pet-shop-boys-mark-farrow-interview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The article emphasizes how Farrow&#x27;s minimalist yet witty visual approach has been pivotal in defining the Pet Shop Boys’ visual identity...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: diggitmagazine.com  
-   Title: spinning memories vinyl collecting digital age and [record store day](&#123;&#123; 'scarcity/' | relative_url &#125;&#125;)  
-   Link: [https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day](https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day)  
+   Title: spinning memories vinyl collecting digital age and record store day  
+   Link: <a href="https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day" target="_blank" rel="noopener noreferrer nofollow">https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spinning Memories: Vinyl Collecting in the Digital Age and...31 Mar 2025 — By analyzing the experiences of RSD participants, this resear...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: happydesigner.co.uk  
    Title: happydesigners favourite vinyl album artwork covers  
-   Link: [https://www.happydesigner.co.uk/happydesigners-favourite-vinyl-album-artwork-covers/](https://www.happydesigner.co.uk/happydesigners-favourite-vinyl-album-artwork-covers/)  
+   Link: <a href="https://www.happydesigner.co.uk/happydesigners-favourite-vinyl-album-artwork-covers/" target="_blank" rel="noopener noreferrer nofollow">https://www.happydesigner.co.uk/happydesigners-favourite-vinyl-album-artwork-covers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Happydesigner&#x27;s favourite Vinyl Album Artwork Covers12 Jul 2014 — Some of these album artworks lie amongst the finest and most recognized...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sizeOfficial/posts/honouring-the-important-role-album-artwork-plays-in-the-music-world-our-exclusiv/7173284972701132/](https://www.facebook.com/sizeOfficial/posts/honouring-the-important-role-album-artwork-plays-in-the-music-world-our-exclusiv/7173284972701132/)  
+   Link: <a href="https://www.facebook.com/sizeOfficial/posts/honouring-the-important-role-album-artwork-plays-in-the-music-world-our-exclusiv/7173284972701132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sizeOfficial/posts/honouring-the-important-role-album-artwork-plays-in-the-music-world-our-exclusiv/7173284972701132/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore how this evolution reflects changes in music and...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fnrblr.com  
-   Link: [https://www.fnrblr.com/content/articles/why-we-collect-records-the-psychology-behind-your-growing-vinyl-collection](https://www.fnrblr.com/content/articles/why-we-collect-records-the-psychology-behind-your-growing-vinyl-collection)  
+   Link: <a href="https://www.fnrblr.com/content/articles/why-we-collect-records-the-psychology-behind-your-growing-vinyl-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.fnrblr.com/content/articles/why-we-collect-records-the-psychology-behind-your-growing-vinyl-collection</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, and need proper storage. New research explains the behaviour...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hollywoodreporter.com  
    Title: Vinyl Sales Hit $1 Billion In U.S  
-   Link: [https://www.hollywoodreporter.com/music/music-industry-news/vinyl-sales-reach-1-billion-in-2025-riaa-report-1236534484/](https://www.hollywoodreporter.com/music/music-industry-news/vinyl-sales-reach-1-billion-in-2025-riaa-report-1236534484/)  
+   Link: <a href="https://www.hollywoodreporter.com/music/music-industry-news/vinyl-sales-reach-1-billion-in-2025-riaa-report-1236534484/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/music/music-industry-news/vinyl-sales-reach-1-billion-in-2025-riaa-report-1236534484/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue Last Year16 Mar 2026 — Overall, vinyl sales grew about 9.3 percent year over year, the RIAA said, with overall units sold rising...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: chartlex.com  
    Title: vinyl sales 2026 industry report  
-   Link: [https://www.chartlex.com/blog/business/vinyl-sales-2026-industry-report?srsltid=AfmBOoqOaq5rWHhoHVF8seg7G-vo2ckHv1ufD7_5J2g0ynxvkQhGhofs](https://www.chartlex.com/blog/business/vinyl-sales-2026-industry-report?srsltid=AfmBOoqOaq5rWHhoHVF8seg7G-vo2ckHv1ufD7_5J2g0ynxvkQhGhofs)  
+   Link: <a href="https://www.chartlex.com/blog/business/vinyl-sales-2026-industry-report?srsltid=AfmBOoqOaq5rWHhoHVF8seg7G-vo2ckHv1ufD7_5J2g0ynxvkQhGhofs" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/business/vinyl-sales-2026-industry-report?srsltid=AfmBOoqOaq5rWHhoHVF8seg7G-vo2ckHv1ufD7_5J2g0ynxvkQhGhofs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl Sales 2026: Industry Report (RIAA + Discogs Data)28 Apr 2026 — Buyers who pay $30 for a vinyl LP are buying the physical object, th...</p></details>

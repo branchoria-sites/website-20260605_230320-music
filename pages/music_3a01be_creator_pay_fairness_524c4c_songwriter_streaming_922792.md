@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626
 - music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654
 tags:
-- music
+- music-3-a01-be
 - creator-pay
 - songwriters
 keywords:
-- music
+- music-3-a01-be
 - creator-pay
 - songwriters
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Songwriters face separate rights, publishers, societies and data-matching delays that make their streaming income harder to trace.
 hero_summary: Songwriters face separate rights, publishers, societies and data-matching delays that make their streaming income harder to trace.
 layout: default
 permalink: /songwriters/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /creator-pay/
 nav_short_title: Songwriters
 title: Why Songwriters Wait Longer for Streaming Pay
-title_full: Why Songwriters Wait Longer for Streaming Pay | Creator Pay
+title_full: Why Songwriters Wait Longer for Streaming Pay
 display_title_short: Songwriters
 display_title: Songwriters
 heading_title: Why Songwriters Wait Longer for Streaming Pay
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why A Growing Industry Can Still Feel Unfair | Music
+parent_title: Why A Growing Industry Can Still Feel Unfair
 parent_permalink: /creator-pay/
 parent_nav_short_title: Creator Pay
 parent_heading_title: Why A Growing Industry Can Still Feel Unfair
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Bigger Royalty Reports Still Leave Questions
 up_link:
   basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -265,7 +265,7 @@ next_link:
   permalink: /transparency-6c916a/
   short_title: Transparency
   heading_title: Why Bigger Royalty Reports Still Leave Questions
-date: '2026-06-09 07:23:34 '
+date: '2026-06-11 23:43:14 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_stream
 
 ## Introduction
 
-A streamed song creates more than one stream of money. That simple fact explains why songwriters are often paid later than performers and why songwriter compensation remains one of the most disputed parts of the modern [music]({{ 'music/' | relative_url }}) business.
-
+A streamed song creates more than one stream of money. That simple fact explains why songwriters are often paid later than performers and why songwriter compensation remains one of the most disputed parts of the modern music business.
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1-dark.svg" | relative_url }}" alt="Songwriters illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When a listener presses play on a streaming service, revenue is generated for both the sound [recording]({{ 'recording/' | relative_url }}) and the underlying composition. The recording side is usually administered by labels, distributors and recording-rights owners. The composition side belongs to songwriters and publishers and is processed through a separate network of publishers, collection societies, [licensing]({{ 'licensing/' | relative_url }}) organisations and royalty databases. Because these systems operate independently, songwriter royalties frequently take longer to identify, calculate and distribute. The result is that two people who contributed to the same song can receive money on entirely different schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">RevelatorHow Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
+When a listener presses play on a streaming service, revenue is generated for both the sound [recording]({{ 'recording/' | relative_url }}) and the underlying composition. The recording side is usually administered by labels, distributors and recording-rights owners. The composition side belongs to songwriters and publishers and is processed through a separate network of publishers, collection societies, [licensing]({{ 'licensing/' | relative_url }}) organisations and royalty databases. Because these systems operate independently, songwriter royalties frequently take longer to identify, calculate and distribute. The result is that two people who contributed to the same song can receive money on entirely different schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
 
 The delays are not merely administrative inconveniences. They shape cash flow, career sustainability and perceptions of fairness across the music industry. Understanding why songwriters wait longer for streaming pay requires looking at how composition [rights]({{ 'rights/' | relative_url }}) are administered, how [royalties]({{ 'royalties/' | relative_url }}) move through collecting societies, and why matching streams to the correct songwriters remains one of the industry's most persistent data problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</span></span></span>
 
@@ -286,10 +285,9 @@ The delays are not merely administrative inconveniences. They shape cash flow, c
 
 The first reason for different payment timelines is that a song and a recording are legally distinct assets.
 
-A recording artist may own or control the master recording through a label or distributor. When streaming revenue is reported, that money can often move through a relatively direct chain: streaming platform, distributor or label, then artist according to contractual terms. The process is not always fast, but it is comparatively straightforward because the recording is linked to a specific sound file and a clearly identified owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">RevelatorHow Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
+A recording artist may own or control the master recording through a label or distributor. When streaming revenue is reported, that money can often move through a relatively direct chain: streaming platform, distributor or label, then artist according to contractual terms. The process is not always fast, but it is comparatively straightforward because the recording is linked to a specific sound file and a clearly identified owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
 
-Songwriters operate on the composition side of the business. Every stream generates publishing income that must be allocated among potentially multiple writers and publishers. Before payment can occur, the system must determine:
-
+Songwriters operate on the composition side of the business. Every stream generates [publishing]({{ 'publishing/' | relative_url }}) income that must be allocated among potentially multiple writers and publishers. Before payment can occur, the system must determine:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -301,12 +299,9 @@ Songwriters operate on the composition side of the business. Every stream genera
 
 </div>
 
-Each step introduces additional administration and opportunities for delay. A track with one performer may have five writers, two publishers and several international collection arrangements. The recording and composition therefore travel through entirely different financial pathways even though they originate from the same stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">RevelatorHow Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
+Each step introduces additional administration and opportunities for delay. A track with one performer may have five writers, two publishers and several international collection arrangements. The recording and composition therefore travel through entirely different financial pathways even though they originate from the same stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
 
 This structural separation is fundamental to why songwriter payments often lag behind artist payments. The issue is not simply that streaming services are slow. It is that songwriting royalties require more layers of verification before they can be distributed accurately.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AuRlHpVTkQw" title="The MLC Presents: Follow The Path to Gold: Understanding Streaming Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AuRlHpVTkQw" target="_blank" rel="noopener noreferrer">The MLC Presents: Follow The Path to Gold: Understanding Streaming Royalties</a></p><p class="youtube-embed-meta">Channel: The MLC &middot; Views: 371 &middot; Uploaded: March 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AuRlHpVTkQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AuRlHpVTkQw">Open on YouTube</a></p></div></div></div>
 
 ## Publishers, Societies and Mechanical Royalties
 
@@ -321,7 +316,6 @@ The United States operates differently but faces similar complexity. Mechanical 
 Each organisation has its own reporting requirements, payment cycles and verification procedures. Streaming services report usage. Royalty pools are calculated. Rights ownership data is checked. Publishers receive statements. Writers are then paid according to their publishing agreements. Every additional intermediary adds processing time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</span></span></span>
 
 Historically, some songwriter payments arrived only quarterly or even less frequently. Although collection societies have been modernising their systems, the existence of multiple royalty streams still creates delays that performers collecting through a single recording-rights channel may not experience. PRS for Music's announcement that it would move online streaming royalties to monthly payments in 2025 was notable precisely because faster payment schedules have become a major industry demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/join" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">JoinPRS represents performing rights and collects royalties for the performance of its members&#x27; work. MCPS represents mechanical rights a...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-2-dark.svg" | relative_url }}" alt="Songwriters illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Metadata Has Become a Financial Bottleneck
@@ -338,8 +332,7 @@ The practical challenge is scale. Streaming services generate billions of usage 
 
 As a result, songwriter income is often delayed not because money is unavailable but because systems cannot confidently determine who should receive it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jvxegxK2HxA" title="Music Publishing 101: The quickest way to understand music publishing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jvxegxK2HxA" target="_blank" rel="noopener noreferrer">Music Publishing 101: The quickest way to understand music publishing</a></p><p class="youtube-embed-meta">Channel: Music Money Makeover Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jvxegxK2HxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jvxegxK2HxA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AuRlHpVTkQw" title="The MLC Presents: Follow The Path to Gold: Understanding Streaming Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AuRlHpVTkQw" target="_blank" rel="noopener noreferrer">The MLC Presents: Follow The Path to Gold: Understanding Streaming Royalties</a></p><p class="youtube-embed-meta">Channel: The MLC &middot; Views: 371 &middot; Uploaded: March 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AuRlHpVTkQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AuRlHpVTkQw">Open on YouTube</a></p></div></div></div>
 
 ## The Problem of Unmatched and Unclaimed Royalties
 
@@ -354,7 +347,6 @@ The existence of such pools highlights a central reality of modern music payment
 For a songwriter, failure to register works correctly can mean royalties sit unclaimed while matching efforts continue. The MLC repeatedly emphasises the importance of accurate registrations and organised song data because incomplete metadata directly affects payment speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</span></span></span>
 
 The issue is particularly significant for independent writers, collaborative writing teams and international repertoires where ownership information may pass through multiple publishers and collection societies.
-
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-3-dark.svg" | relative_url }}" alt="Songwriters illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## International Licensing Creates Additional Delays
@@ -379,11 +371,7 @@ Recent reforms have improved matters. The MLC was created specifically to centra
 
 Yet the core challenge remains unchanged: songwriter royalties depend on proving ownership of compositions, not merely counting streams.
 
-A streaming platform can instantly identify that a recording was played. Determining every songwriter entitled to payment, verifying ownership percentages, reconciling publisher claims and distributing funds through multiple organisations remains a far more complicated exercise. That complexity explains why songwriters often wait longer for streaming income than performers and why royalty transparency, matching accuracy and payment speed remain central issues in the broader debate over [creator pay]({{ 'creator-pay/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">RevelatorHow Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vqOZmBLjnTk" title="Why Are Music Royalties So Complicated For Musicians? - The Rich And Famous Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vqOZmBLjnTk" target="_blank" rel="noopener noreferrer">Why Are Music Royalties So Complicated For Musicians? - The Rich And Famous Files</a></p><p class="youtube-embed-meta">Channel: The Rich And Famous Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vqOZmBLjnTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vqOZmBLjnTk">Open on YouTube</a></p></div></div></div>
-
+A streaming platform can instantly identify that a recording was played. Determining every songwriter entitled to payment, verifying ownership percentages, reconciling publisher claims and distributing funds through multiple organisations remains a far more complicated exercise. That complexity explains why songwriters often wait longer for streaming income than performers and why royalty transparency, matching accuracy and payment speed remain central issues in the broader debate over [creator pay]({{ 'creator-pay/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -502,15 +490,15 @@ A streaming platform can instantly identify that a recording was played. Determi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/c17eefb77a846028fdca.jpg' | relative_url }}" alt="Listing image for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +506,15 @@ A streaming platform can instantly identify that a recording was played. Determi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe"><img src="{{ '/assets/images/marketplace-covers/afef061b25e785cbeae6.jpg' | relative_url }}" alt="Listing image for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +522,15 @@ A streaming platform can instantly identify that a recording was played. Determi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747"><img src="{{ '/assets/images/marketplace-covers/696295e8f4efb55facc4.jpg' | relative_url }}" alt="Listing image for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +538,15 @@ A streaming platform can instantly identify that a recording was played. Determi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL"><img src="{{ '/assets/images/marketplace-covers/91c26cb93a1fd08b6e2c.jpg' | relative_url }}" alt="Listing image for NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +554,7 @@ A streaming platform can instantly identify that a recording was played. Determi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-why-songwriters-wait-longer-for-streaming-pay-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-songwriters-wait-longer-for-streaming-pay-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -781,189 +769,189 @@ A streaming platform can instantly identify that a recording was played. Determi
 
 1. <a id="endnote-1"></a>
    Source: revelator.com  
-   Link: [https://revelator.com/blog/how-music-streaming-royalties-work](https://revelator.com/blog/how-music-streaming-royalties-work)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RevelatorHow Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</p></details>
+   Link: <a href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-music-streaming-royalties-work</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Work7 days ago — The MLC matches recordings to compositions and pays publishers, who then pay song...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — On the flip side, songwriters cannot collect performance royalties simply by joining with The MLC. So you have t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: copyrightalliance.org  
    Title: mlc license availability date january 1 what this means  
-   Link: [https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/](https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/)  
+   Link: <a href="https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright AllianceMLC License Availability Date: January 1Jan 19, 2021 — The MLC administers blanket mechanical licenses for musical comp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uses of registered songs. The MLC matches the DSP-reported streams and downloads to the songs registered by Members and calculates the ro...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/organize-your-song-data](https://www.themlc.com/organize-your-song-data)  
+   Link: <a href="https://www.themlc.com/organize-your-song-data" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/organize-your-song-data</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>royalties you are due. When you&#x27;re sitting down to write, it&#x27;s essential to capture the right information...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/join](https://www.prsformusic.com/join)  
+   Link: <a href="https://www.prsformusic.com/join" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/join</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JoinPRS represents performing rights and collects royalties for the performance of its members&#x27; work. MCPS represents mechanical rights a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/online-royalties](https://www.prsformusic.com/royalties/online-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/online-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/online-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicOnline royaltiesPercentage share for online and digital; Permanent downloads. 75%. 25%; On-demand streaming. 50%. 50%; We...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do/prs-and-mcps](https://www.prsformusic.com/what-we-do/prs-and-mcps)  
+   Link: <a href="https://www.prsformusic.com/what-we-do/prs-and-mcps" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/prs-and-mcps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS and MCPS: Who does what?PRS pay royalties to our members when their works are: broadcast on TV or radio; performed or played in publi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aristake.com  
-   Link: [https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/](https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/)  
+   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — Any songwriter in the US can sign up for ASCAP or BMI without being invited or having to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/press/2025/prs-for-music-announces-monthly-royalty-payments-for-online-streaming](https://www.prsformusic.com/press/2025/prs-for-music-announces-monthly-royalty-payments-for-online-streaming)  
+   Link: <a href="https://www.prsformusic.com/press/2025/prs-for-music-announces-monthly-royalty-payments-for-online-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/press/2025/prs-for-music-announces-monthly-royalty-payments-for-online-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music announces monthly royalty payments...7 Aug 2025 — In 2024, online usage accounted for 28.4% of the total roya...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties](https://www.prsformusic.com/royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicMember royaltiesGet all the information on your royalties including where they come from, the distribution schedule dates an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: blog.themlc.com  
-   Link: [https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties](https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties)  
+   Link: <a href="https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.themlc.com/resources/what-happens-to-unmatched-or-unclaimed-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC BlogWhat happens to unmatched or unclaimed royalties?Unmatched or unclaimed royalties, from usage occurring on or after January 1...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/historical-royalties](https://www.themlc.com/historical-royalties)  
+   Link: <a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHistorical RoyaltiesThese historical unmatched royalties related to streaming activities that took place b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/what-we-do](https://www.prsformusic.com/what-we-do)  
+   Link: <a href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicWhat we doWe collect and pay royalties when a member&#x27;s music is played in public, broadcast, downloaded, streamed, or perfor...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cisac.org  
    Title: PR S for Music expands the reach of royalties across the industry  
-   Link: [https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry](https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry)  
+   Link: <a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music expands the reach of royalties across the industryApril 30, 2026 — Today, PRS for Music ensures songwriters and composers g...</p></details>
    Published: April 30, 2026  
 
 16. <a id="endnote-16"></a>
    Source: themlc.com  
    Title: blanket royalties  
-   Link: [https://www.themlc.com/blanket-royalties](https://www.themlc.com/blanket-royalties)  
+   Link: <a href="https://www.themlc.com/blanket-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/blanket-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 USAGE, 2026 USAGE-YTD, ALL USAGE. 4,599.90M – 100%. This figure represents the total amount of blanket royalty pools reported to The...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aristake.com  
    Title: songwriters claim mlc money  
-   Link: [https://aristake.com/songwriters-claim-mlc-money/](https://aristake.com/songwriters-claim-mlc-money/)  
+   Link: <a href="https://aristake.com/songwriters-claim-mlc-money/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/songwriters-claim-mlc-money/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC is Sitting On $423 Million, How Songwriters Can...5 May 2021 — It collects mechanical royalties from DSPs (streaming services) a...</p></details>
    Published: May 2021  
 
 18. <a id="endnote-18"></a>
    Source: prsformusic.com  
    Title: everything you need to know about getting paid royalties  
-   Link: [https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties](https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties)  
+   Link: <a href="https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/2024/everything-you-need-to-know-about-getting-paid-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Make music your business. It&#x27;s important to understand how...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: prsformusic.com  
    Title: prs for music pays out record 274 9 million  
-   Link: [https://www.prsformusic.com/press/2025/prs-for-music-pays-out-record-274-9-million](https://www.prsformusic.com/press/2025/prs-for-music-pays-out-record-274-9-million)  
+   Link: <a href="https://www.prsformusic.com/press/2025/prs-for-music-pays-out-record-274-9-million" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/press/2025/prs-for-music-pays-out-record-274-9-million</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Dec 2025 — Streaming and broadcast royalty payments remain strong, with £13.5 million from radio including plays on the BBC network an...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/registering-works](https://www.prsformusic.com/works/registering-works)  
+   Link: <a href="https://www.prsformusic.com/works/registering-works" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/registering-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Registering works | PRS for MusicMusic streaming earns you mechanical and performance royalties · If you are published, it&#x27;s your publish...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding publishing rights14 May 2021 — Publishing royalties from streaming. You&#x27;ll be glad to know that you also get a performance...</p></details>
    Published: May 2021  
 
 22. <a id="endnote-22"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe pay royalties to our members for the use of their work while protecting the fut...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DNDhvhkP2o8/](https://www.instagram.com/p/DNDhvhkP2o8/)  
+   Link: <a href="https://www.instagram.com/p/DNDhvhkP2o8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNDhvhkP2o8/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Every play counts—and every creator deserves...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: royaltyexchange.com  
    Title: mechanical royalties  
-   Link: [https://royaltyexchange.com/blog/mechanical-royalties](https://royaltyexchange.com/blog/mechanical-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/mechanical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to KnowMar 24, 2026 — Learn how mechanical royalties work, current rates, who pays and collects them, and how investo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/mechanical-licensing-collective](https://musosoup.com/blog/mechanical-licensing-collective)  
+   Link: <a href="https://musosoup.com/blog/mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/mechanical-licensing-collective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing Collective: What It Is and How to Get...The MLC provides [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) to blanket licences, streamlining royalty collectio...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MLC.US/posts/curious-about-what-the-mlc-does-and-how-it-can-benefit-you-as-a-music-creator-jo/1411095744385811/](https://www.facebook.com/MLC.US/posts/curious-about-what-the-mlc-does-and-how-it-can-benefit-you-as-a-music-creator-jo/1411095744385811/)  
+   Link: <a href="https://www.facebook.com/MLC.US/posts/curious-about-what-the-mlc-does-and-how-it-can-benefit-you-as-a-music-creator-jo/1411095744385811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MLC.US/posts/curious-about-what-the-mlc-does-and-how-it-can-benefit-you-as-a-music-creator-jo/1411095744385811/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How The MLC helps songwriters collect digital royaltiesMuch like mechanical royalties, performance royalties are determined through split...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/christopheredmonds_some-quick-thoughts-on-the-isrc-and-how-we-activity-7353770897217884164-xciY](https://www.linkedin.com/posts/christopheredmonds_some-quick-thoughts-on-the-isrc-and-how-we-activity-7353770897217884164-xciY)  
+   Link: <a href="https://www.linkedin.com/posts/christopheredmonds_some-quick-thoughts-on-the-isrc-and-how-we-activity-7353770897217884164-xciY" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/christopheredmonds_some-quick-thoughts-on-the-isrc-and-how-we-activity-7353770897217884164-xciY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving ISRCs for music metadata clarity and accuracySignificantly improves the connection between compositions and recordings, resulti...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective](https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective)  
+   Link: <a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: fairtrademusicinternational.org  
-   Link: [https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/](https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/)  
+   Link: <a href="https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairtrademusicinternational.org/campaigns/unmatched-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmatched royaltiesA songwriters&#x27; guide to the MLC unmatched royalties issue. Learn how to find out if some of this unallocated $400m+ co...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8](https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8)  
+   Link: <a href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: lindacooganb.medium.com  
-   Link: [https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557](https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557)  
+   Link: <a href="https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557" target="_blank" rel="noopener noreferrer nofollow">https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty Maze: Why So Many Artists Still Don&#x27;t Understand...Modern royalty systems rely almost entirely on metadata and matching technolo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: sae.edu  
-   Link: [https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/](https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/)  
+   Link: <a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
 
 33. <a id="endnote-33"></a>
    Source: musicmoneymakeover.com  
    Title: how independent artists can double their publishing royalties using an iswc  
-   Link: [https://www.musicmoneymakeover.com/post/how-independent-artists-can-double-their-publishing-royalties-using-an-iswc](https://www.musicmoneymakeover.com/post/how-independent-artists-can-double-their-publishing-royalties-using-an-iswc)  
+   Link: <a href="https://www.musicmoneymakeover.com/post/how-independent-artists-can-double-their-publishing-royalties-using-an-iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmoneymakeover.com/post/how-independent-artists-can-double-their-publishing-royalties-using-an-iswc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Independent Artists Can Double Their Publishing...Mar 5, 2026 — Update the MLC: Log into The MLC (Mechanical Licensing Collective) a...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: theunsignedguide.com  
-   Link: [https://www.theunsignedguide.com/blog/689-all-you-need-to-know-about-prs-for-music-music-royalties-and-songwriting-rights](https://www.theunsignedguide.com/blog/689-all-you-need-to-know-about-prs-for-music-music-royalties-and-songwriting-rights)  
+   Link: <a href="https://www.theunsignedguide.com/blog/689-all-you-need-to-know-about-prs-for-music-music-royalties-and-songwriting-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theunsignedguide.com/blog/689-all-you-need-to-know-about-prs-for-music-music-royalties-and-songwriting-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All you need to know about PRS For Music, music royalties...For gigs at local pubs and clubs, each event will generate a royalty of roug...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: support.tunecore.com  
    Title: 360052000051 What is the Mechanical Licensing Collective MLC  
-   Link: [https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC](https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC)  
+   Link: <a href="https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Mechanical Licensing Collective &quot;MLC&quot;?The MLC is a nonprofit organization designated by the US Copyright Office to collect digital...</p></details>

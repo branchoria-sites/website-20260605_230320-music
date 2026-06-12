@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461
 - music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b
 tags:
-- music
+- music-3-a01-be
 - dance-music
 - venue-design
 keywords:
-- music
+- music-3-a01-be
 - dance-music
 - venue-design
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Spatial layout, lighting, and seating influence how dancers engage physically and socially.
 hero_summary: Spatial layout, lighting, and seating influence how dancers engage physically and socially.
 layout: default
 permalink: /venue-design/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /dance-music/
 nav_short_title: Venue Design
 title: How Club Architecture and Lighting Shape Dance Interaction
-title_full: How Club Architecture and Lighting Shape Dance Interaction | Dance Music
+title_full: How Club Architecture and Lighting Shape Dance Interaction
 display_title_short: Venue Design
 display_title: Venue Design
 heading_title: How Club Architecture and Lighting Shape Dance Interaction
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Dance Music Builds A Room | Music
+parent_title: How Dance Music Builds A Room
 parent_permalink: /dance-music/
 parent_nav_short_title: Dance Music
 parent_heading_title: How Dance Music Builds A Room
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sound Systems Direct Collective Movement on Dance Floors
 up_link:
   basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -259,7 +259,7 @@ prev_link:
   permalink: /sound-systems/
   short_title: Sound Systems
   heading_title: Why Sound Systems Direct Collective Movement on Dance Floors
-date: '2026-06-09 07:25:03 '
+date: '2026-06-11 23:44:00 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_des
 
 Designing [dance music]({{ 'dance-music/' | relative_url }}) venues isn’t just about aesthetics or technical systems; the physical and sensory architecture of a club profoundly shapes how people move, interact and *feel* together on the dance floor. The way a space is laid out — from the size and shape of the dance floor to seating arrangements, lighting gradients and circulation paths — creates conditions that either facilitate or inhibit embodied interaction among dancers. In dance-focused environments, designers deliberately craft spaces that support collective movement, social synchrony and dynamic engagement, not merely safe occupancy or functional circulation. Thoughtful venue design can amplify a sense of collective energy and shared presence by orienting [attention]({{ 'attention/' | relative_url }}), guiding bodies through space, and balancing zones of high-intensity dancing with opportunities for respite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.co.uk">[ntia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.co.uk</span><span class="citation-popover-snippet">NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-1-dark.svg" | relative_url }}" alt="Venue Design illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Dance Floor Prioritisation
 
@@ -278,17 +277,13 @@ At the heart of an interactive club space is the dance floor itself. Instead of 
 
 Beyond open space, the shape and boundaries of the dance floor matter. For example, long narrow layouts with minimal obstruction encourage forward and lateral movement, enhancing dancers’ ability to see and respond to others around them. Venues that prioritise floor space over dense seating avoid unnecessary barriers to movement and collective embodied engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemon8-app.com/zivyang/7434457716975878672?region=sg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemon8-app.com">[Lemon8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemon8-app.com</span><span class="citation-popover-snippet">ment and interaction, enhancing the club&#x27;s energy. Bars also...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/osYL-BCwYWU" title="How to use projection mapping software to create an immersive room?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=osYL-BCwYWU" target="_blank" rel="noopener noreferrer">How to use projection mapping software to create an immersive room?</a></p><p class="youtube-embed-meta">Channel: Interactive solution Expert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=osYL-BCwYWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=osYL-BCwYWU">Open on YouTube</a></p></div></div></div>
-
 ## Lighting and Immersive Effects
 
-Lighting design is a critical mechanism for fostering embodied interaction because it directly engages sensory perception and can unify attention across a room. Professional nightlife lighting strategies use layered systems to create a dynamic visual field that responds to the [music]({{ 'music/' | relative_url }}) and the crowd’s energy. Beam lights and wash layers animate the air above the dance floor, creating motion and depth that dancers can respond to physically, while accent and [background]({{ 'background/' | relative_url }}) layers provide visual rhythm and texture that complement the sonic pulse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jc-lights.com/club-lighting-design-guide-for-nightclubs-and-dance-floors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jc-lights.com">[JC Lights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jc-lights.com</span><span class="citation-popover-title">JC Lights Club Lighting Design Guide for Nightclubs and Dance Floors</span><span class="citation-popover-snippet">JC LightsClub Lighting Design Guide for Nightclubs and Dance FloorsApril 7, 2026 — 8 days ago — A successful club lighting design must sh...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
+Lighting design is a critical mechanism for fostering embodied interaction because it directly engages sensory perception and can unify attention across a room. Professional nightlife lighting strategies use layered systems to create a dynamic visual field that responds to the music and the crowd’s energy. Beam lights and wash layers animate the air above the dance floor, creating motion and depth that dancers can respond to physically, while accent and [background]({{ 'background/' | relative_url }}) layers provide visual rhythm and texture that complement the sonic pulse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jc-lights.com/club-lighting-design-guide-for-nightclubs-and-dance-floors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jc-lights.com">[JC Lights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jc-lights.com</span><span class="citation-popover-title">JC Lights Club Lighting Design Guide for Nightclubs and Dance Floors</span><span class="citation-popover-snippet">JC LightsClub Lighting Design Guide for Nightclubs and Dance FloorsApril 7, 2026 — 8 days ago — A successful club lighting design must sh...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
 
 Effective lighting does more than dazzle; it shapes the *affective atmosphere* of the space. Subtle colour gradients and sweeping movement layers can modulate mood and perception, making the floor feel expansive or intimate as the night progresses. Strategic lighting can also help delineate zones — using brighter, faster motion over the dance floor while leaving seating and lounge areas under softer illumination — which helps dancers instinctively understand where collective interaction is encouraged versus where quieter social interaction is expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.co.uk">[ntia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.co.uk</span><span class="citation-popover-snippet">NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
 
 Innovative interactive lighting systems go further by responding to the dancers themselves, reinforcing the connection between movement and environment. While experimental systems that directly remix visuals and lights through gesture or dance remain largely research‑oriented, they point to the potential of interactive feedback loops in club design: when the environment reflects and amplifies dancers’ embodied activity, it deepens the sense of agency and shared experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/gird-gesture-based-interactive-dance-floor-an-audio-and-lighting-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositoryGIRD (Gesture-based interactive Dance Floor): An audio and lighting system that allows audiences...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-2-dark.svg" | relative_url }}" alt="Venue Design illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Seating and Social Flow Design
@@ -299,12 +294,7 @@ Transitions between zones are equally important. Narrower passages or changes in
 
 Seating arrangements that prioritise visibility of the dance floor — such as raised booths or lounge platforms — help maintain a psychological and social link to the embodied activity at the centre of the space. Patrons can observe and engage with the collective energy of the room even when seated, which sustains a sense of shared presence across different engagement modes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kelly-architects.com/insights/bar-and-nightclub-design-ideas-that-maximize-capacity-without-sacrificing-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelly-architects.com">[Kelly Architects]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelly-architects.com</span><span class="citation-popover-title">Kelly Architects Bar and Nightclub Design Ideas That Maximize Capacity</span><span class="citation-popover-snippet">Kelly ArchitectsBar and Nightclub Design Ideas That Maximize Capacity...March 31, 2026 — 30 Mar 2026 — Multi-level seating platforms, el...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/23bZuzkap4Q" title="Chevron Seating Style 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=23bZuzkap4Q" target="_blank" rel="noopener noreferrer">Chevron Seating Style 2023</a></p><p class="youtube-embed-meta">Channel: EventDraw</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=23bZuzkap4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=23bZuzkap4Q">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L2XfHREa0j0" title="Expert Explains the Hidden Crowd Engineering Behind Event Venues | WSJ Pro Perfected" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L2XfHREa0j0" target="_blank" rel="noopener noreferrer">Expert Explains the Hidden Crowd Engineering Behind Event Venues | WSJ Pro Perfected</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L2XfHREa0j0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L2XfHREa0j0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-3-dark.svg" | relative_url }}" alt="Venue Design illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sensory Integration and Embodied Interaction
 
 Design elements beyond layout and seating — including acoustics, scent and even perceived temperature — subtly condition how people interact in dance spaces. Acoustic design that directs powerful low‑frequency energy toward the dance floor enhances bodily sensation of the music, anchoring dancers’ movements to the shared sonic environment. Simultaneously, softer sound zones near seating allow for conversation without isolating those off the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.co.uk">[ntia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.co.uk</span><span class="citation-popover-snippet">NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
@@ -312,9 +302,6 @@ Design elements beyond layout and seating — including acoustics, scent and eve
 Olfactory and microclimate factors may be less obvious, but subtle manipulation — such as scented entrances or controlled airflow over the dance floor — can influence mood and energy levels, reinforcing the embodied dimension of the experience. Together with lighting and spatial organisation, these sensory layers help transform architecture from a backdrop into an active participant in social interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.co.uk">[ntia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.co.uk</span><span class="citation-popover-snippet">NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
 
 In summary, the design of dance music venues that promotes embodied interaction is a multi‑dimensional practice. It weaves spatial prioritisation, lighting systems, circulation design and sensory dynamics into a coherent environment where bodies can move freely, synchronise rhythmically and engage socially. Rather than treating dance floors as incidental spaces in a broader nightlife programme, intentional design places collective movement and interaction at the core, shaping how people relate to each other through rhythm, sightlines and atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.co.uk">[ntia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.co.uk</span><span class="citation-popover-snippet">NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-3-dark.svg" | relative_url }}" alt="Venue Design illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -713,86 +700,86 @@ In summary, the design of dance music venues that promotes embodied interaction 
 1. <a id="endnote-1"></a>
    Source: jc-lights.com  
    Title: JC Lights Club Lighting Design Guide for Nightclubs and Dance Floors  
-   Link: [https://jc-lights.com/club-lighting-design-guide-for-nightclubs-and-dance-floors/](https://jc-lights.com/club-lighting-design-guide-for-nightclubs-and-dance-floors/)  
+   Link: <a href="https://jc-lights.com/club-lighting-design-guide-for-nightclubs-and-dance-floors/" target="_blank" rel="noopener noreferrer nofollow">https://jc-lights.com/club-lighting-design-guide-for-nightclubs-and-dance-floors/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JC LightsClub Lighting Design Guide for Nightclubs and Dance FloorsApril 7, 2026 — 8 days ago — A successful club lighting design must sh...</p></details>
    Published: April 7, 2026  
 
 2. <a id="endnote-2"></a>
    Source: kelly-architects.com  
    Title: Kelly Architects Bar and Nightclub Design Ideas That Maximize Capacity  
-   Link: [https://www.kelly-architects.com/insights/bar-and-nightclub-design-ideas-that-maximize-capacity-without-sacrificing-style](https://www.kelly-architects.com/insights/bar-and-nightclub-design-ideas-that-maximize-capacity-without-sacrificing-style)  
+   Link: <a href="https://www.kelly-architects.com/insights/bar-and-nightclub-design-ideas-that-maximize-capacity-without-sacrificing-style" target="_blank" rel="noopener noreferrer nofollow">https://www.kelly-architects.com/insights/bar-and-nightclub-design-ideas-that-maximize-capacity-without-sacrificing-style</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelly ArchitectsBar and Nightclub Design Ideas That Maximize Capacity...March 31, 2026 — 30 Mar 2026 — Multi-level seating platforms, el...</p></details>
    Published: March 31, 2026  
 
 3. <a id="endnote-3"></a>
    Source: ntia.co.uk  
-   Link: [https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/](https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/)  
+   Link: <a href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow">https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</p></details>
    Published: December 8, 2025  
 
 4. <a id="endnote-4"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/zivyang/7434457716975878672?region=sg](https://www.lemon8-app.com/zivyang/7434457716975878672?region=sg)  
+   Link: <a href="https://www.lemon8-app.com/zivyang/7434457716975878672?region=sg" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/zivyang/7434457716975878672?region=sg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ment and interaction, enhancing the club&#x27;s energy. Bars also...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: research-repository.uwa.edu.au  
-   Link: [https://research-repository.uwa.edu.au/en/publications/gird-gesture-based-interactive-dance-floor-an-audio-and-lighting-/](https://research-repository.uwa.edu.au/en/publications/gird-gesture-based-interactive-dance-floor-an-audio-and-lighting-/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/gird-gesture-based-interactive-dance-floor-an-audio-and-lighting-/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/gird-gesture-based-interactive-dance-floor-an-audio-and-lighting-/</a>  
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/03007766.2015.1094903](https://www.tandfonline.com/doi/abs/10.1080/03007766.2015.1094903)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/03007766.2015.1094903" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03007766.2015.1094903</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>sic and Society: Vol 40, No 2October 20, 2015 — Popular Music and Society Volume 40, 2017 - Issue 2 Submit an article Journal homepage 1...</p></details>
    Published: October 20, 2015  
 
 7. <a id="endnote-7"></a>
    Source: popcenter.asu.edu  
-   Link: [https://popcenter.asu.edu/sites/g/files/litvpz3631/files/library/CrimePrevention/Volume_07/03_McIntyre.pdf](https://popcenter.asu.edu/sites/g/files/litvpz3631/files/library/CrimePrevention/Volume_07/03_McIntyre.pdf)  
+   Link: <a href="https://popcenter.asu.edu/sites/g/files/litvpz3631/files/library/CrimePrevention/Volume_07/03_McIntyre.pdf" target="_blank" rel="noopener noreferrer nofollow">https://popcenter.asu.edu/sites/g/files/litvpz3631/files/library/CrimePrevention/Volume_07/03_McIntyre.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the dance floor: a study of interior design...by S Macintyre · Cited by 162 — Abstract; This study is concerned with the role of phy...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.gold.ac.uk  
-   Link: [https://journals.gold.ac.uk/index.php/sysmus14/article/view/254](https://journals.gold.ac.uk/index.php/sysmus14/article/view/254)  
+   Link: <a href="https://journals.gold.ac.uk/index.php/sysmus14/article/view/254" target="_blank" rel="noopener noreferrer nofollow">https://journals.gold.ac.uk/index.php/sysmus14/article/view/254</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the club experience: Affective and bodily experiences of electronic dance music | International Conference of Students of Systematic Musi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: research.lancaster-university.uk  
-   Link: [https://research.lancaster-university.uk/en/publications/new-shapes-on-the-dance-floor-influencing-ambient-sound-and-visio/](https://research.lancaster-university.uk/en/publications/new-shapes-on-the-dance-floor-influencing-ambient-sound-and-visio/)  
+   Link: <a href="https://research.lancaster-university.uk/en/publications/new-shapes-on-the-dance-floor-influencing-ambient-sound-and-visio/" target="_blank" rel="noopener noreferrer nofollow">https://research.lancaster-university.uk/en/publications/new-shapes-on-the-dance-floor-influencing-ambient-sound-and-visio/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes on the dance floor: influencing ambient sound and vision with computationally augmented poi - Lancaster University research direct...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: research-repository.uwa.edu.au  
-   Link: [https://research-repository.uwa.edu.au/en/publications/turning-heads-on-the-dance-floor-synchrony-and-social-interaction/](https://research-repository.uwa.edu.au/en/publications/turning-heads-on-the-dance-floor-synchrony-and-social-interaction/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/turning-heads-on-the-dance-floor-synchrony-and-social-interaction/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/turning-heads-on-the-dance-floor-synchrony-and-social-interaction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heads on the Dance Floor: Synchrony and Social Interaction Using a Silent Disco Paradigm - the UWA Profiles and Research RepositoryFebrua...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: research.birmingham.ac.uk  
-   Link: [https://research.birmingham.ac.uk/en/publications/together-somehow-music-affect-and-intimacy-on-the-dancefloor](https://research.birmingham.ac.uk/en/publications/together-somehow-music-affect-and-intimacy-on-the-dancefloor)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/together-somehow-music-affect-and-intimacy-on-the-dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/together-somehow-music-affect-and-intimacy-on-the-dancefloor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>birmingham.ac.ukTogether, Somehow: Music, Affect, and Intimacy on the Dancefloor - University of BirminghamAugust 8, 2023 — TOGETHER, SOM...</p></details>
    Published: August 8, 2023  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Digital Being – using the environment as an expressive medium for dance  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0020025507004069](https://www.sciencedirect.com/science/article/pii/S0020025507004069)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0020025507004069" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0020025507004069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DigitalBeing – using the environment as an expressive medium for dance - ScienceDirectFebruary 1, 2008 — Volume 178, Issue 3, 1 February...</p></details>
    Published: February 1, 2008  
 
 13. <a id="endnote-13"></a>
    Source: research.ed.ac.uk  
    Title: ed.ac.uk Light bodies: Exploring interactions with responsive lights  
-   Link: [https://www.research.ed.ac.uk/en/publications/light-bodies-exploring-interactions-with-responsive-lights/](https://www.research.ed.ac.uk/en/publications/light-bodies-exploring-interactions-with-responsive-lights/)  
+   Link: <a href="https://www.research.ed.ac.uk/en/publications/light-bodies-exploring-interactions-with-responsive-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/light-bodies-exploring-interactions-with-responsive-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seitinger, D.M. Taub, A.S. Taylor Research output: Chapter in Book/Report/Conference proceeding › Conference contribution ABSTRACT &quot;...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: doaj.org  
    Title: Bamford, * Birgitta Burger, * Petri Toiviainen Affiliations  
-   Link: [https://doaj.org/article/7a9510418b244dc894ebf26a66c2e021](https://doaj.org/article/7a9510418b244dc894ebf26a66c2e021)  
+   Link: <a href="https://doaj.org/article/7a9510418b244dc894ebf26a66c2e021" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/7a9510418b244dc894ebf26a66c2e021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turning Heads on the Dance Floor: Synchrony and Social Interaction Using a Silent Disco Paradigm – DOAJMusic &amp; Science (Feb 2023) TURNING...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/29462013_Danger_on_the_dance_floor_A_study_of_interior_design_crowding_and_aggression_in_nightclubs](https://www.researchgate.net/publication/29462013_Danger_on_the_dance_floor_A_study_of_interior_design_crowding_and_aggression_in_nightclubs)  
+   Link: <a href="https://www.researchgate.net/publication/29462013_Danger_on_the_dance_floor_A_study_of_interior_design_crowding_and_aggression_in_nightclubs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/29462013_Danger_on_the_dance_floor_A_study_of_interior_design_crowding_and_aggression_in_nightclubs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ting crowding in nightclubs, and with the relation- ship between crowding and...Read more...</p></details>

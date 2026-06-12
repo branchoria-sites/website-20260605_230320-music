@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ifpi_recorded_music_000a68_recorded_revenue_art_ded772
 - music_3a01be_ifpi_recorded_music_000a68_regional_music_growt_311ae8
 tags:
-- music
+- music-3-a01-be
 - ifpi-data
 - paid-streaming
 keywords:
-- music
+- music-3-a01-be
 - ifpi-data
 - paid-streaming
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Paid subscriptions are the main reason recorded music revenue keeps rising even as downloads decline and physical formats fluctuate.
 hero_summary: Paid subscriptions are the main reason recorded music revenue keeps rising even as downloads decline and physical formats fluctuate.
 layout: default
 permalink: /paid-streaming/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ifpi-data/
 nav_short_title: Paid Streaming
 title: How Subscriptions Became The Growth Engine
-title_full: How Subscriptions Became The Growth Engine | IFPI Data
+title_full: How Subscriptions Became The Growth Engine
 display_title_short: Paid Streaming
 display_title: Paid Streaming
 heading_title: How Subscriptions Became The Growth Engine
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Global Music Revenue Numbers Show | Music
+parent_title: What Global Music Revenue Numbers Show
 parent_permalink: /ifpi-data/
 parent_nav_short_title: IFPI Data
 parent_heading_title: What Global Music Revenue Numbers Show
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Global Growth Looks Different Locally
 up_link:
   basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
@@ -265,7 +265,7 @@ next_link:
   permalink: /regions/
   short_title: Regions
   heading_title: Why Global Growth Looks Different Locally
-date: '2026-06-09 06:55:21 '
+date: '2026-06-11 23:29:08 '
 header:
   og_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_gro
 
 ## Introduction
 
-Paid streaming subscriptions have become the central mechanism behind recorded [music]({{ 'music/' | relative_url }}) growth as measured by IFPI. The reason is straightforward: subscription services convert music listening from occasional purchases into recurring monthly payments. Every month that a listener remains subscribed, a new stream of revenue enters the recorded music market. As a result, growth no longer depends primarily on persuading consumers to buy another CD or download. Instead, it depends on maintaining and expanding a global base of paying subscribers.
-
+Paid streaming subscriptions have become the central mechanism behind recorded music growth as measured by IFPI. The reason is straightforward: subscription services convert music listening from occasional purchases into recurring monthly payments. Every month that a listener remains subscribed, a new stream of revenue enters the recorded music market. As a result, growth no longer depends primarily on persuading consumers to buy another CD or download. Instead, it depends on maintaining and expanding a global base of paying subscribers.
 
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1-dark.svg" | relative_url }}" alt="Paid Streaming illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The scale of this shift is visible in IFPI’s latest figures. In 2025, paid subscription [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) grew by 8.8%, accounted for 52.4% of all recorded music revenue worldwide, and was supported by 837 million paid subscription accounts. Total streaming revenue exceeded US$22 billion and represented nearly 70% of the global recorded music market. In other words, more than half of the industry’s recorded-music income now comes from subscription fees alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — There are now 837 million users of paid streaming subscription accounts...</span></span></span>
+The scale of this shift is visible in IFPI’s latest figures. In 2025, paid subscription streaming revenue grew by 8.8%, accounted for 52.4% of all recorded music revenue worldwide, and was supported by 837 million paid subscription accounts. Total streaming revenue exceeded US$22 billion and represented nearly 70% of the global recorded music market. In other words, more than half of the industry’s recorded-music income now comes from subscription fees alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — There are now 837 million users of paid streaming subscription accounts...</span></span></span>
 
 Understanding how IFPI measures growth therefore requires understanding why subscription streaming is uniquely powerful as a revenue engine. The key story is not simply that people stream music. It is that hundreds of millions of people pay for continuous [access]({{ 'access/' | relative_url }}).
 
@@ -286,7 +285,7 @@ Understanding how IFPI measures growth therefore requires understanding why subs
 
 Before streaming, recorded music revenue was heavily tied to individual transactions. A consumer bought an album, a CD single or a digital download, and revenue arrived at the moment of purchase. Future income depended on persuading that consumer to buy again.
 
-Subscription streaming altered this relationship. Instead of selling a product once, the industry participates in an ongoing payment relationship. A subscriber paying every month generates revenue repeatedly, whether they listen to one album or one thousand songs. This makes the revenue base more predictable and less dependent on blockbuster release cycles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2026 SOTI</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORTSubscription streaming revenues accounted for more than 50% of total global recorded music revenues in. 2025, demo...</span></span></span>
+Subscription streaming altered this relationship. Instead of selling a product once, the industry participates in an ongoing payment relationship. A subscriber paying every month generates revenue repeatedly, whether they listen to one album or one thousand songs. This makes the revenue base more predictable and less dependent on blockbuster release cycles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2026 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORTSubscription streaming revenues accounted for more than 50% of total global recorded music revenues in. 2025, demo...</span></span></span>
 
 The effect becomes especially visible when viewed at industry scale. If tens of millions of new subscribers join streaming services during a year, the additional revenue is not confined to a single quarter. Those subscriptions continue generating payments month after month, creating a compounding effect that supports future growth as well.
 
@@ -294,15 +293,13 @@ This is one reason subscription streaming has continued to offset weaknesses els
 
 A useful way to think about the mechanism is that recorded music has partially moved from a transaction economy to a subscription economy. The industry's growth increasingly depends on subscriber retention, pricing, market expansion and household adoption rather than on individual purchases.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j8jx_VRFNRs" title="How Musicians Really Make Money in 2025 | Streaming, Gigs, Royalties &amp; Sync Licensing Explained!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j8jx_VRFNRs" target="_blank" rel="noopener noreferrer">How Musicians Really Make Money in 2025 | Streaming, Gigs, Royalties &amp; Sync Licensing Explained!</a></p><p class="youtube-embed-meta">Channel: CountryBoss Music &middot; Views: 17.2K &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j8jx_VRFNRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j8jx_VRFNRs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G0OP525STto" title="How Live Nation Is Devouring the Live Music Industry | WSJ The Economics Of" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G0OP525STto" target="_blank" rel="noopener noreferrer">How Live Nation Is Devouring the Live Music Industry | WSJ The Economics Of</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 709.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G0OP525STto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G0OP525STto">Open on YouTube</a></p></div></div></div>
 
 ## Subscription Streaming Versus Ad-Supported Streaming
 
 Not all streaming revenue contributes equally to IFPI's growth figures.
 
 Streaming revenue generally comes from two broad sources:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -317,7 +314,6 @@ The distinction is important enough that other parts of the music industry use d
 
 From an IFPI perspective, subscription growth matters because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Revenue per user is generally higher.
@@ -330,7 +326,6 @@ From an IFPI perspective, subscription growth matters because:
 The result is that two markets with similar listening activity can contribute very different amounts of recorded music revenue depending on how many listeners are paying subscribers.
 
 This helps explain why the industry closely tracks subscription adoption rather than merely total streaming activity. A market moving listeners from free access to paid subscriptions often has a larger effect on recorded music revenues than a market where listening hours increase but monetisation remains weak.
-
 
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-2-dark.svg" | relative_url }}" alt="Paid Streaming illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What 837 Million Paid Accounts Can and Cannot Prove
@@ -345,23 +340,20 @@ However, the figure has important limits.
 
 The account total provides evidence that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Consumer willingness to pay for music remains strong.
 * Subscription streaming has become a mainstream global behaviour.
 * The industry's revenue base is broad rather than dependent on a small number of purchasers.
-* Future revenue opportunities exist through subscriber growth and pricing strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — There are now 837 million users of paid streaming subscription accounts...</span></span></span>
+* Future revenue opportunities exist through subscriber growth and pricing strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — There are now 837 million users of paid streaming subscription accounts...</span></span></span>
 
 </div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_qG_1FTBB1w" title="The Streaming Business Explained // INES#conference at Sonic Visions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_qG_1FTBB1w" target="_blank" rel="noopener noreferrer">The Streaming Business Explained // INES#conference at Sonic Visions</a></p><p class="youtube-embed-meta">Channel: INES - Innovation Network of European Showcases &middot; Views: 202 &middot; Uploaded: February 2019 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_qG_1FTBB1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_qG_1FTBB1w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j8jx_VRFNRs" title="How Musicians Really Make Money in 2025 | Streaming, Gigs, Royalties &amp; Sync Licensing Explained!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j8jx_VRFNRs" target="_blank" rel="noopener noreferrer">How Musicians Really Make Money in 2025 | Streaming, Gigs, Royalties &amp; Sync Licensing Explained!</a></p><p class="youtube-embed-meta">Channel: CountryBoss Music &middot; Views: 17.2K &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j8jx_VRFNRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j8jx_VRFNRs">Open on YouTube</a></p></div></div></div>
 
 ### What it does not demonstrate
 
 The number does not prove that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,19 +369,16 @@ A paid account in one country may contribute very different revenue from a paid 
 
 The 837 million figure is therefore best understood as evidence of adoption rather than proof of uniform economic value.
 
-
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-3-dark.svg" | relative_url }}" alt="Paid Streaming illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Paid Streaming Remains IFPI's Growth Engine
 
 The reason paid streaming sits at the centre of IFPI's growth story is not merely that streaming is popular. It is that subscription services combine scale, recurring payments and global expansion in a way that no previous recorded-music format achieved.
 
-Physical products can experience strong years, as vinyl has demonstrated, but they remain dependent on individual purchases. Downloads once generated significant income but declined as consumers migrated to access-based services. Subscription streaming, by contrast, continuously converts listening into recurring revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2026 SOTI</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORTSubscription streaming revenues accounted for more than 50% of total global recorded music revenues in. 2025, demo...</span></span></span>
+Physical products can experience strong years, as [vinyl]({{ 'vinyl/' | relative_url }}) has demonstrated, but they remain dependent on individual purchases. Downloads once generated significant income but declined as consumers migrated to access-based services. Subscription streaming, by contrast, continuously converts listening into recurring revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2026 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORTSubscription streaming revenues accounted for more than 50% of total global recorded music revenues in. 2025, demo...</span></span></span>
 
 That mechanism explains why paid subscriptions accounted for more than half of all recorded music revenue in 2025 while continuing to grow faster than the overall market. As long as subscriber numbers expand, existing subscribers remain engaged, and services retain the ability to monetise access effectively, paid streaming is likely to remain the primary driver of the recorded music growth that IFPI measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024 s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Global recorded music revenues hit $31.7B in 2025, up 6.4...18 Mar 2026 — Total streaming revenues (including both paid subscription and...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hxZM1hpu8eM" title="How Does Spotify Make Money? Dissecting Its Business Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hxZM1hpu8eM" target="_blank" rel="noopener noreferrer">How Does Spotify Make Money? Dissecting Its Business Model</a></p><p class="youtube-embed-meta">Channel: Geo Statology &middot; Views: 570 &middot; Uploaded: January 2024 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hxZM1hpu8eM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hxZM1hpu8eM">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_qG_1FTBB1w" title="The Streaming Business Explained // INES#conference at Sonic Visions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_qG_1FTBB1w" target="_blank" rel="noopener noreferrer">The Streaming Business Explained // INES#conference at Sonic Visions</a></p><p class="youtube-embed-meta">Channel: INES - Innovation Network of European Showcases &middot; Views: 202 &middot; Uploaded: February 2019 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_qG_1FTBB1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_qG_1FTBB1w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -508,15 +497,15 @@ That mechanism explains why paid subscriptions accounted for more than half of a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Collectible Figure - History Tour Music Memorabilia 12 cm"><img src="{{ '/assets/images/marketplace-covers/7c61fd6b902e86710ee8.jpg' | relative_url }}" alt="Listing image for Michael Jackson Collectible Figure - History Tour Music Memorabilia 12 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Collectible Figure - History Tour Music Memorabilia 12 cm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +513,15 @@ That mechanism explains why paid subscriptions accounted for more than half of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Box Hand Carved Wind Up Mechanism Plays Bohemian Rhapsody Music"><img src="{{ '/assets/images/marketplace-covers/0cf6d825d726780e4a6c.jpg' | relative_url }}" alt="Listing image for Music Box Hand Carved Wind Up Mechanism Plays Bohemian Rhapsody Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">Music Box Hand Carved Wind Up Mechanism Plays Bohemian Rhapsody Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +529,31 @@ That mechanism explains why paid subscriptions accounted for more than half of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 114 Mixed CD Bundle - Brand New Assorted Music Collection (Pop, Rock, Soul, R&amp;B)"><img src="{{ '/assets/images/marketplace-covers/f7d35dc428e7fbb28257.jpg' | relative_url }}" alt="Listing image for 114 Mixed CD Bundle - Brand New Assorted Music Collection (Pop, Rock, Soul, R&amp;B)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">114 Mixed CD Bundle - Brand New Assorted Music Collection (Pop, Rock, Soul, R&amp;B)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +561,7 @@ That mechanism explains why paid subscriptions accounted for more than half of a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible" data-ebay-reference="paid-streaming-how-subscriptions-became-the-growth-engine-music-music-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="how-subscriptions-became-the-growth-engine-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,184 +776,184 @@ That mechanism explains why paid subscriptions accounted for more than half of a
 
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — There are now 837 million users of paid streaming subscription accounts...</p></details>
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — There are now 837 million users of paid streaming subscription accounts...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORTSubscription streaming revenues accounted for more than 50% of total global recorded music revenues in. 2025, demo...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORTSubscription streaming revenues accounted for more than 50% of total global recorded music revenues in. 2025, demo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024 s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: [https://gmr.ifpi.org/about-report](https://gmr.ifpi.org/about-report)  
+   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>music report 2026: premium editionFormats This section focuses on how each major revenue stream and its sub-streams performed in 2025, hi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ifpi.org  
    Title: industry data  
-   Link: [https://www.ifpi.org/our-industry/industry-data/](https://www.ifpi.org/our-industry/industry-data/)  
+   Link: <a href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/industry-data/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues increased in every r...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/](https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global recorded music revenues hit $31.7B in 2025, up 6.4...18 Mar 2026 — Total streaming revenues (including both paid subscription and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: androidcentral.com  
    Title: youtube wont share streaming data with billboard in 2026  
-   Link: [https://www.androidcentral.com/apps-software/youtube/youtube-wont-share-streaming-data-with-billboard-in-2026](https://www.androidcentral.com/apps-software/youtube/youtube-wont-share-streaming-data-with-billboard-in-2026)  
+   Link: <a href="https://www.androidcentral.com/apps-software/youtube/youtube-wont-share-streaming-data-with-billboard-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/apps-software/youtube/youtube-wont-share-streaming-data-with-billboard-in-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This decision stems from a dispute over Billboard’s album unit formula, which currently gives more weight to paid/subscription streams ov...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: musicbusinessworldwide.com  
    Title: 10 quick and crucial takeaways from ifpis global music report 2026  
-   Link: [https://www.musicbusinessworldwide.com/10-quick-and-crucial-takeaways-from-ifpis-global-music-report-2026/](https://www.musicbusinessworldwide.com/10-quick-and-crucial-takeaways-from-ifpis-global-music-report-2026/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/10-quick-and-crucial-takeaways-from-ifpis-global-music-report-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/10-quick-and-crucial-takeaways-from-ifpis-global-music-report-2026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s Global Music Report 2026: 10 quick (and crucial)...18 Mar 2026 — The total number of users of paid music streaming subscription a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: midiaresearch.com  
    Title: music subscriber market shares 2024 slowdown what slowdown  
-   Link: [https://www.midiaresearch.com/blog/music-subscriber-market-shares-2024-slowdown-what-slowdown](https://www.midiaresearch.com/blog/music-subscriber-market-shares-2024-slowdown-what-slowdown)  
+   Link: <a href="https://www.midiaresearch.com/blog/music-subscriber-market-shares-2024-slowdown-what-slowdown" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-subscriber-market-shares-2024-slowdown-what-slowdown</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What...27 Mar 2025 — Record label streaming revenue growth slowed to 6% in 2024 but there was no such slowdown in subscriber growth. In...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/us-streaming-subscriptions-hit-105-3m-in-h1-2025-but-recorded-music-revenue-was-up-by-less-than-1-yoy/](https://www.musicbusinessworldwide.com/us-streaming-subscriptions-hit-105-3m-in-h1-2025-but-recorded-music-revenue-was-up-by-less-than-1-yoy/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/us-streaming-subscriptions-hit-105-3m-in-h1-2025-but-recorded-music-revenue-was-up-by-less-than-1-yoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/us-streaming-subscriptions-hit-105-3m-in-h1-2025-but-recorded-music-revenue-was-up-by-less-than-1-yoy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideUS streaming subscriptions hit 105.3m in H1 2025, but...Sep 9, 2025 — US streaming subscriptions hit 105.3m in H...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: midiaresearch.com  
    Title: recorded music market shares 2025 expanded rights growing impact  
-   Link: [https://www.midiaresearch.com/reports/recorded-music-market-shares-2025-expanded-rights-growing-impact](https://www.midiaresearch.com/reports/recorded-music-market-shares-2025-expanded-rights-growing-impact)  
+   Link: <a href="https://www.midiaresearch.com/reports/recorded-music-market-shares-2025-expanded-rights-growing-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/recorded-music-market-shares-2025-expanded-rights-growing-impact</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recorded music market shares 2025 Expanded rights...13 Mar 2026 — Global recorded music revenues grew faster in 2025 than 2024, underpin...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: midiaresearch.com  
    Title: streaming strongholds high potential markets for global music players  
-   Link: [https://www.midiaresearch.com/reports/streaming-strongholds-high-potential-markets-for-global-music-players](https://www.midiaresearch.com/reports/streaming-strongholds-high-potential-markets-for-global-music-players)  
+   Link: <a href="https://www.midiaresearch.com/reports/streaming-strongholds-high-potential-markets-for-global-music-players" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/streaming-strongholds-high-potential-markets-for-global-music-players</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming strongholds High-potential markets for global...11 Aug 2025 — This report is an addendum to MIDiA&#x27;s 2025-2032 global music for...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: midiaresearch.com  
    Title: global recorded music revenues up 94 in 2025  
-   Link: [https://www.midiaresearch.com/blog/global-recorded-music-revenues-up-94-in-2025](https://www.midiaresearch.com/blog/global-recorded-music-revenues-up-94-in-2025)  
+   Link: <a href="https://www.midiaresearch.com/blog/global-recorded-music-revenues-up-94-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/global-recorded-music-revenues-up-94-in-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global recorded music revenues up 9.4% in 2025After a modestly performing 2024, revenues grew by 9.4% in 2025 to reach $39.5 billion...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: midiaresearch.com  
    Title: music forecasts  
-   Link: [https://www.midiaresearch.com/music-forecasts](https://www.midiaresearch.com/music-forecasts)  
+   Link: <a href="https://www.midiaresearch.com/music-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/music-forecasts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA Research&#x27;s 2025-2032 global music forecasts deliver a comprehensive analysis of these evolving trends and what they mean for the fu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: midiaresearch.com  
-   Link: [https://www.midiaresearch.com/reports/category/music-subscriber-market-shares](https://www.midiaresearch.com/reports/category/music-subscriber-market-shares)  
+   Link: <a href="https://www.midiaresearch.com/reports/category/music-subscriber-market-shares" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/category/music-subscriber-market-shares</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports: music subscriber market sharesBrowse all of our reports, featuring our analysts&#x27; expert insights and analysis of audience segmen...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: midiaresearch.com  
-   Link: [https://www.midiaresearch.com/blog/category/music-subscribers](https://www.midiaresearch.com/blog/category/music-subscribers)  
+   Link: <a href="https://www.midiaresearch.com/blog/category/music-subscribers" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/category/music-subscribers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog: music subscribersMIDiA&#x27;s annual music subscriber market shares report is now available here (see below for more details of the repo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: midiaresearch.com  
    Title: music market shares  
-   Link: [https://www.midiaresearch.com/music-market-shares](https://www.midiaresearch.com/music-market-shares)  
+   Link: <a href="https://www.midiaresearch.com/music-market-shares" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/music-market-shares</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global recorded music revenue reached $39.5 billion in 2025. Overall market growth came in at 9.4% including expanded rights and 7.7% wit...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: midiaresearch.com  
-   Link: [https://www.midiaresearch.com/reports/category/subscriptions](https://www.midiaresearch.com/reports/category/subscriptions)  
+   Link: <a href="https://www.midiaresearch.com/reports/category/subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/category/subscriptions</a>  
 
 19. <a id="endnote-19"></a>
    Source: midiaresearch.com  
-   Link: [https://www.midiaresearch.com/blog/category/music-subscriber-market-shares](https://www.midiaresearch.com/blog/category/music-subscriber-market-shares)  
+   Link: <a href="https://www.midiaresearch.com/blog/category/music-subscriber-market-shares" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/category/music-subscriber-market-shares</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog: music subscriber market sharesMusic subscribers grew by 16% in the first half of 2018 to reach 229.5 million, up from 198.6 million...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: midiaresearch.com  
    Title: market share  
-   Link: [https://www.midiaresearch.com/search/market%20share](https://www.midiaresearch.com/search/market%20share)  
+   Link: <a href="https://www.midiaresearch.com/search/market%20share" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/search/market%20share</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ReportsBrowse all of our reports, featuring our analysts&#x27; expert insights and analysis of audience segmentation, emerging trends an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: midiaresearch.com  
    Title: a model for a new music streaming industry  
-   Link: [https://www.midiaresearch.com/blog/a-model-for-a-new-music-streaming-industry](https://www.midiaresearch.com/blog/a-model-for-a-new-music-streaming-industry)  
+   Link: <a href="https://www.midiaresearch.com/blog/a-model-for-a-new-music-streaming-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/a-model-for-a-new-music-streaming-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2025 — On the other we have streaming growth slowing to 6.2% growth in 2024, Artists Direct revenue growing three and half times s...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/](https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As recorded music revenues hit $31.7B globally, IFPI CEO...20 Mar 2026 — Worldwide recorded music revenues reached USD $31.7 billion in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/uk-music-streaming-subscription-revenues-grew-by-3-2-yoy-in-2025-so-did-inflation/](https://www.musicbusinessworldwide.com/uk-music-streaming-subscription-revenues-grew-by-3-2-yoy-in-2025-so-did-inflation/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/uk-music-streaming-subscription-revenues-grew-by-3-2-yoy-in-2025-so-did-inflation/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/uk-music-streaming-subscription-revenues-grew-by-3-2-yoy-in-2025-so-did-inflation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK music streaming subscription revenues grew by 3.2%...7 Jan 2026 — According to ERA&#x27;s data, some GBP £2.045 billion (USD $2.69bn) was...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/iqmgmnt/photos/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964334277904/](https://www.facebook.com/iqmgmnt/photos/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964334277904/)  
+   Link: <a href="https://www.facebook.com/iqmgmnt/photos/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964334277904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iqmgmnt/photos/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964334277904/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IQ Artist Management... 52.4% of total revenues. There are now 837 million users of paid streaming subscription accounts globally. Stream...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bizcommunity.com  
-   Link: [https://www.bizcommunity.com/article/ifpi-global-music-report-2026-south-africa-dominates-sub-saharan-music-markets-with-781-share-400529a](https://www.bizcommunity.com/article/ifpi-global-music-report-2026-south-africa-dominates-sub-saharan-music-markets-with-781-share-400529a)  
+   Link: <a href="https://www.bizcommunity.com/article/ifpi-global-music-report-2026-south-africa-dominates-sub-saharan-music-markets-with-781-share-400529a" target="_blank" rel="noopener noreferrer nofollow">https://www.bizcommunity.com/article/ifpi-global-music-report-2026-south-africa-dominates-sub-saharan-music-markets-with-781-share-400529a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Music Report 2026: South Africa dominates sub...Total streaming revenues surpassed $22bn and accounted for 69.6% of global r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: citizen.digital  
-   Link: [https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371](https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371)  
+   Link: <a href="https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371" target="_blank" rel="noopener noreferrer nofollow">https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Report 2026: Recorded music revenues...20 Mar 2026 — Total streaming revenues (including both paid subscription and advertis...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA](https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA)  
+   Link: <a href="https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ricardocastanheira_global-recorded-music-revenues-hit-317b-activity-7440081735352016896-M0EA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ricardo Castanheira&#x27;s PostIFPI launched today its &quot;Global Music Report 2026&quot;. Important findings: - Global recorded music revenues rose b...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l](https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l)  
+   Link: <a href="https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Revenues Rise 9.4% in 2025Global recorded music revenues up 9.4% in 2025 It is that time of year again: MIDiA has just relea...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/afrikona_sub-saharan-africa-recorded-music-revenues-activity-7440355442469519361-UVAY](https://www.linkedin.com/posts/afrikona_sub-saharan-africa-recorded-music-revenues-activity-7440355442469519361-UVAY)  
+   Link: <a href="https://www.linkedin.com/posts/afrikona_sub-saharan-africa-recorded-music-revenues-activity-7440355442469519361-UVAY" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/afrikona_sub-saharan-africa-recorded-music-revenues-activity-7440355442469519361-UVAY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Report: Global Music Revenue Grows 8.8% with...IFPI annual Global Music Report 2026 shows revenue growth across all [regions](&amp;#123;&amp;#123; &#x27;regions/&#x27; | relative_url &amp;#125;&amp;#125;), with p...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
    Title: in the ifpis annual global music report covering the music industry 2025 global  
-   Link: [https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/](https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the IFPI&#x27;s annual Global Music Report covering...IFPI Global Report 2025: Music Revenues Up 5% to... Revenues from subscription audi...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/](https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming boosts global music revenues once again in...18 Mar 2026 — Boosted by paid streaming services, global recorded music revenues...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pitchfork.com  
-   Title: You Tube Streams Will No Longer Count Towards Billboard Charts Starting  
-   Link: [https://pitchfork.com/news/youtube-streams-will-no-longer-count-towards-billboard-charts](https://pitchfork.com/news/youtube-streams-will-no-longer-count-towards-billboard-charts)  
+   Title: You Tube Streams Will No Longer Count Towards Billboard [Charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;) Starting  
+   Link: <a href="https://pitchfork.com/news/youtube-streams-will-no-longer-count-towards-billboard-charts" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/youtube-streams-will-no-longer-count-towards-billboard-charts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This decision, announced by YouTube&#x27;s global head of music, Lyor Cohen, stems from ongoing tensions over how Billboard weighs streaming d...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: variety.com  
    Title: global record revenues grow to 31 7 billion ifpi 2025 1236692531  
-   Link: [https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/](https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/)  
+   Link: <a href="https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: Global Record Revenues Grew to $31.7 Billion in 202518 Mar 2026 — Paid streaming was responsible for the bulk of that cash, generat...</p></details>

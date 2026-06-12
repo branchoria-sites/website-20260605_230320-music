@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-uk-streaming-policy/
 description: Focused pages that expand on UK Policy.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_uk_streaming_policy_aa90d2
-parent_title: UK Policy | Music
+parent_title: UK Policy
 parent_nav_short_title: UK Policy
 parent_permalink: /uk-policy/
 ---

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c
 - music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a
 tags:
-- music
+- music-3-a01-be
 - recording
 - music-archives
 keywords:
-- music
+- music-3-a01-be
 - recording
 - music-archives
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Libraries and archives preserve recordings across formats, letting listeners experience past performances and styles.
 hero_summary: Libraries and archives preserve recordings across formats, letting listeners experience past performances and styles.
 layout: default
 permalink: /music-archives/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /recording/
 nav_short_title: Music Archives
 title: How Archived Recordings Keep Musical History Alive
-title_full: How Archived Recordings Keep Musical History Alive | Recording
+title_full: How Archived Recordings Keep Musical History Alive
 display_title_short: Music Archives
 display_title: Music Archives
 heading_title: How Archived Recordings Keep Musical History Alive
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Recording Changed What Music Is | Music
+parent_title: How Recording Changed What Music Is
 parent_permalink: /recording/
 parent_nav_short_title: Recording
 parent_heading_title: How Recording Changed What Music Is
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Recordings Carried Performer Fame Across Distances
 up_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -265,7 +265,7 @@ next_link:
   permalink: /playback-memory/
   short_title: Playback Memory
   heading_title: How Listening to Recordings Reshapes Musical Memory
-date: '2026-06-09 07:04:32 '
+date: '2026-06-11 23:33:38 '
 header:
   og_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-1.webp
@@ -276,43 +276,37 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_arc
 
 Archival collections and historical playback of recorded music are the mechanisms through which the sounds of the past are preserved, accessed and studied, allowing listeners and researchers to experience performances long after they were captured. Unlike everyday listening to contemporary music, archival work focuses on safeguarding fragile media, converting obsolete [formats]({{ 'formats/' | relative_url }}) for future use and facilitating discovery of recordings within vast cultural repositories. In doing so, these collections help maintain musical [memory]({{ 'memory/' | relative_url }}), illuminate performance practices and ensure that sounds which might otherwise decay or be forgotten remain accessible to scholars, musicians and the public. This page explores leading archives, the technical and legal challenges of preservation, and the evolving ways listeners can engage with historical recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-1-dark.svg" | relative_url }}" alt="Music Archives illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Major Archives and Collections
 
-Long‑established institutions house millions of recorded sounds spanning multiple eras and formats. The **British Library Sound Archive** in London holds more than six million recordings, including discs, tapes and broadcasts, actively curating and digitising material to safeguard it against [physical]({{ 'physical/' | relative_url }}) decay and format obsolescence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/British_Library_Sound_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">British Library Sound Archive</span><span class="citation-popover-snippet">British Library Sound Archive</span></span></span> The **Recorded Sound Research Center** at the *Library of Congress* in the United States provides [access]({{ 'access/' | relative_url }}) to nearly four million items ranging from early Victor Records to magnetic tape and CDs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> University libraries also maintain extensive collections: for example, Yale’s Collection of Historical Sound Recordings preserves roughly 280,000 discs, cylinders and tapes across genres such as jazz, theatre and classical music, with materials available for in‑library listening or digital request. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.yale.edu">[library.yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.yale.edu</span><span class="citation-popover-title">Historical Sound Recordings | Yale Library</span><span class="citation-popover-snippet">Historical Sound Recordings | Yale Library</span></span></span>
+Long‑established institutions house millions of recorded sounds spanning multiple eras and formats. The **British Library Sound Archive** in London holds more than six million recordings, including discs, tapes and broadcasts, actively curating and digitising material to safeguard it against [physical]({{ 'physical/' | relative_url }}) decay and format obsolescence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/British_Library_Sound_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">British Library Sound Archive</span><span class="citation-popover-snippet">British Library Sound Archive</span></span></span> The **Recorded Sound Research Center** at the *Library of Congress* in the United States provides [access]({{ 'access/' | relative_url }}) to nearly four million items ranging from early Victor Records to magnetic tape and CDs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> University libraries also maintain extensive collections: for example, Yale’s Collection of Historical Sound Recordings preserves roughly 280,000 discs, cylinders and tapes across genres such as jazz, theatre and classical music, with materials available for in‑library listening or digital request. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.yale.edu">[library.yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.yale.edu</span><span class="citation-popover-title">Historical Sound Recordings &#124; Yale Library</span><span class="citation-popover-snippet">Historical Sound Recordings &#124; Yale Library</span></span></span>
 
-Some regional initiatives, like the UK’s **Unlocking Our Sound Heritage** project, partner with local archives to digitise and [catalogue]({{ 'catalogue/' | relative_url }}) diverse audio materials—including oral history, radio programmes and folk [music]({{ 'music/' | relative_url }})—making them discoverable through national catalogues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thekeep.info/collections/keep-partners/unlocking-our-sound-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thekeep.info">[The Keep]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thekeep.info</span><span class="citation-popover-title">The Keep Unlocking our Sound Heritage</span><span class="citation-popover-snippet">The KeepUnlocking our Sound Heritage - The Keep...</span></span></span> These collections together represent a spectrum of musical history, allowing comparison of performances, study of stylistic change and recovery of recordings otherwise at risk of being lost.
-
+Some regional initiatives, like the UK’s **Unlocking Our Sound Heritage** project, partner with local archives to digitise and [catalogue]({{ 'catalogue/' | relative_url }}) diverse audio materials—including oral history, radio programmes and folk music—making them discoverable through national catalogues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thekeep.info/collections/keep-partners/unlocking-our-sound-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thekeep.info">[The Keep]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thekeep.info</span><span class="citation-popover-title">The Keep Unlocking our Sound Heritage</span><span class="citation-popover-snippet">The KeepUnlocking our Sound Heritage - The Keep...</span></span></span> These collections together represent a spectrum of musical history, allowing comparison of performances, study of stylistic change and recovery of recordings otherwise at risk of being lost.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m0ov8n6TMOM" title="US aims to save historic audio recordings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m0ov8n6TMOM" target="_blank" rel="noopener noreferrer">US aims to save historic audio recordings</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 951 &middot; Uploaded: May 2014 &middot; Length: 2 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m0ov8n6TMOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m0ov8n6TMOM">Open on YouTube</a></p></div></div></div>
 
 ## Challenges of Media Preservation
 
-The physical media that carry historic sound recordings are inherently fragile and often require specialised care. Analog materials such as magnetic tape, wax cylinders and early discs are vulnerable to chemical degradation, environmental conditions and mechanical failure; some magnetic tapes suffer binder breakdown, while sound carriers like wax cylinders can become unplayable without careful handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Media_preservation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Media preservation</span><span class="citation-popover-snippet">Media preservation</span></span></span> National archives emphasise that predicted lifespans for audio media vary widely, and without climate‑controlled storage and professional management, many recordings deteriorate faster than anticipated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/preservation/formats/audio-condition-assessment.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAudio Guidance: Condition of Materials and Storage | National ArchivesFebruary 1, 2024...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
+The physical media that carry historic sound recordings are inherently fragile and often require specialised care. Analog materials such as magnetic tape, wax cylinders and early discs are vulnerable to chemical degradation, environmental conditions and mechanical failure; some magnetic tapes suffer binder breakdown, while sound carriers like wax cylinders can become unplayable without careful handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Media_preservation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Media preservation</span><span class="citation-popover-snippet">Media preservation</span></span></span> National archives emphasise that predicted lifespans for audio media vary widely, and without climate‑controlled storage and professional management, many recordings deteriorate faster than anticipated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/preservation/formats/audio-condition-assessment.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAudio Guidance: Condition of Materials and Storage &#124; National ArchivesFebruary 1, 2024...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
 
-Technical obsolescence compounds these challenges. Playback hardware for older formats—such as wire recorders or specific disc speeds—is becoming increasingly scarce, meaning that institutions must preserve not only the recordings themselves but also the means to access them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unlocking_Our_Sound_Heritage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unlocking Our Sound Heritage</span><span class="citation-popover-snippet">Unlocking Our Sound Heritage</span></span></span> Preservation strategies increasingly revolve around digitisation: converting physical recordings into digital files to arrest degradation and create ‘access copies’. Yet digitisation poses its own hurdles, from ensuring high‑quality transfers that capture the nuances of the original performance to integrating metadata that supports discoverability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub156/section3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-title">3. Promoting Broad Public Access for Educational Purposes • CLIR</span><span class="citation-popover-snippet">CLIR3. Promoting Broad Public Access for Educational Purposes • CLIR...</span></span></span>
+Technical obsolescence compounds these challenges. Playback hardware for older formats—such as wire recorders or specific disc speeds—is becoming increasingly scarce, meaning that institutions must preserve not only the recordings themselves but also the means to access them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unlocking_Our_Sound_Heritage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unlocking Our Sound Heritage</span><span class="citation-popover-snippet">Unlocking Our Sound Heritage</span></span></span> Preservation strategies increasingly revolve around digitisation: converting physical recordings into digital files to arrest degradation and create ‘access copies’. Yet digitisation poses its own hurdles, from ensuring high‑quality transfers that capture the nuances of the original performance to integrating metadata that supports discoverability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub156/section3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-title">3. Promoting Broad Public Access for Educational Purposes • CLIR</span><span class="citation-popover-snippet">3. Promoting Broad Public Access for Educational Purposes • CLIR...</span></span></span>
 
 Archivists also navigate legal and intellectual property constraints. [Rights]({{ 'rights/' | relative_url }}) restrictions on older recordings—especially those created before federal protections were established—can inhibit reproduction and public access, complicating efforts to share historic material broadly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historians.org/perspectives-article/new-plan-for-access-and-preservation-of-audio-recordings-april-2013/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historians.org">[AHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historians.org</span><span class="citation-popover-title">new plan for access and preservation of audio recordings april 2013</span><span class="citation-popover-snippet">AHANew Plan for Access and Preservation of Audio Recordings – AHAApril 1, 2013...</span><span class="citation-popover-meta">Published: april 2013</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iQCaJ4KTOMU" title="The Irish Traditional Music Archive (ITMA): Connecting Artists and Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iQCaJ4KTOMU" target="_blank" rel="noopener noreferrer">The Irish Traditional Music Archive (ITMA): Connecting Artists and Archives</a></p><p class="youtube-embed-meta">Channel: Library of Congress &middot; Views: 174 &middot; Uploaded: May 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iQCaJ4KTOMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iQCaJ4KTOMU">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-3-dark.svg" | relative_url }}" alt="Music Archives illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-2-dark.svg" | relative_url }}" alt="Music Archives illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Access, Playback and Cultural Memory
 
-Preservation in itself does not guarantee public benefit: archives must also support pathways for listeners and researchers to find and play back historic recordings. Cataloguing remains inconsistent across institutions, and no single comprehensive discography exists for many regions, making discovery of recordings a key challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub106/sound/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-snippet">cture, Broadcasting and Recorded Sound Division Library of Congress The views and opinions expressed herein...</span></span></span> Projects like the *National [Recording]({{ 'recording/' | relative_url }}) Registry* in the United States highlight significant recordings deemed culturally or historically important, promoting their preservation within the *Library of Congress* while signalling their value to the broader public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Recording_Registry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Recording Registry</span><span class="citation-popover-snippet">National Recording Registry</span></span></span>
+Preservation in itself does not guarantee public benefit: archives must also support pathways for listeners and researchers to find and play back historic recordings. Cataloguing remains inconsistent across institutions, and no single comprehensive discography exists for many [regions]({{ 'regions/' | relative_url }}), making discovery of recordings a key challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub106/sound/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-snippet">cture, Broadcasting and Recorded Sound Division Library of Congress The views and opinions expressed herein...</span></span></span> Projects like the *National [Recording]({{ 'recording/' | relative_url }}) Registry* in the United States highlight significant recordings deemed culturally or historically important, promoting their preservation within the *Library of Congress* while signalling their value to the broader public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Recording_Registry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Recording Registry</span><span class="citation-popover-snippet">National Recording Registry</span></span></span>
 
-Digital access initiatives and online catalogues are expanding opportunities to engage with archived music. Collections contributed to the *Internet Archive*, such as digitised 78 rpm records and cylinder recordings, offer listeners direct playback of early commercial releases and rare artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.library.wisc.edu/music/research-help/historical-sound-recordings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.wisc.edu">[library.wisc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.wisc.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> At the same time, institutions often provide on‑site listening facilities or controlled digital access to original or high‑quality versions of recordings to balance preservation with user needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.yale.edu">[library.yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.yale.edu</span><span class="citation-popover-title">Historical Sound Recordings | Yale Library</span><span class="citation-popover-snippet">Historical Sound Recordings | Yale Library</span></span></span>
+Digital access initiatives and online catalogues are expanding opportunities to engage with archived music. Collections contributed to the *Internet Archive*, such as digitised 78 rpm records and cylinder recordings, offer listeners direct playback of early commercial releases and rare artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.library.wisc.edu/music/research-help/historical-sound-recordings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.wisc.edu">[library.wisc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.wisc.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> At the same time, institutions often provide on‑site listening facilities or controlled digital access to original or high‑quality versions of recordings to balance preservation with user needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.yale.edu">[library.yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.yale.edu</span><span class="citation-popover-title">Historical Sound Recordings &#124; Yale Library</span><span class="citation-popover-snippet">Historical Sound Recordings &#124; Yale Library</span></span></span>
 
 The act of historical playback connects audiences with performance practices that would otherwise be lost to time and situates recorded music as a living repository of cultural memory, enriching understanding of musical styles, social contexts and artistic evolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wXQG0yOnx84" title="National Recording Registry 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wXQG0yOnx84" target="_blank" rel="noopener noreferrer">National Recording Registry 2026</a></p><p class="youtube-embed-meta">Channel: Library of Congress &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wXQG0yOnx84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wXQG0yOnx84">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -407,7 +401,7 @@ The act of historical playback connects audiences with performance practices tha
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -431,15 +425,15 @@ The act of historical playback connects audiences with performance practices tha
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE MUSIC POSTER PRINT WALL ART LARGE SIZE A4 A2 A1 A0"><img src="{{ '/assets/images/marketplace-covers/07d1e1cd016db97f0499.jpg' | relative_url }}" alt="Listing image for VINTAGE MUSIC POSTER PRINT WALL ART LARGE SIZE A4 A2 A1 A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HARRY DAVIDSON 12&quot; 78 RPM THE LANCERS HEARTS OF OAK PART 1 &amp; 2 UK COL DX 1172"><img src="https://i.ebayimg.com/images/g/qPwAAOSwi6FmiuKO/s-l225.jpg" alt="Listing image for HARRY DAVIDSON 12&quot; 78 RPM THE LANCERS HEARTS OF OAK PART 1 &amp; 2 UK COL DX 1172" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE MUSIC POSTER PRINT WALL ART LARGE SIZE A4 A2 A1 A0</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer">HARRY DAVIDSON 12&quot; 78 RPM THE LANCERS HEARTS OF OAK PART 1 &amp; 2 UK COL DX 1172</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for 78 rpm record">Search <span data-ebay-domain-label>eBay.co.uk</span>: 78 rpm record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -447,15 +441,15 @@ The act of historical playback connects audiences with performance practices tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE MUSIC POSTER PRINT WALL ART SIZE A1 /A2 /A4 Made in UK"><img src="{{ '/assets/images/marketplace-covers/5d2f29f87f315d80de27.jpg' | relative_url }}" alt="Listing image for VINTAGE MUSIC POSTER PRINT WALL ART SIZE A1 /A2 /A4 Made in UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x CYRIL STAPLETON 78 RPMS ON A BOAT ON A LAKE F9471&amp; AT THE BAL TABARIN F9368"><img src="https://i.ebayimg.com/images/g/YWIAAOSwWGpnenPL/s-l225.jpg" alt="Listing image for 2 x CYRIL STAPLETON 78 RPMS ON A BOAT ON A LAKE F9471&amp; AT THE BAL TABARIN F9368" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE MUSIC POSTER PRINT WALL ART SIZE A1 /A2 /A4 Made in UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer">2 x CYRIL STAPLETON 78 RPMS ON A BOAT ON A LAKE F9471&amp; AT THE BAL TABARIN F9368</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for 78 rpm record">Search <span data-ebay-domain-label>eBay.co.uk</span>: 78 rpm record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +457,15 @@ The act of historical playback connects audiences with performance practices tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art"><img src="{{ '/assets/images/marketplace-covers/2c69503fc41d724ec9ca.jpg' | relative_url }}" alt="Listing image for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GUY MITCHELL 78 RPM BOB&#x27;S YER UNCLE (AN&#x27; FANNY&#x27;S YER AUNT) 1954 PHILIPS P.B.293"><img src="https://i.ebayimg.com/images/g/GK4AAOSwMBVjvuYE/s-l225.jpg" alt="Listing image for GUY MITCHELL 78 RPM BOB&#x27;S YER UNCLE (AN&#x27; FANNY&#x27;S YER AUNT) 1954 PHILIPS P.B.293" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer">GUY MITCHELL 78 RPM BOB&#x27;S YER UNCLE (AN&#x27; FANNY&#x27;S YER AUNT) 1954 PHILIPS P.B.293</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for 78 rpm record">Search <span data-ebay-domain-label>eBay.co.uk</span>: 78 rpm record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +473,15 @@ The act of historical playback connects audiences with performance practices tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick"><img src="{{ '/assets/images/marketplace-covers/d9b13d00309be0dd1f4d.jpg' | relative_url }}" alt="Listing image for Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ELLERY BAND 12&quot; 78 RPM SERENADE, LES MILLIONS D&#x27;ARLIQUIN COLUMBIA RENA (2ND)"><img src="https://i.ebayimg.com/images/g/u-wAAeSwerBoxHEw/s-l225.jpg" alt="Listing image for THE ELLERY BAND 12&quot; 78 RPM SERENADE, LES MILLIONS D&#x27;ARLIQUIN COLUMBIA RENA (2ND)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Poster Signature Non-Woven (Not Self-Adhesive) Extra Thick</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer">THE ELLERY BAND 12&quot; 78 RPM SERENADE, LES MILLIONS D&#x27;ARLIQUIN COLUMBIA RENA (2ND)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for 78 rpm record">Search <span data-ebay-domain-label>eBay.co.uk</span>: 78 rpm record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,7 +489,7 @@ The act of historical playback connects audiences with performance practices tha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage music poster -book -books" data-ebay-reference="music-archives-how-archived-recordings-keep-musical-history-alive-music-vintage-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=78+rpm+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-archived-recordings-keep-musical-history-alive-78-rpm-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="78 rpm record" data-ebay-reference="how-archived-recordings-keep-musical-history-alive-78-rpm-record" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -711,147 +705,147 @@ The act of historical playback connects audiences with performance practices tha
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: British Library Sound Archive  
-   Link: [https://en.wikipedia.org/wiki/British_Library_Sound_Archive](https://en.wikipedia.org/wiki/British_Library_Sound_Archive)  
+   Link: <a href="https://en.wikipedia.org/wiki/British_Library_Sound_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_Library_Sound_Archive</a>  
 
 2. <a id="endnote-2"></a>
    Source: library.yale.edu  
    Title: Historical Sound Recordings | Yale Library  
-   Link: [https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings](https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings)  
+   Link: <a href="https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings" target="_blank" rel="noopener noreferrer nofollow">https://library.yale.edu/visit-and-study/libraries-locations/gilmore-music-library/historical-sound-recordings</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Media preservation  
-   Link: [https://en.wikipedia.org/wiki/Media_preservation](https://en.wikipedia.org/wiki/Media_preservation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Media_preservation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Media_preservation</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/preservation/formats/audio-condition-assessment.html](https://www.archives.gov/preservation/formats/audio-condition-assessment.html)  
+   Link: <a href="https://www.archives.gov/preservation/formats/audio-condition-assessment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/preservation/formats/audio-condition-assessment.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAudio Guidance: Condition of Materials and Storage | National ArchivesFebruary 1, 2024...</p></details>
    Published: February 1, 2024  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unlocking Our Sound Heritage  
-   Link: [https://en.wikipedia.org/wiki/Unlocking_Our_Sound_Heritage](https://en.wikipedia.org/wiki/Unlocking_Our_Sound_Heritage)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unlocking_Our_Sound_Heritage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unlocking_Our_Sound_Heritage</a>  
 
 6. <a id="endnote-6"></a>
    Source: clir.org  
    Title: 3. Promoting Broad Public Access for Educational Purposes • CLIR  
-   Link: [https://www.clir.org/pubs/reports/pub156/section3/](https://www.clir.org/pubs/reports/pub156/section3/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLIR3. Promoting Broad Public Access for Educational Purposes • CLIR...</p></details>
+   Link: <a href="https://www.clir.org/pubs/reports/pub156/section3/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub156/section3/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Promoting Broad Public Access for Educational Purposes • CLIR...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: historians.org  
    Title: new plan for access and preservation of audio recordings april 2013  
-   Link: [https://www.historians.org/perspectives-article/new-plan-for-access-and-preservation-of-audio-recordings-april-2013/](https://www.historians.org/perspectives-article/new-plan-for-access-and-preservation-of-audio-recordings-april-2013/)  
+   Link: <a href="https://www.historians.org/perspectives-article/new-plan-for-access-and-preservation-of-audio-recordings-april-2013/" target="_blank" rel="noopener noreferrer nofollow">https://www.historians.org/perspectives-article/new-plan-for-access-and-preservation-of-audio-recordings-april-2013/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AHANew Plan for Access and Preservation of Audio Recordings – AHAApril 1, 2013...</p></details>
    Published: april 2013  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: National Recording Registry  
-   Link: [https://en.wikipedia.org/wiki/National_Recording_Registry](https://en.wikipedia.org/wiki/National_Recording_Registry)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Recording_Registry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Recording_Registry</a>  
 
 9. <a id="endnote-9"></a>
    Source: library.wisc.edu  
-   Link: [https://www.library.wisc.edu/music/research-help/historical-sound-recordings/](https://www.library.wisc.edu/music/research-help/historical-sound-recordings/)  
+   Link: <a href="https://www.library.wisc.edu/music/research-help/historical-sound-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wisc.edu/music/research-help/historical-sound-recordings/</a>  
 
 10. <a id="endnote-10"></a>
    Source: clir.org  
-   Link: [https://www.clir.org/pubs/reports/pub106/sound/](https://www.clir.org/pubs/reports/pub106/sound/)  
+   Link: <a href="https://www.clir.org/pubs/reports/pub106/sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub106/sound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cture, Broadcasting and Recorded Sound Division Library of Congress The views and opinions expressed herein...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: clir.org  
-   Link: [https://www.clir.org/pubs/reports/child/sound/](https://www.clir.org/pubs/reports/child/sound/)  
+   Link: <a href="https://www.clir.org/pubs/reports/child/sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/child/sound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1785 Massachuset...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: clir.org  
-   Link: [https://www.clir.org/pubs/reports/pub156/section1/](https://www.clir.org/pubs/reports/pub156/section1/)  
+   Link: <a href="https://www.clir.org/pubs/reports/pub156/section1/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub156/section1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building the National Sound Recording Preservation Infrastructure • CLIR1. BUILDING THE NATIONAL SOUND RECORDING PRESERVATION INFRASTRUCT...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/](https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/)  
+   Link: <a href="https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/</a>  
 
 14. <a id="endnote-14"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/rr/record/onlinecollections.html?loclr=blognsh](https://www.loc.gov/rr/record/onlinecollections.html?loclr=blognsh)  
+   Link: <a href="https://www.loc.gov/rr/record/onlinecollections.html?loclr=blognsh" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/rr/record/onlinecollections.html?loclr=blognsh</a>  
 
 15. <a id="endnote-15"></a>
    Source: thekeep.info  
    Title: The Keep Unlocking our Sound Heritage  
-   Link: [https://www.thekeep.info/collections/keep-partners/unlocking-our-sound-heritage/](https://www.thekeep.info/collections/keep-partners/unlocking-our-sound-heritage/)  
+   Link: <a href="https://www.thekeep.info/collections/keep-partners/unlocking-our-sound-heritage/" target="_blank" rel="noopener noreferrer nofollow">https://www.thekeep.info/collections/keep-partners/unlocking-our-sound-heritage/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The KeepUnlocking our Sound Heritage - The Keep...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/loc/lcib/0601/sound.html](https://www.loc.gov/loc/lcib/0601/sound.html)  
+   Link: <a href="https://www.loc.gov/loc/lcib/0601/sound.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/loc/lcib/0601/sound.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Sound (January 2006) - Library of Congress Information BulletinLOST SOUND Study Finds Pre-1964 Sound Recordings Inaccessible Image...</p></details>
    Published: January 2006  
 
 17. <a id="endnote-17"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/programs/national-recording-preservation-board/preservation/](https://www.loc.gov/programs/national-recording-preservation-board/preservation/)  
+   Link: <a href="https://www.loc.gov/programs/national-recording-preservation-board/preservation/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-recording-preservation-board/preservation/</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/programs/national-recording-preservation-plan/publications-and-reports/](https://www.loc.gov/programs/national-recording-preservation-plan/publications-and-reports/)  
+   Link: <a href="https://www.loc.gov/programs/national-recording-preservation-plan/publications-and-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-recording-preservation-plan/publications-and-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications &amp; Reports | National Recording Preservation Plan | Programs | Library of CongressPROGRAM NATIONAL RECORDING PRESERVATION PLA...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nypl.org  
-   Link: [https://www.nypl.org/about/divisions/rodgers-and-hammerstein-archives-recorded-sound](https://www.nypl.org/about/divisions/rodgers-and-hammerstein-archives-recorded-sound)  
+   Link: <a href="https://www.nypl.org/about/divisions/rodgers-and-hammerstein-archives-recorded-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.nypl.org/about/divisions/rodgers-and-hammerstein-archives-recorded-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About the Rodgers and Hammerstein Archives of Recorded Sound | The New York Public LibraryABOUT THE RODGERS AND HAMMERSTEIN ARCHIVES OF R...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iastatedigitalpress.com  
-   Link: [https://www.iastatedigitalpress.com/archivalissues/article/id/10591/](https://www.iastatedigitalpress.com/archivalissues/article/id/10591/)  
+   Link: <a href="https://www.iastatedigitalpress.com/archivalissues/article/id/10591/" target="_blank" rel="noopener noreferrer nofollow">https://www.iastatedigitalpress.com/archivalissues/article/id/10591/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1991 — PRESERVING CHICAGO SYMPHONY ORCHESTRA BROADCAST TAPES Author * Brenda Nelson-Strauss (Chicago Symphony Orchestra) * * *...</p></details>
    Published: January 1, 1991  
 
 21. <a id="endnote-21"></a>
    Source: guides.library.ucla.edu  
    Title: * Home * Books * Articles * Selected Related Media * Moving Image Ar  
-   Link: [https://guides.library.ucla.edu/mas/audio](https://guides.library.ucla.edu/mas/audio)  
+   Link: <a href="https://guides.library.ucla.edu/mas/audio" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ucla.edu/mas/audio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archiving - Media Archival Studies - Research Guides at UCLA LibrarySeptember 4, 2025 — MEDIA ARCHIVAL STUDIES A research guide to assist...</p></details>
    Published: September 4, 2025  
 
 22. <a id="endnote-22"></a>
    Source: britishlibrary.cn  
    Title: British Library History of the British Library's Sound Archive  
-   Link: [https://www.britishlibrary.cn/en/articles/history-of-the-british-librarys-sound-archive/](https://www.britishlibrary.cn/en/articles/history-of-the-british-librarys-sound-archive/)  
+   Link: <a href="https://www.britishlibrary.cn/en/articles/history-of-the-british-librarys-sound-archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.britishlibrary.cn/en/articles/history-of-the-british-librarys-sound-archive/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British LibraryHistory of the British Library&#x27;s Sound Archive - British Library...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: news.ucsb.edu  
    Title: cylinder mp3 player  
-   Link: [https://news.ucsb.edu/2006/013739/cylinder-mp3-player](https://news.ucsb.edu/2006/013739/cylinder-mp3-player)  
+   Link: <a href="https://news.ucsb.edu/2006/013739/cylinder-mp3-player" target="_blank" rel="noopener noreferrer nofollow">https://news.ucsb.edu/2006/013739/cylinder-mp3-player</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cylinder to MP3 Player | The CurrentJanuary 31, 2006 — January 31, 2006 FROM CYLINDER TO MP3 PLAYER UCSB Makes Earliest Sound Recordings...</p></details>
    Published: January 31, 2006  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wXQG0yOnx84](https://www.youtube.com/watch?v=wXQG0yOnx84)  
+   Link: <a href="https://www.youtube.com/watch?v=wXQG0yOnx84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wXQG0yOnx84</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide insights into the institutional efforts to preserve music collections, the technical challenges of digitizing obsole...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Irish Traditional Music Archive: Connecting Artists and Archives  
-   Link: [https://www.youtube.com/watch?v=iQCaJ4KTOMU](https://www.youtube.com/watch?v=iQCaJ4KTOMU)  
+   Link: <a href="https://www.youtube.com/watch?v=iQCaJ4KTOMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iQCaJ4KTOMU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Living Knowledge: British Library Save our Sounds campaign...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: guides.lib.utexas.edu  
-   Link: [https://guides.lib.utexas.edu/hmrc](https://guides.lib.utexas.edu/hmrc)  
+   Link: <a href="https://guides.lib.utexas.edu/hmrc" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.utexas.edu/hmrc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Music Recordings Collection - LibGuides at University of Texas at AustinMay 8, 2025 — HISTORICAL MUSIC RECORDINGS COLLECTION H...</p></details>
    Published: May 8, 2025  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: US aims to save historic audio recordings  
-   Link: [https://www.youtube.com/watch?v=m0ov8n6TMOM](https://www.youtube.com/watch?v=m0ov8n6TMOM)  
+   Link: <a href="https://www.youtube.com/watch?v=m0ov8n6TMOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m0ov8n6TMOM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Restoration, Active Preservation and Digitisation of Audio Documents...</p></details>

@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - concerts
 keywords:
-- music
+- music-3-a01-be
 - concerts
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A concert is a social event, a display of fandom and a risky live encounter rather than just songs played aloud.
 hero_summary: A concert is a social event, a display of fandom and a risky live encounter rather than just songs played aloud.
 layout: default
 permalink: /concerts/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Concerts
 title: Why Concerts Feel Bigger Than Songs
-title_full: Why Concerts Feel Bigger Than Songs | Music
+title_full: Why Concerts Feel Bigger Than Songs
 display_title_short: Concerts
 display_title: Concerts
 heading_title: Why Concerts Feel Bigger Than Songs
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 next_link:
   basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
-date: '2026-06-09 06:10:22 '
+date: '2026-06-11 23:05:32 '
 header:
   og_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b-overview-social.jpg
   preview_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b-overview.webp
@@ -503,35 +503,30 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b-overview-social.jp
 
 Concerts create fan memory because they make music happen as a risky, shared event rather than a clean repeat of a [recording]({{ 'recording/' | relative_url }}). A song on a stream can be replayed thousands of times; a concert gives the same song a date, a seat, a crowd, a weather system, a journey, a costume, a scream, a mistake, a [surprise]({{ 'surprise/' | relative_url }}) and a story. That is why fans often remember not only what was played, but who they went with, what the room felt like, what the artist changed, what the audience did together, and what could never happen in quite the same way again.
 
-
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-overview.webp" | relative_url }}" alt="Overview image for Concerts" loading="eager" decoding="sync" fetchpriority="high">
-The best evidence points to three overlapping forces: bodily presence, social synchrony and the status of the live moment as unrepeatable. Studies of concert audiences have found synchrony in movement and physiology, while recent work on live [music]({{ 'music/' | relative_url }}) and “collective effervescence” links shared concert intensity with meaning, enjoyment and happiness that can last beyond the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAudience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</span></span></span>
+The best evidence points to three overlapping forces: bodily presence, social synchrony and the status of the live moment as unrepeatable. Studies of concert audiences have found synchrony in movement and physiology, while recent work on live music and “collective effervescence” links shared concert intensity with meaning, enjoyment and happiness that can last beyond the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</span></span></span>
 
 ## Presence, risk and performance
 
 A concert begins before the first note because the audience knows that something could go differently. The singer may change a lyric, lose their voice, speak directly to the crowd, bring out a guest, extend a solo, restart a song, react to a sign or miss a cue. That uncertainty is not a flaw in live music; it is part of its value. Fans are not only consuming songs. They are watching people attempt them in real time.
 
-Research comparing live and mediated performance supports what many concertgoers already feel: [physical]({{ 'physical/' | relative_url }}) co-presence changes emotional engagement. A 2025 study comparing a live performance with the same performance shown as a recording in the same theatre found stronger subjective and physiological emotional responses in the live condition, suggesting that performer-audience interaction matters even when the musical material is controlled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWatching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span> University of Zurich reporting on related neuroscience research similarly emphasised that live music can trigger stronger emotional responses than streamed music because performers and listeners respond to one another in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uzh.ch">[UZH News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uzh.ch</span><span class="citation-popover-title">News Live Musik</span><span class="citation-popover-snippet">UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</span></span></span>
+Research comparing live and mediated performance supports what many concertgoers already feel: [physical]({{ 'physical/' | relative_url }}) co-presence changes emotional engagement. A 2025 study comparing a live performance with the same performance shown as a recording in the same theatre found stronger subjective and physiological emotional responses in the live condition, suggesting that performer-audience interaction matters even when the musical material is controlled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span> University of Zurich reporting on related neuroscience research similarly emphasised that live music can trigger stronger emotional responses than streamed music because performers and listeners respond to one another in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uzh.ch">[UZH News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uzh.ch</span><span class="citation-popover-title">News Live Musik</span><span class="citation-popover-snippet">UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</span></span></span>
 
 That live risk gives [memory]({{ 'memory/' | relative_url }}) a sharper edge. A studio recording is designed to become stable: the same chorus, the same vocal take, the same mix. A concert version may be technically less perfect but more narratively powerful because it contains visible effort. Fans remember the breath before a difficult note, the grin after a mistake, the pause when the crowd sings back louder than expected. These are not detachable extras around the song; they are the cues that tell the brain and the fan community, “I was there for that version.”
 
 This is also why concert memory often privileges moments that would look small on a setlist. A two-minute speech, an improvised dedication or a sudden lighting blackout may become the part fans retell most often. The song provides the frame, but the live encounter supplies the memory hook.
 
-
-<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-dark.svg" | relative_url }}" alt="Concerts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Crowds turn private listening into shared memory
 
 Music can feel intensely private through headphones, but concerts make fandom visible. The room shows a listener that their attachment is not solitary. Thousands of people know the same bridge, anticipate the same beat drop, cry at the same lyric or laugh at the same in-joke. That visibility helps convert personal feeling into shared memory.
 
-A major recent study of live music and collective effervescence examined four studies with 789 participants and found that the feeling of sacredness and connection in a crowd was strongly related to enjoyment, meaning during the event and happiness a week later. The researchers also found that collective effervescence helped explain why factors such as a bond with the artist, immersion in lyrics and attending with friends could lead to positive lasting outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWatching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+A major recent study of live music and collective effervescence examined four studies with 789 participants and found that the feeling of sacredness and connection in a crowd was strongly related to enjoyment, meaning during the event and happiness a week later. The researchers also found that collective effervescence helped explain why factors such as a bond with the artist, immersion in [lyrics]({{ 'lyrics/' | relative_url }}) and attending with friends could lead to positive lasting outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 This matters because fan memory is not just a record of sound. It is a record of belonging. The audience member remembers the concert partly as proof that a private relationship with songs was shared by other bodies in the same space. In popular music especially, this can be as important as musicianship. A crowd singing a chorus badly but together may produce a stronger fan memory than a flawless performance received in silence.
 
 The same mechanism appears in more bodily research. A Scientific Reports study of live classical concerts found evidence of audience synchrony in heart rate, respiration rate, skin conductance response and movement. The point is not that every person becomes identical, but that live audiences can become temporarily coordinated through [attention]({{ 'attention/' | relative_url }}), emotion and bodily response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> For fan memory, that synchrony becomes a feeling: the sense that the room moved, shouted, held its breath or erupted as one.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dixeipXGtHs" title="What Is Collective Effervescence In Sociology? - The Sociology Workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dixeipXGtHs" target="_blank" rel="noopener noreferrer">What Is Collective Effervescence In Sociology? - The Sociology Workshop</a></p><p class="youtube-embed-meta">Channel: The Sociology Workshop</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dixeipXGtHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dixeipXGtHs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-dark.svg" | relative_url }}" alt="Concerts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fandom is performed, not just felt
 
 Concerts also create memory because they let fans perform fandom in front of one another. Clothes, chants, handmade objects, queue rituals, signs, light sticks, dance challenges and call-and-response moments turn spectators into participants. They make fandom legible.
@@ -542,8 +537,6 @@ Beyoncé’s Renaissance World Tour created a different kind of shared memory th
 
 These rituals show why concerts are not simply music delivery systems. They are spaces where fans practise a culture. A recording can carry the artist’s work, but the concert carries evidence of the fan community’s imagination: what it wears, repeats, jokes about, polices, celebrates and remembers.
 
-
-<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-2-dark.svg" | relative_url }}" alt="Concerts illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The setlist is only the skeleton
 
 Setlists are important because they give fans a record of what happened. Sites such as setlist.fm, which describes itself as a setlist wiki and hosts millions of concert setlists, show how strongly fans want to document live music after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: setlist.fm">[Setlist.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">setlist.fm</span><span class="citation-popover-snippet">Open source on setlist.fm.</span></span></span> A setlist lets a fan say, “This was the night we got that deep cut,” or “This was the first time they played the new song.”
@@ -554,9 +547,7 @@ Fan memory therefore works on two levels at once. The setlist provides a public 
 
 This is why two fans at the same concert can carry away different “main” memories. One remembers the rare song. Another remembers the crowd. Another remembers being seen by the artist. Another remembers feeling safe, overwhelmed, young, old, reunited or changed. The concert is one event, but fan memory is plural.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s19Fr-_WaXo" title="How Music Affects Your Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s19Fr-_WaXo" target="_blank" rel="noopener noreferrer">How Music Affects Your Brain</a></p><p class="youtube-embed-meta">Channel: BuzzFeedVideo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s19Fr-_WaXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s19Fr-_WaXo">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-2-dark.svg" | relative_url }}" alt="Concerts illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why live moments resist perfect replay
 
 Concert videos are valuable, but they rarely replace the memory of being there. A phone clip can preserve the image and sound of a moment, yet it cannot fully reproduce the pressure of the crowd, the anticipation before the song begins, the scale of the room, the bass in the body or the awareness that the event is unfolding without a rewind button.
@@ -567,8 +558,6 @@ The imperfection of memory is part of the point. Fans often remember a concert a
 
 This is especially visible when a tour develops city-by-city lore. One city gets the best guest appearance. Another wins a crowd challenge. Another gets a rain show, a technical failure or a surprise song. The tour becomes a chain of local memories, each one tied to a specific audience. Fans who were not there can still participate through clips and discussion, but the phrase “I was there” retains power because it marks bodily presence inside the uncertainty of the original event.
 
-
-<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-dark.svg" | relative_url }}" alt="Concerts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The emotional afterlife of a concert
 
 A concert continues after the lights come up. Fans compare videos, post outfits, debate the setlist, identify guests, trade photos, rewatch clips and fold the event into their personal timeline. The memory becomes a social object: something to tell, display, revisit and use as evidence of belonging.
@@ -579,9 +568,7 @@ The emotional afterlife is not always uncomplicated. High ticket prices, dynamic
 
 Even so, the durability of concert memory is hard to explain if concerts are treated as songs played loudly. The live event adds presence, risk, crowd synchrony, fandom performance and scarcity. It turns music from an object into an occasion. That is why fans save tickets, wristbands, confetti, blurry videos and handmade bracelets. These objects are not valuable because they sound like the concert. They are valuable because they point back to the night when the song briefly belonged to everyone in the room.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-dark.svg" | relative_url }}" alt="Concerts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -979,149 +966,149 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-41960-2](https://www.nature.com/articles/s41598-023-41960-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAudience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41960-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen](https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateWatching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</p></details>
    Published: August 1, 2025  
 
 3. <a id="endnote-3"></a>
    Source: news.uzh.ch  
    Title: News Live Musik  
-   Link: [https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html](https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html)  
+   Link: <a href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Let the Music Play: Live Music Fosters Collective  
-   Link: [https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes](https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
 
 5. <a id="endnote-5"></a>
    Source: ew.com  
-   Link: [https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/](https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/)  
+   Link: <a href="https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/</a>  
 
 6. <a id="endnote-6"></a>
    Source: setlist.fm  
-   Link: [https://www.setlist.fm/](https://www.setlist.fm/)  
+   Link: <a href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/</a>  
 
 7. <a id="endnote-7"></a>
    Source: livingforlive.livenationforbrands.com  
-   Link: [https://livingforlive.livenationforbrands.com/](https://livingforlive.livenationforbrands.com/)  
+   Link: <a href="https://livingforlive.livenationforbrands.com/" target="_blank" rel="noopener noreferrer nofollow">https://livingforlive.livenationforbrands.com/</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 339489760 Sharing Music Social and Communal Aspects of Concert Going  
-   Link: [https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going](https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going)  
+   Link: <a href="https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development](https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development)  
+   Link: <a href="https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon](https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon)  
+   Link: <a href="https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet](https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet)  
+   Link: <a href="https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience](https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience)  
+   Link: <a href="https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships](https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships)  
+   Link: <a href="https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience](https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience)  
+   Link: <a href="https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being](https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being)  
+   Link: <a href="https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being</a>  
 
 16. <a id="endnote-16"></a>
    Source: setlist.fm  
    Title: Fan Concert Setlists Get Fan setlists  
-   Link: [https://www.setlist.fm/setlists/fan-4be29f0a.html](https://www.setlist.fm/setlists/fan-4be29f0a.html)  
+   Link: <a href="https://www.setlist.fm/setlists/fan-4be29f0a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/fan-4be29f0a.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: itsbetterlive.livenationforbrands.com  
    Title: study the state of fandom  
-   Link: [https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/](https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/)  
+   Link: <a href="https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/" target="_blank" rel="noopener noreferrer nofollow">https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-38194-3](https://www.nature.com/articles/s41598-026-38194-3)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-38194-3</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: The Guardian What's behind the Taylor Swift friendship bracelets trend?  
-   Link: [https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained](https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained)  
+   Link: <a href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained</a>  
 
 20. <a id="endnote-20"></a>
    Source: themarysue.com  
    Title: The Mary Sue I Swear To Everything if You Interrupt the Mute Challenge  
-   Link: [https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/](https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/)  
+   Link: <a href="https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/</a>  
 
 21. <a id="endnote-21"></a>
    Source: aestheticsforbirds.com  
    Title: Aesthetics for Birds What's Wrong with Setlist.fm?  
-   Link: [https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/](https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/)  
+   Link: <a href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow">https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/</a>  
 
 22. <a id="endnote-22"></a>
    Source: pure.uva.nl  
    Title: The role of social presence in live and recorded concert viewing  
-   Link: [https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf](https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf)  
+   Link: <a href="https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: midiaresearch.com  
    Title: return to live post pandemic music fans  
-   Link: [https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans](https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans)  
+   Link: <a href="https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39417534/](https://pubmed.ncbi.nlm.nih.gov/39417534/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLive Music Fosters Collective Effervescence and Leads to...by N Koefler · 2026 · Cited by 18 — This work examined the power of liv...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39417534/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39417534/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Fosters Collective Effervescence and Leads to...by N Koefler · 2026 · Cited by 18 — This work examined the power of liv...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: harpersbazaar.com.au  
-   Link: [https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/](https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/)  
+   Link: <a href="https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/](https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/)  
+   Link: <a href="https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/](https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/](https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/)  
+   Link: <a href="https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/</a>  
 
 29. <a id="endnote-29"></a>
    Source: openresearch.newcastle.edu.au  
-   Link: [https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272](https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272)  
+   Link: <a href="https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272</a>  
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts](https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts)  
+   Link: <a href="https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts</a>  
 
 31. <a id="endnote-31"></a>
    Source: danielle-moss.com  
-   Link: [https://www.danielle-moss.com/friendship-bracelets/](https://www.danielle-moss.com/friendship-bracelets/)  
+   Link: <a href="https://www.danielle-moss.com/friendship-bracelets/" target="_blank" rel="noopener noreferrer nofollow">https://www.danielle-moss.com/friendship-bracelets/</a>  
 
 32. <a id="endnote-32"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73](https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73)  
+   Link: <a href="https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/](https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/)  
+   Link: <a href="https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626
 - music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654
 tags:
-- music
+- music-3-a01-be
 - creator-pay
 - payout-myths
 keywords:
-- music
+- music-3-a01-be
 - creator-pay
 - payout-myths
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming income is shaped by revenue pools, rights-holder deals and contracts, not a simple fixed payment for each play.
 hero_summary: Streaming income is shaped by revenue pools, rights-holder deals and contracts, not a simple fixed payment for each play.
 layout: default
 permalink: /payout-myths/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /creator-pay/
 nav_short_title: Payout Myths
 title: Why There Is No Simple Per Stream Rate
-title_full: Why There Is No Simple Per Stream Rate | Creator Pay
+title_full: Why There Is No Simple Per Stream Rate
 display_title_short: Payout Myths
 display_title: Payout Myths
 heading_title: Why There Is No Simple Per Stream Rate
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why A Growing Industry Can Still Feel Unfair | Music
+parent_title: Why A Growing Industry Can Still Feel Unfair
 parent_permalink: /creator-pay/
 parent_nav_short_title: Creator Pay
 parent_heading_title: Why A Growing Industry Can Still Feel Unfair
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Bigger Royalty Reports Still Leave Questions
 up_link:
   basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -265,7 +265,7 @@ next_link:
   permalink: /songwriters/
   short_title: Songwriters
   heading_title: Why Songwriters Wait Longer for Streaming Pay
-date: '2026-06-09 07:22:59 '
+date: '2026-06-11 23:42:58 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout
 
 ## Introduction
 
-One of the most persistent misunderstandings in [music]({{ 'music/' | relative_url }}) streaming is the belief that every play generates a fixed payment that travels directly from listener to artist. That idea is simple, intuitive and wrong. Major streaming services do not operate on a universal “pay-per-stream” basis. Instead, subscription and advertising revenue is collected into pools, divided according to listening share and contractual arrangements, and then distributed to [rights]({{ 'rights/' | relative_url }}) holders before creators see any money. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span>
-
+One of the most persistent misunderstandings in music streaming is the belief that every play generates a fixed payment that travels directly from listener to artist. That idea is simple, intuitive and wrong. Major streaming services do not operate on a universal “pay-per-stream” basis. Instead, subscription and advertising revenue is collected into pools, divided according to listening share and contractual arrangements, and then distributed to [rights]({{ 'rights/' | relative_url }}) holders before creators see any money. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-1-dark.svg" | relative_url }}" alt="Payout Myths illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The myth matters because it can mislead musicians about where income is actually gained or lost. A creator may blame a platform's supposed per-stream rate when the larger issue is a recording contract, [publishing]({{ 'publishing/' | relative_url }}) split, distribution fee, recoupment clause or rights ownership arrangement. Understanding the mechanism is essential to understanding why [creator pay]({{ 'creator-pay/' | relative_url }}) remains one of the music industry's most contested issues.
@@ -286,16 +285,11 @@ The phrase “Spotify pays £0.00X [per stream]({{ 'per-stream/' | relative_url 
 
 A simplified version of the process works like this:
 
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
 1. Subscribers and advertisers generate revenue.
 2. The platform retains its agreed share of revenue.
 3. The remaining money forms royalty pools.
 4. Rights holders receive payments based on their share of total eligible streams.
-5. Rights holders distribute money onward according to contracts and ownership splits.
-
-</div>
+5. Rights holders distribute money onward according to contracts and [ownership]({{ 'ownership/' | relative_url }}) splits.
 
 Under this system, the same number of streams can generate different amounts of money depending on factors such as:
 
@@ -305,8 +299,7 @@ Under this system, the same number of streams can generate different amounts of 
 * Currency fluctuations and local pricing.
 * The track's share of total platform listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</span></span></span>
 
-This is why online calculators that multiply streams by a single payout figure can produce misleading expectations. Average payout estimates may be useful for rough comparisons, but they do not describe how royalties are actually calculated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypeddit.com">[Hypeddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypeddit.com</span><span class="citation-popover-title">how much does spotify pay per stream</span><span class="citation-popover-snippet">HypedditHow Much Does Spotify Pay Per Stream18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+This is why online calculators that multiply streams by a single payout figure can produce misleading expectations. Average payout estimates may be useful for rough comparisons, but they do not describe how royalties are actually calculated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypeddit.com">[Hypeddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypeddit.com</span><span class="citation-popover-title">how much does spotify pay per stream</span><span class="citation-popover-snippet">How Much Does Spotify Pay Per Stream18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZKh9YpOOBAs" title="SoundCloud Fan-Royalty and How Monetization Actually Works - Explained!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZKh9YpOOBAs" target="_blank" rel="noopener noreferrer">SoundCloud Fan-Royalty and How Monetization Actually Works - Explained!</a></p><p class="youtube-embed-meta">Channel: Adrian Barrin - Music &amp; Event Marketing &middot; Views: 6.3K &middot; Uploaded: May 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZKh9YpOOBAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZKh9YpOOBAs">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +320,6 @@ The difference is not caused by a different platform payout. It is caused by dif
 
 The same complexity exists on the songwriting side. Songwriter income can pass through publishers, collecting societies and administrators before reaching the creator. A listener who believes a stream creates a single artist payment is overlooking multiple rights and payment pathways embedded within one song.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1n-8iPwHw9c" title="Spotify’s AI Plan + The Royalty Truth Artists Need to Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1n-8iPwHw9c" target="_blank" rel="noopener noreferrer">Spotify’s AI Plan + The Royalty Truth Artists Need to Hear</a></p><p class="youtube-embed-meta">Channel: Radium Records &middot; Views: 5.6K &middot; Uploaded: March 2026 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1n-8iPwHw9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1n-8iPwHw9c">Open on YouTube</a></p></div></div></div>
 
 ## Why Two Artists Can Earn Different Amounts From Similar Streams
@@ -335,7 +327,6 @@ The same complexity exists on the songwriting side. Songwriter income can pass t
 Per-stream myths often create confusion when musicians compare earnings.
 
 Suppose two artists each generate one million streams. Many assume they should receive the same payment. In reality, several variables can produce dramatically different outcomes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,7 +341,6 @@ Suppose two artists each generate one million streams. Many assume they should r
 As a result, a headline figure such as “one million streams equals £X” can conceal more than it reveals. The stream count alone does not determine creator income. The surrounding business structure does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">modernizing our royalty system</span><span class="citation-popover-snippet">Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have reached at least 1,000 streams in...</span></span></span>
 
 This is one reason creator-pay debates frequently shift away from platform averages and towards transparency, bargaining power and contractual fairness.
-
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-2-dark.svg" | relative_url }}" alt="Payout Myths illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The User-Centric Debate Shows Why the Myth Persists
@@ -379,12 +369,11 @@ Payments generally go first to rights holders, who then distribute revenue accor
 
 **“More streams always mean proportionally more [artist income]({{ 'artist-income/' | relative_url }}).”**
 
-More streams help, but the amount retained by the creator depends heavily on rights ownership, publishing shares and contractual deductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumTHE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESWhen royalties are generated from a stream, Spotify pays the money to the entity it signed...</span></span></span>
+More streams help, but the amount retained by the creator depends heavily on rights ownership, publishing shares and contractual deductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESWhen royalties are generated from a stream, Spotify pays the money to the entity it signed...</span></span></span>
 
 **“A platform's average payout rate tells me what I will earn.”**
 
-Average figures cannot account for geography, subscription mix, rights splits, recoupment status and other variables affecting individual earnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypeddit.com">[Hypeddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypeddit.com</span><span class="citation-popover-title">how much does spotify pay per stream</span><span class="citation-popover-snippet">HypedditHow Much Does Spotify Pay Per Stream18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+Average figures cannot account for geography, subscription mix, rights splits, recoupment status and other variables affecting individual earnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypeddit.com">[Hypeddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypeddit.com</span><span class="citation-popover-title">how much does spotify pay per stream</span><span class="citation-popover-snippet">How Much Does Spotify Pay Per Stream18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-3-dark.svg" | relative_url }}" alt="Payout Myths illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Musicians Should Focus On Instead
@@ -392,7 +381,6 @@ Average figures cannot account for geography, subscription mix, rights splits, r
 For creators trying to understand streaming income, the most important questions are rarely about a platform's supposed per-stream rate.
 
 More useful questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -407,9 +395,7 @@ More useful questions include:
 
 Those factors often have a larger impact on earnings than fluctuations in any estimated payout-per-stream figure. The central lesson is that streaming income is not generated by a simple one-play-one-payment transaction. It is generated by a layered system of revenue pools, rights ownership and contractual allocation. Misunderstanding that mechanism can lead musicians to focus on the wrong problem when evaluating why creator pay remains such a contentious issue.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yxe2oZAYVIA" title="The Future Of Streaming Royalties?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yxe2oZAYVIA" target="_blank" rel="noopener noreferrer">The Future Of Streaming Royalties?</a></p><p class="youtube-embed-meta">Channel: Andrew Southworth &middot; Views: 5.0K &middot; Uploaded: September 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yxe2oZAYVIA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yxe2oZAYVIA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -528,15 +514,15 @@ Those factors often have a larger impact on earnings than fluctuations in any es
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mamamoo 2026 World Tour MOOMOO Kpop Music Live Streaming Concert Poster Print"><img src="{{ '/assets/images/marketplace-covers/fe2f442c8fc6f4f97766.jpg' | relative_url }}" alt="Listing image for Mamamoo 2026 World Tour MOOMOO Kpop Music Live Streaming Concert Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mamamoo 2026 World Tour MOOMOO Kpop Music Live Streaming Concert Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music streaming poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +530,47 @@ Those factors often have a larger impact on earnings than fluctuations in any es
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COLDPLAY X &amp; Y 2005 Streaming Concert AOL MUSIC LIVE Promo POSTER Chris Martin"><img src="{{ '/assets/images/marketplace-covers/7340d9342161665f5540.jpg' | relative_url }}" alt="Listing image for COLDPLAY X &amp; Y 2005 Streaming Concert AOL MUSIC LIVE Promo POSTER Chris Martin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">COLDPLAY X &amp; Y 2005 Streaming Concert AOL MUSIC LIVE Promo POSTER Chris Martin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music streaming poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +578,7 @@ Those factors often have a larger impact on earnings than fluctuations in any es
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming poster -book -books" data-ebay-reference="payout-myths-why-there-is-no-simple-per-stream-rate-music-music-streaming-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-there-is-no-simple-per-stream-rate-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -775,227 +793,227 @@ Those factors often have a larger impact on earnings than fluctuations in any es
 
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideFans don&#x27;t pay per song, and no major streaming service pays a fixed rate per stream. Royalties are bas...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: hypeddit.com  
    Title: how much does spotify pay per stream  
-   Link: [https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/](https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HypedditHow Much Does Spotify Pay Per Stream18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in...</p></details>
+   Link: <a href="https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/" target="_blank" rel="noopener noreferrer nofollow">https://hypeddit.com/news/how-much-does-spotify-pay-per-stream/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Much Does Spotify Pay Per Stream18 May 2026 — So, how much does Spotify pay per stream? Around $0.003 to $0.005 on average in...</p></details>
    Published: May 2026  
 
 4. <a id="endnote-4"></a>
    Source: imusician.pro  
    Title: how much does spotify pay per stream  
-   Link: [https://imusician.pro/en/resources/blog/how-much-does-spotify-pay-per-stream](https://imusician.pro/en/resources/blog/how-much-does-spotify-pay-per-stream)  
+   Link: <a href="https://imusician.pro/en/resources/blog/how-much-does-spotify-pay-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/how-much-does-spotify-pay-per-stream</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Feb 2025 — Spotify, specifically, pays artists an average of $0.003–$0.005 per stream, with a revenue split of approximately 70/30...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumTHE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESWhen royalties are generated from a stream, Spotify pays the money to the entity it signed...</p></details>
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESWhen royalties are generated from a stream, Spotify pays the money to the entity it signed...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: help.soundcloud.com  
-   Link: [https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties](https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties)  
+   Link: <a href="https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SoundCloud Help CenterFan-powered RoyaltiesHow Fan-powered Royalties Work. In the traditional &quot;pro-rata&quot; model, revenue is pooled and pai...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: firstfloor.substack.com  
-   Link: [https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming](https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming)  
+   Link: <a href="https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming" target="_blank" rel="noopener noreferrer nofollow">https://firstfloor.substack.com/p/a-fresh-look-at-user-centric-streaming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Fresh Look at User-Centric Streaming PaymentsStreaming companies are presently using a pro-rata model, in which all revenue is put into...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: soundcloud.com  
    Title: Sound Cloud Get Paid on Sound Cloud  
-   Link: [https://soundcloud.com/getstarted/getpaid](https://soundcloud.com/getstarted/getpaid)  
+   Link: <a href="https://soundcloud.com/getstarted/getpaid" target="_blank" rel="noopener noreferrer nofollow">https://soundcloud.com/getstarted/getpaid</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The more your fans listen, the more you get paid. Monetize your tracks, set up...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: support.deezer.com  
    Title: 360002471277 Artist Centric Payment Model ACPS  
-   Link: [https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS](https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS)  
+   Link: <a href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer SupportArtist-Centric Payment Model (ACPS)13 Mar 2026 — To put it simply - all streams on a streaming platform are added up, and a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: help.soundcloud.com  
    Title: 360051802713 Getting Paid by SoundCloud for Artists  
-   Link: [https://help.soundcloud.com/hc/en-us/articles/360051802713-Getting-Paid-by-SoundCloud-for-Artists](https://help.soundcloud.com/hc/en-us/articles/360051802713-Getting-Paid-by-SoundCloud-for-Artists)  
+   Link: <a href="https://help.soundcloud.com/hc/en-us/articles/360051802713-Getting-Paid-by-SoundCloud-for-Artists" target="_blank" rel="noopener noreferrer nofollow">https://help.soundcloud.com/hc/en-us/articles/360051802713-Getting-Paid-by-SoundCloud-for-Artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tax Forms for Artists: 1099 and 1042-S.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: community.soundcloud.com  
-   Link: [https://community.soundcloud.com/fanpoweredroyalties](https://community.soundcloud.com/fanpoweredroyalties)  
+   Link: <a href="https://community.soundcloud.com/fanpoweredroyalties" target="_blank" rel="noopener noreferrer nofollow">https://community.soundcloud.com/fanpoweredroyalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>soundcloud.comSoundCloud&#x27;s new, game-changing payout modelIntroducing fan-powered royalties, where independent artists get paid more when...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Spotify's AI Plan + The Royalty Truth Artists Need to Hear  
-   Link: [https://www.youtube.com/watch?v=1n-8iPwHw9c](https://www.youtube.com/watch?v=1n-8iPwHw9c)  
+   Link: <a href="https://www.youtube.com/watch?v=1n-8iPwHw9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1n-8iPwHw9c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Paid $11B But Who Gets the Money?...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Spotify Paid $11B But Who Gets the Money?  
-   Link: [https://www.youtube.com/watch?v=EWeCsPmjpFg](https://www.youtube.com/watch?v=EWeCsPmjpFg)  
+   Link: <a href="https://www.youtube.com/watch?v=EWeCsPmjpFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EWeCsPmjpFg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Music Streaming Services Pay Musicians? Pro Rata vs User-Centric Royalties...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Your Questions, Answered  
-   Link: [https://loudandclear.byspotify.com/faq/](https://loudandclear.byspotify.com/faq/)  
+   Link: <a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearYour Questions, Answered - Loud and ClearFans pay for unlimited [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;), not per track they listen to. So a “per stream” rat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicbusinessresearch.wordpress.com  
-   Link: [https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/](https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/)  
+   Link: <a href="https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business ResearchThe Music Streaming Economy – Part 15: Pro-Rata versus...23 Sept 2024 — The most common model is the pro-rata mod...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/indie-artists-shift-to-artist-centric-payments-on-deezer-as-streaming-service-signs-new-deal-with-merlin/](https://www.musicbusinessworldwide.com/indie-artists-shift-to-artist-centric-payments-on-deezer-as-streaming-service-signs-new-deal-with-merlin/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/indie-artists-shift-to-artist-centric-payments-on-deezer-as-streaming-service-signs-new-deal-with-merlin/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/indie-artists-shift-to-artist-centric-payments-on-deezer-as-streaming-service-signs-new-deal-with-merlin/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideIndie artists shift to artist-centric payments on Deezer, as...21 Mar 2024 — More music on streaming service Dee...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: lemonde.fr  
    Title: la sacem et deezer paieront plus equitablement les artistes 6499430 3234  
-   Link: [https://www.lemonde.fr/economie/article/2025/01/15/la-sacem-et-deezer-paieront-plus-equitablement-les-artistes_6499430_3234.html](https://www.lemonde.fr/economie/article/2025/01/15/la-sacem-et-deezer-paieront-plus-equitablement-les-artistes_6499430_3234.html)  
+   Link: <a href="https://www.lemonde.fr/economie/article/2025/01/15/la-sacem-et-deezer-paieront-plus-equitablement-les-artistes_6499430_3234.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/economie/article/2025/01/15/la-sacem-et-deezer-paieront-plus-equitablement-les-artistes_6499430_3234.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrairement au modèle actuel dit « market centric » — qui répartit les droits d’auteur au prorata des écoutes totales et favorise les a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: musicxtechxfuture.com  
    Title: I'm a proponent of the system and was even  
-   Link: [https://www.musicxtechxfuture.com/2021/03/09/four-reflections-on-soundclouds-fan-powered-royalties-the-flaws-of-subscription-models/](https://www.musicxtechxfuture.com/2021/03/09/four-reflections-on-soundclouds-fan-powered-royalties-the-flaws-of-subscription-models/)  
+   Link: <a href="https://www.musicxtechxfuture.com/2021/03/09/four-reflections-on-soundclouds-fan-powered-royalties-the-flaws-of-subscription-models/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicxtechxfuture.com/2021/03/09/four-reflections-on-soundclouds-fan-powered-royalties-the-flaws-of-subscription-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four reflections on SoundCloud&#x27;s fan-powered royalties &amp; the...9 Mar 2021 — SoundCloud is adopting the user-centric payment model, brand...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s time to put the value of your work back in your hands.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0-f4dOJ78Fs](https://www.youtube.com/watch?v=0-f4dOJ78Fs)  
+   Link: <a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0-f4dOJ78Fs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r stream,” and what really happens behind the scenes of music...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/135000-artists-are-now-getting-paid-through-soundclouds-fan-powered-royalties-platform1/](https://www.musicbusinessworldwide.com/135000-artists-are-now-getting-paid-through-soundclouds-fan-powered-royalties-platform1/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/135000-artists-are-now-getting-paid-through-soundclouds-fan-powered-royalties-platform1/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/135000-artists-are-now-getting-paid-through-soundclouds-fan-powered-royalties-platform1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>135000 artists are now getting paid through SoundCloud&#x27;s...26 Apr 2022 — SoundCloud also claims that, on average, independent artists ar...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: musicbusinessworldwide.com  
    Title: deezers artist centric model now has a new element dubbed user centric  
-   Link: [https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/](https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer&#x27;s &#x27;artist-centric&#x27; model now has a new &#x27;user-...30 Oct 2023 — In reality, it&#x27;s a capped &#x27;pro-rata&#x27; system, by which each individu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: emastered.com  
-   Link: [https://emastered.com/blog/spotify-royalties](https://emastered.com/blog/spotify-royalties)  
+   Link: <a href="https://emastered.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://emastered.com/blog/spotify-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties: All You Need to Know1 Oct 2024 — Assuming that an artist earns between $0.003 and $0.004 per stream, you can expect Sp...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: hypebot.com  
    Title: spotify streaming payouts explained is it enough  
-   Link: [https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/](https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/)  
+   Link: <a href="https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypebot.com/spotify-streaming-payouts-explained-is-it-enough/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Explains Why There&#x27;s No &#x27;Per-Stream Rate&#x27; – Artists...Dec 2, 2025 — Spotify stresses that it pays out nearly 70% of its revenue...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: musicbusinessresearch.wordpress.com  
-   Link: [https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/](https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/)  
+   Link: <a href="https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/" target="_blank" rel="noopener noreferrer nofollow">https://musicbusinessresearch.wordpress.com/2024/09/30/the-music-streaming-economy-part-16-the-artist-centric-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Economy – Part 16: The Artist-Centric...30 Sept 2024 — Universal and the other majors can therefore look forward to sign...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: artisticechoes.co.uk  
    Title: music sin fronteras spotify and bandcamp two ways of paying artists  
-   Link: [https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/](https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/)  
+   Link: <a href="https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>royalties guide tried to “clarify” how streaming payouts work. In the 2025 report, it noted that it does not pay a fixed “per-stream rate...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: dittomusic.com  
    Title: how much does spotify pay per stream  
-   Link: [https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream](https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream)  
+   Link: <a href="https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://dittomusic.com/en/blog/how-much-does-spotify-pay-per-stream</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That works out as an approx revenue split of 70/30 - so that&#x27;s 70% to the artist/rights...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theghostproduction.com  
    Title: Spotify Royalty Calculator | Estimate Earnings From Streams No  
-   Link: [https://theghostproduction.com/spotify-royalty-calculator/](https://theghostproduction.com/spotify-royalty-calculator/)  
+   Link: <a href="https://theghostproduction.com/spotify-royalty-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://theghostproduction.com/spotify-royalty-calculator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify uses a pro-rata royalty pool model — your per-stream rate fluctuates each month based on total platform streams. Premium streams...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: streamingcalculator.com  
    Title: spotify vs deezer  
-   Link: [https://streamingcalculator.com/spotify-vs-deezer](https://streamingcalculator.com/spotify-vs-deezer)  
+   Link: <a href="https://streamingcalculator.com/spotify-vs-deezer" target="_blank" rel="noopener noreferrer nofollow">https://streamingcalculator.com/spotify-vs-deezer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Royalties 2026Compare Spotify vs Deezer pay per stream in 2026. Spotify pays $0.003–$0.005 while Deezer pays $0.004–$0.007. See...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: landr.com  
    Title: ‍. Here is a rough range of what each platform pays per  
-   Link: [https://www.landr.com/royalty-calculator](https://www.landr.com/royalty-calculator)  
+   Link: <a href="https://www.landr.com/royalty-calculator" target="_blank" rel="noopener noreferrer nofollow">https://www.landr.com/royalty-calculator</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalty Calculator: How Much Are Streams Worth?Typically, the range falls between $0.003 and $0.008 per stream for the major stre...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/](https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/)  
+   Link: <a href="https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artist-Centric Payment Thoughts?: r/deezerCurious how everyone feels about Deezer&#x27;s new payout system. Is it legit? Considering switchin...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/under-soundclouds-new-royalty-plan-your-money-goes-to-artists-you-listen-to](https://pitchfork.com/news/under-soundclouds-new-royalty-plan-your-money-goes-to-artists-you-listen-to)  
+   Link: <a href="https://pitchfork.com/news/under-soundclouds-new-royalty-plan-your-money-goes-to-artists-you-listen-to" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/under-soundclouds-new-royalty-plan-your-money-goes-to-artists-you-listen-to</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This system is designed to benefit smaller, independent artists, who are not signed to any of the three major labels, by allocating the s...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise](https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise)  
+   Link: <a href="https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known as the &quot;artist-centric&quot; model, Deezer will demonetize noise like white noise or washing machine sounds, redirecting revenue towards...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: sonosuite.com  
-   Link: [https://sonosuite.com/blog/why-is-soundclouds-new-fan-powered-payout-model-so-revolutionary](https://sonosuite.com/blog/why-is-soundclouds-new-fan-powered-payout-model-so-revolutionary)  
+   Link: <a href="https://sonosuite.com/blog/why-is-soundclouds-new-fan-powered-payout-model-so-revolutionary" target="_blank" rel="noopener noreferrer nofollow">https://sonosuite.com/blog/why-is-soundclouds-new-fan-powered-payout-model-so-revolutionary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is SoundCloud&#x27;s new &#x27;fan-powered&#x27; payout model so...SoundClouds&#x27;s new user-centered model seeks to add a balance and bring more bene...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: universalmusic.com  
-   Link: [https://www.universalmusic.com/universal-music-group-and-deezer-to-launch-the-first-comprehensive-artist-centric-music-streaming-model/](https://www.universalmusic.com/universal-music-group-and-deezer-to-launch-the-first-comprehensive-artist-centric-music-streaming-model/)  
+   Link: <a href="https://www.universalmusic.com/universal-music-group-and-deezer-to-launch-the-first-comprehensive-artist-centric-music-streaming-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalmusic.com/universal-music-group-and-deezer-to-launch-the-first-comprehensive-artist-centric-music-streaming-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIVERSAL MUSIC GROUP AND DEEZER TO LAUNCH...6 Sept 2023 — Deezer to implement an artist-centric streaming model to better reward artist...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/soundcloud-fan-powered-royalties-future-streaming-david-putman](https://www.linkedin.com/pulse/soundcloud-fan-powered-royalties-future-streaming-david-putman)  
+   Link: <a href="https://www.linkedin.com/pulse/soundcloud-fan-powered-royalties-future-streaming-david-putman" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/soundcloud-fan-powered-royalties-future-streaming-david-putman</a>  
 
 38. <a id="endnote-38"></a>
    Source: newsroom-deezer.com  
-   Link: [https://newsroom-deezer.com/2025/01/deezer-and-sacem-partner-for-fairer-remuneration-of-publishing-rights-with-the-artist-centric-streaming-model/](https://newsroom-deezer.com/2025/01/deezer-and-sacem-partner-for-fairer-remuneration-of-publishing-rights-with-the-artist-centric-streaming-model/)  
+   Link: <a href="https://newsroom-deezer.com/2025/01/deezer-and-sacem-partner-for-fairer-remuneration-of-publishing-rights-with-the-artist-centric-streaming-model/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2025/01/deezer-and-sacem-partner-for-fairer-remuneration-of-publishing-rights-with-the-artist-centric-streaming-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer and Sacem partner for fairer remuneration of...15 Jan 2025 — Deezer&#x27;s artist centric payment system for streaming is designed to...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: submitlink.io  
    Title: a strategic guide to spotify royalty payments for the professional artist  
-   Link: [https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist](https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist)  
+   Link: <a href="https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Strategic Guide to Spotify Royalty Payments18 Mar 2026 — If you want to gain control over your Spotify earnings, you must internaliz...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZKh9YpOOBAs](https://www.youtube.com/watch?v=ZKh9YpOOBAs)  
+   Link: <a href="https://www.youtube.com/watch?v=ZKh9YpOOBAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZKh9YpOOBAs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SoundCloud Fan-Royalty and How Monetization Actually...Want to know more about SoundCloud payments? Well, a lot of you ask me to walk yo...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: theguardian.com  
    Title: soundcloud announces overhaul of royalties model to fan powered system  
-   Link: [https://www.theguardian.com/technology/2021/mar/03/soundcloud-announces-overhaul-of-royalties-model-to-fan-powered-system](https://www.theguardian.com/technology/2021/mar/03/soundcloud-announces-overhaul-of-royalties-model-to-fan-powered-system)  
+   Link: <a href="https://www.theguardian.com/technology/2021/mar/03/soundcloud-announces-overhaul-of-royalties-model-to-fan-powered-system" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2021/mar/03/soundcloud-announces-overhaul-of-royalties-model-to-fan-powered-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SoundCloud announces overhaul of royalties model to &#x27;fan...3 Mar 2021 — Streaming company says it will start directing money from subscr...</p></details>

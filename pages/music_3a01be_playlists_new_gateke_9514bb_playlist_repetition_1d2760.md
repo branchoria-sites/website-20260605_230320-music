@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb
 - music_3a01be_playlists_new_gateke_9514bb_mood_playlists_funct_3f7bc2
 tags:
-- music
+- music-3-a01-be
 - playlists
 - repetition
 keywords:
-- music
+- music-3-a01-be
 - playlists
 - repetition
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming still makes hits through repetition, but the repeats now come from playlists, autoplay and personal libraries.
 hero_summary: Streaming still makes hits through repetition, but the repeats now come from playlists, autoplay and personal libraries.
 layout: default
 permalink: /repetition/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /playlists/
 nav_short_title: Repetition
 title: How Playlists Make Songs Feel Familiar
-title_full: How Playlists Make Songs Feel Familiar | Playlists
+title_full: How Playlists Make Songs Feel Familiar
 display_title_short: Repetition
 display_title: Repetition
 heading_title: How Playlists Make Songs Feel Familiar
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Playlists Became Music's New Gatekeepers | Music
+parent_title: Why Playlists Became Music's New Gatekeepers
 parent_permalink: /playlists/
 parent_nav_short_title: Playlists
 parent_heading_title: Why Playlists Became Music's New Gatekeepers
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Music Becomes a Mood Button
 up_link:
   basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -259,7 +259,7 @@ prev_link:
   permalink: /mood-listening/
   short_title: Mood Listening
   heading_title: When Music Becomes a Mood Button
-date: '2026-06-09 07:00:48 '
+date: '2026-06-11 23:32:07 '
 header:
   og_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-1.webp
@@ -270,13 +270,12 @@ image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetiti
 
 Songs still become hits through repetition. What has changed is where that repetition comes from. For most of the twentieth century, radio stations created familiarity by playing the same tracks repeatedly across days and weeks. In the streaming era, the same psychological process remains powerful, but it is delivered through playlists, [autoplay]({{ 'autoplay/' | relative_url }}), recommendation systems and personal libraries rather than through a broadcaster's schedule.
 
-
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-1-dark.svg" | relative_url }}" alt="Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift helps explain why songs can now feel instantly familiar even when listeners cannot remember hearing them on radio. A track may appear in a workout playlist, then reappear in a personalised mix, then surface again through autoplay after an album ends. Each exposure is small, but together they create recognition. Streaming has not eliminated repetition as a hit-making tool; it has distributed repetition across many listening environments. Research on [music recommendation]({{ 'algorithms-a7ef46/' | relative_url }}) systems and listening behaviour consistently finds that familiarity strongly influences preference and that repeated exposure remains central to how listeners adopt new [music]({{ 'music/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
+This shift helps explain why songs can now feel instantly familiar even when listeners cannot remember hearing them on radio. A track may appear in a workout playlist, then reappear in a personalised mix, then surface again through autoplay after an album ends. Each exposure is small, but together they create recognition. Streaming has not eliminated repetition as a hit-making tool; it has distributed repetition across many listening environments. Research on music recommendation systems and listening behaviour consistently finds that familiarity strongly influences preference and that repeated exposure remains central to how listeners adopt new music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
 
 ## Why Repeated Exposure Still Drives Hit-Making
 
-The basic mechanism behind musical familiarity is older than streaming. Psychologists call it the "mere exposure effect": people often develop greater liking for something simply because they encounter it repeatedly. Music appears particularly susceptible to this effect because songs are designed to withstand multiple listens. Research using streaming data has found that interest in newly discovered songs often rises during the first several exposures before eventually levelling off, producing a pattern consistent with decades of psychological research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
+The basic mechanism behind musical familiarity is older than streaming. Psychologists call it the "mere exposure effect": people often develop greater liking for something simply because they encounter it repeatedly. Music appears particularly susceptible to this effect because songs are designed to withstand multiple listens. Research using streaming data has found that interest in newly discovered songs often rises during the first several exposures before eventually levelling off, producing a pattern consistent with decades of psychological research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
 
 This matters because familiarity is not merely a side effect of popularity. It is one of the engines that creates popularity. Studies of music choice have found that familiarity is a strong predictor of what listeners choose to play, sometimes outperforming factors that people claim matter more, such as novelty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">We show that although consumers say they would prefer to listen to unfamiliar music.Read more...</span></span></span>
 
@@ -289,7 +288,7 @@ The most important change is that repetition no longer arrives from a single sou
 A listener might encounter the same song through:
 
 * A major editorial playlist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial Playlists15 Mar 2026 — If your song performs well on an editorial playlist, Spotify&#x27;s algorithm may push...</span></span></span>
-* A personalised daily mix. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/fan-study/spotify-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[* An artist radio station.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Spotify Playlists</span><span class="citation-popover-snippet">Spotify for ArtistsSpotify Playlists - Fan StudyIn fact, more than half of new artist discoveries on Spotify happen in programmed playlis...</span></span></span> * Autoplay after another playlist finishes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nickiedemakos.substack.com/p/so-im-making-my-own-spotify-wrapped" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickiedemakos.substack.com">[nickiedemakos.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickiedemakos.substack.com</span><span class="citation-popover-title">so im making my own spotify wrapped</span><span class="citation-popover-snippet">I&#x27;m making my own Spotify Wrapped this year but betterMost of these songs came from Spotify&#x27;s autoplay feature which continues to play mu...</span></span></span>
+* A personalised daily mix. * An artist radio station. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/fan-study/spotify-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[artists.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Spotify Playlists</span><span class="citation-popover-snippet">Spotify for ArtistsSpotify Playlists - Fan StudyIn fact, more than half of new artist discoveries on Spotify happen in programmed playlis...</span></span></span> * Autoplay after another playlist finishes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nickiedemakos.substack.com/p/so-im-making-my-own-spotify-wrapped" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickiedemakos.substack.com">[nickiedemakos.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickiedemakos.substack.com</span><span class="citation-popover-title">so im making my own spotify wrapped</span><span class="citation-popover-snippet">I&#x27;m making my own Spotify Wrapped this year but betterMost of these songs came from Spotify&#x27;s autoplay feature which continues to play mu...</span></span></span>
 * A user-created playlist shared through social media.
 * Their own saved library.
 
@@ -299,10 +298,7 @@ Spotify's own artist data shows how important these programmed environments have
 
 Autoplay is particularly significant because it extends listening sessions beyond the listener's original choice. When a playlist or album ends, the platform automatically serves similar tracks so the music continues uninterrupted. Spotify describes autoplay as a system that automatically plays related songs after a listener reaches the end of a selection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/fan-study/spotify-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Spotify Playlists</span><span class="citation-popover-snippet">Spotify for ArtistsSpotify Playlists - Fan StudyIn fact, more than half of new artist discoveries on Spotify happen in programmed playlis...</span></span></span>
 
-The result is a subtle form of repetition. Listeners may not consciously choose a track multiple times. Instead, recommendation systems repeatedly place it in their path. Some users have even complained that autoplay surfaces the same songs over and over again, illustrating how recommendation systems can reinforce familiarity through recurring selections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Music/comments/12j42b3/spotifys_autoplay_plays_the_same_songs_in_every/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Spotify&#x27;s autoplay plays the same songs in every time</span><span class="citation-popover-snippet">RedditSpotify&#x27;s autoplay plays the same songs in every timeApril 12, 2023 — For the past 2-3 weeks, every time an album/playlist ends, Au...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bObUaZ_gk3c" title="The Psychology of People Who Listen to the Same Song on Repeat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bObUaZ_gk3c" target="_blank" rel="noopener noreferrer">The Psychology of People Who Listen to the Same Song on Repeat</a></p><p class="youtube-embed-meta">Channel: PsychToons</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bObUaZ_gk3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bObUaZ_gk3c">Open on YouTube</a></p></div></div></div>
+The result is a subtle form of repetition. Listeners may not consciously choose a track multiple times. Instead, recommendation systems repeatedly place it in their path. Some users have even complained that autoplay surfaces the same songs over and over again, illustrating how recommendation systems can reinforce familiarity through recurring selections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Music/comments/12j42b3/spotifys_autoplay_plays_the_same_songs_in_every/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Spotify&#x27;s autoplay plays the same songs in every time</span><span class="citation-popover-snippet">Spotify&#x27;s autoplay plays the same songs in every timeApril 12, 2023 — For the past 2-3 weeks, every time an album/playlist ends, Au...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
 
 ## The New Familiarity Loop
 
@@ -312,6 +308,7 @@ A radio listener might hear a song several times a day because a station program
 
 The cycle often works like this:
 
+<img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-2-dark.svg" | relative_url }}" alt="Repetition illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -319,6 +316,43 @@ The cycle often works like this:
 2. It performs well in playlists or recommendations.
 3. Algorithms interpret those signals as evidence of listener satisfaction.
 4. The song receives more placement opportunities.
+5. More listeners become familiar with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2505.03568v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Familiarizing with Music: Discovery Patterns for Different...6 May 2025 — Research has shown that music listeners tend to like familiar...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+6. Familiarity increases the likelihood of additional plays.
+
+</div>
+
+Research into music recommender systems increasingly treats familiarity as a measurable variable because repeated listening is such a common behaviour. Studies using large streaming datasets show that recency, frequency of exposure and existing familiarity are all strong predictors of future listening choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
+
+This helps explain why many streaming hits seem to emerge gradually rather than exploding through a single promotional event. Familiarity accumulates through repeated encounters spread across weeks or months.
+
+## How Streaming Repetition Differs from Radio Rotation
+
+Although both systems depend on repetition, the experience feels different.
+
+<img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-3-dark.svg" | relative_url }}" alt="Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Radio repeated songs publicly
+
+Radio repetition was visible. Everyone listening to the same station heard largely the same rotation. Hit songs became cultural reference points because millions of people encountered them together.
+
+Programmers also worked with relatively fixed schedules. If a song entered heavy rotation, listeners could often predict they would hear it again later in the day.
+
+### Streaming repeats songs privately
+
+Streaming repetition is personalised. Two listeners may both hear a song repeatedly, but through entirely different pathways.
+
+One person might receive it in a gym playlist. Another might encounter it through indie recommendations. A third might hear it via autoplay after related artists. The repetition exists, but it is distributed across personalised systems rather than concentrated in a public broadcast schedule. Spotify's "[algotorial]({{ 'algotorial/' | relative_url }})" approach—combining human editorial choices with machine-driven personalisation—illustrates this hybrid model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Personalized Editorial Playlists has been e...</span></span></span>
+
+The consequence is that familiarity can develop without widespread awareness that repetition is occurring. Listeners may feel they "keep running into" a song without recognising that recommendation systems are creating those encounters.
+
+## Why Familiarity Matters More Than Discovery Alone
+
+Streaming platforms often present themselves as engines of discovery, yet research consistently shows that listeners gravitate towards familiar music. Recommendation systems therefore face a tension: people say they want new music, but their behaviour frequently rewards familiar material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">We show that although consumers say they would prefer to listen to unfamiliar music.Read more...</span></span></span>
+
+This is why recommendation systems rarely maximise novelty. Instead, they tend to introduce new tracks alongside songs, artists and sounds that already feel known. Spotify researchers have described recommendation design as an effort to balance discovery, similarity and familiarity because users generally respond poorly to either extreme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/publications/algorithmic-balancing-of-familiarity-similarity-discovery-in-music-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Balancing of Familiarity, Similarity, &amp; Discovery in...5 Nov 2021 — We propose a multi-level ordered-weighte...</span></span></span>
+
+In practical terms, playlists often function less as discovery engines than as familiarity-building machines. A track may begin as something unfamiliar, but repeated appearances across playlists, radio features and autoplay gradually move it into the listener's comfort zone. Once that transition happens, voluntary listening becomes more likely.
+
+That process mirrors what radio once achieved through heavy rotation. The mechanism has survived the technological shift. What changed is that repetition is now personalised, distributed and largely invisible. Instead of hearing the same song because a station plays it every afternoon, listeners hear it because dozens of streaming systems quietly place it in front of them until it feels like part of their musical world.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -437,15 +471,15 @@ The cycle often works like this:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UB40 40th Anniversary T-Shirt - Vintage Music Lover Band Gift Tee Top"><img src="{{ '/assets/images/marketplace-covers/9151cd7b65b067d3cc38.jpg' | relative_url }}" alt="Listing image for UB40 40th Anniversary T-Shirt - Vintage Music Lover Band Gift Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iconic New Order &#x27;World in Motion&#x27; WHITE T-Shirt *** World Cup***"><img src="https://i.ebayimg.com/images/g/oC0AAeSw3~hqIw7j/s-l225.jpg" alt="Listing image for Iconic New Order &#x27;World in Motion&#x27; WHITE T-Shirt *** World Cup***" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UB40 40th Anniversary T-Shirt - Vintage Music Lover Band Gift Tee Top</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Iconic New Order &#x27;World in Motion&#x27; WHITE T-Shirt *** World Cup***</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +487,15 @@ The cycle often works like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That The Circus Live 2026 T-Shirt Fun Music Tour Themed Top Tee"><img src="{{ '/assets/images/marketplace-covers/e95c4f005dfd15b177fc.jpg' | relative_url }}" alt="Listing image for Take That The Circus Live 2026 T-Shirt Fun Music Tour Themed Top Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rush Star Design Adults T-Shirt Fun Music Inspired Tee Top New"><img src="https://i.ebayimg.com/images/g/NfEAAeSwFWNpqVPS/s-l225.jpg" alt="Listing image for Rush Star Design Adults T-Shirt Fun Music Inspired Tee Top New" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Take That The Circus Live 2026 T-Shirt Fun Music Tour Themed Top Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Rush Star Design Adults T-Shirt Fun Music Inspired Tee Top New</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +503,15 @@ The cycle often works like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Kooks Adults T-Shirt Fun Music Inspired Tee Top New"><img src="{{ '/assets/images/marketplace-covers/2ade94facc723af06924.jpg' | relative_url }}" alt="Listing image for The Kooks Adults T-Shirt Fun Music Inspired Tee Top New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music T-Shirt : Every Little Thing 3 Birds Design, Gildan Softstyle"><img src="https://i.ebayimg.com/images/g/o5IAAeSwx5lpe28e/s-l225.jpg" alt="Listing image for Music T-Shirt : Every Little Thing 3 Birds Design, Gildan Softstyle" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Kooks Adults T-Shirt Fun Music Inspired Tee Top New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music T-Shirt : Every Little Thing 3 Birds Design, Gildan Softstyle</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +519,15 @@ The cycle often works like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Damned Punk Rock Music T Shirt Sweatshirt Hoodie 348"><img src="{{ '/assets/images/marketplace-covers/905263811f35eb9c05ea.jpg' | relative_url }}" alt="Listing image for The Damned Punk Rock Music T Shirt Sweatshirt Hoodie 348" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lewis Capaldi UK Tour 2026 Bootleg T-Shirt Pop Singer Music Concert Dates Tee"><img src="https://i.ebayimg.com/images/g/9mwAAeSwzZJqJ-fP/s-l225.jpg" alt="Listing image for Lewis Capaldi UK Tour 2026 Bootleg T-Shirt Pop Singer Music Concert Dates Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Damned Punk Rock Music T Shirt Sweatshirt Hoodie 348</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lewis Capaldi UK Tour 2026 Bootleg T-Shirt Pop Singer Music Concert Dates Tee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,7 +535,7 @@ The cycle often works like this:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="repetition-how-playlists-make-songs-feel-familiar-music-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-playlists-make-songs-feel-familiar-music-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music t shirt" data-ebay-reference="how-playlists-make-songs-feel-familiar-music-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -712,207 +746,160 @@ The cycle often works like this:
 </script>
 </section>
 
-5. More listeners become familiar with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2505.03568v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Familiarizing with Music: Discovery Patterns for Different...6 May 2025 — Research has shown that music listeners tend to like familiar...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
-6. Familiarity increases the likelihood of additional plays.
-
-</div>
-
-Research into music recommender systems increasingly treats familiarity as a measurable variable because repeated listening is such a common behaviour. Studies using large streaming datasets show that recency, frequency of exposure and existing familiarity are all strong predictors of future listening choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</span><span class="citation-popover-meta">Published: October 28, 2022</span></span></span>
-
-This helps explain why many streaming hits seem to emerge gradually rather than exploding through a single promotional event. Familiarity accumulates through repeated encounters spread across weeks or months.
-
-
-<img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-2-dark.svg" | relative_url }}" alt="Repetition illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How Streaming Repetition Differs from Radio Rotation
-
-Although both systems depend on repetition, the experience feels different.
-
-
-<img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-3-dark.svg" | relative_url }}" alt="Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Radio repeated songs publicly
-
-Radio repetition was visible. Everyone listening to the same station heard largely the same rotation. Hit songs became cultural reference points because millions of people encountered them together.
-
-Programmers also worked with relatively fixed schedules. If a song entered heavy rotation, listeners could often predict they would hear it again later in the day.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kVAztNx0rHQ" title="How the media shapes the way we view the world - BBC REEL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kVAztNx0rHQ" target="_blank" rel="noopener noreferrer">How the media shapes the way we view the world - BBC REEL</a></p><p class="youtube-embed-meta">Channel: BBC Global</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kVAztNx0rHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kVAztNx0rHQ">Open on YouTube</a></p></div></div></div>
-
-### Streaming repeats songs privately
-
-Streaming repetition is personalised. Two listeners may both hear a song repeatedly, but through entirely different pathways.
-
-One person might receive it in a gym playlist. Another might encounter it through indie recommendations. A third might hear it via autoplay after related artists. The repetition exists, but it is distributed across personalised systems rather than concentrated in a public broadcast schedule. Spotify's "[algotorial]({{ 'algotorial/' | relative_url }})" approach—combining human editorial choices with machine-driven personalisation—illustrates this hybrid model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Personalized Editorial Playlists has been e...</span></span></span>
-
-The consequence is that familiarity can develop without widespread awareness that repetition is occurring. Listeners may feel they "keep running into" a song without recognising that recommendation systems are creating those encounters.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lvMWG8w3PFw" title="How Mariah Carey Engineered the Perfect Earworm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lvMWG8w3PFw" target="_blank" rel="noopener noreferrer">How Mariah Carey Engineered the Perfect Earworm</a></p><p class="youtube-embed-meta">Channel: The Grand Reveal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lvMWG8w3PFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lvMWG8w3PFw">Open on YouTube</a></p></div></div></div>
-
-## Why Familiarity Matters More Than Discovery Alone
-
-Streaming platforms often present themselves as engines of discovery, yet research consistently shows that listeners gravitate towards familiar music. Recommendation systems therefore face a tension: people say they want new music, but their behaviour frequently rewards familiar material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">We show that although consumers say they would prefer to listen to unfamiliar music.Read more...</span></span></span>
-
-This is why recommendation systems rarely maximise novelty. Instead, they tend to introduce new tracks alongside songs, artists and sounds that already feel known. Spotify researchers have described recommendation design as an effort to balance discovery, similarity and familiarity because users generally respond poorly to either extreme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/publications/algorithmic-balancing-of-familiarity-similarity-discovery-in-music-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Balancing of Familiarity, Similarity, &amp; Discovery in...5 Nov 2021 — We propose a multi-level ordered-weighte...</span></span></span>
-
-In practical terms, playlists often function less as discovery engines than as familiarity-building machines. A track may begin as something unfamiliar, but repeated appearances across playlists, radio features and autoplay gradually move it into the listener's comfort zone. Once that transition happens, voluntary listening becomes more likely.
-
-That process mirrors what radio once achieved through heavy rotation. The mechanism has survived the technological shift. What changed is that repetition is now personalised, distributed and largely invisible. Instead of hearing the same song because a station plays it every afternoon, listeners hear it because dozens of streaming systems quietly place it in front of them until it feels like part of their musical world.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.16226](https://arxiv.org/abs/2210.16226)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.16226</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
    Published: October 28, 2022  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2505.03568v1](https://arxiv.org/html/2505.03568v1)  
+   Link: <a href="https://arxiv.org/html/2505.03568v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.03568v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Familiarizing with Music: Discovery Patterns for Different...6 May 2025 — Research has shown that music listeners tend to like familiar...</p></details>
    Published: May 2025  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice](https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice)  
+   Link: <a href="https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255949989_The_same_old_song_The_power_of_familiarity_in_music_choice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We show that although consumers say they would prefer to listen to unfamiliar music.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: artists.spotify.com  
    Title: for Artists Spotify Playlists  
-   Link: [https://artists.spotify.com/fan-study/spotify-playlists](https://artists.spotify.com/fan-study/spotify-playlists)  
+   Link: <a href="https://artists.spotify.com/fan-study/spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/fan-study/spotify-playlists</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsSpotify Playlists - Fan StudyIn fact, more than half of new artist discoveries on Spotify happen in programmed playlis...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/uk/article/autoplay/](https://support.spotify.com/uk/article/autoplay/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyAutoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</p></details>
+   Link: <a href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/uk/article/autoplay/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Spotify's autoplay plays the same songs in every time  
-   Link: [https://www.reddit.com/r/Music/comments/12j42b3/spotifys_autoplay_plays_the_same_songs_in_every/](https://www.reddit.com/r/Music/comments/12j42b3/spotifys_autoplay_plays_the_same_songs_in_every/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSpotify&#x27;s autoplay plays the same songs in every timeApril 12, 2023 — For the past 2-3 weeks, every time an album/playlist ends, Au...</p></details>
+   Link: <a href="https://www.reddit.com/r/Music/comments/12j42b3/spotifys_autoplay_plays_the_same_songs_in_every/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/12j42b3/spotifys_autoplay_plays_the_same_songs_in_every/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s autoplay plays the same songs in every timeApril 12, 2023 — For the past 2-3 weeks, every time an album/playlist ends, Au...</p></details>
    Published: April 12, 2023  
 
 7. <a id="endnote-7"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Autoplay-always-plays-the-same-songs-in-the-same-order-recently/td-p/5537846](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Autoplay-always-plays-the-same-songs-in-the-same-order-recently/td-p/5537846)  
+   Link: <a href="https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Autoplay-always-plays-the-same-songs-in-the-same-order-recently/td-p/5537846" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Autoplay-always-plays-the-same-songs-in-the-same-order-recently/td-p/5537846</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify CommunityAutoplay always plays the same songs in the same o...12 Apr 2023 — Whenever a song, playlist, or album ends, autoplay ge...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Predicting Music Relistening Behavior Using the ACT-R Framework  
-   Link: [https://arxiv.org/abs/2108.02138](https://arxiv.org/abs/2108.02138)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPredicting Music Relistening Behavior Using the ACT-R FrameworkAugust 4, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2108.02138" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.02138</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Music Relistening Behavior Using the ACT-R FrameworkAugust 4, 2021...</p></details>
    Published: August 4, 2021  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2210.16226](https://arxiv.org/pdf/2210.16226)  
+   Link: <a href="https://arxiv.org/pdf/2210.16226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2210.16226</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is notably more frequent when compared to the consumption of other.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newsroom.spotify.com  
    Title: prompted playlists algorithm gustav soderstrom  
-   Link: [https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/](https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/)  
+   Link: <a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the Algorithm10 Dec 2025 — For the first time, your ideas, your logic, and your crea...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/363645859_Discovery_Dynamics_Leveraging_Repeated_Exposure_for_User_and_Music_Characterization](https://www.researchgate.net/publication/363645859_Discovery_Dynamics_Leveraging_Repeated_Exposure_for_User_and_Music_Characterization)  
+   Link: <a href="https://www.researchgate.net/publication/363645859_Discovery_Dynamics_Leveraging_Repeated_Exposure_for_User_and_Music_Characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363645859_Discovery_Dynamics_Leveraging_Repeated_Exposure_for_User_and_Music_Characterization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To our knowledge, few studies have...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/publications/algorithmic-balancing-of-familiarity-similarity-discovery-in-music-recommendations](https://research.atspotify.com/publications/algorithmic-balancing-of-familiarity-similarity-discovery-in-music-recommendations)  
+   Link: <a href="https://research.atspotify.com/publications/algorithmic-balancing-of-familiarity-similarity-discovery-in-music-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-balancing-of-familiarity-similarity-discovery-in-music-recommendations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Balancing of Familiarity, Similarity, &amp; Discovery in...5 Nov 2021 — We propose a multi-level ordered-weighte...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: engineering.atspotify.com  
-   Title: humans machines a look behind spotifys [algotorial playlists](&#123;&#123; 'algotorial/' | relative_url &#125;&#125;)  
-   Link: [https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists](https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Personalized [Editorial Playlists](&amp;#123;&amp;#123; &#x27;editorial-adds/&#x27; | relative_url &amp;#125;&amp;#125;) has been e...</p></details>
+   Title: humans machines a look behind spotifys algotorial playlists  
+   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Personalized Editorial Playlists has been e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: chartlex.com  
-   Link: [https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOoqtmct4v00qUHGXoDqhNs07wnhpA0lziK4_6Ch3289upprzqlfj](https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOoqtmct4v00qUHGXoDqhNs07wnhpA0lziK4_6Ch3289upprzqlfj)  
+   Link: <a href="https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOoqtmct4v00qUHGXoDqhNs07wnhpA0lziK4_6Ch3289upprzqlfj" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/streaming/how-to-get-on-spotifys-algorithmic-playlists-in-2025-the-ultimate-growth-playbook?srsltid=AfmBOoqtmct4v00qUHGXoDqhNs07wnhpA0lziK4_6Ch3289upprzqlfj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Algorithmic Playlists 2026: The 20% Save Rate...4 Nov 2025 — Spotify&#x27;s recommendation algorithm in 2026 has shifted to prioritiz...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWg7V_5AhLU/](https://www.instagram.com/reel/DWg7V_5AhLU/)  
+   Link: <a href="https://www.instagram.com/reel/DWg7V_5AhLU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWg7V_5AhLU/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, the music compilers will look at audience fit, and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: andrmusic.co  
-   Link: [https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/](https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/)  
+   Link: <a href="https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Metrics That Trigger [Discover Weekly](&amp;#123;&amp;#123; &#x27;discover-weekly/&#x27; | relative_url &amp;#125;&amp;#125;) - AndRRepeat Listen Value: Develop songs that remain engaging across multiple exposures in r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: loopsolitaire.co.uk  
-   Link: [https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/](https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/)  
+   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: orphiq.com  
-   Title: spotify [editorial playlist](&#123;&#123; 'editorial-adds/' | relative_url &#125;&#125;)  
-   Link: [https://orphiq.com/resources/spotify-editorial-playlist](https://orphiq.com/resources/spotify-editorial-playlist)  
+   Title: spotify editorial playlist  
+   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial Playlists15 Mar 2026 — If your song performs well on an editorial playlist, Spotify&#x27;s algorithm may push...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ExposingTheTruth/posts/stop-letting-autoplay-dictate-your-daily-listening-real-music-discovery-feels-li/1367011875463039/](https://www.facebook.com/ExposingTheTruth/posts/stop-letting-autoplay-dictate-your-daily-listening-real-music-discovery-feels-li/1367011875463039/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop letting autoplay dictate your daily listening. Real...Recent research into daily hit song charts reveals a staggering gap: TikTok T...</p></details>
+   Link: <a href="https://www.facebook.com/ExposingTheTruth/posts/stop-letting-autoplay-dictate-your-daily-listening-real-music-discovery-feels-li/1367011875463039/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExposingTheTruth/posts/stop-letting-autoplay-dictate-your-daily-listening-real-music-discovery-feels-li/1367011875463039/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop letting autoplay dictate your daily listening. Real...Recent research into daily hit song [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) reveals a staggering gap: TikTok T...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/mere-effect-entire-music-market-explained-one-simple-concept-marsden-nmbee](https://www.linkedin.com/pulse/mere-effect-entire-music-market-explained-one-simple-concept-marsden-nmbee)  
+   Link: <a href="https://www.linkedin.com/pulse/mere-effect-entire-music-market-explained-one-simple-concept-marsden-nmbee" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mere-effect-entire-music-market-explained-one-simple-concept-marsden-nmbee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tations in the streaming era. Again according to Luminate...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DLuwpQqvmnA/](https://www.instagram.com/reel/DLuwpQqvmnA/)  
+   Link: <a href="https://www.instagram.com/reel/DLuwpQqvmnA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLuwpQqvmnA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>her algorithmic playlists. The second your song goes live at midnight...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bridgeratings.com  
    Title: the habitual nature of music streaming  
-   Link: [https://www.bridgeratings.com/blog/2025/2/16/the-habitual-nature-of-music-streaming](https://www.bridgeratings.com/blog/2025/2/16/the-habitual-nature-of-music-streaming)  
+   Link: <a href="https://www.bridgeratings.com/blog/2025/2/16/the-habitual-nature-of-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/2/16/the-habitual-nature-of-music-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Feb 2025 — Repetition &amp; Comfort: Listeners form habits around specific songs due to emotional connection, nostalgia, or familiarity, l...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW7DY_aDvTH/](https://www.instagram.com/reel/DW7DY_aDvTH/)  
+   Link: <a href="https://www.instagram.com/reel/DW7DY_aDvTH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW7DY_aDvTH/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>om a playlist. Next is trust and emotion. DJ acted as taste...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8](https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8)  
+   Link: <a href="https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lysis represents my personal observations and hypotheses as...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
    Title: The Guardian Pay to get playlisted?  
-   Link: [https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist](https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist)  
+   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The accusations against Spotify&#x27;s Discovery ModeSpotify introduced Discovery Mode in 2020, a program where artists accept lower royalty r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nickiedemakos.substack.com  
    Title: so im making my own spotify wrapped  
-   Link: [https://nickiedemakos.substack.com/p/so-im-making-my-own-spotify-wrapped](https://nickiedemakos.substack.com/p/so-im-making-my-own-spotify-wrapped)  
+   Link: <a href="https://nickiedemakos.substack.com/p/so-im-making-my-own-spotify-wrapped" target="_blank" rel="noopener noreferrer nofollow">https://nickiedemakos.substack.com/p/so-im-making-my-own-spotify-wrapped</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m making my own Spotify Wrapped this year but betterMost of these songs came from Spotify&#x27;s autoplay feature which continues to play mu...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: playlisthub.io  
    Title: Learn how these playlists work,  
-   Link: [https://playlisthub.io/academy/mastering-spotify-algorithmic-playlists-a-comprehensive-guide](https://playlisthub.io/academy/mastering-spotify-algorithmic-playlists-a-comprehensive-guide)  
+   Link: <a href="https://playlisthub.io/academy/mastering-spotify-algorithmic-playlists-a-comprehensive-guide" target="_blank" rel="noopener noreferrer nofollow">https://playlisthub.io/academy/mastering-spotify-algorithmic-playlists-a-comprehensive-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Spotify Algorithmic Playlists: A Comprehensive...16 Feb 2026 — Explore the world of Spotify&#x27;s algorithmic playlists in this pr...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/davevandyke_the-rise-of-habit-songs-and-how-radio-activity-7442873066289860608-cwRx](https://www.linkedin.com/posts/davevandyke_the-rise-of-habit-songs-and-how-radio-activity-7442873066289860608-cwRx)  
+   Link: <a href="https://www.linkedin.com/posts/davevandyke_the-rise-of-habit-songs-and-how-radio-activity-7442873066289860608-cwRx" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/davevandyke_the-rise-of-habit-songs-and-how-radio-activity-7442873066289860608-cwRx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio&#x27;s New Metric: Identifying Habit Songs with Streaming...26 Mar 2026 — Streaming data shows that the average song in active rotation...</p></details>

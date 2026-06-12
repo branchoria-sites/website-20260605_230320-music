@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c
 - music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a
 tags:
-- music
+- music-3-a01-be
 - recording
 - recorded-fame
 keywords:
-- music
+- music-3-a01-be
 - recording
 - recorded-fame
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Recorded music enabled performers to gain recognition far from live venues, creating repeatable and widely distributed fame.
 hero_summary: Recorded music enabled performers to gain recognition far from live venues, creating repeatable and widely distributed fame.
 layout: default
 permalink: /recorded-fame/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /recording/
 nav_short_title: Recorded Fame
 title: How Recordings Carried Performer Fame Across Distances
-title_full: How Recordings Carried Performer Fame Across Distances | Recording
+title_full: How Recordings Carried Performer Fame Across Distances
 display_title_short: Recorded Fame
 display_title: Recorded Fame
 heading_title: How Recordings Carried Performer Fame Across Distances
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Recording Changed What Music Is | Music
+parent_title: How Recording Changed What Music Is
 parent_permalink: /recording/
 parent_nav_short_title: Recording
 parent_heading_title: How Recording Changed What Music Is
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Portable Devices Made Music Personal Everywhere
 up_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -259,7 +259,7 @@ prev_link:
   permalink: /portable-players/
   short_title: Portable Players
   heading_title: How Portable Devices Made Music Personal Everywhere
-date: '2026-06-09 07:04:58 '
+date: '2026-06-11 23:33:45 '
 header:
   og_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-1.webp
@@ -268,41 +268,28 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer
 
 ## Introduction
 
-Recorded [music]({{ 'music/' | relative_url }}) reshaped not only how we listen but also how performers become known and remembered. Before audio [recording]({{ 'recording/' | relative_url }}), a musician’s reputation was largely local or contingent on touring: a singer or instrumentalist was famous only in the towns where they played, and fame faded with distance and time. With the rise of sound recordings in the late nineteenth and early twentieth centuries, music gained a new life as a reproducible object that could be distributed widely, creating a mechanism for performers to become known far beyond their live audiences. This shift fundamentally altered the geography and economy of musical fame, making it possible for artists to gain nationwide and eventually global recognition without constant touring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact | Britannica...</span></span></span>
-
+Recorded music reshaped not only how we listen but also how performers become known and remembered. Before audio [recording]({{ 'recording/' | relative_url }}), a musician’s reputation was largely local or contingent on touring: a singer or instrumentalist was famous only in the towns where they played, and fame faded with distance and time. With the rise of sound recordings in the late nineteenth and early twentieth centuries, music gained a new life as a reproducible object that could be distributed widely, creating a mechanism for performers to become known far beyond their live audiences. This shift fundamentally altered the geography and economy of musical fame, making it possible for artists to gain nationwide and eventually global recognition without constant touring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact &#124; Britannica...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-1-dark.svg" | relative_url }}" alt="Recorded Fame illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Pre‑Recording Reputation Travel
 
 Before commercial recording technologies matured, performers relied on live appearances, print media and word‑of‑mouth to build reputations. Travelling troupes, opera stars and virtuoso instrumentalists might become well known among literate or elite circles through reviews and personal networks, but their renown rarely extended much beyond the [regions]({{ 'regions/' | relative_url }}) they could physically visit. The absence of recorded sound meant that a listener could not repeatedly hear a specific voice or performance once the event had ended; familiarity depended on presence, [memory]({{ 'memory/' | relative_url }}) or the circulation of sheet music.
 
-The spread of the phonograph and gramophone changed this dynamic. Early mass‑market recording in the 1910s and 1920s turned recorded performances into objects that could be bought, replayed and compared irrespective of location. As phonograph sales surged between 1914 and 1919, records became a mass medium, allowing performers whose names and voices were on discs to reach millions who had never seen them live.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact | Britannica...</span></span></span>
+The spread of the phonograph and gramophone changed this dynamic. Early mass‑market recording in the 1910s and 1920s turned recorded performances into objects that could be bought, replayed and compared irrespective of location. As phonograph sales surged between 1914 and 1919, records became a mass medium, allowing performers whose names and voices were on discs to reach millions who had never seen them live.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact &#124; Britannica...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r86Sb4heCWM" title="How the Grateful Dead Changed Live Music Forever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r86Sb4heCWM" target="_blank" rel="noopener noreferrer">How the Grateful Dead Changed Live Music Forever</a></p><p class="youtube-embed-meta">Channel: Polyphonic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r86Sb4heCWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r86Sb4heCWM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-2-dark.svg" | relative_url }}" alt="Recorded Fame illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact of Mass Circulation on Performer Fame
 
-The mass circulation of recordings created a new infrastructure for fame. A successful record could sell tens of thousands of copies, introducing an artist to listeners thousands of miles from the recording studio. In the United States in the 1920s, so‑called “race records” documented African‑American blues and jazz performers such as Bessie Smith and Louis Armstrong, making their voices familiar to black audiences across the country in ways that live performance alone could not. Despite systemic inequities that often meant these artists saw little financial benefit, the recordings themselves helped establish reputations that survived beyond local scenes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">race records bessie smith big bill broonzy music business</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAHow &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018...</span><span class="citation-popover-meta">Published: August 7, 2018</span></span></span>
+The mass circulation of recordings created a new infrastructure for fame. A successful record could sell tens of thousands of copies, introducing an artist to listeners thousands of miles from the recording studio. In the United States in the 1920s, so‑called “race records” documented African‑American blues and jazz performers such as Bessie Smith and Louis Armstrong, making their voices familiar to black audiences across the country in ways that live performance alone could not. Despite systemic inequities that often meant these artists saw little financial benefit, the recordings themselves helped establish reputations that survived beyond local scenes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">race records bessie smith big bill broonzy music business</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAHow &#x27;Race Records&#x27; Turned Black Music Into Big Business &#124; HISTORYAugust 7, 2018...</span><span class="citation-popover-meta">Published: August 7, 2018</span></span></span>
 
 Recordings also standardised versions of songs and performances. As audiences came to know specific recorded takes, those versions became the benchmarks for listeners and other musicians alike. The record became the “original” against which live performances were judged, intensifying the association between a performer’s identity and their fixed recorded output.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sibetrans.com">[sibetrans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sibetrans.com</span><span class="citation-popover-title">TRAN S</span><span class="citation-popover-snippet">TRANS - Revista Transcultural de Música - Transcultural Music Review...</span></span></span> In the era of radio and jukeboxes, recorded music further amplified performers’ reach: plays on airwaves or in public venues made voices and styles recognisable to audiences who might never encounter a performer in person.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o5w9bHZ81vA" title="JEANNE ELFANT FESTA producer &quot;Pavarotti&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o5w9bHZ81vA" target="_blank" rel="noopener noreferrer">JEANNE ELFANT FESTA producer &quot;Pavarotti&quot;</a></p><p class="youtube-embed-meta">Channel: FabTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o5w9bHZ81vA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o5w9bHZ81vA">Open on YouTube</a></p></div></div></div>
-
-
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-3-dark.svg" | relative_url }}" alt="Recorded Fame illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-2-dark.svg" | relative_url }}" alt="Recorded Fame illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Emergence of Recorded Star Power
 
 The broader distribution enabled by recording technology laid the groundwork for the modern notion of the musical “star.” Artists could cultivate national followings without constant touring, and labels began to invest in marketing individual performers as brands. Successful recordings brought names and faces into homes via album covers and later promotional media, embedding musicians in popular [culture]({{ 'culture/' | relative_url }}). Over decades, as recording [formats]({{ 'formats/' | relative_url }}) evolved from 78s to LPs to digital formats and streaming, this mechanism has grown ever more powerful: performers now accumulate listeners and reputations at a scale unimaginable in the pre‑recording era.
 
-Moreover, recordings preserved performances indefinitely, allowing performers from earlier decades to be discovered long after their prime, a phenomenon impossible in the purely live context. The archive of recorded sound ensures that many 20th‑century musicians remain part of the cultural memory because their work continues to be replayed. This archival quality—distinct from live‑only fame—means that recorded music did not simply extend the range of fame but fundamentally anchored performers’ identities in recorded media in ways that still shape music culture today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact | Britannica...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lvaP4VmoU4k" title="Creating music on the go | James Bickerton | TED Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lvaP4VmoU4k" target="_blank" rel="noopener noreferrer">Creating music on the go | James Bickerton | TED Institute</a></p><p class="youtube-embed-meta">Channel: TED Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lvaP4VmoU4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lvaP4VmoU4k">Open on YouTube</a></p></div></div></div>
-
+Moreover, recordings preserved performances indefinitely, allowing performers from earlier decades to be discovered long after their prime, a phenomenon impossible in the purely live context. The archive of recorded sound ensures that many 20th‑century musicians remain part of the cultural memory because their work continues to be replayed. This archival quality—distinct from live‑only fame—means that recorded music did not simply extend the range of fame but fundamentally anchored performers’ identities in recorded media in ways that still shape music culture today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact &#124; Britannica...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -421,15 +408,15 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�"><img src="{{ '/assets/images/marketplace-covers/00f084cb9f70521dfe10.jpg' | relative_url }}" alt="Listing image for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aaliyah, Music Artist Poster 24x36 inch"><img src="https://i.ebayimg.com/images/g/Y00AAOSwUJhhKmtD/s-l225.jpg" alt="Listing image for Aaliyah, Music Artist Poster 24x36 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">Aaliyah, Music Artist Poster 24x36 inch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +424,15 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/e574b85e6ea7837f77e8.jpg' | relative_url }}" alt="Listing image for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/GOkAAeSwjNloxIF-/s-l225.jpg" alt="Listing image for KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +440,15 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE"><img src="{{ '/assets/images/marketplace-covers/9e6b0e9379405eb4797b.jpg' | relative_url }}" alt="Listing image for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/y3EAAOSwaxJoLa7K/s-l225.jpg" alt="Listing image for BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +456,15 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift"><img src="{{ '/assets/images/marketplace-covers/580ec3ae4384bc88b889.jpg' | relative_url }}" alt="Listing image for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/WD8AAeSwP-hoxIL9/s-l225.jpg" alt="Listing image for LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,7 +472,7 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="recorded-fame-how-recordings-carried-performer-fame-across-distances-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -701,32 +688,32 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Music recording  
-   Link: [https://www.britannica.com/topic/music-recording/The-influence-of-recording](https://www.britannica.com/topic/music-recording/The-influence-of-recording)  
+   Link: <a href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/The-influence-of-recording</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact | Britannica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Music recording  
-   Link: [https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium](https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium)  
+   Link: <a href="https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Technology, History, Impact | Britannica...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: race records bessie smith big bill broonzy music business  
-   Link: [https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business](https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business)  
+   Link: <a href="https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIAHow &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018...</p></details>
    Published: August 7, 2018  
 
 4. <a id="endnote-4"></a>
    Source: sibetrans.com  
    Title: TRAN S  
-   Link: [https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music](https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music)  
+   Link: <a href="https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow">https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS - Revista Transcultural de Música - Transcultural Music Review...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: history.com  
    Title: race records bessie smith big bill broonzy music business  
-   Link: [https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business](https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business)  
+   Link: <a href="https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018 — By: Erin Blakemore Black History HOW ‘RACE RECORDS’ TUR...</p></details>
    Published: August 7, 2018  
 
@@ -734,63 +721,63 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
 
 6. <a id="endnote-6"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/](https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/)  
+   Link: <a href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Phonograph Changed Music ForeverHOW THE PHONOGRAPH CHANGED MUSIC FOREVER MUCH LIKE STREAMING MUSIC SERVICES TODAY ARE RESHAPING O...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: charm.kcl.ac.uk  
-   Link: [https://charm.kcl.ac.uk/studies/chapters/chap2.html](https://charm.kcl.ac.uk/studies/chapters/chap2.html)  
+   Link: <a href="https://charm.kcl.ac.uk/studies/chapters/chap2.html" target="_blank" rel="noopener noreferrer nofollow">https://charm.kcl.ac.uk/studies/chapters/chap2.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing Sound of Music: Approaches to Studying Recorded Musical PerformancesThis in itself should have been enough, one might now think...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: gold.ac.uk  
    Title: Famous name makes same recording sound better | Goldsmiths, University of London  
-   Link: [https://www.gold.ac.uk/news/repeated-tunes/](https://www.gold.ac.uk/news/repeated-tunes/)  
+   Link: <a href="https://www.gold.ac.uk/news/repeated-tunes/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/repeated-tunes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2017 — FAMOUS NAME MAKES SAME RECORDING SOUND BETTER People rate identical recordings of the same piece of music differentl...</p></details>
    Published: September 26, 2017  
 
 9. <a id="endnote-9"></a>
    Source: independent.co.uk  
    Title: HAS IT CHANGED OUR MUSICAL UNIVERSE FOR BETTER OR WORSE? Bayan No  
-   Link: [https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html](https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html)  
+   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How music went on the record | The Independent | The IndependentNovember 3, 2000 — HOW MUSIC WENT ON THE RECORD AS A NEW HISTORY OF RECOR...</p></details>
    Published: November 3, 2000  
 
 10. <a id="endnote-10"></a>
    Source: charm.kcl.ac.uk  
-   Link: [https://charm.kcl.ac.uk/studies/chapters/chap3.html](https://charm.kcl.ac.uk/studies/chapters/chap3.html)  
+   Link: <a href="https://charm.kcl.ac.uk/studies/chapters/chap3.html" target="_blank" rel="noopener noreferrer nofollow">https://charm.kcl.ac.uk/studies/chapters/chap3.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recordings * Changing Sound of Music * 1. Introduction * 2. Performances * 3. Recordings * 4. Singing * 5. Violin playing * 6. Piano pla...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: historytoday.com  
    Title: On the Record: Music Before Mass Production | History Today  
-   Link: [https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production](https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production)  
+   Link: <a href="https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2018 — As more phonographs were sold through the 1890s, the demand for recordings increased, but, without a reliable duplicatio...</p></details>
    Published: March 20, 2018  
 
 12. <a id="endnote-12"></a>
    Source: recordinghistory.org  
    Title: At the time of its invention, listening to the re  
-   Link: [https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/](https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/)  
+   Link: <a href="https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/" target="_blank" rel="noopener noreferrer nofollow">https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cultural Impact of Recorded Music – History of Sound Recording TechnologyTHE CULTURAL IMPACT OF RECORDED MUSIC Sound recording has be...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: smithsonianmag.com  
    Title: How the Bristol Sessions Created Country Music  
-   Link: [https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/](https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2017 — HOW THE BRISTOL SESSIONS CREATED COUNTRY MUSIC NINETY YEARS AGO, A YODELLER NAMED JIMMIE RODGERS LAID DOWN TWO OF THE TR...</p></details>
    Published: August 4, 2017  
 
 14. <a id="endnote-14"></a>
    Source: cambridge.org  
    Title: Reminder: A recording is not a performance  
-   Link: [https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6](https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6)  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cambridge Companion to Recorded MusicSeptember 28, 2011 — REMINDER: A RECORDING IS NOT A PERFORMANCE Published online by Cambridge Un...</p></details>
    Published: September 28, 2011  
 
 15. <a id="endnote-15"></a>
    Source: cambridge.org  
    Title: The legacy of recordings (Chapter 14)  
-   Link: [https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C](https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C)  
+   Link: <a href="https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical PerformanceJune 5, 2012 — 14 - THE LEGACY OF RECORDINGS Published online by Cambridge University Press: 05 June 2012 By Peter Joh...</p></details>
-   Published: June 5, 2012  
+   Published: June 5, 2012

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007
 - music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d
 tags:
-- music
+- music-3-a01-be
 - concerts
 - crowd-sync
 keywords:
-- music
+- music-3-a01-be
 - concerts
 - crowd-sync
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Singing, moving and reacting together can make a concert feel like one collective event rather than many private experiences.
 hero_summary: Singing, moving and reacting together can make a concert feel like one collective event rather than many private experiences.
 layout: default
 permalink: /crowd-sync/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /concerts/
 nav_short_title: Crowd Sync
 title: When a crowd becomes part of the song
-title_full: When a crowd becomes part of the song | Concerts
+title_full: When a crowd becomes part of the song
 display_title_short: Crowd Sync
 display_title: Crowd Sync
 heading_title: When a crowd becomes part of the song
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Concerts Feel Bigger Than Songs | Music
+parent_title: Why Concerts Feel Bigger Than Songs
 parent_permalink: /concerts/
 parent_nav_short_title: Concerts
 parent_heading_title: Why Concerts Feel Bigger Than Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the setlist is not the concert
 up_link:
   basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
@@ -259,7 +259,7 @@ next_link:
   permalink: /fan-rituals/
   short_title: Fan Rituals
   heading_title: Why concert rituals stick in memory
-date: '2026-06-09 06:52:09 '
+date: '2026-06-11 23:27:27 '
 header:
   og_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1.webp
@@ -268,14 +268,10 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_me
 
 ## Introduction
 
-A concert becomes memorable not only because of what happens on stage, but because hundreds or thousands of people begin reacting together. When a crowd sings the same chorus, jumps on the same beat, falls silent at the same moment or erupts in cheers together, individual experiences start to merge into a shared event. Researchers describe this kind of alignment as synchrony: people coordinating [attention]({{ 'attention/' | relative_url }}), movement, emotion or even aspects of their physiology. Evidence from live [music]({{ 'music/' | relative_url }}) studies suggests that such synchrony helps transform a concert from a collection of private memories into a collective one that fans later recall, discuss and relive together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAudience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
-
+A concert becomes memorable not only because of what happens on stage, but because hundreds or thousands of people begin reacting together. When a crowd sings the same chorus, jumps on the same beat, falls silent at the same moment or erupts in cheers together, individual experiences start to merge into a shared event. Researchers describe this kind of alignment as synchrony: people coordinating [attention]({{ 'attention/' | relative_url }}), movement, emotion or even aspects of their physiology. Evidence from live music studies suggests that such synchrony helps transform a concert from a collection of private memories into a collective one that fans later recall, discuss and relive together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-dark.svg" | relative_url }}" alt="Crowd Sync illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The mechanism matters because concert [memory]({{ 'memory/' | relative_url }}) is often less about hearing a song and more about remembering what “we” did with it. Shared participation gives fans common reference points, common stories and a stronger sense that a particular performance belonged to everyone who was there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KVX8j5s53Os" title="From Perception to Pleasure: How Music Changes the Brain | Dr. Robert Zatorre | TEDxHECMontréal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KVX8j5s53Os" target="_blank" rel="noopener noreferrer">From Perception to Pleasure: How Music Changes the Brain | Dr. Robert Zatorre | TEDxHECMontréal</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KVX8j5s53Os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KVX8j5s53Os">Open on YouTube</a></p></div></div></div>
 
 ## Singing and movement as memory cues
 
@@ -283,25 +279,21 @@ The easiest form of concert synchrony to see is [physical]({{ 'physical/' | rela
 
 Memory works by attaching experiences to distinctive cues. In a concert setting, a crowd-wide singalong is far more memorable than thousands of isolated listeners quietly processing a song. Because so many people participate in the same action at the same moment, the event becomes socially reinforced. Fans leave with remarkably similar recollections: the chorus everyone shouted, the [surprise]({{ 'surprise/' | relative_url }}) encore everyone reacted to, or the moment the crowd drowned out the performer. Those moments become shared reference points in later conversations and fan communities.
 
-Research on live music events links large-scale shared movement and ritual participation to experiences of collective effervescence, a feeling of unity and emotional intensity generated through coordinated group action. Rather than remembering only the artist's performance, audiences often remember themselves as participants in the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+Research on live music events links large-scale shared movement and [ritual]({{ 'ritual/' | relative_url }}) participation to experiences of collective effervescence, a feeling of unity and emotional intensity generated through coordinated group action. Rather than remembering only the artist's performance, audiences often remember themselves as participants in the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 This helps explain why fans frequently describe concerts using collective language: “we sang every word”, “we lost our minds when the lights went out”, or “the whole arena jumped together”. The memory is encoded as a group experience rather than a purely personal one.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fWpbse2wt8M" title="333 Hz Neuroplasticity Music | Rewire Your Brain | Unlock the Full Potential of Your Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fWpbse2wt8M" target="_blank" rel="noopener noreferrer">333 Hz Neuroplasticity Music | Rewire Your Brain | Unlock the Full Potential of Your Mind</a></p><p class="youtube-embed-meta">Channel: Soothing Meditation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fWpbse2wt8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fWpbse2wt8M">Open on YouTube</a></p></div></div></div>
-
 ## Heartbeats, breath and shared attention
 
-Synchrony at concerts reaches beyond visible behaviour. Studies measuring audiences during live performances have found evidence that physiological responses can become aligned across listeners. Researchers have observed synchronisation in heart rate, skin conductance and movement patterns among audience members attending the same concert. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">NatureBeing in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEmotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</span></span></span>
+Synchrony at concerts reaches beyond visible behaviour. Studies measuring audiences during live performances have found evidence that physiological responses can become aligned across listeners. Researchers have observed synchronisation in heart rate, skin conductance and movement patterns among audience members attending the same concert. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</span></span></span>
 
 The significance is not that every person experiences exactly the same emotion. Instead, the audience's bodies begin responding to key musical moments in similar ways. Climactic passages, dramatic pauses and emotionally charged sections can produce coordinated reactions across large groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
 
 Studies of live music have also reported forms of interbrain synchrony, where neural activity patterns become more closely aligned among audience members sharing moments of pleasure. Researchers found that this synchrony was influenced both by the intensity of enjoyment and by how many people were sharing that enjoyment simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Equally important is shared attention. In everyday life, people constantly divide their focus among competing demands. At a concert, thousands of listeners may direct their attention towards the same sound, lyric, gesture or visual cue at exactly the same moment. This concentration creates a common timeline of experience. Everyone notices the same pause before a chorus, the same spotlight reveal or the same unexpected guest appearance. Those moments become unusually easy to remember because they were experienced collectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAudience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
+Equally important is shared attention. In everyday life, people constantly divide their focus among competing demands. At a concert, thousands of listeners may direct their attention towards the same sound, lyric, gesture or visual cue at exactly the same moment. This concentration creates a common timeline of experience. Everyone notices the same pause before a chorus, the same spotlight reveal or the same unexpected guest appearance. Those moments become unusually easy to remember because they were experienced collectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
 
-Not every physiological measure synchronises perfectly. Some studies have found weaker evidence for synchronised breathing than for heart rate or movement. That nuance is important: crowd synchrony is not a magical merging of minds but a measurable tendency for people sharing an event to become more aligned than they would be alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">NatureBeing in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span>
-
+Not every physiological measure synchronises perfectly. Some studies have found weaker evidence for synchronised breathing than for heart rate or movement. That nuance is important: crowd synchrony is not a magical merging of minds but a measurable tendency for people sharing an event to become more aligned than they would be alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-2-dark.svg" | relative_url }}" alt="Crowd Sync illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why collective reactions last
@@ -312,13 +304,11 @@ Research on live music and collective effervescence suggests that feelings of co
 
 This helps explain why particular crowd reactions often become the defining memory of a concert. A performer may play dozens of songs, yet fans repeatedly return to one collective moment: the crowd finishing a verse, the stadium illuminating with phone lights, or the eruption of cheers after a surprise appearance. The event becomes memorable because thousands of people validated it simultaneously.
 
-There is also a social identity effect. Shared emotional moments strengthen a sense of belonging to a group. Research on collective behaviour has long shown that intense group experiences can create feelings of unity and reinforce group identity. Concerts provide a relatively safe and joyful version of this process, allowing strangers to feel temporarily connected through a common emotional focus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
+There is also a social identity effect. Shared emotional moments strengthen a sense of belonging to a group. Research on collective behaviour has long shown that intense group experiences can create feelings of unity and reinforce group identity. Concerts provide a relatively safe and joyful version of this process, allowing strangers to feel temporarily connected through a common emotional focus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
 
 When fans later say, “you had to be there”, they are often referring to this synchrony. The memory is difficult to reproduce because the crucial ingredient was not just the song. It was the moment when thousands of people responded together and briefly became part of the performance itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h9j5okAqNI0" title="The Science of the Rave: How Techno Resets Your Brain 🧠 (PLUR Psychology)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h9j5okAqNI0" target="_blank" rel="noopener noreferrer">The Science of the Rave: How Techno Resets Your Brain 🧠 (PLUR Psychology)</a></p><p class="youtube-embed-meta">Channel: The Brain Tickle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h9j5okAqNI0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h9j5okAqNI0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-3-dark.svg" | relative_url }}" alt="Crowd Sync illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a crowd becomes part of the song
 
 The most memorable concert moments often blur the line between performer and audience. A crowd singing a chorus can become as important as the artist delivering it. A coordinated clap pattern can reshape the feel of a song. A collective [silence]({{ 'silence/' | relative_url }}) can create tension that no stage effect could achieve alone.
@@ -326,9 +316,6 @@ The most memorable concert moments often blur the line between performer and aud
 From a memory perspective, this is the point at which the audience stops functioning as spectators and becomes part of the event's creation. The concert is no longer something happening to individuals. It is something being produced by the crowd in real time.
 
 That transformation is why crowd synchrony plays such a powerful role in fan memory. Shared singing, shared movement, shared attention and shared emotional reactions create common landmarks that thousands of people carry away together. The artist may provide the music, but the crowd helps turn it into a lasting collective memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-3-dark.svg" | relative_url }}" alt="Crowd Sync illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -726,145 +713,145 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-41960-2](https://www.nature.com/articles/s41598-023-41960-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAudience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41960-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEmotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPhysiological audience synchrony in classical concerts linked...by W Tschacher · 2024 · Cited by 22 — We found that physiology throug...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts linked...by W Tschacher · 2024 · Cited by 22 — We found that physiology throug...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure](https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure)  
+   Link: <a href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFrom Lab to Concert Hall: Effects of Live Performance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Asthagiri · 2025 — Audience Interbrain Synchrony During Live Music Is Shaped by Both the Number of People Sharing Pleasure and th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Asthagiri · 2025 — Audience Interbrain Synchrony During Live Music Is Shaped by Both the Number of People Sharing Pleasure and th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAudio‐visual concert performances synchronize audience&#x27;s...by AM Czepiel · 2025 · Cited by 7 — Live music concerts provide an exc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes](https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
    Title: Do these effects extend to remote participation?Read more  
-   Link: [https://www.nature.com/articles/s41598-021-04548-2](https://www.nature.com/articles/s41598-021-04548-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureBeing in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-04548-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-38194-3](https://www.nature.com/articles/s41598-026-38194-3)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-38194-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes](https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes)  
+   Link: <a href="https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts...Jul 1, 2024 — We found that physiology throughout audiences was significantly s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496](https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496)  
+   Link: <a href="https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The growing field...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts](https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts)  
+   Link: <a href="https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological Synchrony in Audiences of Live ConcertsWe recorded the physiological signals (heart rate, respiration rate, skin conductanc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/01461672241288027](https://journals.sagepub.com/doi/10.1177/01461672241288027)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/10298649251349703](https://journals.sagepub.com/doi/10.1177/10298649251349703)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/10298649251349703" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10298649251349703</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA systematic review of social outcomes for audience...by NS Rickard · 2025 · Cited by 7 — Sharing emotions, movement, and r...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Music](https://en.wikipedia.org/wiki/Music)  
+   Link: <a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), melody, rhythm, or otherwise expressive content. M...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wastedenergy.co  
    Title: collective effervescence  
-   Link: [https://wastedenergy.co/2025/06/04/collective-effervescence/](https://wastedenergy.co/2025/06/04/collective-effervescence/)  
+   Link: <a href="https://wastedenergy.co/2025/06/04/collective-effervescence/" target="_blank" rel="noopener noreferrer nofollow">https://wastedenergy.co/2025/06/04/collective-effervescence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music as Medicine for Disconnection4 Jun 2025 — A large-scale analysis of 18,000 concertgoers featured in The Conversation, found that at...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: ucl.ac.uk  
-   Link: [https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre](https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre)  
+   Link: <a href="https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience members&#x27; hearts beat together at the theatreWatching a live theatre performance can synchronize your heartbeat with other people...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: psypost.org  
-   Link: [https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/](https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/)  
+   Link: <a href="https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists observe a remarkable synchronization effect...Aug 24, 2024 — Classical music concerts synchronize the heart rates, skin condu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theviolinchannel.com  
    Title: new study reveals audience heartbeats synchronize during classical music concert  
-   Link: [https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/](https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/)  
+   Link: <a href="https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/" target="_blank" rel="noopener noreferrer nofollow">https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Reveals Audience Heartbeats Synchronize...30 Aug 2024 — Overall, the study found that audiences&#x27; heart rates and other physica...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/IRUeRedY6PE](https://www.youtube.com/shorts/IRUeRedY6PE)  
+   Link: <a href="https://www.youtube.com/shorts/IRUeRedY6PE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/IRUeRedY6PE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Heart Rates Sync Up at ConcertsDo you know that when you and your date watch a live show or concert, your heart rates can sync up? Gr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchportal.bath.ac.uk  
    Title: from story to heartbeats physiological synchrony in theatre audie  
-   Link: [https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie](https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie)  
+   Link: <a href="https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchrony in Theatre Audiences30 Dec 2024 — We collected heart-rate, movement and questionnaire data from 121 theatregoers across a run o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: garthnewel.org  
    Title: connection and delight how live music enhances well being  
-   Link: [https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/](https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/)  
+   Link: <a href="https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Connection and Delight — How Live Music Enhances Well...15 Feb 2026 — Live music triggers the release of oxytocin, often called the “bon...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: classicfm.com  
    Title: audience heartbeats breath synchronise classical concert  
-   Link: [https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/](https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/)  
+   Link: <a href="https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New study finds audience heartbeats and breath rates...28 Aug 2024 — A new study has found that audience members can start breathing at...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pure.york.ac.uk  
    Title: physiological synchrony in audiences of live concerts  
-   Link: [https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/](https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/)  
+   Link: <a href="https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>synchrony in audiences of live concertsby W Tschacher · 2023 · Cited by 63 — Based on the notion that aesthetic experiences are embodied...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: symphony.org  
    Title: Study: Audiences Get in Sync at Orchestra Concerts  
-   Link: [https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/](https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Symphony26 Aug 2024 — A new study has shown that the shared experience of live music creates a remarkable physiological bond among audien...</p></details>
+   Link: <a href="https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/" target="_blank" rel="noopener noreferrer nofollow">https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Aug 2024 — A new study has shown that the shared experience of live music creates a remarkable physiological bond among audien...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4](https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4)  
+   Link: <a href="https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orted increased happiness and meaning for up to a week. The...Read more...</p></details>

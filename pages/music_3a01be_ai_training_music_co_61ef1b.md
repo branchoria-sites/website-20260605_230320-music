@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - ai-training
 keywords:
-- music
+- music-3-a01-be
 - ai-training
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: AI music systems raise disputes over whether copyrighted recordings and compositions can be used for training without consent.
 hero_summary: AI music systems raise disputes over whether copyrighted recordings and compositions can be used for training without consent.
 layout: default
 permalink: /ai-training/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: AI Training
 title: Can AI Learn From Copyrighted Music?
-title_full: Can AI Learn From Copyrighted Music? | Music
+title_full: Can AI Learn From Copyrighted Music?
 display_title_short: AI Training
 display_title: AI Training
 heading_title: Can AI Learn From Copyrighted Music?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 next_link:
   basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
-date: '2026-06-09 06:16:15 '
+date: '2026-06-11 23:08:49 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b-overview-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b-overview.webp
@@ -501,18 +501,16 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b-overview-social.j
 
 ## Introduction
 
-AI [music]({{ 'music/' | relative_url }}) systems challenge copyright because they need large quantities of existing music to learn how songs, recordings, voices, genres and production styles work. The dispute is not simply about whether a machine can make a song. It is about whether companies may copy copyrighted recordings and compositions into training datasets without permission, whether that copying is excused by law, and whether musicians should be paid when their work becomes part of the raw material for a competing system. The argument has moved quickly from theory to litigation: major record companies sued [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) in 2024 over alleged mass copying of sound recordings, while later settlements began pushing parts of the market towards licensed AI music models. RIAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+AI music systems challenge copyright because they need large quantities of existing music to learn how songs, recordings, voices, genres and production styles work. The dispute is not simply about whether a machine can make a song. It is about whether companies may copy copyrighted recordings and compositions into training datasets without permission, whether that copying is excused by law, and whether musicians should be paid when their work becomes part of the raw material for a competing system. The argument has moved quickly from theory to litigation: major record companies sued [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) in 2024 over alleged mass copying of sound recordings, while later settlements began pushing parts of the market towards licensed AI music models. RIAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-overview.webp" | relative_url }}" alt="Overview image for AI Training" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Training Is Different From Ordinary Listening
 
-A human listener can learn from music without making a commercial copy of a [catalogue]({{ 'catalogue/' | relative_url }}). AI training is different because it typically involves collecting files, converting them into machine-readable form, extracting patterns and repeatedly processing them to adjust a model. In copyright terms, that process may involve reproductions of recordings, compositions or lyrics even before any AI-generated output reaches the public. The US Copyright Office’s 2025 report framed training as a chain of acts that can affect copyright markets through lost sales, market dilution and lost [licensing]({{ 'licensing/' | relative_url }}) opportunities, rather than as a single abstract act of “learning”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A human listener can learn from music without making a commercial copy of a [catalogue]({{ 'catalogue/' | relative_url }}). AI training is different because it typically involves collecting files, converting them into machine-readable form, extracting patterns and repeatedly processing them to adjust a model. In copyright terms, that process may involve reproductions of recordings, compositions or lyrics even before any AI-generated output reaches the public. The US Copyright Offices 2025 report framed training as a chain of acts that can affect copyright markets through lost sales, market dilution and lost [licensing]({{ 'licensing/' | relative_url }}) opportunities, rather than as a single abstract act of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Music makes this especially sensitive because a commercially released track usually contains more than one right. A sound [recording]({{ 'recording/' | relative_url }}) may be owned or controlled by a label; the underlying composition may involve songwriters and publishers; lyrics may have separate licensing issues; performances may raise performer and voice-related concerns. A model trained on a recording may therefore touch multiple layers of rights at once, even if the final generated track does not reproduce a whole chorus or sample in the traditional sense.
+Music makes this especially sensitive because a commercially released track usually contains more than one right. A sound [recording]({{ 'recording/' | relative_url }}) may be owned or controlled by a label; the underlying composition may involve songwriters and publishers; [lyrics]({{ 'lyrics/' | relative_url }}) may have separate licensing issues; performances may raise performer and voice-related concerns. A model trained on a recording may therefore touch multiple layers of rights at once, even if the final generated track does not reproduce a whole chorus or sample in the traditional sense.
 
 The legal question is not settled everywhere. AI developers often argue that training is transformative because the system is not built to distribute copies of the original works but to generate new material. Music rightsholders answer that training requires unlicensed copying, that the resulting systems can compete directly with human-made songs, and that copyright already provides licensing markets for uses of recordings and musical works. The US Copyright Office noted that licensing markets for AI training were already being discussed or developed in sectors including music, and that such markets need not be old or universal to matter in a copyright analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-1-dark.svg" | relative_url }}" alt="AI Training illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Training Data and Permission
@@ -521,18 +519,17 @@ The central permission problem is practical as well as legal. A modern music mod
 
 The Suno and Udio cases made this issue concrete. The Recording Industry Association of America announced lawsuits in June 2024 on behalf of major labels, alleging that the companies copied copyrighted sound recordings without permission to train music-generation services. Reuters reported that the labels sought statutory damages of up to US$150,000 per copied song and alleged copying of hundreds or thousands of works across the two cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
 
-The defendants’ broad answer was that training on copyrighted works can be lawful fair use under US law. That matters because fair use is not a blanket permission rule; it is a context-specific defence that weighs factors such as purpose, amount used and market effect. In music, the market-effect question is unusually sharp because AI songs can occupy the same attention economy as the recordings that may have helped train the model. The US Copyright Office stressed that courts consider not only harm from one defendant’s act but also the effect of unrestricted and widespread conduct of the same kind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The defendants broad answer was that training on copyrighted works can be lawful fair use under US law. That matters because fair use is not a blanket permission rule; it is a context-specific defence that weighs factors such as purpose, amount used and market effect. In music, the market-effect question is unusually sharp because AI songs can occupy the same attention economy as the recordings that may have helped train the model. The US Copyright Office stressed that courts consider not only harm from one defendants act but also the effect of unrestricted and widespread conduct of the same kind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Permission also becomes harder when AI firms treat training datasets as trade secrets. Developers may argue that dataset disclosure would reveal competitive information, while rightsholders argue that they cannot enforce [rights]({{ 'rights/' | relative_url }}), negotiate licences or verify opt-outs without knowing what was used. This is why transparency has become a governance issue rather than a mere paperwork issue: without some form of dataset disclosure, audit trail or rights-reservation mechanism, consent can be almost impossible to check after the fact.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lCIFGCJDj90" title="How To Copyright AI (Step By Step Guide) | Lawyer Explains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lCIFGCJDj90" target="_blank" rel="noopener noreferrer">How To Copyright AI (Step By Step Guide) | Lawyer Explains</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 96.0K &middot; Uploaded: February 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lCIFGCJDj90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lCIFGCJDj90">Open on YouTube</a></p></div></div></div>
 
 ## Copyright, Consent and Compensation
 
-The policy fight is often described as “licensing versus innovation”, but the real choice is more precise: who bears the transaction cost of permission? An opt-in system requires AI developers to secure licences before using copyrighted music. An opt-out system allows some uses unless rightsholders reserve their rights in a recognised way. A broad exception allows training with little or no case-by-case permission. Each approach favours different actors.
+The policy fight is often described as licensing versus innovation, but the real choice is more precise: who bears the transaction cost of permission? An opt-in system requires AI developers to secure licences before using copyrighted music. An opt-out system allows some uses unless rightsholders reserve their rights in a recognised way. A broad exception allows training with little or no case-by-case permission. Each approach favours different actors.
 
-The UK’s 2026 report on copyright and AI shows how divided the field is. In the UK consultation, a broad data-mining exception with rights reservation was supported by only 3% of respondents, while the report recorded strong opposition from creative industries, individual creators and performers. A separate option to strengthen copyright so that licensing is required for AI development was supported by 81% of respondents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
+The UKs 2026 report on copyright and AI shows how divided the field is. In the UK consultation, a broad data-mining exception with rights reservation was supported by only 3% of respondents, while the report recorded strong opposition from creative industries, individual creators and performers. A separate option to strengthen copyright so that licensing is required for AI development was supported by 81% of respondents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
 The opt-out model sounds tidy until it meets the realities of music. A global hit may be controlled by sophisticated companies that can deploy technical rights reservations, but a session musician, independent songwriter, small label or self-releasing artist may not know where their work has travelled or how to mark it machine-readably. The UK report recorded concerns that opt-outs could impose a heavy administrative burden on rightsholders, especially individuals and small businesses, while AI developers themselves disagreed over what form of rights reservation should count. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
@@ -540,29 +537,26 @@ Licensing is not a magic fix either. Direct deals can bring money and control, b
 
 Recent music deals show the market moving towards controlled licensing, but not uniformly. Universal Music Group reached an agreement with Udio that includes compensation for participating UMG artists and songwriters for training and outputs, with a new platform planned under licensed terms. Warner Music Group later settled with Suno, with Reuters reporting that Suno would replace current models with licensed AI models in 2026 and introduce download restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-2-dark.svg" | relative_url }}" alt="AI Training illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Outputs Do Not Solve the Training Problem
 
 A common misunderstanding is that copyright is only implicated if an AI-generated song sounds too much like a protected work. Output similarity matters, but it is not the whole dispute. Rightsholders argue that the unauthorised copying happens at the training stage, even if many outputs are new. Developers answer that training is analogous to analysis and that liability should depend on whether the system produces infringing material. This difference explains why the same case can involve both technical questions about training data and familiar questions about substantial similarity.
 
-Music also has a distinctive “style” problem. Copyright generally does not protect style in the abstract: no one owns “1980s synth-pop”, “trap hi-hats” or “Beatles-like harmony” as a general idea. Yet a model that can produce tracks strongly associated with a living artist’s sound may still affect that artist’s market, reputation and negotiating power. The US Copyright Office noted that even where outputs are not substantially similar to a specific work, stylistic imitation made possible by training can affect a creator’s market, while also recognising that copyright protection for style itself is legally limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Music also has a distinctive style problem. Copyright generally does not protect style in the abstract: no one owns 1980s synth-pop, trap hi-hats or Beatles-like harmony as a general idea. Yet a model that can produce tracks strongly associated with a living artists sound may still affect that artists market, reputation and negotiating power. The US Copyright Office noted that even where outputs are not substantially similar to a specific work, stylistic imitation made possible by training can affect a creators market, while also recognising that copyright protection for style itself is legally limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is why the music industry often links [training disputes]({{ 'training-disputes/' | relative_url }}) to voice, likeness and artist identity. A synthetic song may not copy a full recording, but it can imitate a singer’s timbre, a producer’s sonic signature or a genre niche built by real performers. That may fall partly outside traditional copyright and into publicity rights, passing off, unfair competition, contract or platform policy, depending on jurisdiction. Still, the training question remains the foundation: whether the model should have been allowed to absorb the relevant recordings and compositions in the first place.
-
+This is why the music industry often links [training disputes]({{ 'training-disputes/' | relative_url }}) to voice, likeness and artist identity. A synthetic song may not copy a full recording, but it can imitate a singers timbre, a producers sonic signature or a genre niche built by real performers. That may fall partly outside traditional copyright and into publicity rights, passing off, unfair competition, contract or platform policy, depending on jurisdiction. Still, the training question remains the foundation: whether the model should have been allowed to absorb the relevant recordings and compositions in the first place.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9MB0dm0vv2U" title="The END of AI Music? Udio Falls and Suno AI Might Be Next!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9MB0dm0vv2U" target="_blank" rel="noopener noreferrer">The END of AI Music? Udio Falls and Suno AI Might Be Next!</a></p><p class="youtube-embed-meta">Channel: AI Automation Labs &middot; Views: 98.7K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9MB0dm0vv2U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9MB0dm0vv2U">Open on YouTube</a></p></div></div></div>
 
 ## How Regulation Is Trying to Catch Up
 
-Governments are experimenting with transparency, rights reservation and licensing support rather than converging on one global rule. The EU AI Act requires general-purpose AI providers to address transparency and copyright compliance obligations, and the European Commission’s General-Purpose AI Code of Practice includes separate transparency and copyright chapters to help providers comply with Article 53 obligations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Governments are experimenting with transparency, rights reservation and licensing support rather than converging on one global rule. The EU AI Act requires general-purpose AI providers to address transparency and copyright compliance obligations, and the European Commissions General-Purpose AI Code of Practice includes separate transparency and copyright chapters to help providers comply with Article 53 obligations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For music, EU-style transparency matters because it can make hidden training practices more visible. If a model provider must document training processes or summarise training content, rightsholders gain at least some basis for asking whether their catalogues were used. However, high-level summaries may still be too vague for a songwriter or small label trying to prove that a particular work was copied. That tension is why creator organisations continue to argue that transparency must be detailed enough to support enforcement, not merely broad enough to satisfy regulators.
 
 The UK has taken a more cautious path after strong opposition to an opt-out exception. Its 2026 report proposed monitoring market-led licensing and developing best practice on input transparency and technical standards, rather than immediately imposing a new licensing mechanism. That approach avoids rushing a flawed framework, but it also leaves uncertainty for musicians and developers while courts, licences and platform policies evolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
 The United States remains especially important because many leading AI companies and major music rights disputes are centred there. The Copyright Office did not recommend an immediate compulsory licensing scheme for generative AI training, but its analysis rejected the idea that all training is automatically fair use or automatically infringing. For music, that means case-specific litigation and negotiated licensing will continue to shape the practical rules before a single legislative answer emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcdermottlaw.com">[McDermott]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcdermottlaw.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-3-dark.svg" | relative_url }}" alt="AI Training illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Dispute Affects Human Creators
@@ -575,14 +569,13 @@ Compensation is also about distribution, not just whether money changes hands. A
 
 The deepest concern is cultural as well as economic. Music scenes depend on people taking risks, developing voices, building audiences and making a living long enough to keep creating. If AI systems can absorb that labour without permission, the incentive to invest in new human artists may weaken. If permission and payment systems are too rigid or expensive, smaller AI developers and independent musicians may be locked out while only large technology firms and major catalogues can participate. A sustainable settlement has to solve both sides of that problem.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0STgKoUPlY" title="Fair Use or Infringement: Examining the Copyright Office’s Report on Generative AI Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0STgKoUPlY" target="_blank" rel="noopener noreferrer">Fair Use or Infringement: Examining the Copyright Office’s Report on Generative AI Training</a></p><p class="youtube-embed-meta">Channel: Hudson Institute &middot; Views: 892 &middot; Uploaded: June 2025 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0STgKoUPlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0STgKoUPlY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0STgKoUPlY" title="Fair Use or Infringement: Examining the Copyright Offices Report on Generative AI Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0STgKoUPlY" target="_blank" rel="noopener noreferrer">Fair Use or Infringement: Examining the Copyright Offices Report on Generative AI Training</a></p><p class="youtube-embed-meta">Channel: Hudson Institute &middot; Views: 892 &middot; Uploaded: June 2025 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0STgKoUPlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0STgKoUPlY">Open on YouTube</a></p></div></div></div>
 
 ## The Governance Choice Ahead
 
 The future of AI music copyright is unlikely to be decided by one court case or one law. It will be shaped by a mix of litigation, licensing deals, technical standards, [platform rules]({{ 'platform-rules/' | relative_url }}), dataset transparency and public expectations about consent. The emerging direction is already visible: the most durable AI music services will probably need clearer rights pathways, auditable training practices, output controls and payment models that recognise both catalogue owners and human creators.
 
-The hard question is not whether AI can learn from music. It can. The hard question is whether that learning should happen by unlicensed copying, by negotiated permission, by statutory exception, or by a hybrid system that distinguishes research, commercial deployment, public-domain works, licensed catalogues and creator opt-outs. Music copyright is being forced to define what “learning” means when the learner is not a person, the training material is a valuable cultural catalogue, and the outputs can enter the same market as the humans whose work made the system possible.
+The hard question is not whether AI can learn from music. It can. The hard question is whether that learning should happen by unlicensed copying, by negotiated permission, by statutory exception, or by a hybrid system that distinguishes research, commercial deployment, public-domain works, licensed catalogues and creator opt-outs. Music copyright is being forced to define what learning means when the learner is not a person, the training material is a valuable cultural catalogue, and the outputs can enter the same market as the humans whose work made the system possible.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -701,11 +694,11 @@ The hard question is not whether AI can learn from music. It can. The hard quest
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE 1961 Music Hall Theatre Restaurant â€œEast Lynneâ€� Production Large Poster"><img src="{{ '/assets/images/marketplace-covers/0ec66dc070ac96c9a946.jpg' | relative_url }}" alt="Listing image for RARE 1961 Music Hall Theatre Restaurant â€œEast Lynneâ€� Production Large Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster"><img src="{{ '/assets/images/marketplace-covers/0ec66dc070ac96c9a946.jpg' | relative_url }}" alt="Listing image for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RARE 1961 Music Hall Theatre Restaurant â€œEast Lynneâ€� Production Large Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
@@ -980,114 +973,114 @@ The hard question is not whether AI can learn from music. It can. The hard quest
 
 1. <a id="endnote-1"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/](https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/)  
+   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
 
 2. <a id="endnote-2"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit](https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit)  
+   Link: <a href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit</a>  
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/](https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
 
 4. <a id="endnote-4"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/](https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/)  
+   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Report on Copyright and Artificial Intelligence  
-   Link: [https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence](https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence)  
+   Link: <a href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence</a>  
 
 7. <a id="endnote-7"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/](https://www.copyright.gov/ai/)  
+   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
 
 8. <a id="endnote-8"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: engage.pc.gov.au  
-   Link: [https://engage.pc.gov.au/document/2640](https://engage.pc.gov.au/document/2640)  
+   Link: <a href="https://engage.pc.gov.au/document/2640" target="_blank" rel="noopener noreferrer nofollow">https://engage.pc.gov.au/document/2640</a>  
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
    Title: Udio Complaint 6.24.241  
-   Link: [https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf](https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai</a>  
 
 12. <a id="endnote-12"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: ai code practice  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice](https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice</a>  
 
 13. <a id="endnote-13"></a>
    Source: mcdermottlaw.com  
-   Link: [https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/](https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/)  
+   Link: <a href="https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/</a>  
 
 14. <a id="endnote-14"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu A I Act | Shaping Europe's digital future  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
 
 15. <a id="endnote-15"></a>
    Source: mishcon.com  
    Title: us copyright office report part 3 generative ai training  
-   Link: [https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training](https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training)  
+   Link: <a href="https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training</a>  
 
 16. <a id="endnote-16"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/](https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/)  
+   Link: <a href="https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: How To Copyright AI  
-   Link: [https://www.youtube.com/watch?v=lCIFGCJDj90](https://www.youtube.com/watch?v=lCIFGCJDj90)  
+   Link: <a href="https://www.youtube.com/watch?v=lCIFGCJDj90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lCIFGCJDj90</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music training copyright issues explained How To Copyright AI (Step By Step Guide) | Lawyer Explains Top Music Attorney...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0](https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0)  
+   Link: <a href="https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0</a>  
 
 19. <a id="endnote-19"></a>
    Source: taylorwessing.com  
-   Link: [https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker](https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker)  
+   Link: <a href="https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker</a>  
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e](https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/](https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/)  
+   Link: <a href="https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/</a>  
 
 22. <a id="endnote-22"></a>
    Source: humanartistrycampaign.com  
-   Link: [https://www.humanartistrycampaign.com/](https://www.humanartistrycampaign.com/)  
+   Link: <a href="https://www.humanartistrycampaign.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanartistrycampaign.com/</a>  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/](https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/)  
+   Link: <a href="https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/](https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/)  
+   Link: <a href="https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/</a>  
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV1bH9SEfes/](https://www.instagram.com/reel/DV1bH9SEfes/)  
+   Link: <a href="https://www.instagram.com/reel/DV1bH9SEfes/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1bH9SEfes/</a>  
 
 26. <a id="endnote-26"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/](https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>

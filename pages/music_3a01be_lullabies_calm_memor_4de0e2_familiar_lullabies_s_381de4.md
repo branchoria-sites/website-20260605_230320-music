@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca
 - music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f
 tags:
-- music
+- music-3-a01-be
 - lullabies
 - familiar-songs
 keywords:
-- music
+- music-3-a01-be
 - lullabies
 - familiar-songs
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A familiar lullaby can carry memories of safety, making repeated caregiver songs more powerful than sound alone.
 hero_summary: A familiar lullaby can carry memories of safety, making repeated caregiver songs more powerful than sound alone.
 layout: default
 permalink: /familiar-songs/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /lullabies/
 nav_short_title: Familiar Songs
 title: Why Familiar Lullabies Feel Safer
-title_full: Why Familiar Lullabies Feel Safer | Lullabies
+title_full: Why Familiar Lullabies Feel Safer
 display_title_short: Familiar Songs
 display_title: Familiar Songs
 heading_title: Why Familiar Lullabies Feel Safer
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Lullabies Work Across Cultures | Music
+parent_title: Why Lullabies Work Across Cultures
 parent_permalink: /lullabies/
 parent_nav_short_title: Lullabies
 parent_heading_title: Why Lullabies Work Across Cultures
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Slow Lullabies Feel Calming
 up_link:
   basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -265,7 +265,7 @@ next_link:
   permalink: /foreign-songs/
   short_title: Foreign Songs
   heading_title: Can Unknown Lullabies Still Calm Babies?
-date: '2026-06-09 07:29:35 '
+date: '2026-06-11 23:45:59 '
 header:
   og_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1.webp
@@ -274,14 +274,10 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabie
 
 ## Introduction
 
-A lullaby can calm a child because of its musical structure, but familiar [lullabies]({{ 'lullabies/' | relative_url }}) often gain an additional power: they become linked to memories of safety, comfort, and reliable care. Over time, a repeatedly sung bedtime song stops being just a [melody]({{ 'melody/' | relative_url }}). It becomes part of a child's emotional environment, signalling that a trusted caregiver is present and that sleep is approaching. Research suggests that while infants can relax to unfamiliar lullabies from other cultures, familiarity adds another layer of reassurance by connecting the music to previous experiences of comfort, touch, and responsive caregiving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCby CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
-
+A lullaby can calm a child because of its musical structure, but familiar [lullabies]({{ 'lullabies/' | relative_url }}) often gain an additional power: they become linked to memories of safety, comfort, and reliable care. Over time, a repeatedly sung bedtime song stops being just a [melody]({{ 'melody/' | relative_url }}). It becomes part of a child's emotional environment, signalling that a trusted caregiver is present and that sleep is approaching. Research suggests that while infants can relax to unfamiliar lullabies from other cultures, familiarity adds another layer of reassurance by connecting the music to previous experiences of comfort, touch, and responsive caregiving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-dark.svg" | relative_url }}" alt="Familiar Songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why many families return to the same songs night after night. The calming effect comes not only from the [music]({{ 'music/' | relative_url }}) itself but also from the emotional associations built through repetition.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tIQzleOmwEc" title="Dr. Patricia Kuhl: Music and the Baby Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tIQzleOmwEc" target="_blank" rel="noopener noreferrer">Dr. Patricia Kuhl: Music and the Baby Brain</a></p><p class="youtube-embed-meta">Channel: Simms/Mann Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tIQzleOmwEc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tIQzleOmwEc">Open on YouTube</a></p></div></div></div>
+This helps explain why many families return to the same songs night after night. The calming effect comes not only from the music itself but also from the emotional associations built through repetition.
 
 ## How Repetition Builds Emotional Association
 
@@ -293,12 +289,9 @@ Studies of parental singing have long noted that lullabies help create associati
 
 A useful way to think about this is that the lullaby becomes a form of [memory]({{ 'memory/' | relative_url }}). Hearing the opening notes may remind a child—consciously or unconsciously—of many previous evenings when they were protected, soothed, and settled to sleep.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gfr1cs7oW04" title="Lullaby&#x27;s For Babies💤Deep Sleep Music 💤 ✨ &quot;Deep Dive&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gfr1cs7oW04" target="_blank" rel="noopener noreferrer">Lullaby&#x27;s For Babies💤Deep Sleep Music 💤 ✨ &quot;Deep Dive&quot;</a></p><p class="youtube-embed-meta">Channel: Kidscustomstories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gfr1cs7oW04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gfr1cs7oW04">Open on YouTube</a></p></div></div></div>
-
 ## Why Caregiver Songs Become Security Cues
 
-The strongest emotional associations are often tied not to a particular song but to the person singing it. Infants show a preference for familiar caregivers' voices from very early in life, and researchers have argued that singing supports bonding and attachment by combining vocal communication with emotional expression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</span></span></span>
+The strongest emotional associations are often tied not to a particular song but to the person singing it. Infants show a preference for familiar caregivers' voices from very early in life, and researchers have argued that singing supports bonding and attachment by combining vocal communication with emotional expression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</span></span></span>
 
 Because of this, a lullaby sung by a parent, grandparent, or other regular caregiver can become a highly personalised signal of security. The song carries information beyond its melody:
 
@@ -307,10 +300,9 @@ Because of this, a lullaby sung by a parent, grandparent, or other regular careg
 * The emotional tone communicates calmness and [attention]({{ 'attention/' | relative_url }}).
 * [Physical]({{ 'physical/' | relative_url }}) closeness during singing reinforces feelings of protection.
 
-Research examining infant–caregiver musical interaction describes singing as a form of co-regulation, in which adults and infants help regulate each other's emotional states through shared activity. In this context, the lullaby becomes part of a broader system of reassurance rather than merely a musical performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEarly social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</span></span></span>
+Research examining infant–caregiver musical interaction describes singing as a form of co-regulation, in which adults and infants help regulate each other's emotional states through shared activity. In this context, the lullaby becomes part of a broader system of reassurance rather than merely a musical performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Early social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</span></span></span>
 
 Evidence also suggests that familiar songs hold special significance for infants. Studies from the University of Toronto found that infants listened longer to songs they already knew, even when those songs were sung by unfamiliar voices. This indicates that familiarity itself has value and that young children can retain and recognise specific musical memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utsc.utoronto.ca">[University of Toronto Scarborough]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utsc.utoronto.ca</span><span class="citation-popover-title">babies prefer listen familiar tune even when its sung stranger</span><span class="citation-popover-snippet">University of Toronto ScarboroughBabies prefer to listen to a familiar tune – even when it&#x27;s...12 Aug 2021 — “What we found is that the...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-2-dark.svg" | relative_url }}" alt="Familiar Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Familiarity Versus Universal Musical Cues
@@ -319,7 +311,7 @@ An important question is whether familiar lullabies are calming because they are
 
 Research on infant responses to music shows that even completely unfamiliar lullabies from distant cultures can reduce physiological signs of arousal. Infants exhibit lower heart rates and other indicators of relaxation when listening to lullabies, despite having no previous exposure to the songs or languages involved. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies19 Oct 2020 — Researchers at Harvard&#x27;s Music Lab have determined that...</span></span></span>
 
-This finding suggests that lullabies possess universal musical qualities that encourage calmness. [Slow tempos]({{ 'slow-tempo/' | relative_url }}), gentle contours, repetition, and predictable rhythms appear to work across cultural boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCby CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
+This finding suggests that lullabies possess universal musical qualities that encourage calmness. [Slow tempos]({{ 'slow-tempo/' | relative_url }}), gentle contours, repetition, and predictable rhythms appear to work across cultural boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
 
 Familiarity adds a second mechanism. The relationship can be understood as two overlapping layers:
 
@@ -327,17 +319,12 @@ Universal calming featuresFamiliarity-based securitySlow, repetitive musical str
 
 Rather than competing explanations, these mechanisms complement one another. A lullaby may initially calm because of how it sounds, then become even more effective after months or years of repeated use within a caring relationship.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gX43dxto99o" title="My Own Superhero - A song to empower every child" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gX43dxto99o" target="_blank" rel="noopener noreferrer">My Own Superhero - A song to empower every child</a></p><p class="youtube-embed-meta">Channel: Shawna Edwards Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gX43dxto99o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gX43dxto99o">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-3-dark.svg" | relative_url }}" alt="Familiar Songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Families Keep Returning to the Same Songs
 
 Across cultures and historical periods, caregivers have often maintained small repertoires of bedtime songs that are sung repeatedly over long stretches of childhood. This persistence makes sense in light of what is known about familiarity and emotional learning.
 
 A constantly changing selection of songs may provide musical variety, but a stable lullaby can accumulate emotional meaning. The song becomes part of the family's nightly [ritual]({{ 'ritual/' | relative_url }}) and a reliable signal that the environment is safe. For some children, hearing a familiar lullaby years later can evoke memories of childhood comfort, demonstrating how strongly music can become linked to feelings of security and belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICThe effects of screened presentations on lullaby practices</span><span class="citation-popover-snippet">June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</span><span class="citation-popover-meta">Published: June 27, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://voices.no/index.php/voices/article/view/1650/1410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voices.no">[Voices In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voices.no</span><span class="citation-popover-snippet">Lullabies and Play songsby M Bargiel · 2004 · Cited by 58 — This study considers the impact of lullabies and play songs, as well as paren...</span></span></span>, familiar lullabies illustrate an important aspect of how music calms. The melody matters, but the history attached to the melody matters as well. Repeated caregiver singing transforms a simple song into an emotional landmark—one that tells a child, again and again, that they are cared for and safe.
-
-
-<img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-3-dark.svg" | relative_url }}" alt="Familiar Songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -736,110 +723,110 @@ A constantly changing selection of songs may provide musical variety, but a stab
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfants relax in response to unfamiliar foreign lullabies  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.harvard.edu  
    Title: research shows lullabies in any language relax babies  
-   Link: [https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/](https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/)  
+   Link: <a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies19 Oct 2020 — Researchers at Harvard&#x27;s Music Lab have determined that...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Co-regulation](https://en.wikipedia.org/wiki/Co-regulation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Co-regulation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Co-regulation</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Attachment theory  
-   Link: [https://en.wikipedia.org/wiki/Attachment_theory](https://en.wikipedia.org/wiki/Attachment_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Attachment_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Attachment_theory</a>  
 
 5. <a id="endnote-5"></a>
    Source: files.eric.ed.gov  
    Title: ERICThe effects of screened presentations on lullaby practices  
-   Link: [https://files.eric.ed.gov/fulltext/EJ1146386.pdf](https://files.eric.ed.gov/fulltext/EJ1146386.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1146386.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</p></details>
    Published: June 27, 2017  
 
 6. <a id="endnote-6"></a>
    Source: voices.no  
-   Link: [https://voices.no/index.php/voices/article/view/1650/1410](https://voices.no/index.php/voices/article/view/1650/1410)  
+   Link: <a href="https://voices.no/index.php/voices/article/view/1650/1410" target="_blank" rel="noopener noreferrer nofollow">https://voices.no/index.php/voices/article/view/1650/1410</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies and Play songsby M Bargiel · 2004 · Cited by 58 — This study considers the impact of lullabies and play songs, as well as paren...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1878929323000841](https://www.sciencedirect.com/science/article/pii/S1878929323000841)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEarly social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1878929323000841</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: voices.no  
-   Link: [https://voices.no/index.php/voices/article/view/1693/1453](https://voices.no/index.php/voices/article/view/1693/1453)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VoicesFamiliarity, Comfortableness and Predictability of Song as &quot;...by LRM Barcellos · 2006 · Cited by 16 — The lullabies can touch the...</p></details>
+   Link: <a href="https://voices.no/index.php/voices/article/view/1693/1453" target="_blank" rel="noopener noreferrer nofollow">https://voices.no/index.php/voices/article/view/1693/1453</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Familiarity, Comfortableness and Predictability of Song as &quot;...by LRM Barcellos · 2006 · Cited by 16 — The lullabies can touch the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: utsc.utoronto.ca  
    Title: babies prefer listen familiar tune even when its sung stranger  
-   Link: [https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger](https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger)  
+   Link: <a href="https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger" target="_blank" rel="noopener noreferrer nofollow">https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto ScarboroughBabies prefer to listen to a familiar tune – even when it&#x27;s...12 Aug 2021 — “What we found is that the...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: hekint.org  
-   Link: [https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/](https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/)  
+   Link: <a href="https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/" target="_blank" rel="noopener noreferrer nofollow">https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hektoen InternationalThe role of lullabies in mother-baby attachmentby Ö Suzan — Research shows that in babies who are separated from the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies](https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies)  
+   Link: <a href="https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesHere, we show that US infants (N = 144) relax in response to eight unfamiliar fo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: achildgrows.com  
    Title: how music helps to bond with baby an attachment perspective  
-   Link: [https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/](https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/)  
+   Link: <a href="https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Helps to Bond with Baby: An Attachment...12 Nov 2015 — Research studies have shown that babies become more alert when their mo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cocomoonhawaii.com  
    Title: the science of lullabies how they support baby development  
-   Link: [https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM](https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM)  
+   Link: <a href="https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM" target="_blank" rel="noopener noreferrer nofollow">https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Lullabies: How They Support Baby...18 Mar 2025 — Lullabies are more than just bedtime songs—they help babies sleep better...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Lullabies hold far more power than most caregivers realize  
-   Link: [https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/](https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/)  
+   Link: <a href="https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies also strengthen emotional bonds. A familiar voice combined with gentle melody signals safety to the nervous system. This sense...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: Research shows that singing to babies is not just soothing  
-   Link: [https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/](https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/)  
+   Link: <a href="https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music from a caregiver&#x27;s voice also triggers oxytocin, the bonding hormone, which builds a foundation for emotional safety. When parents...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/](https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/)  
+   Link: <a href="https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s voice over recorded music or unfamiliar singers, even if the...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/](https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/)  
+   Link: <a href="https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>over recorded music or unfamiliar singers, even if the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scottishbooktrust.com  
    Title: sleep baby sleep the power of lullabies  
-   Link: [https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies](https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies)  
+   Link: <a href="https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep baby sleep: the power of lullabies19 Dec 2024 — Discover the many benefits that a simple lullaby can have on the emotional wellbein...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing](https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing)  
+   Link: <a href="https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They concluded that seeing their...Read more...</p></details>

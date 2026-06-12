@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - regional-scenes
 keywords:
-- music
+- music-3-a01-be
 - regional-scenes
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming can help local and regional genres cross borders while still depending on platform visibility and listener attention.
 hero_summary: Streaming can help local and regional genres cross borders while still depending on platform visibility and listener attention.
 layout: default
 permalink: /regional-scenes/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Regional Scenes
 title: How Local Sounds Become Global
-title_full: How Local Sounds Become Global | Music
+title_full: How Local Sounds Become Global
 display_title_short: Regional Scenes
 display_title: Regional Scenes
 heading_title: How Local Sounds Become Global
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 next_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
-date: '2026-06-09 06:25:12 '
+date: '2026-06-11 23:13:44 '
 header:
   og_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816-overview-social.jpg
   preview_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816-overview-social.j
 
 Streaming has made regional music scenes easier to hear across borders, but it has not made discovery equal. Local sounds travel when three things line up: accessible catalogues, diaspora and fan networks that create early momentum, and platform systems that decide which tracks become visible beyond their home audience. That is why styles such as Afrobeats, [amapiano]({{ 'amapiano/' | relative_url }}), [regional Mexican]({{ 'regional-mexican/' | relative_url }}) music, K-pop and Latin pop can move from neighbourhood clubs, studios and local charts into global playlists, festivals and collaborations, while many equally active scenes remain hard to find.
 
-
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-overview.webp" | relative_url }}" alt="Overview image for Regional Scenes" loading="eager" decoding="sync" fetchpriority="high">
-The important change is not simply that more people can click on more [music]({{ 'music/' | relative_url }}). It is that streaming turns regional listening into data, and that data can be reused by platforms, labels, promoters and fans to prove demand. At the same time, recommendation systems and playlists create new bottlenecks: a regional scene can become global faster than before, but only if it breaks through the crowded layer of platform visibility.
+The important change is not simply that more people can click on more music. It is that streaming turns regional listening into data, and that data can be reused by platforms, labels, promoters and fans to prove demand. At the same time, recommendation systems and playlists create new bottlenecks: a regional scene can become global faster than before, but only if it breaks through the crowded layer of platform visibility.
 
 ## Access Across Borders Changes the Route Out
 
@@ -515,10 +514,9 @@ That does not mean every track is equally reachable. It means the first barrier 
 
 The clearest examples are genres whose audiences are no longer limited to one national market. Spotify reported Afrobeats at more than 15 billion streams by 2023, while Rest of World, drawing on Spotify data and Nigerian industry interviews, reported a 550% rise in Spotify streams of Afrobeats between 2017 and 2022 and more than 14 billion streams in 2023 alone. The top listening cities included places outside the genre’s West African centres, such as London and Paris, showing how [diaspora]({{ 'diaspora/' | relative_url }}), nightlife, social media and streaming can reinforce one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Is Putting the Spotlight on Afrobeats to Chart Its</span><span class="citation-popover-snippet">Is Putting the Spotlight on Afrobeats to Chart Its</span></span></span>
 
-Amapiano shows a similar but distinct route. The South African style grew out of local dance music ecosystems, but streaming helped make it legible to listeners far beyond the scenes that created it. Spotify’s newsroom described the genre being picked up and reworked across countries including France, Morocco and Japan, while 2026 reporting on Spotify’s South African Loud & Clear data said nearly three quarters of royalties generated by South African artists on the platform in 2025 came from listeners outside South Africa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">How the World Is Reimagining Amapiano, South Africa&#x27;s</span><span class="citation-popover-snippet">How the World Is Reimagining Amapiano, South Africa&#x27;s</span></span></span>
+Amapiano shows a similar but distinct route. The South African style grew out of local [dance music]({{ 'dance-music/' | relative_url }}) ecosystems, but streaming helped make it legible to listeners far beyond the scenes that created it. Spotify’s newsroom described the genre being picked up and reworked across countries including France, Morocco and Japan, while 2026 reporting on Spotify’s South African Loud & Clear data said nearly three quarters of royalties generated by South African artists on the platform in 2025 came from listeners outside South Africa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">How the World Is Reimagining Amapiano, South Africa&#x27;s</span><span class="citation-popover-snippet">How the World Is Reimagining Amapiano, South Africa&#x27;s</span></span></span>
 
 Regional Mexican music offers another version of cross-border travel, rooted strongly in language, migration and bicultural listening. Luminate’s 2023 year-end findings reported 60% growth in US on-demand audio streams for regional Mexican music, while AP and El País reported that the category reached 21.9 billion US on-demand audio streams in 2023. Luminate also noted that Peso Pluma’s album “GÉNESIS” drew its top streaming countries from Mexico, the United States, Colombia, Argentina and Chile, showing how a supposedly “regional” genre can become transnational without losing its cultural markers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">34 global streaming growth uplift luminate releases 2023 year end music report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">regional mexican artists are going global this year</span><span class="citation-popover-snippet">regional mexican artists are going global this year</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-1-dark.svg" | relative_url }}" alt="Regional Scenes illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scenes, Language and Identity Still Matter
@@ -534,7 +532,6 @@ This is why regional scenes often travel first through listeners who already hav
 K-pop shows the more organised version of the same dynamic. Its global expansion predates Spotify’s dominance and relies heavily on fan labour, video platforms, choreography, visual identity, agency strategy and physical albums. Yet streaming data now sits inside that wider system. IFPI’s global charts combine streaming, downloads and physical formats, and recent rankings have repeatedly placed K-pop acts beside the biggest US and global pop artists; in 2025, IFPI’s public chart pages included K-pop-related albums and acts among the leading global performers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">global charts</span><span class="citation-popover-snippet">global charts</span></span></span>
 
 The key point is historical rather than promotional: streaming did not invent regional scenes, and it rarely globalises them alone. It gives existing local energy a measurable, exportable surface. When a scene already has a recognisable sound, visible artists, fan rituals and social meaning, streaming can turn that density into international proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pGntmcy_HX8" title="How Spotify’s AI-Driven Recommendations Work | WSJ Tech Behind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer">How Spotify’s AI-Driven Recommendations Work | WSJ Tech Behind</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 834.3K &middot; Uploaded: April 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pGntmcy_HX8">Open on YouTube</a></p></div></div></div>
 
@@ -564,7 +561,6 @@ This is why playlists matter so much. Editorial playlists can legitimise a scene
 
 The result is not a simple story of platforms helping or harming local music. They do both. They reduce distribution friction, but they concentrate attention. They make regional scenes measurable, but they also decide which measurements matter. They expand access, but the listener still sees only a curated sliver of what is available.
 
-
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-2-dark.svg" | relative_url }}" alt="Regional Scenes illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Social Platforms Turn Clips Into Cross-Border Signals
 
@@ -577,7 +573,6 @@ For regional scenes, this changes the export object. A song no longer has to tra
 This tension is especially visible when a genre’s sonic markers are adopted by international artists. Borrowing and collaboration can bring money, prestige and new audiences, but they can also blur credit. Streaming platforms often list artists and writers, but they do not always explain scene histories. A listener can hear an amapiano-influenced pop track without learning much about South African producers; they can hear an Afrobeats-adjacent collaboration without following the Nigerian or Ghanaian ecosystem behind it.
 
 The best cross-border travel therefore happens when [short clips]({{ 'short-clips/' | relative_url }}) lead to deeper listening. A viral moment is useful, but a scene becomes global when listeners keep going: they follow playlists, learn artist names, recognise producers, attend shows, and distinguish local variants rather than treating the genre as a single exotic texture.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sfzk0huCmsY" title="How Streaming Services Destroyed The Music Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sfzk0huCmsY" target="_blank" rel="noopener noreferrer">How Streaming Services Destroyed The Music Industry</a></p><p class="youtube-embed-meta">Channel: Fantastic Hip Hop &middot; Views: 80.5K &middot; Uploaded: August 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sfzk0huCmsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sfzk0huCmsY">Open on YouTube</a></p></div></div></div>
 
@@ -592,7 +587,6 @@ There is also a language and market hierarchy. English-language music still bene
 The economics can be uneven as well. A track may travel widely without producing much income for a creator if the rights are unfavourable, the streams come from lower-revenue markets, or the artist does not own the recording or publishing. Spotify’s South African data, for instance, shows meaningful international revenue growth for South African artists, but it also highlights how dependent regional scenes can become on platform terms and overseas listening behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotify reports sa artists earned over 306m platform 2025</span><span class="citation-popover-snippet">spotify reports sa artists earned over 306m platform 2025</span></span></span>
 
 The fairest reading is that streaming has expanded possibility while intensifying competition. It has not replaced local radio, clubs, festivals, specialist journalism, community tastemakers or physical scenes. Instead, it has made those local structures more important as sources of identity, credibility and early momentum before the platform layer amplifies or ignores them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-VJJb6eZWqM" title="How TikTok and streaming changed music - What in the World podcast, BBC World Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-VJJb6eZWqM" target="_blank" rel="noopener noreferrer">How TikTok and streaming changed music - What in the World podcast, BBC World Service</a></p><p class="youtube-embed-meta">Channel: BBC World Service &middot; Views: 25.8K &middot; Uploaded: August 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-VJJb6eZWqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-VJJb6eZWqM">Open on YouTube</a></p></div></div></div>
 
@@ -609,7 +603,6 @@ A regional sound has not necessarily gone global just because one song enters a 
 **The scene builds institutions abroad.** Tours, club nights, festival stages, editorial playlists, fan accounts, dance communities, radio shows and local-language media coverage all help convert streaming attention into cultural presence. Without these, a regional sound may remain a temporary algorithmic trend.
 
 **Listeners learn the differences inside the category.** The final stage is cultural literacy. A casual listener may say “Latin music” or “African pop”; a more engaged listener starts recognising regional Mexican music, reggaeton, Afrobeats, amapiano or K-pop as distinct worlds with their own histories and internal debates.
-
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-3-dark.svg" | relative_url }}" alt="Regional Scenes illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Next Global Sound May Still Begin Locally
@@ -737,15 +730,15 @@ The most useful way to understand regional music in the streaming era is therefo
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/eeb9c1a6ec9b01f5b83d.jpg' | relative_url }}" alt="Listing image for QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Fails Music Speaks Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hicAAeSwedFphiiE/s-l225.jpg" alt="Listing image for World Fails Music Speaks Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">World Fails Music Speaks Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -753,15 +746,15 @@ The most useful way to understand regional music in the streaming era is therefo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art"><img src="{{ '/assets/images/marketplace-covers/e232c319205274677a82.jpg' | relative_url }}" alt="Listing image for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Raye World Tour 2026 A3 A4 Print Poster Unframed Album Music"><img src="https://i.ebayimg.com/images/g/-BsAAeSwl-xppar~/s-l225.jpg" alt="Listing image for Raye World Tour 2026 A3 A4 Print Poster Unframed Album Music" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Raye World Tour 2026 A3 A4 Print Poster Unframed Album Music</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -769,15 +762,15 @@ The most useful way to understand regional music in the streaming era is therefo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions"><img src="{{ '/assets/images/marketplace-covers/a42f8e5429b7e9050048.jpg' | relative_url }}" alt="Listing image for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ~ Rare ~ Michael Jackson ~ BAD World Tour 1988 Promo Poster ~ Huge 53&quot; x 38&quot;"><img src="https://i.ebayimg.com/images/g/FyAAAeSwaO1p070p/s-l225.jpg" alt="Listing image for ~ Rare ~ Michael Jackson ~ BAD World Tour 1988 Promo Poster ~ Huge 53&quot; x 38&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">~ Rare ~ Michael Jackson ~ BAD World Tour 1988 Promo Poster ~ Huge 53&quot; x 38&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -785,15 +778,15 @@ The most useful way to understand regional music in the streaming era is therefo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/07c05df666af11e959e6.jpg' | relative_url }}" alt="Listing image for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/jTIAAOSwdo5nS67w/s-l225.jpg" alt="Listing image for QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -801,7 +794,7 @@ The most useful way to understand regional music in the streaming era is therefo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="regional-scenes-how-local-sounds-become-global-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-sounds-become-global-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="how-local-sounds-become-global-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1017,422 +1010,422 @@ The most useful way to understand regional music in the streaming era is therefo
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: newsroom.spotify.com  
    Title: Is Putting the Spotlight on Afrobeats to Chart Its  
-   Link: [https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/](https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/)  
+   Link: <a href="https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/</a>  
 
 3. <a id="endnote-3"></a>
    Source: newsroom.spotify.com  
    Title: How the World Is Reimagining Amapiano, South Africa's  
-   Link: [https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/](https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/)  
+   Link: <a href="https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/</a>  
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/taylor-swift-accounts-for-1-in-78-us-song-streams-as-global-streaming-grows-by-a-third-luminate-data-shows](https://pitchfork.com/news/taylor-swift-accounts-for-1-in-78-us-song-streams-as-global-streaming-grows-by-a-third-luminate-data-shows)  
+   Link: <a href="https://pitchfork.com/news/taylor-swift-accounts-for-1-in-78-us-song-streams-as-global-streaming-grows-by-a-third-luminate-data-shows" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/taylor-swift-accounts-for-1-in-78-us-song-streams-as-global-streaming-grows-by-a-third-luminate-data-shows</a>  
 
 5. <a id="endnote-5"></a>
    Source: ifpi.org  
    Title: global [charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;)  
-   Link: [https://www.ifpi.org/our-industry/global-charts/](https://www.ifpi.org/our-industry/global-charts/)  
+   Link: <a href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/global-charts/</a>  
 
 6. <a id="endnote-6"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/afrobeats/](https://newsroom.spotify.com/afrobeats/)  
+   Link: <a href="https://newsroom.spotify.com/afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/afrobeats/</a>  
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: The impact of algorithmically driven recommendation  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
 
 9. <a id="endnote-9"></a>
    Source: newsroom.tiktok.com  
    Title: and luminate release latest music impact report  
-   Link: [https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report](https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/tiktok-and-luminate-release-latest-music-impact-report</a>  
 
 10. <a id="endnote-10"></a>
    Source: newsroom.tiktok.com  
    Title: music impact report confirms tiktok fuels music discovery  
-   Link: [https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery](https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/music-impact-report-confirms-tiktok-fuels-music-discovery</a>  
 
 11. <a id="endnote-11"></a>
    Source: ifpi.org  
    Title: Global Music Report 2023 State of the Industry  
-   Link: [https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/](https://www.ifpi.org/)  
+   Link: <a href="https://www.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/</a>  
 
 14. <a id="endnote-14"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/taylor-swift-named-ifpis-official-biggest-selling-global-artist-of-the-year-for-a-sixth-time/](https://www.ifpi.org/taylor-swift-named-ifpis-official-biggest-selling-global-artist-of-the-year-for-a-sixth-time/)  
+   Link: <a href="https://www.ifpi.org/taylor-swift-named-ifpis-official-biggest-selling-global-artist-of-the-year-for-a-sixth-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-named-ifpis-official-biggest-selling-global-artist-of-the-year-for-a-sixth-time/</a>  
 
 15. <a id="endnote-15"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/](https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/)  
+   Link: <a href="https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/</a>  
 
 16. <a id="endnote-16"></a>
    Source: ifpi.se  
    Title: engaging with music report  
-   Link: [https://www.ifpi.se/statistik/engaging-with-music-report/](https://www.ifpi.se/statistik/engaging-with-music-report/)  
+   Link: <a href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/statistik/engaging-with-music-report/</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/trends/report/](https://www.youtube.com/trends/report/)  
+   Link: <a href="https://www.youtube.com/trends/report/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/trends/report/</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zJ-vHr6jyic](https://www.youtube.com/watch?v=zJ-vHr6jyic)  
+   Link: <a href="https://www.youtube.com/watch?v=zJ-vHr6jyic" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJ-vHr6jyic</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: report sources  
-   Link: [https://www.youtube.com/trends/articles/report-sources/](https://www.youtube.com/trends/articles/report-sources/)  
+   Link: <a href="https://www.youtube.com/trends/articles/report-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/trends/articles/report-sources/</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bpKhPmtsRhM&vl=en](https://www.youtube.com/watch?v=bpKhPmtsRhM&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=bpKhPmtsRhM&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpKhPmtsRhM&amp;vl=en</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: You Tube Culture & Trends  
-   Link: [https://www.youtube.com/trends/](https://www.youtube.com/trends/)  
+   Link: <a href="https://www.youtube.com/trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/trends/</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-QM3GjVnRWU](https://www.youtube.com/watch?v=-QM3GjVnRWU)  
+   Link: <a href="https://www.youtube.com/watch?v=-QM3GjVnRWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-QM3GjVnRWU</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hy0I_1A9R_A](https://www.youtube.com/watch?v=hy0I_1A9R_A)  
+   Link: <a href="https://www.youtube.com/watch?v=hy0I_1A9R_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hy0I_1A9R_A</a>  
 
 24. <a id="endnote-24"></a>
    Source: sounds.co  
-   Link: [https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber](https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber)  
+   Link: <a href="https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber" target="_blank" rel="noopener noreferrer nofollow">https://www.sounds.co/en/post/claves-del-luminate-2024-year-end-music-report-lo-que-todo-artista-independiente-debe-saber</a>  
 
 25. <a id="endnote-25"></a>
    Source: newsroom.spotify.com  
    Title: why amapiano wins hearts and minds as it travels the globe  
-   Link: [https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/](https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/)  
+   Link: <a href="https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/</a>  
 
 26. <a id="endnote-26"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/playlist/4xaQA9FeMPyJ2FpYsqj3Oh](https://open.spotify.com/playlist/4xaQA9FeMPyJ2FpYsqj3Oh)  
+   Link: <a href="https://open.spotify.com/playlist/4xaQA9FeMPyJ2FpYsqj3Oh" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/4xaQA9FeMPyJ2FpYsqj3Oh</a>  
 
 27. <a id="endnote-27"></a>
    Source: newsroom.spotify.com  
    Title: the visual rhythm how afrobeats is shaping global style  
-   Link: [https://newsroom.spotify.com/2025-09-22/the-visual-rhythm-how-afrobeats-is-shaping-global-style/](https://newsroom.spotify.com/2025-09-22/the-visual-rhythm-how-afrobeats-is-shaping-global-style/)  
+   Link: <a href="https://newsroom.spotify.com/2025-09-22/the-visual-rhythm-how-afrobeats-is-shaping-global-style/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-22/the-visual-rhythm-how-afrobeats-is-shaping-global-style/</a>  
 
 28. <a id="endnote-28"></a>
    Source: guardian.ng  
    Title: global streams for afrobeats increased by 34 in 2024 spotify  
-   Link: [https://guardian.ng/life/global-streams-for-afrobeats-increased-by-34-in-2024-spotify/](https://guardian.ng/life/global-streams-for-afrobeats-increased-by-34-in-2024-spotify/)  
+   Link: <a href="https://guardian.ng/life/global-streams-for-afrobeats-increased-by-34-in-2024-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/life/global-streams-for-afrobeats-increased-by-34-in-2024-spotify/</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: How Spotify’s AI-Driven Recommendations Work  
-   Link: [https://www.youtube.com/watch?v=pGntmcy_HX8](https://www.youtube.com/watch?v=pGntmcy_HX8)  
+   Link: <a href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pGntmcy_HX8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How TikTok and streaming changed music - What in the World podcast...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: How Tik Tok and streaming changed music  
-   Link: [https://www.youtube.com/watch?v=-VJJb6eZWqM](https://www.youtube.com/watch?v=-VJJb6eZWqM)  
+   Link: <a href="https://www.youtube.com/watch?v=-VJJb6eZWqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-VJJb6eZWqM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Streaming Services Destroyed The Music Industry...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: How Streaming Services Destroyed The Music Industry  
-   Link: [https://www.youtube.com/watch?v=Sfzk0huCmsY](https://www.youtube.com/watch?v=Sfzk0huCmsY)  
+   Link: <a href="https://www.youtube.com/watch?v=Sfzk0huCmsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sfzk0huCmsY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital streaming part one: impact on media consumption...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Digital streaming part one: impact on media consumption  
-   Link: [https://www.youtube.com/watch?v=QpYsC5t316Q](https://www.youtube.com/watch?v=QpYsC5t316Q)  
+   Link: <a href="https://www.youtube.com/watch?v=QpYsC5t316Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpYsC5t316Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How MrBeast uses multi-language audio to amp up views...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: How Mr Beast uses multi-language audio to amp up views  
-   Link: [https://www.youtube.com/watch?v=OFDfLnG987E](https://www.youtube.com/watch?v=OFDfLnG987E)  
+   Link: <a href="https://www.youtube.com/watch?v=OFDfLnG987E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OFDfLnG987E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How music streaming changes regional scenes global reach What I learned, to target US audience in Yt shorts/automation ytshortsautomation5...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: restofworld.org  
    Title: spotify afrobeats go global  
-   Link: [https://restofworld.org/2024/spotify-afrobeats-go-global/](https://restofworld.org/2024/spotify-afrobeats-go-global/)  
+   Link: <a href="https://restofworld.org/2024/spotify-afrobeats-go-global/" target="_blank" rel="noopener noreferrer nofollow">https://restofworld.org/2024/spotify-afrobeats-go-global/</a>  
 
 35. <a id="endnote-35"></a>
    Source: musicinafrica.net  
    Title: spotify reports sa artists earned over 306m platform 2025  
-   Link: [https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025](https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025)  
+   Link: <a href="https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025</a>  
 
 36. <a id="endnote-36"></a>
    Source: recordoftheday.com  
    Title: 34 global streaming growth uplift luminate releases 2023 year end music report  
-   Link: [https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report](https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report)  
+   Link: <a href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report</a>  
 
 37. <a id="endnote-37"></a>
    Source: luminatedata.com  
    Title: regional mexican artists are going global this year  
-   Link: [https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/](https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/)  
+   Link: <a href="https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/</a>  
 
 38. <a id="endnote-38"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html](https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html)  
+   Link: <a href="https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html</a>  
 
 39. <a id="endnote-39"></a>
    Source: research.atspotify.com  
    Title: exploring local musics place in global streaming  
-   Link: [https://research.atspotify.com/2024/05/exploring-local-musics-place-in-global-streaming](https://research.atspotify.com/2024/05/exploring-local-musics-place-in-global-streaming)  
+   Link: <a href="https://research.atspotify.com/2024/05/exploring-local-musics-place-in-global-streaming" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2024/05/exploring-local-musics-place-in-global-streaming</a>  
 
 40. <a id="endnote-40"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f](https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f)  
+   Link: <a href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f</a>  
 
 41. <a id="endnote-41"></a>
    Source: spectrumlocalnews.com  
-   Link: [https://spectrumlocalnews.com/ca/california/entertainment/2024/01/10/music-streams-hit-4-trillion-in-2023--country-and-global-acts---and-taylor-swift---fueled-the-growth](https://spectrumlocalnews.com/ca/california/entertainment/2024/01/10/music-streams-hit-4-trillion-in-2023--country-and-global-acts---and-taylor-swift---fueled-the-growth)  
+   Link: <a href="https://spectrumlocalnews.com/ca/california/entertainment/2024/01/10/music-streams-hit-4-trillion-in-2023--country-and-global-acts---and-taylor-swift---fueled-the-growth" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/ca/california/entertainment/2024/01/10/music-streams-hit-4-trillion-in-2023--country-and-global-acts---and-taylor-swift---fueled-the-growth</a>  
 
 42. <a id="endnote-42"></a>
    Source: musicinafrica.net  
    Title: tiktok users most fervent music consumers  
-   Link: [https://www.musicinafrica.net/magazine/tiktok-users-most-fervent-music-consumers](https://www.musicinafrica.net/magazine/tiktok-users-most-fervent-music-consumers)  
+   Link: <a href="https://www.musicinafrica.net/magazine/tiktok-users-most-fervent-music-consumers" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/tiktok-users-most-fervent-music-consumers</a>  
 
 43. <a id="endnote-43"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/14614448251346200](https://journals.sagepub.com/doi/10.1177/14614448251346200)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448251346200" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251346200</a>  
 
 44. <a id="endnote-44"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2025/jun/12/australian-artists-making-waves-globally-but-local-listening-at-historic-low](https://www.theguardian.com/music/2025/jun/12/australian-artists-making-waves-globally-but-local-listening-at-historic-low)  
+   Link: <a href="https://www.theguardian.com/music/2025/jun/12/australian-artists-making-waves-globally-but-local-listening-at-historic-low" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/jun/12/australian-artists-making-waves-globally-but-local-listening-at-historic-low</a>  
 
 45. <a id="endnote-45"></a>
    Source: luminatedata.com  
    Title: yearend music industry report 2024  
-   Link: [https://luminatedata.com/reports/yearend-music-industry-report-2024/](https://luminatedata.com/reports/yearend-music-industry-report-2024/)  
+   Link: <a href="https://luminatedata.com/reports/yearend-music-industry-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/yearend-music-industry-report-2024/</a>  
 
 46. <a id="endnote-46"></a>
    Source: luminatedata.com  
    Title: yearend music industry report 2023  
-   Link: [https://luminatedata.com/reports/yearend-music-industry-report-2023/](https://luminatedata.com/reports/yearend-music-industry-report-2023/)  
+   Link: <a href="https://luminatedata.com/reports/yearend-music-industry-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/yearend-music-industry-report-2023/</a>  
 
 47. <a id="endnote-47"></a>
    Source: luminatedata.com  
    Title: the global exchange exporting culture through streaming  
-   Link: [https://luminatedata.com/blog/the-global-exchange-exporting-culture-through-streaming/](https://luminatedata.com/blog/the-global-exchange-exporting-culture-through-streaming/)  
+   Link: <a href="https://luminatedata.com/blog/the-global-exchange-exporting-culture-through-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/the-global-exchange-exporting-culture-through-streaming/</a>  
 
 48. <a id="endnote-48"></a>
    Source: luminatedata.com  
    Title: Entertainment Industry Trend Reports  
-   Link: [https://luminatedata.com/reports/](https://luminatedata.com/reports/)  
+   Link: <a href="https://luminatedata.com/reports/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/</a>  
 
 49. <a id="endnote-49"></a>
    Source: luminatedata.com  
    Title: what will drive music discovery if tiktok is banned  
-   Link: [https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/](https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/)  
+   Link: <a href="https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/what-will-drive-music-discovery-if-tiktok-is-banned/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1698908260324774/posts/4394700910745482/](https://www.facebook.com/groups/1698908260324774/posts/4394700910745482/)  
+   Link: <a href="https://www.facebook.com/groups/1698908260324774/posts/4394700910745482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1698908260324774/posts/4394700910745482/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/yomzansi/posts/spotify-spotifyafrica-loud-clear-report-is-out-the-report-reveals-over-r500-mill/1530036412113888/](https://www.facebook.com/yomzansi/posts/spotify-spotifyafrica-loud-clear-report-is-out-the-report-reveals-over-r500-mill/1530036412113888/)  
+   Link: <a href="https://www.facebook.com/yomzansi/posts/spotify-spotifyafrica-loud-clear-report-is-out-the-report-reveals-over-r500-mill/1530036412113888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yomzansi/posts/spotify-spotifyafrica-loud-clear-report-is-out-the-report-reveals-over-r500-mill/1530036412113888/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
    Title: spotify unveils its global list of artists to watch 2026 a batch of must hear do  
-   Link: [https://www.facebook.com/Billboard/posts/spotify-unveils-its-global-list-of-artists-to-watch-2026-a-batch-of-must-hear-do/1252715803395662/](https://www.facebook.com/Billboard/posts/spotify-unveils-its-global-list-of-artists-to-watch-2026-a-batch-of-must-hear-do/1252715803395662/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/spotify-unveils-its-global-list-of-artists-to-watch-2026-a-batch-of-must-hear-do/1252715803395662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/spotify-unveils-its-global-list-of-artists-to-watch-2026-a-batch-of-must-hear-do/1252715803395662/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
    Title: spotify has announced the launch of afrobeats journey of a billion streams a ded  
-   Link: [https://www.facebook.com/pulsenigeria247/posts/spotify-has-announced-the-launch-of-afrobeats-journey-of-a-billion-streams-a-ded/678648737636240/](https://www.facebook.com/pulsenigeria247/posts/spotify-has-announced-the-launch-of-afrobeats-journey-of-a-billion-streams-a-ded/678648737636240/)  
+   Link: <a href="https://www.facebook.com/pulsenigeria247/posts/spotify-has-announced-the-launch-of-afrobeats-journey-of-a-billion-streams-a-ded/678648737636240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pulsenigeria247/posts/spotify-has-announced-the-launch-of-afrobeats-journey-of-a-billion-streams-a-ded/678648737636240/</a>  
 
 54. <a id="endnote-54"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/](https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/</a>  
 
 55. <a id="endnote-55"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/companies/luminate/](https://www.musicbusinessworldwide.com/companies/luminate/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/companies/luminate/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/companies/luminate/</a>  
 
 56. <a id="endnote-56"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/global-audio-streams-jumped-14-in-2024-to-4-8-trillion-as-pop-music-was-the-fastest-growing-genre-in-the-us/](https://www.musicbusinessworldwide.com/global-audio-streams-jumped-14-in-2024-to-4-8-trillion-as-pop-music-was-the-fastest-growing-genre-in-the-us/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/global-audio-streams-jumped-14-in-2024-to-4-8-trillion-as-pop-music-was-the-fastest-growing-genre-in-the-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-audio-streams-jumped-14-in-2024-to-4-8-trillion-as-pop-music-was-the-fastest-growing-genre-in-the-us/</a>  
 
 57. <a id="endnote-57"></a>
    Source: musicbusinessworldwide.com  
    Title: amapiano and afrobeats videos saw nearly 4 billion global views on vevo in 2023  
-   Link: [https://www.musicbusinessworldwide.com/amapiano-and-afrobeats-videos-saw-nearly-4-billion-global-views-on-vevo-in-2023/](https://www.musicbusinessworldwide.com/amapiano-and-afrobeats-videos-saw-nearly-4-billion-global-views-on-vevo-in-2023/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/amapiano-and-afrobeats-videos-saw-nearly-4-billion-global-views-on-vevo-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/amapiano-and-afrobeats-videos-saw-nearly-4-billion-global-views-on-vevo-in-2023/</a>  
 
 58. <a id="endnote-58"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: [https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024](https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024)  
+   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
 
 59. <a id="endnote-59"></a>
    Source: scribd.com  
    Title: Music Impact Report Final  
-   Link: [https://www.scribd.com/document/905092122/Music-Impact-Report-Final](https://www.scribd.com/document/905092122/Music-Impact-Report-Final)  
+   Link: <a href="https://www.scribd.com/document/905092122/Music-Impact-Report-Final" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/905092122/Music-Impact-Report-Final</a>  
 
 60. <a id="endnote-60"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYXTNjolwAo/?img_index=4](https://www.instagram.com/p/DYXTNjolwAo/?img_index=4)  
+   Link: <a href="https://www.instagram.com/p/DYXTNjolwAo/?img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYXTNjolwAo/?img_index=4</a>  
 
 61. <a id="endnote-61"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYWU8TJDSP4/?img_index=7](https://www.instagram.com/p/DYWU8TJDSP4/?img_index=7)  
+   Link: <a href="https://www.instagram.com/p/DYWU8TJDSP4/?img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYWU8TJDSP4/?img_index=7</a>  
 
 62. <a id="endnote-62"></a>
    Source: e-deeplink.net  
    Title: spotify genre trends 2025 regional analysis 2026  
-   Link: [https://e-deeplink.net/blog/spotify-genre-trends-2025-regional-analysis-2026](https://e-deeplink.net/blog/spotify-genre-trends-2025-regional-analysis-2026)  
+   Link: <a href="https://e-deeplink.net/blog/spotify-genre-trends-2025-regional-analysis-2026" target="_blank" rel="noopener noreferrer nofollow">https://e-deeplink.net/blog/spotify-genre-trends-2025-regional-analysis-2026</a>  
 
 63. <a id="endnote-63"></a>
    Source: music-tomorrow.com  
    Title: algorithmic discoverability cultural fairness music streaming recommendations  
-   Link: [https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations](https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations)  
+   Link: <a href="https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations</a>  
 
 64. <a id="endnote-64"></a>
    Source: music-tomorrow.com  
    Title: fairness and diversity in music recommendation algorithms  
-   Link: [https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms](https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms)  
+   Link: <a href="https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms</a>  
 
 65. <a id="endnote-65"></a>
    Source: musicinafrica.net  
    Title: spotify launches global project tracing afrobeats rise  
-   Link: [https://www.musicinafrica.net/magazine/spotify-launches-global-project-tracing-afrobeats-rise](https://www.musicinafrica.net/magazine/spotify-launches-global-project-tracing-afrobeats-rise)  
+   Link: <a href="https://www.musicinafrica.net/magazine/spotify-launches-global-project-tracing-afrobeats-rise" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotify-launches-global-project-tracing-afrobeats-rise</a>  
 
 66. <a id="endnote-66"></a>
    Source: musicinafrica.net  
    Title: afrobeats drives 114 music boom sub saharan africa spotify  
-   Link: [https://www.musicinafrica.net/magazine/afrobeats-drives-114-music-boom-sub-saharan-africa-spotify](https://www.musicinafrica.net/magazine/afrobeats-drives-114-music-boom-sub-saharan-africa-spotify)  
+   Link: <a href="https://www.musicinafrica.net/magazine/afrobeats-drives-114-music-boom-sub-saharan-africa-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/afrobeats-drives-114-music-boom-sub-saharan-africa-spotify</a>  
 
 67. <a id="endnote-67"></a>
    Source: andrebola.github.io  
-   Link: [https://andrebola.github.io/thesis_v_26_10_21.pdf](https://andrebola.github.io/thesis_v_26_10_21.pdf)  
+   Link: <a href="https://andrebola.github.io/thesis_v_26_10_21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andrebola.github.io/thesis_v_26_10_21.pdf</a>  
 
 68. <a id="endnote-68"></a>
    Source: kaggle.com  
    Title: spotify global streaming data 2024  
-   Link: [https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024](https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024)  
+   Link: <a href="https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024</a>  
 
 69. <a id="endnote-69"></a>
    Source: worldmusicviews.com  
-   Link: [https://worldmusicviews.com/luminate-2024-year-end-report-hip-hip-on-demand-streams-share-decrease-in-the-u-s/](https://worldmusicviews.com/luminate-2024-year-end-report-hip-hip-on-demand-streams-share-decrease-in-the-u-s/)  
+   Link: <a href="https://worldmusicviews.com/luminate-2024-year-end-report-hip-hip-on-demand-streams-share-decrease-in-the-u-s/" target="_blank" rel="noopener noreferrer nofollow">https://worldmusicviews.com/luminate-2024-year-end-report-hip-hip-on-demand-streams-share-decrease-in-the-u-s/</a>  
 
 70. <a id="endnote-70"></a>
    Source: techbuild.africa  
    Title: spotify journey of a billion streams afrobeats  
-   Link: [https://techbuild.africa/spotify-journey-of-a-billion-streams-afrobeats/](https://techbuild.africa/spotify-journey-of-a-billion-streams-afrobeats/)  
+   Link: <a href="https://techbuild.africa/spotify-journey-of-a-billion-streams-afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://techbuild.africa/spotify-journey-of-a-billion-streams-afrobeats/</a>  
 
 71. <a id="endnote-71"></a>
    Source: skoove.com  
    Title: spotify local vs global music france  
-   Link: [https://www.skoove.com/blog/spotify-local-vs-global-music-france/](https://www.skoove.com/blog/spotify-local-vs-global-music-france/)  
+   Link: <a href="https://www.skoove.com/blog/spotify-local-vs-global-music-france/" target="_blank" rel="noopener noreferrer nofollow">https://www.skoove.com/blog/spotify-local-vs-global-music-france/</a>  
 
 72. <a id="endnote-72"></a>
    Source: skoove.com  
    Title: spotify local vs global music south korea  
-   Link: [https://www.skoove.com/blog/spotify-local-vs-global-music-south-korea/](https://www.skoove.com/blog/spotify-local-vs-global-music-south-korea/)  
+   Link: <a href="https://www.skoove.com/blog/spotify-local-vs-global-music-south-korea/" target="_blank" rel="noopener noreferrer nofollow">https://www.skoove.com/blog/spotify-local-vs-global-music-south-korea/</a>  
 
 73. <a id="endnote-73"></a>
    Source: recordoftheday.com  
-   Link: [https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets](https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets)  
+   Link: <a href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets</a>  
 
 74. <a id="endnote-74"></a>
    Source: recordoftheday.com  
    Title: ifpi global music report 2026  
-   Link: [https://www.recordoftheday.com/on-the-move/news-press/ifpi-global-music-report-2026](https://www.recordoftheday.com/on-the-move/news-press/ifpi-global-music-report-2026)  
+   Link: <a href="https://www.recordoftheday.com/on-the-move/news-press/ifpi-global-music-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/ifpi-global-music-report-2026</a>  
 
 75. <a id="endnote-75"></a>
    Source: zenodo.org  
    Title: Music Selection From Qualitative Data to Algorithmic Gatekeepers  
-   Link: [https://zenodo.org/records/14668317/files/Music%20Selection-%20From%20Qualitative%20Data%20to%20Algorithmic%20Gatekeepers.pdf?download=1](https://zenodo.org/records/14668317/files/Music%20Selection-%20From%20Qualitative%20Data%20to%20Algorithmic%20Gatekeepers.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/14668317/files/Music%20Selection-%20From%20Qualitative%20Data%20to%20Algorithmic%20Gatekeepers.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/14668317/files/Music%20Selection-%20From%20Qualitative%20Data%20to%20Algorithmic%20Gatekeepers.pdf?download=1</a>  
 
 76. <a id="endnote-76"></a>
    Source: ajournalofmusicalthings.com  
    Title: luminates year end report of music in 2025 is here  
-   Link: [https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/](https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/)  
+   Link: <a href="https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/</a>  
 
 77. <a id="endnote-77"></a>
    Source: playmysong.com  
-   Link: [https://www.playmysong.com/spotify-africa-connectivity-challenges-local-content.html](https://www.playmysong.com/spotify-africa-connectivity-challenges-local-content.html)  
+   Link: <a href="https://www.playmysong.com/spotify-africa-connectivity-challenges-local-content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.playmysong.com/spotify-africa-connectivity-challenges-local-content.html</a>  
 
 78. <a id="endnote-78"></a>
    Source: citizen.co.za  
    Title: spotify loud and clear music report unpacked  
-   Link: [https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/](https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/)  
+   Link: <a href="https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/" target="_blank" rel="noopener noreferrer nofollow">https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/</a>  
 
 79. <a id="endnote-79"></a>
    Source: slideshare.net  
    Title: luminate mid year music report 2024 by the luminate  
-   Link: [https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130](https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130)  
+   Link: <a href="https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130</a>  
 
 80. <a id="endnote-80"></a>
    Source: chartlex.com  
-   Link: [https://www.chartlex.com/streaming/afrobeats?srsltid=AfmBOoqzgIjnfKMmp7GRmLQFPOKViZ7_uSF6o8btRkJ7wk1UYMMqBlik](https://www.chartlex.com/streaming/afrobeats?srsltid=AfmBOoqzgIjnfKMmp7GRmLQFPOKViZ7_uSF6o8btRkJ7wk1UYMMqBlik)  
+   Link: <a href="https://www.chartlex.com/streaming/afrobeats?srsltid=AfmBOoqzgIjnfKMmp7GRmLQFPOKViZ7_uSF6o8btRkJ7wk1UYMMqBlik" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/streaming/afrobeats?srsltid=AfmBOoqzgIjnfKMmp7GRmLQFPOKViZ7_uSF6o8btRkJ7wk1UYMMqBlik</a>  
 
 81. <a id="endnote-81"></a>
    Source: newindustryfocus.com  
    Title: luminate s mid year report nominates rock and latin as highest growth genres  
-   Link: [https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres](https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres)  
+   Link: <a href="https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres</a>  
 
 ### Additional References
 
 82. <a id="endnote-82"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/](https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
 
 83. <a id="endnote-83"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/41625576/THE_GLOBALIZATION_OF_K_POP_THE_INTERPLAY_OF_EXTERNAL_AND_INTERNAL_FORCES](https://www.academia.edu/41625576/THE_GLOBALIZATION_OF_K_POP_THE_INTERPLAY_OF_EXTERNAL_AND_INTERNAL_FORCES)  
+   Link: <a href="https://www.academia.edu/41625576/THE_GLOBALIZATION_OF_K_POP_THE_INTERPLAY_OF_EXTERNAL_AND_INTERNAL_FORCES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41625576/THE_GLOBALIZATION_OF_K_POP_THE_INTERPLAY_OF_EXTERNAL_AND_INTERNAL_FORCES</a>  
 
 84. <a id="endnote-84"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392974734_Playlisting_the_periphery_Platform_intermediaries_and_East-Central_European_music_visibility_in_Spotify%27s_geography](https://www.researchgate.net/publication/392974734_Playlisting_the_periphery_Platform_intermediaries_and_East-Central_European_music_visibility_in_Spotify%27s_geography)  
+   Link: <a href="https://www.researchgate.net/publication/392974734_Playlisting_the_periphery_Platform_intermediaries_and_East-Central_European_music_visibility_in_Spotify%27s_geography" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392974734_Playlisting_the_periphery_Platform_intermediaries_and_East-Central_European_music_visibility_in_Spotify%27s_geography</a>  
 
 85. <a id="endnote-85"></a>
    Source: fairmuse.eu  
-   Link: [https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf](https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf)  
+   Link: <a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
 
 86. <a id="endnote-86"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CreativeAfricaNexus/posts/across-the-continent-this-year-one-thing-really-stood-out-african-artists-broke-/1164391635901676/](https://www.facebook.com/CreativeAfricaNexus/posts/across-the-continent-this-year-one-thing-really-stood-out-african-artists-broke-/1164391635901676/)  
+   Link: <a href="https://www.facebook.com/CreativeAfricaNexus/posts/across-the-continent-this-year-one-thing-really-stood-out-african-artists-broke-/1164391635901676/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CreativeAfricaNexus/posts/across-the-continent-this-year-one-thing-really-stood-out-african-artists-broke-/1164391635901676/</a>  
 
 87. <a id="endnote-87"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/african-music-is-having-a-moment-thanks-to-streaming-platforms-its-reaching-glob/1526644678819930/](https://www.facebook.com/BBCnewsafrica/posts/african-music-is-having-a-moment-thanks-to-streaming-platforms-its-reaching-glob/1526644678819930/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/african-music-is-having-a-moment-thanks-to-streaming-platforms-its-reaching-glob/1526644678819930/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/african-music-is-having-a-moment-thanks-to-streaming-platforms-its-reaching-glob/1526644678819930/</a>  
 
 88. <a id="endnote-88"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/512662031005125/posts/1265621729042481/](https://www.facebook.com/groups/512662031005125/posts/1265621729042481/)  
+   Link: <a href="https://www.facebook.com/groups/512662031005125/posts/1265621729042481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/512662031005125/posts/1265621729042481/</a>  
 
 89. <a id="endnote-89"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/10.3998/mpub.14416305.11](https://www.jstor.org/stable/10.3998/mpub.14416305.11)  
+   Link: <a href="https://www.jstor.org/stable/10.3998/mpub.14416305.11" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.3998/mpub.14416305.11</a>  
 
 90. <a id="endnote-90"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1409321097893073/](https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1409321097893073/)  
+   Link: <a href="https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1409321097893073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1409321097893073/</a>  
 
 91. <a id="endnote-91"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/marketing/industry-market-trends/global-music-industry-trends/](https://www.linkedin.com/top-content/marketing/industry-market-trends/global-music-industry-trends/)  
+   Link: <a href="https://www.linkedin.com/top-content/marketing/industry-market-trends/global-music-industry-trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/marketing/industry-market-trends/global-music-industry-trends/</a>

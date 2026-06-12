@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2_metadata_unpaid_crea_a2759f
 - music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52
 tags:
-- music
+- music-3-a01-be
 - uk-policy
 - cma-study
 keywords:
-- music
+- music-3-a01-be
 - uk-policy
 - cma-study
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The CMA found streaming competition worked for listeners, pushing the fairness debate away from antitrust and toward copyright and contracts.
 hero_summary: The CMA found streaming competition worked for listeners, pushing the fairness debate away from antitrust and toward copyright and contracts.
 layout: default
 permalink: /cma-study/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /uk-policy/
 nav_short_title: CMA study
 title: Why competition law did not solve streaming pay
-title_full: Why competition law did not solve streaming pay | UK Policy
+title_full: Why competition law did not solve streaming pay
 display_title_short: CMA study
 display_title: CMA study
 heading_title: Why competition law did not solve streaming pay
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Policy Make Streaming Fairer? | Music
+parent_title: Can Policy Make Streaming Fairer?
 parent_permalink: /uk-policy/
 parent_nav_short_title: UK Policy
 parent_heading_title: Can Policy Make Streaming Fairer?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can better royalty information make streaming fairer?
 up_link:
   basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
@@ -259,7 +259,7 @@ next_link:
   permalink: /er-debate/
   short_title: ER debate
   heading_title: Would equitable remuneration really fix streaming pay?
-date: '2026-06-09 07:12:04 '
+date: '2026-06-11 23:37:19 '
 header:
   og_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1.webp
@@ -268,36 +268,31 @@ image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_
 
 ## Introduction
 
-The UK Competition and Markets Authority (CMA) changed the streaming debate not by finding a solution to [creator pay]({{ 'creator-pay/' | relative_url }}), but by redefining the problem. After a year-long study of the [music]({{ 'music/' | relative_url }}) streaming market, the CMA concluded in 2022 that competition between streaming services was generally working well for consumers and that weak earnings for many artists and songwriters were not primarily caused by failures of competition law. That finding shifted the centre of gravity of the policy discussion. Instead of asking whether market dominance by labels or platforms should be addressed through antitrust intervention, policymakers increasingly focused on copyright rules, contract terms, transparency, and creator remuneration. The CMA study therefore became a turning point in how the UK framed the question of fair pay in the streaming era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Music and streaming market studyThe report sets out our findings and conclusions on competition in the markets within scope, including ou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">29 Nov 2022 — The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</span></span></span>
-
+The UK Competition and Markets Authority (CMA) changed the streaming debate not by finding a solution to [creator pay]({{ 'creator-pay/' | relative_url }}), but by redefining the problem. After a year-long study of the music streaming market, the CMA concluded in 2022 that competition between streaming services was generally working well for consumers and that weak earnings for many artists and songwriters were not primarily caused by failures of competition law. That finding shifted the centre of gravity of the policy discussion. Instead of asking whether market dominance by labels or platforms should be addressed through antitrust intervention, policymakers increasingly focused on copyright rules, contract terms, transparency, and creator remuneration. The CMA study therefore became a turning point in how the UK framed the question of fair pay in the streaming era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Music and streaming market studyThe report sets out our findings and conclusions on competition in the markets within scope, including ou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">29 Nov 2022  The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1-dark.svg" | relative_url }}" alt="CMA study illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the CMA investigated
 
 The CMA launched its market study after parliamentary concern that streaming appeared to benefit major labels, large platforms and superstar acts more than working musicians. The investigation examined the music streaming chain from creator to consumer, including record labels, music publishers and services such as Spotify, Apple Music and Amazon Music. It asked whether excessive market power, weak competition or anti-competitive behaviour might explain concerns about [artist income]({{ 'artist-income/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/jan/27/uk-watchdog-to-study-music-streaming-market-amid-claims-of-raw-deal-for-artists-and-fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This comes after a report by a cross-party committee of MPs called for a complete overhaul of the streaming model, which they said primar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2022/jan/27/uk-watchdog-to-study-music-streaming-market-amid-claims-of-raw-deal-for-artists-and-fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This comes after a report by a cross-party committee of MPs called for a complete overhaul of the streaming model, which they said primar...</span></span></span>
 
-The regulator found a market that was highly concentrated in some respects, particularly in recorded music, where the major labels remained extremely influential. However, concentration alone was not enough to justify competition intervention. The CMA concluded that competition between streaming services had delivered substantial benefits for listeners, including large catalogues, widespread availability, innovation and lower real prices over time. Between 2009 and 2021, consumer prices fell by more than 20% in real terms while [access]({{ 'access/' | relative_url }}) to music expanded dramatically. The authority therefore decided not to open a full competition investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/music-streaming-report-published" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">music streaming report published</span><span class="citation-popover-snippet">29 Nov 2022 — The Competition and Markets Authority (CMA) has published its final report and found that consumers have benefited from dig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">music and streaming market study final report</span><span class="citation-popover-snippet">and streaming market study: final report29 Nov 2022 — The report sets out our findings and conclusions on competition in the markets with...</span></span></span>
+The regulator found a market that was highly concentrated in some respects, particularly in recorded music, where the major labels remained extremely influential. However, concentration alone was not enough to justify competition intervention. The CMA concluded that competition between streaming services had delivered substantial benefits for listeners, including large catalogues, widespread availability, innovation and lower real prices over time. Between 2009 and 2021, consumer prices fell by more than 20% in real terms while [access]({{ 'access/' | relative_url }}) to music expanded dramatically. The authority therefore decided not to open a full competition investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/music-streaming-report-published" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">music streaming report published</span><span class="citation-popover-snippet">29 Nov 2022  The Competition and Markets Authority (CMA) has published its final report and found that consumers have benefited from dig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">music and streaming market study final report</span><span class="citation-popover-snippet">and streaming market study: final report29 Nov 2022  The report sets out our findings and conclusions on competition in the markets with...</span></span></span>
 
 This conclusion mattered because many campaigners had hoped the study would identify competition failures that could justify regulatory action against dominant firms. Instead, the CMA argued that the evidence did not support that diagnosis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecp.crai.com/news/the-cma-concludes-its-independent-study-into-the-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecp.crai.com">[Charles River Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecp.crai.com</span><span class="citation-popover-snippet">Charles River AssociatesThe CMA concludes its independent study into the music...On 29 November 2022, the UK Competition Market Authorit...</span><span class="citation-popover-meta">Published: November 2022</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Why consumer outcomes differed from creator fairness
 
-The most influential part of the CMA's analysis was its distinction between consumer welfare and creator remuneration. In competition law, regulators typically assess whether markets deliver good outcomes for consumers through price, quality, innovation and choice. By those measures, streaming appeared successful. Consumers gained access to tens of millions of tracks at relatively low monthly prices, and usage expanded rapidly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The government&#x27;s work on music streaming</span><span class="citation-popover-snippet">February 9, 2023 — Summary of the government&#x27;s ongoing work addressing key issues identified by the DCMS Select Committee&#x27;s Inquiry into...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
+The most influential part of the CMA's analysis was its distinction between consumer welfare and creator remuneration. In competition law, regulators typically assess whether markets deliver good outcomes for consumers through price, quality, innovation and choice. By those measures, streaming appeared successful. Consumers gained access to tens of millions of tracks at relatively low monthly prices, and usage expanded rapidly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The government&#x27;s work on music streaming</span><span class="citation-popover-snippet">February 9, 2023  Summary of the government&#x27;s ongoing work addressing key issues identified by the DCMS Select Committee&#x27;s Inquiry into...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
 
-Artists and songwriters, however, were raising a different question: whether the money generated by streaming was distributed fairly. The CMA concluded that these concerns were largely separate from competition issues. In its executive summary, the authority stated that artist outcomes were driven mainly by factors unrelated to competition problems. Instead, earnings reflected the economics of copyright [ownership]({{ 'ownership/' | relative_url }}), contractual arrangements between creators and rights holders, and the extreme concentration of listening around a small number of successful recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Music and streaming final report executive</span><span class="citation-popover-snippet">Rather, we think these.Read more...</span></span></span>
+Artists and songwriters, however, were raising a different question: whether the money generated by streaming was distributed fairly. The CMA concluded that these concerns were largely separate from competition issues. In its executive summary, the authority stated that artist outcomes were driven mainly by factors unrelated to competition problems. Instead, earnings reflected the economics of copyright [ownership]({{ 'ownership/' | relative_url }}), contractual arrangements between creators and [rights]({{ 'rights/' | relative_url }}) holders, and the extreme concentration of listening around a small number of successful recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Music and streaming final report executive</span><span class="citation-popover-snippet">Rather, we think these.Read more...</span></span></span>
 
-The study highlighted a structural reality of streaming economics. Most streams are concentrated among a tiny share of artists, meaning that even a growing market does not automatically translate into sustainable incomes for the majority of creators. The CMA noted that remuneration from streaming was highly uneven and that success depended heavily on scale. Evidence cited around the report showed that less than 1% of artists reached streaming volumes capable of generating substantial recording income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiggin.co.uk">[Wiggin LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiggin.co.uk</span><span class="citation-popover-snippet">Wiggin LLPCompetition and Markets Authority publishes final report in...5 Dec 2022 — The study found that an artist could expect to earn...</span></span></span>
+The study highlighted a structural reality of streaming economics. Most streams are concentrated among a tiny share of artists, meaning that even a growing market does not automatically translate into sustainable incomes for the majority of creators. The CMA noted that remuneration from streaming was highly uneven and that success depended heavily on scale. Evidence cited around the report showed that less than 1% of artists reached streaming volumes capable of generating substantial recording income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiggin.co.uk">[Wiggin LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiggin.co.uk</span><span class="citation-popover-snippet">Wiggin LLPCompetition and Markets Authority publishes final report in...5 Dec 2022  The study found that an artist could expect to earn...</span></span></span>
 
 This distinction reshaped the debate. The regulator was effectively saying that a market can be competitive for consumers while still producing outcomes that many creators consider unfair. Competition law was not designed to resolve every distributional question within a cultural industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecp.crai.com/news/the-cma-concludes-its-independent-study-into-the-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecp.crai.com">[Charles River Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecp.crai.com</span><span class="citation-popover-snippet">Charles River AssociatesThe CMA concludes its independent study into the music...On 29 November 2022, the UK Competition Market Authorit...</span><span class="citation-popover-meta">Published: November 2022</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-2-dark.svg" | relative_url }}" alt="CMA study illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the study redirected the reform agenda
 
-Once the CMA concluded that antitrust intervention was unlikely to unlock significantly more money for creators, [attention]({{ 'attention/' | relative_url }}) moved elsewhere. The key policy question became not whether competition was failing, but how revenues were shared after entering the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">analysis of the competition and markets authority report on music streaming</span><span class="citation-popover-snippet">Musicians&#x27; UnionAnalysis of the Competition and Markets Authority Report...16 Aug 2022 — The CMA report highlights some interesting aspe...</span></span></span>
+Once the CMA concluded that antitrust intervention was unlikely to unlock significantly more money for creators, [attention]({{ 'attention/' | relative_url }}) moved elsewhere. The key policy question became not whether competition was failing, but how revenues were shared after entering the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">analysis of the competition and markets authority report on music streaming</span><span class="citation-popover-snippet">Musicians&#x27; UnionAnalysis of the Competition and Markets Authority Report...16 Aug 2022  The CMA report highlights some interesting aspe...</span></span></span>
 
 Several consequences followed.
 
@@ -305,24 +300,16 @@ Several consequences followed.
 
 **Transparency became a reform priority.** If competition law was not the primary lever, policymakers looked more closely at whether creators understood how streaming revenues were calculated and paid. This helped drive later government-backed work on transparency and industry codes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Music and streaming market studyThe report sets out our findings and conclusions on competition in the markets within scope, including ou...</span></span></span>
 
-**Industry negotiations gained importance.** Creator groups, collecting societies, labels and government departments increasingly engaged in discussions about remuneration practices instead of waiting for competition enforcement. Even organisations critical of the CMA's conclusions acknowledged that the main routes to reform now lay through government action, intellectual property policy and sector negotiations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">analysis of the competition and markets authority report on music streaming</span><span class="citation-popover-snippet">Musicians&#x27; UnionAnalysis of the Competition and Markets Authority Report...16 Aug 2022 — The CMA report highlights some interesting aspe...</span></span></span>
+**Industry negotiations gained importance.** Creator groups, collecting societies, labels and government departments increasingly engaged in discussions about remuneration practices instead of waiting for competition enforcement. Even organisations critical of the CMA's conclusions acknowledged that the main routes to reform now lay through government action, intellectual property policy and sector negotiations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">analysis of the competition and markets authority report on music streaming</span><span class="citation-popover-snippet">Musicians&#x27; UnionAnalysis of the Competition and Markets Authority Report...16 Aug 2022  The CMA report highlights some interesting aspe...</span></span></span>
 
 The shift was visible in subsequent parliamentary scrutiny. Follow-up committee reports accepted that the CMA had not found grounds for major competition intervention, while continuing to press for reforms aimed at creator income and bargaining power. The debate therefore evolved from "Is the market competitive?" to "How should the rewards from a competitive market be divided?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/874/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Economics of music streaming: follow-up</span><span class="citation-popover-snippet">In this market study, the CMA did establish that aspects of the music market had the...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rEaL8fDdlKg" title="The Music Industry News - The MLC&#x27;s 2 new DQI partners, US senators anti-competition bill, &amp; more!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rEaL8fDdlKg" target="_blank" rel="noopener noreferrer">The Music Industry News - The MLC&#x27;s 2 new DQI partners, US senators anti-competition bill, &amp; more!</a></p><p class="youtube-embed-meta">Channel: Exploration Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rEaL8fDdlKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rEaL8fDdlKg">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YtLPzokN_XE" title="Digital, Culture, Media and Sport Committee - Live Music 10/10/18 part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YtLPzokN_XE" target="_blank" rel="noopener noreferrer">Digital, Culture, Media and Sport Committee - Live Music 10/10/18 part 2</a></p><p class="youtube-embed-meta">Channel: Music Venue Trust</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YtLPzokN_XE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YtLPzokN_XE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-3-dark.svg" | relative_url }}" alt="CMA study illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting significance of the CMA study
 
 The CMA did not settle the fairness debate. Many musicians, songwriters and campaign groups disagreed with its conclusions and argued that market concentration still influenced bargaining power and remuneration. Critics also pointed out that the authority acknowledged certain structural concerns, including high concentration and potential issues affecting songwriters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/874/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Economics of music streaming: follow-up</span><span class="citation-popover-snippet">In this market study, the CMA did establish that aspects of the music market had the...Read more...</span></span></span>
 
-Yet the study's lasting influence lies in how it reframed the policy conversation. Before the investigation, streaming reform was often discussed as a possible competition problem involving dominant labels and platforms. After the investigation, the central question became how copyright ownership, contractual relationships and revenue-sharing arrangements shape creator incomes. The CMA effectively narrowed the role of competition law in the streaming debate and pushed the search for fair pay toward copyright reform, creator rights and industry governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Music and streaming final report executive</span><span class="citation-popover-snippet">Rather, we think these.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">29 Nov 2022 — The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-3-dark.svg" | relative_url }}" alt="CMA study illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Yet the study's lasting influence lies in how it reframed the policy conversation. Before the investigation, streaming reform was often discussed as a possible competition problem involving dominant labels and platforms. After the investigation, the central question became how copyright ownership, contractual relationships and revenue-sharing arrangements shape creator incomes. The CMA effectively narrowed the role of competition law in the streaming debate and pushed the search for fair pay toward copyright reform, creator rights and industry governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">Music and streaming final report executive</span><span class="citation-popover-snippet">Rather, we think these.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">29 Nov 2022  The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -457,11 +444,11 @@ Yet the study's lasting influence lies in how it reframed the policy conversatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="cma-study-why-competition-law-did-not-solve-streaming-pay-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
         <div class="fr-book-actions">
@@ -688,191 +675,191 @@ Yet the study's lasting influence lies in how it reframed the policy conversatio
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/music-and-streaming-market-study](https://www.gov.uk/cma-cases/music-and-streaming-market-study)  
+   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and streaming market studyThe report sets out our findings and conclusions on competition in the markets within scope, including ou...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary](https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2022 — The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2022  The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: Music and streaming final report executive  
-   Link: [https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf](https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rather, we think these.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: music streaming report published  
-   Link: [https://www.gov.uk/government/news/music-streaming-report-published](https://www.gov.uk/government/news/music-streaming-report-published)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2022 — The Competition and Markets Authority (CMA) has published its final report and found that consumers have benefited from dig...</p></details>
+   Link: <a href="https://www.gov.uk/government/news/music-streaming-report-published" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/music-streaming-report-published</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2022  The Competition and Markets Authority (CMA) has published its final report and found that consumers have benefited from dig...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: music and streaming market study final report  
-   Link: [https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report](https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming market study: final report29 Nov 2022 — The report sets out our findings and conclusions on competition in the markets with...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming market study: final report29 Nov 2022  The report sets out our findings and conclusions on competition in the markets with...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wiggin.co.uk  
-   Link: [https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/](https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiggin LLPCompetition and Markets Authority publishes final report in...5 Dec 2022 — The study found that an artist could expect to earn...</p></details>
+   Link: <a href="https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow">https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiggin LLPCompetition and Markets Authority publishes final report in...5 Dec 2022  The study found that an artist could expect to earn...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Economics of music streaming: follow-up  
-   Link: [https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/874/report.html](https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/874/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/874/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/874/report.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this market study, the CMA did establish that aspects of the music market had the...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/719/71902.htm](https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/719/71902.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentEconomics of music streaming: Government and Competition...22 Sept 2021 — As the Committee notes in its report, the UK Gove...</p></details>
+   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/719/71902.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/719/71902.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentEconomics of music streaming: Government and Competition...22 Sept 2021  As the Committee notes in its report, the UK Gove...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
    Title: The government's work on music streaming  
-   Link: [https://www.gov.uk/guidance/the-governments-work-on-music-streaming](https://www.gov.uk/guidance/the-governments-work-on-music-streaming)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2023 — Summary of the government&#x27;s ongoing work addressing key issues identified by the DCMS Select Committee&#x27;s Inquiry into...</p></details>
+   Link: <a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2023  Summary of the government&#x27;s ongoing work addressing key issues identified by the DCMS Select Committee&#x27;s Inquiry into...</p></details>
    Published: February 9, 2023  
 
 10. <a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming - Final report29 Nov 2022 — The Competition and Markets Authority has excluded from this published version of the market st...</p></details>
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming - Final report29 Nov 2022  The Competition and Markets Authority has excluded from this published version of the market st...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/work/9496/competition-and-market-functioning-in-the-uk-live-music-industry/](https://committees.parliament.uk/work/9496/competition-and-market-functioning-in-the-uk-live-music-industry/)  
+   Link: <a href="https://committees.parliament.uk/work/9496/competition-and-market-functioning-in-the-uk-live-music-industry/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/9496/competition-and-market-functioning-in-the-uk-live-music-industry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and market functioning in the UK live music...The Business and Trade Committee is exploring issues impacting competition and market func...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: publications.parliament.uk  
    Title: uk Economics of music streaming  
-   Link: [https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm](https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming - Parliament UK - UK Parliament15 Jul 2021 — Though streaming has realised price and convenience benefits for recorded...</p></details>
+   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming - Parliament UK - UK Parliament15 Jul 2021  Though streaming has realised price and convenience benefits for recorded...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: committees.parliament.uk  
    Title: uk Economics of music streaming  
-   Link: [https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/](https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming - CommitteesMusic streaming in the UK brings in more than £1 billion in revenue with 114 billion music streams in the...</p></details>
+   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming - CommitteesMusic streaming in the UK brings in more than 1 billion in revenue with 114 billion music streams in the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: DCMS Committee: Economics of Music Streaming  
-   Link: [https://www.youtube.com/watch?v=t89r5Gq179E](https://www.youtube.com/watch?v=t89r5Gq179E)  
+   Link: <a href="https://www.youtube.com/watch?v=t89r5Gq179E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t89r5Gq179E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; Union: Fixing Streaming - The Campaign Explained...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Musicians' Union: Fixing Streaming  
-   Link: [https://www.youtube.com/watch?v=0_o5XJ_5a9o](https://www.youtube.com/watch?v=0_o5XJ_5a9o)  
+   Link: <a href="https://www.youtube.com/watch?v=0_o5XJ_5a9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_o5XJ_5a9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Market Study: UK Competition and Markets Authority Overview...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2022/jan/27/uk-watchdog-to-study-music-streaming-market-amid-claims-of-raw-deal-for-artists-and-fans](https://www.theguardian.com/music/2022/jan/27/uk-watchdog-to-study-music-streaming-market-amid-claims-of-raw-deal-for-artists-and-fans)  
+   Link: <a href="https://www.theguardian.com/music/2022/jan/27/uk-watchdog-to-study-music-streaming-market-amid-claims-of-raw-deal-for-artists-and-fans" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jan/27/uk-watchdog-to-study-music-streaming-market-amid-claims-of-raw-deal-for-artists-and-fans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This comes after a report by a cross-party committee of MPs called for a complete overhaul of the streaming model, which they said primar...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2021/oct/19/uk-music-streaming-competition-investigation-cma-spotify](https://www.theguardian.com/business/2021/oct/19/uk-music-streaming-competition-investigation-cma-spotify)  
+   Link: <a href="https://www.theguardian.com/business/2021/oct/19/uk-music-streaming-competition-investigation-cma-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2021/oct/19/uk-music-streaming-competition-investigation-cma-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The study aims to evaluate the market&#x27;s competitiveness, influence of major labels such as Universal, Sony, and Warner, and the roles of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ecp.crai.com  
-   Link: [https://ecp.crai.com/news/the-cma-concludes-its-independent-study-into-the-music-streaming-market/](https://ecp.crai.com/news/the-cma-concludes-its-independent-study-into-the-music-streaming-market/)  
+   Link: <a href="https://ecp.crai.com/news/the-cma-concludes-its-independent-study-into-the-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow">https://ecp.crai.com/news/the-cma-concludes-its-independent-study-into-the-music-streaming-market/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles River AssociatesThe CMA concludes its independent study into the music...On 29 November 2022, the UK Competition Market Authorit...</p></details>
    Published: November 2022  
 
 19. <a id="endnote-19"></a>
    Source: musiciansunion.org.uk  
    Title: analysis of the competition and markets authority report on music streaming  
-   Link: [https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming](https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionAnalysis of the Competition and Markets Authority Report...16 Aug 2022 — The CMA report highlights some interesting aspe...</p></details>
+   Link: <a href="https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionAnalysis of the Competition and Markets Authority Report...16 Aug 2022  The CMA report highlights some interesting aspe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue](https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition and Markets Authority Says Low Pay From...30 Nov 2022 — The Competition and Markets Authority (CMA) has found that low pay f...</p></details>
+   Link: <a href="https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition and Markets Authority Says Low Pay From...30 Nov 2022  The Competition and Markets Authority (CMA) has found that low pay f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: uk music streaming cma artists  
-   Link: [https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists](https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK music streaming services not making excessive profits...Nov 29, 2022 — Spending on subscriptions to services such as Spotify, Apple M...</p></details>
+   Link: <a href="https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK music streaming services not making excessive profits...Nov 29, 2022  Spending on subscriptions to services such as Spotify, Apple M...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming [royalties](&#123;&#123; 'royalties/' | relative_url &#125;&#125;)  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties for Streaming Music | The MU22 Apr 2026 — The MU Royalties department collects between £1.5 million to £2 million a year for mu...</p></details>
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties for Streaming Music | The MU22 Apr 2026  The MU Royalties department collects between 1.5 million to 2 million a year for mu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: musiciansunion.org.uk  
    Title: government gives view on measures to fix music streaming  
-   Link: [https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming](https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2024 — Government has responded to further recommendations from the Culture, Media and Sport Select Committee on music streaming an...</p></details>
+   Link: <a href="https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2024  Government has responded to further recommendations from the Culture, Media and Sport Select Committee on music streaming an...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: cmulibrary.com  
-   Link: [https://cmulibrary.com/timeline-dcmsstreaminginquiry/](https://cmulibrary.com/timeline-dcmsstreaminginquiry/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline | Economics Of Streaming Inquiry – CMU LibraryIn response to that, the UK government&#x27;s Intellectual Property Office instigated t...</p></details>
+   Link: <a href="https://cmulibrary.com/timeline-dcmsstreaminginquiry/" target="_blank" rel="noopener noreferrer nofollow">https://cmulibrary.com/timeline-dcmsstreaminginquiry/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline | Economics Of Streaming Inquiry  CMU LibraryIn response to that, the UK government&#x27;s Intellectual Property Office instigated t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: slaughterandmay.com  
-   Link: [https://www.slaughterandmay.com/insights/importedcontent/competition-regulatory-newsletter-cma-publishes-final-report-in-music-and-streaming-market-study/](https://www.slaughterandmay.com/insights/importedcontent/competition-regulatory-newsletter-cma-publishes-final-report-in-music-and-streaming-market-study/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition &amp; Regulatory Newsletter: CMA publishes final...7 Dec 2022 — On 29 November 2022, the Competition and Markets Authority publi...</p></details>
+   Link: <a href="https://www.slaughterandmay.com/insights/importedcontent/competition-regulatory-newsletter-cma-publishes-final-report-in-music-and-streaming-market-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.slaughterandmay.com/insights/importedcontent/competition-regulatory-newsletter-cma-publishes-final-report-in-music-and-streaming-market-study/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition &amp; Regulatory Newsletter: CMA publishes final...7 Dec 2022  On 29 November 2022, the Competition and Markets Authority publi...</p></details>
    Published: November 2022  
 
 26. <a id="endnote-26"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/record-labels-welcome-uk-competition-authority-report-on-streaming-as-merck-mercuriadis-slams-cma-for-not-using-powers-they-have-to-fix-the-problems-they-identify/](https://www.musicbusinessworldwide.com/record-labels-welcome-uk-competition-authority-report-on-streaming-as-merck-mercuriadis-slams-cma-for-not-using-powers-they-have-to-fix-the-problems-they-identify/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record labels welcome UK competition authority report on...Nov 30, 2022 — It also concluded that remuneration from streaming is an elite...</p></details>
+   Link: <a href="https://www.musicbusinessworldwide.com/record-labels-welcome-uk-competition-authority-report-on-streaming-as-merck-mercuriadis-slams-cma-for-not-using-powers-they-have-to-fix-the-problems-they-identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/record-labels-welcome-uk-competition-authority-report-on-streaming-as-merck-mercuriadis-slams-cma-for-not-using-powers-they-have-to-fix-the-problems-they-identify/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record labels welcome UK competition authority report on...Nov 30, 2022  It also concluded that remuneration from streaming is an elite...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pec.ac.uk  
-   Link: [https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf](https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>legislative reforms and regulatory interventions”, including measures regulating copyright contracts.Read more...</p></details>
+   Link: <a href="https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>legislative reforms and regulatory interventions, including measures regulating copyright contracts.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: hsfkramer.com  
    Title: cma to undertake and publish its market study into music streaming  
-   Link: [https://www.hsfkramer.com/notes/tmt/2022-07/cma-to-undertake-and-publish-its-market-study-into-music-streaming](https://www.hsfkramer.com/notes/tmt/2022-07/cma-to-undertake-and-publish-its-market-study-into-music-streaming)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deadline for CMA to publish its market study into music...15 Jul 2022 — The purpose of the study is to examine the music streaming marke...</p></details>
+   Link: <a href="https://www.hsfkramer.com/notes/tmt/2022-07/cma-to-undertake-and-publish-its-market-study-into-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.hsfkramer.com/notes/tmt/2022-07/cma-to-undertake-and-publish-its-market-study-into-music-streaming</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deadline for CMA to publish its market study into music...15 Jul 2022  The purpose of the study is to examine the music streaming marke...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ism.org  
    Title: response to competition and markets authority streaming report  
-   Link: [https://www.ism.org/news/ism-response-to-competition-and-markets-authority-streaming-report/](https://www.ism.org/news/ism-response-to-competition-and-markets-authority-streaming-report/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISM response to Competition and Markets Authority...29 Nov 2022 — The CMA had launched a market study of the streaming market in January...</p></details>
+   Link: <a href="https://www.ism.org/news/ism-response-to-competition-and-markets-authority-streaming-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.ism.org/news/ism-response-to-competition-and-markets-authority-streaming-report/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISM response to Competition and Markets Authority...29 Nov 2022  The CMA had launched a market study of the streaming market in January...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: burges-salmon.com  
    Title: the economics of music streaming a shift in uk copyright law  
-   Link: [https://www.burges-salmon.com/articles/102hf39/the-economics-of-music-streaming-a-shift-in-uk-copyright-law/](https://www.burges-salmon.com/articles/102hf39/the-economics-of-music-streaming-a-shift-in-uk-copyright-law/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The economics of Music Streaming – a shift in UK copyright...24 Dec 2021 — The Government&#x27;s Response notes that the CMA is an independen...</p></details>
+   Link: <a href="https://www.burges-salmon.com/articles/102hf39/the-economics-of-music-streaming-a-shift-in-uk-copyright-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.burges-salmon.com/articles/102hf39/the-economics-of-music-streaming-a-shift-in-uk-copyright-law/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The economics of Music Streaming  a shift in UK copyright...24 Dec 2021  The Government&#x27;s Response notes that the CMA is an independen...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: mediawrites.twobirds.com  
    Title: economics of music streaming has there been a reset  
-   Link: [https://mediawrites.twobirds.com/post/102j2do/economics-of-music-streaming-has-there-been-a-reset](https://mediawrites.twobirds.com/post/102j2do/economics-of-music-streaming-has-there-been-a-reset)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming: has there been a &#x27;reset&#x27;?13 Feb 2024 — On 12 December 2023, the UK Parliament&#x27;s Culture, Media and Sport Committee he...</p></details>
+   Link: <a href="https://mediawrites.twobirds.com/post/102j2do/economics-of-music-streaming-has-there-been-a-reset" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102j2do/economics-of-music-streaming-has-there-been-a-reset</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming: has there been a &#x27;reset&#x27;?13 Feb 2024  On 12 December 2023, the UK Parliament&#x27;s Culture, Media and Sport Committee he...</p></details>
    Published: December 2023  
 
 32. <a id="endnote-32"></a>
    Source: create.ac.uk  
    Title: U K Government Responds to DCMS Inquiry into  
-   Link: [https://www.create.ac.uk/blog/2021/09/24/uk-government-responds-to-dcms-inquiry-into-the-economics-of-music-streaming/](https://www.create.ac.uk/blog/2021/09/24/uk-government-responds-to-dcms-inquiry-into-the-economics-of-music-streaming/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CREATe24 Sept 2021 — The wide-ranging DCMS report made recommendations relating to a number of contested issues including: creator remune...</p></details>
+   Link: <a href="https://www.create.ac.uk/blog/2021/09/24/uk-government-responds-to-dcms-inquiry-into-the-economics-of-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/blog/2021/09/24/uk-government-responds-to-dcms-inquiry-into-the-economics-of-music-streaming/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Sept 2021  The wide-ranging DCMS report made recommendations relating to a number of contested issues including: creator remune...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: midiaresearch.com  
    Title: recorded music market 2022 reality bites  
-   Link: [https://www.midiaresearch.com/blog/recorded-music-market-2022-reality-bites](https://www.midiaresearch.com/blog/recorded-music-market-2022-reality-bites)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recorded music market 2022 | Reality bites16 Mar 2023 — UMG added more recorded music revenue in 2022 than the other two majors, adding $...</p></details>
+   Link: <a href="https://www.midiaresearch.com/blog/recorded-music-market-2022-reality-bites" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/recorded-music-market-2022-reality-bites</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recorded music market 2022 | Reality bites16 Mar 2023  UMG added more recorded music revenue in 2022 than the other two majors, adding $...</p></details>

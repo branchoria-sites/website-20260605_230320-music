@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d
 - music_3a01be_afrobeats_global_cir_80f305_uk_afrobeats_nightli_2c85b0
 tags:
-- music
+- music-3-a01-be
 - afrobeats
 - calm-down
 keywords:
-- music
+- music-3-a01-be
 - afrobeats
 - calm-down
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Rema's Selena Gomez remix shows how global pop collaboration can widen Afrobeats' audience without making the African artist secondary.
 hero_summary: Rema's Selena Gomez remix shows how global pop collaboration can widen Afrobeats' audience without making the African artist secondary.
 layout: default
 permalink: /calm-down/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /afrobeats/
 nav_short_title: Calm Down
 title: Did Calm Down Change Pop Crossover Rules?
-title_full: Did Calm Down Change Pop Crossover Rules? | Afrobeats
+title_full: Did Calm Down Change Pop Crossover Rules?
 display_title_short: Calm Down
 display_title: Calm Down
 heading_title: Did Calm Down Change Pop Crossover Rules?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Afrobeats Crossed Global Borders | Music
+parent_title: How Afrobeats Crossed Global Borders
 parent_permalink: /afrobeats/
 parent_nav_short_title: Afrobeats
 parent_heading_title: How Afrobeats Crossed Global Borders
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why UK Parties Mattered for Afrobeats
 up_link:
   basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -265,7 +265,7 @@ next_link:
   permalink: /charts/
   short_title: Charts
   heading_title: Why Afrobeats Needed Its Own Charts
-date: '2026-06-09 07:16:07 '
+date: '2026-06-11 23:39:23 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1.webp
@@ -274,20 +274,18 @@ image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_cro
 
 ## Introduction
 
-Rema’s “Calm Down” remix with Selena Gomez became one of the most important crossover records in Afrobeats history because it expanded the song’s audience without removing the Nigerian artist from the centre of the story. The remix reached major chart milestones across the United States and global markets, helping turn an already successful African hit into a worldwide pop phenomenon. Yet its significance lies not only in its success. It also exposed the limits of pop crossover. The song worked because the collaboration amplified an existing record rather than replacing it, raising a broader question for Afrobeats: when does global collaboration strengthen a scene, and when does it risk making local artists dependent on outside validation? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">rema selena gomez calm down afrobeats hot 100 five burning questions 1235352658</span><span class="citation-popover-snippet">BillboardRema &amp; Selena Gomez&#x27;s &#x27;Calm Down&#x27;13 Jun 2023 — On Billboard&#x27;s U.S. Afrobeats Songs chart, “Calm Down” has now reigned for a stag...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Calm Down (Rema song</span><span class="citation-popover-snippet">Calm Down (Rema song</span></span></span>
-
+Rema’s “Calm Down” remix with Selena Gomez became one of the most important crossover records in Afrobeats history because it expanded the song’s audience without removing the Nigerian artist from the centre of the story. The remix reached major chart milestones across the United States and global markets, helping turn an already successful African hit into a worldwide pop phenomenon. Yet its significance lies not only in its success. It also exposed the limits of pop crossover. The song worked because the collaboration amplified an existing record rather than replacing it, raising a broader question for Afrobeats: when does global collaboration strengthen a scene, and when does it risk making local artists dependent on outside validation? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">rema selena gomez calm down afrobeats hot 100 five burning questions 1235352658</span><span class="citation-popover-snippet">Rema &amp; Selena Gomez&#x27;s &#x27;Calm Down&#x27;13 Jun 2023 — On Billboard&#x27;s U.S. Afrobeats Songs chart, “Calm Down” has now reigned for a stag...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Calm Down (Rema song</span><span class="citation-popover-snippet">Calm Down (Rema song</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1-dark.svg" | relative_url }}" alt="Calm Down illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did Calm Down Change Pop Crossover Rules?
 
-For years, crossover logic in the global [music]({{ 'music/' | relative_url }}) industry often assumed that artists from outside the dominant English-language pop markets needed a Western star to “introduce” them to international audiences. The danger of that model was that the guest artist could become the main attraction while the original artist faded into the [background]({{ 'background/' | relative_url }}).
+For years, crossover logic in the global music industry often assumed that artists from outside the dominant English-language pop markets needed a Western star to “introduce” them to international audiences. The danger of that model was that the guest artist could become the main attraction while the original artist faded into the [background]({{ 'background/' | relative_url }}).
 
 “Calm Down” complicated that assumption. The song was already a recognised hit from Rema’s album *Rave & Roses* before Selena Gomez joined the remix. Rather than launching an unknown track, the remix built on momentum that already existed. As a result, audiences encountered Gomez through Rema’s song rather than the reverse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/wp-content/uploads/2023/05/may-12-2023-billboard-bulletin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">may 12 2023 billboard bulletin</span><span class="citation-popover-snippet">August 2022, Selena Gomez hopped on a remix, and the song began to take off. It eventually topped the. Billboard U.S. Afrobeats Songs...</span><span class="citation-popover-meta">Published: August 2022</span></span></span>
 
 The record eventually became one of the most commercially successful Afrobeats releases ever. It reached the top of Billboard’s Global Excl. US chart, climbed to number three on the Billboard Hot 100, and spent a record-breaking run at number one on the US Afrobeats chart. It also became one of the best-selling global singles of 2023. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billboard U.S. Afrobeats Songs</span><span class="citation-popover-snippet">Billboard U.S. Afrobeats SongsThe longest running number-one song on the U.S. Afrobeats Songs chart is &quot;Calm Down (Remix)&quot; by Rema and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billboard_%28magazine%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billboard (magazine</span><span class="citation-popover-snippet">Billboard (magazine)Billboard (stylized in lowercase since 2013) is an American music and entertainment magazine published weekly by P...</span></span></span>
 
 Those achievements suggested that an African artist could remain the lead creative identity of a crossover hit even when collaborating with one of the world's biggest pop stars.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HBdsf-8dIJw" title="Rema On Selena Gomez, Davido, Reacts To Busy Signal Remix + New Album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HBdsf-8dIJw" target="_blank" rel="noopener noreferrer">Rema On Selena Gomez, Davido, Reacts To Busy Signal Remix + New Album</a></p><p class="youtube-embed-meta">Channel: HOT 97 &middot; Views: 335.6K &middot; Uploaded: April 2023 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HBdsf-8dIJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HBdsf-8dIJw">Open on YouTube</a></p></div></div></div>
 
@@ -300,7 +298,6 @@ The original version showcased characteristics that had helped make Afrobeats gl
 This matters because crossover collaborations often occur at an earlier stage, when labels hope a major guest artist will manufacture [attention]({{ 'attention/' | relative_url }}). In contrast, “Calm Down” entered the partnership from a position of strength. The remix therefore functioned more like an accelerator than a rescue operation.
 
 Critics and music writers frequently noted that the original song did not appear incomplete without a guest feature. Even supporters of the remix often argued that its commercial value exceeded its musical necessity. That distinction is important because it shows the collaboration was additive rather than foundational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thenativemag.com/rise-rema-calm-down-remix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenativemag.com">[The NATIVE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenativemag.com</span><span class="citation-popover-title">rise rema calm down remix</span><span class="citation-popover-snippet">The NATIVEThe Alluring Rise of Rema&#x27;s &quot;Calm Down&quot; Remix With...23 Mar 2023 — The remix of &quot;Calm Down&quot; was always going to shake the worl...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dIwm-YObaRo" title="Rema, Selena Gomez’s ‘Calm Down’ Remix Surpasses One Billion YouTube Views" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dIwm-YObaRo" target="_blank" rel="noopener noreferrer">Rema, Selena Gomez’s ‘Calm Down’ Remix Surpasses One Billion YouTube Views</a></p><p class="youtube-embed-meta">Channel: TVC &middot; Views: 266 &middot; Uploaded: November 2024 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dIwm-YObaRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dIwm-YObaRo">Open on YouTube</a></p></div></div></div>
 
@@ -316,18 +313,16 @@ That balance helped avoid a common criticism of international collaborations, na
 
 The collaboration therefore demonstrated a specific model of circulation: global pop visibility could be used as a distribution channel without requiring complete stylistic assimilation.
 
-
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-2-dark.svg" | relative_url }}" alt="Calm Down illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Artist Control Mattered
 
 The most revealing aspect of the remix may be the degree to which Rema remained identifiable as the song's central figure.
 
-Many crossover records effectively become co-branded products. “Calm Down” retained a different hierarchy. Media coverage, chart reporting and industry discussion continued to describe it primarily as a Rema song featuring Selena Gomez rather than a joint reinvention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">rema selena gomez calm down afrobeats hot 100 five burning questions 1235352658</span><span class="citation-popover-snippet">BillboardRema &amp; Selena Gomez&#x27;s &#x27;Calm Down&#x27;13 Jun 2023 — On Billboard&#x27;s U.S. Afrobeats Songs chart, “Calm Down” has now reigned for a stag...</span></span></span>
+Many crossover records effectively become co-branded products. “Calm Down” retained a different hierarchy. Media coverage, chart reporting and industry discussion continued to describe it primarily as a Rema song featuring Selena Gomez rather than a joint reinvention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">rema selena gomez calm down afrobeats hot 100 five burning questions 1235352658</span><span class="citation-popover-snippet">Rema &amp; Selena Gomez&#x27;s &#x27;Calm Down&#x27;13 Jun 2023 — On Billboard&#x27;s U.S. Afrobeats Songs chart, “Calm Down” has now reigned for a stag...</span></span></span>
 
 This distinction matters because cultural influence is not measured only by streams. It is also measured by authorship. When audiences associate a sound, style or innovation with the originating artist, the scene that produced it gains recognition rather than merely supplying raw material for someone else's success.
 
 The remix therefore became a test case for whether African artists could participate in global pop networks without surrendering creative [ownership]({{ 'ownership/' | relative_url }}). Its success suggested that such a balance was possible, although not guaranteed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIkPepX4rzQ" title="Rema &amp; Selena Gomez &#x27;Calm Down&#x27; Beats WIZKID on BillBoard Hot 100 | How Big For Afrobeats?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIkPepX4rzQ" target="_blank" rel="noopener noreferrer">Rema &amp; Selena Gomez &#x27;Calm Down&#x27; Beats WIZKID on BillBoard Hot 100 | How Big For Afrobeats?</a></p><p class="youtube-embed-meta">Channel: Gusto TV Africa &middot; Views: 391 &middot; Uploaded: March 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIkPepX4rzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIkPepX4rzQ">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +335,6 @@ One limitation is that the remix benefited from unusually favourable conditions.
 A second limitation is that crossover success can create distorted expectations. After the enormous achievements of “Calm Down”, industry observers began treating international collaborations as a formula for global breakthrough. Yet subsequent years have shown that high-profile features alone do not guarantee comparable results. Commentary on the post-2023 Afrobeats market has frequently pointed to declining chart impact despite continued international partnerships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Nobody knows what works</span><span class="citation-popover-snippet">There&#x27;s a lot of panic&#x27;: can African pop get back to global success?April 22, 2026 — In recent years, Afrobeats has faced a sharp decline...</span><span class="citation-popover-meta">Published: April 22, 2026</span></span></span>
 
 There is also a cultural risk. If crossover collaborations become the primary route to recognition, audiences may unconsciously treat Western co-signs as the measure of artistic legitimacy. That would undermine one of the most significant lessons of “Calm Down”: the song succeeded because a Nigerian hit travelled outward, not because it was transformed into something else.
-
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-3-dark.svg" | relative_url }}" alt="Calm Down illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Remix Revealed About Global Music Circulation
@@ -748,73 +742,73 @@ For that reason, the song stands as both a model and a warning: a model of how g
 1. <a id="endnote-1"></a>
    Source: billboard.com  
    Title: rema selena gomez calm down afrobeats hot 100 five burning questions 1235352658  
-   Link: [https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/](https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardRema &amp; Selena Gomez&#x27;s &#x27;Calm Down&#x27;13 Jun 2023 — On Billboard&#x27;s U.S. Afrobeats Songs chart, “Calm Down” has now reigned for a stag...</p></details>
+   Link: <a href="https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-afrobeats-hot-100-five-burning-questions-1235352658/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rema &amp; Selena Gomez&#x27;s &#x27;Calm Down&#x27;13 Jun 2023 — On Billboard&#x27;s U.S. Afrobeats Songs chart, “Calm Down” has now reigned for a stag...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Calm Down (Rema song)  
-   Link: [https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29](https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calm_Down_%28Rema_song%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: billboard.com  
    Title: may 12 2023 billboard bulletin  
-   Link: [https://www.billboard.com/wp-content/uploads/2023/05/may-12-2023-billboard-bulletin.pdf](https://www.billboard.com/wp-content/uploads/2023/05/may-12-2023-billboard-bulletin.pdf)  
+   Link: <a href="https://www.billboard.com/wp-content/uploads/2023/05/may-12-2023-billboard-bulletin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/wp-content/uploads/2023/05/may-12-2023-billboard-bulletin.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 2022, Selena Gomez hopped on a remix, and the song began to take off. It eventually topped the. Billboard U.S. Afrobeats Songs...</p></details>
    Published: August 2022  
 
 4. <a id="endnote-4"></a>
    Source: thenativemag.com  
    Title: rise rema calm down remix  
-   Link: [https://thenativemag.com/rise-rema-calm-down-remix/](https://thenativemag.com/rise-rema-calm-down-remix/)  
+   Link: <a href="https://thenativemag.com/rise-rema-calm-down-remix/" target="_blank" rel="noopener noreferrer nofollow">https://thenativemag.com/rise-rema-calm-down-remix/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NATIVEThe Alluring Rise of Rema&#x27;s &quot;Calm Down&quot; Remix With...23 Mar 2023 — The remix of &quot;Calm Down&quot; was always going to shake the worl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Billboard U.S. Afrobeats Songs  
-   Link: [https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs](https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard U.S. Afrobeats SongsThe longest running number-one song on the U.S. Afrobeats Songs chart is &quot;Calm Down (Remix)&quot; by Rema and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: billboard.com  
    Title: Rema & Selena Gomez's 'Calm Down' Hits No  
-   Link: [https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-number-1-adult-pop-airplay-chart-1235370775/](https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-number-1-adult-pop-airplay-chart-1235370775/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-number-1-adult-pop-airplay-chart-1235370775/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/rema-selena-gomez-calm-down-number-1-adult-pop-airplay-chart-1235370775/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 on Adult...13 Jul 2023 — “Calm Down” has topped the Billboard U.S. Afrobeats Songs chart for 45 weeks running, the longest command sin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Billboard (magazine)  
-   Link: [https://en.wikipedia.org/wiki/Billboard_%28magazine%29](https://en.wikipedia.org/wiki/Billboard_%28magazine%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_%28magazine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_%28magazine%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard (magazine)Billboard (stylized in lowercase since 2013) is an American music and entertainment magazine published weekly by P...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: guardian.ng  
-   Link: [https://guardian.ng/life/remas-calm-down-set-to-break-new-record-as-longest-charting-african-song-on-billboard-hot-100/](https://guardian.ng/life/remas-calm-down-set-to-break-new-record-as-longest-charting-african-song-on-billboard-hot-100/)  
+   Link: <a href="https://guardian.ng/life/remas-calm-down-set-to-break-new-record-as-longest-charting-african-song-on-billboard-hot-100/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/life/remas-calm-down-set-to-break-new-record-as-longest-charting-african-song-on-billboard-hot-100/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rema&#x27;s &#x27;Calm Down&#x27; Set To Break New Record as Longest...9 May 2023 — Rema&#x27;s &#x27;Calm Down&#x27; has now spent 35 weeks on the Billboard Hot 100...</p></details>
    Published: May 2023  
 
 9. <a id="endnote-9"></a>
    Source: guardian.ng  
    Title: remas calm down shatters records one year on us billboard  
-   Link: [https://guardian.ng/life/remas-calm-down-shatters-records-one-year-on-us-billboard/](https://guardian.ng/life/remas-calm-down-shatters-records-one-year-on-us-billboard/)  
+   Link: <a href="https://guardian.ng/life/remas-calm-down-shatters-records-one-year-on-us-billboard/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/life/remas-calm-down-shatters-records-one-year-on-us-billboard/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rema&#x27;s &#x27;Calm Down&#x27; Shatters Records: One Year On US...29 Aug 2023 — Nigerian singer Rema&#x27;s song “Calm Down” has made history by becoming...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: rollingstone.com  
    Title: rema heis calm down afrobeats nigeria 1235293402  
-   Link: [https://www.rollingstone.com/music/music-features/rema-heis-calm-down-afrobeats-nigeria-1235293402/](https://www.rollingstone.com/music/music-features/rema-heis-calm-down-afrobeats-nigeria-1235293402/)  
+   Link: <a href="https://www.rollingstone.com/music/music-features/rema-heis-calm-down-afrobeats-nigeria-1235293402/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-features/rema-heis-calm-down-afrobeats-nigeria-1235293402/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneHow Rema Became an Afrobeats Visionary14 Mar 2025 — Though “Calm Down” had been doing well on its own, it exploded with Gome...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: channelstv.com  
    Title: remas calm down remix with selena gomez makes billboard hot 100  
-   Link: [https://www.channelstv.com/2022/09/13/remas-calm-down-remix-with-selena-gomez-makes-billboard-hot-100/](https://www.channelstv.com/2022/09/13/remas-calm-down-remix-with-selena-gomez-makes-billboard-hot-100/)  
+   Link: <a href="https://www.channelstv.com/2022/09/13/remas-calm-down-remix-with-selena-gomez-makes-billboard-hot-100/" target="_blank" rel="noopener noreferrer nofollow">https://www.channelstv.com/2022/09/13/remas-calm-down-remix-with-selena-gomez-makes-billboard-hot-100/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Channels TelevisionRema&#x27;s &#x27;Calm Down&#x27; Remix With Selena Gomez Makes...13 Sept 2022 — The video which dropped on the 7th of September has...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian'Nobody knows what works  
-   Link: [https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy](https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy)  
+   Link: <a href="https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/apr/22/african-pop-panic-global-success-afrobeats-rema-burna-boy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s a lot of panic&#x27;: can African pop get back to global success?April 22, 2026 — In recent years, Afrobeats has faced a sharp decline...</p></details>
    Published: April 22, 2026  
 
@@ -822,53 +816,53 @@ For that reason, the song stands as both a model and a warning: a model of how g
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385682266_The_Rise_of_Afrobeats_Musical_Culture_Combinations_on_Calm_Down_Song_Kebangkitan_Afrobeats_Kombinasi_Budaya_Musikal_pada_Lagu_Calm_Down](https://www.researchgate.net/publication/385682266_The_Rise_of_Afrobeats_Musical_Culture_Combinations_on_Calm_Down_Song_Kebangkitan_Afrobeats_Kombinasi_Budaya_Musikal_pada_Lagu_Calm_Down)  
+   Link: <a href="https://www.researchgate.net/publication/385682266_The_Rise_of_Afrobeats_Musical_Culture_Combinations_on_Calm_Down_Song_Kebangkitan_Afrobeats_Kombinasi_Budaya_Musikal_pada_Lagu_Calm_Down" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385682266_The_Rise_of_Afrobeats_Musical_Culture_Combinations_on_Calm_Down_Song_Kebangkitan_Afrobeats_Kombinasi_Budaya_Musikal_pada_Lagu_Calm_Down</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Afrobeats: Musical [Culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;) Combinations on...9 Nov 2024 — This research aims to analyze and describe the popularity of the s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1305097843467627/posts/1949602775683794/](https://www.facebook.com/groups/1305097843467627/posts/1949602775683794/)  
+   Link: <a href="https://www.facebook.com/groups/1305097843467627/posts/1949602775683794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1305097843467627/posts/1949602775683794/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calm Down remix named top one-hit wonderRema&#x27;s Calm Down remix with Selena Gomez became the most streamed Afrobeats song ever, it broke g...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DBI_0C3MdoA/](https://www.instagram.com/p/DBI_0C3MdoA/)  
+   Link: <a href="https://www.instagram.com/p/DBI_0C3MdoA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DBI_0C3MdoA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>REMA &amp; @selenagomez&#x27;s &#x27;Calm Down&#x27; spends 59 weeks...REMA &amp; @selenagomez&#x27;s &#x27;Calm Down&#x27; spends 59 weeks at #1 on the Billboard U.S Afrobea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eiighanaafrica.com  
-   Link: [https://eiighanaafrica.com/news/rema-selena-gomez-s-calm-down-ranks-177-on-billboard-s-greatest-of-all-time-songs-of-the-summer-chart-the-only-african-song-on-the-list](https://eiighanaafrica.com/news/rema-selena-gomez-s-calm-down-ranks-177-on-billboard-s-greatest-of-all-time-songs-of-the-summer-chart-the-only-african-song-on-the-list)  
+   Link: <a href="https://eiighanaafrica.com/news/rema-selena-gomez-s-calm-down-ranks-177-on-billboard-s-greatest-of-all-time-songs-of-the-summer-chart-the-only-african-song-on-the-list" target="_blank" rel="noopener noreferrer nofollow">https://eiighanaafrica.com/news/rema-selena-gomez-s-calm-down-ranks-177-on-billboard-s-greatest-of-all-time-songs-of-the-summer-chart-the-only-african-song-on-the-list</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rema &amp; Selena Gomez&#x27;s “Calm Down” Ranks #177 on...10 Jun 2025 — Rema &amp; Selena Gomez&#x27;s “Calm Down” Ranks #177 on Billboard&#x27;s Greatest of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GIkPepX4rzQ](https://www.youtube.com/watch?v=GIkPepX4rzQ)  
+   Link: <a href="https://www.youtube.com/watch?v=GIkPepX4rzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GIkPepX4rzQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rema &amp; Selena Gomez &#x27;Calm Down&#x27; Beats WIZKID on...Rema &amp; Selena Gomez &#x27;Calm Down&#x27; Beats WIZKID on BillBoard Hot 100 | How Big For Afrobe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: armyofselenagomez.com  
    Title: Army of Selena Gomez Calm Down by Rema & Selena Gomez marks historic No  
-   Link: [https://armyofselenagomez.com/news/370648/](https://armyofselenagomez.com/news/370648/)  
+   Link: <a href="https://armyofselenagomez.com/news/370648/" target="_blank" rel="noopener noreferrer nofollow">https://armyofselenagomez.com/news/370648/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 on...May 9, 2023 — “Calm Down” claims a second week atop the Rhythmic Airplay chart, after it became each artist&#x27;s first No. 1. It als...</p></details>
    Published: May 9, 2023  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100083421217289/posts/remas-is-single-handedly-carrying-afrobeatswizkid-and-davido-have-officially-bee/657028480421187/](https://www.facebook.com/100083421217289/posts/remas-is-single-handedly-carrying-afrobeatswizkid-and-davido-have-officially-bee/657028480421187/)  
+   Link: <a href="https://www.facebook.com/100083421217289/posts/remas-is-single-handedly-carrying-afrobeatswizkid-and-davido-have-officially-bee/657028480421187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083421217289/posts/remas-is-single-handedly-carrying-afrobeatswizkid-and-davido-have-officially-bee/657028480421187/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The track amassed over 2.5 billion streams worldwide and generated more than $5...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: It's 9️⃣ consecutive weeks Number 1 for @tyla and #  
-   Link: [https://www.facebook.com/OfficialCharts/posts/its-9%EF%B8%8F%E2%83%A3-consecutive-weeks-number-1-for-tyla-and-chanel-on-the-official-afrobeats/1277750727719324/](https://www.facebook.com/OfficialCharts/posts/its-9%EF%B8%8F%E2%83%A3-consecutive-weeks-number-1-for-tyla-and-chanel-on-the-official-afrobeats/1277750727719324/)  
+   Link: <a href="https://www.facebook.com/OfficialCharts/posts/its-9%EF%B8%8F%E2%83%A3-consecutive-weeks-number-1-for-tyla-and-chanel-on-the-official-afrobeats/1277750727719324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialCharts/posts/its-9%EF%B8%8F%E2%83%A3-consecutive-weeks-number-1-for-tyla-and-chanel-on-the-official-afrobeats/1277750727719324/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 on the Billboard US Afrobeats chart, surpassing Rema and Selena Gomez (60). Rema and Selena both spent 59 weeks at the top with &#x27;Calm D...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DBKG8zQo5NQ/](https://www.instagram.com/p/DBKG8zQo5NQ/)  
+   Link: <a href="https://www.instagram.com/p/DBKG8zQo5NQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DBKG8zQo5NQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ong has now spent 59 weeks at #1 and 134 weeks on the chart… Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVgUapJibsZ/](https://www.instagram.com/reel/DVgUapJibsZ/)  
+   Link: <a href="https://www.instagram.com/reel/DVgUapJibsZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVgUapJibsZ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ach of Afrobeats. Originally released in early 2022 from his...</p></details>

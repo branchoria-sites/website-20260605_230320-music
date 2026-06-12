@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c
 - music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e
 tags:
-- music
+- music-3-a01-be
 - ai-training
 - voice-imitation
 keywords:
-- music
+- music-3-a01-be
 - ai-training
 - voice-imitation
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: AI songs may avoid copying a track directly while still imitating a singer's voice, style or sonic identity.
 hero_summary: AI songs may avoid copying a track directly while still imitating a singer's voice, style or sonic identity.
 layout: default
 permalink: /voice-imitation/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-training/
 nav_short_title: Voice Imitation
 title: When AI sounds too much like an artist
-title_full: When AI sounds too much like an artist | AI Training
+title_full: When AI sounds too much like an artist
 display_title_short: Voice Imitation
 display_title: Voice Imitation
 heading_title: When AI sounds too much like an artist
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Learn From Copyrighted Music? | Music
+parent_title: Can AI Learn From Copyrighted Music?
 parent_permalink: /ai-training/
 parent_nav_short_title: AI Training
 parent_heading_title: Can AI Learn From Copyrighted Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The hidden dataset problem in AI music
 up_link:
   basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /transparency-d9b91c/
   short_title: Transparency
   heading_title: The hidden dataset problem in AI music
-date: '2026-06-09 07:19:45 '
+date: '2026-06-11 23:41:22 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imit
 
 ## Introduction
 
-AI [music]({{ 'music/' | relative_url }}) systems can generate songs that do not directly copy an existing [recording]({{ 'recording/' | relative_url }}) yet still sound strikingly like a particular performer. This has created one of the most difficult copyright-era questions in music: what happens when a model reproduces an artist’s vocal identity, phrasing, tone and performance style without reproducing a specific copyrighted track?
-
+AI music systems can generate songs that do not directly copy an existing [recording]({{ 'recording/' | relative_url }}) yet still sound strikingly like a particular performer. This has created one of the most difficult copyright-era questions in music: what happens when a model reproduces an artist’s vocal identity, phrasing, tone and performance style without reproducing a specific copyrighted track?
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1-dark.svg" | relative_url }}" alt="Voice Imitation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The controversy sits at the intersection of copyright, performer [rights]({{ 'rights/' | relative_url }}), publicity rights and emerging AI regulation. Copyright law generally protects songs and recordings, not broad artistic styles. Yet listeners often recognise artists through their voices more than through any individual composition. As AI models become better at reproducing vocal characteristics, disputes increasingly focus on whether a synthetic performance appropriates something valuable that traditional copyright does not clearly cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sandiegotroubadour.com/who-owns-your-voice-ai-deepfakes-and-the-musicians-right-of-publicity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegotroubadour.com">[sandiegotroubadour.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegotroubadour.com</span><span class="citation-popover-title">Who Owns Your Voice?</span><span class="citation-popover-snippet">AI, Deepfakes, and the Musician&#x27;s...Here&#x27;s the issue: these AI creations don&#x27;t often use existing copyrighted material. Instead, they im...</span></span></span>
@@ -280,9 +279,9 @@ The central mechanism is straightforward. A music model is trained on large coll
 
 This distinction matters because copyright infringement traditionally depends on copying protected expression from a specific work. A synthetic performance may be entirely new at the note and waveform level while still creating the impression that a particular artist is singing. That creates a gap between what audiences perceive and what copyright law has historically protected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">AI-generated art doesn&#x27;t qualify for copyright protection “Heart on My Sleeve” the new song, which impeccably mimicked the...</span></span></span>
 
-Researchers have long described voice impersonation as more than simple sound replication. Effective impersonation requires reproducing the target speaker's perceived vocal qualities and stylistic traits so that listeners identify the synthetic voice as belonging to that person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Voice Impersonation using Generative Adversarial Networks</span><span class="citation-popover-snippet">arXivVoice Impersonation using Generative Adversarial NetworksFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
+Researchers have long described voice impersonation as more than simple sound replication. Effective impersonation requires reproducing the target speaker's perceived vocal qualities and stylistic traits so that listeners identify the synthetic voice as belonging to that person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Voice Impersonation using Generative Adversarial Networks</span><span class="citation-popover-snippet">Voice Impersonation using Generative Adversarial NetworksFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
 
-The result is that AI-generated music can compete for attention using an artist's recognisable identity without necessarily reproducing a protected recording.
+The result is that AI-generated music can compete for [attention]({{ 'attention/' | relative_url }}) using an artist's recognisable identity without necessarily reproducing a protected recording.
 
 ## Why style is hard to protect
 
@@ -296,7 +295,6 @@ This creates a practical problem for musicians. Commercial value often resides i
 
 The tension therefore arises from a mismatch:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Copyright protects recordings and compositions.
@@ -306,7 +304,6 @@ The tension therefore arises from a mismatch:
 </div>
 
 That mismatch explains why many disputes about AI music have expanded beyond traditional copyright arguments.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eExdDa1kgaM" title="AI Voice Cloning for Musicians: What You Can Really Do With It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eExdDa1kgaM" target="_blank" rel="noopener noreferrer">AI Voice Cloning for Musicians: What You Can Really Do With It</a></p><p class="youtube-embed-meta">Channel: Songs By Spencer &middot; Views: 70.1K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eExdDa1kgaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eExdDa1kgaM">Open on YouTube</a></p></div></div></div>
 
@@ -320,18 +317,17 @@ Many jurisdictions recognise some form of right protecting a person's commercial
 
 This approach shifts the question from "Was a copyrighted recording copied?" to "Was a person's identity appropriated?"
 
-The viral AI track "[Heart on My Sleeve]({{ 'fake-drake/' | relative_url }})" became a landmark example. The song was not presented as an official recording by Drake and The Weeknd, yet it was designed to sound as though those artists were performing it. The track accumulated millions of views and streams before being removed from major platforms, triggering debate over whether the problem was copyright infringement, identity appropriation, or both. Harvard Law School <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/04/ai-generated-music-and-copyright.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffordchance.com">[Clifford Chance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffordchance.com</span><span class="citation-popover-title">ai generated music and copyright</span><span class="citation-popover-snippet">AI-Generated Music and Copyright27 Apr 2023 — The track &#x27;heart on my sleeve&#x27; sounded like it was sung by two of... One of the latest inn...</span></span></span>
+The viral AI track "Heart on My Sleeve" became a landmark example. The song was not presented as an official recording by Drake and The Weeknd, yet it was designed to sound as though those artists were performing it. The track accumulated millions of views and streams before being removed from major platforms, triggering debate over whether the problem was copyright infringement, identity appropriation, or both. Harvard Law School <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/04/ai-generated-music-and-copyright.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffordchance.com">[Clifford Chance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffordchance.com</span><span class="citation-popover-title">ai generated music and copyright</span><span class="citation-popover-snippet">AI-Generated Music and Copyright27 Apr 2023 — The track &#x27;heart on my sleeve&#x27; sounded like it was sung by two of... One of the latest inn...</span></span></span>
 
 ### Emerging legal protections
 
 Several recent legal developments indicate growing concern over AI voice replication.
 
-In the United States, state-level initiatives have begun explicitly addressing AI voice clones. Tennessee's ELVIS Act created protections aimed at unauthorised AI-generated voice replicas and recognised voice as a protected personal attribute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jessicaeavesmathewslaw.com/post/when-someone-feeds-your-voice-to-ai-a-singer-s-legal-rights-in-the-age-of-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jessicaeavesmathewslaw.com">[JEM Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jessicaeavesmathewslaw.com</span><span class="citation-popover-snippet">JEM LawWhen Someone Feeds Your Voice to AI: A Singer&#x27;s Legal...Mar 6, 2026 — Prohibits publishing or distributing AI-generated replicas...</span></span></span>
+In the United States, state-level initiatives have begun explicitly addressing AI [voice clones]({{ 'voice-clones/' | relative_url }}). Tennessee's ELVIS Act created protections aimed at unauthorised AI-generated voice replicas and recognised voice as a protected personal attribute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jessicaeavesmathewslaw.com/post/when-someone-feeds-your-voice-to-ai-a-singer-s-legal-rights-in-the-age-of-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jessicaeavesmathewslaw.com">[JEM Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jessicaeavesmathewslaw.com</span><span class="citation-popover-snippet">JEM LawWhen Someone Feeds Your Voice to AI: A Singer&#x27;s Legal...Mar 6, 2026 — Prohibits publishing or distributing AI-generated replicas...</span></span></span>
 
 Courts in other jurisdictions have also begun considering claims by performers whose voices and singing styles were allegedly used to create AI-generated imitations. In India, prominent singers including Asha Bhosle and Arijit Singh have sought legal protection against unauthorised AI voice models and synthetic reproductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-bombay-high-court-grants-temporary-relief-to-legendary-singer-asha-bhosle-in-plea-against-ai-platforms-for-protection-of-personality-rights/articleshow/124219595.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Bhosle claimed that the platforms used AI to create illicit voice models by modifying her original recordings to replicate her voice, sin...</span></span></span>
 
 These cases demonstrate that disputes over AI-generated singing increasingly involve personality and performer rights rather than copyright alone.
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-2-dark.svg" | relative_url }}" alt="Voice Imitation illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The "Fake Drake" problem
@@ -341,7 +337,6 @@ The importance of voice imitation became clear when AI-generated tracks started 
 "Heart on My Sleeve" succeeded not because it copied a specific Drake or Weeknd song, but because many listeners felt it captured their vocal identities. The recording demonstrated that synthetic performers could achieve commercial attention by borrowing the credibility and recognisability of established artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">AI-generated art doesn&#x27;t qualify for copyright protection “Heart on My Sleeve” the new song, which impeccably mimicked the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heart on My Sleeve (Ghostwriter977 song</span><span class="citation-popover-snippet">The song had accrued attention on TikTok and had garnered millions...Read more...</span></span></span>
 
 The incident exposed several risks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,7 +348,6 @@ The incident exposed several risks:
 </div>
 
 These concerns have fuelled calls for clearer protections against AI-generated vocal impersonation even when conventional copyright infringement is difficult to prove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://washingtonlawreview.org/fake-drake-ai-music-generation-implicates-copyright-and-the-right-of-publicity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonlawreview.org">[Washington Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonlawreview.org</span><span class="citation-popover-title">Washington Law Review Fake Drake?</span><span class="citation-popover-snippet">AI Music Generation Implicates Copyright and...Oct 1, 2024 — Copyright law will then be applied to the AI-generated soundalike song, “He...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Air2TTItcN0" title="LEGALLY Generate AI Voices Of Major Artist&#x27;s With YouTube AI VOICE CLONING TOOL 🤖" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Air2TTItcN0" target="_blank" rel="noopener noreferrer">LEGALLY Generate AI Voices Of Major Artist&#x27;s With YouTube AI VOICE CLONING TOOL 🤖</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 360 &middot; Uploaded: October 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Air2TTItcN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Air2TTItcN0">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +365,6 @@ A model could produce outputs that avoid direct copyright infringement while sti
 
 This distinction is crucial in ongoing music-industry litigation. Record labels have argued that training itself may involve unauthorised copying of recordings, while separate disputes concern whether generated outputs imitate artists' voices or identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-3-dark.svg" | relative_url }}" alt="Voice Imitation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this remains an unresolved copyright challenge
 
@@ -381,9 +374,7 @@ As AI systems improve, the economic value of an artist's voice becomes easier to
 
 The core challenge is not merely whether AI copied a song. It is whether an artist's distinctive vocal presence—the quality that makes listeners instantly recognise them—can be reproduced by machines without permission. AI-generated music has made that question impossible for the music industry to ignore. Harvard Law School <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">When the beat goes on without you</span><span class="citation-popover-snippet">On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nd3xCd_R9KE" title="Is AI Voice Cloning Legal? Intellectual Property &amp; Likeness Rights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nd3xCd_R9KE" target="_blank" rel="noopener noreferrer">Is AI Voice Cloning Legal? Intellectual Property &amp; Likeness Rights</a></p><p class="youtube-embed-meta">Channel: Xcelus &middot; Views: 90 &middot; Uploaded: January 2026 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nd3xCd_R9KE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nd3xCd_R9KE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -502,15 +493,15 @@ The core challenge is not merely whether AI copied a song. It is whether an arti
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�"><img src="{{ '/assets/images/marketplace-covers/00f084cb9f70521dfe10.jpg' | relative_url }}" alt="Listing image for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EPMD Vintage 1988 RUSH Productions Winterland Poster NEW Dead Stock Rolled 60"><img src="https://i.ebayimg.com/images/g/v6AAAeSwFd5p2mPs/s-l225.jpg" alt="Listing image for EPMD Vintage 1988 RUSH Productions Winterland Poster NEW Dead Stock Rolled 60" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">EPMD Vintage 1988 RUSH Productions Winterland Poster NEW Dead Stock Rolled 60</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +509,15 @@ The core challenge is not merely whether AI copied a song. It is whether an arti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE"><img src="{{ '/assets/images/marketplace-covers/9e6b0e9379405eb4797b.jpg' | relative_url }}" alt="Listing image for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide"><img src="https://i.ebayimg.com/images/g/tuQAAOSwXM1llTqG/s-l225.jpg" alt="Listing image for Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +525,15 @@ The core challenge is not merely whether AI copied a song. It is whether an arti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift"><img src="{{ '/assets/images/marketplace-covers/580ec3ae4384bc88b889.jpg' | relative_url }}" alt="Listing image for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Michael Jackson Who&#x27;s Bad poster - late 1980&#x27;s AM productions London"><img src="https://i.ebayimg.com/images/g/CUYAAeSwOTJpE0Qc/s-l225.jpg" alt="Listing image for Vintage Michael Jackson Who&#x27;s Bad poster - late 1980&#x27;s AM productions London" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Michael Jackson Who&#x27;s Bad poster - late 1980&#x27;s AM productions London</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +541,15 @@ The core challenge is not merely whether AI copied a song. It is whether an arti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/e574b85e6ea7837f77e8.jpg' | relative_url }}" alt="Listing image for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ACDC (stiff upper lip) TEXTILE FABRIC EXTRA LARGE VINTAGE POSTER ) NEW BOXED"><img src="https://i.ebayimg.com/images/g/VdYAAeSwo9VpSCwg/s-l225.jpg" alt="Listing image for ACDC (stiff upper lip) TEXTILE FABRIC EXTRA LARGE VINTAGE POSTER ) NEW BOXED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">ACDC (stiff upper lip) TEXTILE FABRIC EXTRA LARGE VINTAGE POSTER ) NEW BOXED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +557,7 @@ The core challenge is not merely whether AI copied a song. It is whether an arti
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="voice-imitation-when-ai-sounds-too-much-like-an-artist-music-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-sounds-too-much-like-an-artist-music-production-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster" data-ebay-reference="when-ai-sounds-too-much-like-an-artist-music-production-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,173 +773,173 @@ The core challenge is not merely whether AI copied a song. It is whether an arti
 1. <a id="endnote-1"></a>
    Source: sandiegotroubadour.com  
    Title: Who Owns Your Voice?  
-   Link: [https://sandiegotroubadour.com/who-owns-your-voice-ai-deepfakes-and-the-musicians-right-of-publicity/](https://sandiegotroubadour.com/who-owns-your-voice-ai-deepfakes-and-the-musicians-right-of-publicity/)  
+   Link: <a href="https://sandiegotroubadour.com/who-owns-your-voice-ai-deepfakes-and-the-musicians-right-of-publicity/" target="_blank" rel="noopener noreferrer nofollow">https://sandiegotroubadour.com/who-owns-your-voice-ai-deepfakes-and-the-musicians-right-of-publicity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, Deepfakes, and the Musician&#x27;s...Here&#x27;s the issue: these AI creations don&#x27;t often use existing copyrighted material. Instead, they im...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: hls.harvard.edu  
-   Link: [https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/](https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/)  
+   Link: <a href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-generated art doesn&#x27;t qualify for copyright protection “Heart on My Sleeve” the new song, which impeccably mimicked the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Voice Impersonation using Generative Adversarial Networks  
-   Link: [https://arxiv.org/abs/1802.06840](https://arxiv.org/abs/1802.06840)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivVoice Impersonation using Generative Adversarial NetworksFebruary 19, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1802.06840" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06840</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice Impersonation using Generative Adversarial NetworksFebruary 19, 2018...</p></details>
    Published: February 19, 2018  
 
 4. <a id="endnote-4"></a>
    Source: vklaw.com  
    Title: Can AI Copy My Voice?  
-   Link: [https://www.vklaw.com/ImagineThatIPLawBlog/can-ai-copy-my-voice-navigating-identity-music-and-intellectual-property](https://www.vklaw.com/ImagineThatIPLawBlog/can-ai-copy-my-voice-navigating-identity-music-and-intellectual-property)  
+   Link: <a href="https://www.vklaw.com/ImagineThatIPLawBlog/can-ai-copy-my-voice-navigating-identity-music-and-intellectual-property" target="_blank" rel="noopener noreferrer nofollow">https://www.vklaw.com/ImagineThatIPLawBlog/can-ai-copy-my-voice-navigating-identity-music-and-intellectual-property</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Identity, Music, and...23 May 2026 — Currently, there is no single federal law uniformly banning the unauthorized creation of...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Heart on My Sleeve (Ghostwriter977 song)  
-   Link: [https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29](https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_%28Ghostwriter977_song%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The song had accrued attention on TikTok and had garnered millions...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
    Title: When the beat goes on without you  
-   Link: [https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/](https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</p></details>
    Published: April 27, 2026  
 
 7. <a id="endnote-7"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficePart 3: Generative [AI Training](&amp;#123;&amp;#123; &#x27;ai-training/&#x27; | relative_url &amp;#125;&amp;#125;) pre-publication version6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyrigh...</p></details>
    Published: May 2025  
 
 8. <a id="endnote-8"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/](https://www.copyright.gov/ai/)  
+   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCopyright and Artificial Intelligence | U.S. Copyright OfficeCopyright and Artificial Intelligence analyzes copyright law...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music](https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music)  
+   Link: <a href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright and Artificial Intelligence, Part 1: Digital Replicas21 Jul 2024 — The Office believes that digital replica rights in an indivi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office addresses the legal and policy issues related to artificial intelligence (“AI”) and copyright, as...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: washingtonlawreview.org  
    Title: Washington Law Review [Fake Drake](&#123;&#123; 'fake-drake/' | relative_url &#125;&#125;)?  
-   Link: [https://washingtonlawreview.org/fake-drake-ai-music-generation-implicates-copyright-and-the-right-of-publicity/](https://washingtonlawreview.org/fake-drake-ai-music-generation-implicates-copyright-and-the-right-of-publicity/)  
+   Link: <a href="https://washingtonlawreview.org/fake-drake-ai-music-generation-implicates-copyright-and-the-right-of-publicity/" target="_blank" rel="noopener noreferrer nofollow">https://washingtonlawreview.org/fake-drake-ai-music-generation-implicates-copyright-and-the-right-of-publicity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music Generation Implicates Copyright and...Oct 1, 2024 — Copyright law will then be applied to the AI-generated soundalike song, “He...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cliffordchance.com  
    Title: ai generated music and copyright  
-   Link: [https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/04/ai-generated-music-and-copyright.html](https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/04/ai-generated-music-and-copyright.html)  
+   Link: <a href="https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/04/ai-generated-music-and-copyright.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/04/ai-generated-music-and-copyright.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Music and Copyright27 Apr 2023 — The track &#x27;heart on my sleeve&#x27; sounded like it was sung by two of... One of the latest inn...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jessicaeavesmathewslaw.com  
-   Link: [https://www.jessicaeavesmathewslaw.com/post/when-someone-feeds-your-voice-to-ai-a-singer-s-legal-rights-in-the-age-of-voice-cloning](https://www.jessicaeavesmathewslaw.com/post/when-someone-feeds-your-voice-to-ai-a-singer-s-legal-rights-in-the-age-of-voice-cloning)  
+   Link: <a href="https://www.jessicaeavesmathewslaw.com/post/when-someone-feeds-your-voice-to-ai-a-singer-s-legal-rights-in-the-age-of-voice-cloning" target="_blank" rel="noopener noreferrer nofollow">https://www.jessicaeavesmathewslaw.com/post/when-someone-feeds-your-voice-to-ai-a-singer-s-legal-rights-in-the-age-of-voice-cloning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JEM LawWhen Someone Feeds Your Voice to AI: A Singer&#x27;s Legal...Mar 6, 2026 — Prohibits publishing or distributing AI-generated replicas...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/city/mumbai/mumbai-bombay-high-court-grants-temporary-relief-to-legendary-singer-asha-bhosle-in-plea-against-ai-platforms-for-protection-of-personality-rights/articleshow/124219595.cms](https://timesofindia.indiatimes.com/city/mumbai/mumbai-bombay-high-court-grants-temporary-relief-to-legendary-singer-asha-bhosle-in-plea-against-ai-platforms-for-protection-of-personality-rights/articleshow/124219595.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-bombay-high-court-grants-temporary-relief-to-legendary-singer-asha-bhosle-in-plea-against-ai-platforms-for-protection-of-personality-rights/articleshow/124219595.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/mumbai/mumbai-bombay-high-court-grants-temporary-relief-to-legendary-singer-asha-bhosle-in-plea-against-ai-platforms-for-protection-of-personality-rights/articleshow/124219595.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bhosle claimed that the platforms used AI to create illicit voice models by modifying her original recordings to replicate her voice, sin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696](https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696)  
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office on AI: Human creativity still matters...24 Apr 2025 — The US Copyright Office in 2023 launched its initiative to exa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/heart](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/heart)  
+   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/heart" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/heart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgHEART中文(繁體)翻譯：劍橋詞典HEART翻譯：器官, 心臟, 感情, 性情；內心；心腸, 中心, 中心，中央；重點，要點, 菜心, 勇敢, 勇氣;決心;希望, 形狀, （用來表示愛情的）心形, （紙牌）紅心牌, 喜歡，喜愛。...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: rimonlaw.com  
-   Link: [https://www.rimonlaw.com/u-s-copyright-office-will-accept-ai-generated-work-for-registration-when-and-if-it-embodies-meaningful-human-authorship/](https://www.rimonlaw.com/u-s-copyright-office-will-accept-ai-generated-work-for-registration-when-and-if-it-embodies-meaningful-human-authorship/)  
+   Link: <a href="https://www.rimonlaw.com/u-s-copyright-office-will-accept-ai-generated-work-for-registration-when-and-if-it-embodies-meaningful-human-authorship/" target="_blank" rel="noopener noreferrer nofollow">https://www.rimonlaw.com/u-s-copyright-office-will-accept-ai-generated-work-for-registration-when-and-if-it-embodies-meaningful-human-authorship/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Will Accept AI-Generated Work for...A bombshell decision by the US Copyright Office in January 2025, that “AI generated...</p></details>
    Published: January 2025  
 
 20. <a id="endnote-20"></a>
    Source: sidley.com  
-   Link: [https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability](https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability)  
+   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hhrartlaw.com  
    Title: u s copyright office examines copyright and generative ai  
-   Link: [https://www.hhrartlaw.com/2024/07/u-s-copyright-office-examines-copyright-and-generative-ai/](https://www.hhrartlaw.com/2024/07/u-s-copyright-office-examines-copyright-and-generative-ai/)  
+   Link: <a href="https://www.hhrartlaw.com/2024/07/u-s-copyright-office-examines-copyright-and-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.hhrartlaw.com/2024/07/u-s-copyright-office-examines-copyright-and-generative-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Examines Copyright and Generative AI10 Jul 2024 — The US Copyright Office is in the midst of an ambitious investigation...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: thepatentprofessor.com  
-   Link: [https://thepatentprofessor.com/an-ai-deepfake-song-may-rewrite-copyright-law-as-we-know-it/](https://thepatentprofessor.com/an-ai-deepfake-song-may-rewrite-copyright-law-as-we-know-it/)  
+   Link: <a href="https://thepatentprofessor.com/an-ai-deepfake-song-may-rewrite-copyright-law-as-we-know-it/" target="_blank" rel="noopener noreferrer nofollow">https://thepatentprofessor.com/an-ai-deepfake-song-may-rewrite-copyright-law-as-we-know-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Deepfake Song May Change Copyright LawAn AI-generated deepfake song raises legal questions that could reshape copyright law. The Paten...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: noiz.ai  
-   Link: [https://noiz.ai/use-cases/en/voice-cloning-musicians](https://noiz.ai/use-cases/en/voice-cloning-musicians)  
+   Link: <a href="https://noiz.ai/use-cases/en/voice-cloning-musicians" target="_blank" rel="noopener noreferrer nofollow">https://noiz.ai/use-cases/en/voice-cloning-musicians</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Voice Cloning for Musicians &amp; ProducersAI voice cloning for musicians is a technology that uses artificial intelligence to create a di...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: accelerateip.com  
-   Link: [https://accelerateip.com/ai-and-copyright-law-complete-guide-to-the-u-s-copyright-office-report-on-artificial-intelligence/](https://accelerateip.com/ai-and-copyright-law-complete-guide-to-the-u-s-copyright-office-report-on-artificial-intelligence/)  
+   Link: <a href="https://accelerateip.com/ai-and-copyright-law-complete-guide-to-the-u-s-copyright-office-report-on-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://accelerateip.com/ai-and-copyright-law-complete-guide-to-the-u-s-copyright-office-report-on-artificial-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Copyright Law: Complete Guide to the U.S. Copyright...The U.S. Copyright Office report on AI addresses key challenges in copyrigh...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/michaelmaicher_can-ai-copy-my-voice-navigating-identity-activity-7449439741441327106-Mpnr](https://www.linkedin.com/posts/michaelmaicher_can-ai-copy-my-voice-navigating-identity-activity-7449439741441327106-Mpnr)  
+   Link: <a href="https://www.linkedin.com/posts/michaelmaicher_can-ai-copy-my-voice-navigating-identity-activity-7449439741441327106-Mpnr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/michaelmaicher_can-ai-copy-my-voice-navigating-identity-activity-7449439741441327106-Mpnr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Voice Cloning in Music LawArtificial intelligence is transforming music and media fast, but the law is still catching up. A growin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed](https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed)  
+   Link: <a href="https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The track, created by an anonymous user known as Ghostwriter977, gained massive traction online, with over 15 million streams on TikTok a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/incidents/2023-04-17-5389](https://oecd.ai/en/incidents/2023-04-17-5389)  
+   Link: <a href="https://oecd.ai/en/incidents/2023-04-17-5389" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2023-04-17-5389</a>  
 
 28. <a id="endnote-28"></a>
    Source: southerncalifornialawreview.com  
    Title: fake drake vindicating copyright ownership in the advent of generative ai music  
-   Link: [https://southerncalifornialawreview.com/2025/04/24/fake-drake-vindicating-copyright-ownership-in-the-advent-of-generative-ai-music/](https://southerncalifornialawreview.com/2025/04/24/fake-drake-vindicating-copyright-ownership-in-the-advent-of-generative-ai-music/)  
+   Link: <a href="https://southerncalifornialawreview.com/2025/04/24/fake-drake-vindicating-copyright-ownership-in-the-advent-of-generative-ai-music/" target="_blank" rel="noopener noreferrer nofollow">https://southerncalifornialawreview.com/2025/04/24/fake-drake-vindicating-copyright-ownership-in-the-advent-of-generative-ai-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Fake Drake”: Vindicating Copyright Ownership in the...24 Apr 2025 — Specifically referencing “Heart on My Sleeve,” the Office ultimatel...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theguardian.com  
    Title: ai song featuring fake drake and weeknd vocals pulled from streaming services  
-   Link: [https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)  
+   Link: <a href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed from TikTok...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ipandmedialaw.fkks.com  
    Title: key insights on copyright and ai from the u s copyright offices 2025 report  
-   Link: [https://ipandmedialaw.fkks.com/post/102jyvb/key-insights-on-copyright-and-ai-from-the-u-s-copyright-offices-2025-report](https://ipandmedialaw.fkks.com/post/102jyvb/key-insights-on-copyright-and-ai-from-the-u-s-copyright-offices-2025-report)  
+   Link: <a href="https://ipandmedialaw.fkks.com/post/102jyvb/key-insights-on-copyright-and-ai-from-the-u-s-copyright-offices-2025-report" target="_blank" rel="noopener noreferrer nofollow">https://ipandmedialaw.fkks.com/post/102jyvb/key-insights-on-copyright-and-ai-from-the-u-s-copyright-offices-2025-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3, 2025 — In the 2025 report, the Copyright Office carefully distinguished between the different ways humans can use mod...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eExdDa1kgaM](https://www.youtube.com/watch?v=eExdDa1kgaM)  
+   Link: <a href="https://www.youtube.com/watch?v=eExdDa1kgaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eExdDa1kgaM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Voice Cloning for Musicians: What You Can Really Do With ItClone your voice with AI and turn rough recordings into polished, professio...</p></details>

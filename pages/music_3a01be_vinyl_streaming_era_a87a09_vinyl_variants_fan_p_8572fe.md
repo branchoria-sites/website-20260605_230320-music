@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60
 - music_3a01be_vinyl_streaming_era_a87a09_vinyl_ownership_c6792f
 tags:
-- music
+- music-3-a01-be
 - vinyl
 - variants
 keywords:
-- music
+- music-3-a01-be
 - vinyl
 - variants
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Multiple vinyl editions can drive huge sales, but they also raise questions about collecting, waste, and fan expectations.
 hero_summary: Multiple vinyl editions can drive huge sales, but they also raise questions about collecting, waste, and fan expectations.
 layout: default
 permalink: /variants/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /vinyl/
 nav_short_title: Variants
 title: Are Vinyl Variants Good for Fans?
-title_full: Are Vinyl Variants Good for Fans? | Vinyl
+title_full: Are Vinyl Variants Good for Fans?
 display_title_short: Variants
 display_title: Variants
 heading_title: Are Vinyl Variants Good for Fans?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Vinyl Came Back In A Digital Age | Music
+parent_title: Why Vinyl Came Back In A Digital Age
 parent_permalink: /vinyl/
 parent_nav_short_title: Vinyl
 parent_heading_title: Why Vinyl Came Back In A Digital Age
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Limited Vinyl Becomes the Event
 up_link:
   basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -259,7 +259,7 @@ prev_link:
   permalink: /scarcity/
   short_title: Scarcity
   heading_title: When Limited Vinyl Becomes the Event
-date: '2026-06-09 07:15:19 '
+date: '2026-06-11 23:38:55 '
 header:
   og_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan
 
 ## Introduction
 
-Taylor Swift’s vinyl campaigns have become one of the clearest examples of how [physical]({{ 'physical/' | relative_url }}) music survived the streaming era. By releasing albums in multiple vinyl editions—with different colours, covers, bonus tracks, collectable inserts, or retailer exclusives—Swift has helped turn records into fandom objects rather than simple playback [formats]({{ 'formats/' | relative_url }}). The strategy has been commercially powerful, contributing to some of the biggest vinyl sales weeks ever recorded. At the same time, it has sparked debate about whether fans are being invited to collect or subtly pressured to keep buying. The discussion sits at the centre of a larger question facing modern music: when does enthusiastic collecting become a commercial obligation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">BillboardTaylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</span></span></span>
-
+Taylor Swift’s vinyl campaigns have become one of the clearest examples of how [physical]({{ 'physical/' | relative_url }}) music survived the streaming era. By releasing albums in multiple vinyl editions—with different colours, covers, bonus tracks, collectable inserts, or retailer exclusives—Swift has helped turn records into fandom objects rather than simple playback [formats]({{ 'formats/' | relative_url }}). The strategy has been commercially powerful, contributing to some of the biggest vinyl sales weeks ever recorded. At the same time, it has sparked debate about whether fans are being invited to collect or subtly pressured to keep buying. The discussion sits at the centre of a larger question facing modern music: when does enthusiastic collecting become a commercial obligation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Taylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1-dark.svg" | relative_url }}" alt="Variants illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Pop Releases Use Multiple Editions
@@ -278,17 +277,13 @@ Swift did not invent the idea of alternative album editions, but she helped brin
 
 The approach reflects a broader marketing concept known as “versioning”: offering multiple versions of essentially the same product to appeal to different levels of fan engagement. Casual listeners can stream the album once, while devoted fans can choose a preferred edition—or purchase several. Economists often describe this as a way of allowing consumers to reveal how much value they place on a product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/arts-entertainment/music/taylor-swift-life-of-showgirl-versions-albums-fans-b2850438.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">For many</span><span class="citation-popover-snippet">The IndependentWhy Taylor Swift released 34 versions of The Life of a...October 23, 2025 — 23 Oct 2025 — Economists call this versioning...</span><span class="citation-popover-meta">Published: October 23, 2025</span></span></span>
 
-In vinyl culture, these editions are not always purchased for listening. Many remain sealed, displayed on shelves, or treated as memorabilia. The appeal comes from [scarcity]({{ 'scarcity/' | relative_url }}), artwork, collectability, and participation in a shared fan experience as much as from the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kutx.org/words-on-music/old-tech-new-music-why-i-gave-up-my-disdain-for-vinyl-to-buy-taylor-swifts-1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kutx.org">[KUTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kutx.org</span><span class="citation-popover-title">old tech new music why i gave up my disdain for vinyl to buy taylor swifts 1989</span><span class="citation-popover-snippet">Why Taylor Swift&#x27;s re-recorded &#x27;1989 (Taylor&#x27;s Version)&#x27; album turned one Swiftie into a true believer of...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+In vinyl [culture]({{ 'culture/' | relative_url }}), these editions are not always purchased for listening. Many remain sealed, displayed on shelves, or treated as memorabilia. The appeal comes from [scarcity]({{ 'scarcity/' | relative_url }}), artwork, collectability, and participation in a shared fan experience as much as from the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kutx.org/words-on-music/old-tech-new-music-why-i-gave-up-my-disdain-for-vinyl-to-buy-taylor-swifts-1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kutx.org">[KUTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kutx.org</span><span class="citation-popover-title">old tech new music why i gave up my disdain for vinyl to buy taylor swifts 1989</span><span class="citation-popover-snippet">Why Taylor Swift&#x27;s re-recorded &#x27;1989 (Taylor&#x27;s Version)&#x27; album turned one Swiftie into a true believer of...</span></span></span>
 
 ## Why Variants Drive Huge First-Week Sales
 
-The commercial impact of variants is difficult to ignore. Swift's releases have repeatedly set modern vinyl records, with *1989 (Taylor’s Version)* achieving one of the largest vinyl sales weeks ever tracked in the United States. Industry reporting has linked these extraordinary figures partly to the availability of multiple collectible editions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">BillboardTaylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</span></span></span> Reddit The mechanism is straightforward. Instead of one fan purchasing one copy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cd_collectors/comments/17ormof/1989_taylors_version_sells_554000_cds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1989 taylors version sells 554000 cds</span><span class="citation-popover-snippet">Reddit1989 Taylor&#x27;s Version sells 554000 CDs: r/Cd_collectors&quot;1989 (Taylor&#x27;s Version) sold 693,000 copies on vinyl in its first week...</span></span></span>, some fans purchase several versions of the same album. Industry observers have noted that leading physical albums increasingly appear in numerous vinyl editions; one 2024 analysis found that the top-selling physical albums commonly relied on extensive variant strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2023/music/news/taylor-swift-number-one-1989-taylors-version-her-best-first-week-ever-1235780769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">taylor swift number one 1989 taylors version her best first week ever 1235780769</span><span class="citation-popover-snippet">Taylor Swift&#x27;s 1.6M Bow for &#x27;1989 (Taylor&#x27;s Version)&#x27;5 Nov 2023 — Taylor Swift&#x27;s “1989 (Taylor&#x27;s Version)” has now gone down on the books...</span></span></span>
+The commercial impact of variants is difficult to ignore. Swift's releases have repeatedly set modern vinyl records, with *1989 (Taylor’s Version)* achieving one of the largest vinyl sales weeks ever tracked in the United States. Industry reporting has linked these extraordinary figures partly to the availability of multiple collectible editions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Taylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</span></span></span> Reddit The mechanism is straightforward. Instead of one fan purchasing one copy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cd_collectors/comments/17ormof/1989_taylors_version_sells_554000_cds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1989 taylors version sells 554000 cds</span><span class="citation-popover-snippet">1989 Taylor&#x27;s Version sells 554000 CDs: r/Cd_collectors&quot;1989 (Taylor&#x27;s Version) sold 693,000 copies on vinyl in its first week...</span></span></span>, some fans purchase several versions of the same album. Industry observers have noted that leading physical albums increasingly appear in numerous vinyl editions; one 2024 analysis found that the top-selling physical albums commonly relied on extensive variant strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2023/music/news/taylor-swift-number-one-1989-taylors-version-her-best-first-week-ever-1235780769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">taylor swift number one 1989 taylors version her best first week ever 1235780769</span><span class="citation-popover-snippet">Taylor Swift&#x27;s 1.6M Bow for &#x27;1989 (Taylor&#x27;s Version)&#x27;5 Nov 2023 — Taylor Swift&#x27;s “1989 (Taylor&#x27;s Version)” has now gone down on the books...</span></span></span>
 
 For artists, labels, and retailers, variants create several advantages:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,8 +295,7 @@ For artists, labels, and retailers, variants create several advantages:
 
 </div>
 
-The result is that vinyl becomes not just a [music]({{ 'music/' | relative_url }}) format but a highly effective fan-engagement tool. In an age when almost everyone can stream the same songs instantly, the physical edition becomes a way to demonstrate commitment and participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackingangle.com/music/taylor-swift-1989-taylor-s-version-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackingangle.com">[Tracking Angle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackingangle.com</span><span class="citation-popover-title">taylor swift 1989 taylor s version review</span><span class="citation-popover-snippet">Tracking Angle&#x27;1989 (Taylor&#x27;s Version)&#x27; Searches For A Sound We&#x27;ve...31 Oct 2023 — &#x27;1989 (Taylor&#x27;s Version)&#x27; Searches For A Sound We&#x27;ve...</span></span></span>
-
+The result is that vinyl becomes not just a music format but a highly effective fan-engagement tool. In an age when almost everyone can stream the same songs instantly, the physical edition becomes a way to demonstrate commitment and participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackingangle.com/music/taylor-swift-1989-taylor-s-version-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackingangle.com">[Tracking Angle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackingangle.com</span><span class="citation-popover-title">taylor swift 1989 taylor s version review</span><span class="citation-popover-snippet">Tracking Angle&#x27;1989 (Taylor&#x27;s Version)&#x27; Searches For A Sound We&#x27;ve...31 Oct 2023 — &#x27;1989 (Taylor&#x27;s Version)&#x27; Searches For A Sound We&#x27;ve...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NGDE7kR_3vE" title="Taylor Swift is Still Ruining Vinyl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NGDE7kR_3vE" target="_blank" rel="noopener noreferrer">Taylor Swift is Still Ruining Vinyl</a></p><p class="youtube-embed-meta">Channel: fantano &middot; Views: 358.2K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NGDE7kR_3vE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NGDE7kR_3vE">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +303,7 @@ The result is that vinyl becomes not just a [music]({{ 'music/' | relative_url }
 
 The most controversial aspect of the strategy is not the existence of variants but the social pressure that can surround them.
 
-Many fans genuinely enjoy collecting. Different artwork, coloured vinyl, and exclusive packaging can make each edition feel distinct. For collectors, assembling a complete set can be satisfying in the same way that completing a series of books, trading cards, or concert posters is satisfying. Community discussions often frame multiple purchases as a hobby rather than a necessity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2254218764714763/posts/3736150109854947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookTaylor Swift fan shares love for multiple vinyl variants and...What people are saying. Fans justify buying multiple vinyl varian...</span></span></span>
+Many fans genuinely enjoy collecting. Different artwork, coloured vinyl, and exclusive packaging can make each edition feel distinct. For collectors, assembling a complete set can be satisfying in the same way that completing a series of books, trading cards, or concert posters is satisfying. Community discussions often frame multiple purchases as a hobby rather than a necessity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2254218764714763/posts/3736150109854947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Taylor Swift fan shares love for multiple vinyl variants and...What people are saying. Fans justify buying multiple vinyl varian...</span></span></span>
 
 However, critics argue that the line between choice and pressure can become blurred. Limited-time availability, exclusive bonus content, and staggered announcements can create anxiety that a desired edition may disappear. Fans may worry that waiting will mean paying higher resale prices later or missing content entirely. Northeastern University's analysis of Swift's vinyl strategy highlighted this dilemma, noting that some consumers faced a choice between buying multiple versions or missing tracks and collectable material tied to specific editions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2024/04/17/taylor-swift-vinyl-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Is Taylor Swift&#x27;s Vinyl Records Strategy Wasteful?</span><span class="citation-popover-snippet">Do they buy multiple copies of essentially the same album just for access to different bonus tracks?...</span></span></span>
 
@@ -317,16 +311,14 @@ The pressure is often cultural rather than explicit. Within highly engaged fan c
 
 That does not mean fans are being forced to buy. Most listeners stream the music and purchase nothing. Yet the debate persists because the marketing is designed to make additional purchases attractive, especially to the most devoted segment of the audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/arts-entertainment/music/taylor-swift-life-of-showgirl-versions-albums-fans-b2850438.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">For many</span><span class="citation-popover-snippet">The IndependentWhy Taylor Swift released 34 versions of The Life of a...October 23, 2025 — 23 Oct 2025 — Economists call this versioning...</span><span class="citation-popover-meta">Published: October 23, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-2-dark.svg" | relative_url }}" alt="Variants illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Critics Call Variants Wasteful
 
 Environmental criticism has become the strongest challenge to the variant model.
 
-In 2024, Billie Eilish publicly criticised the music industry's reliance on multiple vinyl editions, describing the practice as wasteful and arguing that artists should pay greater attention to sustainability. Although many listeners interpreted her comments as a reference to Swift, Eilish later clarified that she was discussing an industry-wide issue rather than targeting a single artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">During a Billboard interview, she highlighted how her latest album &quot;Happier Than Ever&quot; utilized recycled vinyl and sugar cane shrink wrap...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">The 22-year-old artist emphasized the need for the music industry to consider its environmental footprint and criticized the practice of...</span></span></span>
+In 2024, Billie Eilish publicly criticised the music industry's reliance on multiple vinyl editions, describing the practice as wasteful and arguing that artists should pay greater [attention]({{ 'attention/' | relative_url }}) to sustainability. Although many listeners interpreted her comments as a reference to Swift, Eilish later clarified that she was discussing an industry-wide issue rather than targeting a single artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">During a Billboard interview, she highlighted how her latest album &quot;Happier Than Ever&quot; utilized recycled vinyl and sugar cane shrink wrap...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">The 22-year-old artist emphasized the need for the music industry to consider its environmental footprint and criticized the practice of...</span></span></span>
 
 The criticism focuses on several concerns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,13 +329,11 @@ The criticism focuses on several concerns:
 
 </div>
 
-Commentators have argued that the strategy reflects a broader culture of overconsumption, where the value of [ownership]({{ 'ownership/' | relative_url }}) sometimes outweighs the value of the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.washcoll.edu/wordpress/theelm/2024/04/from-taylor-swift-to-olivia-rodrigo-vinyl-variants-exhibit-widespread-overconsumption/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.washcoll.edu">[Washington College Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.washcoll.edu</span><span class="citation-popover-snippet">Washington College BlogFrom Taylor Swift to Olivia Rodrigo, vinyl variants exhibit...24 Apr 2024 — While this phenomenon is widespread...</span></span></span>
+Commentators have argued that the strategy reflects a broader culture of overconsumption, where the value of ownership sometimes outweighs the value of the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.washcoll.edu/wordpress/theelm/2024/04/from-taylor-swift-to-olivia-rodrigo-vinyl-variants-exhibit-widespread-overconsumption/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.washcoll.edu">[Washington College Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.washcoll.edu</span><span class="citation-popover-snippet">Washington College BlogFrom Taylor Swift to Olivia Rodrigo, vinyl variants exhibit...24 Apr 2024 — While this phenomenon is widespread...</span></span></span>
 
 Supporters of variants counter that vinyl records are durable objects often kept for decades, unlike many disposable consumer goods. They also note that consumers ultimately choose whether to buy one edition, multiple editions, or none at all. The debate therefore centres less on the existence of collectables and more on how aggressively they are marketed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">During a Billboard interview, she highlighted how her latest album &quot;Happier Than Ever&quot; utilized recycled vinyl and sugar cane shrink wrap...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4BC_6xzLnE" title="unboxing every 1989 (Taylor’s Version) CD &amp; vinyl variant 🩵🩵🩵 (plus a special bonus vinyl unboxing)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4BC_6xzLnE" target="_blank" rel="noopener noreferrer">unboxing every 1989 (Taylor’s Version) CD &amp; vinyl variant 🩵🩵🩵 (plus a special bonus vinyl unboxing)</a></p><p class="youtube-embed-meta">Channel: Nena Shelby &middot; Views: 81.7K &middot; Uploaded: November 2023 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4BC_6xzLnE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4BC_6xzLnE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-3-dark.svg" | relative_url }}" alt="Variants illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Are Vinyl Variants Good for Fans?
 
 The answer depends on what a fan wants from physical music.
@@ -352,10 +342,9 @@ For collectors, variants can be enjoyable. They provide artwork choices, exclusi
 
 For budget-conscious listeners, the picture is less positive. When exclusive content is spread across different editions, or when new variants continue appearing after an initial purchase, fans may feel that one purchase is no longer enough. The experience can shift from collecting for pleasure to collecting out of fear of missing something important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2024/04/17/taylor-swift-vinyl-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Is Taylor Swift&#x27;s Vinyl Records Strategy Wasteful?</span><span class="citation-popover-snippet">Do they buy multiple copies of essentially the same album just for access to different bonus tracks?...</span></span></span>
 
-That tension helps explain why Swift's vinyl campaigns have become such a prominent case study in the modern music business. They demonstrate the extraordinary commercial power of physical media in the streaming age, while also exposing the ethical questions that arise when fandom, collecting, chart competition, and consumer spending become tightly intertwined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">BillboardTaylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2024/music/news/taylor-swift-olivia-rodrigo-sales-boost-variants-1236074095/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">taylor swift olivia rodrigo sales boost variants 1236074095</span><span class="citation-popover-snippet">VarietyTaylor Swift, Olivia Rodrigo&#x27;s Huge 2024 Sales Boost With &#x27;...16 Jul 2024 — The top 10 US physical albums of 2024 carried an aver...</span></span></span>
+That tension helps explain why Swift's vinyl campaigns have become such a prominent case study in the modern music business. They demonstrate the extraordinary commercial power of physical media in the streaming age, while also exposing the ethical questions that arise when fandom, collecting, chart competition, and consumer spending become tightly intertwined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Taylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2024/music/news/taylor-swift-olivia-rodrigo-sales-boost-variants-1236074095/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">taylor swift olivia rodrigo sales boost variants 1236074095</span><span class="citation-popover-snippet">Taylor Swift, Olivia Rodrigo&#x27;s Huge 2024 Sales Boost With &#x27;...16 Jul 2024 — The top 10 US physical albums of 2024 carried an aver...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-3-dark.svg" | relative_url }}" alt="Variants illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4BC_6xzLnE" title="unboxing every 1989 (Taylor’s Version) CD &amp; vinyl variant 🩵🩵🩵 (plus a special bonus vinyl unboxing)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4BC_6xzLnE" target="_blank" rel="noopener noreferrer">unboxing every 1989 (Taylor’s Version) CD &amp; vinyl variant 🩵🩵🩵 (plus a special bonus vinyl unboxing)</a></p><p class="youtube-embed-meta">Channel: Nena Shelby &middot; Views: 81.7K &middot; Uploaded: November 2023 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4BC_6xzLnE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4BC_6xzLnE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -474,43 +463,59 @@ That tension helps explain why Swift's vinyl campaigns have become such a promin
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slipknot - All Hope Is Gone [New Vinyl LP] Explicit, Colored Vinyl, Orange"><img src="https://i.ebayimg.com/images/g/YEMAAeSwE~dqJeKs/s-l225.jpg" alt="Listing image for Slipknot - All Hope Is Gone [New Vinyl LP] Explicit, Colored Vinyl, Orange" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delerium Signs (Vinyl) 12&quot; Album Coloured Vinyl"><img src="https://i.ebayimg.com/images/g/6QcAAeSwXCBqAhiS/s-l225.jpg" alt="Listing image for Delerium Signs (Vinyl) 12&quot; Album Coloured Vinyl" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer">Delerium Signs (Vinyl) 12&quot; Album Coloured Vinyl</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for t.A.T.u. - 200 km/h In The Wrong Lane [New Vinyl LP] Explicit, Colored Vinyl, Go"><img src="https://i.ebayimg.com/images/g/YiYAAeSwbtlqK-Or/s-l225.jpg" alt="Listing image for t.A.T.u. - 200 km/h In The Wrong Lane [New Vinyl LP] Explicit, Colored Vinyl, Go" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer">t.A.T.u. - 200 km/h In The Wrong Lane [New Vinyl LP] Explicit, Colored Vinyl, Go</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ashes Are Burning (coloured ) by Renaissance (Vinyl 2025)"><img src="https://i.ebayimg.com/images/g/KIcAAeSwauxqDwjv/s-l225.jpg" alt="Listing image for Ashes Are Burning (coloured ) by Renaissance (Vinyl 2025)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer">Ashes Are Burning (coloured ) by Renaissance (Vinyl 2025)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slipknot - All Hope Is Gone [New Vinyl LP] Explicit, Colored Vinyl, Orange"><img src="https://i.ebayimg.com/images/g/~YcAAeSwpHtqKemG/s-l225.jpg" alt="Listing image for Slipknot - All Hope Is Gone [New Vinyl LP] Explicit, Colored Vinyl, Orange" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer">Slipknot - All Hope Is Gone [New Vinyl LP] Explicit, Colored Vinyl, Orange</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)"><img src="https://i.ebayimg.com/images/g/gUwAAeSw9FJqHpMI/s-l225.jpg" alt="Listing image for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer">Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Erykah Badu - Worldwide Underground [New Vinyl LP] Colored Vinyl, Purple"><img src="https://i.ebayimg.com/images/g/MTIAAeSwsvpqJX-z/s-l225.jpg" alt="Listing image for Erykah Badu - Worldwide Underground [New Vinyl LP] Colored Vinyl, Purple" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer">Erykah Badu - Worldwide Underground [New Vinyl LP] Colored Vinyl, Purple</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-vinyl-variants-good-for-fans-colored-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl" data-ebay-reference="are-vinyl-variants-good-for-fans-colored-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl</a>
         <div class="fr-book-actions">
@@ -738,158 +743,158 @@ That tension helps explain why Swift's vinyl campaigns have become such a promin
 1. <a id="endnote-1"></a>
    Source: billboard.com  
    Title: Read more  
-   Link: [https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/](https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardTaylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</p></details>
+   Link: <a href="https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/taylor-swift-1989-taylors-version-first-day-sales-1235457435/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift &#x27;1989 (Taylor&#x27;s Version)&#x27; Breaks Vinyl Sales...2 Nov 2023 — According to initial reports to data tracking firm Lum...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kutx.org  
    Title: old tech new music why i gave up my disdain for vinyl to buy taylor swifts 1989  
-   Link: [https://kutx.org/words-on-music/old-tech-new-music-why-i-gave-up-my-disdain-for-vinyl-to-buy-taylor-swifts-1989/](https://kutx.org/words-on-music/old-tech-new-music-why-i-gave-up-my-disdain-for-vinyl-to-buy-taylor-swifts-1989/)  
+   Link: <a href="https://kutx.org/words-on-music/old-tech-new-music-why-i-gave-up-my-disdain-for-vinyl-to-buy-taylor-swifts-1989/" target="_blank" rel="noopener noreferrer nofollow">https://kutx.org/words-on-music/old-tech-new-music-why-i-gave-up-my-disdain-for-vinyl-to-buy-taylor-swifts-1989/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Taylor Swift&#x27;s re-recorded &#x27;1989 (Taylor&#x27;s Version)&#x27; album turned one Swiftie into a true believer of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: 1989 taylors version sells 554000 cds  
-   Link: [https://www.reddit.com/r/Cd_collectors/comments/17ormof/1989_taylors_version_sells_554000_cds/](https://www.reddit.com/r/Cd_collectors/comments/17ormof/1989_taylors_version_sells_554000_cds/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit1989 Taylor&#x27;s Version sells 554000 CDs: r/Cd_collectors&quot;1989 (Taylor&#x27;s Version) sold 693,000 copies on vinyl in its first week...</p></details>
+   Link: <a href="https://www.reddit.com/r/Cd_collectors/comments/17ormof/1989_taylors_version_sells_554000_cds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cd_collectors/comments/17ormof/1989_taylors_version_sells_554000_cds/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1989 Taylor&#x27;s Version sells 554000 CDs: r/Cd_collectors&quot;1989 (Taylor&#x27;s Version) sold 693,000 copies on vinyl in its first week...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: variety.com  
    Title: taylor swift number one 1989 taylors version her best first week ever 1235780769  
-   Link: [https://variety.com/2023/music/news/taylor-swift-number-one-1989-taylors-version-her-best-first-week-ever-1235780769/](https://variety.com/2023/music/news/taylor-swift-number-one-1989-taylors-version-her-best-first-week-ever-1235780769/)  
+   Link: <a href="https://variety.com/2023/music/news/taylor-swift-number-one-1989-taylors-version-her-best-first-week-ever-1235780769/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2023/music/news/taylor-swift-number-one-1989-taylors-version-her-best-first-week-ever-1235780769/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift&#x27;s 1.6M Bow for &#x27;1989 (Taylor&#x27;s Version)&#x27;5 Nov 2023 — Taylor Swift&#x27;s “1989 (Taylor&#x27;s Version)” has now gone down on the books...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: variety.com  
    Title: taylor swift olivia rodrigo sales boost variants 1236074095  
-   Link: [https://variety.com/2024/music/news/taylor-swift-olivia-rodrigo-sales-boost-variants-1236074095/](https://variety.com/2024/music/news/taylor-swift-olivia-rodrigo-sales-boost-variants-1236074095/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VarietyTaylor Swift, Olivia Rodrigo&#x27;s Huge 2024 Sales Boost With &#x27;...16 Jul 2024 — The top 10 US physical albums of 2024 carried an aver...</p></details>
+   Link: <a href="https://variety.com/2024/music/news/taylor-swift-olivia-rodrigo-sales-boost-variants-1236074095/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2024/music/news/taylor-swift-olivia-rodrigo-sales-boost-variants-1236074095/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift, Olivia Rodrigo&#x27;s Huge 2024 Sales Boost With &#x27;...16 Jul 2024 — The top 10 US physical albums of 2024 carried an aver...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2254218764714763/posts/3736150109854947/](https://www.facebook.com/groups/2254218764714763/posts/3736150109854947/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookTaylor Swift fan shares love for multiple vinyl variants and...What people are saying. Fans justify buying multiple vinyl varian...</p></details>
+   Link: <a href="https://www.facebook.com/groups/2254218764714763/posts/3736150109854947/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2254218764714763/posts/3736150109854947/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift fan shares love for multiple vinyl variants and...What people are saying. Fans justify buying multiple vinyl varian...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TaylorSwiftMerch/comments/1o2f08z/for_those_frustrated_about_variants_heres_the/](https://www.reddit.com/r/TaylorSwiftMerch/comments/1o2f08z/for_those_frustrated_about_variants_heres_the/)  
+   Link: <a href="https://www.reddit.com/r/TaylorSwiftMerch/comments/1o2f08z/for_those_frustrated_about_variants_heres_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TaylorSwiftMerch/comments/1o2f08z/for_those_frustrated_about_variants_heres_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For those frustrated about variants, here&#x27;s the thingEach vinyl has a different UPC so you could buy 4 of each version (shiny bug vs cham...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: news.northeastern.edu  
    Title: Global News Is Taylor Swift's Vinyl Records Strategy Wasteful?  
-   Link: [https://news.northeastern.edu/2024/04/17/taylor-swift-vinyl-records/](https://news.northeastern.edu/2024/04/17/taylor-swift-vinyl-records/)  
+   Link: <a href="https://news.northeastern.edu/2024/04/17/taylor-swift-vinyl-records/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2024/04/17/taylor-swift-vinyl-records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do they buy multiple copies of essentially the same album just for [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) to different bonus tracks?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: them.us  
-   Link: [https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram](https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram)  
+   Link: <a href="https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a social media post, Eilish emphasized that her remarks in a Billboard interview addressed industry-wide issues and mentioned that she...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SwiftlyNeutral/comments/1o0pka5/bar_graph_of_the_number_of_editions_taylor/](https://www.reddit.com/r/SwiftlyNeutral/comments/1o0pka5/bar_graph_of_the_number_of_editions_taylor/)  
+   Link: <a href="https://www.reddit.com/r/SwiftlyNeutral/comments/1o0pka5/bar_graph_of_the_number_of_editions_taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftlyNeutral/comments/1o0pka5/bar_graph_of_the_number_of_editions_taylor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>would still be 5 variants short of the current count...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2254218764714763/posts/3731190750350883/](https://www.facebook.com/groups/2254218764714763/posts/3731190750350883/)  
+   Link: <a href="https://www.facebook.com/groups/2254218764714763/posts/3731190750350883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2254218764714763/posts/3731190750350883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift&#x27;s vinyl variants strategy explainedSo there&#x27;s been a lot of discussion about all the vinyl variants. I&#x27;ve seen a lot of swif...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/478613695592616/posts/25972810389079596/](https://www.facebook.com/groups/478613695592616/posts/25972810389079596/)  
+   Link: <a href="https://www.facebook.com/groups/478613695592616/posts/25972810389079596/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/478613695592616/posts/25972810389079596/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Taylor&#x27;s version 1989 vinyl albumThe commercial and chart success of these albums — her remake of “1989” had a larger opening w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: trackingangle.com  
    Title: taylor swift 1989 taylor s version review  
-   Link: [https://trackingangle.com/music/taylor-swift-1989-taylor-s-version-review](https://trackingangle.com/music/taylor-swift-1989-taylor-s-version-review)  
+   Link: <a href="https://trackingangle.com/music/taylor-swift-1989-taylor-s-version-review" target="_blank" rel="noopener noreferrer nofollow">https://trackingangle.com/music/taylor-swift-1989-taylor-s-version-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Angle&#x27;1989 (Taylor&#x27;s Version)&#x27; Searches For A Sound We&#x27;ve...31 Oct 2023 — &#x27;1989 (Taylor&#x27;s Version)&#x27; Searches For A Sound We&#x27;ve...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: independent.co.uk  
    Title: For many  
-   Link: [https://www.independent.co.uk/arts-entertainment/music/taylor-swift-life-of-showgirl-versions-albums-fans-b2850438.html](https://www.independent.co.uk/arts-entertainment/music/taylor-swift-life-of-showgirl-versions-albums-fans-b2850438.html)  
+   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/taylor-swift-life-of-showgirl-versions-albums-fans-b2850438.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/taylor-swift-life-of-showgirl-versions-albums-fans-b2850438.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentWhy Taylor Swift released 34 versions of The Life of a...October 23, 2025 — 23 Oct 2025 — Economists call this versioning...</p></details>
    Published: October 23, 2025  
 
 15. <a id="endnote-15"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/](https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/)  
+   Link: <a href="https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift, dubbed the “variant queen,” epitomizes this strategy with her album &quot;The Life of a Showgirl,&quot; which had over two dozen phys...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: teenvogue.com  
-   Link: [https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants](https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants)  
+   Link: <a href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Billboard interview, she highlighted how her latest album &quot;Happier Than Ever&quot; utilized recycled vinyl and sugar cane shrink wrap...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx](https://www.thetimes.co.uk/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx)  
+   Link: <a href="https://www.thetimes.co.uk/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 22-year-old artist emphasized the need for the music industry to consider its environmental footprint and criticized the practice of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blog.washcoll.edu  
-   Link: [https://blog.washcoll.edu/wordpress/theelm/2024/04/from-taylor-swift-to-olivia-rodrigo-vinyl-variants-exhibit-widespread-overconsumption/](https://blog.washcoll.edu/wordpress/theelm/2024/04/from-taylor-swift-to-olivia-rodrigo-vinyl-variants-exhibit-widespread-overconsumption/)  
+   Link: <a href="https://blog.washcoll.edu/wordpress/theelm/2024/04/from-taylor-swift-to-olivia-rodrigo-vinyl-variants-exhibit-widespread-overconsumption/" target="_blank" rel="noopener noreferrer nofollow">https://blog.washcoll.edu/wordpress/theelm/2024/04/from-taylor-swift-to-olivia-rodrigo-vinyl-variants-exhibit-widespread-overconsumption/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington College BlogFrom Taylor Swift to Olivia Rodrigo, vinyl variants exhibit...24 Apr 2024 — While this phenomenon is widespread...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNzX2da0usO/?hl=en](https://www.instagram.com/reel/DNzX2da0usO/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNzX2da0usO/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNzX2da0usO/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scared for my dm&#x27;s rn #taylorswift #thelifeofashowgirl #vinylBut as Taylor Swift you know that these fans will purchase three more varian...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NGDE7kR_3vE](https://www.youtube.com/watch?v=NGDE7kR_3vE)  
+   Link: <a href="https://www.youtube.com/watch?v=NGDE7kR_3vE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NGDE7kR_3vE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift is Still Ruining VinylTaylor Swift Said Some Wild Stuff in This Interview &amp;middot; After 1,000 Records I&#x27;m Done PRETENDING V...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: wsj.com  
    Title: taylor swifts 1989 re do tops originals first week sales 6ded1953  
-   Link: [https://www.wsj.com/arts-culture/music/taylor-swifts-1989-re-do-tops-originals-first-week-sales-6ded1953](https://www.wsj.com/arts-culture/music/taylor-swifts-1989-re-do-tops-originals-first-week-sales-6ded1953)  
+   Link: <a href="https://www.wsj.com/arts-culture/music/taylor-swifts-1989-re-do-tops-originals-first-week-sales-6ded1953" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/taylor-swifts-1989-re-do-tops-originals-first-week-sales-6ded1953</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift&#x27;s &#x27;1989&#x27; Re-Do Tops Original&#x27;s First-Week Sales5 Nov 2023 — Taylor Swift&#x27;s rerecording of her blockbuster “1989” album sold...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
    Title: Taylor releases a lot of vinyl variants  
-   Link: [https://www.instagram.com/reel/DPEub6sjqLF/](https://www.instagram.com/reel/DPEub6sjqLF/)  
+   Link: <a href="https://www.instagram.com/reel/DPEub6sjqLF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPEub6sjqLF/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And what do you...* Artist: Taylor Swift * Format: 7” violet glitter vinyl * Release: 18 April 2026 (RSD) * Type: RSD Exclusive Tracklis...</p></details>
    Published: April 2026  
 
 23. <a id="endnote-23"></a>
    Source: pitchfork.com  
    Title: Taylor Swift Scores 11th No  
-   Link: [https://pitchfork.com/news/taylor-swift-scores-11th-no-1-album-with-midnights-achieving-highest-sales-in-almost-7-years](https://pitchfork.com/news/taylor-swift-scores-11th-no-1-album-with-midnights-achieving-highest-sales-in-almost-7-years)  
+   Link: <a href="https://pitchfork.com/news/taylor-swift-scores-11th-no-1-album-with-midnights-achieving-highest-sales-in-almost-7-years" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/taylor-swift-scores-11th-no-1-album-with-midnights-achieving-highest-sales-in-almost-7-years</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Album With Midnights, Achieving Highest Sales in Almost 7 YearsTaylor Swift&#x27;s latest album, &quot;Midnights,&quot; has debuted at No. 1 on the Bi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Are Multiple Vinyl Variants Hurting the Environment?  
-   Link: [https://www.youtube.com/watch?v=hB3gN4k7Gsk](https://www.youtube.com/watch?v=hB3gN4k7Gsk)  
+   Link: <a href="https://www.youtube.com/watch?v=hB3gN4k7Gsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hB3gN4k7Gsk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why You Buy Too Much Vinyl...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Problem With Taylor Swift's Vinyl Variants  
-   Link: [https://www.youtube.com/watch?v=V9r11sR_02c](https://www.youtube.com/watch?v=V9r11sR_02c)  
+   Link: <a href="https://www.youtube.com/watch?v=V9r11sR_02c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V9r11sR_02c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Multiple Vinyl Variants Hurting the Environment?...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Why Taylor Swift Is Changing The Vinyl Industry  
-   Link: [https://www.youtube.com/watch?v=J_gY493w0i8](https://www.youtube.com/watch?v=J_gY493w0i8)  
+   Link: <a href="https://www.youtube.com/watch?v=J_gY493w0i8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_gY493w0i8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem With Taylor Swift&#x27;s Vinyl Variants...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Psychology of Why You Buy Too Much Vinyl  
-   Link: [https://www.youtube.com/watch?v=W0l4L4N9L6k](https://www.youtube.com/watch?v=W0l4L4N9L6k)  
+   Link: <a href="https://www.youtube.com/watch?v=W0l4L4N9L6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0l4L4N9L6k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Taylor Swift’s Marketing Overwhelming Fans?...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E4BC_6xzLnE](https://www.youtube.com/watch?v=E4BC_6xzLnE)  
+   Link: <a href="https://www.youtube.com/watch?v=E4BC_6xzLnE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4BC_6xzLnE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unboxing every 1989 (Taylor&#x27;s Version) CD &amp; vinyl variant...today i&#x27;m going to be unboxing every 1989 (Taylor&#x27;s Version) CD &amp; vinyl vari...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0
 - music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e
 tags:
-- music
+- music-3-a01-be
 - short-clips
 - viral-moments
 keywords:
-- music
+- music-3-a01-be
 - short-clips
 - viral-moments
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Many modern viral clips come from song sections that were once secondary to the chorus.
 hero_summary: Many modern viral clips come from song sections that were once secondary to the chorus.
 layout: default
 permalink: /viral-moments/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /short-clips/
 nav_short_title: Viral Moments
 title: Why the Chorus Is No Longer the Only Hook
-title_full: Why the Chorus Is No Longer the Only Hook | Short Clips
+title_full: Why the Chorus Is No Longer the Only Hook
 display_title_short: Viral Moments
 display_title: Viral Moments
 heading_title: Why the Chorus Is No Longer the Only Hook
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Short Clips Reshape Hit Songs | Music
+parent_title: How Short Clips Reshape Hit Songs
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: How Short Clips Reshape Hit Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Old Songs Become New Hits Again
 up_link:
   basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -259,7 +259,7 @@ prev_link:
   permalink: /song-revivals/
   short_title: Song Revivals
   heading_title: How Old Songs Become New Hits Again
-date: '2026-06-09 06:46:33 '
+date: '2026-06-11 23:24:34 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moment
 
 Short-form video has changed which parts of a song become culturally dominant. In earlier pop conventions, the chorus was usually designed as the peak moment: the section listeners remembered and radio programmers promoted. Today, a bridge, post-chorus, breakdown or brief melodic turn can become the most recognisable fragment of an entire track. When millions of people encounter a song through a five-to-fifteen-second clip rather than a full listen, the “viral moment” is not necessarily the section that was originally intended to carry the song. Evidence from TikTok-era hits shows that listeners often latch onto a highly specific fragment that is emotionally intense, visually adaptable or easy to reuse across unrelated videos. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-1-dark.svg" | relative_url }}" alt="Viral Moments illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This shift matters because it changes how songwriters think about structure. Instead of asking only where the chorus should land, writers increasingly consider whether any section of the song can function as a standalone cultural object once separated from its original context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
 
@@ -280,17 +279,15 @@ The bridge traditionally exists to provide contrast. It interrupts repetition, i
 
 A chorus often depends on repetition and familiarity. A bridge, by contrast, frequently contains the [surprise]({{ 'surprise/' | relative_url }}). It may feature a melodic leap, a confession, a spoken outburst or a sudden change in energy. When extracted into a short clip, that contrast can feel more striking than the chorus itself.
 
-One of the clearest modern examples is the broader fascination with what many fans call the “bridge moment” in pop songwriting. Discussions around artists such as Taylor Swift frequently focus on bridge sections because they compress emotional escalation into a small, highly quotable fragment. The popularity of Swift's so-called “rant bridges” demonstrates how a structurally secondary section can become the part audiences anticipate most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/nytimes/videos/the-rant-bridge-has-become-a-signature-taylor-swift-songwriting-tool-developed-w/26498261749876524/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe &quot;rant bridge&quot; has become a signature Taylor Swift...The &quot;rant bridge&quot; has become a signature Taylor Swift songwriting tool...</span></span></span>
+One of the clearest modern examples is the broader fascination with what many fans call the “bridge moment” in pop songwriting. Discussions around artists such as Taylor Swift frequently focus on bridge sections because they compress emotional escalation into a small, highly quotable fragment. The popularity of Swift's so-called “rant bridges” demonstrates how a structurally secondary section can become the part audiences anticipate most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/nytimes/videos/the-rant-bridge-has-become-a-signature-taylor-swift-songwriting-tool-developed-w/26498261749876524/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The &quot;rant bridge&quot; has become a signature Taylor Swift...The &quot;rant bridge&quot; has become a signature Taylor Swift songwriting tool...</span></span></span>
 
-The prominence of bridge-centred clips has become noticeable enough that commentators have simultaneously observed two opposite trends: some writers remove bridges to keep songs shorter, while others deliberately craft bridges as potential viral highlights. [Music]({{ 'music/' | relative_url }}) journalists and songwriters have repeatedly noted this tension in discussions about TikTok-era composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Is Tik Tok killing off the pop music bridge?</span><span class="citation-popover-snippet">The GuardianIs TikTok killing off the pop music bridge?December 9, 2022 — 9 Dec 2022 — It&#x27;s a trend that&#x27;s been spotted by everyone from...</span><span class="citation-popover-meta">Published: December 9, 2022</span></span></span>
-
+The prominence of bridge-centred clips has become noticeable enough that commentators have simultaneously observed two opposite trends: some writers remove bridges to keep songs shorter, while others deliberately craft bridges as potential viral highlights. Music journalists and songwriters have repeatedly noted this tension in discussions about TikTok-era composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Is Tik Tok killing off the pop music bridge?</span><span class="citation-popover-snippet">The GuardianIs TikTok killing off the pop music bridge?December 9, 2022 — 9 Dec 2022 — It&#x27;s a trend that&#x27;s been spotted by everyone from...</span><span class="citation-popover-meta">Published: December 9, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0qOyK2fjpEQ" title="Where Did the Bridge Go? The Song Element That Disappeared" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0qOyK2fjpEQ" target="_blank" rel="noopener noreferrer">Where Did the Bridge Go? The Song Element That Disappeared</a></p><p class="youtube-embed-meta">Channel: Senior Musicians Success &middot; Views: 196 &middot; Uploaded: September 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0qOyK2fjpEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0qOyK2fjpEQ">Open on YouTube</a></p></div></div></div>
 
 ### Why contrast travels well
 
 Bridges frequently outperform [choruses]({{ 'choruses/' | relative_url }}) online because they contain:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -310,7 +307,6 @@ The viral success of a bridge or post-chorus depends less on its original struct
 
 Researchers and music-industry observers increasingly describe short-form platforms as environments where songs are fragmented into reusable units. A successful clip must remain intelligible even when detached from the surrounding verses and choruses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — In this article I will explore the ways in which TikTo...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-2-dark.svg" | relative_url }}" alt="Viral Moments illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The post-chorus advantage
 
@@ -328,17 +324,12 @@ A reusable clip usually succeeds because it offers at least one of three qualiti
 
 Unlike a traditional radio hook, a viral hook often gains value through repeated user adaptation rather than repeated listening within the song itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wo6CAG6VNO8" title="TikTok Broke Pop Songwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer">TikTok Broke Pop Songwriting</a></p><p class="youtube-embed-meta">Channel: Maya Wagner &middot; Views: 40.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wo6CAG6VNO8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-3-dark.svg" | relative_url }}" alt="Viral Moments illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A fragment can become the song
 
 The rise of clip [culture]({{ 'culture/' | relative_url }}) has produced situations where audiences know a small section of a track while remaining unfamiliar with the rest.
 
-The discussion surrounding Bad Habit became a prominent example. A short portion of the song spread widely on TikTok and was reused across many unrelated video [formats]({{ 'formats/' | relative_url }}). Journalists covering the phenomenon noted that the track became associated with a highly specific viral segment, while concert videos later revealed audiences who enthusiastically knew that fragment but struggled with other sections of the song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonedeaf.thebrag.com/steve-lacy-concert-the-whole-crowd-goes-silent-after-viral-tiktok-verse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonedeaf.thebrag.com">[Tone Deaf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonedeaf.thebrag.com</span><span class="citation-popover-title">steve lacy concert the whole crowd goes silent after viral tiktok verse</span><span class="citation-popover-snippet">Lacy concert: the whole crowd goes silent after viral...19 Oct 2022 — This video of a Steve Lacy concert exposing TikToker&#x27;s shallow kno...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nylon.com/entertainment/steve-lacy-bad-habit-tiktok-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nylon.com">[Nylon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nylon.com</span><span class="citation-popover-title">Steve Lacy&#x27;s &quot;Bad Habit&quot; Is This Summer&#x27;s Melancholic Hit</span><span class="citation-popover-snippet">NylonSteve Lacy&#x27;s &quot;Bad Habit&quot; Is This Summer&#x27;s Melancholic HitFebruary 20, 2024 — 26 Aug 2022 — “Bad Habit” seems to be linked to almost...</span><span class="citation-popover-meta">Published: February 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/steve-lacy-bad-habit-five-burning-questions-1235121405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">steve lacy bad habit five burning questions 1235121405</span><span class="citation-popover-snippet">Five Burning Questions: Steve Lacy&#x27;s &#x27;Bad Habit&#x27;2 Aug 2022 — “Bad Habit” sounds modern but with classic soul tenets, also the perfect sou...</span></span></span> The significance of that episode was not simply the song's popularity. It illustrated how a single excerpt can become the public identity ofan entire [recording]({{ 'recording/' | relative_url }}).
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tIvfP9A2w" title="The most feared song in jazz, explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tIvfP9A2w" target="_blank" rel="noopener noreferrer">The most feared song in jazz, explained</a></p><p class="youtube-embed-meta">Channel: Vox</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tIvfP9A2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tIvfP9A2w">Open on YouTube</a></p></div></div></div>
+The discussion surrounding Bad Habit became a prominent example. A short portion of the song spread widely on TikTok and was reused across many unrelated video [formats]({{ 'formats/' | relative_url }}). Journalists covering the phenomenon noted that the track became associated with a highly specific viral segment, while concert videos later revealed audiences who enthusiastically knew that fragment but struggled with other sections of the song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonedeaf.thebrag.com/steve-lacy-concert-the-whole-crowd-goes-silent-after-viral-tiktok-verse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonedeaf.thebrag.com">[Tone Deaf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonedeaf.thebrag.com</span><span class="citation-popover-title">steve lacy concert the whole crowd goes silent after viral tiktok verse</span><span class="citation-popover-snippet">Lacy concert: the whole crowd goes silent after viral...19 Oct 2022 — This video of a Steve Lacy concert exposing TikToker&#x27;s shallow kno...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nylon.com/entertainment/steve-lacy-bad-habit-tiktok-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nylon.com">[Nylon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nylon.com</span><span class="citation-popover-title">Steve Lacy&#x27;s &quot;Bad Habit&quot; Is This Summer&#x27;s Melancholic Hit</span><span class="citation-popover-snippet">Steve Lacy&#x27;s &quot;Bad Habit&quot; Is This Summer&#x27;s Melancholic HitFebruary 20, 2024 — 26 Aug 2022 — “Bad Habit” seems to be linked to almost...</span><span class="citation-popover-meta">Published: February 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/chart-beat/steve-lacy-bad-habit-five-burning-questions-1235121405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">steve lacy bad habit five burning questions 1235121405</span><span class="citation-popover-snippet">Five Burning Questions: Steve Lacy&#x27;s &#x27;Bad Habit&#x27;2 Aug 2022 — “Bad Habit” sounds modern but with classic soul tenets, also the perfect sou...</span></span></span> The significance of that episode was not simply the song's popularity. It illustrated how a single excerpt can become the public identity ofan entire [recording]({{ 'recording/' | relative_url }}).
 
 ## From Song Section to Social Trend
 
@@ -348,10 +339,10 @@ On short-form platforms, users often attach the same fragment to thousands of di
 
 This process changes the relationship between structure and recognition. Historically, a listener usually encountered a song from beginning to end and learned its hierarchy from the artist. In clip culture, audiences frequently discover the hierarchy first. They encounter the most adaptable fragment before hearing the rest of the composition.
 
-The result is a subtle redistribution of songwriting [attention]({{ 'attention/' | relative_url }}). Writers still need strong choruses, but they also benefit from creating multiple candidate hooks throughout a track. A bridge may become the emotional centre. A post-chorus may become the social-media soundtrack. The section originally intended as a transition can become the section that defines the song in public memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Is Tik Tok killing off the pop music bridge?</span><span class="citation-popover-snippet">The GuardianIs TikTok killing off the pop music bridge?December 9, 2022 — 9 Dec 2022 — It&#x27;s a trend that&#x27;s been spotted by everyone from...</span><span class="citation-popover-meta">Published: December 9, 2022</span></span></span>
+The result is a subtle redistribution of songwriting [attention]({{ 'attention/' | relative_url }}). Writers still need strong choruses, but they also benefit from creating multiple candidate hooks throughout a track. A bridge may become the emotional centre. A post-chorus may become the social-media soundtrack. The section originally intended as a transition can become the section that defines the song in public [memory]({{ 'memory/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Is Tik Tok killing off the pop music bridge?</span><span class="citation-popover-snippet">The GuardianIs TikTok killing off the pop music bridge?December 9, 2022 — 9 Dec 2022 — It&#x27;s a trend that&#x27;s been spotted by everyone from...</span><span class="citation-popover-meta">Published: December 9, 2022</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wo6CAG6VNO8" title="TikTok Broke Pop Songwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer">TikTok Broke Pop Songwriting</a></p><p class="youtube-embed-meta">Channel: Maya Wagner &middot; Views: 40.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wo6CAG6VNO8">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-3-dark.svg" | relative_url }}" alt="Viral Moments illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Chorus Is No Longer the Only Hook
 
 The viral era has not eliminated the chorus. Instead, it has weakened the chorus's monopoly on memorability.
@@ -477,15 +468,15 @@ The key change is structural rather than technological. A song is no longer judg
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="{{ '/assets/images/marketplace-covers/21e59d16e1325f0010da.jpg' | relative_url }}" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes"><img src="https://i.ebayimg.com/images/g/CoMAAOSwxaJksAwI/s-l225.jpg" alt="Listing image for EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +484,15 @@ The key change is structural rather than technological. A song is no longer judg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE STONE ROSES - Debut Studio Album Cover - Poster - Various Sizes"><img src="https://i.ebayimg.com/images/g/WqwAAOSwwN9imiff/s-l225.jpg" alt="Listing image for THE STONE ROSES - Debut Studio Album Cover - Poster - Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">THE STONE ROSES - Debut Studio Album Cover - Poster - Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +500,15 @@ The key change is structural rather than technological. A song is no longer judg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT"><img src="{{ '/assets/images/marketplace-covers/4aa04c288f4ad701a7d2.jpg' | relative_url }}" alt="Listing image for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Album Poster Cover Request Your Own Album Choice Album Cover Poster"><img src="https://i.ebayimg.com/images/g/V3oAAOSwR7pmeojx/s-l225.jpg" alt="Listing image for Custom Album Poster Cover Request Your Own Album Choice Album Cover Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Custom Album Poster Cover Request Your Own Album Choice Album Cover Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +516,15 @@ The key change is structural rather than technological. A song is no longer judg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MICHAEL JACKSON &quot;DANGEROUS&quot;.. Iconic Album Cover Poster Various Sizes"><img src="https://i.ebayimg.com/images/g/GisAAOSwZEhl6IlK/s-l225.jpg" alt="Listing image for MICHAEL JACKSON &quot;DANGEROUS&quot;.. Iconic Album Cover Poster Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">MICHAEL JACKSON &quot;DANGEROUS&quot;.. Iconic Album Cover Poster Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +532,7 @@ The key change is structural rather than technological. A song is no longer judg
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="viral-moments-why-the-chorus-is-no-longer-the-only-hook-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-chorus-is-no-longer-the-only-hook-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="why-the-chorus-is-no-longer-the-only-hook-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,107 +748,107 @@ The key change is structural rather than technological. A song is no longer judg
 1. <a id="endnote-1"></a>
    Source: berklee.edu  
    Title: tiktok is changing the dna of hit songs and artists are taking note  
-   Link: [https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note](https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note)  
+   Link: <a href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music](https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music)  
+   Link: <a href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — In this article I will explore the ways in which TikTo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nytimes/videos/the-rant-bridge-has-become-a-signature-taylor-swift-songwriting-tool-developed-w/26498261749876524/?locale=en_GB](https://www.facebook.com/nytimes/videos/the-rant-bridge-has-become-a-signature-taylor-swift-songwriting-tool-developed-w/26498261749876524/?locale=en_GB)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe &quot;rant bridge&quot; has become a signature Taylor Swift...The &quot;rant bridge&quot; has become a signature Taylor Swift songwriting tool...</p></details>
+   Link: <a href="https://www.facebook.com/nytimes/videos/the-rant-bridge-has-become-a-signature-taylor-swift-songwriting-tool-developed-w/26498261749876524/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nytimes/videos/the-rant-bridge-has-become-a-signature-taylor-swift-songwriting-tool-developed-w/26498261749876524/?locale=en_GB</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;rant bridge&quot; has become a signature Taylor Swift...The &quot;rant bridge&quot; has become a signature Taylor Swift songwriting tool...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: top40theory.com  
-   Link: [https://www.top40theory.com/blog/everything-you-need-to-know-about-the-postchorus](https://www.top40theory.com/blog/everything-you-need-to-know-about-the-postchorus)  
+   Link: <a href="https://www.top40theory.com/blog/everything-you-need-to-know-about-the-postchorus" target="_blank" rel="noopener noreferrer nofollow">https://www.top40theory.com/blog/everything-you-need-to-know-about-the-postchorus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top40 TheoryEverything You Need to Know About the PostchorusIf the sonic energy drops after the chorus, you&#x27;re probably in the second ver...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nylon.com  
    Title: Steve Lacy's "Bad Habit" Is This Summer's Melancholic Hit  
-   Link: [https://www.nylon.com/entertainment/steve-lacy-bad-habit-tiktok-trend](https://www.nylon.com/entertainment/steve-lacy-bad-habit-tiktok-trend)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NylonSteve Lacy&#x27;s &quot;Bad Habit&quot; Is This Summer&#x27;s Melancholic HitFebruary 20, 2024 — 26 Aug 2022 — “Bad Habit” seems to be linked to almost...</p></details>
+   Link: <a href="https://www.nylon.com/entertainment/steve-lacy-bad-habit-tiktok-trend" target="_blank" rel="noopener noreferrer nofollow">https://www.nylon.com/entertainment/steve-lacy-bad-habit-tiktok-trend</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Lacy&#x27;s &quot;Bad Habit&quot; Is This Summer&#x27;s Melancholic HitFebruary 20, 2024 — 26 Aug 2022 — “Bad Habit” seems to be linked to almost...</p></details>
    Published: February 20, 2024  
 
 6. <a id="endnote-6"></a>
    Source: billboard.com  
    Title: steve lacy bad habit five burning questions 1235121405  
-   Link: [https://www.billboard.com/music/chart-beat/steve-lacy-bad-habit-five-burning-questions-1235121405/](https://www.billboard.com/music/chart-beat/steve-lacy-bad-habit-five-burning-questions-1235121405/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/steve-lacy-bad-habit-five-burning-questions-1235121405/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/steve-lacy-bad-habit-five-burning-questions-1235121405/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five Burning Questions: Steve Lacy&#x27;s &#x27;Bad Habit&#x27;2 Aug 2022 — “Bad Habit” sounds modern but with classic soul tenets, also the perfect sou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/](https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/)  
+   Link: <a href="https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/</a>  
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Is Tik Tok killing off the pop music bridge?  
-   Link: [https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge](https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge)  
+   Link: <a href="https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/dec/09/pop-music-is-tiktok-killing-the-bridge</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianIs TikTok killing off the pop music bridge?December 9, 2022 — 9 Dec 2022 — It&#x27;s a trend that&#x27;s been spotted by everyone from...</p></details>
    Published: December 9, 2022  
 
 9. <a id="endnote-9"></a>
    Source: tonedeaf.thebrag.com  
    Title: steve lacy concert the whole crowd goes silent after viral tiktok verse  
-   Link: [https://tonedeaf.thebrag.com/steve-lacy-concert-the-whole-crowd-goes-silent-after-viral-tiktok-verse/](https://tonedeaf.thebrag.com/steve-lacy-concert-the-whole-crowd-goes-silent-after-viral-tiktok-verse/)  
+   Link: <a href="https://tonedeaf.thebrag.com/steve-lacy-concert-the-whole-crowd-goes-silent-after-viral-tiktok-verse/" target="_blank" rel="noopener noreferrer nofollow">https://tonedeaf.thebrag.com/steve-lacy-concert-the-whole-crowd-goes-silent-after-viral-tiktok-verse/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lacy concert: the whole crowd goes silent after viral...19 Oct 2022 — This video of a Steve Lacy concert exposing TikToker&#x27;s shallow kno...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit](https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit)  
+   Link: <a href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Wo6CAG6VNO8](https://www.youtube.com/watch?v=Wo6CAG6VNO8)  
+   Link: <a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wo6CAG6VNO8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Broke Pop SongwritingPop music used to revolve around the chorus—now it revolves around whatever goes viral... In this *video essa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0qOyK2fjpEQ](https://www.youtube.com/watch?v=0qOyK2fjpEQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0qOyK2fjpEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0qOyK2fjpEQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where Did the Bridge Go? The Song Element That DisappearedWith the rise of TikTok music and the importance of spotify strategies for arti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: Way too many song intros are now just a Tik Tok hook  
-   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/17dmfw0/way_too_many_song_intros_are_now_just_a_tiktok/](https://www.reddit.com/r/unpopularkpopopinions/comments/17dmfw0/way_too_many_song_intros_are_now_just_a_tiktok/)  
+   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/17dmfw0/way_too_many_song_intros_are_now_just_a_tiktok/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/17dmfw0/way_too_many_song_intros_are_now_just_a_tiktok/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s...Introducing your song with its main hook isn&#x27;t a new writing technique, it seems like producers are now resorting to hook spammin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWUskqkDkuI/](https://www.instagram.com/reel/DWUskqkDkuI/)  
+   Link: <a href="https://www.instagram.com/reel/DWUskqkDkuI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWUskqkDkuI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>another that shows the bridge, and then another that shows the last chorus...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ucsdguardian.org  
    Title: concert review steve lacy is more than tiktok  
-   Link: [https://ucsdguardian.org/2023/02/27/concert-review-steve-lacy-is-more-than-tiktok/](https://ucsdguardian.org/2023/02/27/concert-review-steve-lacy-is-more-than-tiktok/)  
+   Link: <a href="https://ucsdguardian.org/2023/02/27/concert-review-steve-lacy-is-more-than-tiktok/" target="_blank" rel="noopener noreferrer nofollow">https://ucsdguardian.org/2023/02/27/concert-review-steve-lacy-is-more-than-tiktok/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UCSD GuardianConcert Review: Steve Lacy is More Than TikTok27 Feb 2023 — Lacy urges the audience to sing a verse from his hit song “B...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: amhsnews.org  
    Title: The Steve Lacy Effect: A Tik Tok Phenomenon  
-   Link: [https://amhsnews.org/7735/arts-entertainment/the-steve-lacy-effect/](https://amhsnews.org/7735/arts-entertainment/the-steve-lacy-effect/)  
+   Link: <a href="https://amhsnews.org/7735/arts-entertainment/the-steve-lacy-effect/" target="_blank" rel="noopener noreferrer nofollow">https://amhsnews.org/7735/arts-entertainment/the-steve-lacy-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Steve Lacy Effect: A TikTok Phenomenon - The Monarch6 Dec 2022 — his audience is mainly composed of fans from TikTok only singing the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pure.tudelft.nl  
    Title: Sander Bakker From Hook to Chorus  
-   Link: [https://pure.tudelft.nl/admin/files/247340255/Sander_Bakker_-_From_Hook_to_Chorus.pdf](https://pure.tudelft.nl/admin/files/247340255/Sander_Bakker_-_From_Hook_to_Chorus.pdf)  
+   Link: <a href="https://pure.tudelft.nl/admin/files/247340255/Sander_Bakker_-_From_Hook_to_Chorus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.tudelft.nl/admin/files/247340255/Sander_Bakker_-_From_Hook_to_Chorus.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hook to Chorusby S Bakker · 2025 — In this research, we propose song structure, the arrangement of songs into sections, as a novel lens t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUgi4PwEVX6/](https://www.instagram.com/reel/DUgi4PwEVX6/)  
+   Link: <a href="https://www.instagram.com/reel/DUgi4PwEVX6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUgi4PwEVX6/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s use in the bridges of two of their biggest songs...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Bad Habit (Steve Lacy song)  
-   Link: [https://en.wikipedia.org/wiki/Bad_Habit_%28Steve_Lacy_song%29](https://en.wikipedia.org/wiki/Bad_Habit_%28Steve_Lacy_song%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bad_Habit_%28Steve_Lacy_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bad_Habit_%28Steve_Lacy_song%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Habit (Steve Lacy song)Videos from the tour filmed during performances of &quot;Bad Habit&quot; went viral on TikTok due to concertgoers not...</p></details>

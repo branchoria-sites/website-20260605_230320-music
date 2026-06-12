@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e
 - music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca
 tags:
-- music
+- music-3-a01-be
 - sync
 - scene-meaning
 keywords:
-- music
+- music-3-a01-be
 - sync
 - scene-meaning
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A screen placement can revive a song by giving it a new emotional role, not just another burst of exposure.
 hero_summary: A screen placement can revive a song by giving it a new emotional role, not just another burst of exposure.
 layout: default
 permalink: /scene-meaning/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /sync/
 nav_short_title: Scene Meaning
 title: Why One Scene Can Rewrite a Song
-title_full: Why One Scene Can Rewrite a Song | Sync
+title_full: Why One Scene Can Rewrite a Song
 display_title_short: Scene Meaning
 display_title: Scene Meaning
 heading_title: Why One Scene Can Rewrite a Song
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Screen Placements Revive Songs | Music
+parent_title: How Screen Placements Revive Songs
 parent_permalink: /sync/
 parent_nav_short_title: Sync
 parent_heading_title: How Screen Placements Revive Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sync Money Is Big but Not Magic
 up_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -259,7 +259,7 @@ prev_link:
   permalink: /revenue/
   short_title: Revenue
   heading_title: Why Sync Money Is Big but Not Magic
-date: '2026-06-09 07:10:57 '
+date: '2026-06-11 23:36:49 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_mean
 
 ## Introduction
 
-A sync placement does more than put a song in front of new listeners. The most powerful placements give a song a new job inside a story. A track that once sounded nostalgic, romantic or carefree can become associated with survival, obsession, triumph or loss because of a single memorable scene. When that happens, audiences do not merely rediscover the [music]({{ 'music/' | relative_url }}); they hear it differently.
-
+A sync placement does more than put a song in front of new listeners. The most powerful placements give a song a new job inside a story. A track that once sounded nostalgic, romantic or carefree can become associated with survival, obsession, triumph or loss because of a single memorable scene. When that happens, audiences do not merely rediscover the music; they hear it differently.
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1-dark.svg" | relative_url }}" alt="Scene Meaning illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the key ways sync [licensing]({{ 'licensing/' | relative_url }}) gives songs new lives. A film, television episode, game sequence or advertisement provides narrative context, and that context can reshape interpretation. Research on music in film consistently finds that music influences how viewers understand characters, emotions and events, while the surrounding visuals also change how listeners interpret the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1570&amp;context=caps_thes_all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.csumb.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.csumb.edu</span><span class="citation-popover-snippet">Digital CommonsThe Influence of Film Music on Emotionby A d&#x27;Artenay · 2019 · Cited by 10 — The ability for music to impart meaning and im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/332027403_On_music%27s_potential_to_convey_meaning_in_film_A_systematic_review_of_empirical_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) On music&#x27;s potential to convey meaning in filmThe review provides a systematization of music&#x27;s effects as well as metho...</span></span></span>
@@ -278,12 +277,9 @@ This is one of the key ways sync [licensing]({{ 'licensing/' | relative_url }}) 
 
 A song acquires fresh meaning when it becomes attached to a character or dramatic moment. Instead of functioning as a standalone [recording]({{ 'recording/' | relative_url }}), it becomes a storytelling device.
 
-The most famous recent example is Kate Bush's “Running Up That Hill” in *Stranger Things*. Before the series, the song was already respected as a classic 1980s recording. Within the show, however, it became closely tied to the character Max and her struggle to escape danger and isolation. Viewers did not simply encounter an old song; they encountered a song performing a narrative role. That emotional association helped drive an enormous resurgence in streaming and chart performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPOThe artists has received an estimated GBP 2.37 million in streaming royalties as a result of its new-found popularity according to a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">kate bush stranger things sync warner music 1235197021</span><span class="citation-popover-snippet">The Hollywood Reporter&quot;Running Up That Hill&quot; &#x27;Stranger Things&#x27; Sync: Kate Bush&#x27;s...Aug 22, 2022 — Warner Music Group executives break do...</span></span></span> Variety What matters here is not exposure alone. Many songs appear on screen without changing public perception. The difference is that some placemen <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[variety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...Jun 1, 2022 — “Kate Bush is selective when it comes to licensing her music and be...</span></span></span> ts create a durable story connection. Afterward, hearing the song can immediately evoke the character, the scene and the emotions attached to it.
+The most famous recent example is [Kate Bush]({{ 'kate-bush/' | relative_url }})'s “Running Up That Hill” in *Stranger Things*. Before the series, the song was already respected as a classic 1980s recording. Within the show, however, it became closely tied to the character Max and her struggle to escape danger and isolation. Viewers did not simply encounter an old song; they encountered a song performing a narrative role. That emotional association helped drive an enormous resurgence in streaming and chart performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">The artists has received an estimated GBP 2.37 million in streaming royalties as a result of its new-found popularity according to a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">kate bush stranger things sync warner music 1235197021</span><span class="citation-popover-snippet">The Hollywood Reporter&quot;Running Up That Hill&quot; &#x27;Stranger Things&#x27; Sync: Kate Bush&#x27;s...Aug 22, 2022 — Warner Music Group executives break do...</span></span></span> Variety What matters here is not exposure alone. Many songs appear on screen without changing public perception. The difference is that some placemen <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[variety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...Jun 1, 2022 — “Kate Bush is selective when it comes to licensing her music and be...</span></span></span> ts create a durable story connection. Afterward, hearing the song can immediately evoke the character, the scene and the emotions attached to it.
 
 Researchers studying music and film have repeatedly found that differently framed music can alter audience interpretations of plots and protagonists. In other words, viewers are not simply receiving two separate signals—music and image. They are combining them into a single meaning-making experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/332027403_On_music%27s_potential_to_convey_meaning_in_film_A_systematic_review_of_empirical_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) On music&#x27;s potential to convey meaning in filmThe review provides a systematization of music&#x27;s effects as well as metho...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hAx6mYeC6pY" title="Sophie Ellis-Bextor - Murder On The Dancefloor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer">Sophie Ellis-Bextor - Murder On The Dancefloor</a></p><p class="youtube-embed-meta">Channel: SEllisBextorVEVO &middot; Views: 192.9M &middot; Uploaded: August 2017 &middot; Length: 3 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hAx6mYeC6pY">Open on YouTube</a></p></div></div></div>
 
 ### When a Scene Creates Irony
 
@@ -295,7 +291,6 @@ Sophie Ellis-Bextor's “Murder on the Dancefloor” gained a new layer of inter
 
 The result was not that audiences forgot the original song. Instead, they acquired an additional interpretation. The recording now carried both its original associations and the newer meanings supplied by the film.
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-2-dark.svg" | relative_url }}" alt="Scene Meaning illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Emotion Makes Rediscovery Faster
 
@@ -303,10 +298,9 @@ People tend to remember emotional experiences more strongly than neutral ones. S
 
 Studies of film music show that music significantly influences emotional perception, [attention]({{ 'attention/' | relative_url }}) and interpretation. Viewers often experience scenes as integrated emotional events rather than as separate visual and auditory elements. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1570&amp;context=caps_thes_all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.csumb.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.csumb.edu</span><span class="citation-popover-snippet">Digital CommonsThe Influence of Film Music on Emotionby A d&#x27;Artenay · 2019 · Cited by 10 — The ability for music to impart meaning and im...</span></span></span>
 
-This helps explain why some catalogue songs return decades after release while others remain dormant.
+This helps explain why some [catalogue]({{ 'catalogue/' | relative_url }}) songs return decades after release while others remain dormant.
 
 Several conditions usually align:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,8 +315,7 @@ When listeners return to the song later, they often replay the scene mentally as
 
 This mechanism helps explain why audiences frequently describe rediscovered songs in relation to scenes rather than musical characteristics. They talk about “the song from that moment” because the emotional memory is carrying the music with it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iSkJFs7myn0" title="THE POWER OF MUSIC IN FILM - How music affects film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iSkJFs7myn0" target="_blank" rel="noopener noreferrer">THE POWER OF MUSIC IN FILM - How music affects film</a></p><p class="youtube-embed-meta">Channel: Jack Pierce</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iSkJFs7myn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iSkJFs7myn0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hAx6mYeC6pY" title="Sophie Ellis-Bextor - Murder On The Dancefloor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer">Sophie Ellis-Bextor - Murder On The Dancefloor</a></p><p class="youtube-embed-meta">Channel: SEllisBextorVEVO &middot; Views: 192.9M &middot; Uploaded: August 2017 &middot; Length: 3 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hAx6mYeC6pY">Open on YouTube</a></p></div></div></div>
 
 ## How Streaming and Clips Extend the Moment
 
@@ -332,10 +325,8 @@ Today, the process is nearly instantaneous.
 
 A powerful scene can be clipped, discussed and shared across social platforms within hours. Viewers identify the track through streaming services, add it to playlists and circulate excerpts that repeatedly reconnect the song with the scene. The original placement becomes the centre of a wider network of digital reminders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/jan/05/sophie-ellis-bextor-saltburn-scene-sees-on-the-dancefloor-re-enter-top-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">sophie ellis bextor saltburn scene sees on the dancefloor re enter top 10</span><span class="citation-popover-snippet">Sophie Ellis-Bextor: Saltburn scene sees Murder on...Jan 5, 2024 — The song is featured in the final scene of Saltburn in which the prot...</span></span></span>
 
-The *Stranger Things* and *Saltburn* examples both illustrate this pattern. In each case, streaming growth was amplified by online discussion, clips, memes and fan engagement that continually reinforced the narrative association created by the screen appearance. The Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">kate bush stranger things sync warner music 1235197021</span><span class="citation-popover-snippet">The Hollywood Reporter&quot;Running Up That Hill&quot; &#x27;Stranger Things&#x27; Sync: Kate Bush&#x27;s...Aug 22, 2022 — Warner Music Group executives break do...</span></span></span> Variety Community reactions often reveal that people are revisiting not only the song but also the scene itself. Discussions surrounding <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[variety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...Jun 1, 2022 — “Kate Bush is selective when it comes to licensing her music and be...</span></span></span>*Saltburn*, for example, frequently focused on repeatedly watching the ending sequence and its musical pairing rather than merely streaming the track in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/saltburn/comments/1aczmq4/how_many_times_have_you_listened_to_murder_on_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHow many times have you listened to &quot;Murder on the...January 28, 2024 — The scene on the other hand? I watched it 1-2-3-4-5-6000 t...</span><span class="citation-popover-meta">Published: January 28, 2024</span></span></span>
+The *Stranger Things* and *Saltburn* examples both illustrate this pattern. In each case, streaming growth was amplified by online discussion, clips, memes and fan engagement that continually reinforced the narrative association created by the screen appearance. The Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">kate bush stranger things sync warner music 1235197021</span><span class="citation-popover-snippet">The Hollywood Reporter&quot;Running Up That Hill&quot; &#x27;Stranger Things&#x27; Sync: Kate Bush&#x27;s...Aug 22, 2022 — Warner Music Group executives break do...</span></span></span> Variety Community reactions often reveal that people are revisiting not only the song but also the scene itself. Discussions surrounding <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[variety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...Jun 1, 2022 — “Kate Bush is selective when it comes to licensing her music and be...</span></span></span>*Saltburn*, for example, frequently focused on repeatedly watching the ending sequence and its musical pairing rather than merely streaming the track in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/saltburn/comments/1aczmq4/how_many_times_have_you_listened_to_murder_on_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How many times have you listened to &quot;Murder on the...January 28, 2024 — The scene on the other hand? I watched it 1-2-3-4-5-6000 t...</span><span class="citation-popover-meta">Published: January 28, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-3-dark.svg" | relative_url }}" alt="Scene Meaning illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some Meaning Changes Last
 
 Most sync placements increase awareness. Far fewer permanently reshape how a song is perceived.
@@ -344,9 +335,7 @@ Lasting transformations tend to occur when the scene becomes culturally memorabl
 
 This is why scene context matters so much within sync licensing. The placement is not simply advertising for a song. It is a mechanism for reassigning meaning. When the match between story, character and music is strong enough, audiences stop hearing the track as they once did. The recording remains the same, but the emotional role attached to it has been rewritten.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U54n1lifzms" title="How movie music manipulates your emotions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U54n1lifzms" target="_blank" rel="noopener noreferrer">How movie music manipulates your emotions</a></p><p class="youtube-embed-meta">Channel: Neuro Transmissions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U54n1lifzms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U54n1lifzms">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-3-dark.svg" | relative_url }}" alt="Scene Meaning illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -744,147 +733,147 @@ This is why scene context matters so much within sync licensing. The placement i
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332027403_On_music%27s_potential_to_convey_meaning_in_film_A_systematic_review_of_empirical_evidence](https://www.researchgate.net/publication/332027403_On_music%27s_potential_to_convey_meaning_in_film_A_systematic_review_of_empirical_evidence)  
+   Link: <a href="https://www.researchgate.net/publication/332027403_On_music%27s_potential_to_convey_meaning_in_film_A_systematic_review_of_empirical_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332027403_On_music%27s_potential_to_convey_meaning_in_film_A_systematic_review_of_empirical_evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) On music&#x27;s potential to convey meaning in filmThe review provides a systematization of music&#x27;s effects as well as metho...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: variety.com  
    Title: stranger things kate bush running up hill 1235282576  
-   Link: [https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/](https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/)  
+   Link: <a href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...Jun 1, 2022 — “Kate Bush is selective when it comes to licensing her music and be...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-[royalties](https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-[royalties)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPOThe artists has received an estimated GBP 2.37 million in streaming royalties as a result of its new-found popularity according to a...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-[royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-[royalties</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The artists has received an estimated GBP 2.37 million in streaming royalties as a result of its new-found popularity according to a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: variety.com  
    Title: saltburn soundtrack murder on the dancefloor resurgence 1235862143  
-   Link: [https://variety.com/2024/music/news/saltburn-soundtrack-murder-on-the-dancefloor-resurgence-1235862143/](https://variety.com/2024/music/news/saltburn-soundtrack-murder-on-the-dancefloor-resurgence-1235862143/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VarietyThe &#x27;Murder on the Dancefloor&#x27; Resurgence: &#x27;Saltburn&#x27;...Jan 5, 2024 — Sophie Ellis-Bextor&#x27;s &#x27;Murder on the Dancefloor&#x27; returns to...</p></details>
+   Link: <a href="https://variety.com/2024/music/news/saltburn-soundtrack-murder-on-the-dancefloor-resurgence-1235862143/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2024/music/news/saltburn-soundtrack-murder-on-the-dancefloor-resurgence-1235862143/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Murder on the Dancefloor&#x27; Resurgence: &#x27;Saltburn&#x27;...Jan 5, 2024 — Sophie Ellis-Bextor&#x27;s &#x27;Murder on the Dancefloor&#x27; returns to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9713244/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9713244/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe impact of background music on film audience&#x27;s attentional...by YS Kwon · 2022 · Cited by 26 — The results suggest that participan...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9713244/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9713244/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of background music on film audience&#x27;s attentional...by YS Kwon · 2022 · Cited by 26 — The results suggest that participan...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2301.10914](https://arxiv.org/abs/2301.10914)  
+   Link: <a href="https://arxiv.org/abs/2301.10914" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.10914</a>  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/saltburn/comments/1aczmq4/how_many_times_have_you_listened_to_murder_on_the/](https://www.reddit.com/r/saltburn/comments/1aczmq4/how_many_times_have_you_listened_to_murder_on_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHow many times have you listened to &quot;Murder on the...January 28, 2024 — The scene on the other hand? I watched it 1-2-3-4-5-6000 t...</p></details>
+   Link: <a href="https://www.reddit.com/r/saltburn/comments/1aczmq4/how_many_times_have_you_listened_to_murder_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saltburn/comments/1aczmq4/how_many_times_have_you_listened_to_murder_on_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How many times have you listened to &quot;Murder on the...January 28, 2024 — The scene on the other hand? I watched it 1-2-3-4-5-6000 t...</p></details>
    Published: January 28, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/1af4tqu/sophie_ellisbextor_to_perform_saltburn_sensation/](https://www.reddit.com/r/popheads/comments/1af4tqu/sophie_ellisbextor_to_perform_saltburn_sensation/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/1af4tqu/sophie_ellisbextor_to_perform_saltburn_sensation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/1af4tqu/sophie_ellisbextor_to_perform_saltburn_sensation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>oor&#x27; at BAFTA Film Awards · Comments Section...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitalcommons.csumb.edu  
-   Link: [https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1570&context=caps_thes_all](https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1570&context=caps_thes_all)  
+   Link: <a href="https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1570&amp;context=caps_thes_all" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1570&amp;context=caps_thes_all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe Influence of Film Music on Emotionby A d&#x27;Artenay · 2019 · Cited by 10 — The ability for music to impart meaning and im...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: hollywoodreporter.com  
-   Title: [kate bush stranger](&#123;&#123; 'kate-bush/' | relative_url &#125;&#125;) things sync warner music 1235197021  
-   Link: [https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/](https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/)  
+   Title: kate bush stranger things sync warner music 1235197021  
+   Link: <a href="https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/business/business-news/kate-bush-stranger-things-sync-warner-music-1235197021/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hollywood Reporter&quot;Running Up That Hill&quot; &#x27;Stranger Things&#x27; Sync: Kate Bush&#x27;s...Aug 22, 2022 — Warner Music Group executives break do...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: sophie ellis bextor saltburn scene sees on the dancefloor re enter top 10  
-   Link: [https://www.theguardian.com/music/2024/jan/05/sophie-ellis-bextor-saltburn-scene-sees-on-the-dancefloor-re-enter-top-10](https://www.theguardian.com/music/2024/jan/05/sophie-ellis-bextor-saltburn-scene-sees-on-the-dancefloor-re-enter-top-10)  
+   Link: <a href="https://www.theguardian.com/music/2024/jan/05/sophie-ellis-bextor-saltburn-scene-sees-on-the-dancefloor-re-enter-top-10" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/jan/05/sophie-ellis-bextor-saltburn-scene-sees-on-the-dancefloor-re-enter-top-10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sophie Ellis-Bextor: Saltburn scene sees Murder on...Jan 5, 2024 — The song is featured in the final scene of Saltburn in which the prot...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: independent.co.uk  
    Title: murder on the dancefloor sophie ellis bextor saltburn b2472686  
-   Link: [https://www.independent.co.uk/arts-entertainment/music/news/murder-on-the-dancefloor-sophie-ellis-bextor-saltburn-b2472686.html](https://www.independent.co.uk/arts-entertainment/music/news/murder-on-the-dancefloor-sophie-ellis-bextor-saltburn-b2472686.html)  
+   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/news/murder-on-the-dancefloor-sophie-ellis-bextor-saltburn-b2472686.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/news/murder-on-the-dancefloor-sophie-ellis-bextor-saltburn-b2472686.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Murder on the Dancefloor: Saltburn, TikTok and a naked...4 Jan 2024 — But it&#x27;s “Murder on the Dancefloor” that has captured viewers&#x27; ima...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: that syncing feeling how stranger things supercharged the music industry  
-   Link: [https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry](https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry)  
+   Link: <a href="https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThat syncing feeling: how Stranger Things supercharged...Jul 12, 2022 — The chart success of first Kate Bush and now Metalli...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2024/jan/09/class-war-on-the-dancefloor-how-rich-gen-zers-started-a-saltburn-craze-that-is-beyond-satire](https://www.theguardian.com/film/2024/jan/09/class-war-on-the-dancefloor-how-rich-gen-zers-started-a-saltburn-craze-that-is-beyond-satire)  
+   Link: <a href="https://www.theguardian.com/film/2024/jan/09/class-war-on-the-dancefloor-how-rich-gen-zers-started-a-saltburn-craze-that-is-beyond-satire" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2024/jan/09/class-war-on-the-dancefloor-how-rich-gen-zers-started-a-saltburn-craze-that-is-beyond-satire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Class war on the dancefloor: how rich gen Zers started a...9 Jan 2024 — The film&#x27;s final scene, in which Barry Keoghan&#x27;s Oliver dances n...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Sophie Ellis-Bextor  
-   Link: [https://www.youtube.com/watch?v=hAx6mYeC6pY](https://www.youtube.com/watch?v=hAx6mYeC6pY)  
+   Link: <a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAx6mYeC6pY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Murder On The DancefloorListen to &quot;Murder On The Dancefloor&quot; (as featured in the movie &#x27;Saltburn&#x27;):... song, until I saw “Saltburn“ yest...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: apexlab.uchicago.edu  
    Title: Film Music  
-   Link: [https://apexlab.uchicago.edu/docs/papers/FilmMusic.pdf](https://apexlab.uchicago.edu/docs/papers/FilmMusic.pdf)  
+   Link: <a href="https://apexlab.uchicago.edu/docs/papers/FilmMusic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apexlab.uchicago.edu/docs/papers/FilmMusic.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Influences How Viewers Relate to Movie Charactersby B Hoeckner · Cited by 177 — The study provides evidence that film music can inf...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: andrmusic.co  
-   Link: [https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/](https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/)  
+   Link: <a href="https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Artists Really Earn Passive Income From Sync LicensingSync licensing can create real passive income. Learn what makes songs attractiv...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/kate-bush-makes-rare-statement-on-stranger-things-use-of-running-up-that-hill](https://pitchfork.com/news/kate-bush-makes-rare-statement-on-stranger-things-use-of-running-up-that-hill)  
+   Link: <a href="https://pitchfork.com/news/kate-bush-makes-rare-statement-on-stranger-things-use-of-running-up-that-hill" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/kate-bush-makes-rare-statement-on-stranger-things-use-of-running-up-that-hill</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bush expressed her excitement about the song&#x27;s resurgence, noting it has entered the UK [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) at No. 8 and her appreciation for the fans...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tommacinneswriter.com  
-   Link: [https://tommacinneswriter.com/2024/02/06/the-stars-of-stage-and-screensong-53-250-murder-on-the-dancefloor-by-sophie-ellis-bextor-from-the-original-motion-picture-soundtrack-for-the-film-saltburn/](https://tommacinneswriter.com/2024/02/06/the-stars-of-stage-and-screensong-53-250-murder-on-the-dancefloor-by-sophie-ellis-bextor-from-the-original-motion-picture-soundtrack-for-the-film-saltburn/)  
+   Link: <a href="https://tommacinneswriter.com/2024/02/06/the-stars-of-stage-and-screensong-53-250-murder-on-the-dancefloor-by-sophie-ellis-bextor-from-the-original-motion-picture-soundtrack-for-the-film-saltburn/" target="_blank" rel="noopener noreferrer nofollow">https://tommacinneswriter.com/2024/02/06/the-stars-of-stage-and-screensong-53-250-murder-on-the-dancefloor-by-sophie-ellis-bextor-from-the-original-motion-picture-soundtrack-for-the-film-saltburn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stars of Stage and Screen…Song #53/250: Murder on the...Feb 6, 2024 — Song #53/250: Murder on the Dancefloor by Sophie Ellis-Bextor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: needafixer.com  
-   Link: [https://www.needafixer.com/blog/the-role-of-music-in-film-and-how-soundtracks-enhance-emotional-impact/](https://www.needafixer.com/blog/the-role-of-music-in-film-and-how-soundtracks-enhance-emotional-impact/)  
+   Link: <a href="https://www.needafixer.com/blog/the-role-of-music-in-film-and-how-soundtracks-enhance-emotional-impact/" target="_blank" rel="noopener noreferrer nofollow">https://www.needafixer.com/blog/the-role-of-music-in-film-and-how-soundtracks-enhance-emotional-impact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When you hear music in a film, your ears receive the sound. Your brain is also processing these tunes along with your...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: listen to murder on the dancefloor as featured in the movie saltburn watch the m  
-   Link: [https://www.facebook.com/SophieEllisBextor/posts/listen-to-murder-on-the-dancefloor-as-featured-in-the-movie-saltburn-watch-the-m/912821426868946/](https://www.facebook.com/SophieEllisBextor/posts/listen-to-murder-on-the-dancefloor-as-featured-in-the-movie-saltburn-watch-the-m/912821426868946/)  
+   Link: <a href="https://www.facebook.com/SophieEllisBextor/posts/listen-to-murder-on-the-dancefloor-as-featured-in-the-movie-saltburn-watch-the-m/912821426868946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SophieEllisBextor/posts/listen-to-murder-on-the-dancefloor-as-featured-in-the-movie-saltburn-watch-the-m/912821426868946/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Listen to &quot;Murder On The Dancefloor&quot; (as featured in...In January 2024, the song saw a resurgence in popularity due to its feature in th...</p></details>
    Published: January 2024  
 
 22. <a id="endnote-22"></a>
    Source: lwks.com  
    Title: the symphony behind the screen understanding the impact of soundtracks in film  
-   Link: [https://lwks.com/blog/the-symphony-behind-the-screen-understanding-the-impact-of-soundtracks-in-film](https://lwks.com/blog/the-symphony-behind-the-screen-understanding-the-impact-of-soundtracks-in-film)  
+   Link: <a href="https://lwks.com/blog/the-symphony-behind-the-screen-understanding-the-impact-of-soundtracks-in-film" target="_blank" rel="noopener noreferrer nofollow">https://lwks.com/blog/the-symphony-behind-the-screen-understanding-the-impact-of-soundtracks-in-film</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Impact of Soundtracks in Film7 Feb 2024 — A well-crafted soundtrack can transform a scene from mundane to memorable, gu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
    Title: kate bush really making 200000 week from netflix sync bindu de knock  
-   Link: [https://www.linkedin.com/pulse/kate-bush-really-making-200000-week-from-netflix-sync-bindu-de-knock](https://www.linkedin.com/pulse/kate-bush-really-making-200000-week-from-netflix-sync-bindu-de-knock)  
+   Link: <a href="https://www.linkedin.com/pulse/kate-bush-really-making-200000-week-from-netflix-sync-bindu-de-knock" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/kate-bush-really-making-200000-week-from-netflix-sync-bindu-de-knock</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Kate Bush really making $200000 a week from the...Imagine my [surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) to learn that &#x27;Running Up That Hill&#x27; was used in Netflix&#x27; hit-s...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: songwritingforguitar.com  
    Title: understanding the success of kate bush s running up that hill  
-   Link: [https://www.songwritingforguitar.com/blog/understanding-the-success-of-kate-bush-s-running-up-that-hill](https://www.songwritingforguitar.com/blog/understanding-the-success-of-kate-bush-s-running-up-that-hill)  
+   Link: <a href="https://www.songwritingforguitar.com/blog/understanding-the-success-of-kate-bush-s-running-up-that-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.songwritingforguitar.com/blog/understanding-the-success-of-kate-bush-s-running-up-that-hill</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret to Understanding Kate Bush&#x27;s Music SuccessJul 22, 2022 — Being an independent artist is much like running up a hill, and then...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: musicmusingsandsuch.com  
-   Link: [https://www.musicmusingsandsuch.com/musicmusingsandsuch/2025/5/5/feature-stranger-things-particular-scenes-kate-bush-and-the-licensing-of-her-music](https://www.musicmusingsandsuch.com/musicmusingsandsuch/2025/5/5/feature-stranger-things-particular-scenes-kate-bush-and-the-licensing-of-her-music)  
+   Link: <a href="https://www.musicmusingsandsuch.com/musicmusingsandsuch/2025/5/5/feature-stranger-things-particular-scenes-kate-bush-and-the-licensing-of-her-music" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmusingsandsuch.com/musicmusingsandsuch/2025/5/5/feature-stranger-things-particular-scenes-kate-bush-and-the-licensing-of-her-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FEATURE: Stranger Things, Particular Scenes: Kate Bush and...May 5, 2025 — Synchronization License: Required when a song is used in a vi...</p></details>
    Published: May 5, 2025  
 
 26. <a id="endnote-26"></a>
    Source: screenrant.com  
    Title: saltburn murder dancefloor oliver song dance explained  
-   Link: [https://screenrant.com/saltburn-murder-dancefloor-oliver-song-dance-explained/](https://screenrant.com/saltburn-murder-dancefloor-oliver-song-dance-explained/)  
+   Link: <a href="https://screenrant.com/saltburn-murder-dancefloor-oliver-song-dance-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/saltburn-murder-dancefloor-oliver-song-dance-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saltburn&#x27;s “Murder On The Dancefloor” Scene ExplainedJan 27, 2024 — Oliver&#x27;s &quot;Murder On The Dancefloor&quot; Scene Highlights Him Victoriously...</p></details>

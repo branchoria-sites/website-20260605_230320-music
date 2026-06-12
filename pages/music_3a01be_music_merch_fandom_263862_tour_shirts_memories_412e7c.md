@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c
 - music_3a01be_music_merch_fandom_263862_limited_merch_trust_067339
 tags:
-- music
+- music-3-a01-be
 - merch
 - tour-keepsakes
 keywords:
-- music
+- music-3-a01-be
 - merch
 - tour-keepsakes
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Tour merch turns a live show into a keepsake by tying a physical object to a city, date, venue, and emotional night.
 hero_summary: Tour merch turns a live show into a keepsake by tying a physical object to a city, date, venue, and emotional night.
 layout: default
 permalink: /tour-keepsakes/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /merch/
 nav_short_title: Tour Keepsakes
 title: Why Tour Shirts Become Memory Objects
-title_full: Why Tour Shirts Become Memory Objects | Merch
+title_full: Why Tour Shirts Become Memory Objects
 display_title_short: Tour Keepsakes
 display_title: Tour Keepsakes
 heading_title: Why Tour Shirts Become Memory Objects
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Music Merch Means More Than Branding | Music
+parent_title: Why Music Merch Means More Than Branding
 parent_permalink: /merch/
 parent_nav_short_title: Merch
 parent_heading_title: Why Music Merch Means More Than Branding
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Scarce Merch Stops Feeling Special
 up_link:
   basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -259,7 +259,7 @@ prev_link:
   permalink: /limited-drops/
   short_title: Limited Drops
   heading_title: When Scarce Merch Stops Feeling Special
-date: '2026-06-09 06:45:57 '
+date: '2026-06-11 23:24:13 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-1.webp
@@ -270,12 +270,8 @@ image: /assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memorie
 
 Tour shirts matter because they transform a fleeting live performance into a durable personal object. Long after the lights, crowd noise and final encore have faded, a shirt remains in a wardrobe, drawer or daily rotation, carrying traces of a specific night. For many fans, it is not simply clothing. It is a record of attendance, a reminder of who they were with, what songs were played and how the event felt.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-1-dark.svg" | relative_url }}" alt="Tour Keepsakes illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [music]({{ 'music/' | relative_url }}) memorabilia consistently shows that fans attach personal meaning to [physical]({{ 'physical/' | relative_url }}) artefacts connected to live music. Concert T-shirts sit alongside ticket stubs, posters and other keepsakes as objects that help people preserve and revisit significant musical experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.southwestern.edu">[Southwestern University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.southwestern.edu</span><span class="citation-popover-title">University Popular Music and Materiality: Memorabilia and Memory</span><span class="citation-popover-snippet">Southwestern UniversityPopular Music and Materiality: Memorabilia and Memory...December 22, 2015 — by A Bennett · Cited by 107 — Ticket...</span><span class="citation-popover-meta">Published: December 22, 2015</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-KndtiBWEEA" title="I Begged My Cold Wife For A Divorce,Then She Became Obsessed With Me Overnight!（2）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-KndtiBWEEA" target="_blank" rel="noopener noreferrer">I Begged My Cold Wife For A Divorce,Then She Became Obsessed With Me Overnight!（2）</a></p><p class="youtube-embed-meta">Channel: King&#x27;s Manhwa Recap2</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-KndtiBWEEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-KndtiBWEEA">Open on YouTube</a></p></div></div></div>
+Research on music memorabilia consistently shows that fans attach personal meaning to [physical]({{ 'physical/' | relative_url }}) artefacts connected to live music. Concert T-shirts sit alongside ticket stubs, posters and other keepsakes as objects that help people preserve and revisit significant musical experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.southwestern.edu">[Southwestern University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.southwestern.edu</span><span class="citation-popover-title">University Popular Music and Materiality: Memorabilia and Memory</span><span class="citation-popover-snippet">Southwestern UniversityPopular Music and Materiality: Memorabilia and Memory...December 22, 2015 — by A Bennett · Cited by 107 — Ticket...</span><span class="citation-popover-meta">Published: December 22, 2015</span></span></span>
 
 ## Why Fans Buy at Peak Emotion
 
@@ -287,9 +283,6 @@ The purchase is often less about acquiring a garment than preserving a moment. F
 
 The emotional significance of concert keepsakes is reflected in wider studies of music memorabilia. Researchers examining fan collections have found that objects linked to particular performances often carry meanings that far exceed their monetary value because they become tied to personal identity and life stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.southwestern.edu">[Southwestern University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.southwestern.edu</span><span class="citation-popover-title">University Popular Music and Materiality: Memorabilia and Memory</span><span class="citation-popover-snippet">Southwestern UniversityPopular Music and Materiality: Memorabilia and Memory...December 22, 2015 — by A Bennett · Cited by 107 — Ticket...</span><span class="citation-popover-meta">Published: December 22, 2015</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DzymkqGBEcw" title="Why Some Concert Merch Becomes Priceless" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer">Why Some Concert Merch Becomes Priceless</a></p><p class="youtube-embed-meta">Channel: WNYC &middot; Views: 66 &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DzymkqGBEcw">Open on YouTube</a></p></div></div></div>
-
 ## Dates, Venues and Personal Archives
 
 One reason tour shirts are especially powerful memory objects is their built-in documentation. Many include tour dates, cities and sometimes venue names on the back. These details turn an ordinary item of clothing into a miniature archive.
@@ -299,7 +292,6 @@ A shirt from a world tour may contain dozens of locations, but the wearer often 
 Memory researchers frequently note that recall is strengthened by cues associated with the original experience. While studies of concert shirts specifically are limited, work on music artefacts and autobiographical memory shows that material objects help people reconnect with personally significant moments from the past. Music enthusiasts interviewed in memory-focused studies often describe records, memorabilia and related possessions as vehicles for recalling particular periods of their lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.equinoxpub.com/PMH/article/view/18683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.equinoxpub.com">[journal.equinoxpub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.equinoxpub.com</span><span class="citation-popover-snippet">Well-worn grooves&#x27;: Music, materiality and biographical...by IA Taylor · 2019 · Cited by 7 — this article considers the biographical fu...</span></span></span>
 
 Tour shirts also capture details that digital memories sometimes lose. A social media post may show that a concert happened, but a shirt preserves the event in a format that remains visible even when platforms change, accounts disappear or photo libraries become difficult to navigate.
-
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-2-dark.svg" | relative_url }}" alt="Tour Keepsakes illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Merch Outlasts the Live Event
@@ -312,10 +304,9 @@ Researchers studying music-related objects have described how artefacts become w
 
 Many fans deliberately keep old tour shirts even after they stop wearing them regularly. Some frame them, turn them into quilts or store them with other memorabilia. The behaviour reflects a broader tendency to preserve music-related objects because they are seen as carriers of memory rather than disposable consumer goods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.brighton.ac.uk/ws/files/5169710/From_obsolete_objects_to_souvenirs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.brighton.ac.uk">[Cris Brighton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.brighton.ac.uk</span><span class="citation-popover-title">Cris Brighton From obsolete objects to souvenirs: metal fan productions</span><span class="citation-popover-snippet">Cris BrightonFrom obsolete objects to souvenirs: metal fan productions...November 6, 2018 — This article presents the findings of an in...</span><span class="citation-popover-meta">Published: November 6, 2018</span></span></span>
 
-The resale market for vintage concert shirts offers another sign of their memorial value. Decades-old tour shirts often remain desirable not simply because of rarity but because they are tied to specific tours, eras and performances. Their appeal comes from the stories they represent as much as from the fabric itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.etsy.com/uk/market/concert_merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etsy.com">[Etsy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etsy.com</span><span class="citation-popover-title">Concert Merchandise</span><span class="citation-popover-snippet">EtsyConcert Merchandise - Etsy UKCheck out our concert merchandise selection for the very best in unique or custom, handmade pieces from...</span></span></span>
+The resale market for vintage concert shirts offers another sign of their memorial value. Decades-old tour shirts often remain desirable not simply because of rarity but because they are tied to specific tours, eras and performances. Their appeal comes from the stories they represent as much as from the fabric itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.etsy.com/uk/market/concert_merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etsy.com">[Etsy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etsy.com</span><span class="citation-popover-title">Concert Merchandise</span><span class="citation-popover-snippet">Concert Merchandise - Etsy UKCheck out our concert merchandise selection for the very best in unique or custom, handmade pieces from...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VnmJ0FFHDOo" title="Kid TAKES OVER DHAR MANN STUDIOS, What Happens Is Shocking | Dhar Mann" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VnmJ0FFHDOo" target="_blank" rel="noopener noreferrer">Kid TAKES OVER DHAR MANN STUDIOS, What Happens Is Shocking | Dhar Mann</a></p><p class="youtube-embed-meta">Channel: Dhar Mann Studios</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VnmJ0FFHDOo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VnmJ0FFHDOo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DzymkqGBEcw" title="Why Some Concert Merch Becomes Priceless" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer">Why Some Concert Merch Becomes Priceless</a></p><p class="youtube-embed-meta">Channel: WNYC &middot; Views: 66 &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DzymkqGBEcw">Open on YouTube</a></p></div></div></div>
 
 ## Why a Tour Shirt Often Means More Than Other Merchandise
 
@@ -328,7 +319,6 @@ That distinction makes tour apparel uniquely suited to memory preservation. The 
 As music increasingly exists through streaming and digital [access]({{ 'access/' | relative_url }}), physical reminders of live experiences can become more valuable rather than less. Industry data continues to show strong demand for concert merchandise, especially shirts, suggesting that fans still want tangible objects that help them carry live experiences into everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atvenu.com/post/the-new-normal-for-concert-merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atvenu.com">[atvenu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atvenu.com</span><span class="citation-popover-title">the new normal for concert merchandise</span><span class="citation-popover-snippet">That&#x27;s almost double 2019&#x27;s average of 11%.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atvenu.com/post/the-fan-spending-report-what-concertgoers-are-buying-most" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atvenu.com">[atvenu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atvenu.com</span><span class="citation-popover-title">the fan spending report what concertgoers are buying most</span><span class="citation-popover-snippet">The 2025 Fan Spending Report: What Concertgoers Are...22 Aug 2025 — This year, 23% of fans purchase merchandise, slightly up from 21% in...</span></span></span>
 
 For many people, the most treasured tour shirt is not the rarest or most expensive one. It is the one that instantly brings back a specific crowd, a specific song and a specific night that mattered. In that sense, the shirt functions less as clothing and more as a portable memory device—one that keeps the concert alive long after the stage has been dismantled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.southwestern.edu">[Southwestern University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.southwestern.edu</span><span class="citation-popover-title">University Popular Music and Materiality: Memorabilia and Memory</span><span class="citation-popover-snippet">Southwestern UniversityPopular Music and Materiality: Memorabilia and Memory...December 22, 2015 — by A Bennett · Cited by 107 — Ticket...</span><span class="citation-popover-meta">Published: December 22, 2015</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-3-dark.svg" | relative_url }}" alt="Tour Keepsakes illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -449,15 +439,15 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gorillaz Tour Poster The Mountain Tour Poster 2026 London All Dates Print A5-A3"><img src="{{ '/assets/images/marketplace-covers/d2d9872cc2eb84162b42.jpg' | relative_url }}" alt="Listing image for Gorillaz Tour Poster The Mountain Tour Poster 2026 London All Dates Print A5-A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer">Gorillaz Tour Poster The Mountain Tour Poster 2026 London All Dates Print A5-A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +455,15 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AC/DC Stiff Upper Lip Tour Poster, Manchester Arena."><img src="{{ '/assets/images/marketplace-covers/4b3f714515b2d559210e.jpg' | relative_url }}" alt="Listing image for AC/DC Stiff Upper Lip Tour Poster, Manchester Arena." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer">AC/DC Stiff Upper Lip Tour Poster, Manchester Arena.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +471,15 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruce Springsteen 2024 Cardiff Wales Poster Principality Stadium UK Tour Poster"><img src="{{ '/assets/images/marketplace-covers/499344a58798aa730e18.jpg' | relative_url }}" alt="Listing image for Bruce Springsteen 2024 Cardiff Wales Poster Principality Stadium UK Tour Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer">Bruce Springsteen 2024 Cardiff Wales Poster Principality Stadium UK Tour Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +487,15 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Strokes Poster UK Tour Gig Concert print For Rock Fans A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/484bf6673c66103d5e4d.jpg' | relative_url }}" alt="Listing image for The Strokes Poster UK Tour Gig Concert print For Rock Fans A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer">The Strokes Poster UK Tour Gig Concert print For Rock Fans A5 A4 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +503,7 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tour+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tour poster" data-ebay-reference="tour-keepsakes-why-tour-shirts-become-memory-objects-music-tour-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="why-tour-shirts-become-memory-objects-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,60 +719,60 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
 1. <a id="endnote-1"></a>
    Source: people.southwestern.edu  
    Title: University Popular Music and Materiality: Memorabilia and Memory  
-   Link: [https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf](https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf)  
+   Link: <a href="https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Southwestern UniversityPopular Music and Materiality: Memorabilia and Memory...December 22, 2015 — by A Bennett · Cited by 107 — Ticket...</p></details>
    Published: December 22, 2015  
 
 2. <a id="endnote-2"></a>
    Source: atvenu.com  
    Title: year in review  
-   Link: [https://www.atvenu.com/year-in-review](https://www.atvenu.com/year-in-review)  
+   Link: <a href="https://www.atvenu.com/year-in-review" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/year-in-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artist Merchandise Trends of 2025 - atVenu Insights21% of fans buy merchandise at [concerts](&amp;#123;&amp;#123; &#x27;concerts/&#x27; | relative_url &amp;#125;&amp;#125;), comparable to prior year (20% in 2024, 21% in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: atvenu.com  
    Title: the new normal for concert merchandise  
-   Link: [https://www.atvenu.com/post/the-new-normal-for-concert-merchandise](https://www.atvenu.com/post/the-new-normal-for-concert-merchandise)  
+   Link: <a href="https://www.atvenu.com/post/the-new-normal-for-concert-merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/post/the-new-normal-for-concert-merchandise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s almost double 2019&#x27;s average of 11%.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journal.equinoxpub.com  
-   Link: [https://journal.equinoxpub.com/PMH/article/view/18683](https://journal.equinoxpub.com/PMH/article/view/18683)  
+   Link: <a href="https://journal.equinoxpub.com/PMH/article/view/18683" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/PMH/article/view/18683</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Well-worn grooves&#x27;: Music, materiality and biographical...by IA Taylor · 2019 · Cited by 7 — this article considers the biographical fu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: etsy.com  
    Title: Concert Merchandise  
-   Link: [https://www.etsy.com/uk/market/concert_merchandise](https://www.etsy.com/uk/market/concert_merchandise)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EtsyConcert Merchandise - Etsy UKCheck out our concert merchandise selection for the very best in unique or custom, handmade pieces from...</p></details>
+   Link: <a href="https://www.etsy.com/uk/market/concert_merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/market/concert_merchandise</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Merchandise - Etsy UKCheck out our concert merchandise selection for the very best in unique or custom, handmade pieces from...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: atvenu.com  
    Title: the fan spending report what concertgoers are buying most  
-   Link: [https://www.atvenu.com/post/the-fan-spending-report-what-concertgoers-are-buying-most](https://www.atvenu.com/post/the-fan-spending-report-what-concertgoers-are-buying-most)  
+   Link: <a href="https://www.atvenu.com/post/the-fan-spending-report-what-concertgoers-are-buying-most" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/post/the-fan-spending-report-what-concertgoers-are-buying-most</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Fan Spending Report: What Concertgoers Are...22 Aug 2025 — This year, 23% of fans purchase merchandise, slightly up from 21% in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: atvenu.com  
    Title: live event trends a first look end of year wrap up  
-   Link: [https://www.atvenu.com/post/atvenu-live-event-trends-a-first-look-end-of-year-wrap-up](https://www.atvenu.com/post/atvenu-live-event-trends-a-first-look-end-of-year-wrap-up)  
+   Link: <a href="https://www.atvenu.com/post/atvenu-live-event-trends-a-first-look-end-of-year-wrap-up" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/post/atvenu-live-event-trends-a-first-look-end-of-year-wrap-up</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Live Event Trends: A First Look15 Dec 2025 — Yes. Black tees remain the top-selling item, and the percentage of fans buying [merch](&amp;#123;&amp;#123; &#x27;merch/&#x27; | relative_url &amp;#125;&amp;#125;) st...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: atvenu.com  
    Title: Average merch spend is $67.53 per fan, up 9% year-over-year  
-   Link: [https://www.atvenu.com/post/mid-year-venue-merchandise-insights-how-fan-spending-is-evolving](https://www.atvenu.com/post/mid-year-venue-merchandise-insights-how-fan-spending-is-evolving)  
+   Link: <a href="https://www.atvenu.com/post/mid-year-venue-merchandise-insights-how-fan-spending-is-evolving" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/post/mid-year-venue-merchandise-insights-how-fan-spending-is-evolving</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Mid-Year Venue Merchandise Insights: How Fan...6 Sept 2025 — In 2025, 23% of arena and stadium fans are buying merchandise, up from...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: atvenu.com  
-   Link: [https://www.atvenu.com/blog](https://www.atvenu.com/blog)  
+   Link: <a href="https://www.atvenu.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/blog</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As fall approaches, we&#x27;re excited to share a first look at fan spending at concerts, focusing...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cris.brighton.ac.uk  
    Title: Cris Brighton From obsolete objects to souvenirs: metal fan productions  
-   Link: [https://cris.brighton.ac.uk/ws/files/5169710/From_obsolete_objects_to_souvenirs.pdf](https://cris.brighton.ac.uk/ws/files/5169710/From_obsolete_objects_to_souvenirs.pdf)  
+   Link: <a href="https://cris.brighton.ac.uk/ws/files/5169710/From_obsolete_objects_to_souvenirs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.brighton.ac.uk/ws/files/5169710/From_obsolete_objects_to_souvenirs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cris BrightonFrom obsolete objects to souvenirs: metal fan productions...November 6, 2018 — This article presents the findings of an in...</p></details>
    Published: November 6, 2018  
 
@@ -790,52 +780,52 @@ For many people, the most treasured tour shirt is not the rarest or most expensi
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/306884173036898/posts/814066742318636/](https://www.facebook.com/groups/306884173036898/posts/814066742318636/)  
+   Link: <a href="https://www.facebook.com/groups/306884173036898/posts/814066742318636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/306884173036898/posts/814066742318636/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collecting musician souvenirs and autographsMusic memorabilia is in fact a surprisingly broad category consisting of anything from record...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ralawiseuk/posts/event-merch-is-a-powerhouse-revenue-stream-because-people-buy-the-memory-not-jus/1593070439488412/](https://www.facebook.com/ralawiseuk/posts/event-merch-is-a-powerhouse-revenue-stream-because-people-buy-the-memory-not-jus/1593070439488412/)  
+   Link: <a href="https://www.facebook.com/ralawiseuk/posts/event-merch-is-a-powerhouse-revenue-stream-because-people-buy-the-memory-not-jus/1593070439488412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ralawiseuk/posts/event-merch-is-a-powerhouse-revenue-stream-because-people-buy-the-memory-not-jus/1593070439488412/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RalawiseEvent merch is a powerhouse revenue stream because people buy the memory, not just the tee. That emotional pull transforms a blan...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/282468944_Popular_Music_and_Materiality_Memorabilia_and_Memory_Traces](https://www.researchgate.net/publication/282468944_Popular_Music_and_Materiality_Memorabilia_and_Memory_Traces)  
+   Link: <a href="https://www.researchgate.net/publication/282468944_Popular_Music_and_Materiality_Memorabilia_and_Memory_Traces" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282468944_Popular_Music_and_Materiality_Memorabilia_and_Memory_Traces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular Music and Materiality: Memorabilia and Memory...Join for free collections examines how fans assign deep personal and emotional m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SwiftieMerch/comments/1hb2fzw/do_you_wear_your_merch_or_preserve_it/](https://www.reddit.com/r/SwiftieMerch/comments/1hb2fzw/do_you_wear_your_merch_or_preserve_it/)  
+   Link: <a href="https://www.reddit.com/r/SwiftieMerch/comments/1hb2fzw/do_you_wear_your_merch_or_preserve_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftieMerch/comments/1hb2fzw/do_you_wear_your_merch_or_preserve_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you wear your Merch or preserve it?: r/SwiftieMerchWear it. Let it get old. Worn. Faded. You&#x27;ll love it more when you build memories...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DzymkqGBEcw](https://www.youtube.com/watch?v=DzymkqGBEcw)  
+   Link: <a href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DzymkqGBEcw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Some Concert Merch Becomes PricelessMusic merch is more than a concert souvenir now. Nick Adler talk about why tour merch matters, an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mamazing.co.uk  
-   Link: [https://mamazing.co.uk/product-category/occasions/concert-merch/](https://mamazing.co.uk/product-category/occasions/concert-merch/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Merch | Unofficial Fan Appreciation T-Shirts &amp; Tour...Discover unofficial concert merch designed by fans, for fans...</p></details>
+   Link: <a href="https://mamazing.co.uk/product-category/occasions/concert-merch/" target="_blank" rel="noopener noreferrer nofollow">https://mamazing.co.uk/product-category/occasions/concert-merch/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncert Merch | Unofficial Fan Appreciation T-Shirts &amp; Tour...Discover unofficial concert merch designed by fans, for fans...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: redbubble.com  
-   Link: [https://www.redbubble.com/shop/concert%2Bmemory](https://www.redbubble.com/shop/concert%2Bmemory)  
+   Link: <a href="https://www.redbubble.com/shop/concert%2Bmemory" target="_blank" rel="noopener noreferrer nofollow">https://www.redbubble.com/shop/concert%2Bmemory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Memory Merch &amp; Gifts for SaleHigh quality Concert Memory-inspired merch and gifts. T-shirts, posters, stickers, home decor, and m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: news.liverpool.ac.uk  
    Title: exhibition of pop music memorabilia opens at the vgm  
-   Link: [https://news.liverpool.ac.uk/2011/09/28/exhibition-of-pop-music-memorabilia-opens-at-the-vgm/](https://news.liverpool.ac.uk/2011/09/28/exhibition-of-pop-music-memorabilia-opens-at-the-vgm/)  
+   Link: <a href="https://news.liverpool.ac.uk/2011/09/28/exhibition-of-pop-music-memorabilia-opens-at-the-vgm/" target="_blank" rel="noopener noreferrer nofollow">https://news.liverpool.ac.uk/2011/09/28/exhibition-of-pop-music-memorabilia-opens-at-the-vgm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of pop music memorabilia opens at the VG&amp;M28 Sept 2011 — An exhibition of pop music memorabilia from the 1950s to present day has gone on...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Concerts/comments/1gxh7eg/to_buy_merch_or_not_buy_merch_is_it_a_waste_of/](https://www.reddit.com/r/Concerts/comments/1gxh7eg/to_buy_merch_or_not_buy_merch_is_it_a_waste_of/)  
+   Link: <a href="https://www.reddit.com/r/Concerts/comments/1gxh7eg/to_buy_merch_or_not_buy_merch_is_it_a_waste_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Concerts/comments/1gxh7eg/to_buy_merch_or_not_buy_merch_is_it_a_waste_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng on and on about blowing $100, $150 here, or even $20. Saying I...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: open-access.bcu.ac.uk  
    Title: Taylor Well worn grooves accepted draft  
-   Link: [https://www.open-access.bcu.ac.uk/9712/1/Taylor%20-%20Well%20worn%20grooves%20-%20accepted%20draft.pdf](https://www.open-access.bcu.ac.uk/9712/1/Taylor%20-%20Well%20worn%20grooves%20-%20accepted%20draft.pdf)  
+   Link: <a href="https://www.open-access.bcu.ac.uk/9712/1/Taylor%20-%20Well%20worn%20grooves%20-%20accepted%20draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.open-access.bcu.ac.uk/9712/1/Taylor%20-%20Well%20worn%20grooves%20-%20accepted%20draft.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BCU Open Access&#x27;Well-worn Grooves&#x27; – Music, Materiality, and Biographical...by IA Taylor · 2020 · Cited by 7 — The research upon which t...</p></details>

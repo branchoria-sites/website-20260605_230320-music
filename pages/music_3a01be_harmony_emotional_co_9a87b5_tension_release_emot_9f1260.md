@@ -9,23 +9,23 @@ sibling_basenames:
 - music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec
 - music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1
 tags:
-- music
+- music-3-a01-be
 - harmony
 keywords:
-- music
+- music-3-a01-be
 - harmony
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Musical tension arises from dissonance, delayed resolutions, and surprise, shaping emotional responses over time.
 hero_summary: Musical tension arises from dissonance, delayed resolutions, and surprise, shaping emotional responses over time.
 layout: default
 permalink: /tension-release/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /harmony/
 nav_short_title: Tension & Release
 title: How Tension and Release Shape Emotional Impact in Music
-title_full: How Tension and Release Shape Emotional Impact in Music | Harmony
+title_full: How Tension and Release Shape Emotional Impact in Music
 display_title_short: Tension & Release
 display_title: Tension & Release
 heading_title: How Tension and Release Shape Emotional Impact in Music
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Harmony Changes What Music Means | Music
+parent_title: How Harmony Changes What Music Means
 parent_permalink: /harmony/
 parent_nav_short_title: Harmony
 parent_heading_title: How Harmony Changes What Music Means
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -247,7 +247,7 @@ sibling_links:
   heading_title: How Unresolved Chords Keep Music Emotionally Open
 up_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -263,7 +263,7 @@ next_link:
   permalink: /unresolved-harmony/
   short_title: Unresolved Harmony
   heading_title: How Unresolved Chords Keep Music Emotionally Open
-date: '2026-06-09 07:26:23 '
+date: '2026-06-11 23:44:40 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1.webp
@@ -272,8 +272,7 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_e
 
 ## Introduction
 
-Much of [harmony]({{ 'harmony/' | relative_url }})’s emotional power comes from its ability to create tension and then manage its release. Rather than responding only to individual chords, listeners continuously form expectations about where the [music]({{ 'music/' | relative_url }}) is heading. When harmony delays, fulfils, or overturns those expectations, it generates feelings such as anticipation, longing, relief, excitement, triumph, uncertainty, or calm. Research in music cognition consistently links emotional responses to this cycle of prediction and outcome, making tension and release one of the central mechanisms through which harmony shapes musical feeling. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[2marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
-
+Much of [harmony]({{ 'harmony/' | relative_url }})’s emotional power comes from its ability to create tension and then manage its release. Rather than responding only to individual chords, listeners continuously form expectations about where the music is heading. When harmony delays, fulfils, or overturns those expectations, it generates feelings such as anticipation, longing, relief, excitement, triumph, uncertainty, or calm. Research in music cognition consistently links emotional responses to this cycle of prediction and outcome, making tension and release one of the central mechanisms through which harmony shapes musical feeling. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[2marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-dark.svg" | relative_url }}" alt="Tension &amp; Release illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practical terms, tension arises when music sounds unstable, incomplete, or in motion. Release occurs when that instability resolves into a more stable state. The emotional journey between those points is often more important than either point alone.
@@ -288,10 +287,9 @@ Importantly, tension is not inherently negative. In music, listeners often enjoy
 
 One of the most direct ways harmony creates tension is through the contrast between dissonance and consonance.
 
-Consonant sonorities are generally perceived as more stable, smooth, and pleasant, while dissonant combinations tend to be heard as more unstable or tense. Although cultural experience influences these perceptions, a substantial body of research links dissonance with increased tension and consonance with relative relaxation. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span> The emotional effect is not merely theoretical. Experimental studies have found that listeners consistently rate more dissonant musical passages as higher in tension. Increased dissonance can also influence physiological and affective responses, contributing to feelings of unease, urgency, or heightened [attention]({{ 'attention/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADSabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">They also found higher physiological</span><span class="citation-popover-snippet">ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</span></span></span>
+Consonant sonorities are generally perceived as more stable, smooth, and pleasant, while dissonant combinations tend to be heard as more unstable or tense. Although cultural experience influences these perceptions, a substantial body of research links dissonance with increased tension and consonance with relative relaxation. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span> The emotional effect is not merely theoretical. Experimental studies have found that listeners consistently rate more dissonant musical passages as higher in tension. Increased dissonance can also influence physiological and affective responses, contributing to feelings of unease, urgency, or heightened [attention]({{ 'attention/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADSabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">They also found higher physiological</span><span class="citation-popover-snippet">ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</span></span></span>
 
-What makes dissonance especially powerful is that it often implies a future resolution. A harsh interval or unstable chord creates a sense that the music is unfinished. When a consonant harmony eventually follows, listeners experience a reduction of tension that may feel comforting, triumphant, or emotionally cathartic. This contrast gives harmonic motion much of its expressive force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span>
-
+What makes dissonance especially powerful is that it often implies a future resolution. A harsh interval or unstable chord creates a sense that the music is unfinished. When a consonant harmony eventually follows, listeners experience a reduction of tension that may feel comforting, triumphant, or emotionally cathartic. This contrast gives harmonic motion much of its expressive force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCsl6ZcY9ag" title="The Physics Of Dissonance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer">The Physics Of Dissonance</a></p><p class="youtube-embed-meta">Channel: minutephysics &middot; Views: 1.3M &middot; Uploaded: July 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCsl6ZcY9ag">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +310,6 @@ Research on cadence perception shows that listeners associate different cadence 
 
 A powerful emotional climax often occurs when a long period of harmonic instability finally reaches a convincing cadence. The resulting sense of arrival can feel larger than the individual chords involved because it resolves accumulated expectation built over an extended span.
 
-
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-2-dark.svg" | relative_url }}" alt="Tension &amp; Release illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Suspension, Delay, and Surprise
 
@@ -326,15 +323,12 @@ Surprise operates in a related way. When listeners confidently predict one harmo
 
 However, surprise is most effective when it remains connected to a broader sense of coherence. A completely random chord may sound confusing, whereas a surprising but meaningful harmonic turn can feel thrilling, poignant, or dramatic.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hXeX031w-6Q" title="Creating Tension and Release in Music - Music Composition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hXeX031w-6Q" target="_blank" rel="noopener noreferrer">Creating Tension and Release in Music - Music Composition</a></p><p class="youtube-embed-meta">Channel: Music Matters &middot; Views: 68.4K &middot; Uploaded: May 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hXeX031w-6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hXeX031w-6Q">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-dark.svg" | relative_url }}" alt="Tension &amp; Release illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Harmonic Tension Unfolds Over Time
 
 Tension is not a single moment but a dynamic process. Research increasingly treats musical tension as a continuously changing psychological experience that bridges musical structure and emotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
 
 Several factors can contribute simultaneously:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -351,8 +345,8 @@ Studies of tonal and melodic shifts show that departures from established patter
 
 Because tension can build gradually across long spans, the emotional significance of a final resolution often depends on everything that preceded it. A simple tonic chord may feel ordinary at the beginning of a piece but profoundly moving after an extended journey through instability.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hXeX031w-6Q" title="Creating Tension and Release in Music - Music Composition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hXeX031w-6Q" target="_blank" rel="noopener noreferrer">Creating Tension and Release in Music - Music Composition</a></p><p class="youtube-embed-meta">Channel: Music Matters &middot; Views: 68.4K &middot; Uploaded: May 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hXeX031w-6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hXeX031w-6Q">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-dark.svg" | relative_url }}" alt="Tension &amp; Release illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Release Can Feel So Powerful
 
 Release is more than the absence of tension. It is an emotional event created by contrast.
@@ -362,10 +356,6 @@ When listeners have invested attention in a musical expectation, fulfilment can 
 This relationship helps explain why climactic moments in many musical traditions are built around carefully managed tension-and-release patterns. The emotional reward emerges not from a single chord but from the listener’s experience of waiting, anticipating, and finally arriving. Research on musical expectation repeatedly identifies this cycle as a major source of musical emotion. UCL Discovery 3Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[3marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
 
 In this sense, harmony acts less like a collection of static colours and more like a narrative force. Through dissonance and consonance, functional pull, cadence, suspension, delay, and surprise, it continually shapes the listener’s expectations. The resulting interplay of tension and release is one of music’s most effective tools for turning sound into emotion.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tuQrKWLCKc" title="How I wish HARMONY was explained to me as a student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tuQrKWLCKc" target="_blank" rel="noopener noreferrer">How I wish HARMONY was explained to me as a student</a></p><p class="youtube-embed-meta">Channel: Nahre Sol</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tuQrKWLCKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tuQrKWLCKc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -763,116 +753,116 @@ In this sense, harmony acts less like a collection of static colours and more li
 
 1. <a id="endnote-1"></a>
    Source: marcus-pearce.com  
-   Link: [https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf](https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf)  
+   Link: <a href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Melodic expectation  
-   Link: [https://en.wikipedia.org/wiki/Melodic_expectation](https://en.wikipedia.org/wiki/Melodic_expectation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Melodic_expectation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melodic_expectation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melodic expectationMeyer&#x27;s starting point is the belief that the experience of music (as a listener) is derived from one&#x27;s emotions an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919](https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is known that tension is affected by prediction in music listening as music unfolds.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and behavioural responses to consonant...by A Kirsanov · 2025 — Thus, amongst emotional primitives, consonance and dissonance are typica...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Consonance and dissonance perception  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665](https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review...by N Di Stefano · 2022 · Cited by 79 — Consonance and dissonance (C/D) are foundational concepts in Western music. ·...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-11949-4](https://www.nature.com/articles/s41598-022-11949-4)  
+   Link: <a href="https://www.nature.com/articles/s41598-022-11949-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11949-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compared with repetition, tonal shift and melodic shift...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Psychoacoustics](https://en.wikipedia.org/wiki/Psychoacoustics)  
+   Link: <a href="https://en.wikipedia.org/wiki/Psychoacoustics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychoacoustics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychoacousticsPsychoacoustics is the branch of psychophysics involving the scientific study of the perception of sound by the human a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Car suspension  
-   Link: [https://en.wikipedia.org/wiki/Car_suspension](https://en.wikipedia.org/wiki/Car_suspension)  
+   Link: <a href="https://en.wikipedia.org/wiki/Car_suspension" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Car_suspension</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Car suspensionSuspension is the system of tires, tire air, springs, shock absorbers and linkages that connects a vehicle to its wheels...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2059204320938635](https://journals.sagepub.com/doi/10.1177/2059204320938635)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059204320938635</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980](https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ui.adsabs.harvard.edu  
    Title: They also found higher physiological  
-   Link: [https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract](https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: halfords.com  
-   Link: [https://www.halfords.com/motoring/car-parts/suspension-and-steering/](https://www.halfords.com/motoring/car-parts/suspension-and-steering/)  
+   Link: <a href="https://www.halfords.com/motoring/car-parts/suspension-and-steering/" target="_blank" rel="noopener noreferrer nofollow">https://www.halfords.com/motoring/car-parts/suspension-and-steering/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Car Suspension Parts | Steering ComponentsIf you&#x27;re having any issues with suspension and steering, Halfords has the car parts for you. Y...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vehiclephysics.com  
-   Link: [https://vehiclephysics.com/advanced/how-suspensions-work/](https://vehiclephysics.com/advanced/how-suspensions-work/)  
+   Link: <a href="https://vehiclephysics.com/advanced/how-suspensions-work/" target="_blank" rel="noopener noreferrer nofollow">https://vehiclephysics.com/advanced/how-suspensions-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How suspensions workA suspension is essentially a damped spring producing opposing force when being compressed. Springs sustain the weigh...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cris.unibo.it  
-   Link: [https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf](https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cris UNIBOMusic Perception Perceived tension, movement, and...by M Costa · 2020 · Cited by 30 — We think that an analysis of per- ceived...</p></details>
+   Link: <a href="https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Perception Perceived tension, movement, and...by M Costa · 2020 · Cited by 30 — We think that an analysis of per- ceived...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/psychoacoustics](https://www.merriam-webster.com/dictionary/psychoacoustics)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/psychoacoustics" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/psychoacoustics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PSYCHOACOUSTICS Definition &amp; MeaningThe meaning of PSYCHOACOUSTICS is a branch of science dealing with the perception of sound, the sensa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: suspensionsecrets.co.uk  
-   Link: [https://suspensionsecrets.co.uk/](https://suspensionsecrets.co.uk/)  
+   Link: <a href="https://suspensionsecrets.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://suspensionsecrets.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspension Secrets: HomepageSolid Monoballs for Porsche GT Models: Improving Suspension Precision · Built for Grip &amp; Proven on Track: How...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: suspensionsupplies.co.uk  
-   Link: [https://www.suspensionsupplies.co.uk/](https://www.suspensionsupplies.co.uk/)  
+   Link: <a href="https://www.suspensionsupplies.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.suspensionsupplies.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspension SuppliesDesign, Development and Manufacture of Automotive Suspension Springs and Systems. for Modern, Traditional, Classic and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: labs.la.utexas.edu  
-   Link: [https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf](https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf)  
+   Link: <a href="https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Psychology LabsExpectationMeyer suggested that, although music does contain representational elements, the principal source for music&#x27;...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tCsl6ZcY9ag](https://www.youtube.com/watch?v=tCsl6ZcY9ag)  
+   Link: <a href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCsl6ZcY9ag</a>  
 
 21. <a id="endnote-21"></a>
    Source: hugoribeiro.com.br  
-   Link: [https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf](https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf)  
+   Link: <a href="https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctly iconic manner, and thus not necessarily through the negative thwarting of expectation.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: filipeleitao.com  
    Title: why dissonance creates tension and how to use it in your music  
-   Link: [https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music](https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music)  
+   Link: <a href="https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music" target="_blank" rel="noopener noreferrer nofollow">https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Dissonance Creates Tension — And How to Use It in...Jul 15, 2025 — In fact, studies have shown that dissonance triggers similar resp...</p></details>

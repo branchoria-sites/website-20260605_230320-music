@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - dance-music
 keywords:
-- music
+- music-3-a01-be
 - dance-music
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Dance music turns sound systems, venues and crowds into coordinated social environments built around movement.
 hero_summary: Dance music turns sound systems, venues and crowds into coordinated social environments built around movement.
 layout: default
 permalink: /dance-music/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Dance Music
 title: How Dance Music Builds A Room
-title_full: How Dance Music Builds A Room | Music
+title_full: How Dance Music Builds A Room
 display_title_short: Dance Music
 display_title: Dance Music
 heading_title: How Dance Music Builds A Room
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 next_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
-date: '2026-06-09 06:17:45 '
+date: '2026-06-11 23:09:37 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f-overview-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f-overview.webp
@@ -501,51 +501,38 @@ image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f-overview-social.j
 
 ## Introduction
 
-Dance music does more than provide a soundtrack for moving bodies — it *organises social space*. Unlike many forms of music consumed passively, dance music turns rhythm and repetition into a dynamic architecture of bodies, [sound systems]({{ 'sound-systems/' | relative_url }}) and collective experience. In clubs, festivals and underground parties, dance music structures how people relate to one another, how space is used and how time is lived. This social shaping happens not through lyrics or melodies alone but through beat‑driven movement, [DJ curation]({{ 'dj-curation/' | relative_url }}) and the material and symbolic design of dance environments. Scholarship in cultural geography, sociology and performance studies shows that dance music spaces are constructed and negotiated by participants, transforming ordinary locations into liminal arenas of collective movement and shared affect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">DancecultSpaces of Play: The Spatial Dimensions of Underground Club Culture and Locating the Subjunctive | Dancecult: Journal of Electron...</span></span></span>
-
+Dance music does more than provide a soundtrack for moving bodies — it *organises social space*. Unlike many forms of music consumed passively, dance music turns rhythm and repetition into a dynamic architecture of bodies, [sound systems]({{ 'sound-systems/' | relative_url }}) and collective experience. In clubs, festivals and underground parties, dance music structures how people relate to one another, how space is used and how time is lived. This social shaping happens not through lyrics or melodies alone but through beat‑driven movement, [DJ curation]({{ 'dj-curation/' | relative_url }}) and the material and symbolic design of dance environments. Scholarship in cultural geography, sociology and performance studies shows that dance music spaces are constructed and negotiated by participants, transforming ordinary locations into liminal arenas of collective movement and shared affect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">Spaces of Play: The Spatial Dimensions of Underground Club Culture and Locating the Subjunctive &#124; Dancecult: Journal of Electron...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-overview.webp" | relative_url }}" alt="Overview image for Dance Music" loading="eager" decoding="sync" fetchpriority="high">
 ## Beats, Bodies and Repetition
 
-At the heart of dance [music]({{ 'music/' | relative_url }})’s capacity to organise social space is its rhythmic structure. Steady beats and looping patterns create predictable temporal frameworks that bodies can align with and through which social coordination emerges. This temporal synchronisation — often framed by scholars in terms of *liminality* and *performative play* — fosters what anthropologist Victor Turner called “communitas”: a transient sense of social equality and shared presence. Dance floors become sites where normal social hierarchies blur, and dancers experience collective engagement through embodied movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/1299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">dancecult.netBerghain, Techno and the Body Factory: Ethnography of a Club’s Regulars | Dancecult: Journal of Electronic Music and Dance C...</span></span></span>
+At the heart of dance music’s capacity to organise social space is its rhythmic structure. Steady beats and looping patterns create predictable temporal frameworks that bodies can align with and through which social coordination emerges. This temporal synchronisation — often framed by scholars in terms of *liminality* and *performative play* — fosters what anthropologist Victor Turner called “communitas”: a transient sense of social equality and shared presence. Dance floors become sites where normal social hierarchies blur, and dancers experience collective engagement through embodied movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/1299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">dancecult.netBerghain, Techno and the Body Factory: Ethnography of a Club’s Regulars &#124; Dancecult: Journal of Electronic Music and Dance C...</span></span></span>
 
 The emphasis on bodily experience is crucial. Rather than listening as spectators, dancers participate, embodying the music in space. Movement and sound resonate with each other and with the material layout of the venue — from the placement of speakers to the contours of the floor — creating a *dance music space* that is both sonic and social. In techno clubs such as Berghain, scholars describe the interplay of architecture, sound and bodies as a *site‑specific performance* in which movement isn’t just an effect of music but a means of spatial negotiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/14759551.2016.1206547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFilling the ‘empty space’: Site-specific dance in a techno club: Culture and Organization: Vol 25, No 1 - Get Acc...</span></span></span>
 
 This embodied coordination also has roots in earlier dance practices. Disco, for example, shifted Western social dance away from couple‑based forms into collective movement around a shared beat, inviting diverse participants onto the floor and challenging normative social structures. The DJ’s role in curating the beat and mix further facilitates collective [rhythm]({{ 'rhythm/' | relative_url }}) and spaces of shared action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.uel.ac.uk/item/86105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.uel.ac.uk">[UEL Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.uel.ac.uk</span><span class="citation-popover-snippet">UEL Research RepositoryDisco and the Queering of the Dance Floor: UEL Research RepositoryMarch 14, 2011...</span><span class="citation-popover-meta">Published: March 14, 2011</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-1-dark.svg" | relative_url }}" alt="Dance Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## DJs, Clubs and Sound Systems
 
-DJs and sound systems are central to how dance music organises social space. A sound system is more than amplification technology; it is a *social engine* that structures [attention]({{ 'attention/' | relative_url }}), directs movement and marks out zones of conviviality within a larger venue. Early studies of sound system culture highlight how these setups became focal points for community gathering, extending from reggae and disco into house, techno and global electronic dance music scenes. Sound systems literally and figuratively ‘push’ people into shared sonic environments where bodies move collectively in response to rhythm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.mdx.ac.uk/item/85x37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.mdx.ac.uk">[Middlesex University Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.mdx.ac.uk</span><span class="citation-popover-snippet">Middlesex University RepositoryRocking the house: sound system cultures and the politics of space: Middlesex University Research Reposit...</span></span></span>
+DJs and sound systems are central to how dance music organises social space. A sound system is more than amplification technology; it is a *social engine* that structures [attention]({{ 'attention/' | relative_url }}), directs movement and marks out zones of conviviality within a larger venue. Early studies of sound system [culture]({{ 'culture/' | relative_url }}) highlight how these setups became focal points for community gathering, extending from reggae and disco into house, techno and global electronic dance music scenes. Sound systems literally and figuratively ‘push’ people into shared sonic environments where bodies move collectively in response to rhythm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.mdx.ac.uk/item/85x37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.mdx.ac.uk">[Middlesex University Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.mdx.ac.uk</span><span class="citation-popover-snippet">Middlesex University RepositoryRocking the house: sound system cultures and the politics of space: Middlesex University Research Reposit...</span></span></span>
 
 DJs curate not only tracks but the *flow* of social energy. By selecting tempos, transitions and dynamics, they shape when and how dancers move together, slow down or release tension. This curatorial act transforms [physical]({{ 'physical/' | relative_url }}) space into a choreographed social arena. The club becomes a place of coordinated movement, with dance floors functioning as rhythmic arenas where strangers become an embodied collective. Ethnographic research at iconic clubs also points to how *codes of conduct*, such as Berghain’s celebrated “code of silence”, contribute to a sense of communal belonging by regulating social interaction and emphasising the shared experience of music and movement over other forms of communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/38edc08bd0454cd8b1e69d6ec9961722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[Directory of Open Access Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-title">Directory of Open Access Journals Berghain, Techno and the Body Factory – DOAJ</span><span class="citation-popover-snippet">Directory of Open Access Journals Berghain, Techno and the Body Factory – DOAJ</span></span></span>
 
 The material and symbolic design of venues — from lighting to speaker placement — reinforces this organisation of social space. Interiors that prioritise dance areas over seating, immersive sound systems that envelop participants, and layouts that resist casual conversation all push dancers toward shared bodily engagement rather than passive socialising. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.cardiffmet.ac.uk/en/publications/exploring-the-construction-and-consumption-of-dance-music-spaces-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.cardiffmet.ac.uk">[Cardiff Met Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.cardiffmet.ac.uk</span><span class="citation-popover-snippet">Cardiff Met Research ExplorerExploring the Construction and Consumption of Dance Music Spaces Through the Liminal Lens - Cardiff Metropol...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-3-dark.svg" | relative_url }}" alt="Dance Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jnEXfnzrUac" title="The DJ &amp; the Dancefloor: Ritual, Energy, and Underground Club Culture | Thomas Bullock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jnEXfnzrUac" target="_blank" rel="noopener noreferrer">The DJ &amp; the Dancefloor: Ritual, Energy, and Underground Club Culture | Thomas Bullock</a></p><p class="youtube-embed-meta">Channel: Kosmos Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jnEXfnzrUac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jnEXfnzrUac">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S1qp7r99DcE" title="How to Slow Dance With a Girl (Weddings, Proms, Parties)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S1qp7r99DcE" target="_blank" rel="noopener noreferrer">How to Slow Dance With a Girl (Weddings, Proms, Parties)</a></p><p class="youtube-embed-meta">Channel: Ballroom Feed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S1qp7r99DcE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S1qp7r99DcE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-2-dark.svg" | relative_url }}" alt="Dance Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Community, Release and Exclusion
 
-Dance music spaces can be powerful sites of community and collective release. By aligning movement and sound, these environments offer participants a sense of escape from everyday social constraints and an opportunity for emotionally shared experience. For many, dancing in rhythm with others creates a feeling of unity and belonging that is difficult to replicate in non‑musical settings. This *collective affect* is part of why people return to dance floors and why underground scenes can develop strong local identities and communal bonds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">DancecultSpaces of Play: The Spatial Dimensions of Underground Club Culture and Locating the Subjunctive | Dancecult: Journal of Electron...</span></span></span>
+Dance music spaces can be powerful sites of community and collective release. By aligning movement and sound, these environments offer participants a sense of escape from everyday social constraints and an opportunity for emotionally shared experience. For many, dancing in rhythm with others creates a feeling of unity and belonging that is difficult to replicate in non‑musical settings. This *collective affect* is part of why people return to dance floors and why underground scenes can develop strong local identities and communal bonds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">Spaces of Play: The Spatial Dimensions of Underground Club Culture and Locating the Subjunctive &#124; Dancecult: Journal of Electron...</span></span></span>
 
 However, this organisation of space has social boundaries as well as connective potential. Spaces that privilege particular rhythms, aesthetics or participant behaviours can also reinforce gendered or subcultural norms. Research in urban club scenes shows how patterns of attendance and spatial use can reflect broader social inequalities, including gendered dynamics that shape who feels at ease and who occupies prominent positions within a scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchonline.rcm.ac.uk/id/eprint/2335/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.rcm.ac.uk">[RCM Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.rcm.ac.uk</span><span class="citation-popover-snippet">RCM Research Online...</span></span></span>
 
 Moreover, the cultural economy around dance music — including commercial pressures, branding and club practices — influences who is welcomed into these spaces and how they are experienced. While dance floors can be inclusive arenas, they also intersect with broader urban politics of nightlife, licensing and gentrification, which can exclude certain groups or transform the very character of dance music spaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.birmingham.ac.uk/en/publications/agonistic-festivities-urban-nightlife-scenes-and-the-sociability-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.birmingham.ac.uk">[University of Birmingham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.birmingham.ac.uk</span><span class="citation-popover-snippet">University of BirminghamAgonistic festivities: urban nightlife scenes and the sociability of ‘anti-social’ fun - University of Birmingham...</span></span></span>
 
-In sum, dance music organises social space not just through sound but through the social choreography of bodies, DJs, venues and cultural practices. It makes space *repeatable* — people know how to use it — and *collective* — people use it together — turning mere physical environments into vibrant arenas of shared movement and social meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/1299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">dancecult.netBerghain, Techno and the Body Factory: Ethnography of a Club’s Regulars | Dancecult: Journal of Electronic Music and Dance C...</span></span></span>
+In sum, dance music organises social space not just through sound but through the social choreography of bodies, DJs, venues and cultural practices. It makes space *repeatable* — people know how to use it — and *collective* — people use it together — turning mere physical environments into vibrant arenas of shared movement and social meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dj.dancecult.net/index.php/dancecult/article/view/1299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">dancecult.netBerghain, Techno and the Body Factory: Ethnography of a Club’s Regulars &#124; Dancecult: Journal of Electronic Music and Dance C...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-2-dark.svg" | relative_url }}" alt="Dance Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-3-dark.svg" | relative_url }}" alt="Dance Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -664,15 +651,15 @@ In sum, dance music organises social space not just through sound but through th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1988/89 Acid-house Rave Flyer Montage-Sunrise Biology Energy A4 Poster Print"><img src="{{ '/assets/images/marketplace-covers/a91c7e938069dfd4b2b5.jpg' | relative_url }}" alt="Listing image for 1988/89 Acid-house Rave Flyer Montage-Sunrise Biology Energy A4 Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1988/89 Acid-house Rave Flyer Montage-Sunrise Biology Energy A4 Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rave poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rave poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -680,15 +667,15 @@ In sum, dance music organises social space not just through sound but through th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Magazine (Party) - Promo Rave Poster Original Limited Edition"><img src="{{ '/assets/images/marketplace-covers/c199341de2db5298a63e.jpg' | relative_url }}" alt="Listing image for DJ Magazine (Party) - Promo Rave Poster Original Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">DJ Magazine (Party) - Promo Rave Poster Original Limited Edition</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rave poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rave poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -696,15 +683,15 @@ In sum, dance music organises social space not just through sound but through th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Poster Old Skool A3 Limited 90&#x27;s Hardcore House Man Cave Ecstasy Wall Art"><img src="{{ '/assets/images/marketplace-covers/e92861684f3cb36e213e.jpg' | relative_url }}" alt="Listing image for Rave Poster Old Skool A3 Limited 90&#x27;s Hardcore House Man Cave Ecstasy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rave Poster Old Skool A3 Limited 90&#x27;s Hardcore House Man Cave Ecstasy Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rave poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rave poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -712,15 +699,15 @@ In sum, dance music organises social space not just through sound but through th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rave Poster Oldskool 1990 - 1993 Compilation Album A2 Wall Art !"><img src="{{ '/assets/images/marketplace-covers/fb86c7054c77bd0252b5.jpg' | relative_url }}" alt="Listing image for Rave Poster Oldskool 1990 - 1993 Compilation Album A2 Wall Art !" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rave Poster Oldskool 1990 - 1993 Compilation Album A2 Wall Art !</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rave poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rave poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -728,7 +715,7 @@ In sum, dance music organises social space not just through sound but through th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rave+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rave poster -book -books" data-ebay-reference="dance-music-how-dance-music-builds-a-room-music-rave-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-dance-music-builds-a-room-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -943,120 +930,120 @@ In sum, dance music organises social space not just through sound but through th
 
 1. <a id="endnote-1"></a>
    Source: dj.dancecult.net  
-   Link: [https://dj.dancecult.net/index.php/dancecult/article/view/331](https://dj.dancecult.net/index.php/dancecult/article/view/331)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DancecultSpaces of Play: The Spatial Dimensions of Underground Club Culture and Locating the Subjunctive | Dancecult: Journal of Electron...</p></details>
+   Link: <a href="https://dj.dancecult.net/index.php/dancecult/article/view/331" target="_blank" rel="noopener noreferrer nofollow">https://dj.dancecult.net/index.php/dancecult/article/view/331</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaces of Play: The Spatial Dimensions of Underground Club Culture and Locating the Subjunctive | Dancecult: Journal of Electron...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dj.dancecult.net  
-   Link: [https://dj.dancecult.net/index.php/dancecult/article/view/1299](https://dj.dancecult.net/index.php/dancecult/article/view/1299)  
+   Link: <a href="https://dj.dancecult.net/index.php/dancecult/article/view/1299" target="_blank" rel="noopener noreferrer nofollow">https://dj.dancecult.net/index.php/dancecult/article/view/1299</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>dancecult.netBerghain, Techno and the Body Factory: Ethnography of a Club’s Regulars | Dancecult: Journal of Electronic Music and Dance C...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pure.cardiffmet.ac.uk  
-   Link: [https://pure.cardiffmet.ac.uk/en/publications/exploring-the-construction-and-consumption-of-dance-music-spaces-/](https://pure.cardiffmet.ac.uk/en/publications/exploring-the-construction-and-consumption-of-dance-music-spaces-/)  
+   Link: <a href="https://pure.cardiffmet.ac.uk/en/publications/exploring-the-construction-and-consumption-of-dance-music-spaces-/" target="_blank" rel="noopener noreferrer nofollow">https://pure.cardiffmet.ac.uk/en/publications/exploring-the-construction-and-consumption-of-dance-music-spaces-/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cardiff Met Research ExplorerExploring the Construction and Consumption of Dance Music Spaces Through the Liminal Lens - Cardiff Metropol...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14759551.2016.1206547](https://www.tandfonline.com/doi/full/10.1080/14759551.2016.1206547)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14759551.2016.1206547" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14759551.2016.1206547</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFilling the ‘empty space’: Site-specific dance in a techno club: Culture and Organization: Vol 25, No 1 - Get Acc...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: repository.uel.ac.uk  
-   Link: [https://repository.uel.ac.uk/item/86105](https://repository.uel.ac.uk/item/86105)  
+   Link: <a href="https://repository.uel.ac.uk/item/86105" target="_blank" rel="noopener noreferrer nofollow">https://repository.uel.ac.uk/item/86105</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UEL Research RepositoryDisco and the Queering of the Dance Floor: UEL Research RepositoryMarch 14, 2011...</p></details>
    Published: March 14, 2011  
 
 6. <a id="endnote-6"></a>
    Source: repository.mdx.ac.uk  
-   Link: [https://repository.mdx.ac.uk/item/85x37](https://repository.mdx.ac.uk/item/85x37)  
+   Link: <a href="https://repository.mdx.ac.uk/item/85x37" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/item/85x37</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middlesex University RepositoryRocking the house: sound system cultures and the politics of space: Middlesex University Research Reposit...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: doaj.org  
    Title: Directory of Open [Access](&#123;&#123; 'access/' | relative_url &#125;&#125;) Journals Berghain, Techno and the Body Factory – DOAJ  
-   Link: [https://doaj.org/article/38edc08bd0454cd8b1e69d6ec9961722](https://doaj.org/article/38edc08bd0454cd8b1e69d6ec9961722)  
+   Link: <a href="https://doaj.org/article/38edc08bd0454cd8b1e69d6ec9961722" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/38edc08bd0454cd8b1e69d6ec9961722</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchonline.rcm.ac.uk  
-   Link: [https://researchonline.rcm.ac.uk/id/eprint/2335/](https://researchonline.rcm.ac.uk/id/eprint/2335/)  
+   Link: <a href="https://researchonline.rcm.ac.uk/id/eprint/2335/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.rcm.ac.uk/id/eprint/2335/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RCM Research Online...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: research.birmingham.ac.uk  
-   Link: [https://research.birmingham.ac.uk/en/publications/agonistic-festivities-urban-nightlife-scenes-and-the-sociability-/](https://research.birmingham.ac.uk/en/publications/agonistic-festivities-urban-nightlife-scenes-and-the-sociability-/)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/agonistic-festivities-urban-nightlife-scenes-and-the-sociability-/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/agonistic-festivities-urban-nightlife-scenes-and-the-sociability-/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BirminghamAgonistic festivities: urban nightlife scenes and the sociability of ‘anti-social’ fun - University of Birmingham...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: books.google.com  
    Title: Dance Music Spaces  
-   Link: [https://books.google.com/books/about/Dance_Music_Spaces.html?id=9U2AEQAAQBAJ](https://books.google.com/books/about/Dance_Music_Spaces.html?id=9U2AEQAAQBAJ)  
+   Link: <a href="https://books.google.com/books/about/Dance_Music_Spaces.html?id=9U2AEQAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Dance_Music_Spaces.html?id=9U2AEQAAQBAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Danielle Antoinette Hidalgo - Google BooksJanuary 31, 2022 — DANCE MUSIC SPACES: CLUBS, CLUBBERS, AND DJS NAVIGATING AUTHENTICITY, BRANDI...</p></details>
    Published: January 31, 2022  
 
 11. <a id="endnote-11"></a>
    Source: books.google.com  
    Title: Dance Music Spaces  
-   Link: [https://books.google.com/books/about/Dance_Music_Spaces.html?id=7jZYEAAAQBAJ](https://books.google.com/books/about/Dance_Music_Spaces.html?id=7jZYEAAAQBAJ)  
+   Link: <a href="https://books.google.com/books/about/Dance_Music_Spaces.html?id=7jZYEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Dance_Music_Spaces.html?id=7jZYEAAAQBAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Danielle Antoinette Hidalgo - Google BooksJanuary 31, 2022 — DANCE MUSIC SPACES: CLUBS, CLUBBERS, AND DJS NAVIGATING AUTHENTICITY, BRANDI...</p></details>
    Published: January 31, 2022  
 
 13. <a id="endnote-13"></a>
    Source: bloomsbury.com  
-   Link: [https://www.bloomsbury.com/uk/dance-music-spaces-9781793607553/](https://www.bloomsbury.com/uk/dance-music-spaces-9781793607553/)  
+   Link: <a href="https://www.bloomsbury.com/uk/dance-music-spaces-9781793607553/" target="_blank" rel="noopener noreferrer nofollow">https://www.bloomsbury.com/uk/dance-music-spaces-9781793607553/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iety Danielle Antoinette Hidalgo Lexington Books - BloomsburyJanuary 31, 2022 — DANCE MUSIC SPACES CLUBS, CLUBBERS, AND DJS NAVIGATING AU...</p></details>
    Published: January 31, 2022  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1755458616300391](https://www.sciencedirect.com/science/article/pii/S1755458616300391)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAugust 1, 2016 — EMOTION, SPACE AND SOCIETY Volume 20, August 2016, Pages 111-119 EMBODIED TECHNO-SPACE: AN AUTO-ETHNOGRAPHY...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1755458616300391" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755458616300391</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2016 — EMOTION, SPACE AND SOCIETY Volume 20, August 2016, Pages 111-119 EMBODIED TECHNO-SPACE: AN AUTO-ETHNOGRAPHY...</p></details>
    Published: August 1, 2016  
 
 15. <a id="endnote-15"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/79200/](https://eprints.whiterose.ac.uk/79200/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/79200/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/79200/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of play: the spatial dimensions of underground club culture and locating the subjunctive - White Rose Research OnlineApril 20, 2012 — SPA...</p></details>
    Published: April 20, 2012  
 
 16. <a id="endnote-16"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/96vxvYN9/](https://ouci.dntb.gov.ua/en/works/96vxvYN9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/96vxvYN9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/96vxvYN9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaces, Politics, and Cultural Economies of Electronic Dance MusicTHE SPACES, POLITICS, AND CULTURAL ECONOMIES OF ELECTRONIC DANCE MUSIC...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: era.ed.ac.uk  
    Title: ed.ac.uk Musical meaning and social significance: techno triggers for dancing  
-   Link: [https://era.ed.ac.uk/handle/1842/9478?show=full](https://era.ed.ac.uk/handle/1842/9478?show=full)  
+   Link: <a href="https://era.ed.ac.uk/handle/1842/9478?show=full" target="_blank" rel="noopener noreferrer nofollow">https://era.ed.ac.uk/handle/1842/9478?show=full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meaning and social significance: techno triggers for dancingJune 27, 2014 — MUSICAL MEANING AND SOCIAL SIGNIFICANCE: TECHNO TRIGGERS FO...</p></details>
    Published: June 27, 2014  
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
    Title: ‘Beyond the Dance Floor’?  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/07494467.2016.1176772?journalCode=gcmr20](https://www.tandfonline.com/doi/abs/10.1080/07494467.2016.1176772?journalCode=gcmr20)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/07494467.2016.1176772?journalCode=gcmr20" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/07494467.2016.1176772?journalCode=gcmr20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gendered Publics and Creative Practices in Electronic Dance Music: Contemporary Music Review: Vol 35, No 1July 4, 2016 — Contemporary Mus...</p></details>
    Published: July 4, 2016  
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/14759551.2016.1206547?doi=10.1080%2F14759551.2016.1206547&forwardService=showFullText&journalCode=gsco20&tokenAccess=DuuaFdUgBHZ27F9DKx3j&tokenDomain=eprints](https://www.tandfonline.com/doi/abs/10.1080/14759551.2016.1206547?doi=10.1080%2F14759551.2016.1206547&forwardService=showFullText&journalCode=gsco20&tokenAccess=DuuaFdUgBHZ27F9DKx3j&tokenDomain=eprints)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14759551.2016.1206547?doi=10.1080%2F14759551.2016.1206547&amp;forwardService=showFullText&amp;journalCode=gsco20&amp;tokenAccess=DuuaFdUgBHZ27F9DKx3j&amp;tokenDomain=eprints" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14759551.2016.1206547?doi=10.1080%2F14759551.2016.1206547&amp;forwardService=showFullText&amp;journalCode=gsco20&amp;tokenAccess=DuuaFdUgBHZ27F9DKx3j&amp;tokenDomain=eprints</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Filling the ‘empty space’: Site-specific dance in a techno club: Culture and Organization: Vol 25, No 1July 12, 2016 — Image: Publication...</p></details>
    Published: July 12, 2016  
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/27538702241290333](https://journals.sagepub.com/doi/10.1177/27538702241290333)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/27538702241290333" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/27538702241290333</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.com‘It felt very underground’: Uncovering the characteristics and meanings of the underground within Liverpool’s club culture sce...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Communitas and the Experience of Electronic Music  
-   Link: [https://www.youtube.com/watch?v=Y-zH8v1Kk6I](https://www.youtube.com/watch?v=Y-zH8v1Kk6I)  
+   Link: <a href="https://www.youtube.com/watch?v=Y-zH8v1Kk6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-zH8v1Kk6I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the [Ritual](&amp;#123;&amp;#123; &#x27;ritual/&#x27; | relative_url &amp;#125;&amp;#125;) of the Dance Floor...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Architecture of Sound in Club Culture  
-   Link: [https://www.youtube.com/watch?v=S0Tq4H6R2eY](https://www.youtube.com/watch?v=S0Tq4H6R2eY)  
+   Link: <a href="https://www.youtube.com/watch?v=S0Tq4H6R2eY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0Tq4H6R2eY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Communitas and the Experience of Electronic Music...</p></details>

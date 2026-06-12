@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_silence_in_music_822765_performance_silence_b90f2a
 - music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf
 tags:
-- music
+- music-3-a01-be
 - silence
 - emotional-silence
 keywords:
-- music
+- music-3-a01-be
 - silence
 - emotional-silence
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Pauses can convey grief, humour, suspense, or respect, shaping cultural and emotional listener responses.
 hero_summary: Pauses can convey grief, humour, suspense, or respect, shaping cultural and emotional listener responses.
 layout: default
 permalink: /emotional-silence/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /silence/
 nav_short_title: Emotional Silence
 title: How Silence Communicates Emotion and Meaning in Music
-title_full: How Silence Communicates Emotion and Meaning in Music | Silence
+title_full: How Silence Communicates Emotion and Meaning in Music
 display_title_short: Emotional Silence
 display_title: Emotional Silence
 heading_title: How Silence Communicates Emotion and Meaning in Music
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Silence Can Be Music Too | Music
+parent_title: Why Silence Can Be Music Too
 parent_permalink: /silence/
 parent_nav_short_title: Silence
 parent_heading_title: Why Silence Can Be Music Too
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Silence Shapes the Impact of Recorded Music
 up_link:
   basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -265,7 +265,7 @@ next_link:
   permalink: /pauses-tension/
   short_title: Pauses & Tension
   heading_title: How Pauses Build Anticipation in Music
-date: '2026-06-09 06:37:11 '
+date: '2026-06-11 23:19:48 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_
 
 ## Introduction
 
-[Silence in music]({{ 'silence/' | relative_url }}) is rarely experienced as emptiness. Listeners often hear a pause as grief, anticipation, reverence, humour, shock, relief, or reflection, even though no note is sounding. The emotional force of [silence]({{ 'silence/' | relative_url }}) comes from context: the music before the pause creates expectations, memories, and social meanings that continue through the gap. Research by music psychologist Elizabeth Hellmuth Margulis has shown that musical silences are perceived as part of the music itself rather than as neutral absences, because listeners carry impressions of what came before and anticipate what may follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Silences in Music are Musical Not Silent: An Exploratory</span><span class="citation-popover-snippet">Musical silence could be understood as the lack of pulse due to the fact that the interpretation of musical silence is assumed as the abs...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uark.edu">[Arkansas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uark.edu</span><span class="citation-popover-title">exploring the sounds of silence</span><span class="citation-popover-snippet">Arkansas NewsExploring the Sounds of Silence | Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</span></span></span>
-
+[Silence in music]({{ 'silence/' | relative_url }}) is rarely experienced as emptiness. Listeners often hear a pause as grief, anticipation, reverence, humour, shock, relief, or reflection, even though no note is sounding. The emotional force of [silence]({{ 'silence/' | relative_url }}) comes from context: the music before the pause creates expectations, memories, and social meanings that continue through the gap. Research by music psychologist Elizabeth Hellmuth Margulis has shown that musical silences are perceived as part of the music itself rather than as neutral absences, because listeners carry impressions of what came before and anticipate what may follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Silences in Music are Musical Not Silent: An Exploratory</span><span class="citation-popover-snippet">Musical silence could be understood as the lack of pulse due to the fact that the interpretation of musical silence is assumed as the abs...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uark.edu">[Arkansas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uark.edu</span><span class="citation-popover-title">exploring the sounds of silence</span><span class="citation-popover-snippet">Arkansas NewsExploring the Sounds of Silence &#124; Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1-dark.svg" | relative_url }}" alt="Emotional Silence illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within music, silence therefore functions as a mechanism of communication. It can signal emotional intensity, invite collective reflection, mark respect, create suspense, or reshape the relationship between performers and audiences. The same [physical]({{ 'physical/' | relative_url }}) absence of sound can mean very different things depending on genre, [culture]({{ 'culture/' | relative_url }}), performance setting, and listener expectations.
@@ -285,7 +284,6 @@ Within music, silence therefore functions as a mechanism of communication. It ca
 One of the most powerful uses of silence is the dramatic pause. A sudden break in an ongoing musical pattern interrupts prediction. Because listeners naturally anticipate continuation, the interruption becomes emotionally charged. Rather than disengaging, the mind often becomes more attentive during the silence, waiting for resolution. Arkansas News <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">Music PsychologyThe music of silenceIn the present paper Margulis argues that while the pauses in music may seem to be simple one dimensi...</span></span></span>
 
 This mechanism helps explain why pauses can communicate very different emotions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,20 +296,17 @@ This mechanism helps explain why pauses can communicate very different emotions:
 
 The emotional effect depends less on the duration of the silence than on its placement. A two-second pause after a resolved cadence may feel peaceful, while the same pause in the middle of an unresolved phrase may feel tense or unsettling. Margulis argues that listeners actively fill these gaps with expectations and remembered musical material, making silence psychologically active rather than empty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Silences in Music are Musical Not Silent: An Exploratory</span><span class="citation-popover-snippet">Musical silence could be understood as the lack of pulse due to the fact that the interpretation of musical silence is assumed as the abs...</span></span></span>
 
-Musicians have long recognised this expressive power. The pianist Artur Schnabel famously suggested that artistry resides not only in notes but also in the spaces between them, a view echoed in both performance practice and [music]({{ 'music/' | relative_url }}) psychology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">Music PsychologyThe music of silenceIn the present paper Margulis argues that while the pauses in music may seem to be simple one dimensi...</span></span></span>
+Musicians have long recognised this expressive power. The pianist Artur Schnabel famously suggested that artistry resides not only in notes but also in the spaces between them, a view echoed in both performance practice and music psychology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">Music PsychologyThe music of silenceIn the present paper Margulis argues that while the pauses in music may seem to be simple one dimensi...</span></span></span>
 
 ## Ritual, Memorial, and Cultural Functions
 
 Silence also carries social meaning. In many musical traditions, pauses do more than shape emotional expression; they help communities enact shared values.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5wh-WdbP-tE" title="How music, memory, and emotion are connected, with Elizabeth Margulis, PhD | Speaking of Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer">How music, memory, and emotion are connected, with Elizabeth Margulis, PhD | Speaking of Psychology</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5wh-WdbP-tE">Open on YouTube</a></p></div></div></div>
-
 ### Silence as Respect and Remembrance
 
 Memorial ceremonies frequently combine music and silence. In mourning contexts, a deliberate pause may symbolise respect for the dead, create space for reflection, or acknowledge emotions that words and music alone cannot express. Studies of mourning practices note that silence often appears alongside music as a meaningful [ritual]({{ 'ritual/' | relative_url }}) element rather than a mere interruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musiccare.org/silence-in-the-soundscape-of-mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiccare.org">[Music Care]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiccare.org</span><span class="citation-popover-title">It appears so does silence. May we not be afraid and embrace the good things</span><span class="citation-popover-snippet">Music CareSilence in the Soundscape of MourningSeptember 20, 2022 — 20 Sept 2022 — Music plays a significant role in many of these mourni...</span><span class="citation-popover-meta">Published: September 20, 2022</span></span></span>
 
-The significance of such silences is social as well as emotional. During a collective pause, listeners become aware of one another's presence. The absence of sound creates a shared moment in which attention is focused on remembrance, grief, or contemplation.
+The significance of such silences is social as well as emotional. During a collective pause, listeners become aware of one another's presence. The absence of sound creates a shared moment in which [attention]({{ 'attention/' | relative_url }}) is focused on remembrance, grief, or contemplation.
 
 ### Silence as a Cultural Construct
 
@@ -324,7 +319,6 @@ This perspective helps explain why silence can communicate social values. In som
 Few musical works have explored social meanings of silence more directly than John Cage's *4′33″*. During the performance, musicians do not intentionally produce conventional musical sounds. Instead, audiences hear environmental noises, movement, breathing, and the acoustic character of the space itself. Cage's work challenged listeners to reconsider where music ends and silence begins, revealing that supposedly silent moments are often filled with social and environmental sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/50253248/Silence_in_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Silence in MusicSilence is a cultural construct, defined in relation to sound rather than as an absence of it. John Cage&#x27;s...</span></span></span>
 
 The piece remains influential because it exposes silence as a form of attention. Rather than removing meaning, it redirects meaning toward the listening situation itself.
-
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-2-dark.svg" | relative_url }}" alt="Emotional Silence illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Interpretation Across Genres and Contexts
@@ -339,26 +333,21 @@ In classical repertoire, silence often functions as dramatic punctuation. Compos
 
 Popular music frequently uses silence to maximise impact. Producers may cut instruments immediately before a chorus, beat drop, or vocal hook. The brief absence of sound sharpens attention and increases the perceived energy of what follows. Modern listeners often recognise these moments instinctively because they have become established conventions in many pop, rock, hip-hop, and electronic styles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://barbadpiano.ae/blog/self-improvement/power-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barbadpiano.ae">[Barbad Musical Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barbadpiano.ae</span><span class="citation-popover-title">power of silence</span><span class="citation-popover-snippet">Learn how strategic pauses evoke deep emotion, build anticipation, and transform musical narratives...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YCTGzUHrEP0" title="The Power of Silence: An Introduction for Composers to the Constructive Functions of Silence | EP 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YCTGzUHrEP0" target="_blank" rel="noopener noreferrer">The Power of Silence: An Introduction for Composers to the Constructive Functions of Silence | EP 10</a></p><p class="youtube-embed-meta">Channel: Composition Class with Dr. Syroyid</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YCTGzUHrEP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YCTGzUHrEP0">Open on YouTube</a></p></div></div></div>
-
 ### Jazz and Improvised Music
 
 In jazz, silence often operates as conversational space. Musicians leave room for one another, using pauses much like speakers use turns in dialogue. A well-placed silence can imply confidence, create rhythmic tension, or invite another performer to respond. Here, silence communicates social relationships within the ensemble as much as it communicates emotion to the audience.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5wh-WdbP-tE" title="How music, memory, and emotion are connected, with Elizabeth Margulis, PhD | Speaking of Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer">How music, memory, and emotion are connected, with Elizabeth Margulis, PhD | Speaking of Psychology</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5wh-WdbP-tE">Open on YouTube</a></p></div></div></div>
+
 ### Sacred and Contemplative Traditions
 
 Many sacred musical practices use silence to encourage reflection and spiritual focus. In these contexts, pauses may function less as dramatic devices and more as opportunities for contemplation. The listener is invited not merely to await the next sound but to engage with the meaning of what has already occurred.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r9LCwI5iErE" title="The transformative power of classical music | Benjamin Zander | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r9LCwI5iErE" target="_blank" rel="noopener noreferrer">The transformative power of classical music | Benjamin Zander | TED</a></p><p class="youtube-embed-meta">Channel: TED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r9LCwI5iErE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r9LCwI5iErE">Open on YouTube</a></p></div></div></div>
 
 ## Why Listeners Hear Meaning in Silence
 
 Research on musical emotion suggests that listeners respond to music through expectation, [memory]({{ 'memory/' | relative_url }}), and learned cultural associations. Emotional meaning does not arise solely from acoustic features such as pitch or loudness. It also emerges from how the brain predicts events and reacts when those predictions are delayed, confirmed, or disrupted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat does music express?</span><span class="citation-popover-snippet">Basic emotions and beyond - PMCby PN Juslin · 2013 · Cited by 330 — Numerous studies have investigated whether music can reliably convey...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow music, memory, and emotion are connectedElizabeth Margulis, PhD, director of the Music Cognition La...</span></span></span>
 
 Silence is particularly effective because it activates these processes simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,13 +360,12 @@ Silence is particularly effective because it activates these processes simultane
 
 As a result, listeners often experience a pause as emotionally full rather than emotionally empty. The silence becomes part of the musical narrative, carrying feelings and meanings that continue even when sound has stopped.
 
-
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-3-dark.svg" | relative_url }}" alt="Emotional Silence illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Silence Speaks Loudest
 
 The most memorable silences in music are often those that seem to communicate more than additional notes could. A pause before a final cadence can express longing. A moment of stillness after a tragic musical statement can evoke grief. A collective silence in a memorial performance can signify respect. An unexpected break in a popular song can provoke excitement or laughter.
 
-In each case, silence functions as a form of musical meaning-making. It shapes emotional interpretation, reinforces social values, and reminds listeners that communication in music depends not only on what is heard, but also on what is deliberately left unsaid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uark.edu">[Arkansas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uark.edu</span><span class="citation-popover-title">exploring the sounds of silence</span><span class="citation-popover-snippet">Arkansas NewsExploring the Sounds of Silence | Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Silences in Music are Musical Not Silent: An Exploratory</span><span class="citation-popover-snippet">Musical silence could be understood as the lack of pulse due to the fact that the interpretation of musical silence is assumed as the abs...</span></span></span>
+In each case, silence functions as a form of musical meaning-making. It shapes emotional interpretation, reinforces social values, and reminds listeners that communication in music depends not only on what is heard, but also on what is deliberately left unsaid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uark.edu">[Arkansas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uark.edu</span><span class="citation-popover-title">exploring the sounds of silence</span><span class="citation-popover-snippet">Arkansas NewsExploring the Sounds of Silence &#124; Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Silences in Music are Musical Not Silent: An Exploratory</span><span class="citation-popover-snippet">Musical silence could be understood as the lack of pulse due to the fact that the interpretation of musical silence is assumed as the abs...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -496,15 +484,15 @@ In each case, silence functions as a form of musical meaning-making. It shapes e
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="https://i.ebayimg.com/images/g/tKUAAeSwFqRpyCHY/s-l225.jpg" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +500,15 @@ In each case, silence functions as a form of musical meaning-making. It shapes e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/yC0AAeSwGGJpKcR7/s-l225.jpg" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +516,15 @@ In each case, silence functions as a form of musical meaning-making. It shapes e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Concert Music Posters/Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/73oAAeSwUYJo-Nxi/s-l225.jpg" alt="Listing image for Rock Concert Music Posters/Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Concert Music Posters/Prints Gifts Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +532,15 @@ In each case, silence functions as a form of musical meaning-making. It shapes e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/hwoAAeSwIhJpDP1R/s-l225.jpg" alt="Listing image for DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +548,7 @@ In each case, silence functions as a form of musical meaning-making. It shapes e
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="emotional-silence-how-silence-communicates-emotion-and-meaning-in-music-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-silence-communicates-emotion-and-meaning-in-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="how-silence-communicates-emotion-and-meaning-in-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,128 +764,128 @@ In each case, silence functions as a form of musical meaning-making. It shapes e
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Silences in Music are Musical Not Silent: An Exploratory  
-   Link: [https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses](https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses)  
+   Link: <a href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical silence could be understood as the lack of pulse due to the fact that the interpretation of musical silence is assumed as the abs...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Google Scholar]; Margulis E.H. (2007b). Silences in music are musical not silent: an exploratory study of context effects on the experie...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/50253248/Silence_in_Music](https://www.academia.edu/50253248/Silence_in_Music)  
+   Link: <a href="https://www.academia.edu/50253248/Silence_in_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/50253248/Silence_in_Music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Silence in MusicSilence is a cultural construct, defined in relation to sound rather than as an absence of it. John Cage&#x27;s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat does music express?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic emotions and beyond - PMCby PN Juslin · 2013 · Cited by 330 — Numerous studies have investigated whether music can reliably convey...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: What musical functions can silences have  
-   Link: [https://www.researchgate.net/post/What-musical-functions-can-silences-have](https://www.researchgate.net/post/What-musical-functions-can-silences-have)  
+   Link: <a href="https://www.researchgate.net/post/What-musical-functions-can-silences-have" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What-musical-functions-can-silences-have</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?30 Jun 2020 — This question is targeted at music researchers...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: news.uark.edu  
    Title: exploring the sounds of silence  
-   Link: [https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence](https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence)  
+   Link: <a href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow">https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arkansas NewsExploring the Sounds of Silence | Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: musicpsychology.co.uk  
-   Link: [https://musicpsychology.co.uk/the-music-of-silence/](https://musicpsychology.co.uk/the-music-of-silence/)  
+   Link: <a href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/the-music-of-silence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music PsychologyThe music of silenceIn the present paper Margulis argues that while the pauses in music may seem to be simple one dimensi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: musiccare.org  
    Title: It appears so does silence. May we not be afraid and embrace the good things  
-   Link: [https://www.musiccare.org/silence-in-the-soundscape-of-mourning](https://www.musiccare.org/silence-in-the-soundscape-of-mourning)  
+   Link: <a href="https://www.musiccare.org/silence-in-the-soundscape-of-mourning" target="_blank" rel="noopener noreferrer nofollow">https://www.musiccare.org/silence-in-the-soundscape-of-mourning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music CareSilence in the Soundscape of MourningSeptember 20, 2022 — 20 Sept 2022 — Music plays a significant role in many of these mourni...</p></details>
    Published: September 20, 2022  
 
 9. <a id="endnote-9"></a>
    Source: barbadpiano.ae  
    Title: power of silence  
-   Link: [https://barbadpiano.ae/blog/self-improvement/power-of-silence/](https://barbadpiano.ae/blog/self-improvement/power-of-silence/)  
+   Link: <a href="https://barbadpiano.ae/blog/self-improvement/power-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://barbadpiano.ae/blog/self-improvement/power-of-silence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how strategic pauses evoke deep emotion, build anticipation, and transform musical narratives...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: crosseyedpianist.com  
    Title: silence in music  
-   Link: [https://crosseyedpianist.com/tag/silence-in-music/](https://crosseyedpianist.com/tag/silence-in-music/)  
+   Link: <a href="https://crosseyedpianist.com/tag/silence-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://crosseyedpianist.com/tag/silence-in-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cross-Eyed Pianistsilence in music11 Apr 2020 — Composers use silence to create drama, suspense, anticipation, to allow us to savour...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Silence](https://en.wikipedia.org/wiki/Silence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Silence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Silence</a>  
 
 12. <a id="endnote-12"></a>
    Source: talentedmusicapp.com  
    Title: silence in music  
-   Link: [https://talentedmusicapp.com/en/blog/silence-in-music](https://talentedmusicapp.com/en/blog/silence-in-music)  
+   Link: <a href="https://talentedmusicapp.com/en/blog/silence-in-music" target="_blank" rel="noopener noreferrer nofollow">https://talentedmusicapp.com/en/blog/silence-in-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional expression: Silence can be a powerful means of conveying emotions in music. Depending on context and use, moments of silence ca...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection](https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/music-connection</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow music, memory, and emotion are connectedElizabeth Margulis, PhD, director of the Music Cognition La...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: elizabethmargulis.com  
-   Link: [https://www.elizabethmargulis.com/publications](https://www.elizabethmargulis.com/publications)  
+   Link: <a href="https://www.elizabethmargulis.com/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.elizabethmargulis.com/publications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2007). Silences in Music are Musical not Silent: An Exploratory Study of the Effect of Context on Musical Pauses. Music Perception, 24...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5wh-WdbP-tE](https://www.youtube.com/watch?v=5wh-WdbP-tE)  
+   Link: <a href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5wh-WdbP-tE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How music, memory, and emotion are connected, with...How music, memory, and emotion are connected, with Elizabeth Margulis, PhD | Speaki...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scholarlypublications.universiteitleiden.nl  
    Title: When a performer discerns the role that silence plays (how  
-   Link: [https://scholarlypublications.universiteitleiden.nl/[access](https://scholarlypublications.universiteitleiden.nl/[access)  
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/[access" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/[access</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>musical silence: markers, gestures, and...10 Dec 2024 — In this research project, I have experimented with the performance of silences...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fu-berlin.de  
-   Link: [https://www.fu-berlin.de/sites/inu/research/clusters-alt/loe/loep/media/16__Kuchinke_et_al_Emotion_and_music_in_narrative_films.pdf](https://www.fu-berlin.de/sites/inu/research/clusters-alt/loe/loep/media/16__Kuchinke_et_al_Emotion_and_music_in_narrative_films.pdf)  
+   Link: <a href="https://www.fu-berlin.de/sites/inu/research/clusters-alt/loe/loep/media/16__Kuchinke_et_al_Emotion_and_music_in_narrative_films.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fu-berlin.de/sites/inu/research/clusters-alt/loe/loep/media/16__Kuchinke_et_al_Emotion_and_music_in_narrative_films.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion and Music in Narrative Filmsby L KUCHINKE1A · Cited by 36 — It focuses on the narrative potential of feature films, examining the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scholar.google.es  
-   Link: [https://scholar.google.es/citations?hl=fr&user=3_oSb8UAAAAJ](https://scholar.google.es/citations?hl=fr&user=3_oSb8UAAAAJ)  
+   Link: <a href="https://scholar.google.es/citations?hl=fr&amp;user=3_oSb8UAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.es/citations?hl=fr&amp;user=3_oSb8UAAAAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hellmuth MargulisSilences in music are musical not silent: An exploratory study of context effects on the experience of musical pauses. E...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: air.unimi.it  
    Title: Several taxonomic systems have been  
-   Link: [https://air.unimi.it/handle/2434/1173718](https://air.unimi.it/handle/2434/1173718)  
+   Link: <a href="https://air.unimi.it/handle/2434/1173718" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/handle/2434/1173718</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a Map of Musical Silences in the Age of Recorded...by M Merlini · 2025 — Silence has been a recurring subject of aesthetic and philosoph...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: en.front-sci.com  
-   Link: [https://en.front-sci.com/index.php/asc/article/view/2946/3173](https://en.front-sci.com/index.php/asc/article/view/2946/3173)  
+   Link: <a href="https://en.front-sci.com/index.php/asc/article/view/2946/3173" target="_blank" rel="noopener noreferrer nofollow">https://en.front-sci.com/index.php/asc/article/view/2946/3173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Narrative in Sound and the Role of Music in...by TS Hsu · Cited by 4 — Music often acts as a non-verbal storytelling mechanism, enhancin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/896920401/OceanofPDF-com-the-Psychology-of-Music-Elizabeth-Hellmuth-Margulis](https://www.scribd.com/document/896920401/OceanofPDF-com-the-Psychology-of-Music-Elizabeth-Hellmuth-Margulis)  
+   Link: <a href="https://www.scribd.com/document/896920401/OceanofPDF-com-the-Psychology-of-Music-Elizabeth-Hellmuth-Margulis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/896920401/OceanofPDF-com-the-Psychology-of-Music-Elizabeth-Hellmuth-Margulis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cribed in Leonard B. Meyer, Emotion and Meaning in Music (...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musicianswithoutborders.org  
    Title: the sound and the silence of music  
-   Link: [https://www.musicianswithoutborders.org/2014/06/05/the-sound-and-the-silence-of-music/](https://www.musicianswithoutborders.org/2014/06/05/the-sound-and-the-silence-of-music/)  
+   Link: <a href="https://www.musicianswithoutborders.org/2014/06/05/the-sound-and-the-silence-of-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianswithoutborders.org/2014/06/05/the-sound-and-the-silence-of-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jun 2014 — Music played a tragic role in the genocide, murder and conflict that took place in Rwanda in 1994...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ashwingane.com  
    Title: role of silence cinematic trap music  
-   Link: [https://ashwingane.com/role-of-silence-cinematic-trap-music/?srsltid=AfmBOorpsY6k_KzPpmRdQ5-fPruOQJcaQTD4Mf7fKLEOHm8G8KiX4ZJ4](https://ashwingane.com/role-of-silence-cinematic-trap-music/?srsltid=AfmBOorpsY6k_KzPpmRdQ5-fPruOQJcaQTD4Mf7fKLEOHm8G8KiX4ZJ4)  
+   Link: <a href="https://ashwingane.com/role-of-silence-cinematic-trap-music/?srsltid=AfmBOorpsY6k_KzPpmRdQ5-fPruOQJcaQTD4Mf7fKLEOHm8G8KiX4ZJ4" target="_blank" rel="noopener noreferrer nofollow">https://ashwingane.com/role-of-silence-cinematic-trap-music/?srsltid=AfmBOorpsY6k_KzPpmRdQ5-fPruOQJcaQTD4Mf7fKLEOHm8G8KiX4ZJ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashwin Gane explains why space, restraint, and pauses create tension, power, and emotional impact...</p></details>

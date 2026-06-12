@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca
 - music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f
 tags:
-- music
+- music-3-a01-be
 - lullabies
 - caregiver-cues
 keywords:
-- music
+- music-3-a01-be
 - lullabies
 - caregiver-cues
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A lullaby often works best as part of caregiving, combining voice, touch, rocking, and emotional reassurance.
 hero_summary: A lullaby often works best as part of caregiving, combining voice, touch, rocking, and emotional reassurance.
 layout: default
 permalink: /caregiver-cues/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /lullabies/
 nav_short_title: Caregiver Cues
 title: Why Singing Matters More Than Playback
-title_full: Why Singing Matters More Than Playback | Lullabies
+title_full: Why Singing Matters More Than Playback
 display_title_short: Caregiver Cues
 display_title: Caregiver Cues
 heading_title: Why Singing Matters More Than Playback
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Lullabies Work Across Cultures | Music
+parent_title: Why Lullabies Work Across Cultures
 parent_permalink: /lullabies/
 parent_nav_short_title: Lullabies
 parent_heading_title: Why Lullabies Work Across Cultures
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Slow Lullabies Feel Calming
 up_link:
   basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -259,7 +259,7 @@ next_link:
   permalink: /familiar-songs/
   short_title: Familiar Songs
   heading_title: Why Familiar Lullabies Feel Safer
-date: '2026-06-09 07:29:07 '
+date: '2026-06-11 23:45:49 '
 header:
   og_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-1.webp
@@ -268,65 +268,52 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presenc
 
 ## Introduction
 
-[Lullabies]({{ 'lullabies/' | relative_url }}) don’t just calm because of their melodic structure — the *presence of a caregiver* fundamentally changes how infants respond to them. In everyday life, lullabies are embedded in social interactions where voice, touch, eye contact, and rhythmic movement co‑occur, producing a **multimodal co‑regulation** experience that supports infant calm and physiological regulation. Unlike playback alone, live, contingent singing and [physical]({{ 'physical/' | relative_url }}) contact deliver *social cues of safety and responsiveness* that significantly boost calming effects and strengthen caregiver–infant bonding.
-
+[Lullabies]({{ 'lullabies/' | relative_url }}) dont just calm because of their melodic structure  the *presence of a caregiver* fundamentally changes how infants respond to them. In everyday life, lullabies are embedded in social interactions where voice, touch, eye contact, and rhythmic movement cooccur, producing a **multimodal coregulation** experience that supports infant calm and physiological regulation. Unlike playback alone, live, contingent singing and [physical]({{ 'physical/' | relative_url }}) contact deliver *social cues of safety and responsiveness* that significantly boost calming effects and strengthen caregiverinfant bonding.
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-1-dark.svg" | relative_url }}" alt="Caregiver Cues illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Live Voice and Contingent Singing Matter
 
-Infant‑directed singing — the live, dynamic singing voice that caregivers instinctively use — carries acoustic and social information simultaneously. Studies show that infants track the rhythms and patterns of maternal singing in real time, with stronger **neural tracking responses** during lullabies than during other types of songs. This suggests that an infant’s brain is attuned not just to the sound but to the *social contingencies* of a caregiver’s voice unfolding live in interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
+Infantdirected singing  the live, dynamic singing voice that caregivers instinctively use  carries acoustic and social information simultaneously. Studies show that infants track the rhythms and patterns of maternal singing in real time, with stronger **neural tracking responses** during lullabies than during other types of songs. This suggests that an infants brain is attuned not just to the sound but to the *social contingencies* of a caregivers voice unfolding live in interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Sing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
 
-More broadly, systematic reviews of parental infant‑directed singing report that live singing has observable effects not only on infants’ states but also on the **quality of parent–infant interaction**. Singing that is responsive to infant cues — where the caregiver adjusts their voice and timing based on the infant’s reactions — encourages dyadic synchrony, a form of *interpersonal attunement* linked to emotional regulation and security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
+More broadly, systematic reviews of parental infantdirected singing report that live singing has observable effects not only on infants states but also on the **quality of parentinfant interaction**. Singing that is responsive to infant cues  where the caregiver adjusts their voice and timing based on the infants reactions  encourages dyadic synchrony, a form of *interpersonal attunement* linked to emotional regulation and security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
 
 ### Contingency and Interaction
 
-Research from early infancy shows that *contingent* use of lullabies — that is, singing in response to infant cues of need — correlates with **reduced crying and improved interactive behaviours** during the first weeks of life. When caregivers consistently respond with voice and touch, infants tend to cry less and show more positive engagement, suggesting that the mere *social responsiveness* of the caregiver enhances calming beyond the [music]({{ 'music/' | relative_url }}) itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
+Research from early infancy shows that *contingent* use of lullabies  that is, singing in response to infant cues of need  correlates with **reduced crying and improved interactive behaviours** during the first weeks of life. When caregivers consistently respond with voice and touch, infants tend to cry less and show more positive engagement, suggesting that the mere *social responsiveness* of the caregiver enhances calming beyond the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Sing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CuJJDPWGRtg" title="Infant Directed Speech: How Talking to Your Baby Boosts Brain Development – Even Before Birth!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CuJJDPWGRtg" target="_blank" rel="noopener noreferrer">Infant Directed Speech: How Talking to Your Baby Boosts Brain Development – Even Before Birth!</a></p><p class="youtube-embed-meta">Channel: IPA_Infant Directed Speech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CuJJDPWGRtg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CuJJDPWGRtg">Open on YouTube</a></p></div></div></div>
-
-## Voice, Touch, and Eye Contact — The Synergy of Social Cues
+## Voice, Touch, and Eye Contact  The Synergy of Social Cues
 
 A lullaby often occurs in close physical and emotional proximity: the caregiver holds the infant, sings in a soft, modulated voice, and maintains gentle eye contact. These cues work together to regulate infant physiology.
 
-• **Voice as a safety signal:** Infants are wired to recognise caregiver vocalisations as cues of safety. Even when melodies are unfamiliar, live singing from a present caregiver engages [attention]({{ 'attention/' | relative_url }}) and reduces arousal because the voice itself signals *care and proximity*, not just musical structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCInfants relax in response to unfamiliar foreign lullabies</span></span></span>
+ **Voice as a safety signal:** Infants are wired to recognise caregiver vocalisations as cues of safety. Even when melodies are unfamiliar, live singing from a present caregiver engages [attention]({{ 'attention/' | relative_url }}) and reduces arousal because the voice itself signals *care and proximity*, not just musical structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCInfants relax in response to unfamiliar foreign lullabies</span></span></span>
 
-• **Touch amplifies physiological regulation:** Everyday caregiving touch — rocking, stroking, patting — is more than comforting; it correlates with immediate increases in infants’ **parasympathetic activation**, a key component of relaxation. Studies in naturalistic home settings show that brief bouts of soothing touch delivered with singing significantly elevate measures of calm (e.g., heart rate variability), especially in younger infants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
+ **Touch amplifies physiological regulation:** Everyday caregiving touch  rocking, stroking, patting  is more than comforting; it correlates with immediate increases in infants **parasympathetic activation**, a key component of relaxation. Studies in naturalistic home settings show that brief bouts of soothing touch delivered with singing significantly elevate measures of calm (e.g., heart rate variability), especially in younger infants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
 
-• **Eye contact binds sound and meaning:** While much research emphasises acoustic features, behavioural studies show that when caregivers sing while making gentle eye contact, infants show increased attention and engagement. This positions lullabies as a *social cue of attunement*, not merely auditory stimuli. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
-
+ **Eye contact binds sound and meaning:** While much research emphasises acoustic features, behavioural studies show that when caregivers sing while making gentle eye contact, infants show increased attention and engagement. This positions lullabies as a *social cue of attunement*, not merely auditory stimuli. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Sing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-2-dark.svg" | relative_url }}" alt="Caregiver Cues illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rocking and Rhythmic Movement as Multimodal Calming
 
-The rhythmic elements of lullabies — [slow tempo]({{ 'slow-tempo/' | relative_url }}) and predictability — are often matched by **rhythmic movements** provided by caregivers, such as rocking or swaying. These movements work with the music to orchestrate a calming [rhythm]({{ 'rhythm/' | relative_url }}) that infants respond to physiologically and behaviourally.
+The rhythmic elements of lullabies  [slow tempo]({{ 'slow-tempo/' | relative_url }}) and predictability  are often matched by **rhythmic movements** provided by caregivers, such as rocking or swaying. These movements work with the music to orchestrate a calming [rhythm]({{ 'rhythm/' | relative_url }}) that infants respond to physiologically and behaviourally.
 
-Rocking and other gentle movements have been associated with **parasympathetic activation** and reduced infant distress. When paired with singing, the synchrony of auditory and vestibular cues (rhythm plus motion) fosters *co‑regulation*, where the caregiver’s steady rhythm helps slow the infant’s autonomic responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
+Rocking and other gentle movements have been associated with **parasympathetic activation** and reduced infant distress. When paired with singing, the synchrony of auditory and vestibular cues (rhythm plus motion) fosters *coregulation*, where the caregivers steady rhythm helps slow the infants autonomic responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
 
-This multimodal integration — voice, movement, touch — appears to be a foundational aspect of lullaby use across cultures: it aligns *external rhythmic cues* with innate physiological systems that promote calm and sleep readiness.
+This multimodal integration  voice, movement, touch  appears to be a foundational aspect of lullaby use across cultures: it aligns *external rhythmic cues* with innate physiological systems that promote calm and sleep readiness.
 
+## Bidirectional Benefits  How Soothing Helps Caregivers Too
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZXhiyjr0HrQ" title="The Power of Babies&#x27; Relationships to Parents, Caregivers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZXhiyjr0HrQ" target="_blank" rel="noopener noreferrer">The Power of Babies&#x27; Relationships to Parents, Caregivers</a></p><p class="youtube-embed-meta">Channel: Children&#x27;s Minnesota</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZXhiyjr0HrQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZXhiyjr0HrQ">Open on YouTube</a></p></div></div></div>
+The calming effects of lullabies circulate back to the caregiver. When singing and touch successfully soothe an infant, caregivers experience **lower stress and greater emotional connection**, reinforcing responsive caregiving. Observational and systematic research finds that engaging in live, infantdirected singing supports positive **dyadic synchrony**, which is associated with better emotional regulation in both partners of the dyad. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
 
-## Bidirectional Benefits — How Soothing Helps Caregivers Too
-
-The calming effects of lullabies circulate back to the caregiver. When singing and touch successfully soothe an infant, caregivers experience **lower stress and greater emotional connection**, reinforcing responsive caregiving. Observational and systematic research finds that engaging in live, infant‑directed singing supports positive **dyadic synchrony**, which is associated with better emotional regulation in both partners of the dyad. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
-
-Caregivers often report feeling calmer when their infants calm — a feedback dynamic that is part of the co‑regulation process: as the infant’s physiological arousal decreases in response to voice and touch, caregivers pick up on those changes and respond with further attuned interaction.
-
+Caregivers often report feeling calmer when their infants calm  a feedback dynamic that is part of the coregulation process: as the infants physiological arousal decreases in response to voice and touch, caregivers pick up on those changes and respond with further attuned interaction.
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-3-dark.svg" | relative_url }}" alt="Caregiver Cues illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Takeaways for Caregiving Moments
 
-* **Sing *with* the infant, not just play music:** Live, responsive singing provides social cues that recorded music alone cannot match — infants look for voice timing, inflection, and contingency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
-* **Pair singing with gentle touch and movement:** Rocking or swaying while singing adds a rhythmic, tactile layer that enhances parasympathetic calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
-* **Use eye contact and expression:** Soft eye contact during singing reinforces the social safety signal that supports emotional regulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
+* **Sing *with* the infant, not just play music:** Live, responsive singing provides social cues that recorded music alone cannot match  infants look for voice timing, inflection, and contingency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Sing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
+* **Pair singing with gentle touch and movement:** Rocking or swaying while singing adds a rhythmic, tactile layer that enhances parasympathetic calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</span></span></span>
+* **Use eye contact and expression:** Soft eye contact during singing reinforces the social safety signal that supports emotional regulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Sing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</span></span></span>
 
-These elements — voice, touch, rhythmic movement — create a *co‑regulated environment* where music and caregiving behaviour converge to calm infants effectively, showing why lullabies feel most powerful when shared in close, interactive moments.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+These elements  voice, touch, rhythmic movement  create a *coregulated environment* where music and caregiving behaviour converge to calm infants effectively, showing why lullabies feel most powerful when shared in close, interactive moments.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -374,10 +361,10 @@ These elements — voice, touch, rhythmic movement — create a *co‑regulated 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. ediciÃ³n on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. ediciÃ³n" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. ediciÃ³n">The singing neanderthals : the origins of music, language, mi...</a>
+          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. edición">The singing neanderthals : the origins of music, language, mi...</a>
         </h4>
         <p class="fr-book-author">By Steven Mithen</p>
         
@@ -408,7 +395,7 @@ These elements — voice, touch, rhythmic movement — create a *co‑regulated 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. ediciÃ³n</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. edición</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -724,135 +711,135 @@ These elements — voice, touch, rhythmic movement — create a *co‑regulated 
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1878929323001184](https://www.sciencedirect.com/science/article/pii/S1878929323001184)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1878929323001184" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1878929323001184</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sing to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - ScienceDirect...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0882596318305748](https://www.sciencedirect.com/science/article/pii/S0882596318305748)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe Effects of Contingent Lullaby Music on Parent-Infant Interaction and Amount of Infant Crying in the First Six Weeks of L...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0882596318305748" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0882596318305748</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Contingent Lullaby Music on Parent-Infant Interaction and Amount of Infant Crying in the First Six Weeks of L...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Title: PMCInfants relax in response to unfamiliar [foreign lullabies](&#123;&#123; 'foreign-songs/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/)  
+   Title: PMCInfants relax in response to unfamiliar foreign lullabies  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0163638396900466](https://www.sciencedirect.com/science/article/pii/S0163638396900466)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInfant preferences for infant-directed versus noninfant-directed playsongs and lullabies - ScienceDirectJanuary 1, 1996...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0163638396900466" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0163638396900466</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infant preferences for infant-directed versus noninfant-directed playsongs and lullabies - ScienceDirectJanuary 1, 1996...</p></details>
    Published: January 1, 1996  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0163638324001000](https://www.sciencedirect.com/science/article/pii/S0163638324001000)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 1, 2025 — Registered Report Stage ii Soothing touch matters: Patterns of everyday mother-infant physical contact and t...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0163638324001000" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0163638324001000</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2025  Registered Report Stage ii Soothing touch matters: Patterns of everyday mother-infant physical contact and t...</p></details>
    Published: March 1, 2025  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0163638319301237](https://www.sciencedirect.com/science/article/pii/S0163638319301237)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectNovember 1, 2019 — INFANT BEHAVIOR AND DEVELOPMENT Volume 57, November 2019, 101385 Review Co-sleeping as a proximal context...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0163638319301237" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0163638319301237</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1, 2019  INFANT BEHAVIOR AND DEVELOPMENT Volume 57, November 2019, 101385 Review Co-sleeping as a proximal context...</p></details>
    Published: November 1, 2019  
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37343492/](https://pubmed.ncbi.nlm.nih.gov/37343492/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37343492/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37343492/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of live parental infant-directed singing on infants, parents, and the parent-infant dyad: A systematic review of the li...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39700753/](https://pubmed.ncbi.nlm.nih.gov/39700753/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSoothing touch matters: Patterns of everyday mother-infant physical contact and their real-time physiological implications - PubMed...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39700753/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39700753/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soothing touch matters: Patterns of everyday mother-infant physical contact and their real-time physiological implications - PubMed...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38422780/](https://pubmed.ncbi.nlm.nih.gov/38422780/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38422780/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38422780/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Jun:75:101928. doi: 10.1016/j.infbeh.2024.101928. Epub 2024 Feb 28. LET&#x27;S MAKE MUSIC AS WE NORMALLY DO: A SYSTEMATIC REVIEW OF HOW E...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The goal of this study was  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37879243/](https://pubmed.ncbi.nlm.nih.gov/37879243/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - PubMedOctober 24, 2023 — ABSTRACT...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37879243/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37879243/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - PubMedOctober 24, 2023  ABSTRACT...</p></details>
    Published: October 24, 2023  
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30826725/](https://pubmed.ncbi.nlm.nih.gov/30826725/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30826725/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30826725/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 May-Jun:46:33-38. doi: 10.1016/j.pedn.2019.02.025. Epub 2019 Feb 28. THE EFFECTS OF CONTINGENT LULLABY MUSIC ON PARENT-INFANT INTERA...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33451193/](https://pubmed.ncbi.nlm.nih.gov/33451193/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33451193/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33451193/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2001 Oct;2(4):549-566. doi: 10.1207/S15327078IN0204_09. Epub 2001 Oct 1. EMOTION REGULATION VIA MATERNAL TOUCH Matthew J H...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10082023/](https://pubmed.ncbi.nlm.nih.gov/10082023/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10082023/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10082023/</a>  
 
 14. <a id="endnote-14"></a>
    Source: pure.pmu.ac.at  
-   Link: [https://pure.pmu.ac.at/en/publications/sing-to-me-baby-infants-show-neural-tracking-and-rhythmic-movemen/](https://pure.pmu.ac.at/en/publications/sing-to-me-baby-infants-show-neural-tracking-and-rhythmic-movemen/)  
+   Link: <a href="https://pure.pmu.ac.at/en/publications/sing-to-me-baby-infants-show-neural-tracking-and-rhythmic-movemen/" target="_blank" rel="noopener noreferrer nofollow">https://pure.pmu.ac.at/en/publications/sing-to-me-baby-infants-show-neural-tracking-and-rhythmic-movemen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing - PMU Research PortalSING TO ME, BA...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41562-020-00963-z](https://www.nature.com/articles/s41562-020-00963-z)  
+   Link: <a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bainbridge ORCID: orcid.org/0000-0003-3960-2845^{1}^{ na1}, * Mila Bertolo ORCID: orcid.org/0000-0002-3931-2293^{1}^{ na1}...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aesthetics.mpg.de  
-   Link: [https://www.aesthetics.mpg.de/en/research/former-departments-and-research-groups/department-of-neuroscience/brain-pie-lab/the-role-of-lullabies-in-caregiver-infant-synchronization.html](https://www.aesthetics.mpg.de/en/research/former-departments-and-research-groups/department-of-neuroscience/brain-pie-lab/the-role-of-lullabies-in-caregiver-infant-synchronization.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of lullabies in caregiver-infant synchronization – Max-Planck-Institut für empirische ÄsthetikTHE ROLE OF LULLABIES IN CAREGIVER-INF...</p></details>
+   Link: <a href="https://www.aesthetics.mpg.de/en/research/former-departments-and-research-groups/department-of-neuroscience/brain-pie-lab/the-role-of-lullabies-in-caregiver-infant-synchronization.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aesthetics.mpg.de/en/research/former-departments-and-research-groups/department-of-neuroscience/brain-pie-lab/the-role-of-lullabies-in-caregiver-infant-synchronization.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of lullabies in caregiver-infant synchronization  Max-Planck-Institut fr empirische sthetikTHE ROLE OF LULLABIES IN CAREGIVER-INF...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: discovery.ucl.ac.uk  
-   Title: ucl.ac.uk Social touch interacts with infants’ learning of auditory patterns  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10165194/](https://discovery.ucl.ac.uk/id/eprint/10165194/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>touch interacts with infants’ learning of auditory patterns - UCL DiscoverySOCIAL TOUCH INTERACTS WITH INFANTS’ LEARNING OF AUDITORY PATT...</p></details>
+   Title: ucl.ac.uk Social touch interacts with infants learning of auditory patterns  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10165194/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10165194/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>touch interacts with infants learning of auditory patterns - UCL DiscoverySOCIAL TOUCH INTERACTS WITH INFANTS LEARNING OF AUDITORY PATT...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: journals.plos.org  
-   Title: Möller, Roles Conceptualization, Data curation, Formal analysis, Methodo  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0214548](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0214548)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>crying and the calming response: Parental versus mechanical soothing using swaddling, sound, and movement | PLOS OneApril 24, 2019 — INFA...</p></details>
+   Title: Mller, Roles Conceptualization, Data curation, Formal analysis, Methodo  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0214548" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0214548</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>crying and the calming response: Parental versus mechanical soothing using swaddling, sound, and movement | PLOS OneApril 24, 2019  INFA...</p></details>
    Published: April 24, 2019  
 
 19. <a id="endnote-19"></a>
    Source: repository.uel.ac.uk  
    Title: V., Hoehl, S. and Markova, G  
-   Link: [https://repository.uel.ac.uk/item/8wyvv](https://repository.uel.ac.uk/item/8wyvv)  
+   Link: <a href="https://repository.uel.ac.uk/item/8wyvv" target="_blank" rel="noopener noreferrer nofollow">https://repository.uel.ac.uk/item/8wyvv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to me, baby: Infants show neural tracking and rhythmic movements to live and dynamic maternal singing: UEL Research RepositoryOctober 24...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11245-018-9565-1](https://link.springer.com/article/10.1007/s11245-018-9565-1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Interpersonal Affective Touch | Topoi | Springer Nature LinkMay 12, 2018 — 4 A TOUCH OF LOVE: THE ROLE OF INTERPERSONAL A...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s11245-018-9565-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11245-018-9565-1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Interpersonal Affective Touch | Topoi | Springer Nature LinkMay 12, 2018  4 A TOUCH OF LOVE: THE ROLE OF INTERPERSONAL A...</p></details>
    Published: May 12, 2018  
 
 21. <a id="endnote-21"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3425/10/8/511](https://www.mdpi.com/2076-3425/10/8/511)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep, Little Baby: The Calming Effects of Prenatal Speech Exposure on Newborns’ Sleep and Heartrate | MDPIAugust 2, 2020 — 2 August 2020...</p></details>
+   Link: <a href="https://www.mdpi.com/2076-3425/10/8/511" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3425/10/8/511</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep, Little Baby: The Calming Effects of Prenatal Speech Exposure on Newborns Sleep and Heartrate | MDPIAugust 2, 2020  2 August 2020...</p></details>
    Published: August 2, 2020  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Infant Directed Singing and Bonding  
-   Link: [https://www.youtube.com/watch?v=R9Z_C323nE0](https://www.youtube.com/watch?v=R9Z_C323nE0)  
+   Link: <a href="https://www.youtube.com/watch?v=R9Z_C323nE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Z_C323nE0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Parent-Infant Interaction...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why Singing to Babies Matters  
-   Link: [https://www.youtube.com/watch?v=E_w5yN6tG8s](https://www.youtube.com/watch?v=E_w5yN6tG8s)  
+   Link: <a href="https://www.youtube.com/watch?v=E_w5yN6tG8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E_w5yN6tG8s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Caregiver-Infant Connection...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Science of Parent-Infant Interaction  
-   Link: [https://www.youtube.com/watch?v=W_Yn3eG746A](https://www.youtube.com/watch?v=W_Yn3eG746A)  
+   Link: <a href="https://www.youtube.com/watch?v=W_Yn3eG746A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W_Yn3eG746A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Singing to Babies Matters...</p></details>

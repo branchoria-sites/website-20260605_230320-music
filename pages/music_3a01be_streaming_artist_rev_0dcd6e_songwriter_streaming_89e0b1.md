@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675
 - music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb
 tags:
-- music
+- music-3-a01-be
 - royalties
 - songwriters
 keywords:
-- music
+- music-3-a01-be
 - royalties
 - songwriters
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A stream can pay songwriters through mechanical and performance royalties, even when they are not the recording artist.
 hero_summary: A stream can pay songwriters through mechanical and performance royalties, even when they are not the recording artist.
 layout: default
 permalink: /songwriters-701a60/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /royalties/
 nav_short_title: Songwriters
 title: How songwriters get paid from streams
-title_full: How songwriters get paid from streams | Royalties
+title_full: How songwriters get paid from streams
 display_title_short: Songwriters
 display_title: Songwriters
 heading_title: How songwriters get paid from streams
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Streaming Money Actually Reaches Artists | Music
+parent_title: How Streaming Money Actually Reaches Artists
 parent_permalink: /royalties/
 parent_nav_short_title: Royalties
 parent_heading_title: How Streaming Money Actually Reaches Artists
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one stream is not worth one price
 up_link:
   basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -259,7 +259,7 @@ prev_link:
   permalink: /payout-rates/
   short_title: Payout rates
   heading_title: Why one stream is not worth one price
-date: '2026-06-09 07:53:48 '
+date: '2026-06-11 23:58:34 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-1.webp
@@ -270,24 +270,20 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_stream
 
 When a song is streamed on Spotify, Apple Music, Amazon Music or another interactive streaming service, money does not flow only to the owner of the [recording]({{ 'recording/' | relative_url }}). The underlying composition—the melody, lyrics and musical work written by songwriters—also generates [royalties]({{ 'royalties/' | relative_url }}). This means a songwriter can be paid even if they never performed on the track, appeared in the studio, or owned the master recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-1-dark.svg" | relative_url }}" alt="Songwriters illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Interactive streaming is especially important because it creates two distinct [publishing]({{ 'publishing/' | relative_url }}) income streams for songwriters: [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}) and performance royalties. These royalties are administered through different licensing systems, collection societies and publishing structures. Understanding that distinction helps explain why a songwriter's streaming income may arrive from several organisations rather than from the streaming platform itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.themlc.com">[blog.themlc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.themlc.com</span><span class="citation-popover-snippet">er has control over which sound recording to stream and in what order to stream...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...Mar 21, 2022 — The performance royalties goes through PROs, which are performing rights organizations, such as ASCAP, BMI and...</span></span></span>
 
 ## The composition side of a streamed song
 
-Every commercial recording contains at least one copyright in the sound recording and one copyright in the composition. The recording copyright covers the specific performance listeners hear. The composition copyright covers the song as written. Songwriters and [music]({{ 'music/' | relative_url }}) publishers participate in the composition side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
+Every commercial recording contains at least one copyright in the sound recording and one copyright in the composition. The recording copyright covers the specific performance listeners hear. The composition copyright covers the song as written. Songwriters and music publishers participate in the composition side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
 This distinction has practical consequences. Consider a songwriter who writes a hit song that is later recorded by another artist. The performer and label may receive recording income, but the songwriter still earns publishing royalties whenever that composition is streamed. Likewise, if multiple writers contributed to the song, the publishing income is divided according to the agreed songwriting shares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Secondly, Songwriting Performance Royalties are paid to the Song...</span></span></span>
 
 Interactive streams are different from traditional radio-style broadcasts because listeners choose exactly what to hear and when to hear it. Services such as Spotify and Apple Music are therefore treated as interactive services and must obtain licences covering both recording [rights]({{ 'rights/' | relative_url }}) and composition rights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.themlc.com">[blog.themlc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.themlc.com</span><span class="citation-popover-snippet">er has control over which sound recording to stream and in what order to stream...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZbgOuw4HdU" title="Mechanical vs Performance Royalties: Why Streaming Pays Both" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer">Mechanical vs Performance Royalties: Why Streaming Pays Both</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 621 &middot; Uploaded: March 2026 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZbgOuw4HdU">Open on YouTube</a></p></div></div></div>
-
 ## Mechanical royalties from digital reproductions
 
-Mechanical royalties originated long before streaming. Historically, they were paid when a song was reproduced on physical formats such as records, tapes or CDs. Digital streaming created a modern version of the same principle because a stream involves licensed reproductions and transmissions of the musical work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosignmusic.com">[kosignmusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosignmusic.com</span><span class="citation-popover-title">mechanical royalties explained how music creators get paid</span><span class="citation-popover-snippet">Mechanical Royalties Explained: How Songwriters Get PaidAug 22, 2025 — Mechanical royalties are payments made to rights holders, usually...</span></span></span>
+Mechanical royalties originated long before streaming. Historically, they were paid when a song was reproduced on [physical]({{ 'physical/' | relative_url }}) [formats]({{ 'formats/' | relative_url }}) such as records, tapes or CDs. Digital streaming created a modern version of the same principle because a stream involves licensed reproductions and transmissions of the musical work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosignmusic.com">[kosignmusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosignmusic.com</span><span class="citation-popover-title">mechanical royalties explained how music creators get paid</span><span class="citation-popover-snippet">Mechanical Royalties Explained: How Songwriters Get PaidAug 22, 2025 — Mechanical royalties are payments made to rights holders, usually...</span></span></span>
 
 For songwriters, mechanical royalties from interactive streaming are one of the most important publishing revenue sources. The exact licensing and collection process varies by country, but the underlying idea is consistent: when a streaming service uses a composition, the songwriters and publishers are entitled to compensation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosignmusic.com">[kosignmusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosignmusic.com</span><span class="citation-popover-title">mechanical royalties explained how music creators get paid</span><span class="citation-popover-snippet">Mechanical Royalties Explained: How Songwriters Get PaidAug 22, 2025 — Mechanical royalties are payments made to rights holders, usually...</span></span></span>
 
@@ -298,7 +294,6 @@ In the United States, the Music Modernization Act created a blanket licensing sy
 The MLC's role is narrowly defined. It handles digital audio mechanical royalties connected to interactive streaming and downloads, but it does not replace performance-rights organisations or administer recording royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of CongressThe Breakdown: What Songwriters Need to Know about...Apr 13, 2020 — The MLC will only distribute mechanical royal...</span></span></span>
 
 For a songwriter, this means membership in a performing-rights organisation alone may not be enough. Mechanical royalties and performance royalties are collected through separate systems, and registration with one organisation does not automatically guarantee collection from the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/mlc-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">mlc mechanical licensing collective</span><span class="citation-popover-snippet">Your PRO (ASCAP, BMI, SESAC) handles these. The MLC and your PRO collect different royalty types from the same streams.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-2-dark.svg" | relative_url }}" alt="Songwriters illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why registration matters
@@ -318,8 +313,7 @@ The key point is that a single interactive stream can generate both:
 * A mechanical royalty for the reproduction and use of the composition.
 * A performance royalty for the public performance of that composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...Mar 21, 2022 — The performance royalties goes through PROs, which are performing rights organizations, such as ASCAP, BMI and...</span></span></span> Orphiq These payments may arrive from different organisations and on different reporting schedules. As a result <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/mlc-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">mlc mechanical licensing collective</span><span class="citation-popover-snippet">Your PRO (ASCAP, BMI, SESAC) handles these. The MLC and your PRO collect different royalty types from the same streams.Read more...</span></span></span>, songwriters often receive multiple royalty statements relating to the same streaming activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FMtxcnRPvT8" title="How Do I Get Paid for Interactive Streaming - 5 Mins or Less" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FMtxcnRPvT8" target="_blank" rel="noopener noreferrer">How Do I Get Paid for Interactive Streaming - 5 Mins or Less</a></p><p class="youtube-embed-meta">Channel: Exploration Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FMtxcnRPvT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FMtxcnRPvT8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZbgOuw4HdU" title="Mechanical vs Performance Royalties: Why Streaming Pays Both" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer">Mechanical vs Performance Royalties: Why Streaming Pays Both</a></p><p class="youtube-embed-meta">Channel: The Manager&#x27;s Playbook &middot; Views: 621 &middot; Uploaded: March 2026 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZbgOuw4HdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZbgOuw4HdU">Open on YouTube</a></p></div></div></div>
 
 ## Why songwriter income differs from artist income
 
@@ -329,17 +323,13 @@ This distinction is particularly visible in collaborative songwriting. Modern po
 
 For artist-songwriters who both write and perform their music, streaming can generate income from both the recording side and the publishing side. However, those are separate revenue streams governed by different rights, contracts and collection systems. Royalty Exchange <span class="citation-chip-wrap"><a class="citation-chip" href="https://mubert.com/blog/types-of-royalties-in-music-publishing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mubert.com">[Mubert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mubert.com</span><span class="citation-popover-title">types of royalties in music publishing explained</span><span class="citation-popover-snippet">12 Jan 2026 — Use this quick-hit checklist to make sure every royalty type is tracked and paid. Register each song once, keep the data id...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-3-dark.svg" | relative_url }}" alt="Songwriters illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the publishing system remains important
 
 Streaming transformed music consumption, but it did not eliminate the distinction between songs and recordings. Interactive services still require licences for compositions, and those licences continue to generate mechanical and performance royalties for writers and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.themlc.com">[blog.themlc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.themlc.com</span><span class="citation-popover-snippet">er has control over which sound recording to stream and in what order to stream...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">mlc license availability date january 1 what this means</span><span class="citation-popover-snippet">Copyright AllianceMLC License Availability Date: January 1Jan 19, 2021 — The MLC collects digital mechanical royalties from digital music...</span></span></span>
 
 As streaming has become the dominant form of music listening, collecting societies and publishing organisations have become increasingly important in ensuring that songwriter income reaches the correct people. The continuing focus on royalty matching, registration accuracy and publishing administration reflects a simple reality: every stream pays not only for the recording listeners hear, but also for the song that made that recording possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">This milestone was achieved through charging fees for streams, downloads, broadcasts, and live performances of music. The organization pa...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-3-dark.svg" | relative_url }}" alt="Songwriters illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -458,15 +448,15 @@ As streaming has become the dominant form of music listening, collecting societi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe"><img src="{{ '/assets/images/marketplace-covers/afef061b25e785cbeae6.jpg' | relative_url }}" alt="Listing image for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEONARD COHEN Tribute Singer Songwriter Poet Heavy Cotton t-shirt All Sizes"><img src="https://i.ebayimg.com/images/g/2aoAAOSw4GVYJWs3/s-l225.jpg" alt="Listing image for LEONARD COHEN Tribute Singer Songwriter Poet Heavy Cotton t-shirt All Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">LEONARD COHEN Tribute Singer Songwriter Poet Heavy Cotton t-shirt All Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +464,15 @@ As streaming has become the dominant form of music listening, collecting societi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL"><img src="{{ '/assets/images/marketplace-covers/91c26cb93a1fd08b6e2c.jpg' | relative_url }}" alt="Listing image for NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Burt Bacharach T-Shirt | Songwriter | This Guys In Love With You | 60s | Retro"><img src="https://i.ebayimg.com/images/g/g6QAAOSwyetj5SNb/s-l225.jpg" alt="Listing image for Burt Bacharach T-Shirt | Songwriter | This Guys In Love With You | 60s | Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NWT The Merle Haggard Road Show American Country Singer Songwriter T-SHIRT S-5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Burt Bacharach T-Shirt | Songwriter | This Guys In Love With You | 60s | Retro</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +480,15 @@ As streaming has become the dominant form of music listening, collecting societi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="{{ '/assets/images/marketplace-covers/aafd49b6541a0d191524.jpg' | relative_url }}" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRUST ME I AM A SONGWRITER T-SHIRT best funny awesome gift"><img src="https://i.ebayimg.com/images/g/yYMAAOSwJltoB3tG/s-l225.jpg" alt="Listing image for TRUST ME I AM A SONGWRITER T-SHIRT best funny awesome gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">TRUST ME I AM A SONGWRITER T-SHIRT best funny awesome gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +496,15 @@ As streaming has become the dominant form of music listening, collecting societi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747"><img src="{{ '/assets/images/marketplace-covers/696295e8f4efb55facc4.jpg' | relative_url }}" alt="Listing image for Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="https://i.ebayimg.com/images/g/7egAAOSw1Gtcd9bb/s-l225.jpg" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pretenders Band Rock British American Founding Songwriter T-Shirt - 251747</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +512,7 @@ As streaming has become the dominant form of music listening, collecting societi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="songwriters-701a60-how-songwriters-get-paid-from-streams-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-songwriters-get-paid-from-streams-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-songwriters-get-paid-from-streams-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,185 +727,185 @@ As streaming has become the dominant form of music listening, collecting societi
 
 1. <a id="endnote-1"></a>
    Source: blog.themlc.com  
-   Link: [https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download](https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download)  
+   Link: <a href="https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download" target="_blank" rel="noopener noreferrer nofollow">https://blog.themlc.com/resources/what-is-an-interactive-stream-permanent-download-or-limited-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>er has control over which sound recording to stream and in what order to stream...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...Mar 21, 2022 — The performance royalties goes through PROs, which are performing rights organizations, such as ASCAP, BMI and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: orphiq.com  
    Title: mlc mechanical licensing collective  
-   Link: [https://orphiq.com/resources/mlc-mechanical-licensing-collective](https://orphiq.com/resources/mlc-mechanical-licensing-collective)  
+   Link: <a href="https://orphiq.com/resources/mlc-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/mlc-mechanical-licensing-collective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your PRO (ASCAP, BMI, SESAC) handles these. The MLC and your PRO collect different royalty types from the same streams.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mubert.com  
    Title: types of royalties in music publishing explained  
-   Link: [https://mubert.com/blog/types-of-royalties-in-music-publishing-explained](https://mubert.com/blog/types-of-royalties-in-music-publishing-explained)  
+   Link: <a href="https://mubert.com/blog/types-of-royalties-in-music-publishing-explained" target="_blank" rel="noopener noreferrer nofollow">https://mubert.com/blog/types-of-royalties-in-music-publishing-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jan 2026 — Use this quick-hit checklist to make sure every royalty type is tracked and paid. Register each song once, keep the data id...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kosignmusic.com  
    Title: mechanical royalties explained how music creators get paid  
-   Link: [https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid](https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid)  
+   Link: <a href="https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid" target="_blank" rel="noopener noreferrer nofollow">https://www.kosignmusic.com/blog/mechanical-royalties-explained-how-music-creators-get-paid</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Royalties Explained: How Songwriters Get PaidAug 22, 2025 — Mechanical royalties are payments made to rights holders, usually...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing Collective: HomeThe MLC distributes digital audio mechanical royalties to eligible self-administered songwriters, co...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/how-it-works](https://www.themlc.com/how-it-works)  
+   Link: <a href="https://www.themlc.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/how-it-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How It WorksThe MLC administers blanket mechanical licenses for eligible streaming and download services in the United States, collecting...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective](https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective)  
+   Link: <a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: help.themlc.com  
-   Link: [https://help.themlc.com/en/support/what-is-a-mechanical-royalty-and-how-is-it-paid](https://help.themlc.com/en/support/what-is-a-mechanical-royalty-and-how-is-it-paid)  
+   Link: <a href="https://help.themlc.com/en/support/what-is-a-mechanical-royalty-and-how-is-it-paid" target="_blank" rel="noopener noreferrer nofollow">https://help.themlc.com/en/support/what-is-a-mechanical-royalty-and-how-is-it-paid</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lyricists; music publishers; and administrators after it has matched...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/membership](https://www.themlc.com/membership)  
+   Link: <a href="https://www.themlc.com/membership" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/membership</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MembershipThe MLC makes sure songwriters, composers, and lyricists get paid the streaming royalties they&#x27;re owed from U.S. digital servic...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing](https://www.ascap.com/help/ascap-licensing)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occurs e...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sae.edu  
-   Link: [https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/](https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/)  
+   Link: <a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SAE InstituteMusic Publishing and Royalties ExplainedOur blog explores music publishing, the collection of royalties and how this ecosyst...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/digital-music-royalties-landscape](https://www.themlc.com/digital-music-royalties-landscape)  
+   Link: <a href="https://www.themlc.com/digital-music-royalties-landscape" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/digital-music-royalties-landscape</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Digital Music Royalties LandscapeThe MLC is the only organization in the United States authorized to administer the blanket compulsor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/rates](https://www.themlc.com/rates)  
+   Link: <a href="https://www.themlc.com/rates" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/rates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed using the statutory royalty rates.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: artist.tools  
    Title: what are the royalties on music and how do they work  
-   Link: [https://www.artist.tools/post/what-are-the-royalties-on-music-and-how-do-they-work](https://www.artist.tools/post/what-are-the-royalties-on-music-and-how-do-they-work)  
+   Link: <a href="https://www.artist.tools/post/what-are-the-royalties-on-music-and-how-do-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/what-are-the-royalties-on-music-and-how-do-they-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Aug 2025 — Created by the Music Modernization Act, The MLC is now the go-to organization for collecting mechanical royalties from digi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: orphiq.com  
    Title: music royalties explained  
-   Link: [https://orphiq.com/resources/music-royalties-explained](https://orphiq.com/resources/music-royalties-explained)  
+   Link: <a href="https://orphiq.com/resources/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/music-royalties-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 6 Types You Earn1 Feb 2026 — Music royalties are payments earned whenever your music is played, reproduced, or used commercially. The...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: orphiq.com  
    Title: mechanical royalties explained  
-   Link: [https://orphiq.com/resources/mechanical-royalties-explained](https://orphiq.com/resources/mechanical-royalties-explained)  
+   Link: <a href="https://orphiq.com/resources/mechanical-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/mechanical-royalties-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Artists9 Apr 2026 — The MLC is the only entity that collects digital mechanical royalties from US streaming.... ASCAP and BMI collec...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bmi.com  
    Title: What is the difference between performing right royalties  
-   Link: [https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r](https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMIMechanical royalties and synchronization fees are paid by record companies and film and TV producers directly to the copyright owner...</p></details>
+   Link: <a href="https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical royalties and synchronization fees are paid by record companies and film and TV producers directly to the copyright owner...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: royaltyexchange.com  
    Title: music royalties 101 intro to royalties  
-   Link: [https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties](https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: indiemusicacademy.com  
-   Link: [https://www.indiemusicacademy.com/blog/music-royalties-explained](https://www.indiemusicacademy.com/blog/music-royalties-explained)  
+   Link: <a href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.indiemusicacademy.com/blog/music-royalties-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Secondly, Songwriting Performance Royalties are paid to the Song...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: copyrightalliance.org  
    Title: mlc license availability date january 1 what this means  
-   Link: [https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/](https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/)  
+   Link: <a href="https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright AllianceMLC License Availability Date: January 1Jan 19, 2021 — The MLC collects digital mechanical royalties from digital music...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/](https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2020/04/the-breakdown-what-songwriters-need-to-know-about-the-music-modernization-act-and-royalty-payments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressThe Breakdown: What Songwriters Need to Know about...Apr 13, 2020 — The MLC will only distribute mechanical royal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: royaltyexchange.com  
-   Link: [https://royaltyexchange.com/blog/mechanical-royalties](https://royaltyexchange.com/blog/mechanical-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/mechanical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeMechanical Royalties: Everything You Need to KnowMar 24, 2026 — Performance royalties are collected by PROs like ASCAP, B...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w](https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w)  
+   Link: <a href="https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/prs-for-music-collects-record-1bn-in-music-royalties-560csfg2w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This milestone was achieved through charging fees for streams, downloads, broadcasts, and live performances of music. The organization pa...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/1rwjldj/trying_to_understand_how_streaming_revenue_is/](https://www.reddit.com/r/musicindustry/comments/1rwjldj/trying_to_understand_how_streaming_revenue_is/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trying to understand how [streaming revenue](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;) is splitMechanical and performance royalties are both a type of composition royalty, so they g...</p></details>
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1rwjldj/trying_to_understand_how_streaming_revenue_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1rwjldj/trying_to_understand_how_streaming_revenue_is/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trying to understand how streaming revenue is splitMechanical and performance royalties are both a type of composition royalty, so they g...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: support.tunecore.com  
-   Link: [https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC](https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC)  
+   Link: <a href="https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Mechanical Licensing Collective &quot;MLC&quot;?The MLC is a nonprofit organization designated by the US Copyright Office to collect digital...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/the-mechanical-licensing-collective-has-distributed-3bn-to-songwriters-and-publishers-since-2021/](https://www.musicbusinessworldwide.com/the-mechanical-licensing-collective-has-distributed-3bn-to-songwriters-and-publishers-since-2021/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/the-mechanical-licensing-collective-has-distributed-3bn-to-songwriters-and-publishers-since-2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/the-mechanical-licensing-collective-has-distributed-3bn-to-songwriters-and-publishers-since-2021/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mechanical Licensing Collective has distributed $3bn+...6 Oct 2025 — The headline stat: The org confirmed that it has exceeded $3 bi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
 
 29. <a id="endnote-29"></a>
    Source: aristake.com  
-   Link: [https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/](https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/)  
+   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — The only way you can get these is if either you or your publisher is signed up with the M...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings](https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings)  
+   Link: <a href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>million a year for musicians for the secondary and further use of recordings.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1jo5ezp/is_there_a_common_average_ratio_of_performance/](https://www.reddit.com/r/musicbusiness/comments/1jo5ezp/is_there_a_common_average_ratio_of_performance/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1jo5ezp/is_there_a_common_average_ratio_of_performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1jo5ezp/is_there_a_common_average_ratio_of_performance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n (paid via PROs) is typically larger—estimated at around 75-80% of...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: diymusician.cdbaby.com  
    Title: what is the mlc and do i still need a publisher  
-   Link: [https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/](https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| DIY MusicianFeb 8, 2022 — The MLC is a US-based Mechanical Rights Organization (MRO) designated by the US Copyright Office to issue and...</p></details>
+   Link: <a href="https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-rights/what-is-the-mlc-and-do-i-still-need-a-publisher/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIY MusicianFeb 8, 2022 — The MLC is a US-based Mechanical Rights Organization (MRO) designated by the US Copyright Office to issue and...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: curveroyaltysystems.com  
    Title: types music publishing royalties how differ  
-   Link: [https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ](https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ)  
+   Link: <a href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Different Types Of Music Publishing Royalties And...9 Jul 2025 — These fees are a lucrative income stream for rights holders: stat...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicHow to... understanding publishing rights14 May 2021 — Essentially, an MCPS royalty is generated every time your music is re...</p></details>
-   Published: May 2021  
+   Published: May 2021

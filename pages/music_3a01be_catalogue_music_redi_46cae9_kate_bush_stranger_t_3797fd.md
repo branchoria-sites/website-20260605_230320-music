@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1
 - music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6
 tags:
-- music
+- music-3-a01-be
 - catalogue
 - kate-bush
 keywords:
-- music
+- music-3-a01-be
 - catalogue
 - kate-bush
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Kate Bush's 1985 single became a modern chart event after Stranger Things gave it a dramatic new emotional setting.
 hero_summary: Kate Bush's 1985 single became a modern chart event after Stranger Things gave it a dramatic new emotional setting.
 layout: default
 permalink: /kate-bush/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /catalogue/
 nav_short_title: Kate Bush
 title: How Stranger Things revived Kate Bush
-title_full: How Stranger Things revived Kate Bush | Catalogue
+title_full: How Stranger Things revived Kate Bush
 display_title_short: Kate Bush
 display_title: Kate Bush
 heading_title: How Stranger Things revived Kate Bush
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Old Songs Keep Coming Back | Music
+parent_title: Why Old Songs Keep Coming Back
 parent_permalink: /catalogue/
 parent_nav_short_title: Catalogue
 parent_heading_title: Why Old Songs Keep Coming Back
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why old hooks spread through short clips
 up_link:
   basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
@@ -259,7 +259,7 @@ next_link:
   permalink: /playlists-5ecdfd/
   short_title: Playlists
   heading_title: When playlists make old songs useful again
-date: '2026-06-09 07:20:56 '
+date: '2026-06-11 23:41:50 '
 header:
   og_image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1.webp
@@ -268,20 +268,16 @@ image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_strange
 
 ## Introduction
 
-Kate Bush’s “Running Up That Hill (A Deal With God)” is one of the clearest modern examples of how a [catalogue]({{ 'catalogue/' | relative_url }}) song can become culturally new again. Released in 1985, the single was already respected as a classic, but its appearance in the fourth season of *Stranger Things* transformed it into a global contemporary hit nearly four decades after its original release. The revival was not driven by nostalgia alone. Millions of viewers who had never heard the song encountered it first through a dramatic television storyline, giving the track a fresh emotional meaning and introducing Kate Bush to a generation born long after the song’s original chart run. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPOStranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
-
+Kate Bush’s “Running Up That Hill (A Deal With God)” is one of the clearest modern examples of how a [catalogue]({{ 'catalogue/' | relative_url }}) song can become culturally new again. Released in 1985, the single was already respected as a classic, but its appearance in the fourth season of *Stranger Things* transformed it into a global contemporary hit nearly four decades after its original release. The revival was not driven by nostalgia alone. Millions of viewers who had never heard the song encountered it first through a dramatic television storyline, giving the track a fresh emotional meaning and introducing Kate Bush to a generation born long after the song’s original chart run. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-dark.svg" | relative_url }}" alt="Kate Bush illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The scene that reframed the song
 
-The turning point came in the *Stranger Things* episode “Dear Billy”, centred on the character Max Mayfield. In one of the season’s most memorable sequences, Max escapes a supernatural threat while “Running Up That Hill” plays as her emotional lifeline. The song was not simply [background music]({{ 'background/' | relative_url }}); it became a key part of the story itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPOStranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+The turning point came in the *Stranger Things* episode “Dear Billy”, centred on the character Max Mayfield. In one of the season’s most memorable sequences, Max escapes a supernatural threat while “Running Up That Hill” plays as her emotional lifeline. The song was not simply [background]({{ 'background/' | relative_url }}) music; it became a key part of the story itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-[Music]({{ 'music/' | relative_url }}) supervisor Nora Felder has explained that the creative team needed a song that could plausibly be a teenager’s favourite record in 1986 while also expressing Max’s grief, isolation and determination. “Running Up That Hill” matched those needs unusually well. Its sweeping arrangement and emotionally ambiguous [lyrics]({{ 'lyrics/' | relative_url }}) allowed viewers to connect it directly to Max’s struggle, even though the song had originally been written about empathy and understanding between people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">VarietyHow &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</span></span></span>
+Music supervisor Nora Felder has explained that the creative team needed a song that could plausibly be a teenager’s favourite record in 1986 while also expressing Max’s grief, isolation and determination. “Running Up That Hill” matched those needs unusually well. Its sweeping arrangement and emotionally ambiguous [lyrics]({{ 'lyrics/' | relative_url }}) allowed viewers to connect it directly to Max’s struggle, even though the song had originally been written about empathy and understanding between people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</span></span></span>
 
 The result was a rare example of a sync placement doing more than reminding audiences of a familiar hit. The series effectively created a new narrative around the song. For many viewers, especially younger ones, the music became inseparable from Max’s story. Rather than hearing an old track from the 1980s, they experienced it as the soundtrack to a powerful contemporary television moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pwZysZPIrYI" title="Kate Bush &amp; Stranger Things Just Made the Impossible Happen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pwZysZPIrYI" target="_blank" rel="noopener noreferrer">Kate Bush &amp; Stranger Things Just Made the Impossible Happen</a></p><p class="youtube-embed-meta">Channel: Rick Beato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pwZysZPIrYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pwZysZPIrYI">Open on YouTube</a></p></div></div></div>
 
 ## The chart records after release
 
@@ -293,7 +289,6 @@ The revival was not limited to Britain. In the United States, where Bush had nev
 
 Streaming and video consumption reflected the same pattern. The song accumulated vast numbers of new streams, while the official music video rapidly gained tens of millions of additional views after the series aired. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UK top ten singles in 2022</span><span class="citation-popover-snippet">List of UK top-ten singles in 2022↑ &quot;Kate Bush&#x27;s Running Up That Hill is Official Charts Number 1 Single: Singer becomes 3 x Official...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-2-dark.svg" | relative_url }}" alt="Kate Bush illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why younger listeners heard it as new
 
@@ -301,24 +296,16 @@ One reason the revival was so powerful is that most of the new audience had no [
 
 The song also benefited from sounding unusually contemporary. Although recorded in the mid-1980s, its driving [rhythm]({{ 'rhythm/' | relative_url }}), synthesiser textures and emotional intensity did not feel tied to a single era. Nora Felder argued that if the track were released today, many listeners would not regard it as dated. That quality helped it compete naturally within streaming environments where songs from different decades appear side by side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
 
-Social media amplified the process. Viewers shared clips, reactions and interpretations of the Max sequence, while streaming platforms made the track instantly accessible to anyone curious enough to search for it. The television moment generated attention, but streaming converted that attention into repeat listening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Running Up That Hill</span><span class="citation-popover-snippet">Running Up That Hill</span></span></span>
+Social media amplified the process. Viewers shared clips, reactions and interpretations of the Max sequence, while streaming platforms made the track instantly accessible to anyone curious enough to search for it. The television moment generated [attention]({{ 'attention/' | relative_url }}), but streaming converted that attention into repeat listening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Running Up That Hill</span><span class="citation-popover-snippet">Running Up That Hill</span></span></span>
 
 Kate Bush herself acknowledged that the song was being discovered by “a whole new audience”, an outcome she attributed directly to the series. The revival demonstrated that a catalogue recording does not need to remain fixed in its original cultural moment. Given the right story and emotional context, an older song can arrive in listeners’ lives as if it were brand new. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.co.uk">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.co.uk</span><span class="citation-popover-title">kate bushs running up that hill breaks three guinness world records 19560</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The trailer includes a remix of Kate Bush&#x27;s song “Running Up That Hill” and the show’s theme tune by Kyle Dixon and Michael Stein. The tr...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lIrBQim8dzk" title="Stranger Things Composers Break Down the Show&#x27;s Music | Vanity Fair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lIrBQim8dzk" target="_blank" rel="noopener noreferrer">Stranger Things Composers Break Down the Show&#x27;s Music | Vanity Fair</a></p><p class="youtube-embed-meta">Channel: Vanity Fair</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lIrBQim8dzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lIrBQim8dzk">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_ovYEI7SJE" title="Kate Bush - Running Up That Hill (Lyrics) From Stranger Things Season 4 Soundtrack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_ovYEI7SJE" target="_blank" rel="noopener noreferrer">Kate Bush - Running Up That Hill (Lyrics) From Stranger Things Season 4 Soundtrack</a></p><p class="youtube-embed-meta">Channel: 7clouds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_ovYEI7SJE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_ovYEI7SJE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-dark.svg" | relative_url }}" alt="Kate Bush illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the revival revealed about catalogue music
 
 The success of “Running Up That Hill” showed that rediscovery works best when an older song acquires a fresh meaning rather than merely receiving renewed exposure. Plenty of catalogue tracks appear in films and television programmes, but few become central to a story in the way Kate Bush’s song did in *Stranger Things*. The series transformed the track from a respected 1980s classic into a contemporary cultural event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
 
-For the wider music industry, the episode became a landmark example of how film and television can reactivate catalogue recordings. A song nearly forty years old generated chart success, streaming growth and cultural conversation on a scale normally associated with brand-new releases. More importantly, it reached listeners who were not revisiting a favourite from their youth; they were discovering it for the first time. Official Charts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPOStranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-dark.svg" | relative_url }}" alt="Kate Bush illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For the wider music industry, the episode became a landmark example of how film and television can reactivate catalogue recordings. A song nearly forty years old generated chart success, streaming growth and cultural conversation on a scale normally associated with brand-new releases. More importantly, it reached listeners who were not revisiting a favourite from their youth; they were discovering it for the first time. Official Charts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -716,193 +703,193 @@ For the wider music industry, the episode became a landmark example of how film 
 
 1. <a id="endnote-1"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628](https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPOStranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</p></details>
    Published: May 2022  
 
 2. <a id="endnote-2"></a>
    Source: variety.com  
    Title: stranger things kate bush running up hill 1235282576  
-   Link: [https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/](https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VarietyHow &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</p></details>
+   Link: <a href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rollingstone.co.uk  
    Title: kate bushs running up that hill breaks three guinness world records 19560  
-   Link: [https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/](https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/)  
+   Link: <a href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Running Up That Hill  
-   Link: [https://en.wikipedia.org/wiki/Running_Up_That_Hill](https://en.wikipedia.org/wiki/Running_Up_That_Hill)  
+   Link: <a href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Running_Up_That_Hill</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/](https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/)  
+   Link: <a href="https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>re-enters Billboard Hot 100 at No. 8.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch](https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch)  
+   Link: <a href="https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The trailer includes a remix of Kate Bush&#x27;s song “Running Up That Hill” and the show’s theme tune by Kyle Dixon and Michael Stein. The tr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: vogue.com  
    Title: Gen Z Has Finally Discovered Kate Bush, and I'm Thrilled  
-   Link: [https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery](https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery)  
+   Link: <a href="https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This led to the song topping the U.S. iTunes charts with new teenage fans enthused by their musical find. Long-time Bush fans, however, w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/](https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK OFFICIAL CHARTS: Kate Bush&#x27;s Running Up That Hill...By landing at Number 1 on the Official Singles Chart, Kate Bush achieves three al...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/](https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Running Up That Hill got a chart boost from Stranger...The song has reached #1 on iTunes, #2 on Spotify&#x27;s global chart and #1 on Spo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: New letter from Kate Bush  
-   Link: [https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/](https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/)  
+   Link: <a href="https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“On Top of that Hill”Kate Bush appreciation discussion. 4. 13. Singer Kate Bush earned $2.3 million after &quot;Stranger Things&quot; popularized &quot;...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: billboard.com  
    Title: Kate Bush Shatters U.K  
-   Link: [https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/](https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records as &#x27;Running Up That Hill&#x27;...Jun 19, 2022 — Also, Bush becomes the oldest female artist ever to lead the Official U.K. Singles Ch...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of UK top ten singles in 2022  
-   Link: [https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022](https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of UK top-ten singles in 2022↑ &quot;Kate Bush&#x27;s Running Up That Hill is Official Charts Number 1 Single: Singer becomes 3 x Official...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush](https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush)  
+   Link: <a href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/](https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oldest female artist ever to score a Number 1 on the Official Singles Chart. At 63 years and 11 months, she replaces Cher, who was 52 whe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: djmag.com  
    Title: kate bushs running hill hits no1 uk charts 38 years after release  
-   Link: [https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release](https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release)  
+   Link: <a href="https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; hits No.1 in UK charts...Jun 17, 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; has officially reached No...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/artist/27937/kate-bush/](https://www.officialcharts.com/artist/27937/kate-bush/)  
+   Link: <a href="https://www.officialcharts.com/artist/27937/kate-bush/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/27937/kate-bush/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsKATE BUSH songs and [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) | full Official Chart history... Official Chart landing at Number 1 thanks to a feature in Netf...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rollingstone.com  
    Title: kate bush stranger things running up that hill statement 1363278  
-   Link: [https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/](https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/)  
+   Link: <a href="https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneKate Bush on &#x27;Stranger Things&#x27;-Fueled Resurgence5 Jun 2022 — Kate Bush acknowledged the Stranger Things-fueled resurgence of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: officialcharts.com  
    Title: RUNNIN G UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL  
-   Link: [https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/](https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/)  
+   Link: <a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catalogue number, we...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/](https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush still &quot;reeling&quot; from Running Up That Hill&#x27;s record...22 Dec 2022 — Kate Bush has released a rare end-of-year public statement...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/](https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s Running Up That Hill claims a second week at...24 Jun 2022 — Running Up That Hill by Kate Bush celebrates a second week at N...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/](https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the track ascends to Number 1 on the UK&#x27;s Official Singles Chart.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/](https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s Official Songs of the Summer 2022: Kate Bush&#x27;s...5 Sept 2022 — Kate Bush&#x27;s record-breaking hit Running Up That Hill has been na...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/](https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Music Facts: 20 incredible Official Chart facts from the...Dec 25, 2022 — One of the most unlikely chart successes of 2022 came cou...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/official](https://dictionary.cambridge.org/dictionary/english/official)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya person who has a position of responsibility in an organization: a government/trade-union/counci...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya person who has a position of responsibility in an organization: a government/trade-union/counci...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: vogue.co.uk  
    Title: Kate Middleton Wore An Unexpected Designer To Mark An Emotional Milestone  
-   Link: [https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles](https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles)  
+   Link: <a href="https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/](https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/)  
+   Link: <a href="https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/</a>  
 
 27. <a id="endnote-27"></a>
    Source: guinnessworldrecords.com  
-   Link: [https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717](https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717)  
+   Link: <a href="https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &quot;Running Up That Hill&quot; breaks records after...Jun 30, 2022 — Kate Bush&#x27;s chart-topper &quot;Running Up that Hill (A Deal with God...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: on this day in 2022 kate bush went to no1 on the uk singles chart with running u  
-   Link: [https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/](https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/)  
+   Link: <a href="https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 2022, Kate Bush went to No.1 on the UK...On this day in 2022, Kate Bush went to No.1 on the UK singles chart with Running...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nme.com  
    Title: kate bush breaks three guinness world records with running up that hill 3259491  
-   Link: [https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491](https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491)  
+   Link: <a href="https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush breaks three Guinness World Records with &#x27;...30 Jun 2022 — Kate Bush has officially broken three Guinness World Records follow...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
    Title: in 2022 kate bush hit no1 in the uk with running up that hill 37 years after it  
-   Link: [https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/](https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/)  
+   Link: <a href="https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2022, Kate Bush hit No.1 in the UK with &#x27;Running Up...With 44 years between her 1978 #1 “Wuthering Heights” and her 2022 #1 “Running...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thevinylfactory.com  
    Title: kate bush running up that hill guiness world records stranger things  
-   Link: [https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things](https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things)  
+   Link: <a href="https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things" target="_blank" rel="noopener noreferrer nofollow">https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...4 Jul 2022 — The single has now earned the Guinness-stamped record for the lo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: theguardian.com  
    Title: the whole worlds gone mad kate bush on running up that hills success  
-   Link: [https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success](https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success)  
+   Link: <a href="https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The whole world&#x27;s gone mad!&#x27; Kate Bush on Running Up...22 Jun 2022 — Kate Bush has discussed the remarkable resurgent success of her 19...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: independent.co.uk  
    Title: kate bush running up that hill guinness world records b2113782  
-   Link: [https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html](https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html)  
+   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Originally peaking at No 3, the song took a total of 36 years an...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: latimes.com  
    Title: stranger things season 4 running up that hill kate bush  
-   Link: [https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush](https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush)  
+   Link: <a href="https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush: &#x27;Stranger Things&#x27; revived &#x27;Running Up That Hill&#x27;5 Jun 2022 — “It features the song, &#x27;Running Up That Hill&#x27; which is being give...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/](https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/)  
+   Link: <a href="https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as a motif for the character Max Mayfield, portrayed by Sadie Sink.Read more...</p></details>

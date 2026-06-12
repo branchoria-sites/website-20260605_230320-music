@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7
 - music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add
 tags:
-- music
+- music-3-a01-be
 - ai-songs
 - voice-clones
 keywords:
-- music
+- music-3-a01-be
 - ai-songs
 - voice-clones
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Synthetic vocals can make a track sound like an artist endorsed it, even when the singer never performed or approved the song.
 hero_summary: Synthetic vocals can make a track sound like an artist endorsed it, even when the singer never performed or approved the song.
 layout: default
 permalink: /voice-clones/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-songs/
 nav_short_title: Voice Clones
 title: When an AI Song Sounds Like a Star
-title_full: When an AI Song Sounds Like a Star | AI Songs
+title_full: When an AI Song Sounds Like a Star
 display_title_short: Voice Clones
 display_title: Voice Clones
 heading_title: When an AI Song Sounds Like a Star
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets Credit For AI Made Music? | Music
+parent_title: Who Gets Credit For AI Made Music?
 parent_permalink: /ai-songs/
 parent_nav_short_title: AI Songs
 parent_heading_title: Who Gets Credit For AI Made Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How AI Tracks Flood Streaming Platforms
 up_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /upload-flood/
   short_title: Upload Flood
   heading_title: How AI Tracks Flood Streaming Platforms
-date: '2026-06-09 06:32:11 '
+date: '2026-06-11 23:17:25 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_c
 
 ## Introduction
 
-AI voice cloning changes the authorship debate in [music]({{ 'music/' | relative_url }}) because it does not merely imitate a style or borrow a musical idea. It can reproduce something listeners often treat as personal and unique: a singer’s vocal identity. A track generated with a cloned voice may sound as though a famous artist recorded, approved or collaborated on it, even when that artist never entered the studio, heard the song or consented to its release. The result is a distinctive challenge that sits between music production, identity [rights]({{ 'rights/' | relative_url }}) and platform governance.
-
+AI voice cloning changes the authorship debate in music because it does not merely imitate a style or borrow a musical idea. It can reproduce something listeners often treat as personal and unique: a singer’s vocal identity. A track generated with a cloned voice may sound as though a famous artist recorded, approved or collaborated on it, even when that artist never entered the studio, heard the song or consented to its release. The result is a distinctive challenge that sits between music production, identity [rights]({{ 'rights/' | relative_url }}) and platform governance.
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-1-dark.svg" | relative_url }}" alt="Voice Clones illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The controversy is not theoretical. Viral AI tracks have already demonstrated that millions of listeners can mistake synthetic performances for authentic releases, forcing streaming services, labels and platforms to decide how to identify, moderate and remove such content. The core question is not simply who wrote the song. It is whether a recognisable voice can be treated as creative property, personal identity, or both. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ai song featuring fake drake and weeknd vocals pulled from streaming services</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">What does that mean for copyright law? A Harvard Law expert explains why AI-...Read more...</span></span></span>
@@ -278,36 +277,29 @@ The controversy is not theoretical. Viral AI tracks have already demonstrated th
 
 Musicians have always borrowed from one another. Cover versions, tribute acts and stylistic influences are established parts of music [culture]({{ 'culture/' | relative_url }}). AI voice cloning is different because it can create the impression that a specific person performed the [recording]({{ 'recording/' | relative_url }}).
 
-A traditional cover openly replaces one performer with another. Listeners know who is singing. A voice clone, by contrast, may be designed to erase that distinction. The technology analyses recordings of a target singer and generates new performances that reproduce vocal traits such as tone, phrasing, accent, vibrato and timing. The resulting track can sound less like influence and more like impersonation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundverse.ai/blog/article/voice-cloning-for-music-ethical-and-legal-considerations-0848" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundverse.ai">[Soundverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundverse.ai</span><span class="citation-popover-title">voice cloning for music ethical and legal considerations 0848</span><span class="citation-popover-snippet">SoundverseVoice Cloning for Music: Ethical and Legal Considerations...20 Feb 2026 — Without proper consent and licensing, training AI on...</span></span></span>
+A traditional cover openly replaces one performer with another. Listeners know who is singing. A voice clone, by contrast, may be designed to erase that distinction. The technology analyses recordings of a target singer and generates new performances that reproduce vocal traits such as tone, phrasing, accent, vibrato and timing. The resulting track can sound less like influence and more like impersonation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundverse.ai/blog/article/voice-cloning-for-music-ethical-and-legal-considerations-0848" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundverse.ai">[Soundverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundverse.ai</span><span class="citation-popover-title">voice cloning for music ethical and legal considerations 0848</span><span class="citation-popover-snippet">Voice Cloning for Music: Ethical and Legal Considerations...20 Feb 2026 — Without proper consent and licensing, training AI on...</span></span></span>
 
-This matters because a voice functions as more than a musical instrument. For many artists it is a core element of public identity and commercial value. Fans recognise performers through their voices in much the same way they recognise faces or names. That is why legal debates increasingly focus on personality rights, publicity rights and vocal identity rather than copyright alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-title">new york court tackles the legality of ai voice cloning</span><span class="citation-popover-snippet">SkaddenNew York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mttlr.org/2025/09/rethinking-the-right-of-publicity-in-deepfake-age/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mttlr.org">[2mttlr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mttlr.org</span><span class="citation-popover-snippet">heir name, likeness, and other aspects of identity.Read more...</span></span></span>
+This matters because a voice functions as more than a musical instrument. For many artists it is a core element of public identity and commercial value. Fans recognise performers through their voices in much the same way they recognise faces or names. That is why legal debates increasingly focus on personality rights, publicity rights and vocal identity rather than copyright alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-title">new york court tackles the legality of ai voice cloning</span><span class="citation-popover-snippet">New York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mttlr.org/2025/09/rethinking-the-right-of-publicity-in-deepfake-age/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mttlr.org">[2mttlr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mttlr.org</span><span class="citation-popover-snippet">heir name, likeness, and other aspects of identity.Read more...</span></span></span>
 
-The tension becomes especially visible when a cloned performance is technically a new recording. Copyright law traditionally protects recorded performances, not the abstract qualities of a voice itself. Some courts and legal commentators have therefore noted that imitation may fall into a gap between copyright protection and broader identity-based rights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-title">new york court tackles the legality of ai voice cloning</span><span class="citation-popover-snippet">SkaddenNew York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fiolegal.com/post/ai-voice-cloning-identity-legal-limits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fiolegal.com">[Fio Legal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fiolegal.com</span><span class="citation-popover-title">ai voice cloning identity legal limits</span><span class="citation-popover-snippet">AI Voice Cloning &amp; Identity: The Limits of Intellectual Property30 Jan 2026 — Can you copyright a voice? Analyze the legal challenges of...</span></span></span>
-
+The tension becomes especially visible when a cloned performance is technically a new recording. Copyright law traditionally protects recorded performances, not the abstract qualities of a voice itself. Some courts and legal commentators have therefore noted that imitation may fall into a gap between copyright protection and broader identity-based rights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-title">new york court tackles the legality of ai voice cloning</span><span class="citation-popover-snippet">New York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fiolegal.com/post/ai-voice-cloning-identity-legal-limits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fiolegal.com">[Fio Legal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fiolegal.com</span><span class="citation-popover-title">ai voice cloning identity legal limits</span><span class="citation-popover-snippet">AI Voice Cloning &amp; Identity: The Limits of Intellectual Property30 Jan 2026 — Can you copyright a voice? Analyze the legal challenges of...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9-_4Sg9w6zg" title="Fake Drake song sparks conversation over implications of A.I. generated music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9-_4Sg9w6zg" target="_blank" rel="noopener noreferrer">Fake Drake song sparks conversation over implications of A.I. generated music</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 45.2K &middot; Uploaded: April 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9-_4Sg9w6zg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9-_4Sg9w6zg">Open on YouTube</a></p></div></div></div>
 
 ## How Fake Collaborations Confuse Listeners and Platforms
 
-The clearest example remains “[Heart on My Sleeve]({{ 'fake-drake/' | relative_url }})”, a viral 2023 track released under the name Ghostwriter. The song used AI-generated vocals that closely resembled Drake and The Weeknd, creating the impression of a genuine collaboration between two global stars. Before removal, it accumulated significant streams and social media attention, demonstrating how easily synthetic performances could circulate as seemingly authentic releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ai song featuring fake drake and weeknd vocals pulled from streaming services</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsAI Drake and The Weeknd: Song called Heart On My Sleeve18 Apr 2023 — A song featuring the cloned voices of Drake and The Weeknd...</span></span></span>
+The clearest example remains “Heart on My Sleeve”, a viral 2023 track released under the name Ghostwriter. The song used AI-generated vocals that closely resembled Drake and The Weeknd, creating the impression of a genuine collaboration between two global stars. Before removal, it accumulated significant streams and social media [attention]({{ 'attention/' | relative_url }}), demonstrating how easily synthetic performances could circulate as seemingly authentic releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ai song featuring fake drake and weeknd vocals pulled from streaming services</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsAI Drake and The Weeknd: Song called Heart On My Sleeve18 Apr 2023 — A song featuring the cloned voices of Drake and The Weeknd...</span></span></span>
 
 The importance of this case was not only legal. It revealed a practical problem of attribution.
 
 Listeners encountering a fake collaboration may ask:
 
-
-<div class="content-enhancement content-enhancement--benefit" markdown="1">
-
 * Did the featured artists approve the release?
 * Did they perform on the recording?
-* Should the track appear alongside their official catalogue?
+* Should the track appear alongside their official [catalogue]({{ 'catalogue/' | relative_url }})?
 * Who receives royalties and promotional benefit?
 * Is the work parody, fan creation, deception or commercial exploitation?
 
-</div>
-
 When those questions become difficult to answer, trust in music metadata and artist branding begins to weaken. A synthetic duet can look authentic in playlists, recommendation systems and social media feeds long before moderators or rights holders respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd.ai/en/incidents/2023-04-17-5389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-snippet">AI-Generated Drake and The Weeknd Song Sparks...The AI system was used to generate a song simulating the voices of Drake and The Weeknd...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">What does that mean for copyright law? A Harvard Law expert explains why AI-...Read more...</span></span></span> The problem extends beyond famous global acts. In a more recent dispute, a track called “I Ran” was challenged because its AI-generated vocal allegedly sounded like singer Jorja Smith. According to reports, the producers argued that the vocal originated from their own voice processed through generative tools rather than from direct cloning of Smith. Yet the controversy itself illustrated how difficult it can be to distinguish inspiration, transformation and imitation when listeners believe they recognise a particular artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/this-isnt-just-about-jorja-its-bigger-than-one-artist-or-one-song-jorja-smiths-label-claim-royalties-on-ai-track-allegedly-trained-on-her-voice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-title">Music Radar&quot;This isn&#x27;t just about Jorja</span><span class="citation-popover-snippet">It&#x27;s bigger than one artist or one song&quot;: Jorja Smith&#x27;s label claims royalties on AI track, allegedly trained on her voiceDecember 2, 202...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-2-dark.svg" | relative_url }}" alt="Voice Clones illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Platforms Struggle to Moderate Voice Clones
@@ -316,12 +308,11 @@ Platforms historically built music moderation systems around copyright [ownershi
 
 That distinction complicates enforcement.
 
-A platform can often identify a copied recording through fingerprinting technologies. Detecting a synthetic imitation is harder because the disputed audio may be entirely new while still creating confusion about authorship or endorsement. Researchers have increasingly focused on methods for detecting synthetic songs and AI-generated vocals, reflecting the growing scale of the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs</span><span class="citation-popover-snippet">arXivSONICS: Synthetic Or Not -- Identifying Counterfeit SongsAugust 26, 2024...</span><span class="citation-popover-meta">Published: August 26, 2024</span></span></span>
+A platform can often identify a copied recording through fingerprinting technologies. Detecting a synthetic imitation is harder because the disputed audio may be entirely new while still creating confusion about authorship or endorsement. Researchers have increasingly focused on methods for detecting synthetic songs and AI-generated vocals, reflecting the growing scale of the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs</span><span class="citation-popover-snippet">SONICS: Synthetic Or Not -- Identifying Counterfeit SongsAugust 26, 2024...</span><span class="citation-popover-meta">Published: August 26, 2024</span></span></span>
 
-Major platforms have responded with policy changes rather than relying solely on copyright enforcement. YouTube introduced disclosure requirements for certain altered or synthetic content and expanded mechanisms for individuals to request removal of AI-generated imitations that replicate their likeness or voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completemusicupdate.com/youtube-cracks-down-on-ai-deepfakes-new-rules-allow-takedowns-of-unauthorised-vocal-clones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completemusicupdate.com">[CMU | the music business explained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completemusicupdate.com</span><span class="citation-popover-snippet">CMU | the music business explainedYouTube cracks down on AI deepfakes: new rules allow...Jul 3, 2024 — YouTube has updated its privacy p...</span></span></span>
+Major platforms have responded with policy changes rather than relying solely on copyright enforcement. YouTube introduced disclosure requirements for certain altered or synthetic content and expanded mechanisms for individuals to request removal of AI-generated imitations that replicate their likeness or voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completemusicupdate.com/youtube-cracks-down-on-ai-deepfakes-new-rules-allow-takedowns-of-unauthorised-vocal-clones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completemusicupdate.com">[CMU &#124; the music business explained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completemusicupdate.com</span><span class="citation-popover-snippet">CMU &#124; the music business explainedYouTube cracks down on AI deepfakes: new rules allow...Jul 3, 2024 — YouTube has updated its privacy p...</span></span></span>
 
 The broader challenge is that moderation decisions often require judgement about context. A cloned voice may appear in:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,7 +326,6 @@ The broader challenge is that moderation decisions often require judgement about
 
 The same technology can therefore produce outputs that platforms may treat very differently.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCnCw0EyTck" title="What YouTube&#x27;s New AI Rules Mean for AI Voices." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCnCw0EyTck" target="_blank" rel="noopener noreferrer">What YouTube&#x27;s New AI Rules Mean for AI Voices.</a></p><p class="youtube-embed-meta">Channel: vidIQ &middot; Views: 61.9K &middot; Uploaded: May 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCnCw0EyTck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCnCw0EyTck">Open on YouTube</a></p></div></div></div>
 
 ## What Artists and Labels Can Object To
@@ -348,10 +338,9 @@ Artists and rights holders increasingly object to voice clones on several separa
 
 **Training and data use.** Rights holders may also challenge how AI systems acquire the material used to create convincing vocal replicas. Questions about whether recordings were lawfully used for model training remain central to industry disputes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.4ipcouncil.com/download_file/c06eda6a-0b51-46fe-9edf-0db7ccb13240/2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 4ipcouncil.com">[4iP Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">4ipcouncil.com</span><span class="citation-popover-title">4i P Council Does AI voice cloning break Copyright twice?</span><span class="citation-popover-snippet">The risk of...Within the EU, in the context of musical works, AI voice cloning tools introduce infringement risks during both input (dat...</span></span></span>
 
-**Economic harm.** A convincing clone can compete with legitimate releases, divert attention, create brand confusion or dilute the value of an artist's catalogue. Researchers and industry observers increasingly discuss how attribution and compensation systems may need to evolve if synthetic performances become widespread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs</span><span class="citation-popover-snippet">arXivSONICS: Synthetic Or Not -- Identifying Counterfeit SongsAugust 26, 2024...</span><span class="citation-popover-meta">Published: August 26, 2024</span></span></span>
+**Economic harm.** A convincing clone can compete with legitimate releases, divert attention, create brand confusion or dilute the value of an artist's catalogue. Researchers and industry observers increasingly discuss how attribution and compensation systems may need to evolve if synthetic performances become widespread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs</span><span class="citation-popover-snippet">SONICS: Synthetic Or Not -- Identifying Counterfeit SongsAugust 26, 2024...</span><span class="citation-popover-meta">Published: August 26, 2024</span></span></span>
 
-Legal responses remain uneven. Some courts have recognised strong personality-based protections, while other decisions highlight the limitations of existing copyright frameworks when the disputed element is a voice rather than a copied recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-ai-voice-cloning-violates-celebritys-personality-rights-says-bombay-high-court-on-singer-asha-bhosles-plea/articleshow/124264867.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Justice Arif Doctor stated that enabling voice cloning of a celebrity without consent constitutes a violation of their personality rights...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-title">new york court tackles the legality of ai voice cloning</span><span class="citation-popover-snippet">SkaddenNew York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</span></span></span>
-
+Legal responses remain uneven. Some courts have recognised strong personality-based protections, while other decisions highlight the limitations of existing copyright frameworks when the disputed element is a voice rather than a copied recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-ai-voice-cloning-violates-celebritys-personality-rights-says-bombay-high-court-on-singer-asha-bhosles-plea/articleshow/124264867.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Justice Arif Doctor stated that enabling voice cloning of a celebrity without consent constitutes a violation of their personality rights...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-title">new york court tackles the legality of ai voice cloning</span><span class="citation-popover-snippet">New York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-3-dark.svg" | relative_url }}" alt="Voice Clones illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Deeper Authorship Problem
@@ -362,9 +351,7 @@ In that situation, the central dispute is no longer merely who composed the musi
 
 That is why AI voice cloning occupies a special place in debates about AI-generated songs. It challenges the assumption that a performance proves the participation of a performer. When listeners can no longer trust that connection, attribution, consent and authenticity become inseparable from authorship itself. The controversy surrounding fake collaborations is therefore not simply about technology. It is about whether a human voice remains reliable evidence of human presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.berkeley.edu/wp-content/uploads/2025/10/LEE-and-SUN-Vocal-Identity-Under-Siege.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[UC Berkeley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-snippet">UC Berkeley LawVOCAL IDENTITY UNDER SIEGE BY AI VOICE CLONING...The advent of sophisticated AI-driven voice cloning has brought to the f...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pkbQV71ZvK4" title="How the VIRAL AI Drake song &#x27;Heart On My Sleeve&#x27; was made" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pkbQV71ZvK4" target="_blank" rel="noopener noreferrer">How the VIRAL AI Drake song &#x27;Heart On My Sleeve&#x27; was made</a></p><p class="youtube-embed-meta">Channel: Aiden Kenway &middot; Views: 369.0K &middot; Uploaded: May 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pkbQV71ZvK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pkbQV71ZvK4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -483,15 +470,15 @@ That is why AI voice cloning occupies a special place in debates about AI-genera
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�"><img src="{{ '/assets/images/marketplace-covers/00f084cb9f70521dfe10.jpg' | relative_url }}" alt="Listing image for â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">â€œMusic Legends Wall Art â€“ Flood Gallery Print Featuring Iconic Artistsâ€�</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +486,15 @@ That is why AI voice cloning occupies a special place in debates about AI-genera
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift"><img src="{{ '/assets/images/marketplace-covers/580ec3ae4384bc88b889.jpg' | relative_url }}" alt="Listing image for Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Various Guitar Artists Official Pyramid Music Poster Maxi 61x91cm Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +502,15 @@ That is why AI voice cloning occupies a special place in debates about AI-genera
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/e574b85e6ea7837f77e8.jpg' | relative_url }}" alt="Listing image for LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LINKIN PARK BAND ARTIST ALBUM POSTER SIGNED AUTOGRAPH ART PALETTE MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +518,15 @@ That is why AI voice cloning occupies a special place in debates about AI-genera
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE"><img src="{{ '/assets/images/marketplace-covers/9e6b0e9379405eb4797b.jpg' | relative_url }}" alt="Listing image for ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ROCK AND ROLL MUSIC POSTER ARTISTS SINGERS BANDS WALL ART COLLAGE LARGE IMAGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +534,7 @@ That is why AI voice cloning occupies a special place in debates about AI-genera
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster -book -books" data-ebay-reference="voice-clones-when-an-ai-song-sounds-like-a-star-music-music-artist-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-an-ai-song-sounds-like-a-star-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -762,233 +749,233 @@ That is why AI voice cloning occupies a special place in debates about AI-genera
 
 1. <a id="endnote-1"></a>
    Source: hls.harvard.edu  
-   Link: [https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/](https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/)  
+   Link: <a href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does that mean for copyright law? A Harvard Law expert explains why AI-...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: 4ipcouncil.com  
    Title: 4i P Council Does AI voice cloning break Copyright twice?  
-   Link: [https://www.4ipcouncil.com/download_file/c06eda6a-0b51-46fe-9edf-0db7ccb13240/2025](https://www.4ipcouncil.com/download_file/c06eda6a-0b51-46fe-9edf-0db7ccb13240/2025)  
+   Link: <a href="https://www.4ipcouncil.com/download_file/c06eda6a-0b51-46fe-9edf-0db7ccb13240/2025" target="_blank" rel="noopener noreferrer nofollow">https://www.4ipcouncil.com/download_file/c06eda6a-0b51-46fe-9edf-0db7ccb13240/2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The risk of...Within the EU, in the context of musical works, AI voice cloning tools introduce infringement risks during both input (dat...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: soundverse.ai  
    Title: voice cloning for music ethical and legal considerations 0848  
-   Link: [https://www.soundverse.ai/blog/article/voice-cloning-for-music-ethical-and-legal-considerations-0848](https://www.soundverse.ai/blog/article/voice-cloning-for-music-ethical-and-legal-considerations-0848)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SoundverseVoice Cloning for Music: Ethical and Legal Considerations...20 Feb 2026 — Without proper consent and [licensing](&amp;#123;&amp;#123; &#x27;licensing/&#x27; | relative_url &amp;#125;&amp;#125;), training AI on...</p></details>
+   Link: <a href="https://www.soundverse.ai/blog/article/voice-cloning-for-music-ethical-and-legal-considerations-0848" target="_blank" rel="noopener noreferrer nofollow">https://www.soundverse.ai/blog/article/voice-cloning-for-music-ethical-and-legal-considerations-0848</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice Cloning for Music: Ethical and Legal Considerations...20 Feb 2026 — Without proper consent and [licensing](&amp;#123;&amp;#123; &#x27;licensing/&#x27; | relative_url &amp;#125;&amp;#125;), training AI on...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: law.berkeley.edu  
-   Link: [https://www.law.berkeley.edu/wp-content/uploads/2025/10/LEE-and-SUN-Vocal-Identity-Under-Siege.pdf](https://www.law.berkeley.edu/wp-content/uploads/2025/10/LEE-and-SUN-Vocal-Identity-Under-Siege.pdf)  
+   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2025/10/LEE-and-SUN-Vocal-Identity-Under-Siege.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2025/10/LEE-and-SUN-Vocal-Identity-Under-Siege.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley LawVOCAL IDENTITY UNDER SIEGE BY AI VOICE CLONING...The advent of sophisticated AI-driven voice cloning has brought to the f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skadden.com  
    Title: new york court tackles the legality of ai voice cloning  
-   Link: [https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning](https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkaddenNew York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</p></details>
+   Link: <a href="https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/07/new-york-court-tackles-the-legality-of-ai-voice-cloning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New York Court Tackles the Legality of AI Voice Cloning17 Jul 2025 — The court held that the Copyright Act protects only the origi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mttlr.org  
-   Link: [https://mttlr.org/2025/09/rethinking-the-right-of-publicity-in-deepfake-age/](https://mttlr.org/2025/09/rethinking-the-right-of-publicity-in-deepfake-age/)  
+   Link: <a href="https://mttlr.org/2025/09/rethinking-the-right-of-publicity-in-deepfake-age/" target="_blank" rel="noopener noreferrer nofollow">https://mttlr.org/2025/09/rethinking-the-right-of-publicity-in-deepfake-age/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>heir name, likeness, and other aspects of identity.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951](https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951)  
+   Link: <a href="https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ai-drake-and-the-weeknd-song-called-heart-on-my-sleeve-made-with-cloned-voices-removed-from-streaming-services-12859951</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsAI Drake and The Weeknd: Song called Heart On My Sleeve18 Apr 2023 — A song featuring the cloned voices of Drake and The Weeknd...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/incidents/2023-04-17-5389](https://oecd.ai/en/incidents/2023-04-17-5389)  
+   Link: <a href="https://oecd.ai/en/incidents/2023-04-17-5389" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2023-04-17-5389</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Drake and The Weeknd Song Sparks...The AI system was used to generate a song simulating the voices of Drake and The Weeknd...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: musicradar.com  
    Title: Music Radar"This isn't just about Jorja  
-   Link: [https://www.musicradar.com/music-tech/this-isnt-just-about-jorja-its-bigger-than-one-artist-or-one-song-jorja-smiths-label-claim-royalties-on-ai-track-allegedly-trained-on-her-voice](https://www.musicradar.com/music-tech/this-isnt-just-about-jorja-its-bigger-than-one-artist-or-one-song-jorja-smiths-label-claim-royalties-on-ai-track-allegedly-trained-on-her-voice)  
+   Link: <a href="https://www.musicradar.com/music-tech/this-isnt-just-about-jorja-its-bigger-than-one-artist-or-one-song-jorja-smiths-label-claim-royalties-on-ai-track-allegedly-trained-on-her-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/this-isnt-just-about-jorja-its-bigger-than-one-artist-or-one-song-jorja-smiths-label-claim-royalties-on-ai-track-allegedly-trained-on-her-voice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s bigger than one artist or one song&quot;: Jorja Smith&#x27;s label claims royalties on AI track, allegedly trained on her voiceDecember 2, 202...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs  
-   Link: [https://arxiv.org/abs/2408.14080](https://arxiv.org/abs/2408.14080)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSONICS: Synthetic Or Not -- Identifying Counterfeit SongsAugust 26, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.14080</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SONICS: Synthetic Or Not -- Identifying Counterfeit SongsAugust 26, 2024...</p></details>
    Published: August 26, 2024  
 
 11. <a id="endnote-11"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/youtube-cracks-down-on-ai-deepfakes-new-rules-allow-takedowns-of-unauthorised-vocal-clones/](https://completemusicupdate.com/youtube-cracks-down-on-ai-deepfakes-new-rules-allow-takedowns-of-unauthorised-vocal-clones/)  
+   Link: <a href="https://completemusicupdate.com/youtube-cracks-down-on-ai-deepfakes-new-rules-allow-takedowns-of-unauthorised-vocal-clones/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/youtube-cracks-down-on-ai-deepfakes-new-rules-allow-takedowns-of-unauthorised-vocal-clones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMU | the music business explainedYouTube cracks down on AI deepfakes: new rules allow...Jul 3, 2024 — YouTube has updated its privacy p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: soundplate.com  
    Title: ai voice cloning law  
-   Link: [https://soundplate.com/ai-voice-cloning-law/](https://soundplate.com/ai-voice-cloning-law/)  
+   Link: <a href="https://soundplate.com/ai-voice-cloning-law/" target="_blank" rel="noopener noreferrer nofollow">https://soundplate.com/ai-voice-cloning-law/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The ELVIS Act targets anyone making unauthorized voice clones. It also targets tech companies that distribute...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.08062](https://arxiv.org/abs/2510.08062)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAttribution-by-design: Ensuring Inference-Time Provenance in Generative Music SystemsOctober 9, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2510.08062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.08062</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attribution-by-design: Ensuring Inference-Time Provenance in Generative Music SystemsOctober 9, 2025...</p></details>
    Published: October 9, 2025  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2507.16247](https://arxiv.org/abs/2507.16247)  
+   Link: <a href="https://arxiv.org/abs/2507.16247" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.16247</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Air2TTItcN0](https://www.youtube.com/watch?v=Air2TTItcN0)  
+   Link: <a href="https://www.youtube.com/watch?v=Air2TTItcN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Air2TTItcN0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGALLY Generate AI Voices Of Major Artist&#x27;s With YouTube...LEGALLY Generate AI Voices Of Major Artist&#x27;s With YouTube AI VOICE CLONING T...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pCnCw0EyTck](https://www.youtube.com/watch?v=pCnCw0EyTck)  
+   Link: <a href="https://www.youtube.com/watch?v=pCnCw0EyTck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pCnCw0EyTck</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What YouTube&#x27;s New AI Rules Mean for AI Voices.... AI rules are here 0:49 - Can I use AI voices in my videos? 4:20 - Can I clone my own v...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: [Fake Drake](&#123;&#123; 'fake-drake/' | relative_url &#125;&#125;) song sparks conversation over implications of A.I  
-   Link: [https://www.youtube.com/watch?v=9-_4Sg9w6zg](https://www.youtube.com/watch?v=9-_4Sg9w6zg)  
+   Link: <a href="https://www.youtube.com/watch?v=9-_4Sg9w6zg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9-_4Sg9w6zg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heart on my Sleeve” using artificial intelligence to imitate Drake and The Weeknd. Since that song has been pulled from streaming platforms...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pkbQV71ZvK4](https://www.youtube.com/watch?v=pkbQV71ZvK4)  
+   Link: <a href="https://www.youtube.com/watch?v=pkbQV71ZvK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pkbQV71ZvK4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the VIRAL AI Drake song &#x27;Heart On My Sleeve&#x27; was made-83661870 how &#x27;Heart On My Sleeve&#x27; (ai Drake x The Weeknd) was made by Ghostwrit...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eExdDa1kgaM](https://www.youtube.com/watch?v=eExdDa1kgaM)  
+   Link: <a href="https://www.youtube.com/watch?v=eExdDa1kgaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eExdDa1kgaM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Voice Cloning for Musicians: What You Can Really Do With ItClone your voice with AI and turn rough recordings into polished, professio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: soundverse.ai  
    Title: celebrity voice cloning whats legal in 2026 1047  
-   Link: [https://www.soundverse.ai/blog/article/celebrity-voice-cloning-whats-legal-in-2026-1047](https://www.soundverse.ai/blog/article/celebrity-voice-cloning-whats-legal-in-2026-1047)  
+   Link: <a href="https://www.soundverse.ai/blog/article/celebrity-voice-cloning-whats-legal-in-2026-1047" target="_blank" rel="noopener noreferrer nofollow">https://www.soundverse.ai/blog/article/celebrity-voice-cloning-whats-legal-in-2026-1047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Voice Cloning: What&#x27;s Legal in 2026?2 Feb 2026 — Under 2026&#x27;s voice rights regulations, creators must seek explicit permission...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: soundverse.ai  
-   Link: [https://www.soundverse.ai/blog/article/voice-cloning-and-copyright-what-creators-should-know-1007](https://www.soundverse.ai/blog/article/voice-cloning-and-copyright-what-creators-should-know-1007)  
+   Link: <a href="https://www.soundverse.ai/blog/article/voice-cloning-and-copyright-what-creators-should-know-1007" target="_blank" rel="noopener noreferrer nofollow">https://www.soundverse.ai/blog/article/voice-cloning-and-copyright-what-creators-should-know-1007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice Cloning and Copyright: What Creators Should Know...Feb 20, 2026 — When using synthetic voices, disclose usage to prevent confusion...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musicradar.com  
    Title: drake the weeknd ai track removed  
-   Link: [https://www.musicradar.com/news/drake-the-weeknd-ai-track-removed](https://www.musicradar.com/news/drake-the-weeknd-ai-track-removed)  
+   Link: <a href="https://www.musicradar.com/news/drake-the-weeknd-ai-track-removed" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/news/drake-the-weeknd-ai-track-removed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heart On My Sleeve, the AI-generated track that sounds...18 Apr 2023 — Heart On My Sleeve, the AI-generated track that sounds like it wa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: AI Voice Cloning: The Future of Music or Legal Nightmare?  
-   Link: [https://www.youtube.com/watch?v=R9Vv0_1kYc8](https://www.youtube.com/watch?v=R9Vv0_1kYc8)  
+   Link: <a href="https://www.youtube.com/watch?v=R9Vv0_1kYc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Vv0_1kYc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legal Controversy of AI Voice Cloning in Music...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Legal Controversy of AI Voice Cloning in Music  
-   Link: [https://www.youtube.com/watch?v=F3l3i1-G_wQ](https://www.youtube.com/watch?v=F3l3i1-G_wQ)  
+   Link: <a href="https://www.youtube.com/watch?v=F3l3i1-G_wQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3l3i1-G_wQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI Voice Filters Are Changing the Music Industry...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How AI Voice Filters Are Changing the Music Industry  
-   Link: [https://www.youtube.com/watch?v=Y0957rX404A](https://www.youtube.com/watch?v=Y0957rX404A)  
+   Link: <a href="https://www.youtube.com/watch?v=Y0957rX404A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y0957rX404A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI Voice Clones Illegal? Rights of Artists Explained...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Are AI Voice Clones Illegal? Rights of Artists Explained  
-   Link: [https://www.youtube.com/watch?v=8V-Pj6-n72w](https://www.youtube.com/watch?v=8V-Pj6-n72w)  
+   Link: <a href="https://www.youtube.com/watch?v=8V-Pj6-n72w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8V-Pj6-n72w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Deepfake Music and Identity Rights...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Rise of Deepfake Music and Identity Rights  
-   Link: [https://www.youtube.com/watch?v=lT4w4iJ5_uU](https://www.youtube.com/watch?v=lT4w4iJ5_uU)  
+   Link: <a href="https://www.youtube.com/watch?v=lT4w4iJ5_uU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lT4w4iJ5_uU</a>  
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
    Title: ai song featuring fake drake and weeknd vocals pulled from streaming services  
-   Link: [https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)  
+   Link: <a href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAI song featuring fake Drake and Weeknd vocals pulled...18 Apr 2023 — The song, called Heart on My Sleeve, has been removed...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/city/mumbai/mumbai-ai-voice-cloning-violates-celebritys-personality-rights-says-bombay-high-court-on-singer-asha-bhosles-plea/articleshow/124264867.cms](https://timesofindia.indiatimes.com/city/mumbai/mumbai-ai-voice-cloning-violates-celebritys-personality-rights-says-bombay-high-court-on-singer-asha-bhosles-plea/articleshow/124264867.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-ai-voice-cloning-violates-celebritys-personality-rights-says-bombay-high-court-on-singer-asha-bhosles-plea/articleshow/124264867.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/mumbai/mumbai-ai-voice-cloning-violates-celebritys-personality-rights-says-bombay-high-court-on-singer-asha-bhosles-plea/articleshow/124264867.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Justice Arif Doctor stated that enabling voice cloning of a celebrity without consent constitutes a violation of their personality rights...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fiolegal.com  
    Title: ai voice cloning identity legal limits  
-   Link: [https://www.fiolegal.com/post/ai-voice-cloning-identity-legal-limits](https://www.fiolegal.com/post/ai-voice-cloning-identity-legal-limits)  
+   Link: <a href="https://www.fiolegal.com/post/ai-voice-cloning-identity-legal-limits" target="_blank" rel="noopener noreferrer nofollow">https://www.fiolegal.com/post/ai-voice-cloning-identity-legal-limits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Voice Cloning &amp; Identity: The Limits of Intellectual Property30 Jan 2026 — Can you copyright a voice? Analyze the legal challenges of...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DDesktop&hl=en)  
+   Link: <a href="https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DDesktop&amp;hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of altered or synthetic content - ComputerWe require creators to disclose content that is meaningfully altered or synthetically gener...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DAndroid&hl=en](https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DAndroid&hl=en)  
+   Link: <a href="https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DAndroid&amp;hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/14328491?co=GENIE.Platform%3DAndroid&amp;hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of altered or synthetic content - AndroidWe require creators to disclose content that is meaningfully altered or synthetically genera...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: whynow.co.uk  
-   Link: [https://whynow.co.uk/read/heart-on-my-sleeve-ai-generated-drake-and-weeknd-track-taken-down-after-copyright-claim-from-universal-music-group](https://whynow.co.uk/read/heart-on-my-sleeve-ai-generated-drake-and-weeknd-track-taken-down-after-copyright-claim-from-universal-music-group)  
+   Link: <a href="https://whynow.co.uk/read/heart-on-my-sleeve-ai-generated-drake-and-weeknd-track-taken-down-after-copyright-claim-from-universal-music-group" target="_blank" rel="noopener noreferrer nofollow">https://whynow.co.uk/read/heart-on-my-sleeve-ai-generated-drake-and-weeknd-track-taken-down-after-copyright-claim-from-universal-music-group</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heart on My Sleeve | AI-generated Drake and Weeknd...18 Apr 2023 — The AI-generated song &#x27;Heart On My Sleeve&#x27; sounding like Drake and Th...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: dynamoi.com  
-   Link: [https://dynamoi.com/learn/ai-music-distribution/is-ai-music-allowed-on-youtube](https://dynamoi.com/learn/ai-music-distribution/is-ai-music-allowed-on-youtube)  
+   Link: <a href="https://dynamoi.com/learn/ai-music-distribution/is-ai-music-allowed-on-youtube" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/ai-music-distribution/is-ai-music-allowed-on-youtube</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music on YouTube: Allowed With Disclosure Rules...Most AI music created with original voices and human creative direction, rather tha...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: longstories.ai  
-   Link: [https://longstories.ai/blog/ai-voice-cloning-animation-legal-risks](https://longstories.ai/blog/ai-voice-cloning-animation-legal-risks)  
+   Link: <a href="https://longstories.ai/blog/ai-voice-cloning-animation-legal-risks" target="_blank" rel="noopener noreferrer nofollow">https://longstories.ai/blog/ai-voice-cloning-animation-legal-risks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Voice Cloning in Animation: Legal Risks4 days ago — Guide to legal risks, consent rules, and platform policies for using AI voice clon...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/](https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/)  
+   Link: <a href="https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/12q856k/aigenerated_fake_drakeweeknd_collaboration_heart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Fake &#x27;Drake&#x27;/&#x27;Weeknd&#x27; Collaboration, &#x27;Heart...319 votes, 207 comments. UPDATED: The soundalike song in question began to di...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed](https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed)  
+   Link: <a href="https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/04/19/ai-fake-drake-weeknd-song-streaming-services-removed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The track, created by an anonymous user known as Ghostwriter977, gained massive traction online, with over 15 million streams on TikTok a...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aitubers/comments/1on1gj6/is_it_against_youtubes_policy_to_not_include_the/](https://www.reddit.com/r/aitubers/comments/1on1gj6/is_it_against_youtubes_policy_to_not_include_the/)  
+   Link: <a href="https://www.reddit.com/r/aitubers/comments/1on1gj6/is_it_against_youtubes_policy_to_not_include_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aitubers/comments/1on1gj6/is_it_against_youtubes_policy_to_not_include_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it against YouTube&#x27;s policy to NOT include the “AI” label?If you use TTS voiceover that sounds completely natural, almost identical to...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StableDiffusion/comments/17wx4pr/youtube_cracks_down_on_synthetic_media_with_ai/](https://www.reddit.com/r/StableDiffusion/comments/17wx4pr/youtube_cracks_down_on_synthetic_media_with_ai/)  
+   Link: <a href="https://www.reddit.com/r/StableDiffusion/comments/17wx4pr/youtube_cracks_down_on_synthetic_media_with_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StableDiffusion/comments/17wx4pr/youtube_cracks_down_on_synthetic_media_with_ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cracks down on synthetic media with AI...YouTube will also introduce a policy for artists or music publishers to request the rem...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SynthesizerV/comments/1ckpavx/youtubes_rule_on_disclosing_use_of_altered_or/](https://www.reddit.com/r/SynthesizerV/comments/1ckpavx/youtubes_rule_on_disclosing_use_of_altered_or/)  
+   Link: <a href="https://www.reddit.com/r/SynthesizerV/comments/1ckpavx/youtubes_rule_on_disclosing_use_of_altered_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SynthesizerV/comments/1ckpavx/youtubes_rule_on_disclosing_use_of_altered_or/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s rule on &quot;disclosing use of altered or synthetic...YouTube recently adopted a rule requiring creators to disclose whether conte...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/universal-music-group-responds-to-fake-drake-ai-track-streaming-platforms-have-a-fundamental-responsibility/](https://www.musicbusinessworldwide.com/universal-music-group-responds-to-fake-drake-ai-track-streaming-platforms-have-a-fundamental-responsibility/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/universal-music-group-responds-to-fake-drake-ai-track-streaming-platforms-have-a-fundamental-responsibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/universal-music-group-responds-to-fake-drake-ai-track-streaming-platforms-have-a-fundamental-responsibility/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Music Group responds to &#x27;fake Drake&#x27; AI track17 Apr 2023 — Universal Music Group has responded to today&#x27;s dominant music indust...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/16ddzh8/aigenerated_drake_and_weeknd_song_heart_on_my/](https://www.reddit.com/r/popheads/comments/16ddzh8/aigenerated_drake_and_weeknd_song_heart_on_my/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/16ddzh8/aigenerated_drake_and_weeknd_song_heart_on_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/16ddzh8/aigenerated_drake_and_weeknd_song_heart_on_my/</a>  
 
 43. <a id="endnote-43"></a>
    Source: techgdpr.com  
-   Link: [https://techgdpr.com/blog/data-protection-digest-17072025-ai-generated-voice-and-visuals-potential-to-violate-peoples-rights-and-freedoms/](https://techgdpr.com/blog/data-protection-digest-17072025-ai-generated-voice-and-visuals-potential-to-violate-peoples-rights-and-freedoms/)  
+   Link: <a href="https://techgdpr.com/blog/data-protection-digest-17072025-ai-generated-voice-and-visuals-potential-to-violate-peoples-rights-and-freedoms/" target="_blank" rel="noopener noreferrer nofollow">https://techgdpr.com/blog/data-protection-digest-17072025-ai-generated-voice-and-visuals-potential-to-violate-peoples-rights-and-freedoms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data protection digest 3-17 July 2025: AI-generated voice...17 Jul 2025 — The story has triggered a debate on authenticity and the lack...</p></details>
-   Published: July 2025  
+   Published: July 2025

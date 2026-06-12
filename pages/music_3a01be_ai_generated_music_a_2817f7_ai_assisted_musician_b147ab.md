@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7
 - music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add
 tags:
-- music
+- music-3-a01-be
 - ai-songs
 - assist-or-replace
 keywords:
-- music
+- music-3-a01-be
 - ai-songs
 - assist-or-replace
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: AI can either help a musician express human ideas or replace much of the songmaking process, and that difference matters.
 hero_summary: AI can either help a musician express human ideas or replace much of the songmaking process, and that difference matters.
 layout: default
 permalink: /assist-or-replace/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-songs/
 nav_short_title: Assist or Replace
 title: When AI Helps Rather Than Replaces Musicians
-title_full: When AI Helps Rather Than Replaces Musicians | AI Songs
+title_full: When AI Helps Rather Than Replaces Musicians
 display_title_short: Assist or Replace
 display_title: Assist or Replace
 heading_title: When AI Helps Rather Than Replaces Musicians
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets Credit For AI Made Music? | Music
+parent_title: Who Gets Credit For AI Made Music?
 parent_permalink: /ai-songs/
 parent_nav_short_title: AI Songs
 parent_heading_title: Who Gets Credit For AI Made Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When an AI Song Sounds Like a Star
 up_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -259,7 +259,7 @@ next_link:
   permalink: /fake-drake/
   short_title: Fake Drake
   heading_title: Why Heart on My Sleeve Was Removed
-date: '2026-06-09 07:17:11 '
+date: '2026-06-11 23:39:52 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1.webp
@@ -270,22 +270,21 @@ image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_music
 
 The debate over authorship in AI-generated music often assumes that all [AI songs]({{ 'ai-songs/' | relative_url }}) are fundamentally the same. In practice, they are not. The most important distinction is between AI-assisted musicianship and fully generated tracks. In one model, artificial intelligence functions as a creative instrument that helps a human artist express ideas they already possess. In the other, the system generates much of the melody, [harmony]({{ 'harmony/' | relative_url }}), arrangement, lyrics, performance or production with minimal human direction. That difference has become central to discussions about copyright, artistic credit, platform policies and listener transparency.
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1-dark.svg" | relative_url }}" alt="Assist or Replace illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-As AI [music]({{ 'music/' | relative_url }}) tools such as Suno, Udio and other generative systems become more capable, the boundary between assistance and replacement is increasingly contested. Yet industry regulators, copyright authorities and many musicians continue to treat human creative control as the decisive factor. The question is not simply whether AI was involved, but whether the technology acted as a tool for a musician or as the primary creator of the musical expression itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
+As AI music tools such as Suno, Udio and other generative systems become more capable, the boundary between assistance and replacement is increasingly contested. Yet industry regulators, copyright authorities and many musicians continue to treat human creative control as the decisive factor. The question is not simply whether AI was involved, but whether the technology acted as a tool for a musician or as the primary creator of the musical expression itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
 
 ## When AI Functions as a Musical Instrument
 
 Many musicians use AI in ways that resemble earlier technological transitions in music production. Digital audio workstations, drum machines, synthesisers, pitch-correction software and sample libraries all changed how music was made without eliminating human authorship. AI assistance can fit within this tradition when the artist remains responsible for the core creative decisions.
 
-The clearest examples involve artists who already possess musical ideas but need help translating them into finished sound. In 2026, the Associated Press profiled London musician Samuel Smith, who developed Parkinson's disease and lost much of his ability to play guitar. For the instrumental track “Horizon,” Smith used [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) to convert hummed melodies into detailed demo arrangements that could then be interpreted by professional session musicians. The final recording was not simply an AI output. The AI served as a communication tool that allowed Smith to convey musical intentions that his physical condition made difficult to perform directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</span></span></span>
+The clearest examples involve artists who already possess musical ideas but need help translating them into finished sound. In 2026, the Associated Press profiled London musician Samuel Smith, who developed Parkinson's disease and lost much of his ability to play guitar. For the instrumental track “Horizon,” Smith used [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) to convert hummed melodies into detailed demo arrangements that could then be interpreted by professional session musicians. The final [recording]({{ 'recording/' | relative_url }}) was not simply an AI output. The AI served as a communication tool that allowed Smith to convey musical intentions that his physical condition made difficult to perform directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</span></span></span>
 
 This example illustrates a broader category of AI-assisted musicianship:
 
+* A songwriter writes [lyrics]({{ 'lyrics/' | relative_url }}) and melodies but uses AI to create demo arrangements.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A songwriter writes lyrics and melodies but uses AI to create demo arrangements.
 * A composer generates orchestration suggestions before revising them manually.
 * A producer experiments with AI-generated instrumental textures and then edits them extensively.
 * A disabled musician uses AI to overcome physical barriers to performance.
@@ -325,23 +324,19 @@ This distinction is increasingly important because generative systems have becom
 
 The inability of listeners to detect AI involvement does not resolve the authorship question. Instead, it makes the underlying creative process more significant.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hXr_KUhz2uU" title="Will AI Change Music Forever? The Future of AI Music Tools" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hXr_KUhz2uU" target="_blank" rel="noopener noreferrer">Will AI Change Music Forever? The Future of AI Music Tools</a></p><p class="youtube-embed-meta">Channel: Epidemic Sound</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hXr_KUhz2uU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hXr_KUhz2uU">Open on YouTube</a></p></div></div></div>
-
 ## Why Copyright Authorities Focus on Human Control
 
 The legal treatment of AI-assisted music increasingly reflects this distinction between assistance and generation.
 
-In January 2025, the U.S. Copyright Office released a major report on AI copyrightability. The report concluded that copyright protection depends on sufficient human authorship and that prompts alone generally do not provide enough control over expressive elements to qualify. The Office emphasised that AI-generated outputs can receive protection when a human determines significant expressive features through creative input, arrangement, selection or modification. Pure prompt-based generation, however, typically lacks the required human authorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-snippet">SkaddenCopyright Office Publishes Report on Copyrightability of AI-...4 Feb 2025 — Human authorship is a bedrock of copyrightability, an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
+In January 2025, the U.S. Copyright Office released a major report on AI copyrightability. The report concluded that copyright protection depends on sufficient human authorship and that prompts alone generally do not provide enough control over expressive elements to qualify. The Office emphasised that AI-generated outputs can receive protection when a human determines significant expressive features through creative input, arrangement, selection or modification. Pure prompt-based generation, however, typically lacks the required human authorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skadden.com">[Skadden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skadden.com</span><span class="citation-popover-snippet">Copyright Office Publishes Report on Copyrightability of AI-...4 Feb 2025 — Human authorship is a bedrock of copyrightability, an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
 
 The practical implication is significant.
 
 A musician who writes a song and uses AI to assist production may still possess strong claims to authorship because the human determined the creative substance. Conversely, someone who simply generates complete songs through prompts may have difficulty establishing [ownership]({{ 'ownership/' | relative_url }}) over the resulting music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pinsentmasons.com/out-law/analysis/gen-ai-output-us-copyright-office-human-authorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinsentmasons.com">[Pinsent Masons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinsentmasons.com</span><span class="citation-popover-title">gen ai output us copyright office human authorship</span><span class="citation-popover-snippet">Pinsent MasonsGen-AI output: why the US Copyright Office is right about...18 Mar 2025 — Yes, gen-AI output is copyrightable “where AI is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Copyright Office issues report on copyrightability of AI...4 Feb 2025 — Human authorship remains essential – AI-generated works are not...</span></span></span>
 
-The Copyright Office repeatedly emphasised that the relevant question is not whether AI appears anywhere in the workflow. The question is whether a human exercised meaningful creative control over the final expressive elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dykema.com/news-insights/the-future-of-creativity-us-copyright-office-clarifies-copyrightability-of-ai-generated-works.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dykema.com">[Dykema -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dykema.com</span><span class="citation-popover-snippet">Dykema - HomepageThe Future of Creativity: U.S. Copyright Office Clarifies...Jan 30, 2025 — Prompts alone do not currently provide suffi...</span></span></span>
+The Copyright Office repeatedly emphasised that the relevant question is not whether AI appears anywhere in the workflow. The question is whether a human exercised meaningful creative control over the final expressive elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dykema.com/news-insights/the-future-of-creativity-us-copyright-office-clarifies-copyrightability-of-ai-generated-works.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dykema.com">[Dykema -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dykema.com</span><span class="citation-popover-snippet">HomepageThe Future of Creativity: U.S. Copyright Office Clarifies...Jan 30, 2025 — Prompts alone do not currently provide suffi...</span></span></span>
 
 This framework aligns closely with the distinction between AI-assisted musicianship and fully generated tracks.
-
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-2-dark.svg" | relative_url }}" alt="Assist or Replace illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Creative Decisions That Matter Most
@@ -368,9 +363,7 @@ A heavily modified AI draft resembles a creative tool. An unedited AI output res
 
 The answers often vary across projects, which is why simple labels such as “AI song” can obscure important differences.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NRmAXDWJVnU" title="Generative AI Explained In 5 Minutes | What Is GenAI? | Introduction To Generative AI | Simplilearn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NRmAXDWJVnU" target="_blank" rel="noopener noreferrer">Generative AI Explained In 5 Minutes | What Is GenAI? | Introduction To Generative AI | Simplilearn</a></p><p class="youtube-embed-meta">Channel: Simplilearn</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NRmAXDWJVnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NRmAXDWJVnU">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-3-dark.svg" | relative_url }}" alt="Assist or Replace illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Streaming Platforms Are Starting to Care
 
 The distinction between assistance and generation is no longer merely theoretical. It increasingly affects how platforms manage music catalogues.
@@ -385,8 +378,6 @@ Importantly, these concerns focus far more heavily on mass-produced fully genera
 
 An artist using AI to develop arrangements is rarely the source of platform-scale flooding. By contrast, fully automated generation systems make it possible to upload thousands of tracks with minimal human effort. This difference helps explain why many industry responses increasingly distinguish between assistive and fully synthetic uses of AI. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/en/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-snippet">Tools like Suno and Udio have advanced significantly, enabling users to create convincing songs from simple prompts, making it increasing...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-3-dark.svg" | relative_url }}" alt="Assist or Replace illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Disclosure Should Capture the Difference
 
 One emerging solution is more nuanced disclosure.
@@ -397,14 +388,11 @@ More informative disclosure could distinguish among categories such as:
 
 * AI-assisted composition.
 * AI-assisted arrangement or production.
-* AI-assisted performance synthesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[* Partially AI-generated music.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">Since then, the proportion of AI tracks</span><span class="citation-popover-snippet">Sky NewsA third of daily music uploads are AI-generated and 97%...13 Nov 2025 — In January 2025, Deezer&#x27;s system identified 10% of uploa...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[* Fully AI-generated tracks.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">Since then, the proportion of AI tracks</span><span class="citation-popover-snippet">Sky NewsA third of daily music uploads are AI-generated and 97%...13 Nov 2025 — In January 2025, Deezer&#x27;s system identified 10% of uploa...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
+* AI-assisted performance synthesis. * Partially AI-generated music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[news.sky.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">Since then, the proportion of AI tracks</span><span class="citation-popover-snippet">Sky NewsA third of daily music uploads are AI-generated and 97%...13 Nov 2025 — In January 2025, Deezer&#x27;s system identified 10% of uploa...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> * Fully AI-generated tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[news.sky.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">Since then, the proportion of AI tracks</span><span class="citation-popover-snippet">Sky NewsA third of daily music uploads are AI-generated and 97%...13 Nov 2025 — In January 2025, Deezer&#x27;s system identified 10% of uploa...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
 
 Such distinctions would provide listeners with more meaningful information about how a work was created.
 
 The argument for disclosure is strengthened by evidence that audiences frequently cannot identify AI-generated music through listening alone. If listeners cannot reliably detect the difference, transparency becomes one of the few mechanisms available for preserving informed judgments about authorship and artistic contribution. Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">However, it states that only 1–3% of this music is consumed, as 85% of such uploads are flagged and demonetized due to detection tools ta...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ECLy6JnBdoY" title="The AI Music Race is Over" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ECLy6JnBdoY" target="_blank" rel="noopener noreferrer">The AI Music Race is Over</a></p><p class="youtube-embed-meta">Channel: Rick Beato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ECLy6JnBdoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ECLy6JnBdoY">Open on YouTube</a></p></div></div></div>
 
 ## The Real Question Is Creative Responsibility
 
@@ -813,161 +801,161 @@ As AI music tools improve, this distinction will likely become more important ra
 1. <a id="endnote-1"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCopyright and Artificial Intelligence, Part 2: Copyrightability17 Jan 2025 —... prompts alone do not provide... Althoug...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/newsnet/2025/1060.html](https://www.copyright.gov/newsnet/2025/1060.html)  
+   Link: <a href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/newsnet/2025/1060.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeNewsNet Issue 1060 | U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/](https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: news.sky.com  
    Title: Since then, the proportion of AI tracks  
-   Link: [https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818](https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818)  
+   Link: <a href="https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/a-third-of-daily-music-uploads-are-ai-generated-and-97-of-people-cant-tell-the-difference-says-report-13469818</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsA third of daily music uploads are AI-generated and 97%...13 Nov 2025 — In January 2025, Deezer&#x27;s system identified 10% of uploa...</p></details>
    Published: January 2025  
 
 5. <a id="endnote-5"></a>
    Source: skadden.com  
-   Link: [https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report](https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkaddenCopyright Office Publishes Report on Copyrightability of AI-...4 Feb 2025 — Human authorship is a bedrock of copyrightability, an...</p></details>
+   Link: <a href="https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Publishes Report on Copyrightability of AI-...4 Feb 2025 — Human authorship is a bedrock of copyrightability, an...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hoganlovells.com  
    Title: www.hoganlovells.com U.S  
-   Link: [https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works](https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues report on copyrightability of AI...4 Feb 2025 — Human authorship remains essential – AI-generated works are not...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dykema.com  
-   Link: [https://www.dykema.com/news-insights/the-future-of-creativity-us-copyright-office-clarifies-copyrightability-of-ai-generated-works.html](https://www.dykema.com/news-insights/the-future-of-creativity-us-copyright-office-clarifies-copyrightability-of-ai-generated-works.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dykema - HomepageThe Future of Creativity: U.S. Copyright Office Clarifies...Jan 30, 2025 — Prompts alone do not currently provide suffi...</p></details>
+   Link: <a href="https://www.dykema.com/news-insights/the-future-of-creativity-us-copyright-office-clarifies-copyrightability-of-ai-generated-works.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dykema.com/news-insights/the-future-of-creativity-us-copyright-office-clarifies-copyrightability-of-ai-generated-works.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageThe Future of Creativity: U.S. Copyright Office Clarifies...Jan 30, 2025 — Prompts alone do not currently provide suffi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: support.deezer.com  
    Title: 28222522835101 AI Content Tagging on Deezer  
-   Link: [https://support.deezer.com/hc/en-gb/articles/28222522835101-AI-Content-Tagging-on-Deezer](https://support.deezer.com/hc/en-gb/articles/28222522835101-AI-Content-Tagging-on-Deezer)  
+   Link: <a href="https://support.deezer.com/hc/en-gb/articles/28222522835101-AI-Content-Tagging-on-Deezer" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/28222522835101-AI-Content-Tagging-on-Deezer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer SupportAI Content Tagging on Deezer19 Jun 2025 — AI tracks are being uploaded to our platform, we want to be totally transparent t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: creatorsupport.deezer.com  
    Title: 31676367208093 Understanding AI Content Detection and Tagging on Deezer  
-   Link: [https://creatorsupport.deezer.com/hc/en-us/articles/31676367208093-Understanding-AI-Content-Detection-and-Tagging-on-Deezer](https://creatorsupport.deezer.com/hc/en-us/articles/31676367208093-Understanding-AI-Content-Detection-and-Tagging-on-Deezer)  
+   Link: <a href="https://creatorsupport.deezer.com/hc/en-us/articles/31676367208093-Understanding-AI-Content-Detection-and-Tagging-on-Deezer" target="_blank" rel="noopener noreferrer nofollow">https://creatorsupport.deezer.com/hc/en-us/articles/31676367208093-Understanding-AI-Content-Detection-and-Tagging-on-Deezer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When you upload music to Deezer, our system automatically analyses the content and identifies AI-generated elements.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a](https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a)  
+   Link: <a href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a](https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a)  
+   Link: <a href="https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI helped a musician with Parkinson&#x27;s finish his new album...5 days ago — Now, the London-based singer-songwriter is using artificial in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: apnews.com  
    Title: AP News AI song generator startups Suno and Udio angered the music industry  
-   Link: [https://apnews.com/article/849a2d59eab89072154ab32b4db06284](https://apnews.com/article/849a2d59eab89072154ab32b4db06284)  
+   Link: <a href="https://apnews.com/article/849a2d59eab89072154ab32b4db06284" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/849a2d59eab89072154ab32b4db06284</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now they&#x27;re hoping to join itFebruary 26, 2026 — AI music startups Suno and Udio, initially met with backlash from the music industry for...</p></details>
    Published: February 26, 2026  
 
 13. <a id="endnote-13"></a>
    Source: pcgamer.com  
-   Link: [https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/](https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/)  
+   Link: <a href="https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/deezer-says-its-bombarded-by-nearly-75-000-fully-ai-generated-tunes-every-day-and-that-97-percent-of-study-respondents-cant-tell-the-difference-between-human-made-and-ai-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it states that only 1–3% of this music is consumed, as 85% of such uploads are flagged and demonetized due to detection tools ta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sidley.com  
-   Link: [https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability](https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability)  
+   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sidley AustinU.S. Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pinsentmasons.com  
    Title: gen ai output us copyright office human authorship  
-   Link: [https://www.pinsentmasons.com/out-law/analysis/gen-ai-output-us-copyright-office-human-authorship](https://www.pinsentmasons.com/out-law/analysis/gen-ai-output-us-copyright-office-human-authorship)  
+   Link: <a href="https://www.pinsentmasons.com/out-law/analysis/gen-ai-output-us-copyright-office-human-authorship" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/analysis/gen-ai-output-us-copyright-office-human-authorship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinsent MasonsGen-AI output: why the US Copyright Office is right about...18 Mar 2025 — Yes, gen-AI output is copyrightable “where AI is...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report](https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report)  
+   Link: <a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/[culture](https://www.lemonde.fr/en/[culture)  
+   Link: <a href="https://www.lemonde.fr/en/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/[culture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools like Suno and Udio have advanced significantly, enabling users to create convincing songs from simple prompts, making it increasing...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: finnegan.com  
-   Link: [https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html](https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html)  
+   Link: <a href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — The Copyright Office maintained that the mere provision of promp...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/technology/comments/12ilbc2/us_copyright_office_ai_generated_works_are_not/](https://www.reddit.com/r/technology/comments/12ilbc2/us_copyright_office_ai_generated_works_are_not/)  
+   Link: <a href="https://www.reddit.com/r/technology/comments/12ilbc2/us_copyright_office_ai_generated_works_are_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/12ilbc2/us_copyright_office_ai_generated_works_are_not/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office: AI Generated Works Are Not Eligible...If you use an AI tool as a part of your creation process, the image is copyri...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: joshuagans.substack.com  
    Title: the us copyright office is anti prompt  
-   Link: [https://joshuagans.substack.com/p/the-us-copyright-office-is-anti-prompt](https://joshuagans.substack.com/p/the-us-copyright-office-is-anti-prompt)  
+   Link: <a href="https://joshuagans.substack.com/p/the-us-copyright-office-is-anti-prompt" target="_blank" rel="noopener noreferrer nofollow">https://joshuagans.substack.com/p/the-us-copyright-office-is-anti-prompt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office is Anti-PromptThe use of AI tools to assist rather than stand in for human creativity does not affect the availabilit...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/](https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50000 AI tracks flood Deezer daily – as study shows 97%...12 Nov 2025 — Fully AI-generated music now accounts for 34% of all tracks deli...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: risingnepaldaily.com  
-   Link: [https://risingnepaldaily.com/news/81163](https://risingnepaldaily.com/news/81163)  
+   Link: <a href="https://risingnepaldaily.com/news/81163" target="_blank" rel="noopener noreferrer nofollow">https://risingnepaldaily.com/news/81163</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI helped a musician with Parkinson&#x27;s finish his new album...5 days ago — Now, the London-based singer-songwriter is using artificial in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/articles/ai-helped-musician-parkinson-finish-023234000.html](https://www.aol.com/articles/ai-helped-musician-parkinson-finish-023234000.html)  
+   Link: <a href="https://www.aol.com/articles/ai-helped-musician-parkinson-finish-023234000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/ai-helped-musician-parkinson-finish-023234000.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI helped a musician with Parkinson&#x27;s finish his new album...5 hours ago — Now, the London-based singer-songwriter is using artificial i...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/videos/ai-tools-open-new-creative-doors-for-samuel-smiththis-as-parkinsons-changed-musi/1722447295777912/](https://www.facebook.com/WIONews/videos/ai-tools-open-new-creative-doors-for-samuel-smiththis-as-parkinsons-changed-musi/1722447295777912/)  
+   Link: <a href="https://www.facebook.com/WIONews/videos/ai-tools-open-new-creative-doors-for-samuel-smiththis-as-parkinsons-changed-musi/1722447295777912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/ai-tools-open-new-creative-doors-for-samuel-smiththis-as-parkinsons-changed-musi/1722447295777912/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tools open new creative doors for Samuel Smith This as...And AI tools are helping a London based musician continue creating music aft...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1673444546790462/posts/1965867360881511/](https://www.facebook.com/groups/1673444546790462/posts/1965867360881511/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer excludes [ai generated music](&amp;#123;&amp;#123; &#x27;ai-songs/&#x27; | relative_url &amp;#125;&amp;#125;) contentDeezer now identifies and tags AI-generated music on its platform to combat streaming fraud and...</p></details>
+   Link: <a href="https://www.facebook.com/groups/1673444546790462/posts/1965867360881511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1673444546790462/posts/1965867360881511/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer excludes ai generated music contentDeezer now identifies and tags AI-generated music on its platform to combat streaming fraud and...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2703779406444247/posts/3210836449071871/](https://www.facebook.com/groups/2703779406444247/posts/3210836449071871/)  
+   Link: <a href="https://www.facebook.com/groups/2703779406444247/posts/3210836449071871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2703779406444247/posts/3210836449071871/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer tags and excludes ai-generated musicDeezer now identifies and tags AI-generated music on its platform to combat streaming fraud an...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-](https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-)  
+   Link: <a href="https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tonyfish_nearly-a-third-of-all-tracks-uploaded-to-activity-7372220462782918656-9KJ-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer: AI-generated tracks flagged as fraudulentRecent data from Deezer reveals that nearly one-third of all tracks uploaded to the plat...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: privacyworld.blog  
-   Link: [https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/](https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/)  
+   Link: <a href="https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrighting AI-Generated Works Requires “Sufficient...4 Feb 2025 — The report finds that protection of AI-generated works requires “suf...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/](https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideDeezer rolls out AI tagging system to fight streaming fraud20 Jun 2025 — Deezer rolls out AI tagging system to fi...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/simply-prompting-an-ai-model-doesnt-make-you-the-author-of-a-copyrighted-work-according-to-the-us-copyright-office/](https://completemusicupdate.com/simply-prompting-an-ai-model-doesnt-make-you-the-author-of-a-copyrighted-work-according-to-the-us-copyright-office/)  
+   Link: <a href="https://completemusicupdate.com/simply-prompting-an-ai-model-doesnt-make-you-the-author-of-a-copyrighted-work-according-to-the-us-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/simply-prompting-an-ai-model-doesnt-make-you-the-author-of-a-copyrighted-work-according-to-the-us-copyright-office/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply prompting an AI model doesn&#x27;t make you the author of...30 Jan 2025 — The US Copyright Office has reaffirmed its position that ent...</p></details>

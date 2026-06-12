@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2_metadata_unpaid_crea_a2759f
 - music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52
 tags:
-- music
+- music-3-a01-be
 - uk-policy
 - legacy-artists
 keywords:
-- music
+- music-3-a01-be
 - uk-policy
 - legacy-artists
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Older contracts can leave legacy artists with weak streaming income, making them a key test of whether voluntary label principles go far enough.
 hero_summary: Older contracts can leave legacy artists with weak streaming income, making them a key test of whether voluntary label principles go far enough.
 layout: default
 permalink: /legacy-artists/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /uk-policy/
 nav_short_title: Legacy artists
 title: Why old record deals still shape streaming pay
-title_full: Why old record deals still shape streaming pay | UK Policy
+title_full: Why old record deals still shape streaming pay
 display_title_short: Legacy artists
 display_title: Legacy artists
 heading_title: Why old record deals still shape streaming pay
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Policy Make Streaming Fairer? | Music
+parent_title: Can Policy Make Streaming Fairer?
 parent_permalink: /uk-policy/
 parent_nav_short_title: UK Policy
 parent_heading_title: Can Policy Make Streaming Fairer?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can better royalty information make streaming fairer?
 up_link:
   basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
@@ -265,7 +265,7 @@ next_link:
   permalink: /metadata-d16ea8/
   short_title: Metadata
   heading_title: The tiny data errors that block music royalties
-date: '2026-06-09 07:13:07 '
+date: '2026-06-11 23:37:49 '
 header:
   og_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_str
 
 ## Introduction
 
-Legacy artists became a central test of streaming fairness because they exposed a gap between the success of the modern streaming economy and the contracts that still govern much of the [music]({{ 'music/' | relative_url }}) people listen to today. Many recordings streamed millions of times each month were created under agreements signed decades before Spotify, Apple Music or even digital downloads existed. As streaming replaced sales and downloads as the industry's dominant revenue source, questions emerged about whether those older deals were delivering a fair share of income to the performers whose recordings continued to generate value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span>
-
+Legacy artists became a central test of streaming fairness because they exposed a gap between the success of the modern streaming economy and the contracts that still govern much of the music people listen to today. Many recordings streamed millions of times each month were created under agreements signed decades before Spotify, Apple Music or even digital downloads existed. As streaming replaced sales and downloads as the industry's dominant revenue source, questions emerged about whether those older deals were delivering a fair share of income to the performers whose recordings continued to generate value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-1-dark.svg" | relative_url }}" alt="Legacy artists illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the UK debate over music streaming, legacy artists therefore became more than a special-interest group. They served as a practical test of whether voluntary reforms, transparency measures and label commitments could correct historical imbalances without changing copyright law. If the system could not improve outcomes for creators tied to pre-streaming contracts, critics argued, it was difficult to claim that streaming fairness had been meaningfully addressed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">rights reversion and contract adjustment</span><span class="citation-popover-snippet">Feb 6, 2023 — This report investigates two proposals that have been made to protect the contractual interests of UK music creators by mak...</span></span></span>
@@ -284,23 +283,21 @@ In the UK debate over music streaming, legacy artists therefore became more than
 
 The streaming economy distributes revenue through contractual structures that often originated in a very different marketplace. Many artists signed [recording]({{ 'recording/' | relative_url }}) agreements when income came primarily from physical sales, [licensing]({{ 'licensing/' | relative_url }}) and broadcast uses. Those contracts frequently gave labels extensive control over recordings in exchange for advances, marketing investment and distribution services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Industry Transparency Code on Music Streaming...31 Jan 2024 — The voluntary code has been developed and agreed by 12 music industry bodi...</span></span></span>
 
-When streaming became dominant, the rights embedded in those older agreements generally remained in force. As a result, artists whose catalogues gained new audiences online often found that [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) flowed through royalty formulas designed for an earlier era. Some performers continued to face unrecouped balances from advances received decades earlier, meaning they saw little or no royalty income despite ongoing consumption of their recordings. This issue became particularly visible in discussions surrounding older catalogue acts whose music remained commercially valuable long after the original contracts were signed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/sony-music-to-pay-royalties-to-unrecouped-legacy-artists-and-producers-in-major-policy-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This new &quot;Legacy Unrecouped Balance Program&quot; is part of Sony&#x27;s &quot;Artists Forward&quot; initiative to enhance communication and transparency wit...</span></span></span>
+When streaming became dominant, the [rights]({{ 'rights/' | relative_url }}) embedded in those older agreements generally remained in force. As a result, artists whose catalogues gained new audiences online often found that streaming revenue flowed through royalty formulas designed for an earlier era. Some performers continued to face unrecouped balances from advances received decades earlier, meaning they saw little or no royalty income despite ongoing consumption of their recordings. This issue became particularly visible in discussions surrounding older [catalogue]({{ 'catalogue/' | relative_url }}) acts whose music remained commercially valuable long after the original contracts were signed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/sony-music-to-pay-[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This new &quot;Legacy Unrecouped Balance Program&quot; is part of Sony&#x27;s &quot;Artists Forward&quot; initiative to enhance communication and transparency wit...</span></span></span>
 
 The UK Parliament's inquiry into music streaming repeatedly highlighted concerns that streaming had amplified longstanding structural problems rather than creating entirely new ones. The inquiry concluded that performers and creators needed stronger protections because existing contractual arrangements often left them with limited bargaining power when technology transformed the market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span>
 
 Legacy artists became especially important in this debate because their circumstances offered a clear illustration of the problem. New artists may negotiate contracts with streaming already in mind. Older artists often could not. The fairness question therefore became: should agreements negotiated before the digital era continue to determine streaming income decades later? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">29 Nov 2022 — The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/No5cgX734YQ" title="What Is Music Metadata? | Music Biz 101 | Symphonic Distribution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=No5cgX734YQ" target="_blank" rel="noopener noreferrer">What Is Music Metadata? | Music Biz 101 | Symphonic Distribution</a></p><p class="youtube-embed-meta">Channel: Symphonic &middot; Views: 4.9K &middot; Uploaded: July 2021 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=No5cgX734YQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=No5cgX734YQ">Open on YouTube</a></p></div></div></div>
 
 ### Why streaming revived old disputes
 
-Streaming turned catalogue recordings into continuously monetised assets. Instead of relying on periodic reissues or compilation albums, older recordings became permanently available worldwide. A song recorded in the 1970s or 1980s could generate revenue every day through playlists, recommendations and algorithmic discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the potential economic impact of er on performers and the music market in the uk</span><span class="citation-popover-snippet">The potential economic impact of ER on performers and...19 Feb 2024 — The right to equitable remuneration is a simple yet effective solu...</span></span></span>
+Streaming turned catalogue recordings into continuously monetised assets. Instead of relying on periodic reissues or compilation [albums]({{ 'albums/' | relative_url }}), older recordings became permanently available worldwide. A song recorded in the 1970s or 1980s could generate revenue every day through playlists, recommendations and algorithmic discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the potential economic impact of er on performers and the music market in the uk</span><span class="citation-popover-snippet">The potential economic impact of ER on performers and...19 Feb 2024 — The right to equitable remuneration is a simple yet effective solu...</span></span></span>
 
 That renewed commercial life prompted artists and estates to revisit assumptions embedded in historical contracts. The issue is not purely theoretical. Rights disputes involving classic recordings have continued to emerge as parties argue over whether agreements drafted long before the internet should govern modern streaming exploitation. Recent litigation involving recordings by members of the Jimi Hendrix Experience illustrates how streaming has revived debates about ownership, performer rights and the interpretation of contracts written in the 1960s and 1970s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/hendrix-classic-albums-under-spotlight-uk-rights-battle-with-sony-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Hendrix classic albums under spotlight in UK rights battle with Sony</span><span class="citation-popover-snippet">The estates of bassist Noel Redding and drummer Mitch Mitchell, key members of The Jimi Hendrix Experience, have sued Sony Music Entertai...</span></span></span>
 
 The fact that such recordings remain valuable decades later strengthened the argument that legacy creators deserved a mechanism to revisit arrangements that may never have contemplated perpetual global digital distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">new label led measures to boost income for uk music creators</span><span class="citation-popover-snippet">New label-led measures to boost income for UK music...22 Jul 2025 — Driven by the government&#x27;s work on streaming, UK record companies ag...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-2-dark.svg" | relative_url }}" alt="Legacy artists illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why legacy support became part of the label principles
@@ -313,7 +310,6 @@ The eventual UK process placed greater emphasis on voluntary industry measures. 
 
 The focus on legacy creators was politically significant. It allowed labels and government to demonstrate tangible action in an area where concerns were widely acknowledged, while avoiding immediate changes to copyright law. Helping artists whose contracts pre-dated streaming became a way of showing that voluntary reform could produce measurable benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-3-dark.svg" | relative_url }}" alt="Legacy artists illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What voluntary fixes leave unresolved
 
@@ -321,12 +317,11 @@ The central criticism of voluntary measures is that they depend on label policie
 
 This disagreement is most visible in debates over equitable remuneration. Creator groups, including the Musicians' Union and others involved in the streaming reform campaign, have argued that performers need a statutory right to receive a share of streaming income regardless of contractual arrangements. Advocates contend that such a right would be especially valuable for legacy artists trapped by historical agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span>
 
-Voluntary schemes also leave questions about consistency. Some labels may offer improved terms, waive certain historical barriers or create special programmes for older artists, while others may take a different approach. Sony's earlier decision to begin paying certain unrecouped legacy artists despite outstanding balances demonstrated that labels can change policy without legislation, but it also highlighted that such reforms remain dependent on company choices rather than universal legal standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/sony-music-to-pay-royalties-to-unrecouped-legacy-artists-and-producers-in-major-policy-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This new &quot;Legacy Unrecouped Balance Program&quot; is part of Sony&#x27;s &quot;Artists Forward&quot; initiative to enhance communication and transparency wit...</span></span></span>
+Voluntary schemes also leave questions about consistency. Some labels may offer improved terms, waive certain historical barriers or create special programmes for older artists, while others may take a different approach. Sony's earlier decision to begin paying certain unrecouped legacy artists despite outstanding balances demonstrated that labels can change policy without legislation, but it also highlighted that such reforms remain dependent on company choices rather than universal legal standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/sony-music-to-pay-[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This new &quot;Legacy Unrecouped Balance Program&quot; is part of Sony&#x27;s &quot;Artists Forward&quot; initiative to enhance communication and transparency wit...</span></span></span>
 
 Another unresolved issue is scale. Improving a subset of legacy contracts may help many artists, yet it does not automatically address the broader debate about how streaming revenue should be distributed across the industry. Critics therefore view legacy-focused initiatives as meaningful but incomplete steps within a larger argument about creator remuneration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/09548963.2022.2156267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe DCMS Committee&#x27;s inquiry on the economics of music...by A White · 2023 · Cited by 7 — The introduction of a r...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YtLPzokN_XE" title="Digital, Culture, Media and Sport Committee - Live Music 10/10/18 part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YtLPzokN_XE" target="_blank" rel="noopener noreferrer">Digital, Culture, Media and Sport Committee - Live Music 10/10/18 part 2</a></p><p class="youtube-embed-meta">Channel: Music Venue Trust</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YtLPzokN_XE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YtLPzokN_XE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 68.2K &middot; Uploaded: November 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
 
 ## Why legacy artists remain the fairness benchmark
 
@@ -698,190 +693,190 @@ For policymakers, the question is not simply whether older artists deserve suppo
 
 1. <a id="endnote-1"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/](https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/)  
+   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021 — Artists must be given a legal right...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: rights reversion and contract adjustment  
-   Link: [https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment](https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment)  
+   Link: <a href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 6, 2023 — This report investigates two proposals that have been made to protect the contractual interests of UK music creators by mak...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
-   Title: industry [transparency code](&#123;&#123; 'transparency/' | relative_url &#125;&#125;) on music streaming announced by government  
-   Link: [https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government](https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government)  
+   Title: industry transparency code on music streaming announced by government  
+   Link: <a href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Industry Transparency Code on Music Streaming...31 Jan 2024 — The voluntary code has been developed and agreed by 12 music industry bodi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/sony-music-to-pay-royalties-to-unrecouped-legacy-artists-and-producers-in-major-policy-change](https://pitchfork.com/news/sony-music-to-pay-royalties-to-unrecouped-legacy-artists-and-producers-in-major-policy-change)  
+   Link: <a href="https://pitchfork.com/news/sony-music-to-pay-[royalties" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/sony-music-to-pay-[royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This new &quot;Legacy Unrecouped Balance Program&quot; is part of Sony&#x27;s &quot;Artists Forward&quot; initiative to enhance communication and transparency wit...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Economics of music streaming  
-   Link: [https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm](https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5005.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentEconomics of music streaming - Parliament UK - UK Parliament15 Jul 2021 — Though streaming has realised price and convenienc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary](https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary)  
+   Link: <a href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report/executive-summary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2022 — The rise of music streaming has given consumers easy access to large catalogues of music covering an array of genres and ti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: Hendrix classic albums under spotlight in UK rights battle with Sony  
-   Link: [https://www.reuters.com/business/media-telecom/hendrix-classic-albums-under-spotlight-uk-rights-battle-with-sony-2025-12-09/](https://www.reuters.com/business/media-telecom/hendrix-classic-albums-under-spotlight-uk-rights-battle-with-sony-2025-12-09/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/hendrix-classic-albums-under-spotlight-uk-rights-battle-with-sony-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/hendrix-classic-albums-under-spotlight-uk-rights-battle-with-sony-2025-12-09/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The estates of bassist Noel Redding and drummer Mitch Mitchell, key members of The Jimi Hendrix Experience, have sued Sony Music Entertai...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5006.htm](https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5006.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5006.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5006.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
    Title: the potential economic impact of er on performers and the music market in the uk  
-   Link: [https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk](https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The potential economic impact of ER on performers and...19 Feb 2024 — The right to equitable remuneration is a simple yet effective solu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
    Title: new label led measures to boost income for uk music creators  
-   Link: [https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators](https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators)  
+   Link: <a href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New label-led measures to boost income for UK music...22 Jul 2025 — Driven by the government&#x27;s work on streaming, UK record companies ag...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: Creator Remuneration From Music Streaming Label Led Principles  
-   Link: [https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples](https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples)  
+   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remuneration from Music Streaming: Label-led22 Jul 2025 — UK record companies have now agreed to a set of voluntary measures that aim to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886](https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886)  
+   Link: <a href="https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentCreator Remuneration from Music Streaming: Label-led...22 Jul 2025 — The final issue addressed was the remuneration of crea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: councilmusicmakers.org  
    Title: crwg outcomes statement  
-   Link: [https://councilmusicmakers.org/crwg-outcomes-statement/](https://councilmusicmakers.org/crwg-outcomes-statement/)  
+   Link: <a href="https://councilmusicmakers.org/crwg-outcomes-statement/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/crwg-outcomes-statement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Creator Remuneration Working Group: Outcomes + Next...22 Jul 2025 — The government has published a statement on the outcomes of the Crea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/15144/pdf/](https://committees.parliament.uk/writtenevidence/15144/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/15144/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/15144/pdf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionEquitable remuneration for performers on streaming; we believe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: publications.parliament.uk  
    Title: uk Creator remuneration  
-   Link: [https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html](https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>remuneration - Parliament UKNovember 1, 2024 — Economics of music streaming · Introducing a legal right for performers to be paid under a...</p></details>
    Published: November 1, 2024  
 
 16. <a id="endnote-16"></a>
    Source: committees.parliament.uk  
    Title: uk Economics of music streaming: follow-up  
-   Link: [https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/](https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/)  
+   Link: <a href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Committee published its Report in July 2021 and the Government Response was published...Read more...</p></details>
    Published: July 2021  
 
 17. <a id="endnote-17"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/oralevidence/16693/html/](https://committees.parliament.uk/oralevidence/16693/html/)  
+   Link: <a href="https://committees.parliament.uk/oralevidence/16693/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/oralevidence/16693/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Without that, you cannot have that licensing arrangement in...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: publications.parliament.uk  
    Title: uk Creator remuneration  
-   Link: [https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>remuneration - [Culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;), Media and Sport CommitteeApr 10, 2024 — Even as streaming depresses royalties and residuals, UK creators do not h...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: hansard.parliament.uk  
-   Link: [https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples](https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples)  
+   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming: Label-led Principles - Hansard22 Jul 2025 — Our new music growth package will more than double Government funding for the indu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: GOV.UK  
    Title: ernment secures label led measures to boost earnings for uk artists  
-   Link: [https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists](https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists)  
+   Link: <a href="https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>secures label-led measures to boost earnings...Jul 22, 2025 — The principles include a new framework for the renegotiation of contracts...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>right for artists to recapture the rights to their works after a period of time and the right to contract adjustment... rights on UK str...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Creator Remuneration Working Group To R  
-   Link: [https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf](https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remuneration Working Group: Terms of Reference19 Feb 2024 — The CRWG is tasked with exploring and considering industry-led actions on rem...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09548963.2022.2156267](https://www.tandfonline.com/doi/full/10.1080/09548963.2022.2156267)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09548963.2022.2156267" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09548963.2022.2156267</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe DCMS Committee&#x27;s inquiry on the economics of music...by A White · 2023 · Cited by 7 — The introduction of a r...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fladgate.com  
    Title: Tide change on music streaming?  
-   Link: [https://www.fladgate.com/insights/uk-parliamentary-report-calls-for-equitable-remuneration-for-performers](https://www.fladgate.com/insights/uk-parliamentary-report-calls-for-equitable-remuneration-for-performers)  
+   Link: <a href="https://www.fladgate.com/insights/uk-parliamentary-report-calls-for-equitable-remuneration-for-performers" target="_blank" rel="noopener noreferrer nofollow">https://www.fladgate.com/insights/uk-parliamentary-report-calls-for-equitable-remuneration-for-performers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK parliamentary report...2 Sept 2021 — The UK legislators&#x27; rationale for excluding “making available” from equitable remuneration was t...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314?searchresult=1](https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314?searchresult=1)  
+   Link: <a href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314?searchresult=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMusic recommender systems and the copyright blind spot4 days ago — Music recommender systems: Copyright law secures the lawfu...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7](https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7)  
+   Link: <a href="https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These measures aim to address income disparities for artists with pre-digital era record deals that did not account for streaming revenue...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming](https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming)  
+   Link: <a href="https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/government-gives-view-on-measures-to-fix-music-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Gives View on Measures to Fix Music StreamingGovernment has responded to further recommendations from the Culture, Media and S...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/ai-music/regulatory-watch-global-music-ai-policy-b1eb38701c05](https://medium.com/ai-music/regulatory-watch-global-music-ai-policy-b1eb38701c05)  
+   Link: <a href="https://medium.com/ai-music/regulatory-watch-global-music-ai-policy-b1eb38701c05" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/ai-music/regulatory-watch-global-music-ai-policy-b1eb38701c05</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Watch: Global Music AI Policy | by Myk EffThe European Union&#x27;s AI Act, which came into force on August 1, 2024, introduces str...</p></details>
    Published: August 1, 2024  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/okppev/uk_governments_inquiry_into_music_streaming/](https://www.reddit.com/r/musicindustry/comments/okppev/uk_governments_inquiry_into_music_streaming/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government&#x27;s inquiry into music [streaming revenues](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;)...Songwriters and publishers need to be paid just as much as artists and record la...</p></details>
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/okppev/uk_governments_inquiry_into_music_streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/okppev/uk_governments_inquiry_into_music_streaming/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government&#x27;s inquiry into music streaming revenues...Songwriters and publishers need to be paid just as much as artists and record la...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue](https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue)  
+   Link: <a href="https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/competition-and-markets-authority-says-low-pay-from-music-streaming-not-a-competition-issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition and Markets Authority Says Low Pay From...30 Nov 2022 — The Competition and Markets Authority (CMA) has found that low pay f...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels](https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels)  
+   Link: <a href="https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Announces Equitable Remuneration Working...22 Feb 2024 — MU General Secretary Naomi Pohl evaluates why the newly announced eq...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/fix-streaming-government-announces-new-measures-for-legacy-artists-songwriters-and-session-musicia](https://musiciansunion.org.uk/news/fix-streaming-government-announces-new-measures-for-legacy-artists-songwriters-and-session-musicia)  
+   Link: <a href="https://musiciansunion.org.uk/news/fix-streaming-government-announces-new-measures-for-legacy-artists-songwriters-and-session-musicia" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/fix-streaming-government-announces-new-measures-for-legacy-artists-songwriters-and-session-musicia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Announces New Measures for Legacy Artists...Aug 1, 2025 — Government recently announced a package of principles and commitmen...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: wiggin.co.uk  
-   Link: [https://wiggin.co.uk/insight/intellectual-property-office-publishes-research-and-analysis-on-the-economics-of-streaming-contract-adjustment-and-rights-reversion/](https://wiggin.co.uk/insight/intellectual-property-office-publishes-research-and-analysis-on-the-economics-of-streaming-contract-adjustment-and-rights-reversion/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contract adjustment and Rights reversion”13 Feb 2023 — The research looks at two proposals to change domestic copyright law in relation t...</p></details>
+   Link: <a href="https://wiggin.co.uk/insight/intellectual-property-office-publishes-research-and-analysis-on-the-economics-of-streaming-contract-adjustment-and-rights-reversion/" target="_blank" rel="noopener noreferrer nofollow">https://wiggin.co.uk/insight/intellectual-property-office-publishes-research-and-analysis-on-the-economics-of-streaming-contract-adjustment-and-rights-reversion/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntract adjustment and Rights reversion”13 Feb 2023 — The research looks at two proposals to change domestic copyright law in relation t...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: creativesunite.eu  
-   Link: [https://creativesunite.eu/article/helienne-lindvall-secure-authors-rights-in-the-ai-act-funding-and-a-european-strategy-for-music](https://creativesunite.eu/article/helienne-lindvall-secure-authors-rights-in-the-ai-act-funding-and-a-european-strategy-for-music)  
+   Link: <a href="https://creativesunite.eu/article/helienne-lindvall-secure-authors-rights-in-the-ai-act-funding-and-a-european-strategy-for-music" target="_blank" rel="noopener noreferrer nofollow">https://creativesunite.eu/article/helienne-lindvall-secure-authors-rights-in-the-ai-act-funding-and-a-european-strategy-for-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Helienne Lindvall: Secure authors&#x27; rights in the AI Act...20 Aug 2025 — The study also highlights that by 2028, AI-generated music will...</p></details>

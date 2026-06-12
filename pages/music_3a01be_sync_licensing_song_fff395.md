@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - sync
 keywords:
-- music
+- music-3-a01-be
 - sync
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Film, games and advertising can turn songs into dramatic cues, memory triggers and fresh income streams.
 hero_summary: Film, games and advertising can turn songs into dramatic cues, memory triggers and fresh income streams.
 layout: default
 permalink: /sync/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Sync
 title: How Screen Placements Revive Songs
-title_full: How Screen Placements Revive Songs | Music
+title_full: How Screen Placements Revive Songs
 display_title_short: Sync
 display_title: Sync
 heading_title: How Screen Placements Revive Songs
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 next_link:
   basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
-date: '2026-06-09 06:12:59 '
+date: '2026-06-11 23:06:51 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395-overview-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395-overview.webp
@@ -503,7 +503,6 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395-overview-social.jp
 
 Sync licensing gives songs new lives by placing them inside films, television, games and advertising, where music stops being only a track and becomes part of a scene, a character, a brand memory or a playable world. A well-chosen placement can make an old [recording]({{ 'recording/' | relative_url }}) feel newly urgent, introduce a cult song to a mass audience, or turn a [catalogue]({{ 'catalogue/' | relative_url }}) track into a fresh income stream. The mechanism is simple in outline but complex in practice: the producer needs permission to pair music with moving images, usually clearing both the composition and the specific sound recording. When the match works, the result can outlive the original campaign or episode. Kate Bush’s “Running Up That Hill” returning to number one after *Stranger Things*, Nick Drake’s “Pink Moon” finding a new audience through Volkswagen, and Sophie Ellis-Bextor’s “Murder on the Dancefloor” surging after *Saltburn* all show how context can restart a song’s public life. Billboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-overview.webp" | relative_url }}" alt="Overview image for Sync" loading="eager" decoding="sync" fetchpriority="high">
 ## Why screen placement can revive a song
 
@@ -511,10 +510,9 @@ A sync placement works differently from a playlist add or radio spin. It does no
 
 The strongest revivals usually happen when three forces meet: a memorable scene, an emotionally legible song, and a route for immediate rediscovery. In the pre-streaming era, viewers might have had to search record shops or soundtrack listings. Today, they can identify a track, stream it, share the scene, post a clip and push the song into recommendation systems within minutes. That is why screen placements now often combine with social media, chart algorithms and streaming platforms rather than replacing them.
 
-[Kate Bush]({{ 'kate-bush/' | relative_url }})’s “Running Up That Hill” is the modern benchmark. The song was first released in 1985, but its use in *Stranger Things* turned it into a protective emotional motif for the character Max rather than a [background]({{ 'background/' | relative_url }}) nostalgia cue. Official Charts records show that the track eventually reached number one in the UK in 2022, setting records including the longest time taken for a single to reach number one and the longest gap between UK number one singles for an artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span> Billboard reported that Spotify data showed an 8,700% increase in global streams shortly after the season arrived, while WIPO later framed the resurgence as an example of how copyright, streaming and audiovisual storytelling can combine to generate renewed royalty value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">BillboardSophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</span></span></span>
+[Kate Bush]({{ 'kate-bush/' | relative_url }})’s “Running Up That Hill” is the modern benchmark. The song was first released in 1985, but its use in *Stranger Things* turned it into a protective emotional motif for the character Max rather than a [background]({{ 'background/' | relative_url }}) nostalgia cue. Official Charts records show that the track eventually reached number one in the UK in 2022, setting records including the longest time taken for a single to reach number one and the longest gap between UK number one singles for an artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span> Billboard reported that Spotify data showed an 8,700% increase in global streams shortly after the season arrived, while WIPO later framed the resurgence as an example of how copyright, streaming and audiovisual storytelling can combine to generate renewed royalty value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Sophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</span></span></span>
 
 The revival was not just statistical. Bush herself publicly connected the renewed popularity to the emotional power of the show and its characters, which helps explain why the placement felt less like a detached marketing trick and more like a new chapter in the song’s meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Kate Bush&#x27;s &quot;Running Up That Hill&quot; Hits No. 1 on UK Singles Chart</span><span class="citation-popover-snippet">Kate Bush&#x27;s &quot;Running Up That Hill&quot; Hits No. 1 on UK Singles Chart</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-1-dark.svg" | relative_url }}" alt="Sync illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Music in film, games and ads
@@ -529,7 +527,6 @@ Games create a different form of revival because the listener may spend dozens o
 
 The common thread is context. The same recording can be a memory trigger in a series, a mood engine in an advert, or part of a world-building system in a game. Sync revives songs when that context gives listeners a reason to care again.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hAx6mYeC6pY" title="Sophie Ellis-Bextor - Murder On The Dancefloor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer">Sophie Ellis-Bextor - Murder On The Dancefloor</a></p><p class="youtube-embed-meta">Channel: SEllisBextorVEVO &middot; Views: 192.9M &middot; Uploaded: August 2017 &middot; Length: 3 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hAx6mYeC6pY">Open on YouTube</a></p></div></div></div>
 
 ## Licensing, rights and negotiation
@@ -539,7 +536,6 @@ Sync looks glamorous when a song explodes on the charts, but the practical mecha
 That split matters because a producer may love a song but fail to clear it. A composition can have several writers and publishers. A recording can have label, performer, producer or session-musician considerations. In the UK, the Musicians’ Union notes that new uses of commercial recordings, including sync for advertising, film and television, may require clearance for session musicians whose original consent covered commercial release but not every later audiovisual use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Negotiation usually turns on several variables:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -554,7 +550,6 @@ Negotiation usually turns on several variables:
 
 This is why sync fees vary so widely. A global advert for a famous recording is a different economic object from an indie documentary using a lesser-known track for a festival run. Sync is not a standard button the music industry presses; it is a negotiated permission shaped by risk, budget, bargaining power and the value of the song to the scene.
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-2-dark.svg" | relative_url }}" alt="Sync illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fresh income, but not magic money
 
@@ -565,7 +560,6 @@ At market level, however, sync is not the biggest part of recorded music revenue
 For heritage artists and estates, sync can be especially powerful. It lets a catalogue song re-enter culture without requiring a new album cycle, tour, interview campaign or remix. For independent artists, it can provide a meaningful fee and validation, particularly when streaming income is fragmented. For labels and publishers, it is a way to activate catalogue assets that might otherwise sit quietly in databases.
 
 The risk is that “exposure” can be used to justify weak terms. The Heaven 17 and Rockstar dispute showed how artists may reject a placement if the fee, buyout structure or lack of future participation feels unfair relative to the scale of the project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span> A sync can revive a song culturally while still leaving open hard questions about who captures the value.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dWB-jTTkz7s" title="How to Get Started with Music Sync Licensing in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dWB-jTTkz7s" target="_blank" rel="noopener noreferrer">How to Get Started with Music Sync Licensing in 2025</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 19.0K &middot; Uploaded: December 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dWB-jTTkz7s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dWB-jTTkz7s">Open on YouTube</a></p></div></div></div>
 
@@ -581,7 +575,6 @@ A song does not enter a screen placement as a blank object. It brings its existi
 
 This is the core artistic power of sync: it can make a familiar song unfamiliar again. Sometimes the image clarifies what was already in the music. Sometimes it bends the song towards a new emotional use. Sometimes it creates tension because fans feel a beloved song has been commercialised or misread. The placement is never neutral; it is an interpretation.
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-3-dark.svg" | relative_url }}" alt="Sync illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes a song sync-ready
 
@@ -592,7 +585,6 @@ For artists and rightsholders, sync-readiness usually means more than uploading 
 One-stop clearance is especially attractive for lower-budget productions and fast-moving advertising work. If a supervisor can clear both the composition and the master through one authorised party, the song becomes less risky than a comparable track with multiple unresolved owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearmusic.nl">[Clear Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearmusic.nl</span><span class="citation-popover-title">music licensing 101</span><span class="citation-popover-snippet">music licensing 101</span></span></span> This does not guarantee placement, but it can decide which song survives a deadline.
 
 For catalogue owners, the practical lesson is similar. A decades-old track may be culturally valuable, but if ownership is messy or materials are missing, it may be passed over. Sync revival often looks sudden from the outside, but it depends on groundwork: rights administration, searchable catalogues, relationships with supervisors, and the ability to say yes quickly without losing control of terms.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NiuWPpGwP2c" title="Sync Licensing Mastery: How To Stand out to Music Supervisors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NiuWPpGwP2c" target="_blank" rel="noopener noreferrer">Sync Licensing Mastery: How To Stand out to Music Supervisors</a></p><p class="youtube-embed-meta">Channel: MUBUTV - Music Business Television &middot; Views: 5.8K &middot; Uploaded: March 2024 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NiuWPpGwP2c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NiuWPpGwP2c">Open on YouTube</a></p></div></div></div>
 
@@ -721,15 +713,15 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Radiohead music band pin badge metal enamel tie pin"><img src="{{ '/assets/images/marketplace-covers/8196eff3c0ba1da13a4f.jpg' | relative_url }}" alt="Listing image for New Radiohead music band pin badge metal enamel tie pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)"><img src="https://i.ebayimg.com/images/g/kI4AAeSwaslqJv~i/s-l225.jpg" alt="Listing image for GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">New Radiohead music band pin badge metal enamel tie pin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -737,15 +729,15 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 x 80s Pop Artists / Group BUTTON PIN BADGES 25mm 1 INCH Various Music"><img src="{{ '/assets/images/marketplace-covers/d69c5b1ef1965b0c6898.jpg' | relative_url }}" alt="Listing image for 20 x 80s Pop Artists / Group BUTTON PIN BADGES 25mm 1 INCH Various Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/PIYAAeSwpp1qGjTI/s-l225.jpg" alt="Listing image for Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">20 x 80s Pop Artists / Group BUTTON PIN BADGES 25mm 1 INCH Various Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -753,15 +745,15 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 x Alternative 80s Bands BUTTON PIN BADGES 25mm 1 INCH Various Artists Music"><img src="{{ '/assets/images/marketplace-covers/130b80e82188a2bc8d9e.jpg' | relative_url }}" alt="Listing image for 20 x Alternative 80s Bands BUTTON PIN BADGES 25mm 1 INCH Various Artists Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/XNUAAeSwl6lqIpOL/s-l225.jpg" alt="Listing image for Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">20 x Alternative 80s Bands BUTTON PIN BADGES 25mm 1 INCH Various Artists Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -769,15 +761,15 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PICK YOUR PIN BADGES 1 inch / 25mm - Buttons Unique Designs SciFi Music Retro"><img src="{{ '/assets/images/marketplace-covers/e6ccc0208da17f35b611.jpg' | relative_url }}" alt="Listing image for PICK YOUR PIN BADGES 1 inch / 25mm - Buttons Unique Designs SciFi Music Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP"><img src="https://i.ebayimg.com/images/g/t-wAAOSwfYJh7sx3/s-l225.jpg" alt="Listing image for Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">PICK YOUR PIN BADGES 1 inch / 25mm - Buttons Unique Designs SciFi Music Retro</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music collectible pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -785,7 +777,7 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sync-how-screen-placements-revive-songs-music-music-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music collectible pin" data-ebay-reference="sync-how-screen-placements-revive-songs-music-music-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1000,166 +992,166 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
 
 1. <a id="endnote-1"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/](https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardSophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</p></details>
+   Link: <a href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: billboard.com  
    Title: kate bush running up that hill stranger things spotify 1235079096  
-   Link: [https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/](https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/</a>  
 
 3. <a id="endnote-3"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628](https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628)  
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Kate Bush's "Running Up That Hill" Hits No. 1 on UK Singles Chart  
-   Link: [https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart](https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart)  
+   Link: <a href="https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart</a>  
 
 5. <a id="endnote-5"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: wisseloord.org  
-   Link: [https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for](https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for)  
+   Link: <a href="https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for" target="_blank" rel="noopener noreferrer nofollow">https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for</a>  
 
 8. <a id="endnote-8"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing](https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing)  
+   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/](https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/)  
+   Link: <a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: latimes.com  
    Title: la xpm 2001 apr 11 ca 49418 story  
-   Link: [https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html](https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: murder on the dancefloor gregg alexander saltburn obamas joni mitchell  
-   Link: [https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell](https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell)  
+   Link: <a href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian Heaven 17 v Rockstar: are games being fair to music artists?  
-   Link: [https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists](https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists)  
+   Link: <a href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1990s, music licensing in games brought significant royalties, but most publishers now prefer one-time buyouts. Complex negotiatio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/newuse](https://musiciansunion.org.uk/newuse)  
+   Link: <a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
 
 15. <a id="endnote-15"></a>
    Source: clearmusic.nl  
    Title: music licensing 101  
-   Link: [https://clearmusic.nl/music-licensing-101/](https://clearmusic.nl/music-licensing-101/)  
+   Link: <a href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow">https://clearmusic.nl/music-licensing-101/</a>  
 
 16. <a id="endnote-16"></a>
    Source: egofm.de  
    Title: murder on the dancefloor  
-   Link: [https://www.egofm.de/musik/news/murder-on-the-dancefloor](https://www.egofm.de/musik/news/murder-on-the-dancefloor)  
+   Link: <a href="https://www.egofm.de/musik/news/murder-on-the-dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://www.egofm.de/musik/news/murder-on-the-dancefloor</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Murder on the Dancefloor  
-   Link: [https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor](https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Running Up That Hill  
-   Link: [https://en.wikipedia.org/wiki/Running_Up_That_Hill](https://en.wikipedia.org/wiki/Running_Up_That_Hill)  
+   Link: <a href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Running_Up_That_Hill</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Sophie Ellis-Bextor  
-   Link: [https://www.youtube.com/watch?v=hAx6mYeC6pY](https://www.youtube.com/watch?v=hAx6mYeC6pY)  
+   Link: <a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAx6mYeC6pY</a>  
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: that syncing feeling how stranger things supercharged the music industry  
-   Link: [https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry](https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry)  
+   Link: <a href="https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry</a>  
 
 21. <a id="endnote-21"></a>
    Source: diymusician.cdbaby.com  
    Title: sync licensing  
-   Link: [https://diymusician.cdbaby.com/music-career/sync-licensing/](https://diymusician.cdbaby.com/music-career/sync-licensing/)  
+   Link: <a href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-career/sync-licensing/</a>  
 
 22. <a id="endnote-22"></a>
    Source: kworb.net  
    Title: Kate Bush  
-   Link: [https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html](https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html)  
+   Link: <a href="https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: officialcharts.com  
    Title: sophie ellis bextor murder on the dancefloor  
-   Link: [https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/](https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/)  
+   Link: <a href="https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aristake.com  
    Title: sync agents  
-   Link: [https://aristake.com/sync-agents/](https://aristake.com/sync-agents/)  
+   Link: <a href="https://aristake.com/sync-agents/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/sync-agents/</a>  
 
 25. <a id="endnote-25"></a>
    Source: hitparade.ch  
    Title: Sophie Ellis-Bextor  
-   Link: [https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140](https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140)  
+   Link: <a href="https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140" target="_blank" rel="noopener noreferrer nofollow">https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials](https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials)  
+   Link: <a href="https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials</a>  
 
 27. <a id="endnote-27"></a>
    Source: thatpitch.com  
-   Link: [https://thatpitch.com/blog/sync-artist/](https://thatpitch.com/blog/sync-artist/)  
+   Link: <a href="https://thatpitch.com/blog/sync-artist/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/sync-artist/</a>  
 
 28. <a id="endnote-28"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide](https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide)  
+   Link: <a href="https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/473293957022577/posts/701471920871445/](https://www.facebook.com/groups/473293957022577/posts/701471920871445/)  
+   Link: <a href="https://www.facebook.com/groups/473293957022577/posts/701471920871445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473293957022577/posts/701471920871445/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/203560668055122/posts/1257396319338213/](https://www.facebook.com/groups/203560668055122/posts/1257396319338213/)  
+   Link: <a href="https://www.facebook.com/groups/203560668055122/posts/1257396319338213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203560668055122/posts/1257396319338213/</a>  
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DY5EDPkjn5G/](https://www.instagram.com/p/DY5EDPkjn5G/)  
+   Link: <a href="https://www.instagram.com/p/DY5EDPkjn5G/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY5EDPkjn5G/</a>  
 
 32. <a id="endnote-32"></a>
    Source: syncsmith.com  
-   Link: [https://www.syncsmith.com/faq](https://www.syncsmith.com/faq)  
+   Link: <a href="https://www.syncsmith.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.syncsmith.com/faq</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/](https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/)  
+   Link: <a href="https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/</a>  
 
 34. <a id="endnote-34"></a>
    Source: andrmusic.co  
-   Link: [https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/](https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/)  
+   Link: <a href="https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/](https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/)  
+   Link: <a href="https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/</a>

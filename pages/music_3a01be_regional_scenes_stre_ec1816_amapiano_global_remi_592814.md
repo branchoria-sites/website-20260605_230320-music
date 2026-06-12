@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a
 - music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e
 tags:
-- music
+- music-3-a01-be
 - regional-scenes
 - amapiano
 keywords:
-- music
+- music-3-a01-be
 - regional-scenes
 - amapiano
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Amapiano spread as a recognisable production language that listeners and artists in other countries could dance to, copy and reshape.
 hero_summary: Amapiano spread as a recognisable production language that listeners and artists in other countries could dance to, copy and reshape.
 layout: default
 permalink: /amapiano/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /regional-scenes/
 nav_short_title: Amapiano
 title: Why Amapiano Became A Global Dance Grammar
-title_full: Why Amapiano Became A Global Dance Grammar | Regional Scenes
+title_full: Why Amapiano Became A Global Dance Grammar
 display_title_short: Amapiano
 display_title: Amapiano
 heading_title: Why Amapiano Became A Global Dance Grammar
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Local Sounds Become Global | Music
+parent_title: How Local Sounds Become Global
 parent_permalink: /regional-scenes/
 parent_nav_short_title: Regional Scenes
 parent_heading_title: How Local Sounds Become Global
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Regional Mexican Music Crossed Borders Online
 up_link:
   basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -265,7 +265,7 @@ next_link:
   permalink: /data-proof/
   short_title: Data Proof
   heading_title: When Streams Become Proof Of A Scene
-date: '2026-06-09 07:46:10 '
+date: '2026-06-11 23:54:37 '
 header:
   og_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_r
 
 ## Introduction
 
-Amapiano became a global dance language not simply because more people could stream South African [music]({{ 'music/' | relative_url }}), but because the genre travelled in a form that invited imitation. Its signature log drums, spacious grooves, piano motifs and dance-friendly structure were easy to recognise even when artists in other countries changed the vocals, tempo or cultural references. Streaming platforms helped listeners encounter the sound, while playlists, algorithmic recommendations and user-created collections turned it into a repeatable production template rather than a one-off regional trend. By the mid-2020s, amapiano was no longer only a South African genre. It had become a musical grammar that producers, DJs and dancers around the world could borrow, remix and adapt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">How the World Is Reimagining Amapiano, South Africa&#x27;s</span><span class="citation-popover-snippet">SpotifyHow the World Is Reimagining Amapiano, South Africa&#x27;s...May 31, 2022 — 31 May 2022 — Spotify is placing a spotlight on Amapiano w...</span><span class="citation-popover-meta">Published: May 31, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2024-06-13/how-a-global-pandemic-pushed-amapiano-to-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">how a global pandemic pushed amapiano to the world</span><span class="citation-popover-snippet">a Global Pandemic Pushed Amapiano to the World13 Jun 2024 — The genre has surged across global dance floors thanks to collaborations, the...</span></span></span>
-
+Amapiano became a global dance language not simply because more people could stream South African music, but because the genre travelled in a form that invited imitation. Its signature log drums, spacious grooves, piano motifs and dance-friendly structure were easy to recognise even when artists in other countries changed the vocals, tempo or cultural references. Streaming platforms helped listeners encounter the sound, while playlists, algorithmic recommendations and user-created collections turned it into a repeatable production template rather than a one-off regional trend. By the mid-2020s, amapiano was no longer only a South African genre. It had become a musical grammar that producers, DJs and dancers around the world could borrow, remix and adapt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">How the World Is Reimagining Amapiano, South Africa&#x27;s</span><span class="citation-popover-snippet">How the World Is Reimagining Amapiano, South Africa&#x27;s...May 31, 2022 — 31 May 2022 — Spotify is placing a spotlight on Amapiano w...</span><span class="citation-popover-meta">Published: May 31, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2024-06-13/how-a-global-pandemic-pushed-amapiano-to-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">how a global pandemic pushed amapiano to the world</span><span class="citation-popover-snippet">a Global Pandemic Pushed Amapiano to the World13 Jun 2024 — The genre has surged across global dance floors thanks to collaborations, the...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-1-dark.svg" | relative_url }}" alt="Amapiano illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Sound Cues That Made It Recognisable
@@ -297,28 +296,26 @@ These elements created a recognisable sonic identity while remaining flexible en
 
 That flexibility mattered. A rigid style often travels only as an export. Amapiano travelled as a toolkit. Artists could combine its percussion and bass patterns with local languages, regional vocal styles or existing club traditions while still sounding connected to the broader movement.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hognWFjFS10" title="MUSIC | &#x27;A Decade of Amapiano&#x27; celebrated by Spotify" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hognWFjFS10" target="_blank" rel="noopener noreferrer">MUSIC | &#x27;A Decade of Amapiano&#x27; celebrated by Spotify</a></p><p class="youtube-embed-meta">Channel: SABC News &middot; Views: 646 &middot; Uploaded: June 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hognWFjFS10" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hognWFjFS10">Open on YouTube</a></p></div></div></div>
 
 ## How Streaming Carried South African Scenes Outward
 
 Streaming changed the route through which amapiano reached international audiences. Earlier dance genres often depended on specialist DJs, record shops or radio networks. Amapiano arrived during an era when recommendation systems could place unfamiliar music directly in front of listeners who had never encountered South African club [culture]({{ 'culture/' | relative_url }}).
 
-Spotify has highlighted the genre's spread beyond South Africa, noting that artists and scenes in countries including France, Morocco and Japan began engaging with and reinterpreting the sound. The platform's reporting presents amapiano not merely as an exported genre but as a style that inspired local adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">SpotifyWhy Amapiano Wins Hearts and Minds as It Travels the...June 13, 2024 — 13 Jun 2024 — Amapiano is a force to be reckoned with on t...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
+Spotify has highlighted the genre's spread beyond South Africa, noting that artists and scenes in countries including France, Morocco and Japan began engaging with and reinterpreting the sound. The platform's reporting presents amapiano not merely as an exported genre but as a style that inspired local adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Why Amapiano Wins Hearts and Minds as It Travels the...June 13, 2024 — 13 Jun 2024 — Amapiano is a force to be reckoned with on t...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
 
 The scale of that outward movement became visible in streaming data. Spotify reported that more than half of amapiano listening was occurring outside South Africa, while broader South African music exports increasingly depended on international audiences. By 2025, nearly three-quarters of Spotify [royalties]({{ 'royalties/' | relative_url }}) earned by South African artists came from listeners abroad, and South African artists were being discovered by first-time listeners more than 1.6 billion times in a single year. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://citizen.digital/article/global-demand-pushes-south-african-artists-spotify-royalties-to-ksh39-billion-n382883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citizen.digital">[The Citizen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citizen.digital</span><span class="citation-popover-snippet">Global demand pushes South African artists&#x27; Spotify...17 May 2026 — South African artists generated more than Ksh.3.9 billion (ZAR 504 m...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The geographical spread is also visible in streaming markets. By 2023, the United States and United Kingdom ranked among the largest territories for amapiano listening outside South Africa, while countries including Germany, the Netherlands, France and Canada had developed significant audiences of their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=hognWFjFS10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[MUSIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">MUSIC | &#x27;A Decade of Amapiano&#x27; celebrated by SpotifyThe sizzling South African dance genre, Amapiano, has hit the Spotify scene like a he...</span></span></span>
+The geographical spread is also visible in streaming markets. By 2023, the United States and United Kingdom ranked among the largest territories for amapiano listening outside South Africa, while countries including Germany, the Netherlands, France and Canada had developed significant audiences of their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=hognWFjFS10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[MUSIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">MUSIC &#124; &#x27;A Decade of Amapiano&#x27; celebrated by SpotifyThe sizzling South African dance genre, Amapiano, has hit the Spotify scene like a he...</span></span></span>
 
 This matters because streaming does not only distribute music. It records evidence of demand. Once listeners in multiple countries repeatedly streamed amapiano tracks, platforms had more reason to recommend them, playlist editors had more reason to feature them, and artists elsewhere had more reason to experiment with the sound.
-
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-2-dark.svg" | relative_url }}" alt="Amapiano illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Remixing Helped the Style Travel
 
 The most important mechanism in amapiano's international growth was not simple consumption. It was participation.
 
-Many listeners first encountered the genre through playlists or viral clips, but the next stage involved adaptation. Producers borrowed drum patterns. DJs inserted amapiano sections into sets built around different genres. Vocalists recorded new songs over amapiano-inspired rhythms. Local scenes treated the style as material that could be reshaped rather than preserved unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">SpotifyAs Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — On average, artists see more than half of their royalties...</span></span></span>
+Many listeners first encountered the genre through playlists or viral clips, but the next stage involved adaptation. Producers borrowed drum patterns. DJs inserted amapiano sections into sets built around different genres. Vocalists recorded new songs over amapiano-inspired rhythms. Local scenes treated the style as material that could be reshaped rather than preserved unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">As Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — On average, artists see more than half of their royalties...</span></span></span>
 
 This remix pathway produced several advantages:
 
@@ -328,10 +325,9 @@ This remix pathway produced several advantages:
 
 **Algorithmic reinforcement.** When artists released local variations, recommendation systems connected those tracks back to amapiano audiences, creating additional pathways for discovery.
 
-**Collaborative expansion.** The genre's collaborative production culture made cross-border partnerships feel natural rather than exceptional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/amapiano-10th-anniversary-road-global-dominance-grammy-win/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">amapiano 10th anniversary road global dominance grammy win</span><span class="citation-popover-snippet">GrammyAmapiano&#x27;s Decade-Long Journey To Global Dominance13 Sept 2024 — Young, aspiring producers in South African townships used affordab...</span></span></span>
+**Collaborative expansion.** The genre's collaborative production culture made cross-border partnerships feel natural rather than exceptional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/amapiano-10th-anniversary-road-global-dominance-grammy-win/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">amapiano 10th anniversary road global dominance grammy win</span><span class="citation-popover-snippet">Amapiano&#x27;s Decade-Long Journey To Global Dominance13 Sept 2024 — Young, aspiring producers in South African townships used affordab...</span></span></span>
 
 In practice, remixing transformed amapiano from a genre into a production language. Listeners who might never search specifically for South African music could still become familiar with its rhythmic vocabulary through hybrid tracks.
-
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-3-dark.svg" | relative_url }}" alt="Amapiano illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dance, Clips and the Feedback Loop
@@ -355,7 +351,6 @@ Once a dance trend emerged, the cycle reinforced itself:
 </div>
 
 The result was a feedback loop in which streaming and participatory culture accelerated one another. Rather than moving in a straight line from South Africa to foreign audiences, amapiano travelled through countless acts of reuse and reinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotify reports sa artists earned over 306m platform 2025</span><span class="citation-popover-snippet">Spotify reports SA artists earned over $30.6m on platform...13 May 2026 — Spotify has reported that South African artists generated more...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/video/reaching-new-fans-and-spotlight-on-amapiano-spotify-for-artists-masterclass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">Hear from the voices of &#x27;Amapiano</span><span class="citation-popover-snippet">New Fans &amp; Spotlight on Amapiano – Spotify for...Learn how our new tools and features, such as What&#x27;s New, Marquee and Fan Study, can he...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dMmclkM7mUQ" title="Why Amapiano Feels Different from Every Other Dance Genre: The Groove Took Over Global Dance Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dMmclkM7mUQ" target="_blank" rel="noopener noreferrer">Why Amapiano Feels Different from Every Other Dance Genre: The Groove Took Over Global Dance Music</a></p><p class="youtube-embed-meta">Channel: Monumental Movement &middot; Views: 262 &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dMmclkM7mUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dMmclkM7mUQ">Open on YouTube</a></p></div></div></div>
 
@@ -748,155 +743,155 @@ Streaming platforms supplied the infrastructure that made global discovery possi
 1. <a id="endnote-1"></a>
    Source: newsroom.spotify.com  
    Title: How the World Is Reimagining Amapiano, South Africa's  
-   Link: [https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/](https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyHow the World Is Reimagining Amapiano, South Africa&#x27;s...May 31, 2022 — 31 May 2022 — Spotify is placing a spotlight on Amapiano w...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2022-05-31/how-the-world-is-reimagining-amapiano-south-africas-hottest-music-export/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the World Is Reimagining Amapiano, South Africa&#x27;s...May 31, 2022 — 31 May 2022 — Spotify is placing a spotlight on Amapiano w...</p></details>
    Published: May 31, 2022  
 
 2. <a id="endnote-2"></a>
    Source: newsroom.spotify.com  
    Title: how a global pandemic pushed amapiano to the world  
-   Link: [https://newsroom.spotify.com/2024-06-13/how-a-global-pandemic-pushed-amapiano-to-the-world/](https://newsroom.spotify.com/2024-06-13/how-a-global-pandemic-pushed-amapiano-to-the-world/)  
+   Link: <a href="https://newsroom.spotify.com/2024-06-13/how-a-global-pandemic-pushed-amapiano-to-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2024-06-13/how-a-global-pandemic-pushed-amapiano-to-the-world/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Global Pandemic Pushed Amapiano to the World13 Jun 2024 — The genre has surged across global dance floors thanks to collaborations, the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: stereofox.com  
-   Link: [https://www.stereofox.com/articles/amapiano-the-story-of-the-sound-taking-over-the-world/](https://www.stereofox.com/articles/amapiano-the-story-of-the-sound-taking-over-the-world/)  
+   Link: <a href="https://www.stereofox.com/articles/amapiano-the-story-of-the-sound-taking-over-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/amapiano-the-story-of-the-sound-taking-over-the-world/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stereofox Music BlogAmapiano: The Story of the Sound Taking Over the WorldAmapiano fuses lounge, deep house, and jazz embellishments thro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: grammy.com  
    Title: amapiano 10th anniversary road global dominance grammy win  
-   Link: [https://www.grammy.com/news/amapiano-10th-anniversary-road-global-dominance-grammy-win/](https://www.grammy.com/news/amapiano-10th-anniversary-road-global-dominance-grammy-win/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GrammyAmapiano&#x27;s Decade-Long Journey To Global Dominance13 Sept 2024 — Young, aspiring producers in South African townships used affordab...</p></details>
+   Link: <a href="https://www.grammy.com/news/amapiano-10th-anniversary-road-global-dominance-grammy-win/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/amapiano-10th-anniversary-road-global-dominance-grammy-win/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amapiano&#x27;s Decade-Long Journey To Global Dominance13 Sept 2024 — Young, aspiring producers in South African townships used affordab...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/](https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyWhy Amapiano Wins Hearts and Minds as It Travels the...June 13, 2024 — 13 Jun 2024 — Amapiano is a force to be reckoned with on t...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2024-06-13/why-amapiano-wins-hearts-and-minds-as-it-travels-the-globe/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Amapiano Wins Hearts and Minds as It Travels the...June 13, 2024 — 13 Jun 2024 — Amapiano is a force to be reckoned with on t...</p></details>
    Published: June 13, 2024  
 
 6. <a id="endnote-6"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/](https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyAs Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — On average, artists see more than half of their royalties...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>As Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — On average, artists see more than half of their royalties...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: artists.spotify.com  
    Title: Hear from the voices of 'Amapiano'  
-   Link: [https://artists.spotify.com/en/video/reaching-new-fans-and-spotlight-on-amapiano-spotify-for-artists-masterclass](https://artists.spotify.com/en/video/reaching-new-fans-and-spotlight-on-amapiano-spotify-for-artists-masterclass)  
+   Link: <a href="https://artists.spotify.com/en/video/reaching-new-fans-and-spotlight-on-amapiano-spotify-for-artists-masterclass" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/reaching-new-fans-and-spotlight-on-amapiano-spotify-for-artists-masterclass</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Fans &amp; Spotlight on Amapiano – Spotify for...Learn how our new tools and features, such as What&#x27;s New, Marquee and Fan Study, can he...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: citizen.digital  
-   Link: [https://citizen.digital/article/global-demand-pushes-south-african-artists-spotify-royalties-to-ksh39-billion-n382883](https://citizen.digital/article/global-demand-pushes-south-african-artists-spotify-royalties-to-ksh39-billion-n382883)  
+   Link: <a href="https://citizen.digital/article/global-demand-pushes-south-african-artists-spotify-royalties-to-ksh39-billion-n382883" target="_blank" rel="noopener noreferrer nofollow">https://citizen.digital/article/global-demand-pushes-south-african-artists-spotify-royalties-to-ksh39-billion-n382883</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global demand pushes South African artists&#x27; Spotify...17 May 2026 — South African artists generated more than Ksh.3.9 billion (ZAR 504 m...</p></details>
    Published: May 2026  
 
 9. <a id="endnote-9"></a>
    Source: musicbusinessworldwide.com  
    Title: amapiano streams exploded by 5668 on spotify between 2018 and 2023  
-   Link: [https://www.musicbusinessworldwide.com/amapiano-streams-exploded-by-5668-on-spotify-between-2018-and-2023/](https://www.musicbusinessworldwide.com/amapiano-streams-exploded-by-5668-on-spotify-between-2018-and-2023/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/amapiano-streams-exploded-by-5668-on-spotify-between-2018-and-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/amapiano-streams-exploded-by-5668-on-spotify-between-2018-and-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideAmapiano streams exploded by 5668% on Spotify between...17 Jun 2024 — Germany, the Netherlands, France and Canad...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/culture/culture-desk/how-far-can-amapiano-go](https://www.newyorker.com/culture/culture-desk/how-far-can-amapiano-go)  
+   Link: <a href="https://www.newyorker.com/culture/culture-desk/how-far-can-amapiano-go" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/how-far-can-amapiano-go</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin brothers Banele and Bandile Mbere, who form the duo Major League Djz, have been pivotal in this genre&#x27;s global spread, leveraging pl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: citizen.co.za  
-   Link: [https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/](https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/)  
+   Link: <a href="https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/" target="_blank" rel="noopener noreferrer nofollow">https://www.citizen.co.za/lifestyle/entertainment/spotify-loud-and-clear-music-report-unpacked/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CitizenCloud rap, country, worship: The surprising genres slowly...15 May 2026 — Nearly 74% of royalties generated by South African...</p></details>
    Published: May 2026  
 
 12. <a id="endnote-12"></a>
    Source: musicinafrica.net  
    Title: spotify reports sa artists earned over 306m platform 2025  
-   Link: [https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025](https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025)  
+   Link: <a href="https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotify-reports-sa-artists-earned-over-306m-platform-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify reports SA artists earned over $30.6m on platform...13 May 2026 — Spotify has reported that South African artists generated more...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: musicinafrica.net  
    Title: Music In Africa How dance challenges took amapiano global  
-   Link: [https://www.musicinafrica.net/magazine/jerusalema-tshwala-bam-how-dance-challenges-took-amapiano-global](https://www.musicinafrica.net/magazine/jerusalema-tshwala-bam-how-dance-challenges-took-amapiano-global)  
+   Link: <a href="https://www.musicinafrica.net/magazine/jerusalema-tshwala-bam-how-dance-challenges-took-amapiano-global" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/jerusalema-tshwala-bam-how-dance-challenges-took-amapiano-global</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaHow dance challenges took amapiano globalMarch 10, 2026 — 10 Mar 2026 — Platforms such as TikTok, Instagram and YouTube ha...</p></details>
    Published: March 10, 2026  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hognWFjFS10](https://www.youtube.com/watch?v=hognWFjFS10)  
+   Link: <a href="https://www.youtube.com/watch?v=hognWFjFS10" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hognWFjFS10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUSIC | &#x27;A Decade of Amapiano&#x27; celebrated by SpotifyThe sizzling South African dance genre, Amapiano, has hit the Spotify scene like a he...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: spotify today announced9 its annual loud clear report revealing that south afric  
-   Link: [https://www.facebook.com/officialandile/posts/spotify-today-announced9-its-annual-loud-clear-report-revealing-that-south-afric/1315805810651475/](https://www.facebook.com/officialandile/posts/spotify-today-announced9-its-annual-loud-clear-report-revealing-that-south-afric/1315805810651475/)  
+   Link: <a href="https://www.facebook.com/officialandile/posts/spotify-today-announced9-its-annual-loud-clear-report-revealing-that-south-afric/1315805810651475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialandile/posts/spotify-today-announced9-its-annual-loud-clear-report-revealing-that-south-afric/1315805810651475/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify today announced9 its annual Loud &amp; Clear report...13 May 2026 — Spotify today announced9 its annual Loud &amp; Clear report, reveali...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: gq.co.za  
-   Link: [https://gq.co.za/culture/2026-05-15-spotifys-loud-clear-2025-report-reveals-explosive-growth-in-south-african-music/](https://gq.co.za/culture/2026-05-15-spotifys-loud-clear-2025-report-reveals-explosive-growth-in-south-african-music/)  
+   Link: <a href="https://gq.co.za/culture/2026-05-15-spotifys-loud-clear-2025-report-reveals-explosive-growth-in-south-african-music/" target="_blank" rel="noopener noreferrer nofollow">https://gq.co.za/culture/2026-05-15-spotifys-loud-clear-2025-report-reveals-explosive-growth-in-south-african-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Loud &amp; Clear 2025 report reveals explosive...15 May 2026 — In 2025, nearly three-quarters (74%) of royalties earned by local a...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: chartlex.com  
-   Link: [https://www.chartlex.com/streaming/amapiano?srsltid=AfmBOoqdwEoEqCti92e-CNgW6Q2IrCm1KJY_Pv3VDtaWANXGbncLIpdZ](https://www.chartlex.com/streaming/amapiano?srsltid=AfmBOoqdwEoEqCti92e-CNgW6Q2IrCm1KJY_Pv3VDtaWANXGbncLIpdZ)  
+   Link: <a href="https://www.chartlex.com/streaming/amapiano?srsltid=AfmBOoqdwEoEqCti92e-CNgW6Q2IrCm1KJY_Pv3VDtaWANXGbncLIpdZ" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/streaming/amapiano?srsltid=AfmBOoqdwEoEqCti92e-CNgW6Q2IrCm1KJY_Pv3VDtaWANXGbncLIpdZ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Growth for Amapiano Artists (2026) - Streaming55% of streams now come from outside Africa, confirming genuine global crossover...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: tickyboxmedia.co.za  
-   Link: [https://www.tickyboxmedia.co.za/prominent-dj-and-tiktok-superstar-jashmir-remixes-sinani-in-amapiano-style-a-tribute-to-unity-and-south-african-spirit/](https://www.tickyboxmedia.co.za/prominent-dj-and-tiktok-superstar-jashmir-remixes-sinani-in-amapiano-style-a-tribute-to-unity-and-south-african-spirit/)  
+   Link: <a href="https://www.tickyboxmedia.co.za/prominent-dj-and-tiktok-superstar-jashmir-remixes-sinani-in-amapiano-style-a-tribute-to-unity-and-south-african-spirit/" target="_blank" rel="noopener noreferrer nofollow">https://www.tickyboxmedia.co.za/prominent-dj-and-tiktok-superstar-jashmir-remixes-sinani-in-amapiano-style-a-tribute-to-unity-and-south-african-spirit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DJ Producer Jashmir Remixes &#x27;Sinani&#x27; Bokke song...This remix infuses the song&#x27;s spirit of unity with a fresh, dynamic Amapiano beat, amp...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SAMROSouthAfrica/posts/did-you-knowamapiano-a-south-african-music-genre-achieved-14-billion-streams-on-/874888038006542/](https://www.facebook.com/SAMROSouthAfrica/posts/did-you-knowamapiano-a-south-african-music-genre-achieved-14-billion-streams-on-/874888038006542/)  
+   Link: <a href="https://www.facebook.com/SAMROSouthAfrica/posts/did-you-knowamapiano-a-south-african-music-genre-achieved-14-billion-streams-on-/874888038006542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SAMROSouthAfrica/posts/did-you-knowamapiano-a-south-african-music-genre-achieved-14-billion-streams-on-/874888038006542/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DID YOU KNOW? Amapiano, a South African music genre...DID YOU KNOW? Amapiano, a South African music genre, achieved 1.4 billion streams...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/witsuniversity/posts/from-the-streets-of-gauteng-to-global-stages-amapiano-has-turned-south-africas-r/1273771464779584/](https://www.facebook.com/witsuniversity/posts/from-the-streets-of-gauteng-to-global-stages-amapiano-has-turned-south-africas-r/1273771464779584/)  
+   Link: <a href="https://www.facebook.com/witsuniversity/posts/from-the-streets-of-gauteng-to-global-stages-amapiano-has-turned-south-africas-r/1273771464779584/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/witsuniversity/posts/from-the-streets-of-gauteng-to-global-stages-amapiano-has-turned-south-africas-r/1273771464779584/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stering cross-cultural collaborations, has surged in popularity...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: samro.org.za  
-   Link: [https://www.samro.org.za/news/the-global-influence-of-amapiano-music-turns-the-spotlight-on-south-african-youth](https://www.samro.org.za/news/the-global-influence-of-amapiano-music-turns-the-spotlight-on-south-african-youth)  
+   Link: <a href="https://www.samro.org.za/news/the-global-influence-of-amapiano-music-turns-the-spotlight-on-south-african-youth" target="_blank" rel="noopener noreferrer nofollow">https://www.samro.org.za/news/the-global-influence-of-amapiano-music-turns-the-spotlight-on-south-african-youth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since its inception as an underground sound, Amapiano music...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: From South Africa to London  
-   Link: [https://www.facebook.com/Channel4News/posts/from-south-africa-to-london-meet-the-djs-introducing-the-uk-to-amapiano/10159029859221939/](https://www.facebook.com/Channel4News/posts/from-south-africa-to-london-meet-the-djs-introducing-the-uk-to-amapiano/10159029859221939/)  
+   Link: <a href="https://www.facebook.com/Channel4News/posts/from-south-africa-to-london-meet-the-djs-introducing-the-uk-to-amapiano/10159029859221939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/from-south-africa-to-london-meet-the-djs-introducing-the-uk-to-amapiano/10159029859221939/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meet the DJs introducing...Amapiano is a relatively new genre of music. The style dance that goes along with amapiano is known as amapia...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dMmclkM7mUQ](https://www.youtube.com/watch?v=dMmclkM7mUQ)  
+   Link: <a href="https://www.youtube.com/watch?v=dMmclkM7mUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dMmclkM7mUQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>groove, patience, and movement. How dance culture helped spread the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2008.13040](https://arxiv.org/abs/2008.13040)  
+   Link: <a href="https://arxiv.org/abs/2008.13040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.13040</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Rise of Amapiano: How the South African Sound Conquered the World  
-   Link: [https://www.youtube.com/watch?v=Fj-yO2G_d0s](https://www.youtube.com/watch?v=Fj-yO2G_d0s)  
+   Link: <a href="https://www.youtube.com/watch?v=Fj-yO2G_d0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj-yO2G_d0s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Amapiano: The Genre Changing Global Dance Music...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
    Title: DYUOTa MDH f  
-   Link: [https://www.instagram.com/p/DYUOTaMDH_f/](https://www.instagram.com/p/DYUOTaMDH_f/)  
+   Link: <a href="https://www.instagram.com/p/DYUOTaMDH_f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYUOTaMDH_f/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South African artists are cashing in big as Spotify reveals...In 2025, South African artists nearly doubled their Spotify earnings, driv...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
    Title: DYobyek Kyzv  
-   Link: [https://www.instagram.com/reel/DYobyekKyzv/](https://www.instagram.com/reel/DYobyekKyzv/)  
+   Link: <a href="https://www.instagram.com/reel/DYobyekKyzv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYobyekKyzv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Had an incredible and insightful time in South Africa...South African artists have generated over 504 million on Spotify in 2025. Well S...</p></details>

@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - physical
 keywords:
-- music
+- music-3-a01-be
 - physical
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: CDs, records and deluxe editions turn music into an object fans can display, collect, gift and keep.
 hero_summary: CDs, records and deluxe editions turn music into an object fans can display, collect, gift and keep.
 layout: default
 permalink: /physical/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Physical
 title: Why Fans Still Want Music Objects
-title_full: Why Fans Still Want Music Objects | Music
+title_full: Why Fans Still Want Music Objects
 display_title_short: Physical
 display_title: Physical
 heading_title: Why Fans Still Want Music Objects
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 next_link:
   basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
-date: '2026-06-09 06:23:07 '
+date: '2026-06-11 23:12:29 '
 header:
   og_image: /assets/images/music_3a01be_physical_music_owner_d1771a-overview-social.jpg
   preview_image: /assets/images/music_3a01be_physical_music_owner_d1771a-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/music_3a01be_physical_music_owner_d1771a-overview-social.j
 
 Physical formats build fan [ownership]({{ 'ownership/' | relative_url }}) by turning music from an invisible service into a thing with weight, artwork, [scarcity]({{ 'scarcity/' | relative_url }}), ritual and social meaning. A stream gives access; a record, CD, cassette or deluxe box set gives the fan something to hold, display, lend, gift, queue for, protect and remember. That difference matters because modern music fandom is not only about hearing songs. It is also about signalling loyalty, marking life moments, supporting artists and building a visible personal archive.
 
-
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-overview.webp" | relative_url }}" alt="Overview image for Physical" loading="eager" decoding="sync" fetchpriority="high">
-This is why physical [formats]({{ 'formats/' | relative_url }}) persist even when streaming dominates everyday listening. In 2025, IFPI reported that global recorded [music]({{ 'music/' | relative_url }}) revenues reached US$31.7 billion, with streaming still the largest engine, but physical formats rebounding by 8.0% and vinyl revenue growing by 13.7%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2026 SOTI</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORTPhysical formats rebounded in 2025, with revenue growth of 8.0%, compared to a weaker performance in 2024 when phy...</span></span></span> In the UK, BPI reported that streaming made up 67.7% of recorded music revenue in 2025, while physical music sales grew faster than streaming, led by a 19.9% rise in vinyl revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpi.co.uk">[BPI Membership Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpi.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The point is not that physical music is replacing streaming. It is that physical formats do a different job: they make fandom feel owned.
+This is why physical [formats]({{ 'formats/' | relative_url }}) persist even when streaming dominates everyday listening. In 2025, IFPI reported that global recorded music revenues reached US$31.7 billion, with streaming still the largest engine, but physical formats rebounding by 8.0% and [vinyl]({{ 'vinyl/' | relative_url }}) revenue growing by 13.7%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2026 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORTPhysical formats rebounded in 2025, with revenue growth of 8.0%, compared to a weaker performance in 2024 when phy...</span></span></span> In the UK, BPI reported that streaming made up 67.7% of recorded music revenue in 2025, while physical music sales grew faster than streaming, led by a 19.9% rise in vinyl revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpi.co.uk">[BPI Membership Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpi.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The point is not that physical music is replacing streaming. It is that physical formats do a different job: they make fandom feel owned.
 
 ## Why ownership still matters when access is easy
 
@@ -528,7 +527,6 @@ K-pop shows this mechanism in its most developed form. Modern K-pop albums often
 Western pop has moved in a similar direction through vinyl variants, exclusive covers and limited webstore editions. Taylor Swift’s album campaigns are the clearest mainstream example: collectible versions can make each format feel like a distinct object even when the core album is similar. In 2025, US vinyl revenue passed US$1 billion, and reporting linked part of that momentum to Swift’s strategy of selling multiple collectible editions to highly engaged fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">vinyl record sales us taylor swift</span><span class="citation-popover-snippet">Other top vinyl sellers included Sabrina Carpenter, Kendrick Lamar, and Billie Eilish, with classic albums like Fleetwood Mac&#x27;s &quot;Rumours&quot;...</span></span></span>
 
 The key is that packaging gives fans choices that feel personal. A listener may choose the blue vinyl because it matches the album mood, the signed CD because it feels closer to the artist, the cassette because it fits a retro aesthetic, or the deluxe box because it completes a collection. These choices allow fans to say, “This is my version of the album.”
-
 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-1-dark.svg" | relative_url }}" alt="Physical illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scarcity makes ownership feel earned
@@ -553,7 +551,6 @@ Music memorabilia research makes this broader than records alone. Work on popula
 
 This also explains why physical buying is closely linked to “superfan” behaviour. Luminate has reported that physical music buyers are more than twice as likely to be superfans, making artist stores and direct-to-consumer channels useful places to identify highly committed audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/why-are-super-fans-so-valuable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate Why are Super Fans so Valuable?</span><span class="citation-popover-snippet">Luminate Why are Super Fans so Valuable?</span></span></span> MIDiA has also projected that the broader music merchandise market, including physical music, physical merchandise and digital merchandise, could reach US$16.3 billion by 2030. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-charts-the-course-to-16b-by-2030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">MIDi A Research How big can music merch get? MIDi A&#x27;s latest report charts</span><span class="citation-popover-snippet">MIDi A Research How big can music merch get? MIDi A&#x27;s latest report charts</span></span></span> Physical formats matter in that ecosystem because they sit between music and merch: they are still albums, but they also behave like collectible fan goods.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LZpY2yB7ET4" title="Are CDs Becoming The Go-To Format For Music Fans and Collectors Again?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LZpY2yB7ET4" target="_blank" rel="noopener noreferrer">Are CDs Becoming The Go-To Format For Music Fans and Collectors Again?</a></p><p class="youtube-embed-meta">Channel: Now Spinning Magazine &middot; Views: 23.2K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LZpY2yB7ET4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LZpY2yB7ET4">Open on YouTube</a></p></div></div></div>
 
 ## CDs, vinyl and deluxe editions offer different kinds of ownership
@@ -569,7 +566,6 @@ Not all physical formats create ownership in the same way. Each format gives fan
 **Cassettes** occupy a smaller niche, but they are useful for artists and fans because they are cheap, compact and strongly aesthetic. They often work best as tour-table items, limited runs or retro collectibles rather than mainstream listening formats. Their value is less about audio superiority and more about intimacy, novelty and scene belonging.
 
 These differences mean that physical ownership is not one behaviour. A vinyl buyer, CD collector and deluxe-box completist may all love the same artist but express that attachment in different ways.
-
 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-2-dark.svg" | relative_url }}" alt="Physical illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gifting and keeping make music social
@@ -592,7 +588,6 @@ Physical formats also help artists create “eras”. A streaming release can be
 
 For independent artists, physical formats can be especially meaningful at the merchandise table. A vinyl pressing or CD run gives fans a direct way to support the artist and leave with a tangible reminder of the show. The object also extends the live event into the home: it is a souvenir, a listening medium and a display item at once.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KDeBX4YEliU" title="Music Fans Quit Streaming in Favour of Vinyl, CD, &amp; Digital Files?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KDeBX4YEliU" target="_blank" rel="noopener noreferrer">Music Fans Quit Streaming in Favour of Vinyl, CD, &amp; Digital Files?</a></p><p class="youtube-embed-meta">Channel: Sound Matters &middot; Views: 5.1K &middot; Uploaded: October 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KDeBX4YEliU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KDeBX4YEliU">Open on YouTube</a></p></div></div></div>
 
 ## The ownership model has real trade-offs
@@ -604,7 +599,6 @@ K-pop illustrates the sharpest version of this problem. Environmental groups and
 Vinyl variants raise a related concern. A few well-designed variants can let fans choose the edition that suits them. Dozens of variants can turn ownership into exhaustion, especially for younger fans or completists. Criticism from artists such as Billie Eilish shows that this is not only a fan complaint but an industry debate about sustainability, chart incentives and responsible release design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">vinyl record sales us taylor swift</span><span class="citation-popover-snippet">Other top vinyl sellers included Sabrina Carpenter, Kendrick Lamar, and Billie Eilish, with classic albums like Fleetwood Mac&#x27;s &quot;Rumours&quot;...</span></span></span>
 
 The healthiest version of physical fan ownership gives fans meaningful objects without making loyalty feel like a test. Better choices include durable packaging, transparent limited runs, recycled materials where possible, non-randomised collectible options, and editions that differ in genuinely useful ways rather than minor cosmetic changes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cXMRS-4k5Zs" title="Vinyl or CD in 2025 – Which Format Really Has The Edge?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cXMRS-4k5Zs" target="_blank" rel="noopener noreferrer">Vinyl or CD in 2025 – Which Format Really Has The Edge?</a></p><p class="youtube-embed-meta">Channel: Now Spinning Magazine &middot; Views: 9.4K &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cXMRS-4k5Zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cXMRS-4k5Zs">Open on YouTube</a></p></div></div></div>
 
@@ -620,7 +614,6 @@ A physical music object works best when the format adds meaning rather than mere
 The object does not need to be expensive to do this. A simple CD with thoughtful artwork can create stronger attachment than a costly deluxe edition padded with weak extras. A black vinyl pressing can feel more satisfying than a coloured variant if it is well made, fairly priced and tied to an album the fan truly loves.
 
 That is the heart of physical ownership in music. Fans still want music objects because objects do what streams cannot: they make devotion visible, memory durable and taste shareable. In a streaming-first world, the physical copy is no longer the default way to hear music. It is the chosen way to keep it.
-
 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-3-dark.svg" | relative_url }}" alt="Physical illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -741,15 +734,15 @@ That is the heart of physical ownership in music. Fans still want music objects 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adele 21 Album Cover Poster / Music Poster / Music Gift"><img src="{{ '/assets/images/marketplace-covers/f9e2bea5ed2b440a7f05.jpg' | relative_url }}" alt="Listing image for Adele 21 Album Cover Poster / Music Poster / Music Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Record Storage Rack Clear Acrylic Display Holds 60 LP Organizer Stand UK"><img src="https://i.ebayimg.com/images/g/EkMAAeSwZDlpcdii/s-l225.jpg" alt="Listing image for Vinyl Record Storage Rack Clear Acrylic Display Holds 60 LP Organizer Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Adele 21 Album Cover Poster / Music Poster / Music Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">Vinyl Record Storage Rack Clear Acrylic Display Holds 60 LP Organizer Stand UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -757,15 +750,15 @@ That is the heart of physical ownership in music. Fans still want music objects 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eminem Album Cover Poster Unframed A5 A4 A3 The Full Collection"><img src="{{ '/assets/images/marketplace-covers/b93c940daf9a0baa53b1.jpg' | relative_url }}" alt="Listing image for Eminem Album Cover Poster Unframed A5 A4 A3 The Full Collection" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12&quot; VINYL RECORD DISPLAY FRAME BLACK ~ INTERCHANGEABLE DISPLAY SYSTEM"><img src="https://i.ebayimg.com/images/g/3RAAAOSwdLZgw29X/s-l225.jpg" alt="Listing image for 12&quot; VINYL RECORD DISPLAY FRAME BLACK ~ INTERCHANGEABLE DISPLAY SYSTEM" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Eminem Album Cover Poster Unframed A5 A4 A3 The Full Collection</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">12&quot; VINYL RECORD DISPLAY FRAME BLACK ~ INTERCHANGEABLE DISPLAY SYSTEM</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -773,15 +766,15 @@ That is the heart of physical ownership in music. Fans still want music objects 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for nu metal album cover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9cb9bf4d550b5613d4a4.jpg' | relative_url }}" alt="Listing image for nu metal album cover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Record Feature Wall - Black LP Display Flip Frame - 4 Pack"><img src="https://i.ebayimg.com/images/g/TFMAAOSwYjRg5VBu/s-l225.jpg" alt="Listing image for Vinyl Record Feature Wall - Black LP Display Flip Frame - 4 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">nu metal album cover Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">Vinyl Record Feature Wall - Black LP Display Flip Frame - 4 Pack</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -789,15 +782,15 @@ That is the heart of physical ownership in music. Fans still want music objects 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Smiths Album Cover Poster / Full Collection / Unframed A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/16cc8e67ccf1c3592d2b.jpg' | relative_url }}" alt="Listing image for The Smiths Album Cover Poster / Full Collection / Unframed A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Now Playing Vinyl Record Stand LED, Vinyl Record Display Holder, Acrylic AlbumMR"><img src="https://i.ebayimg.com/images/g/wzsAAeSw77xqDIVY/s-l225.jpg" alt="Listing image for Now Playing Vinyl Record Stand LED, Vinyl Record Display Holder, Acrylic AlbumMR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Smiths Album Cover Poster / Full Collection / Unframed A5 A4 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">Now Playing Vinyl Record Stand LED, Vinyl Record Display Holder, Acrylic AlbumMR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -805,7 +798,7 @@ That is the heart of physical ownership in music. Fans still want music objects 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster -book -books" data-ebay-reference="physical-why-fans-still-want-music-objects-music-album-cover-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fans-still-want-music-objects-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-fans-still-want-music-objects-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1021,242 +1014,242 @@ That is the heart of physical ownership in music. Fans still want music objects 
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORTPhysical formats rebounded in 2025, with revenue growth of 8.0%, compared to a weaker performance in 2024 when phy...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORTPhysical formats rebounded in 2025, with revenue growth of 8.0%, compared to a weaker performance in 2024 when phy...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/](https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate The psychological meaning of personal record collections  
-   Link: [https://www.researchgate.net/publication/222342210_The_psychological_meaning_of_personal_record_collections_and_the_impact_of_changing_technological_forms](https://www.researchgate.net/publication/222342210_The_psychological_meaning_of_personal_record_collections_and_the_impact_of_changing_technological_forms)  
+   Link: <a href="https://www.researchgate.net/publication/222342210_The_psychological_meaning_of_personal_record_collections_and_the_impact_of_changing_technological_forms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222342210_The_psychological_meaning_of_personal_record_collections_and_the_impact_of_changing_technological_forms</a>  
 
 4. <a id="endnote-4"></a>
    Source: doras.dcu.ie  
    Title: Psychological ownership and music streaming  
-   Link: [https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf](https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf)  
+   Link: <a href="https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://doras.dcu.ie/24936/3/Psychological%20ownership%20and%20music%20streaming%202nd%20revisions.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: kontinentalist.com  
    Title: kpop physical album sales environmental impact  
-   Link: [https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact](https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact)  
+   Link: <a href="https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact" target="_blank" rel="noopener noreferrer nofollow">https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact</a>  
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States](https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States)  
+   Link: <a href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: K-pop's profligate CD output draws fire as South Korea hosts plastic waste talks  
-   Link: [https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/](https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/)  
+   Link: <a href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/</a>  
 
 8. <a id="endnote-8"></a>
    Source: people.southwestern.edu  
    Title: University Popular Music and Materiality: Memorabilia and Memory  
-   Link: [https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf](https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf)  
+   Link: <a href="https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.southwestern.edu/~bednarb/vmc/articles/bennett-rogers.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
    Title: Linked In Streaming dominates music revenue, vinyl sales grow  
-   Link: [https://www.linkedin.com/posts/claytondurant_the-[recording](https://www.linkedin.com/posts/claytondurant_the-[recording)  
+   Link: <a href="https://www.linkedin.com/posts/claytondurant_the-[recording" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claytondurant_the-[recording</a>  
 
 10. <a id="endnote-10"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: [https://gmr.ifpi.org/about-report](https://gmr.ifpi.org/about-report)  
+   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
 
 12. <a id="endnote-12"></a>
    Source: riaa.com  
    Title: RIAA 2024Year End Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/u-s-sales-database/](https://www.riaa.com/u-s-sales-database/)  
+   Link: <a href="https://www.riaa.com/u-s-sales-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/u-s-sales-database/</a>  
 
 14. <a id="endnote-14"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/](https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
 
 15. <a id="endnote-15"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/](https://www.riaa.com/reports/)  
+   Link: <a href="https://www.riaa.com/reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/</a>  
 
 16. <a id="endnote-16"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/</a>  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/309742922_Sonic_Artefacts_Record_Collecting_in_the_Digital_Age](https://www.researchgate.net/publication/309742922_Sonic_Artefacts_Record_Collecting_in_the_Digital_Age)  
+   Link: <a href="https://www.researchgate.net/publication/309742922_Sonic_Artefacts_Record_Collecting_in_the_Digital_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309742922_Sonic_Artefacts_Record_Collecting_in_the_Digital_Age</a>  
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/new-industry-focus_the-us-music-industry-generated-1154bn-activity-7439704424240984064-YDyK](https://www.linkedin.com/posts/new-industry-focus_the-us-music-industry-generated-1154bn-activity-7439704424240984064-YDyK)  
+   Link: <a href="https://www.linkedin.com/posts/new-industry-focus_the-us-music-industry-generated-1154bn-activity-7439704424240984064-YDyK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/new-industry-focus_the-us-music-industry-generated-1154bn-activity-7439704424240984064-YDyK</a>  
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
    Title: 10 takeaways from luminates year end 2024 music report clyde minyem eqxce  
-   Link: [https://www.linkedin.com/pulse/10-takeaways-from-luminates-year-end-2024-music-report-clyde-minyem-eqxce](https://www.linkedin.com/pulse/10-takeaways-from-luminates-year-end-2024-music-report-clyde-minyem-eqxce)  
+   Link: <a href="https://www.linkedin.com/pulse/10-takeaways-from-luminates-year-end-2024-music-report-clyde-minyem-eqxce" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/10-takeaways-from-luminates-year-end-2024-music-report-clyde-minyem-eqxce</a>  
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ifpi_the-past-year-has-seen-a-continuation-of-activity-7300911610586423297-IJPK](https://www.linkedin.com/posts/ifpi_the-past-year-has-seen-a-continuation-of-activity-7300911610586423297-IJPK)  
+   Link: <a href="https://www.linkedin.com/posts/ifpi_the-past-year-has-seen-a-continuation-of-activity-7300911610586423297-IJPK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ifpi_the-past-year-has-seen-a-continuation-of-activity-7300911610586423297-IJPK</a>  
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/britishphonographicindustry_vinyl-sales-are-still-growing-in-2025-activity-7415361737170022400-RA_j](https://www.linkedin.com/posts/britishphonographicindustry_vinyl-sales-are-still-growing-in-2025-activity-7415361737170022400-RA_j)  
+   Link: <a href="https://www.linkedin.com/posts/britishphonographicindustry_vinyl-sales-are-still-growing-in-2025-activity-7415361737170022400-RA_j" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/britishphonographicindustry_vinyl-sales-are-still-growing-in-2025-activity-7415361737170022400-RA_j</a>  
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
    Title: state physical music 2025 vinyl cds message record labels phil aston fi8oe  
-   Link: [https://www.linkedin.com/pulse/state-physical-music-2025-vinyl-cds-message-record-labels-phil-aston-fi8oe](https://www.linkedin.com/pulse/state-physical-music-2025-vinyl-cds-message-record-labels-phil-aston-fi8oe)  
+   Link: <a href="https://www.linkedin.com/pulse/state-physical-music-2025-vinyl-cds-message-record-labels-phil-aston-fi8oe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/state-physical-music-2025-vinyl-cds-message-record-labels-phil-aston-fi8oe</a>  
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-riff/do-physical-media-collectors-make-more-serious-music-fans-2cd472b79032](https://medium.com/the-riff/do-physical-media-collectors-make-more-serious-music-fans-2cd472b79032)  
+   Link: <a href="https://medium.com/the-riff/do-physical-media-collectors-make-more-serious-music-fans-2cd472b79032" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-riff/do-physical-media-collectors-make-more-serious-music-fans-2cd472b79032</a>  
 
 24. <a id="endnote-24"></a>
    Source: bpi.co.uk  
-   Link: [https://www.bpi.co.uk/news/13097053](https://www.bpi.co.uk/news/13097053)  
+   Link: <a href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/news/13097053</a>  
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
    Title: vinyl record sales us taylor swift  
-   Link: [https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift](https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift)  
+   Link: <a href="https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Other top vinyl sellers included Sabrina Carpenter, Kendrick Lamar, and Billie Eilish, with classic albums like Fleetwood Mac&#x27;s &quot;Rumours&quot;...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: recordstoreday.co.uk  
-   Link: [https://www.recordstoreday.co.uk/](https://www.recordstoreday.co.uk/)  
+   Link: <a href="https://www.recordstoreday.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.recordstoreday.co.uk/</a>  
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is](https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is)  
+   Link: <a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
 
 28. <a id="endnote-28"></a>
    Source: luminatedata.com  
    Title: Luminate Why are Super Fans so Valuable?  
-   Link: [https://luminatedata.com/blog/why-are-super-fans-so-valuable/](https://luminatedata.com/blog/why-are-super-fans-so-valuable/)  
+   Link: <a href="https://luminatedata.com/blog/why-are-super-fans-so-valuable/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/why-are-super-fans-so-valuable/</a>  
 
 29. <a id="endnote-29"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research How big can music merch get? MIDi A's latest report [charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;)  
-   Link: [https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-charts-the-course-to-16b-by-2030](https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-charts-the-course-to-16b-by-2030)  
+   Link: <a href="https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-charts-the-course-to-16b-by-2030" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-charts-the-course-to-16b-by-2030</a>  
 
 30. <a id="endnote-30"></a>
    Source: luminatedata.com  
    Title: taylor swift wasnt the only winner of physical sales in 2025  
-   Link: [https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/](https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/)  
+   Link: <a href="https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/</a>  
 
 31. <a id="endnote-31"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/dec/23/cd-compact-disc-christmas-shopping-lists-gen-z-embrace-retro-renaissance](https://www.theguardian.com/business/2025/dec/23/cd-compact-disc-christmas-shopping-lists-gen-z-embrace-retro-renaissance)  
+   Link: <a href="https://www.theguardian.com/business/2025/dec/23/cd-compact-disc-christmas-shopping-lists-gen-z-embrace-retro-renaissance" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/dec/23/cd-compact-disc-christmas-shopping-lists-gen-z-embrace-retro-renaissance</a>  
 
 32. <a id="endnote-32"></a>
    Source: bpi.co.uk  
-   Link: [https://www.bpi.co.uk/news/12963051](https://www.bpi.co.uk/news/12963051)  
+   Link: <a href="https://www.bpi.co.uk/news/12963051" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/news/12963051</a>  
 
 33. <a id="endnote-33"></a>
    Source: energytracker.asia  
    Title: Energy Tracker Asia K-pop Fans Urge K-pop Giant HYBE to Address Plastic  
-   Link: [https://energytracker.asia/k-pop-fans-urge-k-pop-giant-hybe-to-address-plastic-album-pollution-ahead-of-the-uns-5th-plastic-treaty-talks-in-south-korea/](https://energytracker.asia/k-pop-fans-urge-k-pop-giant-hybe-to-address-plastic-album-pollution-ahead-of-the-uns-5th-plastic-treaty-talks-in-south-korea/)  
+   Link: <a href="https://energytracker.asia/k-pop-fans-urge-k-pop-giant-hybe-to-address-plastic-album-pollution-ahead-of-the-uns-5th-plastic-treaty-talks-in-south-korea/" target="_blank" rel="noopener noreferrer nofollow">https://energytracker.asia/k-pop-fans-urge-k-pop-giant-hybe-to-address-plastic-album-pollution-ahead-of-the-uns-5th-plastic-treaty-talks-in-south-korea/</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/](https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/</a>  
 
 35. <a id="endnote-35"></a>
    Source: billboard.com  
    Title: luminate 2024 year end music report taylor swift shaboozey teddy swims  
-   Link: [https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/](https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/)  
+   Link: <a href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/</a>  
 
 36. <a id="endnote-36"></a>
    Source: homoludens-climatecrisis.org  
    Title: kpop 4 planet 지구를 위한 빠순이들의 역습  
-   Link: [https://homoludens-climatecrisis.org/en/blog/2025/02/25/kpop-4-planet-%EC%A7%80%EA%B5%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B9%A0%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%98-%EC%97%AD%EC%8A%B5/](https://homoludens-climatecrisis.org/en/blog/2025/02/25/kpop-4-planet-%EC%A7%80%EA%B5%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B9%A0%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%98-%EC%97%AD%EC%8A%B5/)  
+   Link: <a href="https://homoludens-climatecrisis.org/en/blog/2025/02/25/kpop-4-planet-%EC%A7%80%EA%B5%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B9%A0%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%98-%EC%97%AD%EC%8A%B5/" target="_blank" rel="noopener noreferrer nofollow">https://homoludens-climatecrisis.org/en/blog/2025/02/25/kpop-4-planet-%EC%A7%80%EA%B5%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B9%A0%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%98-%EC%97%AD%EC%8A%B5/</a>  
 
 37. <a id="endnote-37"></a>
    Source: luminatedata.com  
    Title: yearend music industry report 2024  
-   Link: [https://luminatedata.com/reports/yearend-music-industry-report-2024/](https://luminatedata.com/reports/yearend-music-industry-report-2024/)  
+   Link: <a href="https://luminatedata.com/reports/yearend-music-industry-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/yearend-music-industry-report-2024/</a>  
 
 38. <a id="endnote-38"></a>
    Source: luminatedata.com  
    Title: supercharge your super fan strategy  
-   Link: [https://luminatedata.com/blog/supercharge-your-super-fan-strategy/](https://luminatedata.com/blog/supercharge-your-super-fan-strategy/)  
+   Link: <a href="https://luminatedata.com/blog/supercharge-your-super-fan-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/supercharge-your-super-fan-strategy/</a>  
 
 39. <a id="endnote-39"></a>
    Source: theguardian.com  
    Title: oasis reunion taylor swift vinyl uk music industry albums 2025  
-   Link: [https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025](https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025)  
+   Link: <a href="https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025</a>  
 
 40. <a id="endnote-40"></a>
    Source: bendingsound.co.uk  
    Title: Record Store Day  
-   Link: [https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOooHD8-L4R6nRY2LwGRlkobvAsUeEwPKzQjHwWdRA60hsfMp6KS8](https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOooHD8-L4R6nRY2LwGRlkobvAsUeEwPKzQjHwWdRA60hsfMp6KS8)  
+   Link: <a href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOooHD8-L4R6nRY2LwGRlkobvAsUeEwPKzQjHwWdRA60hsfMp6KS8" target="_blank" rel="noopener noreferrer nofollow">https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOooHD8-L4R6nRY2LwGRlkobvAsUeEwPKzQjHwWdRA60hsfMp6KS8</a>  
 
 41. <a id="endnote-41"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om137969/luminate-reports-a-continued-cooling-in-global-and-us-audio-streaming-consumption-rates](https://omdia.tech.informa.com/om137969/luminate-reports-a-continued-cooling-in-global-and-us-audio-streaming-consumption-rates)  
+   Link: <a href="https://omdia.tech.informa.com/om137969/luminate-reports-a-continued-cooling-in-global-and-us-audio-streaming-consumption-rates" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om137969/luminate-reports-a-continued-cooling-in-global-and-us-audio-streaming-consumption-rates</a>  
 
 42. <a id="endnote-42"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: [https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024](https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024)  
+   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
 
 43. <a id="endnote-43"></a>
    Source: recordoftheday.com  
-   Link: [https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets](https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets)  
+   Link: <a href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: wegetartists.com  
-   Link: [https://wegetartists.com/15-of-the-general-population-in-the-us-are-superfans-heres-what-that-means-for-the-music-business/](https://wegetartists.com/15-of-the-general-population-in-the-us-are-superfans-heres-what-that-means-for-the-music-business/)  
+   Link: <a href="https://wegetartists.com/15-of-the-general-population-in-the-us-are-superfans-heres-what-that-means-for-the-music-business/" target="_blank" rel="noopener noreferrer nofollow">https://wegetartists.com/15-of-the-general-population-in-the-us-are-superfans-heres-what-that-means-for-the-music-business/</a>  
 
 45. <a id="endnote-45"></a>
    Source: yougov.com  
-   Link: [https://yougov.com/en-us/articles/46722-an-insight-into-physical-music-buyers-understanding-the-american-market-for-cds-and-vinyl](https://yougov.com/en-us/articles/46722-an-insight-into-physical-music-buyers-understanding-the-american-market-for-cds-and-vinyl)  
+   Link: <a href="https://yougov.com/en-us/articles/46722-an-insight-into-physical-music-buyers-understanding-the-american-market-for-cds-and-vinyl" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/articles/46722-an-insight-into-physical-music-buyers-understanding-the-american-market-for-cds-and-vinyl</a>  
 
 46. <a id="endnote-46"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYm1cz5nPeT/](https://www.instagram.com/p/DYm1cz5nPeT/)  
+   Link: <a href="https://www.instagram.com/p/DYm1cz5nPeT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYm1cz5nPeT/</a>  
 
 47. <a id="endnote-47"></a>
    Source: bpi.co.uk  
-   Link: [https://www.bpi.co.uk/page/data-and-insight](https://www.bpi.co.uk/page/data-and-insight)  
+   Link: <a href="https://www.bpi.co.uk/page/data-and-insight" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/page/data-and-insight</a>  
 
 48. <a id="endnote-48"></a>
    Source: eraltd.org  
-   Link: [https://www.eraltd.org/](https://www.eraltd.org/)  
+   Link: <a href="https://www.eraltd.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.eraltd.org/</a>  
 
 49. <a id="endnote-49"></a>
    Source: noctismag.com  
-   Link: [https://noctismag.com/music/how-vinyl-collecting-became-a-lifestyle-trend/](https://noctismag.com/music/how-vinyl-collecting-became-a-lifestyle-trend/)  
+   Link: <a href="https://noctismag.com/music/how-vinyl-collecting-became-a-lifestyle-trend/" target="_blank" rel="noopener noreferrer nofollow">https://noctismag.com/music/how-vinyl-collecting-became-a-lifestyle-trend/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cdbaby/posts/how-many-physical-albums-have-you-recently-added-to-your-collectionsteaming-musi/1418759323628514/](https://www.facebook.com/cdbaby/posts/how-many-physical-albums-have-you-recently-added-to-your-collectionsteaming-musi/1418759323628514/)  
+   Link: <a href="https://www.facebook.com/cdbaby/posts/how-many-physical-albums-have-you-recently-added-to-your-collectionsteaming-musi/1418759323628514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cdbaby/posts/how-many-physical-albums-have-you-recently-added-to-your-collectionsteaming-musi/1418759323628514/</a>  
 
 51. <a id="endnote-51"></a>
    Source: informationr.net  
-   Link: [https://informationr.net/ir/19-4/paper652.html](https://informationr.net/ir/19-4/paper652.html)  
+   Link: <a href="https://informationr.net/ir/19-4/paper652.html" target="_blank" rel="noopener noreferrer nofollow">https://informationr.net/ir/19-4/paper652.html</a>  
 
 52. <a id="endnote-52"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Music/comments/170u9ty/is_music_fandom_about_collection/](https://www.reddit.com/r/Music/comments/170u9ty/is_music_fandom_about_collection/)  
+   Link: <a href="https://www.reddit.com/r/Music/comments/170u9ty/is_music_fandom_about_collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/170u9ty/is_music_fandom_about_collection/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jamiecullum/posts/the-song-society-playlist-will-soon-be-available-exclusively-at-indie-record-sho/1497219471760621/?locale=de_DE](https://www.facebook.com/jamiecullum/posts/the-song-society-playlist-will-soon-be-available-exclusively-at-indie-record-sho/1497219471760621/?locale=de_DE)  
+   Link: <a href="https://www.facebook.com/jamiecullum/posts/the-song-society-playlist-will-soon-be-available-exclusively-at-indie-record-sho/1497219471760621/?locale=de_DE" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jamiecullum/posts/the-song-society-playlist-will-soon-be-available-exclusively-at-indie-record-sho/1497219471760621/?locale=de_DE</a>

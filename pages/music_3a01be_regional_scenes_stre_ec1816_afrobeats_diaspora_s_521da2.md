@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a
 - music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e
 tags:
-- music
+- music-3-a01-be
 - regional-scenes
 - afrobeats
 keywords:
-- music
+- music-3-a01-be
 - regional-scenes
 - afrobeats
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Afrobeats travelled faster when diaspora clubs, fan sharing and platform data turned local popularity into visible global demand.
 hero_summary: Afrobeats travelled faster when diaspora clubs, fan sharing and platform data turned local popularity into visible global demand.
 layout: default
 permalink: /afrobeats-01714f/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /regional-scenes/
 nav_short_title: Afrobeats
 title: How Afrobeats Turned Diaspora Listening Into Reach
-title_full: How Afrobeats Turned Diaspora Listening Into Reach | Regional Scenes
+title_full: How Afrobeats Turned Diaspora Listening Into Reach
 display_title_short: Afrobeats
 display_title: Afrobeats
 heading_title: How Afrobeats Turned Diaspora Listening Into Reach
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Local Sounds Become Global | Music
+parent_title: How Local Sounds Become Global
 parent_permalink: /regional-scenes/
 parent_nav_short_title: Regional Scenes
 parent_heading_title: How Local Sounds Become Global
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Regional Mexican Music Crossed Borders Online
 up_link:
   basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -259,7 +259,7 @@ next_link:
   permalink: /amapiano/
   short_title: Amapiano
   heading_title: Why Amapiano Became A Global Dance Grammar
-date: '2026-06-09 07:45:39 '
+date: '2026-06-11 23:54:23 '
 header:
   og_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-1.webp
@@ -268,13 +268,12 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspor
 
 ## Introduction
 
-Afrobeats became a [global streaming]({{ 'global-plays/' | relative_url }}) force not simply because listeners everywhere suddenly discovered West African pop. The genre travelled through a specific mechanism: [diaspora]({{ 'diaspora/' | relative_url }}) communities created early audiences in cities outside Nigeria and Ghana, streaming platforms turned those audiences into measurable demand, and industry players used that data to justify larger investments in playlists, marketing, touring and collaborations. By the time Afrobeats appeared to be a worldwide phenomenon, much of the groundwork had already been laid in migrant communities, club circuits and online fan networks. The result was a feedback loop in which local enthusiasm became visible data, and visible data attracted even more listeners. Spotify reports that Afrobeats has accumulated more than 15 billion streams, while platform data also shows dramatic growth since the late 2010s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Is Putting the Spotlight on Afrobeats to Chart Its</span><span class="citation-popover-snippet">SpotifySpotify Is Putting the Spotlight on Afrobeats to Chart Its...October 19, 2023 — 19 Oct 2023 — With more than 15 billion streams (...</span><span class="citation-popover-meta">Published: October 19, 2023</span></span></span>
-
+Afrobeats became a global streaming force not simply because listeners everywhere suddenly discovered West African pop. The genre travelled through a specific mechanism: [diaspora]({{ 'diaspora/' | relative_url }}) communities created early audiences in cities outside Nigeria and Ghana, streaming platforms turned those audiences into measurable demand, and industry players used that data to justify larger investments in playlists, marketing, touring and collaborations. By the time Afrobeats appeared to be a worldwide phenomenon, much of the groundwork had already been laid in migrant communities, club circuits and online fan networks. The result was a feedback loop in which local enthusiasm became visible data, and visible data attracted even more listeners. Spotify reports that Afrobeats has accumulated more than 15 billion streams, while platform data also shows dramatic growth since the late 2010s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Is Putting the Spotlight on Afrobeats to Chart Its</span><span class="citation-popover-snippet">Spotify Is Putting the Spotlight on Afrobeats to Chart Its...October 19, 2023 — 19 Oct 2023 — With more than 15 billion streams (...</span><span class="citation-popover-meta">Published: October 19, 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-1-dark.svg" | relative_url }}" alt="Afrobeats illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Diaspora Cities Mattered Early
 
-Before global playlists highlighted Afrobeats, cities with large West African populations acted as testing grounds for international expansion. London in particular became a crucial bridge between West Africa and wider global [music]({{ 'music/' | relative_url }}) markets. The genre's production, promotion and consumption increasingly connected Lagos, Accra and London through family networks, migration patterns, student communities, DJs and promoters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Afrobeats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Before global playlists highlighted Afrobeats, cities with large West African populations acted as testing grounds for international expansion. London in particular became a crucial bridge between West Africa and wider global music markets. The genre's production, promotion and consumption increasingly connected Lagos, Accra and London through family networks, migration patterns, student communities, DJs and promoters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Afrobeats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Diaspora audiences performed several functions at once:
 
@@ -288,7 +287,6 @@ This mattered because streaming platforms do not only track where a song origina
 
 Diaspora communities also helped reduce the traditional barriers that regional music scenes often face. Instead of waiting for radio programmers or record distributors to take a risk, artists could reach audiences who already had cultural familiarity with the sound. Those listeners became early advocates who amplified music through social media, messaging apps and local nightlife networks.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-QM3GjVnRWU" title="Why Nigerians Made 60 Billion On Spotify From Afrobeats" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-QM3GjVnRWU" target="_blank" rel="noopener noreferrer">Why Nigerians Made 60 Billion On Spotify From Afrobeats</a></p><p class="youtube-embed-meta">Channel: NaTivi &middot; Views: 1.4K &middot; Uploaded: May 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-QM3GjVnRWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-QM3GjVnRWU">Open on YouTube</a></p></div></div></div>
 
 ## How Streams Became Proof of Demand
@@ -300,7 +298,6 @@ Between 2017 and 2022, Afrobeats streams on Spotify increased by roughly 550%, a
 Industry figures have explicitly described streaming metrics as a language through which the success of Afrobeats could be communicated internationally. Streaming data made it easier to demonstrate that audiences existed across multiple territories and that growth was not confined to West Africa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://restofworld.org/2024/spotify-afrobeats-go-global/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restofworld.org">[Rest of World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restofworld.org</span><span class="citation-popover-title">London, Paris, and Nairobi were top cities who listened to the genre</span><span class="citation-popover-snippet">Rest of WorldHow Spotify helped turn Afrobeats into a global phenomenonJanuary 15, 2024 — 15 Jan 2024 — Spotify streams of Afrobeats rose...</span><span class="citation-popover-meta">Published: January 15, 2024</span></span></span>
 
 The effect was cumulative:
-
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-2-dark.svg" | relative_url }}" alt="Afrobeats illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -320,7 +317,6 @@ This process helps explain why streaming growth often appeared to accelerate sud
 
 Streaming momentum alone does not create a cultural movement. Afrobeats expanded because digital discovery interacted with [physical]({{ 'physical/' | relative_url }}) and social spaces.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qOYiim5S2Zg" title="Afrobeats Podcast - Episode 9 (Wizkid &amp; Burna Boy Virtual Live Performance in UK) with Adesope Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qOYiim5S2Zg" target="_blank" rel="noopener noreferrer">Afrobeats Podcast - Episode 9 (Wizkid &amp; Burna Boy Virtual Live Performance in UK) with Adesope Live</a></p><p class="youtube-embed-meta">Channel: Afrobeats Podcast &middot; Views: 1.9K &middot; Uploaded: November 2020 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qOYiim5S2Zg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qOYiim5S2Zg">Open on YouTube</a></p></div></div></div>
 
 ### Playlists as Global Distribution
@@ -335,7 +331,6 @@ Nightlife remained critical even in the streaming era. Diaspora club nights allo
 
 A listener who first encountered an Afrobeats track at a London club could later stream it repeatedly, reinforcing the same platform data that labels and playlist editors monitored. The physical and digital ecosystems therefore strengthened one another rather than competing.
 
-
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-3-dark.svg" | relative_url }}" alt="Afrobeats illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Collaborations as Network Expansion
 
@@ -349,11 +344,9 @@ Importantly, these collaborations succeeded because substantial audiences alread
 
 Afrobeats illustrates how regional music scenes can use streaming to convert cultural connections into global visibility. Diaspora listeners provided the first large-scale international audience. Streaming platforms converted that audience into measurable demand. Playlists increased exposure, clubs sustained cultural relevance, and collaborations expanded reach into new listener groups.
 
-The key lesson is that streaming did not replace community networks. Instead, it made them legible. When diaspora audiences in places such as London and Paris repeatedly streamed Afrobeats, platforms could detect the trend, industry gatekeepers could verify it, and the genre gained [access]({{ 'access/' | relative_url }}) to larger stages. The global rise of Afrobeats therefore reflects not only the power of algorithms, but also the enduring influence of migrant communities whose listening habits turned local popularity into worldwide momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://restofworld.org/2024/spotify-afrobeats-go-global/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restofworld.org">[Rest of World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restofworld.org</span><span class="citation-popover-title">London, Paris, and Nairobi were top cities who listened to the genre</span><span class="citation-popover-snippet">Rest of WorldHow Spotify helped turn Afrobeats into a global phenomenonJanuary 15, 2024 — 15 Jan 2024 — Spotify streams of Afrobeats rose...</span><span class="citation-popover-meta">Published: January 15, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/afrobeats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">— AfrobeatsFrom Rema&#x27;s masked entrances to Asake&#x27;s bold fashion, discover how Afrobeats is not just a sound, but a global visual revoluti...</span></span></span>
-
+The key lesson is that streaming did not replace community networks. Instead, it made them legible. When diaspora audiences in places such as London and Paris repeatedly streamed Afrobeats, platforms could detect the trend, industry gatekeepers could verify it, and the genre gained [access]({{ 'access/' | relative_url }}) to larger stages. The global rise of Afrobeats therefore reflects not only the power of algorithms, but also the enduring influence of migrant communities whose listening habits turned local popularity into worldwide momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://restofworld.org/2024/spotify-afrobeats-go-global/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restofworld.org">[Rest of World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restofworld.org</span><span class="citation-popover-title">London, Paris, and Nairobi were top cities who listened to the genre</span><span class="citation-popover-snippet">Rest of WorldHow Spotify helped turn Afrobeats into a global phenomenonJanuary 15, 2024 — 15 Jan 2024 — Spotify streams of Afrobeats rose...</span><span class="citation-popover-meta">Published: January 15, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/afrobeats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">AfrobeatsFrom Rema&#x27;s masked entrances to Asake&#x27;s bold fashion, discover how Afrobeats is not just a sound, but a global visual revoluti...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bpKhPmtsRhM" title="How Afrobeats Took Over The World (The Untold Story)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bpKhPmtsRhM" target="_blank" rel="noopener noreferrer">How Afrobeats Took Over The World (The Untold Story)</a></p><p class="youtube-embed-meta">Channel: The Thumbs Up Show &middot; Views: 33 &middot; Uploaded: April 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bpKhPmtsRhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bpKhPmtsRhM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -472,15 +465,15 @@ The key lesson is that streaming did not replace community networks. Instead, it
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X SERIES @ ES PARADIS IBIZA 2023 - IBIZA CLUB POSTERS - DJ LATIN AFROBEATS"><img src="{{ '/assets/images/marketplace-covers/3965b20feed72581a8c5.jpg' | relative_url }}" alt="Listing image for X SERIES @ ES PARADIS IBIZA 2023 - IBIZA CLUB POSTERS - DJ LATIN AFROBEATS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Afrobeats Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/iu0AAeSwlfdorbyf/s-l225.jpg" alt="Listing image for Afrobeats Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">X SERIES @ ES PARADIS IBIZA 2023 - IBIZA CLUB POSTERS - DJ LATIN AFROBEATS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Afrobeats Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +481,15 @@ The key lesson is that streaming did not replace community networks. Instead, it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Afrobeats 2 Art Print Framed Wall A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f22b45aa0bd8d774f03a.jpg' | relative_url }}" alt="Listing image for Afrobeats 2 Art Print Framed Wall A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/BtcAAeSwcoRntIPr/s-l225.jpg" alt="Listing image for Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Afrobeats 2 Art Print Framed Wall A Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +497,15 @@ The key lesson is that streaming did not replace community networks. Instead, it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/4345266b344ffb551ca4.jpg' | relative_url }}" alt="Listing image for Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster-Fela Kuti (Ransome)- Afrobeats"><img src="https://i.ebayimg.com/images/g/woQAAOSwlt1krFLP/s-l225.jpg" alt="Listing image for Poster-Fela Kuti (Ransome)- Afrobeats" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Burna Boy - Celebrity Nigerian Singer - Afrobeats Music Star - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Poster-Fela Kuti (Ransome)- Afrobeats</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +513,15 @@ The key lesson is that streaming did not replace community networks. Instead, it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/858a942cedec3773f5a3.jpg' | relative_url }}" alt="Listing image for Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/kjIAAeSwtfhnyT2Z/s-l225.jpg" alt="Listing image for Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">Tems - Nigerian Singer - Afrobeats Music Star - Songwriter Fans - POSTER 20&quot;x30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for afrobeats poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: afrobeats poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,7 +529,7 @@ The key lesson is that streaming did not replace community networks. Instead, it
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="afrobeats-01714f-how-afrobeats-turned-diaspora-listening-into-reach-music-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=afrobeats+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="afrobeats poster" data-ebay-reference="how-afrobeats-turned-diaspora-listening-into-reach-afrobeats-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,109 +745,109 @@ The key lesson is that streaming did not replace community networks. Instead, it
 1. <a id="endnote-1"></a>
    Source: newsroom.spotify.com  
    Title: Is Putting the Spotlight on Afrobeats to Chart Its  
-   Link: [https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/](https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifySpotify Is Putting the Spotlight on Afrobeats to Chart Its...October 19, 2023 — 19 Oct 2023 — With more than 15 billion streams (...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-10-19/spotify-is-putting-the-spotlight-on-afrobeats-to-chart-its-global-rise/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Is Putting the Spotlight on Afrobeats to Chart Its...October 19, 2023 — 19 Oct 2023 — With more than 15 billion streams (...</p></details>
    Published: October 19, 2023  
 
 2. <a id="endnote-2"></a>
    Source: afrobeats.byspotify.com  
-   Link: [https://afrobeats.byspotify.com/](https://afrobeats.byspotify.com/)  
+   Link: <a href="https://afrobeats.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://afrobeats.byspotify.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s AfrobeatsOn Spotify, the genre has grown by more than 500% since 2017. This is the story of how Afrobeats evolved from its 90s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Afrobeats](https://en.wikipedia.org/wiki/Afrobeats)  
+   Link: <a href="https://en.wikipedia.org/wiki/Afrobeats" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afrobeats</a>  
 
 4. <a id="endnote-4"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/afrobeats/](https://newsroom.spotify.com/afrobeats/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>— AfrobeatsFrom Rema&#x27;s masked entrances to Asake&#x27;s bold fashion, discover how Afrobeats is not just a sound, but a global visual revoluti...</p></details>
+   Link: <a href="https://newsroom.spotify.com/afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/afrobeats/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AfrobeatsFrom Rema&#x27;s masked entrances to Asake&#x27;s bold fashion, discover how Afrobeats is not just a sound, but a global visual revoluti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: open.spotify.com  
    Title: 4gf QDVOh Aa PSe Bj J2N14H6  
-   Link: [https://open.spotify.com/playlist/4gfQDVOhAaPSeBjJ2N14H6](https://open.spotify.com/playlist/4gfQDVOhAaPSeBjJ2N14H6)  
+   Link: <a href="https://open.spotify.com/playlist/4gfQDVOhAaPSeBjJ2N14H6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/4gfQDVOhAaPSeBjJ2N14H6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Playlistfeaturing Burna Boy, Wizkid, Davido, Rema, Ayra Starr, Tems, Olamide, CKay, Omah Lay, Tiwa Savage, Tyla, Drake, Chris Brow...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: restofworld.org  
    Title: London, Paris, and Nairobi were top cities who listened to the genre  
-   Link: [https://restofworld.org/2024/spotify-afrobeats-go-global/](https://restofworld.org/2024/spotify-afrobeats-go-global/)  
+   Link: <a href="https://restofworld.org/2024/spotify-afrobeats-go-global/" target="_blank" rel="noopener noreferrer nofollow">https://restofworld.org/2024/spotify-afrobeats-go-global/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rest of WorldHow Spotify helped turn Afrobeats into a global phenomenonJanuary 15, 2024 — 15 Jan 2024 — Spotify streams of Afrobeats rose...</p></details>
    Published: January 15, 2024  
 
 7. <a id="endnote-7"></a>
    Source: thenativemag.com  
    Title: The NATIVE4 Takeaways from Spotify's new Afrobeats-Focused Website  
-   Link: [https://thenativemag.com/spotify-billion-streams-afrobeats/](https://thenativemag.com/spotify-billion-streams-afrobeats/)  
+   Link: <a href="https://thenativemag.com/spotify-billion-streams-afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://thenativemag.com/spotify-billion-streams-afrobeats/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2023 — 26 Jun 2023 — Spotify recently launched &#x27;Afrobeats: Journey of a Billion Streams&#x27;, a dedicated infotainment website that...</p></details>
    Published: June 26, 2023  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AfricanMusicplug1/posts/spotify-the-popular-digital-streaming-platform-has-recently-launched-a-new-proje/388668473707596/](https://www.facebook.com/AfricanMusicplug1/posts/spotify-the-popular-digital-streaming-platform-has-recently-launched-a-new-proje/388668473707596/)  
+   Link: <a href="https://www.facebook.com/AfricanMusicplug1/posts/spotify-the-popular-digital-streaming-platform-has-recently-launched-a-new-proje/388668473707596/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AfricanMusicplug1/posts/spotify-the-popular-digital-streaming-platform-has-recently-launched-a-new-proje/388668473707596/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify, the popular digital streaming platform, has recently...In just 2023, Afrobeats has been streamed for over 223 million hours and...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
    Title: DVg9e Po EUe B  
-   Link: [https://www.instagram.com/reel/DVg9ePoEUeB/](https://www.instagram.com/reel/DVg9ePoEUeB/)  
+   Link: <a href="https://www.instagram.com/reel/DVg9ePoEUeB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVg9ePoEUeB/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Africa has released a report detailing the most...Not from London, not from Atlanta, from Nigeria. OCR. In 2017, Afrobeats barel...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hmetrozimpapers/posts/afrobeats-has-swept-the-world-of-music-like-a-tsunami-it-dominates-playlists-and/749913304281706/](https://www.facebook.com/hmetrozimpapers/posts/afrobeats-has-swept-the-world-of-music-like-a-tsunami-it-dominates-playlists-and/749913304281706/)  
+   Link: <a href="https://www.facebook.com/hmetrozimpapers/posts/afrobeats-has-swept-the-world-of-music-like-a-tsunami-it-dominates-playlists-and/749913304281706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hmetrozimpapers/posts/afrobeats-has-swept-the-world-of-music-like-a-tsunami-it-dominates-playlists-and/749913304281706/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats has swept the world of music like a tsunamiArtists like Burna Boy, Wizkid, Tems, Rema, and Ayra Starr have turned the world&#x27;s s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: gq.com  
-   Link: [https://www.gq.com/story/wizkid-king-of-afropop](https://www.gq.com/story/wizkid-king-of-afropop)  
+   Link: <a href="https://www.gq.com/story/wizkid-king-of-afropop" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/wizkid-king-of-afropop</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From his early beginnings in Surulere, Lagos, growing up in a large family with a Muslim father and Christian mother, to his breakthrough...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/egg-strategy_how-spotify-helped-turn-afrobeats-into-a-activity-7158119169324982272-Zmv7](https://www.linkedin.com/posts/egg-strategy_how-spotify-helped-turn-afrobeats-into-a-activity-7158119169324982272-Zmv7)  
+   Link: <a href="https://www.linkedin.com/posts/egg-strategy_how-spotify-helped-turn-afrobeats-into-a-activity-7158119169324982272-Zmv7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/egg-strategy_how-spotify-helped-turn-afrobeats-into-a-activity-7158119169324982272-Zmv7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Spotify helped turn Afrobeats into a global phenomenon30 Jan 2024 — Afrobeats has become one of the most popular music genres globall...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: afrobeats is in an interesting place whether its the good kind of interesting or  
-   Link: [https://www.facebook.com/okayafrica/posts/afrobeats-is-in-an-interesting-place-whether-its-the-good-kind-of-interesting-or/1395170798639802/](https://www.facebook.com/okayafrica/posts/afrobeats-is-in-an-interesting-place-whether-its-the-good-kind-of-interesting-or/1395170798639802/)  
+   Link: <a href="https://www.facebook.com/okayafrica/posts/afrobeats-is-in-an-interesting-place-whether-its-the-good-kind-of-interesting-or/1395170798639802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/okayafrica/posts/afrobeats-is-in-an-interesting-place-whether-its-the-good-kind-of-interesting-or/1395170798639802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats is in an interesting place. Whether it&#x27;s the good...Afrobeat Music is making big impact worldwide since 2017 with 550% total S...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-QM3GjVnRWU](https://www.youtube.com/watch?v=-QM3GjVnRWU)  
+   Link: <a href="https://www.youtube.com/watch?v=-QM3GjVnRWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-QM3GjVnRWU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Nigerians Made 60 Billion On Spotify From AfrobeatsNigerian artists are cashing in on Spotify! Afrobeats and diverse genres are gener...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nigerianobservernews.com  
    Title: from millions to trillions the prospects for afrobeats are limitless  
-   Link: [https://nigerianobservernews.com/2025/03/from-millions-to-trillions-the-prospects-for-afrobeats-are-limitless/](https://nigerianobservernews.com/2025/03/from-millions-to-trillions-the-prospects-for-afrobeats-are-limitless/)  
+   Link: <a href="https://nigerianobservernews.com/2025/03/from-millions-to-trillions-the-prospects-for-afrobeats-are-limitless/" target="_blank" rel="noopener noreferrer nofollow">https://nigerianobservernews.com/2025/03/from-millions-to-trillions-the-prospects-for-afrobeats-are-limitless/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From millions to trillions: The prospects for Afrobeats are...16 Mar 2025 — The music genre was streamed over 13 billion times on the pl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blogs.lse.ac.uk  
    Title: nigeria to the world afrobeats having a global moment diaspora media  
-   Link: [https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/](https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/)  
+   Link: <a href="https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/africaatlse/2022/04/06/nigeria-to-the-world-afrobeats-having-a-global-moment-diaspora-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsFrom Nigeria to the world: Afrobeats is having a global...6 Apr 2022 — The musical genre Afrobeats is having a transnational mo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rostraeconomica.nl  
    Title: afrobeats unveiled the global ascent of afrobeats from lagos to the world  
-   Link: [https://www.rostraeconomica.nl/post/afrobeats-unveiled-the-global-ascent-of-afrobeats-from-lagos-to-the-world](https://www.rostraeconomica.nl/post/afrobeats-unveiled-the-global-ascent-of-afrobeats-from-lagos-to-the-world)  
+   Link: <a href="https://www.rostraeconomica.nl/post/afrobeats-unveiled-the-global-ascent-of-afrobeats-from-lagos-to-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.rostraeconomica.nl/post/afrobeats-unveiled-the-global-ascent-of-afrobeats-from-lagos-to-the-world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Between 2017 and 2022, according to Spotify on their platform Afrobeats streams increased by 550%. There has been a similar...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: omdia.tech.informa.com  
    Title: afrobeats and [amapiano](&#123;&#123; 'amapiano/' | relative_url &#125;&#125;) lead africas international music charge  
-   Link: [https://omdia.tech.informa.com/om121920/afrobeats-and-amapiano-lead-africas-international-music-charge](https://omdia.tech.informa.com/om121920/afrobeats-and-amapiano-lead-africas-international-music-charge)  
+   Link: <a href="https://omdia.tech.informa.com/om121920/afrobeats-and-amapiano-lead-africas-international-music-charge" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om121920/afrobeats-and-amapiano-lead-africas-international-music-charge</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and amapiano lead Africa&#x27;s international music charge3 Apr 2024 — Spotify reported that the number of afrobeats streams on its platform i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: (2 Billion to 13.5 Billion streams per year) #Djkaykang #  
-   Link: [https://www.facebook.com/100065260999751/posts/history-%EF%B8%8Fafrobeat-music-is-making-big-impact-worldwide-since-2017-with-550-total/653771353474892/](https://www.facebook.com/100065260999751/posts/history-%EF%B8%8Fafrobeat-music-is-making-big-impact-worldwide-since-2017-with-550-total/653771353474892/)  
+   Link: <a href="https://www.facebook.com/100065260999751/posts/history-%EF%B8%8Fafrobeat-music-is-making-big-impact-worldwide-since-2017-with-550-total/653771353474892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100065260999751/posts/history-%EF%B8%8Fafrobeat-music-is-making-big-impact-worldwide-since-2017-with-550-total/653771353474892/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History 🚨‼️ Afrobeat Music is making big impact...23 Jun 2023 — According to Spotify, Afrobeats streams consumption have gone up by 550%...</p></details>

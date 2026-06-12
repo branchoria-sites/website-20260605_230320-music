@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_catalogue_music_redi_46cae9_playlist_catalogue_u_4bd8d7
 - music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1
 tags:
-- music
+- music-3-a01-be
 - catalogue
 - tik-tok-hooks
 keywords:
-- music
+- music-3-a01-be
 - catalogue
 - tik-tok-hooks
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Short-form video can make a few seconds of an older song travel as a joke, dance, transition, mood, or identity signal.
 hero_summary: Short-form video can make a few seconds of an older song travel as a joke, dance, transition, mood, or identity signal.
 layout: default
 permalink: /tik-tok-hooks/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /catalogue/
 nav_short_title: Tik Tok Hooks
 title: Why old hooks spread through short clips
-title_full: Why old hooks spread through short clips | Catalogue
+title_full: Why old hooks spread through short clips
 display_title_short: Tik Tok Hooks
 display_title: Tik Tok Hooks
 heading_title: Why old hooks spread through short clips
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Old Songs Keep Coming Back | Music
+parent_title: Why Old Songs Keep Coming Back
 parent_permalink: /catalogue/
 parent_nav_short_title: Catalogue
 parent_heading_title: Why Old Songs Keep Coming Back
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why streaming makes old songs feel current
 up_link:
   basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
@@ -259,7 +259,7 @@ prev_link:
   permalink: /streaming-0007b3/
   short_title: Streaming
   heading_title: Why streaming makes old songs feel current
-date: '2026-06-09 07:22:02 '
+date: '2026-06-11 23:42:26 '
 header:
   og_image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_
 
 One reason [catalogue]({{ 'catalogue/' | relative_url }}) music keeps finding new listeners is that TikTok turns small fragments of old songs into social tools. A listener does not need to know an artist, album or release year to encounter a track. Instead, they meet a fifteen-second hook attached to a joke, a transition, a dance, a romantic confession, a nostalgic montage or a visual trend. The song arrives not as a historical [recording]({{ 'recording/' | relative_url }}) but as part of a social language.
 
-
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-1-dark.svg" | relative_url }}" alt="Tik Tok Hooks illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters because TikTok changes what a song fragment does. A memorable chorus, instrumental break or vocal phrase becomes a reusable cue that signals mood, identity or participation. In many cases, the clip spreads first and the artist's wider catalogue comes later. That process has helped older recordings gain millions of new listeners, often decades after their original release. Research, industry reporting and platform data all point to the same pattern: short-form video has become a major engine of catalogue [music]({{ 'music/' | relative_url }}) rediscovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — In this article I will explore the ways in which TikTo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deloitte.com">[Deloitte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deloitte.com</span><span class="citation-popover-title">ugc videos music discovery</span><span class="citation-popover-snippet">DeloitteUser-generated video content fuels music discovery and...22 July 2024 — Gen Zs and millennials rely on social media and UGC vide...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
+This shift matters because TikTok changes what a song fragment does. A memorable chorus, instrumental break or vocal phrase becomes a reusable cue that signals mood, identity or participation. In many cases, the clip spreads first and the artist's wider catalogue comes later. That process has helped older recordings gain millions of new listeners, often decades after their original release. Research, industry reporting and platform data all point to the same pattern: short-form video has become a major engine of catalogue music rediscovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — In this article I will explore the ways in which TikTo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deloitte.com">[Deloitte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deloitte.com</span><span class="citation-popover-title">ugc videos music discovery</span><span class="citation-popover-snippet">User-generated video content fuels music discovery and...22 July 2024 — Gen Zs and millennials rely on social media and UGC vide...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
 
 ## Why fragments matter more than full songs
 
@@ -284,9 +283,6 @@ Scholars examining TikTok's influence on music describe the platform as placing 
 
 This helps explain why catalogue songs are especially well suited to the platform. Older recordings often contain [hooks]({{ 'hooks/' | relative_url }}) that have already proved durable across decades. TikTok does not require listeners to invest in an entire album or artist narrative before engaging with those hooks. It simply places the strongest fragment into circulation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gdQAEEwgx1E" title="The TikTok Effect | How Social Media Is Reviving Rock Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gdQAEEwgx1E" target="_blank" rel="noopener noreferrer">The TikTok Effect | How Social Media Is Reviving Rock Music</a></p><p class="youtube-embed-meta">Channel: Rick Beato &middot; Views: 262.5K &middot; Uploaded: October 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gdQAEEwgx1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gdQAEEwgx1E">Open on YouTube</a></p></div></div></div>
-
 ## Back-catalogue tracks in TikTok trends
 
 The most famous example remains Fleetwood Mac's "Dreams". In 2020, Nathan Apodaca's skateboarding video transformed a 1977 song into a contemporary social object. Users were not discussing the history of *Rumours* or classic-rock canon. They were recreating a feeling: relaxed resilience, effortless cool and everyday optimism. The song became a cue that signalled participation in that mood. The resulting [attention]({{ 'attention/' | relative_url }}) drove major streaming increases and returned the track to [charts]({{ 'charts/' | relative_url }}) decades after release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/watch-mick-fleetwood-recreate-viral-fleetwood-mac-dreams-tiktok" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Watch Mick Fleetwood Recreate Viral Fleetwood Mac &quot;Dreams&quot; Tik Tok</span><span class="citation-popover-snippet">The band displayed their gratitude with a tweet, and Mick Fleetwood created a TikTok account to recreate Apodaca&#x27;s video. The document hi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">fleetwood mac dreams breaks streaming records after viral tiktok video</span><span class="citation-popover-snippet">Fleetwood Mac&#x27;s Dreams breaks streaming records after...6 Oct 2020 — The success of the clip has prompted 8.47m streams of Dreams in the...</span></span></span>
@@ -297,7 +293,6 @@ TikTok's own ecosystem increasingly reflects this phenomenon. Reporting on platf
 
 What makes these revivals distinctive is that users often discover songs through collective behaviour rather than deliberate music searching. The track is encountered because a trend, creator or format repeatedly uses it. Music discovery becomes embedded within social participation.
 
-
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-2-dark.svg" | relative_url }}" alt="Tik Tok Hooks illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a sound becomes a social signal
 
@@ -306,7 +301,6 @@ TikTok sounds spread because they carry meaning beyond the music itself.
 Once enough people use a clip in a similar way, the audio develops a shared cultural function. Hearing the first few seconds can tell viewers what kind of content is coming before they see the full video. The sound acts as a shortcut.
 
 Common functions include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -321,21 +315,19 @@ This process helps explain why many users encounter songs as social material bef
 
 Researchers studying music repopularisation on TikTok have found evidence that popularity on the platform can spill into broader online attention and search behaviour. In other words, the social life of a sound often precedes renewed interest in the song itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.01239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_eQQyQ_UEc0" title="Sync Licensing Trends That Will DOMINATE 2025!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_eQQyQ_UEc0" target="_blank" rel="noopener noreferrer">Sync Licensing Trends That Will DOMINATE 2025!</a></p><p class="youtube-embed-meta">Channel: xJ-Will</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_eQQyQ_UEc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_eQQyQ_UEc0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gdQAEEwgx1E" title="The TikTok Effect | How Social Media Is Reviving Rock Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gdQAEEwgx1E" target="_blank" rel="noopener noreferrer">The TikTok Effect | How Social Media Is Reviving Rock Music</a></p><p class="youtube-embed-meta">Channel: Rick Beato &middot; Views: 262.5K &middot; Uploaded: October 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gdQAEEwgx1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gdQAEEwgx1E">Open on YouTube</a></p></div></div></div>
 
 ## From viral sound to full-stream listening
 
 The key question for catalogue music is whether TikTok attention converts into deeper listening.
 
-In many cases, the answer is yes. The resurgence of "Dreams" demonstrated how a viral clip can generate significant streaming growth. Industry observers and music organisations have repeatedly highlighted similar examples in which older tracks moved from short-form video trends into streaming charts and renewed commercial relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/how-tiktok-became-a-major-player-music-industry-sounds-old-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">GrammyFrom “Sounds” To Millions Of Streams: How TikTok...May 9, 2022 — 9 May 2022 — Leveraging older songs is another way for artists to...</span><span class="citation-popover-meta">Published: May 9, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Older music has been getting a second life on Tik Tok, data shows</span><span class="citation-popover-snippet">Globally, 20 out of the top 50 tracks come from back catalogues, led by Alphaville&#x27;s 1984 hit &quot;Forever Young.&quot; The trend reflects a broad...</span></span></span>
+In many cases, the answer is yes. The resurgence of "Dreams" demonstrated how a viral clip can generate significant streaming growth. Industry observers and music organisations have repeatedly highlighted similar examples in which older tracks moved from short-form video trends into streaming charts and renewed commercial relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/how-tiktok-became-a-major-player-music-industry-sounds-old-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">From “Sounds” To Millions Of Streams: How TikTok...May 9, 2022 — 9 May 2022 — Leveraging older songs is another way for artists to...</span><span class="citation-popover-meta">Published: May 9, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Older music has been getting a second life on Tik Tok, data shows</span><span class="citation-popover-snippet">Globally, 20 out of the top 50 tracks come from back catalogues, led by Alphaville&#x27;s 1984 hit &quot;Forever Young.&quot; The trend reflects a broad...</span></span></span>
 
-Broader research also suggests that user-generated video plays an important role in music discovery for younger audiences. Many listeners first encounter songs through social platforms and then seek them out elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deloitte.com">[Deloitte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deloitte.com</span><span class="citation-popover-title">ugc videos music discovery</span><span class="citation-popover-snippet">DeloitteUser-generated video content fuels music discovery and...22 July 2024 — Gen Zs and millennials rely on social media and UGC vide...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
+Broader research also suggests that user-generated video plays an important role in music discovery for younger audiences. Many listeners first encounter songs through social platforms and then seek them out elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deloitte.com">[Deloitte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deloitte.com</span><span class="citation-popover-title">ugc videos music discovery</span><span class="citation-popover-snippet">User-generated video content fuels music discovery and...22 July 2024 — Gen Zs and millennials rely on social media and UGC vide...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
 
 Yet the conversion is not automatic. Some listeners remain attached only to the fragment. Studies and industry surveys have raised concerns that short-form platforms sometimes create familiarity without deeper engagement. Users may know a hook, recognise a trend and even enjoy a sound without exploring the artist's wider work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Death of the superfan: how young people discover music on Tik Tok</span><span class="citation-popover-snippet">About a quarter of the respondents felt there was no need to seek out a song beyond social media since they had heard it enough, while ot...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/en/opinion/article/2026/01/17/that-stranger-things-brings-prince-or-david-bowie-back-to-life-is-both-wonderful-and-dreadful_6749515_23.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-snippet">The inclusion of classic songs like Prince’s “Purple Rain” and David Bowie’s “Heroes” in the series finale has caused explosive streaming...</span></span></span>
 
 This tension sits at the centre of TikTok's relationship with catalogue music. The platform can introduce millions of people to an older recording, but it does not guarantee lasting fandom.
-
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-3-dark.svg" | relative_url }}" alt="Tik Tok Hooks illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The opportunity and the risk for catalogue music
@@ -345,10 +337,6 @@ TikTok has made catalogue discovery more democratic. A song released forty years
 At the same time, the platform encourages a fragment-first relationship with music. Songs travel because they become useful cultural signals. For catalogue recordings, that creates both opportunity and risk. The opportunity is obvious: unprecedented exposure to younger audiences. The risk is that listeners may remember the moment, meme or trend more vividly than the song's original context.
 
 Even so, the evidence suggests that TikTok has become one of the most powerful mechanisms through which older music reaches new generations. By turning catalogue hooks into social cues, the platform allows songs to circulate not as historical artefacts but as living pieces of contemporary communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.01239" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — In this article I will explore the ways in which TikTo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">fleetwood mac dreams breaks streaming records after viral tiktok video</span><span class="citation-popover-snippet">Fleetwood Mac&#x27;s Dreams breaks streaming records after...6 Oct 2020 — The success of the clip has prompted 8.47m streams of Dreams in the...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/um2zwzrO4Rw" title="5 Things Independent Artists Need To Learn To Go Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=um2zwzrO4Rw" target="_blank" rel="noopener noreferrer">5 Things Independent Artists Need To Learn To Go Viral</a></p><p class="youtube-embed-meta">Channel: FRDi for Artists</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=um2zwzrO4Rw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=um2zwzrO4Rw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -467,15 +455,15 @@ Even so, the evidence suggests that TikTok has become one of the most powerful m
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 104pc Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard"><img src="{{ '/assets/images/marketplace-covers/459c6d10882defd65fc2.jpg' | relative_url }}" alt="Listing image for 104pc Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer">104pc Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker lot</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +471,15 @@ Even so, the evidence suggests that TikTok has become one of the most powerful m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard"><img src="{{ '/assets/images/marketplace-covers/0b3fc1a5e40f1f07130a.jpg' | relative_url }}" alt="Listing image for 100 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer">100 Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker lot</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +487,15 @@ Even so, the evidence suggests that TikTok has become one of the most powerful m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200 X Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard"><img src="{{ '/assets/images/marketplace-covers/16dd3d5f6f2a61248f7e.jpg' | relative_url }}" alt="Listing image for 200 X Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer">200 X Rock Stickers Lot Heavy Metal Punk Band Music Guitar Car Decals Skateboard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker lot</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +503,15 @@ Even so, the evidence suggests that TikTok has become one of the most powerful m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mott The Hoople British Rock Band Sticker Lot 1974 Backstage pass pinback pin"><img src="{{ '/assets/images/marketplace-covers/7ba19360b7a8b8d825b4.jpg' | relative_url }}" alt="Listing image for Mott The Hoople British Rock Band Sticker Lot 1974 Backstage pass pinback pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer">Mott The Hoople British Rock Band Sticker Lot 1974 Backstage pass pinback pin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker lot">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker lot</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +519,7 @@ Even so, the evidence suggests that TikTok has become one of the most powerful m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker lot" data-ebay-reference="tik-tok-hooks-why-old-hooks-spread-through-short-clips-music-music-sticker-lot" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-old-hooks-spread-through-short-clips-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,120 +734,120 @@ Even so, the evidence suggests that TikTok has become one of the most powerful m
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music](https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music)  
+   Link: <a href="https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366381621_TikTok_and_Sound_Changing_the_ways_of_Creating_Promoting_Distributing_and_Listening_to_Music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) TikTok and Sound: Changing the ways of Creating...17 Mar 2026 — In this article I will explore the ways in which TikTo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: deloitte.com  
    Title: ugc videos music discovery  
-   Link: [https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html](https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeloitteUser-generated video content fuels music discovery and...22 July 2024 — Gen Zs and millennials rely on social media and UGC vide...</p></details>
+   Link: <a href="https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2024/ugc-videos-music-discovery.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>User-generated video content fuels music discovery and...22 July 2024 — Gen Zs and millennials rely on social media and UGC vide...</p></details>
    Published: July 2024  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.01239](https://arxiv.org/abs/2411.01239)  
+   Link: <a href="https://arxiv.org/abs/2411.01239" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.01239</a>  
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Watch Mick Fleetwood Recreate Viral Fleetwood Mac "Dreams" Tik Tok  
-   Link: [https://pitchfork.com/news/watch-mick-fleetwood-recreate-viral-fleetwood-mac-dreams-tiktok](https://pitchfork.com/news/watch-mick-fleetwood-recreate-viral-fleetwood-mac-dreams-tiktok)  
+   Link: <a href="https://pitchfork.com/news/watch-mick-fleetwood-recreate-viral-fleetwood-mac-dreams-tiktok" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/watch-mick-fleetwood-recreate-viral-fleetwood-mac-dreams-tiktok</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The band displayed their gratitude with a tweet, and Mick Fleetwood created a TikTok account to recreate Apodaca&#x27;s video. The document hi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: people.com  
-   Link: [https://people.com/tiktoker-nathan-apodaca-reveals-how-cranberry-juice-video-changed-his-life-exclusive-11852269](https://people.com/tiktoker-nathan-apodaca-reveals-how-cranberry-juice-video-changed-his-life-exclusive-11852269)  
+   Link: <a href="https://people.com/tiktoker-nathan-apodaca-reveals-how-cranberry-juice-video-changed-his-life-exclusive-11852269" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tiktoker-nathan-apodaca-reveals-how-cranberry-juice-video-changed-his-life-exclusive-11852269</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite rising fame, he remains grounded, focusing on comedy, music, and motivational speaking—especially for Indigenous youth—while purs...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: grammy.com  
-   Link: [https://www.grammy.com/news/how-tiktok-became-a-major-player-music-industry-sounds-old-artists/](https://www.grammy.com/news/how-tiktok-became-a-major-player-music-industry-sounds-old-artists/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GrammyFrom “Sounds” To Millions Of Streams: How TikTok...May 9, 2022 — 9 May 2022 — Leveraging older songs is another way for artists to...</p></details>
+   Link: <a href="https://www.grammy.com/news/how-tiktok-became-a-major-player-music-industry-sounds-old-artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/how-tiktok-became-a-major-player-music-industry-sounds-old-artists/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From “Sounds” To Millions Of Streams: How TikTok...May 9, 2022 — 9 May 2022 — Leveraging older songs is another way for artists to...</p></details>
    Published: May 9, 2022  
 
 7. <a id="endnote-7"></a>
    Source: newsroom.tiktok.com  
    Title: year on tiktok music report 2021  
-   Link: [https://newsroom.tiktok.com/en-us/year-on-tiktok-music-report-2021](https://newsroom.tiktok.com/en-us/year-on-tiktok-music-report-2021)  
+   Link: <a href="https://newsroom.tiktok.com/en-us/year-on-tiktok-music-report-2021" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.tiktok.com/en-us/year-on-tiktok-music-report-2021</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on TikTok 2021 Music Report13 Dec 2021 — Approximately 430 songs surpassed 1 billion video views as TikTok sounds in 2021–a threefold inc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: fleetwood mac dreams breaks streaming records after viral tiktok video  
-   Link: [https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video](https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video)  
+   Link: <a href="https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2020/oct/06/fleetwood-mac-dreams-breaks-streaming-records-after-viral-tiktok-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fleetwood Mac&#x27;s Dreams breaks streaming records after...6 Oct 2020 — The success of the clip has prompted 8.47m streams of Dreams in the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian Older music has been getting a second life on Tik Tok, data shows  
-   Link: [https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows](https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Globally, 20 out of the top 50 tracks come from back catalogues, led by Alphaville&#x27;s 1984 hit &quot;Forever Young.&quot; The trend reflects a broad...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thetimes.co.uk  
    Title: The Times Death of the superfan: how young people discover music on Tik Tok  
-   Link: [https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n](https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n)  
+   Link: <a href="https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/death-of-the-superfan-how-young-people-discover-music-on-tiktok-trq8vpw0n</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About a quarter of the respondents felt there was no need to seek out a song beyond social media since they had heard it enough, while ot...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/opinion/article/2026/01/17/that-stranger-things-brings-prince-or-david-bowie-back-to-life-is-both-wonderful-and-dreadful_6749515_23.html](https://www.lemonde.fr/en/opinion/article/2026/01/17/that-stranger-things-brings-prince-or-david-bowie-back-to-life-is-both-wonderful-and-dreadful_6749515_23.html)  
+   Link: <a href="https://www.lemonde.fr/en/opinion/article/2026/01/17/that-stranger-things-brings-prince-or-david-bowie-back-to-life-is-both-wonderful-and-dreadful_6749515_23.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/opinion/article/2026/01/17/that-stranger-things-brings-prince-or-david-bowie-back-to-life-is-both-wonderful-and-dreadful_6749515_23.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The inclusion of classic songs like Prince’s “Purple Rain” and David Bowie’s “Heroes” in the series finale has caused explosive streaming...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/youtube/answer/15424877?hl=en](https://support.google.com/youtube/answer/15424877?hl=en)  
+   Link: <a href="https://support.google.com/youtube/answer/15424877?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/15424877?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>three-minute YouTube ShortsYou can now create YouTube Shorts up to three minutes in length. This gives you more time to tell your stories...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: edspace.american.edu  
-   Link: [https://edspace.american.edu/atrium/wp-content/uploads/sites/1901/2023/06/Nau-23.pdf](https://edspace.american.edu/atrium/wp-content/uploads/sites/1901/2023/06/Nau-23.pdf)  
+   Link: <a href="https://edspace.american.edu/atrium/wp-content/uploads/sites/1901/2023/06/Nau-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edspace.american.edu/atrium/wp-content/uploads/sites/1901/2023/06/Nau-23.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok is Changing the Path to Musical Fameby Y Nau · Cited by 1 — Another cause of unfettered musical growth comes from TikTok audios: s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/jagqx6/fleetwood_macs_dreams_charts_on_hot_100_for_first/](https://www.reddit.com/r/popheads/comments/jagqx6/fleetwood_macs_dreams_charts_on_hot_100_for_first/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/jagqx6/fleetwood_macs_dreams_charts_on_hot_100_for_first/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/jagqx6/fleetwood_macs_dreams_charts_on_hot_100_for_first/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fleetwood Mac&#x27;s &#x27;Dreams&#x27; Charts on Hot 100 For First Time...A song going viral on Tik Tok. Huge Streaming Boost After Viral TikTok Video...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: shortoftheweek.com  
-   Link: [https://www.shortoftheweek.com/](https://www.shortoftheweek.com/)  
+   Link: <a href="https://www.shortoftheweek.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.shortoftheweek.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Short of the Week: Watch the Best Short FilmsWatch the most innovative stories—Documentary, Comedy, Sci-fi, Horror, Experimental, Animati...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40settinger/the-resurgence-of-fleetwood-macs-dreams-how-tiktok-revived-a-43-year-old-hit-for-gen-z-545272650f0f](https://medium.com/%40settinger/the-resurgence-of-fleetwood-macs-dreams-how-tiktok-revived-a-43-year-old-hit-for-gen-z-545272650f0f)  
+   Link: <a href="https://medium.com/%40settinger/the-resurgence-of-fleetwood-macs-dreams-how-tiktok-revived-a-43-year-old-hit-for-gen-z-545272650f0f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40settinger/the-resurgence-of-fleetwood-macs-dreams-how-tiktok-revived-a-43-year-old-hit-for-gen-z-545272650f0f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Resurgence of Fleetwood Mac&#x27;s “Dreams”The Resurgence of Fleetwood Mac&#x27;s “Dreams”: How TikTok revived a 43-year-old hit for Gen Z audi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/youtube/comments/1epuhiu/what_exactly_is_a_short/](https://www.reddit.com/r/youtube/comments/1epuhiu/what_exactly_is_a_short/)  
+   Link: <a href="https://www.reddit.com/r/youtube/comments/1epuhiu/what_exactly_is_a_short/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/youtube/comments/1epuhiu/what_exactly_is_a_short/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What exactly is a &quot;Short?&quot;: r/youtubeI&#x27;ve seen many &quot;shorts&quot; videos, but am wondering if there is any particular criteria for such a vid...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/album/6LIaTFnsjRH91hpIAYV9an](https://open.spotify.com/album/6LIaTFnsjRH91hpIAYV9an)  
+   Link: <a href="https://open.spotify.com/album/6LIaTFnsjRH91hpIAYV9an" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/6LIaTFnsjRH91hpIAYV9an</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com100 Greatest TikTok Songs &amp; Viral HitsListen to 100 Greatest TikTok Songs &amp; Viral Hits on Spotify · compilation · Various Arti...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sheridan-journalism.shorthandstories.com  
-   Link: [https://sheridan-journalism.shorthandstories.com/backstage-pass-2025/history/5-throwback-songs/index.html](https://sheridan-journalism.shorthandstories.com/backstage-pass-2025/history/5-throwback-songs/index.html)  
+   Link: <a href="https://sheridan-journalism.shorthandstories.com/backstage-pass-2025/history/5-throwback-songs/index.html" target="_blank" rel="noopener noreferrer nofollow">https://sheridan-journalism.shorthandstories.com/backstage-pass-2025/history/5-throwback-songs/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shorthandstories.com5 Throwback Songs That Made a Comeback Thanks to TikTok...However, the viral resurgence of their hit track “Dreams”...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: you may have heard that fleetwood mac re entered the top of the charts this past  
-   Link: [https://www.facebook.com/twincitiespbs/posts/you-may-have-heard-that-fleetwood-mac-re-entered-the-top-of-the-charts-this-past/10158637808754030/](https://www.facebook.com/twincitiespbs/posts/you-may-have-heard-that-fleetwood-mac-re-entered-the-top-of-the-charts-this-past/10158637808754030/)  
+   Link: <a href="https://www.facebook.com/twincitiespbs/posts/you-may-have-heard-that-fleetwood-mac-re-entered-the-top-of-the-charts-this-past/10158637808754030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twincitiespbs/posts/you-may-have-heard-that-fleetwood-mac-re-entered-the-top-of-the-charts-this-past/10158637808754030/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You may have heard that Fleetwood Mac re-entered...“Dreams” has enjoyed enduring popularity, including a viral resurgence in 2020 thanks...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: kitemetric.com  
-   Link: [https://kitemetric.com/blogs/short-form-video-music-streaming-the-2025-revolution](https://kitemetric.com/blogs/short-form-video-music-streaming-the-2025-revolution)  
+   Link: <a href="https://kitemetric.com/blogs/short-form-video-music-streaming-the-2025-revolution" target="_blank" rel="noopener noreferrer nofollow">https://kitemetric.com/blogs/short-form-video-music-streaming-the-2025-revolution</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Short-Form Video &amp; Music Streaming: The 2025 RevolutionThe music industry in 2025 is heavily influenced by short-form video...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gdQAEEwgx1E](https://www.youtube.com/watch?v=gdQAEEwgx1E)  
+   Link: <a href="https://www.youtube.com/watch?v=gdQAEEwgx1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gdQAEEwgx1E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The TikTok Effect | How Social Media Is Reviving Rock MusicThe Fleetwood Mac song &quot;Dreams&quot; has re-entered the charts because of a huge vi...</p></details>

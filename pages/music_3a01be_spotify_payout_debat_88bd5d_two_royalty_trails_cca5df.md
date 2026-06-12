@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626
 - music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359
 tags:
-- music
+- music-3-a01-be
 - spotify-payouts
 - two-rights
 keywords:
-- music
+- music-3-a01-be
 - spotify-payouts
 - two-rights
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A Spotify stream can generate recording and composition royalties, but performers and songwriters often receive them through separate systems.
 hero_summary: A Spotify stream can generate recording and composition royalties, but performers and songwriters often receive them through separate systems.
 layout: default
 permalink: /two-rights/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /spotify-payouts/
 nav_short_title: Two Rights
 title: Why one stream creates two royalty trails
-title_full: Why one stream creates two royalty trails | Spotify Payouts
+title_full: Why one stream creates two royalty trails
 display_title_short: Two Rights
 display_title: Two Rights
 heading_title: Why one stream creates two royalty trails
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Streaming Payout Claims Really Mean | Music
+parent_title: What Streaming Payout Claims Really Mean
 parent_permalink: /spotify-payouts/
 parent_nav_short_title: Spotify Payouts
 parent_heading_title: What Streaming Payout Claims Really Mean
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one Spotify stream has no fixed price
 up_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -259,7 +259,7 @@ prev_link:
   permalink: /per-stream/
   short_title: Per Stream
   heading_title: Why one Spotify stream has no fixed price
-date: '2026-06-09 06:47:08 '
+date: '2026-06-11 23:24:51 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1.webp
@@ -270,22 +270,20 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trail
 
 A single Spotify stream does not create a single payment. It creates payments linked to two separate copyrights: the sound [recording]({{ 'recording/' | relative_url }}) that listeners hear and the underlying song composition that was written. Because those [rights]({{ 'rights/' | relative_url }}) are owned, licensed and administered through different systems, performers and songwriters are often paid through different routes, on different timelines and with different levels of transparency. This split is one of the most important reasons why streaming income can feel confusing. A performer may receive money through a label or distributor, while the songwriter behind the same track receives money through publishers, collecting societies and other rights organisations. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-dark.svg" | relative_url }}" alt="Two Rights illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The difference between master and composition rights
 
-The first royalty trail comes from the **master recording**, sometimes called the sound recording right. This covers the actual recorded performance released on Spotify. The second trail comes from the **composition**, meaning the melody, [lyrics]({{ 'lyrics/' | relative_url }}) and musical work itself. Every stream relies on both rights. Without a recording there is nothing to play, and without a song there is nothing to record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumTHE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[music hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span> Because the rights are distinct, the money flows separately:
+The first royalty trail comes from the **master recording**, sometimes called the sound recording right. This covers the actual recorded performance released on Spotify. The second trail comes from the **composition**, meaning the melody, [lyrics]({{ 'lyrics/' | relative_url }}) and musical work itself. Every stream relies on both rights. Without a recording there is nothing to play, and without a song there is nothing to record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[music hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span> Because the rights are distinct, the money flows separately:
 
 * **Recording [royalties]({{ 'royalties/' | relative_url }})** are generally paid to the owner of the master recording, often a record label or an independent artist using a distributor.
 * **Publishing royalties** are owed to songwriters and publishers because the composition has been used.
 * Publishing income is usually divided into performance and [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), each with its own collection process in many territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/how-spotify-streams-turn-into-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[2blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-title">how spotify streams turn into royalties</span><span class="citation-popover-snippet">2 Jan 2020 — Publishing royalties include performance and mechanical royalties, which are earned, tracked, and collected by societies aro...</span></span></span>
 
-Spotify itself describes its royalty system as paying both recording and publishing rightsholders rather than paying artists and songwriters directly. Roughly two-thirds of Spotify's revenue is paid out to recording and publishing rightsholders, who then distribute income according to ownership shares and contractual agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
+Spotify itself describes its royalty system as paying both recording and publishing rightsholders rather than paying artists and songwriters directly. Roughly two-thirds of Spotify's revenue is paid out to recording and publishing rightsholders, who then distribute income according to [ownership]({{ 'ownership/' | relative_url }}) shares and contractual agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
 
 This means that a singer who did not write a song and a songwriter who did not perform on the recording can both earn money from the same stream, but through entirely different administrative pathways.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3mWxrGfRiYM" title="Scary Truth About Spotify Royalties, How Artists Get Paid Labels Hate Me for This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer">Scary Truth About Spotify Royalties, How Artists Get Paid Labels Hate Me for This</a></p><p class="youtube-embed-meta">Channel: SMARTMUSICBUSINESS - Chris Greenwood &middot; Views: 1.2K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3mWxrGfRiYM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 68.2K &middot; Uploaded: November 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
 
 ## How publishers and collecting societies fit in
 
@@ -299,43 +297,36 @@ Depending on the country, publishing royalties may involve: <span class="citatio
 
 * Performing rights organisations (PROs) or collecting societies that handle performance royalties.
 * Mechanical rights organisations that collect mechanical royalties generated by reproductions and streams.
-* [Music]({{ 'music/' | relative_url }}) publishers that administer registrations, ownership claims and international collections.
-* Reciprocal agreements between societies in different countries so royalties can cross borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">SpotifyUnderstanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-snippet">How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</span></span></span>
+* Music publishers that administer registrations, ownership claims and international collections.
+* Reciprocal agreements between societies in different countries so royalties can cross borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-snippet">How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</span></span></span>
 
 Streaming complicates matters because it generates both performance and mechanical income for songwriters. In the United States, for example, a songwriter may need relationships with both a performing rights organisation and a mechanical collection system to capture all royalties generated by streams. Spotify has highlighted this issue in guidance explaining that joining only one organisation may leave part of a songwriter's streaming income uncollected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-2-dark.svg" | relative_url }}" alt="Two Rights illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### One stream, multiple destinations
 
-Industry explanations of streaming royalties often describe a rough split in which most money flows to master rights and a smaller portion to publishing rights. Once the publishing share is separated, it may be divided again between performance and mechanical royalties before reaching writers and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentric.com">[sentric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentric.com</span><span class="citation-popover-title">publishing royalties from streaming</span><span class="citation-popover-snippet">News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">MusosoupSpotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</span></span></span> The result is that the performer and songwriter connected to the same track can receive payments from different organisations, at different times and with different reporting formats.
+Industry explanations of streaming royalties often describe a rough split in which most money flows to [master rights]({{ 'master-rights/' | relative_url }}) and a smaller portion to publishing rights. Once the publishing share is separated, it may be divided again between performance and mechanical royalties before reaching writers and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentric.com">[sentric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentric.com</span><span class="citation-popover-title">publishing royalties from streaming</span><span class="citation-popover-snippet">News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">Spotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</span></span></span> The result is that the performer and songwriter connected to the same track can receive payments from different organisations, at different times and with different reporting formats.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KMRaMqMDCI8" title="Dave - Both Sides Of A Smile (Lyrics) ft. James Blake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KMRaMqMDCI8" target="_blank" rel="noopener noreferrer">Dave - Both Sides Of A Smile (Lyrics) ft. James Blake</a></p><p class="youtube-embed-meta">Channel: RAVE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KMRaMqMDCI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KMRaMqMDCI8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3mWxrGfRiYM" title="Scary Truth About Spotify Royalties, How Artists Get Paid Labels Hate Me for This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer">Scary Truth About Spotify Royalties, How Artists Get Paid Labels Hate Me for This</a></p><p class="youtube-embed-meta">Channel: SMARTMUSICBUSINESS - Chris Greenwood &middot; Views: 1.2K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3mWxrGfRiYM">Open on YouTube</a></p></div></div></div>
 
 ## Why songwriter income can be hard to trace
 
 The existence of two royalty trails is not merely an accounting curiosity. It has practical consequences for transparency and income tracking.
 
-A performer signed to a label may receive most streaming information through a single royalty statement. Songwriters, by contrast, may receive separate payments from multiple organisations handling different rights, territories and royalty categories. Missing registrations, incorrect metadata or ownership disputes can interrupt those payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span> Spotify The complexity becomes even greater when music is exploited globally. A stream in one country may generate royalties collected locally <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[support.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">SpotifyUnderstanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span>, processed through international agreements and then forwarded to another society before reaching the writer. Each step introduces delays and increases the need for accurate metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[Curve Royalty Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">global publishing royalties from spotify</span><span class="citation-popover-snippet">performance and mechanical royalties to songwriters for streams from all over the world.Read more...</span></span></span>
+A performer signed to a label may receive most streaming information through a single royalty statement. Songwriters, by contrast, may receive separate payments from multiple organisations handling different rights, territories and royalty categories. Missing registrations, incorrect metadata or ownership disputes can interrupt those payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span> Spotify The complexity becomes even greater when music is exploited globally. A stream in one country may generate royalties collected locally <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[support.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span>, processed through international agreements and then forwarded to another society before reaching the writer. Each step introduces delays and increases the need for accurate metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[Curve Royalty Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">global publishing royalties from spotify</span><span class="citation-popover-snippet">performance and mechanical royalties to songwriters for streams from all over the world.Read more...</span></span></span>
 
 Recent reporting on royalty administration has highlighted how difficult matching and tracking can be. Royalty specialists increasingly work with enormous datasets from streaming platforms, and industry organisations continue to warn about unmatched works and unallocated royalties when ownership information is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
 
 This is one reason debates about Spotify payouts often sound contradictory. Large sums may be entering the music ecosystem, yet individual songwriters can still struggle to identify whether they have collected every royalty they are owed. The challenge is not only how much money a stream generates, but also whether every piece of the publishing chain successfully identifies the writer and routes the payment correctly. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8doQmyGkK_0" title="SONGWRITING ROYALTIES VS PUBLISHING ROYALTIES VS PRODUCER ROYALTIES | SPLITS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer">SONGWRITING ROYALTIES VS PUBLISHING ROYALTIES VS PRODUCER ROYALTIES | SPLITS</a></p><p class="youtube-embed-meta">Channel: Tynia Coats</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8doQmyGkK_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8doQmyGkK_0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-dark.svg" | relative_url }}" alt="Two Rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the split remains controversial
 
 Supporters of the current system argue that separate royalty routes reflect a basic reality of copyright: recordings and compositions are different creative assets with different owners. Distinct collection systems exist because the rights themselves are distinct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[MusicHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span>
 
 Critics respond that the separation creates opacity. A performer can often see recording income through a label or distributor dashboard, while songwriters may need to monitor several organisations, registrations and royalty categories to understand their earnings. When metadata is incomplete or registrations are missing, songwriter income can be delayed, reduced or left unclaimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span>
 
-For anyone trying to understand streaming economics, the key insight is simple: a Spotify stream is not one royalty. It is the starting point for two separate copyright systems. The performer follows the recording trail; the songwriter follows the composition trail. Much of the confusion surrounding streaming payouts arises from where those two paths diverge after the stream has already happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">RevelatorHow Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-dark.svg" | relative_url }}" alt="Two Rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For anyone trying to understand streaming economics, the key insight is simple: a Spotify stream is not one royalty. It is the starting point for two separate copyright systems. The performer follows the recording trail; the songwriter follows the composition trail. Much of the confusion surrounding streaming payouts arises from where those two paths diverge after the stream has already happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -733,223 +724,223 @@ For anyone trying to understand streaming economics, the key insight is simple: 
 
 1. <a id="endnote-1"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: revelator.com  
-   Link: [https://revelator.com/blog/how-music-streaming-royalties-work](https://revelator.com/blog/how-music-streaming-royalties-work)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RevelatorHow Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</p></details>
+   Link: <a href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-music-streaming-royalties-work</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumTHE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</p></details>
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: artist.tools  
    Title: the ultimate guide to spotify royalty payments  
-   Link: [https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments](https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments)  
+   Link: <a href="https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 3, 2026 — Unlock your earnings potential. This guide breaks down Spotify royalty payments, how they&#x27;re calculated, and how to maximiz...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blog.songtrust.com  
    Title: how spotify streams turn into royalties  
-   Link: [https://blog.songtrust.com/how-spotify-streams-turn-into-royalties](https://blog.songtrust.com/how-spotify-streams-turn-into-royalties)  
+   Link: <a href="https://blog.songtrust.com/how-spotify-streams-turn-into-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-spotify-streams-turn-into-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jan 2020 — Publishing royalties include performance and mechanical royalties, which are earned, tracked, and collected by societies aro...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sae.edu  
    Title: Institute Music Publishing and Royalties Explained  
-   Link: [https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/](https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/)  
+   Link: <a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAE InstituteMusic Publishing and Royalties ExplainedJanuary 20, 2026 — Our blog explores music publishing, the collection of royalties a...</p></details>
    Published: January 20, 2026  
 
 8. <a id="endnote-8"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/](https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — On the flip side, songwriters cannot collect performance royalties simply by joining with The MLC. So you have t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sentric.com  
    Title: publishing royalties from streaming  
-   Link: [https://www.sentric.com/news/publishing-royalties-from-streaming](https://www.sentric.com/news/publishing-royalties-from-streaming)  
+   Link: <a href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.sentric.com/news/publishing-royalties-from-streaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/spotify-royalties](https://musosoup.com/blog/spotify-royalties)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusosoupSpotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</p></details>
+   Link: <a href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: artists.spotify.com  
    Title: how royalties work  
-   Link: [https://artists.spotify.com/en/video/how-royalties-work](https://artists.spotify.com/en/video/how-royalties-work)  
+   Link: <a href="https://artists.spotify.com/en/video/how-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/how-royalties-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties Work – Spotify for ArtistsMatt and Kim, Sheryl Crow, and Cienfue weigh in on the importance of royalties and how they work on S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: artist.tools  
    Title: how do artists get paid on spotify a musician s guide  
-   Link: [https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide](https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide)  
+   Link: <a href="https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our guide demystifies royalties, the revenue pool, and payment systems to help you maximize your...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: artist.tools  
    Title: a guide to royalties from spotify and how to get paid  
-   Link: [https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid](https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid)  
+   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 1, 2026 — Unlock your earnings with our guide to royalties from Spotify. Learn how payouts work, who gets paid, and the strategies to...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Payments are typically made via publishers, agencies and collecting...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: music-hub.com  
    Title: what are your streams on spotify co worth  
-   Link: [https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth](https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth)  
+   Link: <a href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow">https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: soundcharts.com  
    Title: mechanical royalties  
-   Link: [https://soundcharts.com/en/blog/mechanical-royalties](https://soundcharts.com/en/blog/mechanical-royalties)  
+   Link: <a href="https://soundcharts.com/en/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/mechanical-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide: Who Pays &amp; Collects Them?3 Mar 2020 — Learn what mechanical royalties are, how they differ from performance royalties, who pays th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: royaltysolutionscorp.com  
-   Link: [https://www.royaltysolutionscorp.com/blog/spotifyroyalties](https://www.royaltysolutionscorp.com/blog/spotifyroyalties)  
+   Link: <a href="https://www.royaltysolutionscorp.com/blog/spotifyroyalties" target="_blank" rel="noopener noreferrer nofollow">https://www.royaltysolutionscorp.com/blog/spotifyroyalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty SolutionsSpotify Hits $10B in Payouts — How Are Royalties Paid Out?Mar 20, 2025 — Spotify pays the distributor or label for the s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to... understanding publishing rights14 May 2021 — We asked Simon to give us insights on copyright, publishing specialities, publishi...</p></details>
    Published: May 2021  
 
 20. <a id="endnote-20"></a>
    Source: aristake.com  
-   Link: [https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/](https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/)  
+   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ](https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ)  
+   Link: <a href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/](https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/)  
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Publishing Royalites: r/musicindustryNo one really answered properly. About 20% of the total Spotify payout goes to publishing a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Additional Resources  
-   Link: [https://loudandclear.byspotify.com/additional-resources/](https://loudandclear.byspotify.com/additional-resources/)  
+   Link: <a href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/additional-resources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f](https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f)  
+   Link: <a href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aristake.com  
    Title: global publishing royalties from spotify  
-   Link: [https://aristake.com/global-publishing-royalties-from-spotify/](https://aristake.com/global-publishing-royalties-from-spotify/)  
+   Link: <a href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/global-publishing-royalties-from-spotify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>performance and mechanical royalties to songwriters for streams from all over the world.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
    Title: Spotify royalty more to the recording side?  
-   Link: [https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/](https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/)  
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/musicindustryAccording to this diagram, 59.9% of the 75% stream royalty that gets paid out goes to the recording side ie the master rec...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Spotify](https://en.wikipedia.org/wiki/Spotify)  
+   Link: <a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUsers can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social m...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: viewmaniac.com  
    Title: spotify royalties calculator  
-   Link: [https://viewmaniac.com/spotify-royalties-calculator/](https://viewmaniac.com/spotify-royalties-calculator/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated 2026 EstimatesUse a Spotify royalties calculator to get insights into your music earnings and optimize your [streaming revenue](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://viewmaniac.com/spotify-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://viewmaniac.com/spotify-royalties-calculator/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated 2026 EstimatesUse a Spotify royalties calculator to get insights into your music earnings and optimize your streaming revenue...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: emastered.com  
    Title: spotify royalties  
-   Link: [https://emastered.com/blog/spotify-royalties](https://emastered.com/blog/spotify-royalties)  
+   Link: <a href="https://emastered.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://emastered.com/blog/spotify-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need to Know1 Oct 2024 — Spotify royalties are the amount of money that Spotify owes rights holders (artists, songwriters, labels...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: apraamcos.com.au  
-   Link: [https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview](https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview)  
+   Link: <a href="https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music royalties explainedIf you are making music, find out how song royalties, royalty payments and different types of royalties work...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: submitlink.io  
    Title: a professional s guide to maximizing royalties for spotify in 2026  
-   Link: [https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026](https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026)  
+   Link: <a href="https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Professional&#x27;s Guide to Maximizing Royalties for Spotify...Mar 4, 2026 — Unlock royalties for spotify insights to boost payouts, prote...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: lsj.com.au  
    Title: music to the ears music publisher and artist royalties to rise  
-   Link: [https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/](https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/)  
+   Link: <a href="https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/" target="_blank" rel="noopener noreferrer nofollow">https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music to the ears: Music publisher and artist royalties to rise22 Jun 2023 — A landmark ruling by the US Copyright Royalty Board required...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: digitalmusicnews.com  
    Title: 9af FVQp5k Et DMN Report Spotify Royalty Change Price  
-   Link: [https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf](https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf)  
+   Link: <a href="https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY&#x27;S CHANGES IN...Dec 20, 2023 — We explore payouts under Spotify&#x27;s soon-to-rollout in 2024 model, where so...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: &middot; Why Musicians Are Broke and How to Fix It  
-   Link: [https://www.youtube.com/watch?v=3mWxrGfRiYM](https://www.youtube.com/watch?v=3mWxrGfRiYM)  
+   Link: <a href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3mWxrGfRiYM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scary Truth About Spotify Royalties, How Artists Get Paid...How To ACTUALLY Collect Your Music Royalties &amp;middot; Spotify No Longer Payi...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: waterbear.org.uk  
    Title: What Are Music Publishing Deals?  
-   Link: [https://waterbear.org.uk/blog/what-are-music-publishing-deals/](https://waterbear.org.uk/blog/what-are-music-publishing-deals/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WaterBear4 Sept 2025 — To summarise, PROs focus on ensuring songwriters and composers are paid when their compositions are publicly perfo...</p></details>
+   Link: <a href="https://waterbear.org.uk/blog/what-are-music-publishing-deals/" target="_blank" rel="noopener noreferrer nofollow">https://waterbear.org.uk/blog/what-are-music-publishing-deals/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Sept 2025 — To summarise, PROs focus on ensuring songwriters and composers are paid when their compositions are publicly perfo...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: tracklib.com  
-   Link: [https://www.tracklib.com/blog/music-publishing](https://www.tracklib.com/blog/music-publishing)  
+   Link: <a href="https://www.tracklib.com/blog/music-publishing" target="_blank" rel="noopener noreferrer nofollow">https://www.tracklib.com/blog/music-publishing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing Made Easy: The Ultimate Guide for...Performance royalties are typically split 50/50 between the composer(s)/songwriter(...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: leedsconservatoire.ac.uk  
    Title: music publishing income streams  
-   Link: [https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/](https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/)  
+   Link: <a href="https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2020 — MCPS collects the royalties and pays them to the publishers. The statutory rate is obligatory and is a fixed rate of 8.5% o...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: widerbergmusic.com  
    Title: what are publishing royalties  
-   Link: [https://www.widerbergmusic.com/what-are-publishing-royalties.html](https://www.widerbergmusic.com/what-are-publishing-royalties.html)  
+   Link: <a href="https://www.widerbergmusic.com/what-are-publishing-royalties.html" target="_blank" rel="noopener noreferrer nofollow">https://www.widerbergmusic.com/what-are-publishing-royalties.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>? The Complete Guide for...5 May 2026 — Publishing royalties are payments songwriters earn when their composition is streamed, broadcast...</p></details>
-   Published: May 2026  
+   Published: May 2026

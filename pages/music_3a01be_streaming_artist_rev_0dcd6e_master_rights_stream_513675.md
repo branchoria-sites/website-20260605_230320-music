@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb
 - music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1
 tags:
-- music
+- music-3-a01-be
 - royalties
 - master-rights
 keywords:
-- music
+- music-3-a01-be
 - royalties
 - master-rights
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Recording royalties usually flow first to whoever controls the master, which can make ownership and contract terms decisive.
 hero_summary: Recording royalties usually flow first to whoever controls the master, which can make ownership and contract terms decisive.
 layout: default
 permalink: /master-rights/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /royalties/
 nav_short_title: Master rights
 title: Who gets the recording money first?
-title_full: Who gets the recording money first? | Royalties
+title_full: Who gets the recording money first?
 display_title_short: Master rights
 display_title: Master rights
 heading_title: Who gets the recording money first?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Streaming Money Actually Reaches Artists | Music
+parent_title: How Streaming Money Actually Reaches Artists
 parent_permalink: /royalties/
 parent_nav_short_title: Royalties
 parent_heading_title: How Streaming Money Actually Reaches Artists
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How songwriters get paid from streams
 up_link:
   basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -265,7 +265,7 @@ next_link:
   permalink: /missing-royalties/
   short_title: Missing royalties
   heading_title: The royalties artists forget to collect
-date: '2026-06-09 07:52:52 '
+date: '2026-06-11 23:58:06 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_str
 ## Introduction
 
 When a song is streamed, the recording money does not normally go to the performer first. It goes to whoever controls the master rights—the copyright in the specific sound recording being played. In many cases that is a record label, although it can also be an independent artist, a distributor account, or a company that has acquired the recording rights. The distinction matters because streaming platforms generally pay the master-rights holder, and the artist's eventual share depends on the contract governing that recording. [Ownership]({{ 'ownership/' | relative_url }}), [licensing]({{ 'licensing/' | relative_url }}) terms and recoupment rules often determine whether an artist receives most of the streaming income, a small percentage of it, or nothing yet at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/master-rights-vs-[publishing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">Master Rights vs</span><span class="citation-popover-snippet">Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-dark.svg" | relative_url }}" alt="Master rights illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the sound recording copyright covers
@@ -288,44 +287,61 @@ Control of the master usually belongs to one of three parties:
 * An independent artist who funded and released the recording themselves.
 * A company or investor that later purchased or licensed the master [catalogue]({{ 'catalogue/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/master-rights-vs-publishing-rights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">Master Rights vs</span><span class="citation-popover-snippet">Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</span></span></span>
 
-Because streaming services license recordings from master-rights holders, the first recipient of most recording-side [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) is the entity controlling those rights. The platform does not usually examine the artist's private royalty agreement; it simply pays the recognised rights holder according to its licence arrangements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
+Because streaming services license recordings from master-[rights]({{ 'rights/' | relative_url }}) holders, the first recipient of most recording-side streaming revenue is the entity controlling those rights. The platform does not usually examine the artist's private royalty agreement; it simply pays the recognised rights holder according to its licence arrangements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
 
 A useful way to think about the system is that streaming services pay for access to recordings, not directly for artistic labour. The contractual relationship between artist and label determines how the resulting money is divided after it reaches the master owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5bfQQrCo6U" title="Music Publishing Explained | Music Publishing 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5bfQQrCo6U" target="_blank" rel="noopener noreferrer">Music Publishing Explained | Music Publishing 101</a></p><p class="youtube-embed-meta">Channel: The Modern Musician</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5bfQQrCo6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5bfQQrCo6U">Open on YouTube</a></p></div></div></div>
-
 ## How labels and distributors receive master royalties
 
-Streaming platforms aggregate usage data and allocate recording [royalties]({{ 'royalties/' | relative_url }}) to the owners or controllers of the master recordings. For major-label releases, payments typically flow to the label. For self-released music, payments generally flow through a distributor and then to the artist or artist-owned company. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
+Streaming platforms aggregate usage data and allocate recording [royalties]({{ 'royalties/' | relative_url }}) to the owners or controllers of the master recordings. For major-label releases, payments typically flow to the label. For self-released music, payments generally flow through a distributor and then to the artist or artist-owned company. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
 
 The route can look very different depending on the deal structure:
 
 Release modelFirst recipient of recording revenueArtist positionTraditional major-label dealLabelReceives contractual royalty share after accountingIndependent release through distributorArtist or artist-owned companyKeeps most revenue after distribution feesLicensing dealLabel may administer revenue during licence termOwnership may remain with artistCatalogue acquisitionRights buyer receives revenueOriginal artist receives only what contract provides
 
-Traditional record contracts often give labels ownership or long-term control of masters in exchange for advances, recording budgets, marketing investment and global distribution. In that arrangement, streaming income is first collected by the label and then accounted to the artist according to the royalty provisions in the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recording contract</span><span class="citation-popover-snippet">Recording contract</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
+Traditional record contracts often give labels ownership or long-term control of masters in exchange for advances, recording budgets, marketing investment and global distribution. In that arrangement, streaming income is first collected by the label and then accounted to the artist according to the royalty provisions in the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recording contract</span><span class="citation-popover-snippet">Recording contract</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
 
 By contrast, an artist who owns their masters can receive recording royalties much more directly. Distributors generally deduct fees or commissions and pass the remainder to the rights holder rather than taking ownership of the recordings themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span>
 
 The practical consequence is that identical streaming numbers can produce radically different artist earnings. A self-releasing artist who owns the master may retain the majority of recording revenue, while a signed artist may receive only the royalty percentage negotiated in their contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-2-dark.svg" | relative_url }}" alt="Master rights illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why recoupment can delay artist cash
 
-One of the most important but least visible features of master-rights economics is recoupment. Under many recording agreements, labels advance money to artists for recording, marketing, touring support or other career development costs. Those advances are usually recoverable from the artist's royalty share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 recording royalties</span><span class="citation-popover-snippet">Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</span></span></span>
+One of the most important but least visible features of master-rights economics is recoupment. Under many recording agreements, labels advance money to artists for recording, marketing, touring support or other career development costs. Those advances are usually recoverable from the artist's royalty share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 recording royalties</span><span class="citation-popover-snippet">Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</span></span></span>
 
 This means streaming revenue may be generated immediately, yet the artist may not receive cash payments for a long period. The label first applies the artist's royalty share toward the outstanding balance of recoupable costs. Only after that balance is cleared does additional royalty income become payable to the artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
 For example:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A label pays recording and marketing advances.
+2. Streaming royalties flow to the label as master owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
+3. The artist's contractual royalty share is calculated.
+4. That share is credited against unrecouped costs.
+5. Cash payments begin only after recoupment is complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
+
+</div>
+
+Industry guidance from the UK's Musicians' Union notes that artists generally receive royalty payments only after advances and recording costs have been recouped according to the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
+
+Some agreements also contain cross-collateralisation provisions, allowing certain advances or losses from one project to be recovered against income from another. This can extend the period before artists receive direct streaming income. The Jacobson Firm, P.C. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejacobsonfirmpc.com">[thejacobsonfirmpc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejacobsonfirmpc.com</span><span class="citation-popover-snippet">or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-dark.svg" | relative_url }}" alt="Master rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why master ownership has become a strategic asset
+
+The growth of streaming has increased the long-term value of master recordings because successful tracks can generate revenue for many years. As a result, ownership of masters has become one of the most important negotiating points in modern music contracts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</span></span></span>
+
+Artists who retain ownership typically gain:
+
+* Greater participation in future streaming income.
+* More control over licensing decisions.
+* A valuable catalogue asset that can be sold, licensed or inherited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
+
+Labels, however, argue that master ownership reflects the financial risk they assume through advances, promotion, marketing, distribution networks and long-term investment in recordings. The resulting trade-off is central to modern recording agreements: artists may exchange ownership or control for funding and industry support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
+
+This is why discussions about streaming payouts often miss the crucial question. The key issue is not only how much money a platform pays for streams, but who owns the master recording that receives that payment in the first place. Ownership determines where the money arrives first, while the contract determines how much of it ultimately reaches the artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -719,156 +735,126 @@ For example:
 </script>
 </section>
 
-2. Streaming royalties flow to the label as master owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
-3. The artist's contractual royalty share is calculated.
-4. That share is credited against unrecouped costs.
-5. Cash payments begin only after recoupment is complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
-
-</div>
-
-Industry guidance from the UK's Musicians' Union notes that artists generally receive royalty payments only after advances and recording costs have been recouped according to the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
-
-Some agreements also contain cross-collateralisation provisions, allowing certain advances or losses from one project to be recovered against income from another. This can extend the period before artists receive direct streaming income. The Jacobson Firm, P.C. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejacobsonfirmpc.com">[thejacobsonfirmpc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejacobsonfirmpc.com</span><span class="citation-popover-snippet">or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
-
-## Why master ownership has become a strategic asset
-
-The growth of streaming has increased the long-term value of master recordings because successful tracks can generate revenue for many years. As a result, ownership of masters has become one of the most important negotiating points in modern music contracts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</span></span></span>
-
-Artists who retain ownership typically gain:
-
-* Greater participation in future streaming income.
-* More control over licensing decisions.
-* A valuable catalogue asset that can be sold, licensed or inherited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
-
-Labels, however, argue that master ownership reflects the financial risk they assume through advances, promotion, marketing, distribution networks and long-term investment in recordings. The resulting trade-off is central to modern recording agreements: artists may exchange ownership or control for funding and industry support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
-
-This is why discussions about streaming payouts often miss the crucial question. The key issue is not only how much money a platform pays for streams, but who owns the master recording that receives that payment in the first place. Ownership determines where the money arrives first, while the contract determines how much of it ultimately reaches the artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-dark.svg" | relative_url }}" alt="Master rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: soundcharts.com  
    Title: Master Rights vs  
-   Link: [https://soundcharts.com/en/blog/master-rights-vs-[publishing](https://soundcharts.com/en/blog/master-rights-vs-[publishing)  
+   Link: <a href="https://soundcharts.com/en/blog/master-rights-vs-[publishing" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/master-rights-vs-[publishing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush](https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush)  
+   Link: <a href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Recording contract  
-   Link: [https://en.wikipedia.org/wiki/Recording_contract](https://en.wikipedia.org/wiki/Recording_contract)  
+   Link: <a href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recording_contract</a>  
 
 4. <a id="endnote-4"></a>
    Source: sleepwell.substack.com  
    Title: Music Streaming Royalties 101  
-   Link: [https://sleepwell.substack.com/p/music-streaming-royalties-101](https://sleepwell.substack.com/p/music-streaming-royalties-101)  
+   Link: <a href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow">https://sleepwell.substack.com/p/music-streaming-royalties-101</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: soundcharts.com  
    Title: music royalties  
-   Link: [https://soundcharts.com/en/blog/music-royalties](https://soundcharts.com/en/blog/music-royalties)  
+   Link: <a href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/music-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: royaltyexchange.com  
    Title: music royalties 101 intro to royalties  
-   Link: [https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties](https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings](https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings)  
+   Link: <a href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: indiemusicacademy.com  
-   Link: [https://www.indiemusicacademy.com/blog/music-royalties-explained](https://www.indiemusicacademy.com/blog/music-royalties-explained)  
+   Link: <a href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.indiemusicacademy.com/blog/music-royalties-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionRecord Label Contracts &amp; AgreementsAdvice on recording contracts, record deals, dealing with record labels, production ag...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: royaltyexchange.com  
    Title: music royalties 101 recording royalties  
-   Link: [https://royaltyexchange.com/blog/music-royalties-101-recording-royalties](https://royaltyexchange.com/blog/music-royalties-101-recording-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-recording-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thejacobsonfirmpc.com  
-   Link: [https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/](https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/)  
+   Link: <a href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow">https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e secondary and further use of recordings.Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: iconcollective.edu  
-   Link: [https://www.iconcollective.edu/how-music-royalties-work](https://www.iconcollective.edu/how-music-royalties-work)  
+   Link: <a href="https://www.iconcollective.edu/how-music-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://www.iconcollective.edu/how-music-royalties-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: How Music Royalties Work in the Music IndustryMusic royalties are payments made to rights holders (such as songwriters, compos...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sae.edu  
-   Link: [https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/](https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/)  
+   Link: <a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing and Royalties ExplainedOur blog explores music publishing, the collection of royalties and how this ecosystem helps song...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ](https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ)  
+   Link: <a href="https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicVisit the YouTube Music Channel to find today&#x27;s top talent, featured artists, and playlists. Subscribe to see the latest in the musi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aristake.com  
    Title: session musicians master royalties  
-   Link: [https://aristake.com/session-musicians-master-royalties/](https://aristake.com/session-musicians-master-royalties/)  
+   Link: <a href="https://aristake.com/session-musicians-master-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/session-musicians-master-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Time To Normalize Cutting Session Musicians Into...Sep 30, 2025 — Historically, major labels would keep 82% of master royalties, an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: royalti.io  
    Title: label owners guide [royalty splits](&#123;&#123; 'royalty-splits/' | relative_url &#125;&#125;)  
-   Link: [https://royalti.io/blog/label-owners-guide-royalty-splits](https://royalti.io/blog/label-owners-guide-royalty-splits)  
+   Link: <a href="https://royalti.io/blog/label-owners-guide-royalty-splits" target="_blank" rel="noopener noreferrer nofollow">https://royalti.io/blog/label-owners-guide-royalty-splits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Label Owner&#x27;s Guide to Royalty SplitsFeb 24, 2026 — When someone streams a song, roughly 80% of the royalty goes to the master rights h...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mubert.com  
-   Link: [https://mubert.com/blog/types-of-royalties-in-music-publishing-explained](https://mubert.com/blog/types-of-royalties-in-music-publishing-explained)  
+   Link: <a href="https://mubert.com/blog/types-of-royalties-in-music-publishing-explained" target="_blank" rel="noopener noreferrer nofollow">https://mubert.com/blog/types-of-royalties-in-music-publishing-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Royalties in Music Publishing Explained12 Jan 2026 — Master recording royalties are tied to the actual sound recording of a song...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: can someone explain how streaming services  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/](https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>royalties are...For instance, let’s say Apple Music pays out $5000 for 1 million streams...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aulart.com  
-   Link: [https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE](https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE)  
+   Link: <a href="https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE" target="_blank" rel="noopener noreferrer nofollow">https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties Part II: Recording Artists and ProducersDec 22, 2020 — Master Royalties: These are the royalties paid to labels, recordin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding publishing rights14 May 2021 — Essentially, an MCPS royalty is generated every time your music is reproduced and that&#x27;s acr...</p></details>
    Published: May 2021  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Music Royalties Explained: Master vs. Publishing  
-   Link: [https://www.youtube.com/watch?v=kYJ7x-w7Y8k](https://www.youtube.com/watch?v=kYJ7x-w7Y8k)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ7x-w7Y8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ7x-w7Y8k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Really Work...</p></details>

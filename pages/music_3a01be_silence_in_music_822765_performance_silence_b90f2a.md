@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf
 - music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58
 tags:
-- music
+- music-3-a01-be
 - silence
 - performance-gestures
 keywords:
-- music
+- music-3-a01-be
 - silence
 - performance-gestures
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Musicians use breaths, bow lifts, and pauses to signal intentional silence and guide audience perception.
 hero_summary: Musicians use breaths, bow lifts, and pauses to signal intentional silence and guide audience perception.
 layout: default
 permalink: /performance-gestures/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /silence/
 nav_short_title: Performance Gestures
 title: How Performers Use Gesture to Shape Silence
-title_full: How Performers Use Gesture to Shape Silence | Silence
+title_full: How Performers Use Gesture to Shape Silence
 display_title_short: Performance Gestures
 display_title: Performance Gestures
 heading_title: How Performers Use Gesture to Shape Silence
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Silence Can Be Music Too | Music
+parent_title: Why Silence Can Be Music Too
 parent_permalink: /silence/
 parent_nav_short_title: Silence
 parent_heading_title: Why Silence Can Be Music Too
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Silence Shapes the Impact of Recorded Music
 up_link:
   basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -265,7 +265,7 @@ next_link:
   permalink: /recording-space/
   short_title: Recording Space
   heading_title: Why Silence Shapes the Impact of Recorded Music
-date: '2026-06-09 06:34:43 '
+date: '2026-06-11 23:18:34 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_silence_in_music_822765_performance_silence_b
 
 ## Introduction
 
-In live and ensemble performance, [silence]({{ 'silence/' | relative_url }}) isn’t merely an absence of sound — it is an expressive component of the music that must be consciously shaped and communicated by performers. [Physical]({{ 'physical/' | relative_url }}) gestures that mark silence serve both **functional** and **expressive** roles: they ensure that intentional pauses are heard as part of a cohesive musical expression rather than accidental gaps, and they help co‑performers coordinate timing in the absence of sound. Research in performance science and musical communication reveals that musicians use breath, body motion and visual signalling to signal rests, pauses and entries after silence, underscoring how deeply silence is woven into the performative fabric of music-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBeating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
-
+In live and ensemble performance, [silence]({{ 'silence/' | relative_url }}) isn’t merely an absence of sound — it is an expressive component of the music that must be consciously shaped and communicated by performers. [Physical]({{ 'physical/' | relative_url }}) gestures that mark silence serve both **functional** and **expressive** roles: they ensure that intentional pauses are heard as part of a cohesive musical expression rather than accidental gaps, and they help co‑performers coordinate timing in the absence of sound. Research in performance science and musical communication reveals that musicians use breath, body motion and visual signalling to signal rests, pauses and entries after silence, underscoring how deeply silence is woven into the performative fabric of music-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-dark.svg" | relative_url }}" alt="Performance Gestures illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Breathing and Instrument Preparation
@@ -286,27 +285,20 @@ For wind and voice, breathing is intrinsically tied to phrasing: performers take
 
 Similarly, a **bow lift** or repositioning by string players during rests is more than technical housekeeping; it visually demarcates silence as intentional. Though the breath mark in notation does not specifically command a bow lift, performers increasingly integrate such preparatory movements into expressive practice so that silence appears purposeful rather than accidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/79uUTLJ7H_4" title="20 Tips for Choir Directors: TIP 5: Conducting Cutoffs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=79uUTLJ7H_4" target="_blank" rel="noopener noreferrer">20 Tips for Choir Directors: TIP 5: Conducting Cutoffs</a></p><p class="youtube-embed-meta">Channel: Music Ministry 101</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=79uUTLJ7H_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=79uUTLJ7H_4">Open on YouTube</a></p></div></div></div>
-
 ## Visual Cues for Ensemble Coordination
 
-Physical gestures are vital in ensemble settings to ensure shared interpretation of silence. When [music]({{ 'music/' | relative_url }}) includes long rests, fermatas (unspecified pauses), or general pauses for the entire ensemble, co‑performers must coordinate re‑entry precisely. Musicians thus exchange visual cues — head nods, eye contact, subtle body shifts — that act as non‑verbal communication channels during silence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMarch 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
+Physical gestures are vital in ensemble settings to ensure shared interpretation of silence. When music includes long rests, fermatas (unspecified pauses), or general pauses for the entire ensemble, co‑performers must coordinate re‑entry precisely. Musicians thus exchange visual cues — head nods, eye contact, subtle body shifts — that act as non‑verbal communication channels during silence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
 
-Empirical research using motion tracking in chamber duos has shown that visual **cueing‑in gestures** — such as rhythmic head movements or other bodily motion patterns — encode temporal information. Features such as acceleration peaks and gesture periodicity are interpreted by ensemble partners to anticipate beat position and tempo when no sound is present. Leaders in duet performance use these gestures to communicate timing before initiating sound, helping partners synchronise even after extended silent bars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
+Empirical research using motion tracking in chamber duos has shown that visual **cueing‑in gestures** — such as rhythmic head movements or other bodily motion patterns — encode temporal information. Features such as acceleration peaks and gesture periodicity are interpreted by ensemble partners to anticipate beat position and tempo when no sound is present. Leaders in duet performance use these gestures to communicate timing before initiating sound, helping partners synchronise even after extended silent bars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
 
-When regular auditory links are missing — for instance, after a long fermata or general pause — the visual channel becomes especially salient. Pianists have been shown to rely more heavily on visual cues when structural characteristics make acoustic timing ambiguous, indicating that performers consciously attend to one another’s visible movements to resolve silent intervals and prepare joint re‑entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBeating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
-
+When regular auditory links are missing — for instance, after a long fermata or general pause — the visual channel becomes especially salient. Pianists have been shown to rely more heavily on visual cues when structural characteristics make acoustic timing ambiguous, indicating that performers consciously attend to one another’s visible movements to resolve silent intervals and prepare joint re‑entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-2-dark.svg" | relative_url }}" alt="Performance Gestures illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timing and Expressive Pauses
 
-Beyond coordination, physical gestures around silence carry expressive meaning. In many performance traditions, a **fermatas’** extended silence is shaped by the individual choices of the performer, and bodily cues before and during these pauses help communicate expressive intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMarch 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
+Beyond coordination, physical gestures around silence carry expressive meaning. In many performance traditions, a **fermatas’** extended silence is shaped by the individual choices of the performer, and bodily cues before and during these pauses help communicate expressive intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
 
-In expressive duo and ensemble contexts, performers adapt their body motions — extending gestures that flow into silence or arresting motion during silences — to signal phrasing and narrative arcs in the music. Visual [attention]({{ 'attention/' | relative_url }}) between performers, often maintained through gaze as well as body movement, confirms mutual anticipation of silent endings and incoming material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBeyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</span><span class="citation-popover-meta">Published: January 31, 2022</span></span></span> These coordinated gestures do more than mark time; they knit silence into the performative narrative and allow expressive shaping in partnership with co‑performers.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XyK6w3eGY9g" title="Hilary Hahn — Reflective masterclass: Phrasing Technique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XyK6w3eGY9g" target="_blank" rel="noopener noreferrer">Hilary Hahn — Reflective masterclass: Phrasing Technique</a></p><p class="youtube-embed-meta">Channel: Hilary Hahn</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XyK6w3eGY9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XyK6w3eGY9g">Open on YouTube</a></p></div></div></div>
+In expressive duo and ensemble contexts, performers adapt their body motions — extending gestures that flow into silence or arresting motion during silences — to signal phrasing and narrative arcs in the music. Visual [attention]({{ 'attention/' | relative_url }}) between performers, often maintained through gaze as well as body movement, confirms mutual anticipation of silent endings and incoming material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</span><span class="citation-popover-meta">Published: January 31, 2022</span></span></span> These coordinated gestures do more than mark time; they knit silence into the performative narrative and allow expressive shaping in partnership with co‑performers.
 
 ## Practical Implications in Performance
 
@@ -314,15 +306,10 @@ For performers, mastering gestures that mark silence is part of developing sensi
 
 In orchestral and choral contexts, conductors take responsibility for signalling entries after silence, often using preparatory gestures and visual engagement — even subtle inhalations or gaze — to forecast the exact moment of sound. A conductor’s gestures thus bridge silent measures and reinforce synchronisation, showing that marking silence is a collaborative act that combines individual bodily preparation with group coordination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-3-dark.svg" | relative_url }}" alt="Performance Gestures illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
-Performers’ physical gestures that mark musical silence are mechanisms of musical communication, shaping how silence is perceived, coordinated and integrated into expressive performance. Through breath, preparatory movement, visual cueing and shared attention, musicians embed silence in the fabric of performance, ensuring it functionally aligns with ensemble timing and artistically enhances musical expression. These embodied gestures remind us that [silence in music]({{ 'silence/' | relative_url }}) is not passive absence but a communicative event actively crafted and shared by performers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diwV2HGKerE" title="What Conductors Are Really Doing | WIRED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diwV2HGKerE" target="_blank" rel="noopener noreferrer">What Conductors Are Really Doing | WIRED</a></p><p class="youtube-embed-meta">Channel: WIRED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diwV2HGKerE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diwV2HGKerE">Open on YouTube</a></p></div></div></div>
-
+Performers’ physical gestures that mark musical silence are mechanisms of musical communication, shaping how silence is perceived, coordinated and integrated into expressive performance. Through breath, preparatory movement, visual cueing and shared attention, musicians embed silence in the fabric of performance, ensuring it functionally aligns with ensemble timing and artistically enhances musical expression. These embodied gestures remind us that [silence in music]({{ 'silence/' | relative_url }}) is not passive absence but a communicative event actively crafted and shared by performers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -417,7 +404,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -441,15 +428,15 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electric light orchestra Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2c8a41168bee556f83ff.jpg' | relative_url }}" alt="Listing image for Electric light orchestra Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance"><img src="https://i.ebayimg.com/images/g/9XgAAeSw8Cdo90bl/s-l225.jpg" alt="Listing image for ​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electric light orchestra Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orchestra poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: orchestra poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -457,15 +444,15 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Tony Bennett London Symphony Orchestra Concert Poster Board"><img src="{{ '/assets/images/marketplace-covers/ef3b5a17259afefedc22.jpg' | relative_url }}" alt="Listing image for Vintage Tony Bennett London Symphony Orchestra Concert Poster Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK"><img src="https://i.ebayimg.com/images/g/ex8AAOSw14RdLxs2/s-l225.jpg" alt="Listing image for Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Tony Bennett London Symphony Orchestra Concert Poster Board</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orchestra poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: orchestra poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,15 +460,15 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electric Light Orchestra - Out of the Blue Fine Art Album Poster"><img src="{{ '/assets/images/marketplace-covers/5acbc709af3f8f917054.jpg' | relative_url }}" alt="Listing image for Electric Light Orchestra - Out of the Blue Fine Art Album Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902."><img src="https://i.ebayimg.com/images/g/j8AAAeSwamJp-a4I/s-l225.jpg" alt="Listing image for STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electric Light Orchestra - Out of the Blue Fine Art Album Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orchestra poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: orchestra poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +476,15 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electric Light Orchestra 1978 Germany Repro Concert Tour Live Poster - 36&quot;x24&quot;"><img src="{{ '/assets/images/marketplace-covers/d5959840b3cd56746fe7.jpg' | relative_url }}" alt="Listing image for Electric Light Orchestra 1978 Germany Repro Concert Tour Live Poster - 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand"><img src="https://i.ebayimg.com/images/g/x4kAAOSwBZJnNZNA/s-l225.jpg" alt="Listing image for Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electric Light Orchestra 1978 Germany Repro Concert Tour Live Poster - 36&quot;x24&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orchestra poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: orchestra poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,7 +492,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=orchestra+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orchestra poster -book -books" data-ebay-reference="performance-gestures-how-performers-use-gesture-to-shape-silence-music-orchestra-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -720,87 +707,87 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBeating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Breath mark  
-   Link: [https://en.wikipedia.org/wiki/Breath_mark](https://en.wikipedia.org/wiki/Breath_mark)  
+   Link: <a href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breath_mark</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMarch 1, 2015...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2015...</p></details>
    Published: March 1, 2015  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCJuly 30, 2020...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2020...</p></details>
    Published: July 30, 2020  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2201.13297](https://arxiv.org/abs/2201.13297)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBeyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.13297</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</p></details>
    Published: January 31, 2022  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Conducting](https://en.wikipedia.org/wiki/Conducting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conducting</a>  
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies](https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies)  
+   Link: <a href="https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodily movement and facial actions in expressive musical...29 Jun 2015 — In two studies this paper explores the expressive components of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mtosmt.org  
-   Link: [https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html](https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html)  
+   Link: <a href="https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 15.5: Berry, The Importance of Bodily GestureTHE IMPORTANCE OF BODILY GESTURE IN SOFIA GUBAIDULINA’S MUSIC FOR LOW STRINGS MICHAEL BE...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/scan/article/16/1-2/31/5878975](https://academic.oup.com/scan/article/16/1-2/31/5878975)  
+   Link: <a href="https://academic.oup.com/scan/article/16/1-2/31/5878975" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/scan/article/16/1-2/31/5878975</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of silence: an EEG study of how musicians time pauses in individual and joint music performance | Social Cognitive and Affective Neurosci...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs](https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs)  
+   Link: <a href="https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs</a>  
 
 11. <a id="endnote-11"></a>
    Source: musicsymbols.me  
    Title: It represents a full measure of silence in most time signatures, partic  
-   Link: [https://musicsymbols.me/rest/](https://musicsymbols.me/rest/)  
+   Link: <a href="https://musicsymbols.me/rest/" target="_blank" rel="noopener noreferrer nofollow">https://musicsymbols.me/rest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Rest Symbols and Their Meanings in Sheet MusicTYPES OF REST SYMBOLS WHOLE REST The whole rest looks like a small, solid rectangle h...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchcatalogue.net  
-   Link: [https://www.researchcatalogue.net/view/1712958/2928941](https://www.researchcatalogue.net/view/1712958/2928941)  
+   Link: <a href="https://www.researchcatalogue.net/view/1712958/2928941" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/1712958/2928941</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rs which may include icons, gestures, flags, text, signs, pictograms, architecture, audience behavior, ri...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research.ceu.edu  
-   Link: [https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in](https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in)  
+   Link: <a href="https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in" target="_blank" rel="noopener noreferrer nofollow">https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sound of silence: An EEG study of how musicians time pauses in individual and joint music performance - CEU Research Pure PortalJanuary 1...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hull-repository.worktribe.com  
    Title: supporting gestures breathing in piano performance  
-   Link: [https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance](https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance)  
+   Link: <a href="https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance" target="_blank" rel="noopener noreferrer nofollow">https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Existing research provides valuable insight into the importance of breathing for music performers and its function in supporting instrume...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en](https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctions, control dynamics, and coordinate the ensemble&#x27;s entrances and timing...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mtosmt.org  
    Title: MT O 18.1: Schutz, Looking Beyond the Score  
-   Link: [https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html](https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html)  
+   Link: <a href="https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 18.1: Schutz, Looking Beyond the ScoreApril 1, 2012 — LOOKING BEYOND THE SCORE: THE MUSICAL ROLE OF PERCUSSIONISTS’ ANCILLARY GESTURE...</p></details>
-   Published: April 1, 2012  
+   Published: April 1, 2012

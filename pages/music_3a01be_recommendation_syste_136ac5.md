@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - algorithms
 keywords:
-- music
+- music-3-a01-be
 - algorithms
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Recommendation systems help listeners find music but can also reinforce patterns and make visibility harder for outsiders.
 hero_summary: Recommendation systems help listeners find music but can also reinforce patterns and make visibility harder for outsiders.
 layout: default
 permalink: /algorithms/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Algorithms
 title: Do Algorithms Help Or Narrow Music Discovery?
-title_full: Do Algorithms Help Or Narrow Music Discovery? | Music
+title_full: Do Algorithms Help Or Narrow Music Discovery?
 display_title_short: Algorithms
 display_title: Algorithms
 heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 next_link:
   basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
-date: '2026-06-09 06:24:15 '
+date: '2026-06-11 23:13:08 '
 header:
   og_image: /assets/images/music_3a01be_recommendation_syste_136ac5-overview-social.jpg
   preview_image: /assets/images/music_3a01be_recommendation_syste_136ac5-overview.webp
@@ -501,17 +501,16 @@ image: /assets/images/music_3a01be_recommendation_syste_136ac5-overview-social.j
 
 ## Introduction
 
-Recommendation systems now sit between listeners and a vast share of recorded [music]({{ 'music/' | relative_url }}). They help people move through catalogues too large to browse by hand, turning listening history, skips, saves, playlists, context and similarity signals into personalised suggestions. At their best, these systems make discovery feel effortless: a listener opens an app and immediately finds a song that fits the moment. At their worst, they can make musical visibility less transparent, reward already legible patterns, and encourage artists to adapt their release strategies to systems they cannot fully inspect. The central question is not whether algorithms help or harm music discovery in a simple sense. They do both. They expand [access]({{ 'access/' | relative_url }}) by lowering search costs, while also shaping what “discoverable” music tends to look like, who gets repeated exposure, and how much control listeners and artists really have over the path from upload to audience.
-
+Recommendation systems now sit between listeners and a vast share of recorded music. They help people move through catalogues too large to browse by hand, turning listening history, skips, saves, playlists, context and similarity signals into personalised suggestions. At their best, these systems make discovery feel effortless: a listener opens an app and immediately finds a song that fits the moment. At their worst, they can make musical visibility less transparent, reward already legible patterns, and encourage artists to adapt their release strategies to systems they cannot fully inspect. The central question is not whether algorithms help or harm music discovery in a simple sense. They do both. They expand [access]({{ 'access/' | relative_url }}) by lowering search costs, while also shaping what “discoverable” music tends to look like, who gets repeated exposure, and how much control listeners and artists really have over the path from upload to audience.
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-overview.webp" | relative_url }}" alt="Overview image for Algorithms" loading="eager" decoding="sync" fetchpriority="high">
 ## Why algorithms became the new front door to music
 
 Streaming changed music discovery because the problem shifted from [scarcity]({{ 'scarcity/' | relative_url }}) to overload. A record shop, radio station or music magazine could only surface a limited number of releases. A streaming platform can host enormous catalogues, but that abundance creates a different bottleneck: [attention]({{ 'attention/' | relative_url }}). Recommendation systems are the platform’s answer to that bottleneck. They rank, sort and sequence songs so that a listener does not have to start each session with a blank search box.
 
-Spotify’s own public explanation says its recommendations are selected and ordered by algorithms using signals such as what a user listens to, skips, likes, saves and adds to playlists, alongside broader information about audio content and user context. The company presents the goal as relevance: matching each listener with music, podcasts or audiobooks they are likely to enjoy at that moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">SpotifyUnderstanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</span></span></span>
+Spotify’s own public explanation says its recommendations are selected and ordered by algorithms using signals such as what a user listens to, skips, likes, saves and adds to playlists, alongside broader information about audio content and user context. The company presents the goal as relevance: matching each listener with music, podcasts or audiobooks they are likely to enjoy at that moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</span></span></span>
 
-The mechanism is not one single “algorithm”. Modern music discovery usually combines several approaches. Collaborative filtering looks for patterns among listeners with overlapping behaviour. Content-based systems compare tracks by audio features, metadata, genre tags or textual descriptions. Context-aware systems may weigh time of day, device, activity or recent listening session. Human curation may also be folded in, especially around editorial playlists, mood collections and genre hubs. Deezer’s published work on Flow Moods, for example, describes a system that combines collaborative filtering, audio analysis and mood annotations from professional curators to generate personalised mood-specific playlists at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">arXivFlow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
+The mechanism is not one single “algorithm”. Modern music discovery usually combines several approaches. Collaborative filtering looks for patterns among listeners with overlapping behaviour. Content-based systems compare tracks by audio features, metadata, genre tags or textual descriptions. Context-aware systems may weigh time of day, device, activity or recent listening session. Human curation may also be folded in, especially around editorial playlists, mood collections and genre hubs. Deezer’s published work on Flow Moods, for example, describes a system that combines collaborative filtering, audio analysis and mood annotations from professional curators to generate personalised mood-specific playlists at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
 
 That blend matters because discovery is no longer just “people finding songs”. It is an interaction among listeners, artists, labels, platform design, recommendation objectives and feedback loops. A listener’s casual choices train the system. The system then changes what the listener sees next. Artists notice which surfaces produce streams and adapt their campaigns accordingly. Over time, discovery becomes less like walking into a shop and more like moving through a personalised, constantly updated map.
 
@@ -519,14 +518,13 @@ That blend matters because discovery is no longer just “people finding songs�
 
 The strongest case for recommendation systems is convenience. Many listeners do not want to research every new release, follow every local scene, or manually assemble music for commuting, working, exercising or relaxing. A good recommendation system reduces effort. It can surface artists a listener would not know how to search for, maintain continuity between familiar and unfamiliar music, and turn passive listening into small moments of discovery.
 
-Discover Weekly became the classic example of algorithmic music discovery because it made the promise feel simple: a weekly playlist that sounded personally chosen, but required no work. Spotify’s research on consumption diversity frames the platform’s challenge clearly: users can access millions of songs by millions of artists, so recommendation algorithms help them sort through abundance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> The value is practical rather than abstract. The listener hears something new without needing to know the artist’s name, scene, label, genre term or release history.
+[Discover Weekly]({{ 'discover-weekly/' | relative_url }}) became the classic example of algorithmic music discovery because it made the promise feel simple: a weekly playlist that sounded personally chosen, but required no work. Spotify’s research on consumption diversity frames the platform’s challenge clearly: users can access millions of songs by millions of artists, so recommendation algorithms help them sort through abundance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> The value is practical rather than abstract. The listener hears something new without needing to know the artist’s name, scene, label, genre term or release history.
 
 Personalisation can also broaden discovery when it moves listeners just beyond their existing habits. If a fan of one underground jazz drummer is recommended a related contemporary ensemble, or a listener who enjoys British post-punk is introduced to a current band from another city, the algorithm acts as a bridge. Spotify’s work on exploratory search similarly shows that graph-based methods can connect queries, songs, artists, podcasts, topics and genres in ways that support more exploratory search paths; in its tests, the model increased clicks on exploratory query suggestions without hurting latency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
-Yet personalisation is never neutral. A recommendation is not just a helpful nudge; it is a ranking decision. The same system that makes listening easier also decides which songs are not placed in front of a user. When music is encountered through personalised rows, autoplay, radio, generated playlists and “made for you” feeds, discovery can feel open while still being strongly shaped by platform choices. The listener experiences freedom, but within a designed set of options.
+Yet personalisation is never neutral. A recommendation is not just a helpful nudge; it is a ranking decision. The same system that makes listening easier also decides which songs are not placed in front of a user. When music is encountered through personalised rows, [autoplay]({{ 'autoplay/' | relative_url }}), radio, generated playlists and “made for you” feeds, discovery can feel open while still being strongly shaped by platform choices. The listener experiences freedom, but within a designed set of options.
 
 This is why music recommendation is best understood as a trade-off. It reduces friction, but it also gives platforms a powerful role in organising cultural attention. The user does not simply discover music; the user discovers music through a system optimised around particular signals and objectives.
-
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-1-dark.svg" | relative_url }}" alt="Algorithms illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The filter effect: when “more like this” becomes a narrower map
@@ -553,7 +551,6 @@ The UK Competition and Markets Authority’s music streaming market study examin
 
 The practical effect is uneven opportunity rather than simple exclusion. Recommendation systems can help an unknown artist reach listeners far beyond their city or scene. But they can also reward music that is already legible to the machine: tracks with clean metadata, familiar sonic neighbours, early engagement, platform-friendly release pacing and a clear behavioural profile. Outsiders are not locked out, but they may have to become easier for the system to read.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zstBWDUKY4g" title="Spotify Discovery Mode - The Best Opportunity Ever??? CONTROVERSY EXPLAINED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zstBWDUKY4g" target="_blank" rel="noopener noreferrer">Spotify Discovery Mode - The Best Opportunity Ever??? CONTROVERSY EXPLAINED</a></p><p class="youtube-embed-meta">Channel: Musformation // Jesse Cannon &middot; Views: 12.3K &middot; Uploaded: February 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zstBWDUKY4g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zstBWDUKY4g">Open on YouTube</a></p></div></div></div>
 
 ## Discovery tools give artists leverage, but also shift pressure onto them
@@ -568,7 +565,6 @@ The important point is not only whether Discovery Mode is “good” or “bad�
 
 What artists can control is therefore limited but real:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * **They can improve clarity.** Accurate metadata, consistent artist profiles, strong release information and clear genre positioning help platforms and listeners understand a track.
@@ -580,7 +576,6 @@ What artists can control is therefore limited but real:
 </div>
 
 This creates a psychological burden as well as a commercial one. Musicians may feel they are not only writing songs, but also producing signals for opaque systems.
-
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-2-dark.svg" | relative_url }}" alt="Algorithms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Human taste still matters, but it is increasingly mediated
@@ -615,9 +610,7 @@ Recent platform changes point towards this tension. Spotify has expanded persona
 
 The healthier version of algorithmic discovery is not one without algorithms. It is one where systems are designed to balance fit with breadth, give new and niche music enough room to be tested, and let listeners understand and adjust the path they are being taken down.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jeEBSH_sQTo" title="Campaign Kit | Spotify for Artists Masterclass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jeEBSH_sQTo" target="_blank" rel="noopener noreferrer">Campaign Kit | Spotify for Artists Masterclass</a></p><p class="youtube-embed-meta">Channel: Spotify for Artists &middot; Views: 24.1K &middot; Uploaded: January 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jeEBSH_sQTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jeEBSH_sQTo">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What listeners can do to keep discovery wider
 
 Listeners are not powerless. Because recommendation systems learn from behaviour, small habits can change the discovery environment around an account. The effect is not perfect or instant, but it matters.
@@ -629,9 +622,6 @@ It also helps to treat recommendations as starting points rather than final answ
 Listeners can also resist mood monotony. Mood playlists are convenient, but they often organise music around functional categories such as focus, chill, sleep, gym or commute. That can be useful, yet it may reduce artists to atmosphere. Alternating mood-based listening with album listening, scene exploration and human-curated programmes helps preserve music as more than background utility.
 
 The broader point is simple: recommendation systems are better servants than guides. They are excellent for reducing friction, but weaker at cultivating curiosity unless the listener actively gives them room to do so.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wbDIIQ2ExPw" title="How to find new music in the age of algorithms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wbDIIQ2ExPw" target="_blank" rel="noopener noreferrer">How to find new music in the age of algorithms</a></p><p class="youtube-embed-meta">Channel: Notes From The Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wbDIIQ2ExPw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wbDIIQ2ExPw">Open on YouTube</a></p></div></div></div>
 
 ## What recommendation systems really change about music discovery
 
@@ -647,8 +637,7 @@ Third, discovery is more governed by systems whose priorities are only partly vi
 
 The fairest assessment is therefore mixed. Recommendation systems genuinely help listeners find music and can give artists routes to audiences that would once have been unreachable. But they also concentrate discovery power inside platforms, reward certain patterns of visibility, and make musical opportunity depend on systems that artists and listeners can influence more easily than they can understand. The question for the future of music discovery is not whether algorithms should exist. It is whether they can be designed, governed and used in ways that make curiosity easier rather than making taste quietly smaller.
 
-
-<img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jeEBSH_sQTo" title="Campaign Kit | Spotify for Artists Masterclass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jeEBSH_sQTo" target="_blank" rel="noopener noreferrer">Campaign Kit | Spotify for Artists Masterclass</a></p><p class="youtube-embed-meta">Channel: Spotify for Artists &middot; Views: 24.1K &middot; Uploaded: January 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jeEBSH_sQTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jeEBSH_sQTo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1047,191 +1036,191 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
 1. <a id="endnote-1"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: [https://www.spotify.com/safetyandprivacy/understanding-recommendations](https://www.spotify.com/safetyandprivacy/understanding-recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</p></details>
+   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Flow Moods: Recommending Music by Moods on Deezer  
-   Link: [https://arxiv.org/abs/2207.11229](https://arxiv.org/abs/2207.11229)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFlow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.11229</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</p></details>
    Published: July 15, 2022  
 
 3. <a id="endnote-3"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: UK Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/discovery-mode](https://artists.spotify.com/en/discovery-mode)  
+   Link: <a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
 
 5. <a id="endnote-5"></a>
    Source: spotify.design  
-   Link: [https://spotify.design/](https://spotify.design/)  
+   Link: <a href="https://spotify.design/" target="_blank" rel="noopener noreferrer nofollow">https://spotify.design/</a>  
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: the impact of recommendation algorithms on the uks music industry  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/music-and-streaming-market-study](https://www.gov.uk/cma-cases/music-and-streaming-market-study)  
+   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
 
 9. <a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: masterclass campaign kit  
-   Link: [https://artists.spotify.com/en/video/masterclass-campaign-kit](https://artists.spotify.com/en/video/masterclass-campaign-kit)  
+   Link: <a href="https://artists.spotify.com/en/video/masterclass-campaign-kit" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/masterclass-campaign-kit</a>  
 
 10. <a id="endnote-10"></a>
    Source: support.spotify.com  
    Title: using discovery mode in spotify for artists  
-   Link: [https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/](https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/</a>  
 
 11. <a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: display campaigns  
-   Link: [https://artists.spotify.com/display-campaigns](https://artists.spotify.com/display-campaigns)  
+   Link: <a href="https://artists.spotify.com/display-campaigns" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/display-campaigns</a>  
 
 12. <a id="endnote-12"></a>
    Source: artists.spotify.com  
    Title: thuy how to grow audience spotify discovery mode marquee case study  
-   Link: [https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study](https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study)  
+   Link: <a href="https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study</a>  
 
 13. <a id="endnote-13"></a>
    Source: artists.spotify.com  
    Title: for artists tools 101  
-   Link: [https://artists.spotify.com/en/blog/spotify-for-artists-tools-101](https://artists.spotify.com/en/blog/spotify-for-artists-tools-101)  
+   Link: <a href="https://artists.spotify.com/en/blog/spotify-for-artists-tools-101" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/spotify-for-artists-tools-101</a>  
 
 14. <a id="endnote-14"></a>
    Source: artists.spotify.com  
    Title: thuy on her success with campaign kit and more  
-   Link: [https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more](https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more)  
+   Link: <a href="https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more</a>  
 
 15. <a id="endnote-15"></a>
    Source: artists.spotify.com  
    Title: marquee make noise when it matters most  
-   Link: [https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most](https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most)  
+   Link: <a href="https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most</a>  
 
 16. <a id="endnote-16"></a>
    Source: artists.spotify.com  
    Title: thuy how to grow audience spotify discovery mode marquee case study  
-   Link: [https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study](https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study)  
+   Link: <a href="https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study</a>  
 
 17. <a id="endnote-17"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: [https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research.atspotify.com  
    Title: graph learning for exploratory query suggestions in an instant search system  
-   Link: [https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system](https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system)  
+   Link: <a href="https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchGraph Learning for Exploratory Query Suggestions in an...25 Oct 2023 — We developed a query suggestion model based on gr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: [https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
 
 20. <a id="endnote-20"></a>
    Source: research.atspotify.com  
    Title: shifting consumption towards diverse content via reinforcement learning  
-   Link: [https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning](https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning)  
+   Link: <a href="https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning</a>  
 
 21. <a id="endnote-21"></a>
    Source: research.atspotify.com  
    Title: accelerating creator audience building through centralized exploration  
-   Link: [https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration](https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration)  
+   Link: <a href="https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration</a>  
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist](https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist)  
+   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
 
 23. <a id="endnote-23"></a>
    Source: firstmonday.org  
-   Link: [https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589](https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589)  
+   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589</a>  
 
 24. <a id="endnote-24"></a>
    Source: research.atspotify.com  
    Title: mostra balancing multiple objectives for music recommendation  
-   Link: [https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation](https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation)  
+   Link: <a href="https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation</a>  
 
 25. <a id="endnote-25"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval](https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval)  
+   Link: <a href="https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval</a>  
 
 26. <a id="endnote-26"></a>
    Source: passivepromotion.com  
    Title: spotify discovery mode strategy  
-   Link: [https://passivepromotion.com/spotify-discovery-mode-strategy/](https://passivepromotion.com/spotify-discovery-mode-strategy/)  
+   Link: <a href="https://passivepromotion.com/spotify-discovery-mode-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://passivepromotion.com/spotify-discovery-mode-strategy/</a>  
 
 27. <a id="endnote-27"></a>
    Source: research.atspotify.com  
    Title: spotify at recsys 2019  
-   Link: [https://research.atspotify.com/2019/10/spotify-at-recsys-2019](https://research.atspotify.com/2019/10/spotify-at-recsys-2019)  
+   Link: <a href="https://research.atspotify.com/2019/10/spotify-at-recsys-2019" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2019/10/spotify-at-recsys-2019</a>  
 
 28. <a id="endnote-28"></a>
    Source: horusmusic.global  
    Title: spotifys discovery mode explained  
-   Link: [https://www.horusmusic.global/spotifys-discovery-mode-explained/](https://www.horusmusic.global/spotifys-discovery-mode-explained/)  
+   Link: <a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Spotify Discovery Mode  
-   Link: [https://www.youtube.com/watch?v=zstBWDUKY4g&vl=en](https://www.youtube.com/watch?v=zstBWDUKY4g&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=zstBWDUKY4g&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zstBWDUKY4g&amp;vl=en</a>  
 
 30. <a id="endnote-30"></a>
    Source: identitymusic.com  
    Title: spotify discovery mode the guide  
-   Link: [https://identitymusic.com/blog/spotify-discovery-mode-the-guide](https://identitymusic.com/blog/spotify-discovery-mode-the-guide)  
+   Link: <a href="https://identitymusic.com/blog/spotify-discovery-mode-the-guide" target="_blank" rel="noopener noreferrer nofollow">https://identitymusic.com/blog/spotify-discovery-mode-the-guide</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: How Recommendation Algorithms Shape Your Music Taste  
-   Link: [https://www.youtube.com/watch?v=1FhXG0gHw2U](https://www.youtube.com/watch?v=1FhXG0gHw2U)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Personalised [Music Recommendations](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=1FhXG0gHw2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1FhXG0gHw2U</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Personalised Music Recommendations...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/](https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/)  
+   Link: <a href="https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/</a>  
 
 33. <a id="endnote-33"></a>
    Source: ravensbourne.ac.uk  
-   Link: [https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf](https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf)  
+   Link: <a href="https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: renownedforsound.com  
-   Link: [https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/](https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/)  
+   Link: <a href="https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/</a>  
 
 35. <a id="endnote-35"></a>
    Source: ism.org  
-   Link: [https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf](https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf)  
+   Link: <a href="https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: competitionpolicyinternational.com  
-   Link: [https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf](https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf)  
+   Link: <a href="https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: create.ac.uk  
-   Link: [https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf](https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf)  
+   Link: <a href="https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: music-tomorrow.com  
-   Link: [https://www.music-tomorrow.com/blog](https://www.music-tomorrow.com/blog)  
+   Link: <a href="https://www.music-tomorrow.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog</a>  
 
 39. <a id="endnote-39"></a>
    Source: andrebola.github.io  
-   Link: [https://andrebola.github.io/thesis_v_26_10_21.pdf](https://andrebola.github.io/thesis_v_26_10_21.pdf)  
+   Link: <a href="https://andrebola.github.io/thesis_v_26_10_21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andrebola.github.io/thesis_v_26_10_21.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: pec.ac.uk  
-   Link: [https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf](https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf)  
+   Link: <a href="https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf</a>

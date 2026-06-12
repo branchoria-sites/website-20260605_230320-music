@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_live_music_income_c1ddfd_setlist_royalties_b63de8
 - music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635
 tags:
-- music
+- music-3-a01-be
 - live-income
 - small-gigs
 keywords:
-- music
+- music-3-a01-be
 - live-income
 - small-gigs
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Small shows rarely make artists rich, but they can turn a local audience into fees, merch sales, contacts and future bookings.
 hero_summary: Small shows rarely make artists rich, but they can turn a local audience into fees, merch sales, contacts and future bookings.
 layout: default
 permalink: /small-gigs/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /live-income/
 nav_short_title: Small Gigs
 title: When a Small Gig Actually Pays Off
-title_full: When a Small Gig Actually Pays Off | Live Income
+title_full: When a Small Gig Actually Pays Off
 display_title_short: Small Gigs
 display_title: Small Gigs
 heading_title: When a Small Gig Actually Pays Off
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Live Music Still Pays Differently | Music
+parent_title: Why Live Music Still Pays Differently
 parent_permalink: /live-income/
 parent_nav_short_title: Live Income
 parent_heading_title: Why Live Music Still Pays Differently
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Where Your Ticket Money Really Goes
 up_link:
   basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
@@ -265,7 +265,7 @@ next_link:
   permalink: /ticket-split/
   short_title: Ticket Split
   heading_title: Where Your Ticket Money Really Goes
-date: '2026-06-09 06:29:34 '
+date: '2026-06-11 23:15:57 '
 header:
   og_image: /assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1.webp
@@ -276,11 +276,10 @@ image: /assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_523
 
 Small gigs rarely transform a musician’s finances overnight, but they can generate direct income in ways that streaming, social media [attention]({{ 'attention/' | relative_url }}) and passive listening often cannot. A successful night in a 100- or 200-capacity venue may produce a performance fee, a share of ticket revenue, merchandise sales, new mailing-list subscribers and future booking opportunities all at once. For many working musicians, these modest shows are not glamorous extras; they are part of the practical income mix that keeps a career moving forward. The key question is not whether a small gig can make someone rich. It is whether the event earns more value than it costs. In many cases, it does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1-dark.svg" | relative_url }}" alt="Small Gigs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Fees, Door Splits and Guarantees Work
 
-The most obvious way a small gig pays is through the performance deal itself. [Grassroots venues]({{ 'grassroots/' | relative_url }}), promoters and artists typically use a handful of payment models.
+The most obvious way a small gig pays is through the performance deal itself. [Grassroots]({{ 'grassroots/' | relative_url }}) venues, promoters and artists typically use a handful of payment models.
 
 A straightforward guarantee gives the artist a fixed fee regardless of attendance. This reduces risk for the performer but places more risk on the promoter. Musicians’ Union guidance notes that guaranteed fees remain a standard arrangement, particularly when an artist has already demonstrated an ability to draw an audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span>
 
@@ -290,33 +289,24 @@ Hybrid deals sit between those two models. An artist might receive a modest guar
 
 For emerging acts, the important point is that even relatively small crowds can produce meaningful earnings when the deal structure is favourable. A room of 120 paying customers is not a headline success story, but it can still generate enough revenue to cover performers, support acts and some touring expenses when costs are controlled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.img-stageline.com/magazine/doordeal-pay2play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img-stageline.com">[img-stageline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img-stageline.com</span><span class="citation-popover-snippet">Door deal and Pay2Play: how much is live music worth?The usual ratio is 70/30: 70% of the entrance fees for the band, 30% for the promote...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nibusinessinfo.co.uk/content/negotiate-gig-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibusinessinfo.co.uk">[Nibusinessinfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibusinessinfo.co.uk</span><span class="citation-popover-snippet">The artist or the band do not get a set fee for performing. Instead, their payment depends on the event&#x27;s attendance...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1WUcPA-zeU" title="20 Ways To Get Gigs I Wish I Knew 10 Years Ago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1WUcPA-zeU" target="_blank" rel="noopener noreferrer">20 Ways To Get Gigs I Wish I Knew 10 Years Ago</a></p><p class="youtube-embed-meta">Channel: Drum Beats Online</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1WUcPA-zeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1WUcPA-zeU">Open on YouTube</a></p></div></div></div>
-
 ## Why Merch and Fan Data Matter at Small Scale
 
 The ticket payment is often only part of the financial picture. Many independent musicians view the merchandise table as a second cash register.
 
-A fan who spends £10 or £20 on a T-shirt, [vinyl]({{ 'vinyl/' | relative_url }}) record or poster may contribute more profit in a single evening than months of streaming activity. Industry reporting has repeatedly highlighted merchandise as a critical source of income for independent artists, especially those operating below arena level. In some cases, artists report that [merch]({{ 'merch/' | relative_url }}) sales matter more than the performance fee itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jowheretogo.co.uk/f/the-role-of-merchandise-sales-at-live-music-gigs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jowheretogo.co.uk">[Jowheretogo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jowheretogo.co.uk</span><span class="citation-popover-snippet">JowheretogoThe Role of Merchandise Sales at Live Music GigsMerchandise sales provide a vital income stream for artists, especially for in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/jan/28/rise-in-vinyl-sales-at-concerts-gives-indie-artists-a-vital-lifeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">For musicians like Roxanne de Bastion, selling vinyl and merchandise at gigs can be the difference between financial loss and stability...</span></span></span>
+A fan who spends £10 or £20 on a T-shirt, [vinyl]({{ 'vinyl/' | relative_url }}) record or poster may contribute more profit in a single evening than months of streaming activity. Industry reporting has repeatedly highlighted merchandise as a critical source of income for independent artists, especially those operating below arena level. In some cases, artists report that [merch]({{ 'merch/' | relative_url }}) sales matter more than the performance fee itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jowheretogo.co.uk/f/the-role-of-merchandise-sales-at-live-music-gigs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jowheretogo.co.uk">[Jowheretogo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jowheretogo.co.uk</span><span class="citation-popover-snippet">The Role of Merchandise Sales at Live Music GigsMerchandise sales provide a vital income stream for artists, especially for in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/jan/28/rise-in-vinyl-sales-at-concerts-gives-indie-artists-a-vital-lifeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">For musicians like Roxanne de Bastion, selling vinyl and merchandise at gigs can be the difference between financial loss and stability...</span></span></span>
 
-Small venues can be particularly valuable because they often allow artists to keep a larger share of merchandise revenue. [Grassroots]({{ 'grassroots/' | relative_url }}) venue advocates in the UK have argued that artists should retain full control of merch income, and many independent venues do not take commissions on sales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicvenuetrust.com/2025/09/music-venue-trust-and-the-association-of-independent-promoters-formalise-commitment-to-reject-unfair-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicvenuetrust.com">[Music Venue Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicvenuetrust.com</span><span class="citation-popover-snippet">Music Venue TrustMusic Venue Trust and The Association of Independent...18 Sept 2025 — Furthermore, MVT has reaffirmed that its 800-plus...</span></span></span>
+Small venues can be particularly valuable because they often allow artists to keep a larger share of merchandise revenue. Grassroots venue advocates in the UK have argued that artists should retain full control of merch income, and many independent venues do not take commissions on sales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicvenuetrust.com/2025/09/music-venue-trust-and-the-association-of-independent-promoters-formalise-commitment-to-reject-unfair-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicvenuetrust.com">[Music Venue Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicvenuetrust.com</span><span class="citation-popover-snippet">Music Venue TrustMusic Venue Trust and The Association of Independent...18 Sept 2025 — Furthermore, MVT has reaffirmed that its 800-plus...</span></span></span>
 
-Just as important is the audience information gathered at the show. A musician who persuades twenty attendees to join a mailing list leaves with an asset that can be used repeatedly. Those contacts can be informed about future [concerts]({{ 'concerts/' | relative_url }}), releases, crowdfunding campaigns or direct-to-fan merchandise offers. Direct relationships are increasingly valuable because they allow artists to market future work without relying entirely on algorithms or paid advertising. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/direct-to-fan-sales-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">direct to fan sales music</span><span class="citation-popover-snippet">OrphiqDirect-to-Fan Sales: Revenue Outside Streaming15 Mar 2026 — Three platforms dominate direct-to-fan sales for independent artists. O...</span></span></span>
+Just as important is the audience information gathered at the show. A musician who persuades twenty attendees to join a mailing list leaves with an asset that can be used repeatedly. Those contacts can be informed about future [concerts]({{ 'concerts/' | relative_url }}), releases, crowdfunding campaigns or direct-to-fan merchandise offers. Direct relationships are increasingly valuable because they allow artists to market future work without relying entirely on algorithms or paid advertising. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/direct-to-fan-sales-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">direct to fan sales music</span><span class="citation-popover-snippet">Direct-to-Fan Sales: Revenue Outside Streaming15 Mar 2026 — Three platforms dominate direct-to-fan sales for independent artists. O...</span></span></span>
 
 A small crowd therefore has a long-term value that exceeds the money collected on the night:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Merchandise sales generate immediate cash flow.
 * Mailing-list sign-ups create future marketing reach.
-* Personal interactions strengthen fan loyalty.
+* Personal interactions strengthen [fan loyalty]({{ 'fan-loyalty/' | relative_url }}).
 * Returning attendees increase the likelihood of larger future shows.
 
-</div>
-
 This is one reason musicians often describe grassroots gigs as investments rather than isolated transactions.
-
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-2-dark.svg" | relative_url }}" alt="Small Gigs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Value of Future Bookings
@@ -328,9 +318,6 @@ Promoters, venue bookers and festival organisers frequently want proof that an a
 The live sector increasingly relies on measurable audience engagement when assessing risk. A sold-out grassroots venue may lead directly to support slots, festival invitations or higher guarantees at future events. The income from those later opportunities can exceed the earnings from the original gig that created them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span>
 
 This helps explain why many musicians continue playing smaller venues even when the immediate payout appears modest. The show is not only a source of cash; it is a demonstration of market demand.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MY8AB1wYOtg" title="The Absurd Logistics of Concert Tours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MY8AB1wYOtg" target="_blank" rel="noopener noreferrer">The Absurd Logistics of Concert Tours</a></p><p class="youtube-embed-meta">Channel: Wendover Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MY8AB1wYOtg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MY8AB1wYOtg">Open on YouTube</a></p></div></div></div>
 
 ## The Costs That Can Wipe Out a Good Night
 
@@ -344,17 +331,12 @@ Door-split arrangements also transfer part of the promotional burden to performe
 
 Merchandise can present its own risks. Stock must be designed, manufactured and transported before any sales occur. Unsold inventory ties up cash. In some venues, commissions on merchandise sales can significantly reduce margins, although this is less common within the UK grassroots venue movement than in parts of the larger touring market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/features/article/artist-merch-cuts-venues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Many indie artists have publicly protested against this practice, citing that it significantly reduces their earnings and is particularly...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-3-dark.svg" | relative_url }}" alt="Small Gigs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Small Gig Actually Pays Off
 
 A small gig pays off when several modest revenue streams reinforce one another. The performance fee covers the basics, merchandise adds margin, new fans join mailing lists, and the event helps secure future bookings. None of those elements may be transformative on its own. Together, however, they can turn a local audience into a meaningful source of income and career momentum.
 
-That is why grassroots live performance remains financially relevant. Even when the room is small, the money is often more direct, more immediate and more connected to genuine audience support than many other parts of the modern [music]({{ 'music/' | relative_url }}) business. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1TY3au_1XqM" title="How Much to Charge for a Music Gig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1TY3au_1XqM" target="_blank" rel="noopener noreferrer">How Much to Charge for a Music Gig</a></p><p class="youtube-embed-meta">Channel: Dave Ruch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1TY3au_1XqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1TY3au_1XqM">Open on YouTube</a></p></div></div></div>
-
+That is why grassroots live performance remains financially relevant. Even when the room is small, the money is often more direct, more immediate and more connected to genuine audience support than many other parts of the modern music business. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">s all sectors of the music business...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +455,15 @@ That is why grassroots live performance remains financially relevant. Even when 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Primal Scream Screamadelica Album Tribute T-Shirt Indie Band Sun Tee 90s 6 Cols"><img src="{{ '/assets/images/marketplace-covers/f37eb38f5775f5666768.jpg' | relative_url }}" alt="Listing image for Primal Scream Screamadelica Album Tribute T-Shirt Indie Band Sun Tee 90s 6 Cols" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Primal Scream Screamadelica Album Tribute T-Shirt Indie Band Sun Tee 90s 6 Cols</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +471,15 @@ That is why grassroots live performance remains financially relevant. Even when 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cure Gothic Cat Moon T-Shirt Vintage Indie Rock Band UK Tour 2026 Gift Top"><img src="{{ '/assets/images/marketplace-covers/57c4e993aaffffb3dc22.jpg' | relative_url }}" alt="Listing image for The Cure Gothic Cat Moon T-Shirt Vintage Indie Rock Band UK Tour 2026 Gift Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Cure Gothic Cat Moon T-Shirt Vintage Indie Rock Band UK Tour 2026 Gift Top</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +487,15 @@ That is why grassroots live performance remains financially relevant. Even when 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pulp Different Class Album Tribute T-Shirt Britpop 90s Indie Band Tee 6 Colours"><img src="{{ '/assets/images/marketplace-covers/6fba2a44909fccd3bafc.jpg' | relative_url }}" alt="Listing image for Pulp Different Class Album Tribute T-Shirt Britpop 90s Indie Band Tee 6 Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Pulp Different Class Album Tribute T-Shirt Britpop 90s Indie Band Tee 6 Colours</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +503,15 @@ That is why grassroots live performance remains financially relevant. Even when 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLOWERED UP T-shirt, 90s Indie Rock Band Tee Madchester Unisex happy mondays"><img src="{{ '/assets/images/marketplace-covers/c3fe849be352d9de767b.jpg' | relative_url }}" alt="Listing image for FLOWERED UP T-shirt, 90s Indie Rock Band Tee Madchester Unisex happy mondays" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FLOWERED UP T-shirt, 90s Indie Rock Band Tee Madchester Unisex happy mondays</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +519,7 @@ That is why grassroots live performance remains financially relevant. Even when 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band t shirt" data-ebay-reference="small-gigs-when-a-small-gig-actually-pays-off-music-indie-band-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="when-a-small-gig-actually-pays-off-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,151 +734,151 @@ That is why grassroots live performance remains financially relevant. Even when 
 
 1. <a id="endnote-1"></a>
    Source: img-stageline.com  
-   Link: [https://www.img-stageline.com/magazine/doordeal-pay2play](https://www.img-stageline.com/magazine/doordeal-pay2play)  
+   Link: <a href="https://www.img-stageline.com/magazine/doordeal-pay2play" target="_blank" rel="noopener noreferrer nofollow">https://www.img-stageline.com/magazine/doordeal-pay2play</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Door deal and Pay2Play: how much is live music worth?The usual ratio is 70/30: 70% of the entrance fees for the band, 30% for the promote...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: orphiq.com  
    Title: direct to fan sales music  
-   Link: [https://orphiq.com/resources/direct-to-fan-sales-music](https://orphiq.com/resources/direct-to-fan-sales-music)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqDirect-to-Fan Sales: Revenue Outside Streaming15 Mar 2026 — Three platforms dominate direct-to-fan sales for independent artists. O...</p></details>
+   Link: <a href="https://orphiq.com/resources/direct-to-fan-sales-music" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/direct-to-fan-sales-music</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Direct-to-Fan Sales: Revenue Outside Streaming15 Mar 2026 — Three platforms dominate direct-to-fan sales for independent artists. O...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/features/article/artist-merch-cuts-venues](https://pitchfork.com/features/article/artist-merch-cuts-venues)  
+   Link: <a href="https://pitchfork.com/features/article/artist-merch-cuts-venues" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/features/article/artist-merch-cuts-venues</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many indie artists have publicly protested against this practice, citing that it significantly reduces their earnings and is particularly...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionRecommended Minimum Rates for Live Musicians | The MUA guaranteed fee plus a percentage of the door / box office takings...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union How Much Do Gigs Pay?  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/national-gig-rates](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/national-gig-rates)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National Gig RatesFor musicians in groups performing in pubs and clubs of up to 3 hours: £167.16 per musician · For musicians in groups...</p></details>
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/national-gig-rates" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/national-gig-rates</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Gig RatesFor musicians in groups performing in pubs and clubs of up to 3 hours: £167.16 per musician · For musicians in groups...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: musiciansunion.org.uk  
    Title: fair play guide  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performance/fair-play-guide](https://musiciansunion.org.uk/working-performing/gigs-and-live-performance/fair-play-guide)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performance/fair-play-guide" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performance/fair-play-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionThe Fair Play Guide for Live Musicians | The MU27 Mar 2024 — The Fair Play Guide explains how musicians can recognise and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nibusinessinfo.co.uk  
-   Link: [https://www.nibusinessinfo.co.uk/content/negotiate-gig-deal](https://www.nibusinessinfo.co.uk/content/negotiate-gig-deal)  
+   Link: <a href="https://www.nibusinessinfo.co.uk/content/negotiate-gig-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.nibusinessinfo.co.uk/content/negotiate-gig-deal</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The artist or the band do not get a set fee for performing. Instead, their payment depends on the event&#x27;s attendance...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jowheretogo.co.uk  
-   Link: [https://jowheretogo.co.uk/f/the-role-of-merchandise-sales-at-live-music-gigs](https://jowheretogo.co.uk/f/the-role-of-merchandise-sales-at-live-music-gigs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JowheretogoThe Role of Merchandise Sales at Live Music GigsMerchandise sales provide a vital income stream for artists, especially for in...</p></details>
+   Link: <a href="https://jowheretogo.co.uk/f/the-role-of-merchandise-sales-at-live-music-gigs" target="_blank" rel="noopener noreferrer nofollow">https://jowheretogo.co.uk/f/the-role-of-merchandise-sales-at-live-music-gigs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Merchandise Sales at Live Music GigsMerchandise sales provide a vital income stream for artists, especially for in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2024/jan/28/rise-in-vinyl-sales-at-concerts-gives-indie-artists-a-vital-lifeline](https://www.theguardian.com/music/2024/jan/28/rise-in-vinyl-sales-at-concerts-gives-indie-artists-a-vital-lifeline)  
+   Link: <a href="https://www.theguardian.com/music/2024/jan/28/rise-in-vinyl-sales-at-concerts-gives-indie-artists-a-vital-lifeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/jan/28/rise-in-vinyl-sales-at-concerts-gives-indie-artists-a-vital-lifeline</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For musicians like Roxanne de Bastion, selling vinyl and merchandise at gigs can be the difference between financial loss and stability...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: musicvenuetrust.com  
-   Link: [https://www.musicvenuetrust.com/2025/09/music-venue-trust-and-the-association-of-independent-promoters-formalise-commitment-to-reject-unfair-practices/](https://www.musicvenuetrust.com/2025/09/music-venue-trust-and-the-association-of-independent-promoters-formalise-commitment-to-reject-unfair-practices/)  
+   Link: <a href="https://www.musicvenuetrust.com/2025/09/music-venue-trust-and-the-association-of-independent-promoters-formalise-commitment-to-reject-unfair-practices/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2025/09/music-venue-trust-and-the-association-of-independent-promoters-formalise-commitment-to-reject-unfair-practices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustMusic Venue Trust and The Association of Independent...18 Sept 2025 — Furthermore, MVT has reaffirmed that its 800-plus...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/working-overseas/gigging-and-performing-live-abroad](https://musiciansunion.org.uk/working-performing/working-overseas/gigging-and-performing-live-abroad)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/working-overseas/gigging-and-performing-live-abroad" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/working-overseas/gigging-and-performing-live-abroad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionGigging &amp; Performing Abroad | Advice for Musicians | The MUIf you communicate with the promoter at the outset, they may b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/](https://musiciansunion.org.uk/)  
+   Link: <a href="https://musiciansunion.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s all sectors of the music business...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/fair-play-music-venues](https://musiciansunion.org.uk/fair-play-music-venues)  
+   Link: <a href="https://musiciansunion.org.uk/fair-play-music-venues" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/fair-play-music-venues</a>  
 
 14. <a id="endnote-14"></a>
    Source: musiciansunion.org.uk  
    Title: Find out how we support live  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/engagement-booking-for-unsigned-and-emerging-artists](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/engagement-booking-for-unsigned-and-emerging-artists)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/engagement-booking-for-unsigned-and-emerging-artists" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/engagement-booking-for-unsigned-and-emerging-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement Booking for Unsigned and Emerging Artists30 Mar 2022 — The MU has advice for a career in live music, whether you are just star...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musiciansunion.org.uk  
    Title: Find out how we support live musicians  
-   Link: [https://musiciansunion.org.uk/gigs-and-live-performance](https://musiciansunion.org.uk/gigs-and-live-performance)  
+   Link: <a href="https://musiciansunion.org.uk/gigs-and-live-performance" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/gigs-and-live-performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Industry | Gigs &amp; Live Performances | The MUThe MU has advice for a career in live music, whether you are just starting out or...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musiciansunion.org.uk  
    Title: performing and touring with featured artists  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/performing-and-touring-with-featured-artists](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/performing-and-touring-with-featured-artists)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/performing-and-touring-with-featured-artists" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/performing-and-touring-with-featured-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you are working with a new promoter, it is wise to ask for some...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/residency-gig-rates](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/residency-gig-rates)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/residency-gig-rates" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay/residency-gig-rates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>estaurants, nightclubs at holiday centres and on ships, April 2026.Read more...</p></details>
    Published: April 2026  
 
 18. <a id="endnote-18"></a>
    Source: theunsignedguide.com  
-   Link: [https://www.theunsignedguide.com/blog/710-musicians-union-offer-advice-on-getting-fair-pay-for-gigs-[recording](https://www.theunsignedguide.com/blog/710-musicians-union-offer-advice-on-getting-fair-pay-for-gigs-[recording)  
+   Link: <a href="https://www.theunsignedguide.com/blog/710-musicians-union-offer-advice-on-getting-fair-pay-for-gigs-[recording" target="_blank" rel="noopener noreferrer nofollow">https://www.theunsignedguide.com/blog/710-musicians-union-offer-advice-on-getting-fair-pay-for-gigs-[recording</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; Union offer advice on getting fair pay for gigs...Musicians&#x27; Union offer advice on getting fair pay for gigs, recording contr...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: theinnersanctumgroup.co.uk  
-   Link: [https://theinnersanctumgroup.co.uk/blogs/the-merch-stand/how-merch-supports-independent-artists-brand-revenue?srsltid=AfmBOoq7spqLhVeazg8JaKzsRyyAynYt5xvyLZVTn4YWvy7MlGk3I5J9](https://theinnersanctumgroup.co.uk/blogs/the-merch-stand/how-merch-supports-independent-artists-brand-revenue?srsltid=AfmBOoq7spqLhVeazg8JaKzsRyyAynYt5xvyLZVTn4YWvy7MlGk3I5J9)  
+   Link: <a href="https://theinnersanctumgroup.co.uk/blogs/the-merch-stand/how-merch-supports-independent-artists-brand-revenue?srsltid=AfmBOoq7spqLhVeazg8JaKzsRyyAynYt5xvyLZVTn4YWvy7MlGk3I5J9" target="_blank" rel="noopener noreferrer nofollow">https://theinnersanctumgroup.co.uk/blogs/the-merch-stand/how-merch-supports-independent-artists-brand-revenue?srsltid=AfmBOoq7spqLhVeazg8JaKzsRyyAynYt5xvyLZVTn4YWvy7MlGk3I5J9</a>  
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DY7o2fivi0V/](https://www.instagram.com/reel/DY7o2fivi0V/)  
+   Link: <a href="https://www.instagram.com/reel/DY7o2fivi0V/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY7o2fivi0V/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SXSW on Instagram: &quot;Merch Independent Artists Learn how...Live shows, touring, merchandise, D2C connection with fans. Great way for inde...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/14448p7/how_events_deals_work/](https://www.reddit.com/r/musicindustry/comments/14448p7/how_events_deals_work/)  
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/14448p7/how_events_deals_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/14448p7/how_events_deals_work/</a>  
 
 22. <a id="endnote-22"></a>
    Source: good-show.co.uk  
-   Link: [https://good-show.co.uk/blog/18-How-to-Pay-Artists-for-Live-Events-Flat-Fees-vs-Revenue-Shares-Explained?srsltid=AfmBOopogzaXw6T16fCVuNHyYSwcszxE4xg4QUiBblWh7deBfUg5CFIG](https://good-show.co.uk/blog/18-How-to-Pay-Artists-for-Live-Events-Flat-Fees-vs-Revenue-Shares-Explained?srsltid=AfmBOopogzaXw6T16fCVuNHyYSwcszxE4xg4QUiBblWh7deBfUg5CFIG)  
+   Link: <a href="https://good-show.co.uk/blog/18-How-to-Pay-Artists-for-Live-Events-Flat-Fees-vs-Revenue-Shares-Explained?srsltid=AfmBOopogzaXw6T16fCVuNHyYSwcszxE4xg4QUiBblWh7deBfUg5CFIG" target="_blank" rel="noopener noreferrer nofollow">https://good-show.co.uk/blog/18-How-to-Pay-Artists-for-Live-Events-Flat-Fees-vs-Revenue-Shares-Explained?srsltid=AfmBOopogzaXw6T16fCVuNHyYSwcszxE4xg4QUiBblWh7deBfUg5CFIG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This model is more commonly found in comedy events. Here, no guarantee is agreed and instead the ticket revenue is...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: fflat-books.com  
    Title: how artists monetize their craft through concerts streaming and merchandise  
-   Link: [https://fflat-books.com/how-artists-monetize-their-craft-through-concerts-streaming-and-merchandise/?srsltid=AfmBOoo2aR5IZunzcCuS1g9_4quoY5ZaNRZEoR2h35xLKc5HIt5H541f](https://fflat-books.com/how-artists-monetize-their-craft-through-concerts-streaming-and-merchandise/?srsltid=AfmBOoo2aR5IZunzcCuS1g9_4quoY5ZaNRZEoR2h35xLKc5HIt5H541f)  
+   Link: <a href="https://fflat-books.com/how-artists-monetize-their-craft-through-concerts-streaming-and-merchandise/?srsltid=AfmBOoo2aR5IZunzcCuS1g9_4quoY5ZaNRZEoR2h35xLKc5HIt5H541f" target="_blank" rel="noopener noreferrer nofollow">https://fflat-books.com/how-artists-monetize-their-craft-through-concerts-streaming-and-merchandise/?srsltid=AfmBOoo2aR5IZunzcCuS1g9_4quoY5ZaNRZEoR2h35xLKc5HIt5H541f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Artists Monetize Their Craft Through Concerts...11 Mar 2025 — Merchandise sales have become an essential revenue stream for musician...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theunsignedguide.com  
    Title: The Unsigned Guide Booking agents explained by the Musicians' Union  
-   Link: [https://www.theunsignedguide.com/blog/654-booking-agents-explained-by-the-musicians-union](https://www.theunsignedguide.com/blog/654-booking-agents-explained-by-the-musicians-union)  
+   Link: <a href="https://www.theunsignedguide.com/blog/654-booking-agents-explained-by-the-musicians-union" target="_blank" rel="noopener noreferrer nofollow">https://www.theunsignedguide.com/blog/654-booking-agents-explained-by-the-musicians-union</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Booking agents explained by the Musicians&#x27; Union - BlogThis blog spells out the different types of agent you may come across when booking...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: learn.midnightmango.co.uk  
-   Link: [https://learn.midnightmango.co.uk/the-library/show-deals-an-overview/](https://learn.midnightmango.co.uk/the-library/show-deals-an-overview/)  
+   Link: <a href="https://learn.midnightmango.co.uk/the-library/show-deals-an-overview/" target="_blank" rel="noopener noreferrer nofollow">https://learn.midnightmango.co.uk/the-library/show-deals-an-overview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deals – An OverviewThe main way to spot a “Plus Deal” is you will see the artists guaranteed fee in the show costs as well as a line for...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ticketfairy.com  
    Title: numbers dont lie key venue kpis that drive success in 2026  
-   Link: [https://www.ticketfairy.com/blog/numbers-dont-lie-key-venue-kpis-that-drive-success-in-2026](https://www.ticketfairy.com/blog/numbers-dont-lie-key-venue-kpis-that-drive-success-in-2026)  
+   Link: <a href="https://www.ticketfairy.com/blog/numbers-dont-lie-key-venue-kpis-that-drive-success-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.ticketfairy.com/blog/numbers-dont-lie-key-venue-kpis-that-drive-success-in-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Numbers Don&#x27;t Lie: Key Venue KPIs That Drive Success in...2 Feb 2026 — To truly master profitability, operators must also understand the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: andrmusic.co  
    Title: Multiple Revenue Streams: Build $100K+ Music Career  
-   Link: [https://andrmusic.co/behind-the-music/multiple-revenue-stream-music-career/](https://andrmusic.co/behind-the-music/multiple-revenue-stream-music-career/)  
+   Link: <a href="https://andrmusic.co/behind-the-music/multiple-revenue-stream-music-career/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/multiple-revenue-stream-music-career/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AndRIndependent Artists: Live Performances: 25-35% ($25,000-35,000) Merchandise/Products: 15-25% ($15,000-25,000) Direct Fan Support: 5-1...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: bandzoogle.com  
    Title: 14 ways musicians can make money from live shows  
-   Link: [https://bandzoogle.com/blog/14-ways-musicians-can-make-money-from-live-shows](https://bandzoogle.com/blog/14-ways-musicians-can-make-money-from-live-shows)  
+   Link: <a href="https://bandzoogle.com/blog/14-ways-musicians-can-make-money-from-live-shows" target="_blank" rel="noopener noreferrer nofollow">https://bandzoogle.com/blog/14-ways-musicians-can-make-money-from-live-shows</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 ways musicians can make money from live shows25 Jun 2025 — Turn your live shows into more income with 15 smart revenue streams: from m...</p></details>

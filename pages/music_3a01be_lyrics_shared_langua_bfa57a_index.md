@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-lyrics-shared-langua/
 description: Focused pages that expand on Lyrics.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_lyrics_shared_langua_bfa57a
-parent_title: Lyrics | Music
+parent_title: Lyrics
 parent_nav_short_title: Lyrics
 parent_permalink: /lyrics/
 ---

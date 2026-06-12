@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-regional-scenes-stre/
 description: Focused pages that expand on Regional Scenes.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_regional_scenes_stre_ec1816
-parent_title: Regional Scenes | Music
+parent_title: Regional Scenes
 parent_nav_short_title: Regional Scenes
 parent_permalink: /regional-scenes/
 ---

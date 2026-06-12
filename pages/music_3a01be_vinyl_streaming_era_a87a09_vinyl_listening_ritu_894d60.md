@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_vinyl_streaming_era_a87a09_vinyl_ownership_c6792f
 - music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe
 tags:
-- music
+- music-3-a01-be
 - vinyl
 - ritual
 keywords:
-- music
+- music-3-a01-be
 - vinyl
 - ritual
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Playing a record adds friction, sequence, and focus, making the album feel less like background audio and more like an event.
 hero_summary: Playing a record adds friction, sequence, and focus, making the album feel less like background audio and more like an event.
 layout: default
 permalink: /ritual/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /vinyl/
 nav_short_title: Ritual
 title: Why Playing Vinyl Slows Music Down
-title_full: Why Playing Vinyl Slows Music Down | Vinyl
+title_full: Why Playing Vinyl Slows Music Down
 display_title_short: Ritual
 display_title: Ritual
 heading_title: Why Playing Vinyl Slows Music Down
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Vinyl Came Back In A Digital Age | Music
+parent_title: Why Vinyl Came Back In A Digital Age
 parent_permalink: /vinyl/
 parent_nav_short_title: Vinyl
 parent_heading_title: Why Vinyl Came Back In A Digital Age
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Are Vinyl Variants Good for Fans?
 up_link:
   basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -265,7 +265,7 @@ next_link:
   permalink: /scarcity/
   short_title: Scarcity
   heading_title: When Limited Vinyl Becomes the Event
-date: '2026-06-09 07:14:56 '
+date: '2026-06-11 23:38:42 '
 header:
   og_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-1.webp
@@ -274,17 +274,16 @@ image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ri
 
 ## Introduction
 
-Vinyl’s appeal is often described in terms of sound quality, collectability or nostalgia, but one of its most powerful effects is simpler: it changes how people listen. Playing a record requires a series of deliberate actions—choosing an album, removing it from its sleeve, placing it on a turntable, lowering the stylus and eventually flipping the record. Those small acts introduce friction into an activity that streaming has made almost effortless. The result is that music is more likely to become the focus of [attention]({{ 'attention/' | relative_url }}) rather than [background]({{ 'background/' | relative_url }}) accompaniment. Researchers studying vinyl consumption repeatedly identify ritual, materiality and intentional engagement as central parts of the format’s continued appeal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">374653034 Sensing Vinyl Ritual Memory Materiality</span><span class="citation-popover-snippet">ResearchGateSensing Vinyl: Ritual, Memory, MaterialityDownload Citation | On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</span></span></span>
-
+Vinyl’s appeal is often described in terms of sound quality, collectability or nostalgia, but one of its most powerful effects is simpler: it changes how people listen. Playing a record requires a series of deliberate actions—choosing an album, removing it from its sleeve, placing it on a turntable, lowering the stylus and eventually flipping the record. Those small acts introduce friction into an activity that streaming has made almost effortless. The result is that music is more likely to become the focus of [attention]({{ 'attention/' | relative_url }}) rather than [background]({{ 'background/' | relative_url }}) accompaniment. Researchers studying vinyl consumption repeatedly identify ritual, materiality and intentional engagement as central parts of the format’s continued appeal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">374653034 Sensing Vinyl Ritual Memory Materiality</span><span class="citation-popover-snippet">Sensing Vinyl: Ritual, Memory, MaterialityDownload Citation &#124; On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-1-dark.svg" | relative_url }}" alt="Ritual illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the story of [vinyl]({{ 'vinyl/' | relative_url }})’s survival in the streaming era, this ritual matters because it changes the relationship between listener and album. The record is not merely a storage format; it creates a listening environment that encourages commitment, continuity and attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanumreview.com/articles/the-ritual-of-vinyl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanumreview.com">[Humanum Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanumreview.com</span><span class="citation-popover-title">the ritual of vinyl</span><span class="citation-popover-snippet">Humanum ReviewThe Ritual of Vinyl24 Nov 2022 — Vinyl records, on the other hand, are too weighty, too obtrusive, dare we say too inconven...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38798/Wellink%2C%20Marjolein%20-%20RMA%20Thesis%20Final.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studenttheses.uu.nl">[Student Theses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studenttheses.uu.nl</span><span class="citation-popover-title">Wellink, Marjolein RMA Thesis Final</span><span class="citation-popover-snippet">Student ThesesSlow Listening: Streaming Services, the Attention Economy...by MHB Wellink · 2021 · Cited by 4 — As Dominik Bartmanski and...</span></span></span>
 
 ## Choosing, Handling and Flipping the Record
 
-Streaming services are designed to minimise effort. Vinyl does the opposite. Before any [music]({{ 'music/' | relative_url }}) begins, the listener must physically interact with the medium. That interaction can seem inconvenient, but it also creates a sense of intention.
+Streaming services are designed to minimise effort. Vinyl does the opposite. Before any music begins, the listener must physically interact with the medium. That interaction can seem inconvenient, but it also creates a sense of intention.
 
-Studies of vinyl consumers describe listening as a sequence of rituals that starts before playback itself, including selecting a record, handling it carefully and preparing the equipment. Researchers have found that these practices contribute to the meaning listeners attach to records and help distinguish vinyl listening from digital consumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/273602696_The_vinyl_The_analogue_medium_in_the_age_of_digital_reproduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">273602696 The vinyl The analogue medium in the age of digital reproduction</span><span class="citation-popover-snippet">ResearchGateThe analogue medium in the age of digital reproductionBartmanski and Woodward (2015) describe vinyl as a material signifier o...</span></span></span>
+Studies of vinyl consumers describe listening as a sequence of rituals that starts before playback itself, including selecting a record, handling it carefully and preparing the equipment. Researchers have found that these practices contribute to the meaning listeners attach to records and help distinguish vinyl listening from digital consumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/273602696_The_vinyl_The_analogue_medium_in_the_age_of_digital_reproduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">273602696 The vinyl The analogue medium in the age of digital reproduction</span><span class="citation-popover-snippet">The analogue medium in the age of digital reproductionBartmanski and Woodward (2015) describe vinyl as a material signifier o...</span></span></span>
 
 The practical consequences are significant:
 
@@ -301,17 +300,16 @@ The side break itself is also important. Unlike a streaming playlist that can co
 
 Album sequencing—the order of tracks on a record—exists on every format, but vinyl gives it greater practical importance. Because records are commonly played from beginning to end, listeners encounter the sequence as a designed experience rather than as a menu of individual songs.
 
-Music industry guidance on album sequencing emphasises that track order shapes pacing, emotional flow and the listener’s sense of journey through a record. A well-sequenced album uses openings, transitions and closings to create momentum and contrast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MUJanuary 26, 2024 — 26 Jan 2024 — Great sequencing can enhance an...</span><span class="citation-popover-meta">Published: January 26, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.discmakers.com/2020/01/how-to-sequence-an-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.discmakers.com">[Disc Makers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.discmakers.com</span><span class="citation-popover-title">how to sequence an album</span><span class="citation-popover-snippet">Disc Makers BlogHow To Sequence An Album For Best Results9 Jan 2020 — Learn the art of sequencing an album and how many songs should be i...</span></span></span>
+Music industry guidance on album sequencing emphasises that track order shapes pacing, emotional flow and the listener’s sense of journey through a record. A well-sequenced album uses openings, transitions and closings to create momentum and contrast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album &#124; The MUJanuary 26, 2024 — 26 Jan 2024 — Great sequencing can enhance an...</span><span class="citation-popover-meta">Published: January 26, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.discmakers.com/2020/01/how-to-sequence-an-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.discmakers.com">[Disc Makers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.discmakers.com</span><span class="citation-popover-title">how to sequence an album</span><span class="citation-popover-snippet">Disc Makers BlogHow To Sequence An Album For Best Results9 Jan 2020 — Learn the art of sequencing an album and how many songs should be i...</span></span></span>
 
 Vinyl reinforces these choices in several ways.
-
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-2-dark.svg" | relative_url }}" alt="Ritual illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Meaning of Side A and Side B
 
 The physical division of an LP creates two distinct chapters. Artists and producers have historically paid close attention to where Side A ends and Side B begins, often treating those positions as dramatic turning points.
 
-The first track on each side carries special weight because it re-engages the listener after a pause. Likewise, the final track on Side A often functions as a temporary conclusion before the record is flipped. Discussions among musicians, producers and listeners consistently highlight these positions as key parts of album design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/76414343/The_Role_of_the_Album_in_Popular_Music_Production" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Role of the Album in Popular Music Production67 The final LP sequence is as follows: SIDE ONE Lean Machine Prison... So to a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/915971612134877/posts/1977560929309268/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">k 1, second song, last track on Side 1, Side 2, Track 1 and last...Read more...</span></span></span>
+The first track on each side carries special weight because it re-engages the listener after a pause. Likewise, the final track on Side A often functions as a temporary conclusion before the record is flipped. Discussions among musicians, producers and listeners consistently highlight these positions as key parts of album design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/76414343/The_Role_of_the_Album_in_Popular_Music_Production" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Role of the Album in Popular Music Production67 The final LP sequence is as follows: SIDE ONE Lean Machine Prison... So to a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/915971612134877/posts/1977560929309268/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">k 1, second song, last track on Side 1, Side 2, Track 1 and last...Read more...</span></span></span>
 
 This structure can alter how music is perceived. Rather than hearing twelve songs as a continuous stream, listeners experience an album as a series of intentional movements. The side break becomes part of the narrative.
 
@@ -321,11 +319,9 @@ Streaming encourages playlist [culture]({{ 'culture/' | relative_url }}), algori
 
 This changes the status of lesser-known songs. Album tracks that might be ignored in a digital environment become part of the experience because they are encountered within a larger sequence. Many vinyl listeners report discovering new appreciation for songs they previously overlooked when they hear them in their intended context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40oneredshoezone/vinyl-and-the-journey-back-to-the-ritual-of-listening-dba5a11129f3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Vinyl and the journey back to the ritual of listening</span><span class="citation-popover-snippet">I physically have to select a side. Drag the needle onto the record and deal with the 15 to 20 minutes...Read more...</span></span></span>
 
-Research into album sequencing suggests that track order influences how listeners interpret musical relationships and emotional progression across a record. The format therefore strengthens the idea of the album as a complete work rather than a collection of individual tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MUJanuary 26, 2024 — 26 Jan 2024 — Great sequencing can enhance an...</span><span class="citation-popover-meta">Published: January 26, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.04383" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research into album sequencing suggests that track order influences how listeners interpret musical relationships and emotional progression across a record. The format therefore strengthens the idea of the album as a complete work rather than a collection of individual tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album &#124; The MUJanuary 26, 2024 — 26 Jan 2024 — Great sequencing can enhance an...</span><span class="citation-popover-meta">Published: January 26, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.04383" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-3-dark.svg" | relative_url }}" alt="Ritual illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sound Systems and the Room-Listening Experience
 
 Vinyl listening is often tied to a particular physical space. Unlike music streamed through a phone while travelling, a turntable generally anchors listening to a room and a sound system.
@@ -334,25 +330,18 @@ This spatial element changes behaviour. A record player encourages listeners to 
 
 The equipment itself contributes to this sense of occasion:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Turntables are usually part of a visible listening system.
-* Records are displayed through sleeves and artwork.
+* Records are displayed through sleeves and [artwork]({{ 'artwork/' | relative_url }}).
 * Speakers project music into a room rather than directly into headphones.
 * Playback becomes a shared experience more easily than individual mobile listening.
 
-</div>
+This does not mean vinyl listeners always sit motionless and analyse every note. However, the format creates conditions that make attentive listening more likely. The listener has invested effort before the music begins and remains physically connected to the playback process while it continues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diggitmagazine.com">[Diggit Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diggitmagazine.com</span><span class="citation-popover-title">spinning memories vinyl collecting digital age and record store day</span><span class="citation-popover-snippet">Diggit MagazineSpinning Memories: Vinyl Collecting in the Digital Age and...31 Mar 2025 — Ritualistic behaviors associated with vinyl, s...</span></span></span> ResearchGate There is also evidence that expectations influence perception. Studies examining vinyl listening suggest that beliefs about the format and th <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">374653034 Sensing Vinyl Ritual Memory Materiality</span><span class="citation-popover-snippet">Sensing Vinyl: Ritual, Memory, MaterialityDownload Citation &#124; On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</span></span></span> e context surrounding playback can shape the overall experience. In other words, part of what listeners enjoy is not only the sound itself but the feeling that they are participating in a meaningful listening event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9197490/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vinyl as Fine Wine: The Role of Expectation on the Perception...by R Enstroem · 2022 · Cited by 7 — The commonly held belief that vin...</span></span></span>
 
-This does not mean vinyl listeners always sit motionless and analyse every note. However, the format creates conditions that make attentive listening more likely. The listener has invested effort before the music begins and remains physically connected to the playback process while it continues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diggitmagazine.com">[Diggit Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diggitmagazine.com</span><span class="citation-popover-title">spinning memories vinyl collecting digital age and record store day</span><span class="citation-popover-snippet">Diggit MagazineSpinning Memories: Vinyl Collecting in the Digital Age and...31 Mar 2025 — Ritualistic behaviors associated with vinyl, s...</span></span></span> ResearchGate There is also evidence that expectations influence perception. Studies examining vinyl listening suggest that beliefs about the format and th <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">374653034 Sensing Vinyl Ritual Memory Materiality</span><span class="citation-popover-snippet">ResearchGateSensing Vinyl: Ritual, Memory, MaterialityDownload Citation | On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</span></span></span> e context surrounding playback can shape the overall experience. In other words, part of what listeners enjoy is not only the sound itself but the feeling that they are participating in a meaningful listening event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9197490/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCVinyl as Fine Wine: The Role of Expectation on the Perception...by R Enstroem · 2022 · Cited by 7 — The commonly held belief that vin...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-3-dark.svg" | relative_url }}" alt="Ritual illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Ritual Still Matters
 
 The survival of vinyl is not simply a story about analogue technology resisting digital convenience. It is also a story about attention. Record-playing rituals slow the process of listening and make music more visible within everyday life.
 
-The actions involved—selecting a record, caring for it, hearing one side at a time and engaging with an album's intended sequence—create a framework that encourages focus. Research on vinyl consumption repeatedly points to ritual, materiality and embodied engagement as reasons listeners continue to value the format despite the ease of streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">374653034 Sensing Vinyl Ritual Memory Materiality</span><span class="citation-popover-snippet">ResearchGateSensing Vinyl: Ritual, Memory, MaterialityDownload Citation | On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGatelost vinyl consumption practices in the age of music...7 Nov 2022 — This article contributes new insights into materiality a...</span></span></span>
+The actions involved—selecting a record, caring for it, hearing one side at a time and engaging with an album's intended sequence—create a framework that encourages focus. Research on vinyl consumption repeatedly points to ritual, materiality and embodied engagement as reasons listeners continue to value the format despite the ease of streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">374653034 Sensing Vinyl Ritual Memory Materiality</span><span class="citation-popover-snippet">Sensing Vinyl: Ritual, Memory, MaterialityDownload Citation &#124; On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">lost vinyl consumption practices in the age of music...7 Nov 2022 — This article contributes new insights into materiality a...</span></span></span>
 
 For many listeners, that is the real attraction. Vinyl does not merely deliver music. It asks for participation, and that participation changes how the music is heard.
 
@@ -473,15 +462,15 @@ For many listeners, that is the real attraction. Vinyl does not merely deliver m
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Shinyl Record Cleaning Kit - Standard + Heavy Duty Formula with Cloth"><img src="{{ '/assets/images/marketplace-covers/cb6286c4dd6d88ead97f.jpg' | relative_url }}" alt="Listing image for Vinyl Shinyl Record Cleaning Kit - Standard + Heavy Duty Formula with Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPINCARE Vinyl Record Cleaning Kit 5-in-1 LP Album Cleaner Set"><img src="https://i.ebayimg.com/images/g/QWoAAeSwE8Zp50sG/s-l225.jpg" alt="Listing image for SPINCARE Vinyl Record Cleaning Kit 5-in-1 LP Album Cleaner Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">Vinyl Shinyl Record Cleaning Kit - Standard + Heavy Duty Formula with Cloth</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">SPINCARE Vinyl Record Cleaning Kit 5-in-1 LP Album Cleaner Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +478,15 @@ For many listeners, that is the real attraction. Vinyl does not merely deliver m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPINCARE Vinyl Record Cleaning Kit 7-in-1 LP Album Cleaner Set"><img src="{{ '/assets/images/marketplace-covers/49b9fa47691b95f93ada.jpg' | relative_url }}" alt="Listing image for SPINCARE Vinyl Record Cleaning Kit 7-in-1 LP Album Cleaner Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boundless Audio Vinyl Record Cleaning Kit - 5-in-1 Vinyl Cleaning Kit Includes"><img src="https://i.ebayimg.com/images/g/djcAAeSwX0Fp0ZDb/s-l225.jpg" alt="Listing image for Boundless Audio Vinyl Record Cleaning Kit - 5-in-1 Vinyl Cleaning Kit Includes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">SPINCARE Vinyl Record Cleaning Kit 7-in-1 LP Album Cleaner Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">Boundless Audio Vinyl Record Cleaning Kit - 5-in-1 Vinyl Cleaning Kit Includes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +494,15 @@ For many listeners, that is the real attraction. Vinyl does not merely deliver m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Record Cleaning Kit BFRC-Pro102 Professional Series (Big Fudge)"><img src="{{ '/assets/images/marketplace-covers/9e87ab51f7e899740aab.jpg' | relative_url }}" alt="Listing image for Record Cleaning Kit BFRC-Pro102 Professional Series (Big Fudge)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Cleaning Kit | Vinyl Record Cleaning Kit In Storage Tin"><img src="https://i.ebayimg.com/images/g/ko8AAOSwKf9mOgr1/s-l225.jpg" alt="Listing image for Vinyl Cleaning Kit | Vinyl Record Cleaning Kit In Storage Tin" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">Record Cleaning Kit BFRC-Pro102 Professional Series (Big Fudge)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">Vinyl Cleaning Kit | Vinyl Record Cleaning Kit In Storage Tin</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +510,15 @@ For many listeners, that is the real attraction. Vinyl does not merely deliver m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPINCARE Record Cleaner | Vinyl Record LP Cleaning Machine System"><img src="{{ '/assets/images/marketplace-covers/a8fb90e3f1ab75516bc8.jpg' | relative_url }}" alt="Listing image for SPINCARE Record Cleaner | Vinyl Record LP Cleaning Machine System" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Big Fudge Vinyl Cleaning Kit Professional Cleaner for Records 5-in-1 Cleaner NEW"><img src="https://i.ebayimg.com/images/g/gToAAeSwd51qG~~5/s-l225.jpg" alt="Listing image for Big Fudge Vinyl Cleaning Kit Professional Cleaner for Records 5-in-1 Cleaner NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">SPINCARE Record Cleaner | Vinyl Record LP Cleaning Machine System</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">Big Fudge Vinyl Cleaning Kit Professional Cleaner for Records 5-in-1 Cleaner NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: record cleaning kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +526,7 @@ For many listeners, that is the real attraction. Vinyl does not merely deliver m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="ritual-why-playing-vinyl-slows-music-down-music-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playing-vinyl-slows-music-down-record-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record cleaning kit" data-ebay-reference="why-playing-vinyl-slows-music-down-record-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -753,135 +742,135 @@ For many listeners, that is the real attraction. Vinyl does not merely deliver m
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: 374653034 Sensing Vinyl Ritual [Memory](&#123;&#123; 'memory/' | relative_url &#125;&#125;) Materiality  
-   Link: [https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality](https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSensing Vinyl: Ritual, Memory, MaterialityDownload Citation | On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374653034_Sensing_Vinyl_Ritual_Memory_Materiality</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensing Vinyl: Ritual, Memory, MaterialityDownload Citation | On Oct 11, 2023, Josh Greenberg published Sensing Vinyl: Ritual...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 273602696 The vinyl The analogue medium in the age of digital reproduction  
-   Link: [https://www.researchgate.net/publication/273602696_The_vinyl_The_analogue_medium_in_the_age_of_digital_reproduction](https://www.researchgate.net/publication/273602696_The_vinyl_The_analogue_medium_in_the_age_of_digital_reproduction)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateThe analogue medium in the age of digital reproductionBartmanski and Woodward (2015) describe vinyl as a material signifier o...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/273602696_The_vinyl_The_analogue_medium_in_the_age_of_digital_reproduction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273602696_The_vinyl_The_analogue_medium_in_the_age_of_digital_reproduction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The analogue medium in the age of digital reproductionBartmanski and Woodward (2015) describe vinyl as a material signifier o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming](https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGatelost vinyl consumption practices in the age of music...7 Nov 2022 — This article contributes new insights into materiality a...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>lost vinyl consumption practices in the age of music...7 Nov 2022 — This article contributes new insights into materiality a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
    Title: Vinyl and the journey back to the ritual of listening  
-   Link: [https://medium.com/%40oneredshoezone/vinyl-and-the-journey-back-to-the-ritual-of-listening-dba5a11129f3](https://medium.com/%40oneredshoezone/vinyl-and-the-journey-back-to-the-ritual-of-listening-dba5a11129f3)  
+   Link: <a href="https://medium.com/%40oneredshoezone/vinyl-and-the-journey-back-to-the-ritual-of-listening-dba5a11129f3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40oneredshoezone/vinyl-and-the-journey-back-to-the-ritual-of-listening-dba5a11129f3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I physically have to select a side. Drag the needle onto the record and deal with the 15 to 20 minutes...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/76414343/The_Role_of_the_Album_in_Popular_Music_Production](https://www.academia.edu/76414343/The_Role_of_the_Album_in_Popular_Music_Production)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe Role of the Album in Popular Music Production67 The final LP sequence is as follows: SIDE ONE Lean Machine Prison... So to a...</p></details>
+   Link: <a href="https://www.academia.edu/76414343/The_Role_of_the_Album_in_Popular_Music_Production" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76414343/The_Role_of_the_Album_in_Popular_Music_Production</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of the Album in Popular Music Production67 The final LP sequence is as follows: SIDE ONE Lean Machine Prison... So to a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/915971612134877/posts/1977560929309268/](https://www.facebook.com/groups/915971612134877/posts/1977560929309268/)  
+   Link: <a href="https://www.facebook.com/groups/915971612134877/posts/1977560929309268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/915971612134877/posts/1977560929309268/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>k 1, second song, last track on Side 1, Side 2, Track 1 and last...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.04383](https://arxiv.org/abs/2408.04383)  
+   Link: <a href="https://arxiv.org/abs/2408.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.04383</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9197490/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9197490/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCVinyl as Fine Wine: The Role of Expectation on the Perception...by R Enstroem · 2022 · Cited by 7 — The commonly held belief that vin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9197490/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9197490/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl as Fine Wine: The Role of Expectation on the Perception...by R Enstroem · 2022 · Cited by 7 — The commonly held belief that vin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124](https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis Online“Taking a chance on a record”: lost vinyl consumption...by S Whitehouse · 2023 · Cited by 16 — The research findi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: humanumreview.com  
    Title: the ritual of vinyl  
-   Link: [https://humanumreview.com/articles/the-ritual-of-vinyl](https://humanumreview.com/articles/the-ritual-of-vinyl)  
+   Link: <a href="https://humanumreview.com/articles/the-ritual-of-vinyl" target="_blank" rel="noopener noreferrer nofollow">https://humanumreview.com/articles/the-ritual-of-vinyl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanum ReviewThe Ritual of Vinyl24 Nov 2022 — Vinyl records, on the other hand, are too weighty, too obtrusive, dare we say too inconven...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: studenttheses.uu.nl  
    Title: Wellink, Marjolein RMA Thesis Final  
-   Link: [https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38798/Wellink%2C%20Marjolein%20-%20RMA%20Thesis%20Final.pdf?sequence=1](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38798/Wellink%2C%20Marjolein%20-%20RMA%20Thesis%20Final.pdf?sequence=1)  
+   Link: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38798/Wellink%2C%20Marjolein%20-%20RMA%20Thesis%20Final.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38798/Wellink%2C%20Marjolein%20-%20RMA%20Thesis%20Final.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Student ThesesSlow Listening: Streaming Services, the Attention Economy...by MHB Wellink · 2021 · Cited by 4 — As Dominik Bartmanski and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: musiciansunion.org.uk  
    Title: industry insights how to sequence a music album  
-   Link: [https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album](https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album)  
+   Link: <a href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MUJanuary 26, 2024 — 26 Jan 2024 — Great sequencing can enhance an...</p></details>
    Published: January 26, 2024  
 
 13. <a id="endnote-13"></a>
    Source: blog.discmakers.com  
    Title: how to sequence an album  
-   Link: [https://blog.discmakers.com/2020/01/how-to-sequence-an-album/](https://blog.discmakers.com/2020/01/how-to-sequence-an-album/)  
+   Link: <a href="https://blog.discmakers.com/2020/01/how-to-sequence-an-album/" target="_blank" rel="noopener noreferrer nofollow">https://blog.discmakers.com/2020/01/how-to-sequence-an-album/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disc Makers BlogHow To Sequence An Album For Best Results9 Jan 2020 — Learn the art of sequencing an album and how many songs should be i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: diggitmagazine.com  
-   Title: spinning memories vinyl collecting digital age and [record store day](&#123;&#123; 'scarcity/' | relative_url &#125;&#125;)  
-   Link: [https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day](https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day)  
+   Title: spinning memories vinyl collecting digital age and record store day  
+   Link: <a href="https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day" target="_blank" rel="noopener noreferrer nofollow">https://www.diggitmagazine.com/articles/spinning-memories-vinyl-collecting-digital-age-and-record-store-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diggit MagazineSpinning Memories: Vinyl Collecting in the Digital Age and...31 Mar 2025 — Ritualistic behaviors associated with vinyl, s...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/](https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditLet&#x27;s Talk: Album Sequencing: r/LetsTalkMusicIn this post, let&#x27;s discuss the ideal album sequencing strategy, some examples of alb...</p></details>
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Talk: Album Sequencing: r/LetsTalkMusicIn this post, let&#x27;s discuss the ideal album sequencing strategy, some examples of alb...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/ejm/article/53/3/545/227732/Consuming-material-authenticity-in-the-age-of](https://www.emerald.com/ejm/article/53/3/545/227732/Consuming-material-authenticity-in-the-age-of)  
+   Link: <a href="https://www.emerald.com/ejm/article/53/3/545/227732/Consuming-material-authenticity-in-the-age-of" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ejm/article/53/3/545/227732/Consuming-material-authenticity-in-the-age-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper aims to examine how and why an “old” technology and mode of consumption – vinyl records, which should have become obsolete –...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: Let's Talk: Listening to Vinyl  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/ksf4mc/lets_talk_listening_to_vinyl_is_it_more/](https://www.reddit.com/r/LetsTalkMusic/comments/ksf4mc/lets_talk_listening_to_vinyl_is_it_more/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/ksf4mc/lets_talk_listening_to_vinyl_is_it_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/ksf4mc/lets_talk_listening_to_vinyl_is_it_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it more pleasurable? Is it...With the vinyl you ought to sit down and pay complete attention to the album - or any performance - as b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: matlefflerschulman.com  
    Title: how to sequence an album  
-   Link: [https://matlefflerschulman.com/mastering-articles/how-to-sequence-an-album](https://matlefflerschulman.com/mastering-articles/how-to-sequence-an-album)  
+   Link: <a href="https://matlefflerschulman.com/mastering-articles/how-to-sequence-an-album" target="_blank" rel="noopener noreferrer nofollow">https://matlefflerschulman.com/mastering-articles/how-to-sequence-an-album</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mat Leffler-Schulman MasteringHow to Sequence an Album8 Apr 2026 — Sequencing is a compositional decision, not a technical one. Here&#x27;s ho...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why Vinyl Is the Ultimate Form of Mindful Listening  
-   Link: [https://www.youtube.com/watch?v=W-rD0tO9fR4](https://www.youtube.com/watch?v=W-rD0tO9fR4)  
+   Link: <a href="https://www.youtube.com/watch?v=W-rD0tO9fR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W-rD0tO9fR4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physicality of Music: How Vinyl Changes the Experience...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1469540513488403](https://journals.sagepub.com/doi/abs/10.1177/1469540513488403)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1469540513488403" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1469540513488403</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe vinyl: The analogue medium in the age of digital...by D Bartmanski · 2015 · Cited by 254 — In this paper, we explore th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Art of Slow Listening: Vinyl vs. Streaming  
-   Link: [https://www.youtube.com/watch?v=a1_WnB_7h8E](https://www.youtube.com/watch?v=a1_WnB_7h8E)  
+   Link: <a href="https://www.youtube.com/watch?v=a1_WnB_7h8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a1_WnB_7h8E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Vinyl Is the Ultimate Form of Mindful Listening...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Ritual of Vinyl: Why We Still Listen to Records  
-   Link: [https://www.youtube.com/watch?v=Jd692eKx-yU](https://www.youtube.com/watch?v=Jd692eKx-yU)  
+   Link: <a href="https://www.youtube.com/watch?v=Jd692eKx-yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jd692eKx-yU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Vinyl Records Require Active Listening...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why Vinyl Records Require Active Listening  
-   Link: [https://www.youtube.com/watch?v=f2n87f4T2yQ](https://www.youtube.com/watch?v=f2n87f4T2yQ)  
+   Link: <a href="https://www.youtube.com/watch?v=f2n87f4T2yQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f2n87f4T2yQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Slow Listening: Vinyl vs. Streaming...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Physicality of Music: How Vinyl Changes the Experience  
-   Link: [https://www.youtube.com/watch?v=Xh0_8xTf3x8](https://www.youtube.com/watch?v=Xh0_8xTf3x8)  
+   Link: <a href="https://www.youtube.com/watch?v=Xh0_8xTf3x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0_8xTf3x8</a>

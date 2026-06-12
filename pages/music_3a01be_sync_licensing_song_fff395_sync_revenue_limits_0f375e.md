@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e
 - music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca
 tags:
-- music
+- music-3-a01-be
 - sync
 - revenue
 keywords:
-- music
+- music-3-a01-be
 - sync
 - revenue
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A hit placement may bring fees, royalties and new listening, but sync remains a small part of recorded music revenue.
 hero_summary: A hit placement may bring fees, royalties and new listening, but sync remains a small part of recorded music revenue.
 layout: default
 permalink: /revenue/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /sync/
 nav_short_title: Revenue
 title: Why Sync Money Is Big but Not Magic
-title_full: Why Sync Money Is Big but Not Magic | Sync
+title_full: Why Sync Money Is Big but Not Magic
 display_title_short: Revenue
 display_title: Revenue
 heading_title: Why Sync Money Is Big but Not Magic
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Screen Placements Revive Songs | Music
+parent_title: How Screen Placements Revive Songs
 parent_permalink: /sync/
 parent_nav_short_title: Sync
 parent_heading_title: How Screen Placements Revive Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why One Scene Can Rewrite a Song
 up_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -265,7 +265,7 @@ next_link:
   permalink: /scene-meaning/
   short_title: Scene Meaning
   heading_title: Why One Scene Can Rewrite a Song
-date: '2026-06-09 06:48:08 '
+date: '2026-06-11 23:25:16 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1.webp
@@ -276,12 +276,8 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limit
 
 A successful sync placement can make a song feel as if it has been reborn. Viewers discover the track through a film, television series or advert, streams surge, charts react and [royalties]({{ 'royalties/' | relative_url }}) begin flowing again. Yet the headline-grabbing stories can create a misleading impression: while a revival can generate substantial income for a particular song, sync [licensing]({{ 'licensing/' | relative_url }}) remains a relatively small revenue source compared with the streaming economy that now dominates recorded music.
 
-
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1-dark.svg" | relative_url }}" alt="Revenue illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is that sync often acts as a catalyst. The placement itself may generate a licensing fee and subsequent royalties, but the largest financial effect frequently comes from the listening activity that follows. A sync can light the fuse; streaming usually supplies most of the fuel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 202519 Mar 2025 — Synchronisation revenues grew for a fourth successive year in 2024 and totalled US$650 million...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DOSLofUVasI" title="New Series Announcement: The Sync Center&#x27;s Top 10 Questions for Sync Licensing &amp; Music Supervision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DOSLofUVasI" target="_blank" rel="noopener noreferrer">New Series Announcement: The Sync Center&#x27;s Top 10 Questions for Sync Licensing &amp; Music Supervision</a></p><p class="youtube-embed-meta">Channel: The Sync Center I Music Supervision</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DOSLofUVasI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DOSLofUVasI">Open on YouTube</a></p></div></div></div>
+The key distinction is that sync often acts as a catalyst. The placement itself may generate a licensing fee and subsequent royalties, but the largest financial effect frequently comes from the listening activity that follows. A sync can light the fuse; streaming usually supplies most of the fuel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 202519 Mar 2025 — Synchronisation revenues grew for a fourth successive year in 2024 and totalled US$650 million...</span></span></span>
 
 ## Upfront Fees and Performance Royalties
 
@@ -289,24 +285,16 @@ When a song is licensed for screen use, money can arrive through several channel
 
 The first is the synchronisation fee paid for the right to pair music with visual content. Depending on the project, fees can range from relatively modest sums to six-figure deals for major advertising campaigns. Industry licensing guides note that a successful sync can generate anywhere from hundreds to hundreds of thousands of dollars from one agreement alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridge.audio/blog/report-2024-sync-revenues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridge.audio">[Bridge.audio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridge.audio</span><span class="citation-popover-snippet">ing from a few hundred to several hundred thousand dollars for a single contract.Read more...</span></span></span>
 
-The second layer comes after the programme, film or advert is broadcast or streamed. Rights holders may receive performance and broadcast royalties through collecting societies when the music is publicly performed or transmitted. These payments can continue long after the original placement, particularly if a programme enjoys repeated international distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/public-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">public performance</span><span class="citation-popover-snippet">IFPIPerformance RightsPerformance rights accounted for 9.5% of global recorded music revenues in 2023. The performance rights sector illu...</span></span></span>
+The second layer comes after the programme, film or advert is broadcast or streamed. [Rights]({{ 'rights/' | relative_url }}) holders may receive performance and broadcast royalties through collecting societies when the music is publicly performed or transmitted. These payments can continue long after the original placement, particularly if a programme enjoys repeated international distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/public-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">public performance</span><span class="citation-popover-snippet">Performance RightsPerformance rights accounted for 9.5% of global recorded music revenues in 2023. The performance rights sector illu...</span></span></span>
 
 This explains why music executives often describe sync as valuable despite its relatively small share of industry revenue. A placement can create multiple income streams at once:
-
-
-<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * An initial licensing payment.
 * Public-performance and broadcast royalties.
 * International royalty collections.
-* Increased catalogue consumption on streaming services.
-
-</div>
+* Increased [catalogue]({{ 'catalogue/' | relative_url }}) consumption on streaming services.
 
 For a catalogue song that had largely stopped generating [attention]({{ 'attention/' | relative_url }}), the combination can be financially meaningful even before any streaming revival occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">G Flip’s track &quot;Bed On Fire&quot; had a particularly impactful moment, soundtracking a steamy scene in episode five — causing their Spotify st...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qpFkkQJhqoA" title="AI vs Real Music… What Actually Works in Sync Licensing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qpFkkQJhqoA" target="_blank" rel="noopener noreferrer">AI vs Real Music… What Actually Works in Sync Licensing?</a></p><p class="youtube-embed-meta">Channel: Blue Buddha Entertainment</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qpFkkQJhqoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qpFkkQJhqoA">Open on YouTube</a></p></div></div></div>
 
 ## Indirect Value from Streams and Attention
 
@@ -314,45 +302,39 @@ The most dramatic sync success stories usually earn more from renewed listening 
 
 Kate Bush's "Running Up That Hill" provides the clearest modern example. After its prominent use in *Stranger Things* in 2022, the song experienced an extraordinary resurgence across streaming platforms and charts worldwide. Spotify reported massive increases in listening, and later analyses estimated that the revival generated roughly £1.9 million to £2.37 million in streaming-related royalties for Bush. WIPO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.co.uk/music/kate-bush-running-up-that-hill-stranger-things-earns-2-million-royalties-19595/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.co.uk">[Rolling Stone UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.co.uk</span><span class="citation-popover-title">kate bush running up that hill stranger things earns 2 million royalties 19595</span><span class="citation-popover-snippet">Kate Bush has reportedly earned £1.9million since &#x27;...4 Jul 2022 — Kate Bush has reportedly earned approximately £1.9million in streamin...</span></span></span>
 
-What matters economically is that millions of listeners did not simply hear the song in a television episode. They actively sought it out afterwards, adding it to playlists, sharing it on social media and replaying it repeatedly. Those streams created an ongoing royalty flow that far outlasted the original screen appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">ifpi looks at a decade of digital transformation in the music industry 73661</span><span class="citation-popover-snippet">WIPOIFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2024, the industry was worth US$29.6 billion, with...</span></span></span>
+What matters economically is that millions of listeners did not simply hear the song in a television episode. They actively sought it out afterwards, adding it to playlists, sharing it on social media and replaying it repeatedly. Those streams created an ongoing royalty flow that far outlasted the original screen appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">ifpi looks at a decade of digital transformation in the music industry 73661</span><span class="citation-popover-snippet">IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2024, the industry was worth US$29.6 billion, with...</span></span></span>
 
 Recent examples show the same pattern. Industry figures discussing television placements have noted that the lasting value of a sync often comes less from the upfront payment and more from discovery, audience growth and subsequent listening. Australian artists featured in popular streaming series have reported substantial jumps in Spotify activity after key scenes aired, demonstrating how exposure can translate into measurable consumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">G Flip’s track &quot;Bed On Fire&quot; had a particularly impactful moment, soundtracking a steamy scene in episode five — causing their Spotify st...</span></span></span>
 
 This indirect effect helps explain why artists and rights holders sometimes accept lower television sync fees than they might receive from a major advertising campaign. The placement's ability to trigger sustained audience engagement can outweigh the immediate cheque. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">G Flip’s track &quot;Bed On Fire&quot; had a particularly impactful moment, soundtracking a steamy scene in episode five — causing their Spotify st...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-2-dark.svg" | relative_url }}" alt="Revenue illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Market Share Stays Relatively Small
 
 The success of individual revivals can obscure a broader industry reality. Synchronisation revenue is growing, but it remains a small segment of the overall recorded music business.
 
-According to IFPI's Global Music Report, synchronisation revenue from recorded music reached approximately US$650 million in 2024 after several consecutive years of growth. In the same year, total global recorded-music revenue reached US$29.6 billion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</span></span></span>
+According to IFPI's Global Music Report, synchronisation revenue from recorded music reached approximately US$650 million in 2024 after several consecutive years of growth. In the same year, total global recorded-music revenue reached US$29.6 billion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</span></span></span>
 
-By comparison, streaming generated the overwhelming majority of industry income. IFPI reports that around 69% of recorded-music revenue came from streaming in 2024, with [streaming revenues]({{ 'revenue-dbec50/' | relative_url }}) exceeding US$20 billion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPORunning Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</span></span></span>
+By comparison, streaming generated the overwhelming majority of industry income. IFPI reports that around 69% of recorded-music revenue came from streaming in 2024, with streaming revenues exceeding US$20 billion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Running Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</span></span></span>
 
 The contrast is striking:
 
 Revenue sourceApproximate 2024 scaleStreamingMore than US$20 billionSynchronisationAbout US$650 millionTotal recorded music marketUS$29.6 billion
 
-<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">70. over 70 markets where our member companies operate. © IFPI. All</span><span class="citation-popover-snippet">IFPI — Representing the recording industry worldwideAlmost 70 IFPI National Groups, local associations or affiliated music licensing comp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">ifpi looks at a decade of digital transformation in the music industry 73661</span><span class="citation-popover-snippet">WIPOIFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2024, the industry was worth US$29.6 billion, with...</span></span></span>
+<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">70. over 70 markets where our member companies operate. © IFPI. All</span><span class="citation-popover-snippet">Representing the recording industry worldwideAlmost 70 IFPI National Groups, local associations or affiliated music licensing comp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">ifpi looks at a decade of digital transformation in the music industry 73661</span><span class="citation-popover-snippet">IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2024, the industry was worth US$29.6 billion, with...</span></span></span>
 
 Even performance-rights revenue, another secondary income category linked to music usage, generated roughly US$2.9 billion globally in 2024—several times larger than synchronisation revenue alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-29-6bn-in-2024-up-4-8-yoy-users-of-paid-music-subscriptions-reach-752m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideGlobal recorded music revenues hit $29.6bn in 2024, up...19 Mar 2025 — IFPI reports that Performance rights reve...</span></span></span>
 
-The reason is scale. A hit television placement may create a surge for one song, but streaming platforms process billions of plays every day across millions of tracks. Sync can create extraordinary individual winners, yet streaming remains the mechanism that converts widespread listening into the industry's largest revenue pool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPORunning Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Paid subscriptions grew by 9.5%, and advertising-supported formats rose by 1.2%, while revenues from performance rights increased by 5.9%...</span></span></span>
+The reason is scale. A hit television placement may create a surge for one song, but streaming platforms process billions of plays every day across millions of tracks. Sync can create extraordinary individual winners, yet streaming remains the mechanism that converts widespread listening into the industry's largest revenue pool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Running Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Paid subscriptions grew by 9.5%, and advertising-supported formats rose by 1.2%, while revenues from performance rights increased by 5.9%...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SEliWc2Tz3k" title="Sync Licensing: How it works for Indie Artists and Music Producers in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SEliWc2Tz3k" target="_blank" rel="noopener noreferrer">Sync Licensing: How it works for Indie Artists and Music Producers in 2025</a></p><p class="youtube-embed-meta">Channel: xJ-Will</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SEliWc2Tz3k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SEliWc2Tz3k">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-3-dark.svg" | relative_url }}" alt="Revenue illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Financial Lesson of a Revival
 
 The biggest misconception about sync licensing is that the placement itself is where most of the money sits. In reality, the placement is often valuable because it unlocks other revenue streams.
 
 A successful revival can deliver licensing income, broadcast royalties and renewed catalogue relevance. However, the largest long-term financial gains frequently arrive through the surge in streaming and audience attention that follows. The extraordinary returns seen in cases such as "Running Up That Hill" were not created by sync alone; they emerged from the interaction between screen exposure and the modern streaming ecosystem. WIPO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themusicroyaltyco.uk/kate-bush-new-music-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicroyaltyco.uk">[The Music Royalty Co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicroyaltyco.uk</span><span class="citation-popover-title">kate bush new music royalties</span><span class="citation-popover-snippet">The Music Royalty CoOld Song, New Royalties: Factors That Fuel Kate Bush&#x27;s...Kate Bush&#x27;s 1985 hit “Running Up That Hill (A Deal With God...</span></span></span>
 
-That is why sync money can be big for a song, an artist or a catalogue owner without becoming a dominant source of income for the music industry as a whole. A placement can change the fortunes of one [recording]({{ 'recording/' | relative_url }}) overnight, but streaming remains the larger economic engine that turns renewed cultural attention into sustained revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">industry data</span><span class="citation-popover-snippet">In 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues increased in every r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPORunning Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-3-dark.svg" | relative_url }}" alt="Revenue illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+That is why sync money can be big for a song, an artist or a catalogue owner without becoming a dominant source of income for the music industry as a whole. A placement can change the fortunes of one [recording]({{ 'recording/' | relative_url }}) overnight, but streaming remains the larger economic engine that turns renewed cultural attention into sustained revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">industry data</span><span class="citation-popover-snippet">In 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues increased in every r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Running Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -447,7 +429,7 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -471,15 +453,15 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Stickers Rear Camera Recording Warning CCTV Monitoring Car Van Signs Labels"><img src="https://i.ebayimg.com/images/g/GAsAAOSwT-hmrOzA/s-l225.jpg" alt="Listing image for 2 x Stickers Rear Camera Recording Warning CCTV Monitoring Car Van Signs Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer">2 x Stickers Rear Camera Recording Warning CCTV Monitoring Car Van Signs Labels</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record label sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: record label sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +469,15 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FOY VANCE- Signs Of Life LP NEW** 2021 Vinyl On Gingerbread Man Ed Sheeran Label"><img src="https://i.ebayimg.com/images/g/GwgAAOSwasRlafPL/s-l225.jpg" alt="Listing image for FOY VANCE- Signs Of Life LP NEW** 2021 Vinyl On Gingerbread Man Ed Sheeran Label" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer">FOY VANCE- Signs Of Life LP NEW** 2021 Vinyl On Gingerbread Man Ed Sheeran Label</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record label sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: record label sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +485,15 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Pack - Fire Extinguisher Maintenance Record Vinyl Sticker Label -Fire Signage"><img src="https://i.ebayimg.com/images/g/RIwAAOSwUK5lwowF/s-l225.jpg" alt="Listing image for 12 Pack - Fire Extinguisher Maintenance Record Vinyl Sticker Label -Fire Signage" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer">12 Pack - Fire Extinguisher Maintenance Record Vinyl Sticker Label -Fire Signage</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record label sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: record label sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +501,15 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANIACS - CHELSEA 77 (MISPRINT LABEL) 7&quot; SIGNED BY ALAN LEE SHAW"><img src="https://i.ebayimg.com/images/g/9XIAAeSwbtlqLDlO/s-l225.jpg" alt="Listing image for MANIACS - CHELSEA 77 (MISPRINT LABEL) 7&quot; SIGNED BY ALAN LEE SHAW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer">MANIACS - CHELSEA 77 (MISPRINT LABEL) 7&quot; SIGNED BY ALAN LEE SHAW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for record label sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: record label sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +517,7 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-why-sync-money-is-big-but-not-magic-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="revenue-why-sync-money-is-big-but-not-magic-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=record+label+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sync-money-is-big-but-not-magic-record-label-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="record label sign" data-ebay-reference="why-sync-money-is-big-but-not-magic-record-label-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,145 +733,145 @@ That is why sync money can be big for a song, an artist or a catalogue owner wit
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 202519 Mar 2025 — Synchronisation revenues grew for a fourth successive year in 2024 and totalled US$650 million...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 202519 Mar 2025 — Synchronisation revenues grew for a fourth successive year in 2024 and totalled US$650 million...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wipo.int  
    Title: ifpi looks at a decade of digital transformation in the music industry 73661  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661](https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPOIFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2024, the industry was worth US$29.6 billion, with...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — In 2024, the industry was worth US$29.6 billion, with...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bridge.audio  
-   Link: [https://www.bridge.audio/blog/report-2024-sync-revenues/](https://www.bridge.audio/blog/report-2024-sync-revenues/)  
+   Link: <a href="https://www.bridge.audio/blog/report-2024-sync-revenues/" target="_blank" rel="noopener noreferrer nofollow">https://www.bridge.audio/blog/report-2024-sync-revenues/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing from a few hundred to several hundred thousand dollars for a single contract.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ifpi.org  
-   Title: [public performance](&#123;&#123; 'public-play/' | relative_url &#125;&#125;)  
-   Link: [https://www.ifpi.org/our-industry/public-performance/](https://www.ifpi.org/our-industry/public-performance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIPerformance RightsPerformance rights accounted for 9.5% of global recorded music revenues in 2023. The performance rights sector illu...</p></details>
+   Title: public performance  
+   Link: <a href="https://www.ifpi.org/our-industry/public-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/public-performance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance RightsPerformance rights accounted for 9.5% of global recorded music revenues in 2023. The performance rights sector illu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628](https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPORunning Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Running Up That Hill: an &#x27;80s hit makes millions in royalties...The artists has received an estimated GBP 2.37 million in streaming...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rollingstone.co.uk  
    Title: kate bush running up that hill stranger things earns 2 million royalties 19595  
-   Link: [https://www.rollingstone.co.uk/music/kate-bush-running-up-that-hill-stranger-things-earns-2-million-royalties-19595/](https://www.rollingstone.co.uk/music/kate-bush-running-up-that-hill-stranger-things-earns-2-million-royalties-19595/)  
+   Link: <a href="https://www.rollingstone.co.uk/music/kate-bush-running-up-that-hill-stranger-things-earns-2-million-royalties-19595/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.co.uk/music/kate-bush-running-up-that-hill-stranger-things-earns-2-million-royalties-19595/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush has reportedly earned £1.9million since &#x27;...4 Jul 2022 — Kate Bush has reportedly earned approximately £1.9million in streamin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/](https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</p></details>
+   Link: <a href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Figures released today in IFPI&#x27;s Global Music Report 2025 reveal that tot...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/](https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paid subscriptions grew by 9.5%, and advertising-supported [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) rose by 1.2%, while revenues from performance rights increased by 5.9%...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/](https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming accounted for 70% of global music income, with paid subscription streaming growing 8.8% to reach over 52% of total revenues and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ifpi.org  
    Title: 70. over 70 markets where our member companies operate. © IFPI. All  
-   Link: [https://www.ifpi.org/](https://www.ifpi.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI — Representing the recording industry worldwideAlmost 70 IFPI National Groups, local associations or affiliated music licensing comp...</p></details>
+   Link: <a href="https://www.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representing the recording industry worldwideAlmost 70 IFPI National Groups, local associations or affiliated music licensing comp...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ifpi.org  
    Title: industry data  
-   Link: [https://www.ifpi.org/our-industry/industry-data/](https://www.ifpi.org/our-industry/industry-data/)  
+   Link: <a href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/industry-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues increased in every r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...19 hours ago — The world&#x27;s largest recorded music region increased revenues by 3.5% in 2025...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala](https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala)  
+   Link: <a href="https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/jun/06/australian-music-tv-shows-soundtracks-g-flip-tame-impala</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>G Flip’s track &quot;Bed On Fire&quot; had a particularly impactful moment, soundtracking a steamy scene in episode five — causing their Spotify st...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: themusicroyaltyco.uk  
    Title: kate bush new music royalties  
-   Link: [https://www.themusicroyaltyco.uk/kate-bush-new-music-royalties/](https://www.themusicroyaltyco.uk/kate-bush-new-music-royalties/)  
+   Link: <a href="https://www.themusicroyaltyco.uk/kate-bush-new-music-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.themusicroyaltyco.uk/kate-bush-new-music-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Music Royalty CoOld Song, New Royalties: Factors That Fuel Kate Bush&#x27;s...Kate Bush&#x27;s 1985 hit “Running Up That Hill (A Deal With God...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-29-6bn-in-2024-up-4-8-yoy-users-of-paid-music-subscriptions-reach-752m/](https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-29-6bn-in-2024-up-4-8-yoy-users-of-paid-music-subscriptions-reach-752m/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-29-6bn-in-2024-up-4-8-yoy-users-of-paid-music-subscriptions-reach-752m/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-29-6bn-in-2024-up-4-8-yoy-users-of-paid-music-subscriptions-reach-752m/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideGlobal recorded music revenues hit $29.6bn in 2024, up...19 Mar 2025 — IFPI reports that Performance rights reve...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicbusinessworldwide.com  
    Title: indie music publishers saw revenues grow 5 1 to 2 9bn in 2024 impf  
-   Link: [https://www.musicbusinessworldwide.com/indie-music-publishers-saw-revenues-grow-5-1-to-2-9bn-in-2024-impf/](https://www.musicbusinessworldwide.com/indie-music-publishers-saw-revenues-grow-5-1-to-2-9bn-in-2024-impf/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/indie-music-publishers-saw-revenues-grow-5-1-to-2-9bn-in-2024-impf/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/indie-music-publishers-saw-revenues-grow-5-1-to-2-9bn-in-2024-impf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Indie music publishers saw revenues grow 5.1% to $2.9bn...18 Dec 2025 — The world&#x27;s independent music publishers saw a 5.1% year over ye...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: nme.com  
-   Link: [https://www.nme.com/news/music/kate-bush-gets-another-huge-streaming-boost-after-premiere-of-stranger-things-season-five-3913706](https://www.nme.com/news/music/kate-bush-gets-another-huge-streaming-boost-after-premiere-of-stranger-things-season-five-3913706)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush gets another huge streaming boost after...28 Nov 2025 — Bush had earned $2.3million (£1.9million) in [streaming revenue](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;) with ”R...</p></details>
+   Link: <a href="https://www.nme.com/news/music/kate-bush-gets-another-huge-streaming-boost-after-premiere-of-stranger-things-season-five-3913706" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/kate-bush-gets-another-huge-streaming-boost-after-premiere-of-stranger-things-season-five-3913706</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush gets another huge streaming boost after...28 Nov 2025 — Bush had earned $2.3million (£1.9million) in streaming revenue with ”R...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/latest-impf-report-shows-indie-music-publishing-revenues-grew-even-though-market-share-dipped/](https://completemusicupdate.com/latest-impf-report-shows-indie-music-publishing-revenues-grew-even-though-market-share-dipped/)  
+   Link: <a href="https://completemusicupdate.com/latest-impf-report-shows-indie-music-[publishing" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/latest-impf-report-shows-indie-music-[publishing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest IMPF report shows indie music publishing revenues...3 Apr 2025 — Indie music publishing revenues for the period covered by its la...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: omdia.tech.informa.com  
-   Link: [https://omdia.tech.informa.com/om139340/music-publishing-revenue-growth-forecast-to-outshine-recorded-music-over-the-next-five-years](https://omdia.tech.informa.com/om139340/music-publishing-revenue-growth-forecast-to-outshine-recorded-music-over-the-next-five-years)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Omdia9 Oct 2025 — Global music publisher revenue will increase at a slightly higher rate this year than in 2024, with the total expected...</p></details>
+   Link: <a href="https://omdia.tech.informa.com/om139340/music-publishing-revenue-growth-forecast-to-outshine-recorded-music-over-the-next-five-years" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om139340/music-publishing-revenue-growth-forecast-to-outshine-recorded-music-over-the-next-five-years</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025 — Global music publisher revenue will increase at a slightly higher rate this year than in 2024, with the total expected...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv](https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv)  
+   Link: <a href="https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Canada&#x27;s PostAccording to IFPI&#x27;s Global Music Report 2026 released today, Canada&#x27;s recorded music market grew by 5.6% in 2025 to re...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l](https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l)  
+   Link: <a href="https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/markmulligan_global-recorded-music-revenues-up-94-in-activity-7438250306620121088-1_3l</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Revenues Rise 9.4% in 2025Global recorded music revenues up 9.4% in 2025 It is that time of year again: MIDiA has just relea...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: billboard.com  
    Title: ifpi global report 2024 music business revenue market share 1235637873  
-   Link: [https://www.billboard.com/business/business-news/ifpi-global-report-2024-music-business-revenue-market-share-1235637873/](https://www.billboard.com/business/business-news/ifpi-global-report-2024-music-business-revenue-market-share-1235637873/)  
+   Link: <a href="https://www.billboard.com/business/business-news/ifpi-global-report-2024-music-business-revenue-market-share-1235637873/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/business/business-news/ifpi-global-report-2024-music-business-revenue-market-share-1235637873/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Report 2024: Music Revenues Climb 10% to...21 Mar 2024 — Performance rights revenue, meanwhile, climbed 9.5% to $2.7 billion...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
    Title: music publishing market size share key drivers global a28lc  
-   Link: [https://www.linkedin.com/pulse/music-publishing-market-size-share-key-drivers-global-a28lc](https://www.linkedin.com/pulse/music-publishing-market-size-share-key-drivers-global-a28lc)  
+   Link: <a href="https://www.linkedin.com/pulse/music-publishing-market-size-share-key-drivers-global-a28lc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/music-publishing-market-size-share-key-drivers-global-a28lc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing Market Size, Share, and Key Drivers in...The music publishing market size was valued at USD 24,778.6 million in 2024 an...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: imusician.pro  
    Title: global recorded music industry revenue grew by 4 8 in 2024  
-   Link: [https://imusician.pro/en/resources/blog/global-recorded-music-industry-revenue-grew-by-4-8-in-2024](https://imusician.pro/en/resources/blog/global-recorded-music-industry-revenue-grew-by-4-8-in-2024)  
+   Link: <a href="https://imusician.pro/en/resources/blog/global-recorded-music-industry-revenue-grew-by-4-8-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/global-recorded-music-industry-revenue-grew-by-4-8-in-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Recorded Music Revenue Rises by 4.8% in 202425 Mar 2025 — Finally, the sync category reportedly generated $650 million in global r...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: omdia.tech.informa.com  
    Title: The global trade figures in a little more detail  
-   Link: [https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large](https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large)  
+   Link: <a href="https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om129630/ten-straight-years-of-recordedmusic-growth-but-gains-have-slowed-and-the-threat-of-ai-is-looming-large</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>straight years of global recorded-music growth, but gains...4 Apr 2025 — Figure 2: Global recorded-music trade revenue by source share...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fortune.com  
    Title: kate bush running up that hill stranger things  
-   Link: [https://fortune.com/2022/07/07/kate-bush-running-up-that-hill-stranger-things/](https://fortune.com/2022/07/07/kate-bush-running-up-that-hill-stranger-things/)  
+   Link: <a href="https://fortune.com/2022/07/07/kate-bush-running-up-that-hill-stranger-things/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2022/07/07/kate-bush-running-up-that-hill-stranger-things/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush has now made $2.3 million from her 37-year-old...7 Jul 2022 — Bush earned an estimated $2.3 million in streaming royalties, po...</p></details>

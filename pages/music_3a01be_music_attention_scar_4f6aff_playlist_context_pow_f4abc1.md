@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce
 - music_3a01be_music_attention_scar_4f6aff_spotify_stream_thres_6d0ae7
 tags:
-- music
+- music-3-a01-be
 - attention
 - playlist-power
 keywords:
-- music
+- music-3-a01-be
 - attention
 - playlist-power
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Playlists can make unfamiliar songs useful in daily life, but they can also reduce artists to background mood and function.
 hero_summary: Playlists can make unfamiliar songs useful in daily life, but they can also reduce artists to background mood and function.
 layout: default
 permalink: /playlist-power/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /attention/
 nav_short_title: Playlist Power
 title: When A Playlist Frames The Song
-title_full: When A Playlist Frames The Song | Attention
+title_full: When A Playlist Frames The Song
 display_title_short: Playlist Power
 display_title: Playlist Power
 heading_title: When A Playlist Frames The Song
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Being Available Is Not Being Heard | Music
+parent_title: Why Being Available Is Not Being Heard
 parent_permalink: /attention/
 parent_nav_short_title: Attention
 parent_heading_title: Why Being Available Is Not Being Heard
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Songs Vanish After Release
 up_link:
   basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -259,7 +259,7 @@ prev_link:
   permalink: /low-plays/
   short_title: Low Plays
   heading_title: Why Songs Vanish After Release
-date: '2026-06-09 07:35:54 '
+date: '2026-06-11 23:48:53 '
 header:
   og_image: /assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-1.webp
@@ -270,26 +270,24 @@ image: /assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_
 
 In a world where millions of songs compete for limited [attention]({{ 'attention/' | relative_url }}), playlists have become one of the most powerful forms of musical framing. Many listeners no longer begin with an artist, album or genre. They begin with a situation: studying, exercising, cooking, commuting, relaxing or recovering from a difficult day. The playlist provides the context, and the song arrives inside that context.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-1-dark.svg" | relative_url }}" alt="Playlist Power illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters because context shapes meaning. A track featured in a workout playlist serves a different role from the same track on an artist’s album. Playlists can introduce listeners to unfamiliar [music]({{ 'music/' | relative_url }}) and help songs find practical uses in everyday life. At the same time, they can reduce music to mood management, turning artists into interchangeable providers of atmosphere rather than distinctive creative voices. As attention becomes music's scarcest resource, playlists increasingly determine not just what gets heard, but how it gets heard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span>
+This shift matters because context shapes meaning. A track featured in a workout playlist serves a different role from the same track on an artist’s album. Playlists can introduce listeners to unfamiliar music and help songs find practical uses in everyday life. At the same time, they can reduce music to mood management, turning artists into interchangeable providers of atmosphere rather than distinctive creative voices. As attention becomes music's scarcest resource, playlists increasingly determine not just what gets heard, but how it gets heard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span>
 
 ## Why Mood and Activity Playlists Shape Listening
 
 For most of the twentieth century, listeners often approached music through artists, genres or [albums]({{ 'albums/' | relative_url }}). Streaming platforms increasingly organise listening around emotions and activities instead. A listener may choose "Focus", "Happy Vibes", "Morning Run" or "Dinner Music" without caring who made the songs. Research on streaming services shows that playlists are frequently used to cultivate moods, manage emotions and support daily routines rather than to explore artist catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2056305119847514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultivating Moods and Emotions through Playlists on Spotifyby I Siles · 2019 · Cited by 101 — This article bridges work on m...</span></span></span>
 
-This approach is effective because it solves a practical problem. Faced with enormous catalogues, listeners often want music that fits a moment rather than music that fits a category. Streaming platforms have responded by building recommendation systems and playlists around behavioural signals, listening contexts and emotional preferences. Spotify's own documentation describes personalised playlists as products shaped by listening habits, playlist activity and patterns among similar users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">SpotifyTypes of Spotify playlistsThey&#x27;re created by Spotify&#x27;s algorithms that look at factors like what the person is listening to and wh...</span></span></span>
+This approach is effective because it solves a practical problem. Faced with enormous catalogues, listeners often want music that fits a moment rather than music that fits a category. Streaming platforms have responded by building recommendation systems and playlists around behavioural signals, listening contexts and emotional preferences. Spotify's own documentation describes personalised playlists as products shaped by listening habits, playlist activity and patterns among similar users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsThey&#x27;re created by Spotify&#x27;s algorithms that look at factors like what the person is listening to and wh...</span></span></span>
 
 The result is a different relationship between music and identity. Instead of asking, "What kind of music do I like?", listeners are increasingly encouraged to ask, "What kind of music fits what I am doing right now?" Industry observers have described this as a move from genre-based organisation toward context-based organisation, where playlists connect songs through purpose rather than style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/spotify-the-rise-of-the-contextual-playlist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">How Music Charts Spotify: The Rise of the Contextual Playlist</span><span class="citation-popover-snippet">How Music ChartsSpotify: The Rise of the Contextual Playlist - How Music Charts12 Mar 2018 — Since we&#x27;re all about tracking playlists at...</span></span></span>
 
-This gives playlists real power. They do not merely organise music; they organise attention. A song that perfectly fits a mood playlist may receive exposure to listeners who would never have searched for the artist directly. Research published in *Marketing Science* found that professionally curated Spotify playlists significantly influence listening behaviour, demonstrating that playlist placement itself can alter what audiences hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span>
-
+This gives playlists real power. They do not merely organise music; they organise attention. A song that perfectly fits a mood playlist may receive exposure to listeners who would never have searched for the artist directly. Research published in *Marketing Science* found that professionally curated Spotify playlists significantly influence listening behaviour, demonstrating that playlist placement itself can alter what audiences hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VyCRNY7JLbg" title="How to Get on Spotify Playlists: 3 Pitching Hacks Every Artist Needs to Know | Ditto Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VyCRNY7JLbg" target="_blank" rel="noopener noreferrer">How to Get on Spotify Playlists: 3 Pitching Hacks Every Artist Needs to Know | Ditto Music</a></p><p class="youtube-embed-meta">Channel: Ditto Music &middot; Views: 17.2K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VyCRNY7JLbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VyCRNY7JLbg">Open on YouTube</a></p></div></div></div>
 
 ## How Playlist Placement Can Build or Flatten Identity
 
-Playlist placement can create visibility at a scale that would have been difficult through traditional discovery channels. [Editorial playlists]({{ 'editorial-adds/' | relative_url }}), algorithmic playlists and user-created playlists can expose artists to audiences far beyond their existing fan base. Spotify openly presents playlists as a central discovery mechanism for connecting artists with listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylisting – Spotify for ArtistsFan Made Playlists. Made by music fans to actively catalog their favorite songs. Can...</span></span></span>
+Playlist placement can create visibility at a scale that would have been difficult through traditional discovery channels. Editorial playlists, algorithmic playlists and user-created playlists can expose artists to audiences far beyond their existing fan base. Spotify openly presents playlists as a central discovery mechanism for connecting artists with listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylisting – Spotify for ArtistsFan Made Playlists. Made by music fans to actively catalog their favorite songs. Can...</span></span></span>
 
 Yet the same mechanism that creates exposure can also weaken artistic identity.
 
@@ -304,8 +302,7 @@ For emerging artists, this creates both opportunity and risk:
 * **Opportunity:** songs can reach people outside existing fan circles.
 * **Risk:** tracks become interchangeable components in a functional listening environment.
 * **Opportunity:** algorithms can surface music that lacks conventional marketing support.
-* **Risk:** artists may feel pressure to create music optimised for playlist compatibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.onestowatch.com/compare-indie-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.onestowatch.com">[Ones To Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.onestowatch.com</span><span class="citation-popover-title">Ones To Watch Indie Artist Spotify Playlists: Curated vs Algorithmic Guide</span><span class="citation-popover-snippet">Ones To WatchIndie Artist Spotify Playlists: Curated vs Algorithmic GuideJanuary 7, 2026 — 7 Jan 2026 — Key Takeaways · Playlist choice a...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span> The song gains utility, but the artist may lose visibility.
-
+* **Risk:** artists may feel pressure to create music optimised for playlist compatibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.onestowatch.com/compare-indie-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.onestowatch.com">[Ones To Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.onestowatch.com</span><span class="citation-popover-title">Ones To Watch Indie Artist Spotify Playlists: Curated vs Algorithmic Guide</span><span class="citation-popover-snippet">Ones To WatchIndie Artist Spotify Playlists: Curated vs Algorithmic GuideJanuary 7, 2026 — 7 Jan 2026 — Key Takeaways · Playlist choice a...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span> The song gains utility, but the artist may lose visibility.
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-2-dark.svg" | relative_url }}" alt="Playlist Power illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Context Becomes More Important Than Genre
@@ -314,20 +311,19 @@ One of the most significant effects of playlist [culture]({{ 'culture/' | relati
 
 Historically, genre often signalled community. Being a punk, metal, hip-hop or jazz listener could indicate cultural affiliation and identity. Mood playlists work differently. They gather songs according to emotional or practical outcomes. A jazz track, an electronic piece and an indie song may appear together because they all support concentration or relaxation.
 
-This approach broadens discovery. Listeners encounter music they might otherwise ignore. Academic and industry research on mood-based recommendation systems shows that emotional categorisation can expand listening beyond familiar genre boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2571-5577/8/2/37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIMood-Based Music Discovery: A System for Generating...by P Visutsak · 2025 · Cited by 6 — This study develops a tool that successful...</span></span></span>
+This approach broadens discovery. Listeners encounter music they might otherwise ignore. Academic and industry research on mood-based recommendation systems shows that emotional categorisation can expand listening beyond familiar genre boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2571-5577/8/2/37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Mood-Based Music Discovery: A System for Generating...by P Visutsak · 2025 · Cited by 6 — This study develops a tool that successful...</span></span></span>
 
 However, something is lost as well. Genres often carried histories, scenes and social meanings. Context-driven playlists can detach songs from those cultural backgrounds. The listener experiences the track primarily as a tool for achieving a mood. MIDiA Research has argued that playlist environments frequently separate music from broader artist narratives, reducing the role of surrounding [cultural context]({{ 'cultural-context/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/spotifys-vertical-feed-could-change-music-discovery-but-not-for-the-reason-you-think" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-snippet">MIDiA ResearchSpotify&#x27;s vertical feed could change music discovery, but...March 9, 2023 — 9 Mar 2023 — Whereas playlists divorce artists...</span><span class="citation-popover-meta">Published: March 9, 2023</span></span></span>
 
 This does not mean playlist listening is inherently shallow. Many listeners move from playlists into deeper exploration. But the playlist changes the starting point. Discovery begins with function and only sometimes progresses toward fandom.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jcbRyq14AEo" title="How Spotify Recommendations work for 500,000,000 users" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jcbRyq14AEo" target="_blank" rel="noopener noreferrer">How Spotify Recommendations work for 500,000,000 users</a></p><p class="youtube-embed-meta">Channel: Gaurav Sen &middot; Views: 32.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jcbRyq14AEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jcbRyq14AEo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pGntmcy_HX8" title="How Spotify’s AI-Driven Recommendations Work | WSJ Tech Behind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer">How Spotify’s AI-Driven Recommendations Work | WSJ Tech Behind</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 834.3K &middot; Uploaded: April 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pGntmcy_HX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pGntmcy_HX8">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between Streams and Fandom
 
 A playlist stream and a fan relationship are not the same thing.
 
-Playlist placement can generate impressive listening numbers, yet those streams do not automatically produce loyal audiences. Industry analysis increasingly distinguishes between passive consumption and active engagement, noting that large playlist audiences may not translate into follows, concert attendance or sustained interest in an artist's catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/playlist-analytics-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">playlist analytics guide</span><span class="citation-popover-snippet">The fan count stays flat. Playlist analytics help you distinguish valuable placements from vanity metrics.Read more...</span></span></span>
+Playlist placement can generate impressive listening numbers, yet those streams do not automatically produce loyal audiences. Industry analysis increasingly distinguishes between passive consumption and active engagement, noting that large playlist audiences may not translate into follows, concert attendance or sustained interest in an artist's [catalogue]({{ 'catalogue/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/playlist-analytics-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">playlist analytics guide</span><span class="citation-popover-snippet">The fan count stays flat. Playlist analytics help you distinguish valuable placements from vanity metrics.Read more...</span></span></span>
 
 The distinction becomes clearer when comparing two listening journeys.
 
@@ -337,7 +333,6 @@ In the second, a listener hears the same song, visits the artist profile, explor
 
 Playlists excel at generating the first type of encounter. They are highly efficient discovery tools. Their weakness is that they often stop at discovery. The listener remains attached to the playlist rather than to the creator. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylisting – Spotify for ArtistsFan Made Playlists. Made by music fans to actively catalog their favorite songs. Can...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/playlist-analytics-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq For artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">playlist analytics guide</span><span class="citation-popover-snippet">The fan count stays flat. Playlist analytics help you distinguish valuable placements from vanity metrics.Read more...</span></span></span>, this creates an important strategic challenge. Visibility alone is not enough. The crucial question is whether playlist exposure converts into recognition, [memory]({{ 'memory/' | relative_url }}) and ongoing interest.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-3-dark.svg" | relative_url }}" alt="Playlist Power illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Playlist Power Matters in the Attention Economy
 
@@ -345,11 +340,9 @@ Playlists have become powerful because they solve the central problem of the str
 
 That power is productive. It helps unknown songs find audiences, encourages cross-genre discovery and makes vast catalogues easier to navigate. Yet it is also selective. The playlist decides the frame through which music is experienced. A song can become meaningful because of the context a playlist provides, but it can also become invisible as an individual artistic statement.
 
-The modern playlist therefore acts as more than a collection of tracks. It is a mechanism that converts context into attention. In an environment where attention is scarce, that makes playlists one of the most influential cultural gatekeepers in contemporary music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop client, we might recommend similar mus...</span></span></span>
+The modern playlist therefore acts as more than a collection of tracks. It is a mechanism that converts context into attention. In an environment where attention is scarce, that makes playlists one of the most influential cultural gatekeepers in contemporary music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">Being featured on Spotify&#x27;s Search Page has a greater</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop client, we might recommend similar mus...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3ZO44newDuo" title="The Algorithms in Your Ears: Looking Into the making of your music feeds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3ZO44newDuo" target="_blank" rel="noopener noreferrer">The Algorithms in Your Ears: Looking Into the making of your music feeds</a></p><p class="youtube-embed-meta">Channel: Arts Management and Technology Laboratory &middot; Views: 13 &middot; Uploaded: December 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3ZO44newDuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3ZO44newDuo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jcbRyq14AEo" title="How Spotify Recommendations work for 500,000,000 users" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jcbRyq14AEo" target="_blank" rel="noopener noreferrer">How Spotify Recommendations work for 500,000,000 users</a></p><p class="youtube-embed-meta">Channel: Gaurav Sen &middot; Views: 32.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jcbRyq14AEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jcbRyq14AEo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,15 +461,15 @@ The modern playlist therefore acts as more than a collection of tracks. It is a 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available"><img src="https://i.ebayimg.com/images/g/BhgAAOSwQhFhn7q8/s-l225.jpg" alt="Listing image for Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +477,15 @@ The modern playlist therefore acts as more than a collection of tracks. It is a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You, Too Can Be an Army Aviator C. Weimer Poster Print"><img src="https://i.ebayimg.com/images/g/WWsAAeSwIgVo4sCE/s-l225.jpg" alt="Listing image for You, Too Can Be an Army Aviator C. Weimer Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">You, Too Can Be an Army Aviator C. Weimer Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +493,15 @@ The modern playlist therefore acts as more than a collection of tracks. It is a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print"><img src="https://i.ebayimg.com/images/g/JsoAAeSwbodo5AT2/s-l225.jpg" alt="Listing image for Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +509,15 @@ The modern playlist therefore acts as more than a collection of tracks. It is a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hamlet: Neither a Borrower nor a Lender Be William Shakespeare Poster Print"><img src="https://i.ebayimg.com/images/g/-9sAAeSwt61o4pnP/s-l225.jpg" alt="Listing image for Hamlet: Neither a Borrower nor a Lender Be William Shakespeare Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Hamlet: Neither a Borrower nor a Lender Be William Shakespeare Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +525,7 @@ The modern playlist therefore acts as more than a collection of tracks. It is a 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-power-when-a-playlist-frames-the-song-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-playlist-frames-the-song-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="when-a-playlist-frames-the-song-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -748,159 +741,159 @@ The modern playlist therefore acts as more than a collection of tracks. It is a 
 1. <a id="endnote-1"></a>
    Source: informs.org  
    Title: Being featured on Spotify's Search Page has a greater  
-   Link: [https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists](https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMSNew Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</p></details>
+   Link: <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — Professionally curated Spotify playlists exert a major infl...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/types-of-spotify-playlists/](https://support.spotify.com/us/artists/article/types-of-spotify-playlists/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyTypes of Spotify playlistsThey&#x27;re created by Spotify&#x27;s algorithms that look at factors like what the person is listening to and wh...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsThey&#x27;re created by Spotify&#x27;s algorithms that look at factors like what the person is listening to and wh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: [https://www.spotify.com/safetyandprivacy/understanding-recommendations](https://www.spotify.com/safetyandprivacy/understanding-recommendations)  
+   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop client, we might recommend similar mus...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/playlisting](https://artists.spotify.com/en/playlisting)  
+   Link: <a href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/playlisting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsPlaylisting – Spotify for ArtistsFan Made Playlists. Made by music fans to actively catalog their favorite songs. Can...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/video/masterclass-playlists-and-music-discovery](https://artists.spotify.com/en/video/masterclass-playlists-and-music-discovery)  
+   Link: <a href="https://artists.spotify.com/en/video/masterclass-playlists-and-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/masterclass-playlists-and-music-discovery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsPlaylists and Music Discovery – Spotify for ArtistsLearn how our global editorial team helps you find an audience on S...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: uu.diva-portal.org  
-   Link: [https://uu.diva-portal.org/smash/get/diva2%3A2005093/FULLTEXT01.pdf](https://uu.diva-portal.org/smash/get/diva2%3A2005093/FULLTEXT01.pdf)  
+   Link: <a href="https://uu.diva-portal.org/smash/get/diva2%3A2005093/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uu.diva-portal.org/smash/get/diva2%3A2005093/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva Portal“Genrefluid” Spotify Playlists and Mediations of Genre and...December 11, 2023 — by V Muchitsch · Cited by 9 — At the same ti...</p></details>
    Published: December 11, 2023  
 
 7. <a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2571-5577/8/2/37](https://www.mdpi.com/2571-5577/8/2/37)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIMood-Based Music Discovery: A System for Generating...by P Visutsak · 2025 · Cited by 6 — This study develops a tool that successful...</p></details>
+   Link: <a href="https://www.mdpi.com/2571-5577/8/2/37" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2571-5577/8/2/37</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mood-Based Music Discovery: A System for Generating...by P Visutsak · 2025 · Cited by 6 — This study develops a tool that successful...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: orphiq.com  
    Title: playlist analytics guide  
-   Link: [https://orphiq.com/resources/playlist-analytics-guide](https://orphiq.com/resources/playlist-analytics-guide)  
+   Link: <a href="https://orphiq.com/resources/playlist-analytics-guide" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/playlist-analytics-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fan count stays flat. Playlist analytics help you distinguish valuable placements from vanity metrics.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ads.spotify.com  
    Title: mindshare spotify 2022  
-   Link: [https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022](https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022)  
+   Link: <a href="https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>streaming unlocks people&#x27;s identity and brings...18 Jan 2023 — Mindshare has partnered with Spotify to uncover how identity is linked to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609](https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609)  
+   Link: <a href="https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>feature! &quot;Playlist Moods&quot;3 Mar 2026 — I think this would allow for some really creative spotify playlists where you can express your mood...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: discovery mode  
-   Link: [https://artists.spotify.com/en/discovery-mode](https://artists.spotify.com/en/discovery-mode)  
+   Link: <a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ModeDiscovery Mode is a tool for artists and music marketers designed to help you find new listeners when it matters to you most...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bridgeratings.com  
    Title: spotifys playlist ecosystem the mood machine at work  
-   Link: [https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work](https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work)  
+   Link: <a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridge Ratings Media ResearchSpotify&#x27;s Playlist Ecosystem: The Mood Machine at Work6 Mar 2025 — Spotify&#x27;s playlists function as a passive...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2056305119847514](https://journals.sagepub.com/doi/10.1177/2056305119847514)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2056305119847514" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305119847514</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCultivating Moods and Emotions through Playlists on Spotifyby I Siles · 2019 · Cited by 101 — This article bridges work on m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hmc.chartmetric.com  
    Title: How Music [Charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;) Spotify: The Rise of the Contextual Playlist  
-   Link: [https://hmc.chartmetric.com/spotify-the-rise-of-the-contextual-playlist/](https://hmc.chartmetric.com/spotify-the-rise-of-the-contextual-playlist/)  
+   Link: <a href="https://hmc.chartmetric.com/spotify-the-rise-of-the-contextual-playlist/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/spotify-the-rise-of-the-contextual-playlist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsSpotify: The Rise of the Contextual Playlist - How Music Charts12 Mar 2018 — Since we&#x27;re all about tracking playlists at...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: resources.onestowatch.com  
    Title: Ones To Watch Indie Artist Spotify Playlists: Curated vs Algorithmic Guide  
-   Link: [https://resources.onestowatch.com/compare-indie-spotify-playlists/](https://resources.onestowatch.com/compare-indie-spotify-playlists/)  
+   Link: <a href="https://resources.onestowatch.com/compare-indie-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://resources.onestowatch.com/compare-indie-spotify-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ones To WatchIndie Artist Spotify Playlists: Curated vs Algorithmic GuideJanuary 7, 2026 — 7 Jan 2026 — Key Takeaways · Playlist choice a...</p></details>
    Published: January 7, 2026  
 
 16. <a id="endnote-16"></a>
    Source: midiaresearch.com  
-   Link: [https://www.midiaresearch.com/blog/spotifys-vertical-feed-could-change-music-discovery-but-not-for-the-reason-you-think](https://www.midiaresearch.com/blog/spotifys-vertical-feed-could-change-music-discovery-but-not-for-the-reason-you-think)  
+   Link: <a href="https://www.midiaresearch.com/blog/spotifys-vertical-feed-could-change-music-discovery-but-not-for-the-reason-you-think" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/spotifys-vertical-feed-could-change-music-discovery-but-not-for-the-reason-you-think</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchSpotify&#x27;s vertical feed could change music discovery, but...March 9, 2023 — 9 Mar 2023 — Whereas playlists divorce artists...</p></details>
    Published: March 9, 2023  
 
 17. <a id="endnote-17"></a>
    Source: loopsolitaire.co.uk  
-   Link: [https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/](https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/)  
+   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Editorial Playlists: Do they really help musicians?This article will shed some light on the effects Spotify Editorial Playlists h...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40zc1111929/spotify-and-its-flaws-how-streaming-shapes-our-listening-habits-7549ca9fbaf0](https://medium.com/%40zc1111929/spotify-and-its-flaws-how-streaming-shapes-our-listening-habits-7549ca9fbaf0)  
+   Link: <a href="https://medium.com/%40zc1111929/spotify-and-its-flaws-how-streaming-shapes-our-listening-habits-7549ca9fbaf0" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40zc1111929/spotify-and-its-flaws-how-streaming-shapes-our-listening-habits-7549ca9fbaf0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s playlists cover “Chill,” “Focus,” “Mood Booster,” and even “Songs to Listen...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: decentmusicpr.com  
    Title: spotify editorial playlists 2025  
-   Link: [https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025](https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025)  
+   Link: <a href="https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.decentmusicpr.com/post/spotify-editorial-playlists-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get on Spotify Editorial Playlists in 202519 Jun 2025 — Create at least one public playlist that reflects your style or influences...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362224985_Does_Spotify_Create_Attachment_Algorithmic_Playlists_Intermediation_and_the_Artist-Fan_Relationship](https://www.researchgate.net/publication/362224985_Does_Spotify_Create_Attachment_Algorithmic_Playlists_Intermediation_and_the_Artist-Fan_Relationship)  
+   Link: <a href="https://www.researchgate.net/publication/362224985_Does_Spotify_Create_Attachment_Algorithmic_Playlists_Intermediation_and_the_Artist-Fan_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362224985_Does_Spotify_Create_Attachment_Algorithmic_Playlists_Intermediation_and_the_Artist-Fan_Relationship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Playlists, Intermediation and the Artist-Fan...24 Jul 2022 — This paper seeks to measure the extent to which algorithmically...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a](https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a)  
+   Link: <a href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiencing mood on SpotifyThe mood playlists curated by Spotify are used occasionally by participants, offering a listening pathway whe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicmarketing/comments/13p298q/lets_make_a_list_of_all_the_spotify_editorial/](https://www.reddit.com/r/musicmarketing/comments/13p298q/lets_make_a_list_of_all_the_spotify_editorial/)  
+   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/13p298q/lets_make_a_list_of_all_the_spotify_editorial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/13p298q/lets_make_a_list_of_all_the_spotify_editorial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Make a List Of All the Spotify Editorial PlaylistsI&#x27;ve compiled absolutely massive lists of both editorial playlists as well as tho...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: submithub.com  
-   Link: [https://www.submithub.com/story/optimizing-playlist-placements-for-the-spotify-algorithm](https://www.submithub.com/story/optimizing-playlist-placements-for-the-spotify-algorithm)  
+   Link: <a href="https://www.submithub.com/story/optimizing-playlist-placements-for-the-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.submithub.com/story/optimizing-playlist-placements-for-the-spotify-algorithm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing Playlist Placements for the Spotify AlgorithmAn article explaining steps we&#x27;ve taken to help users try to &quot;trigger&quot; the Spotif...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theatlantic.com  
-   Link: [https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/](https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/)  
+   Link: <a href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: stereofox.com  
-   Link: [https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/](https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/)  
+   Link: <a href="https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Different Kinds of Spotify Playlists ExplainedIn this piece, we highlight the differences between the various kinds of playlists offe...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ajqr.org  
-   Link: [https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf](https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf)  
+   Link: <a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding College Students&#x27; Music Listening Habits...by F Jia · 2025 · Cited by 1 — The result of this study showed that participant...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality](https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality)  
+   Link: <a href="https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Just the Way You Are”: Linking Music Listening on...13 Jul 2020 — We investigated the link between personality traits and music l...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SampleSize/comments/1bu1z2v/academic_effects_of_listening_to_playlist_on_the/](https://www.reddit.com/r/SampleSize/comments/1bu1z2v/academic_effects_of_listening_to_playlist_on_the/)  
+   Link: <a href="https://www.reddit.com/r/SampleSize/comments/1bu1z2v/academic_effects_of_listening_to_playlist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SampleSize/comments/1bu1z2v/academic_effects_of_listening_to_playlist_on_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>elligence. Sad or melancholic music may appeal to those who use it...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: newyorker.com  
    Title: The New Yorker Genre Is Disappearing  
-   Link: [https://www.newyorker.com/magazine/2021/03/15/genre-is-disappearing-what-comes-next](https://www.newyorker.com/magazine/2021/03/15/genre-is-disappearing-what-comes-next)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/03/15/genre-is-disappearing-what-comes-next" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/03/15/genre-is-disappearing-what-comes-next</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Comes Next?With the dissolution of traditional music genres, the Grammy nominations have sparked disputes, like Justin Bieber&#x27;s clai...</p></details>

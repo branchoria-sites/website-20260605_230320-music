@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626
 - music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654
 tags:
-- music
+- music-3-a01-be
 - creator-pay
 - label-deals
 keywords:
-- music
+- music-3-a01-be
 - creator-pay
 - label-deals
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Old record-deal terms can decide whether streaming growth reaches an artist quickly, slowly or not at all.
 hero_summary: Old record-deal terms can decide whether streaming growth reaches an artist quickly, slowly or not at all.
 layout: default
 permalink: /label-deals/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /creator-pay/
 nav_short_title: Label Deals
 title: When Old Record Deals Meet Streaming Money
-title_full: When Old Record Deals Meet Streaming Money | Creator Pay
+title_full: When Old Record Deals Meet Streaming Money
 display_title_short: Label Deals
 display_title: Label Deals
 heading_title: When Old Record Deals Meet Streaming Money
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why A Growing Industry Can Still Feel Unfair | Music
+parent_title: Why A Growing Industry Can Still Feel Unfair
 parent_permalink: /creator-pay/
 parent_nav_short_title: Creator Pay
 parent_heading_title: Why A Growing Industry Can Still Feel Unfair
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Bigger Royalty Reports Still Leave Questions
 up_link:
   basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -265,7 +265,7 @@ next_link:
   permalink: /payout-myths/
   short_title: Payout Myths
   heading_title: Why There Is No Simple Per Stream Rate
-date: '2026-06-09 07:22:28 '
+date: '2026-06-11 23:42:38 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1.webp
@@ -274,23 +274,18 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_st
 
 ## Introduction
 
-Streaming has increased the amount of money flowing into recorded music, but whether that money reaches artists depends heavily on the contracts sitting between the stream and the creator. Many artists are still paid under agreements negotiated before Spotify, Apple Music and subscription streaming existed. As a result, [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) often passes through royalty formulas, deductions and recoupment rules designed for the CD era rather than the on-demand digital economy. Studies of music streaming economics repeatedly identify contract terms as one of the main reasons why rising industry revenues do not automatically translate into rising [artist income]({{ 'artist-income/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">CREATeCopyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
-
+Streaming has increased the amount of money flowing into recorded music, but whether that money reaches artists depends heavily on the contracts sitting between the stream and the creator. Many artists are still paid under agreements negotiated before Spotify, Apple Music and subscription streaming existed. As a result, streaming revenue often passes through royalty formulas, deductions and recoupment rules designed for the CD era rather than the on-demand digital economy. Studies of music streaming economics repeatedly identify contract terms as one of the main reasons why rising industry revenues do not automatically translate into rising [artist income]({{ 'artist-income/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-dark.svg" | relative_url }}" alt="Label Deals illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate over [creator pay]({{ 'creator-pay/' | relative_url }}) is therefore not only about what streaming services pay. It is also about how record deals allocate revenue, risk and [ownership]({{ 'ownership/' | relative_url }}) once the money reaches a label.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/30QnabqgS54" title="The Truth About Record Labels × How Record Deals Really Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=30QnabqgS54" target="_blank" rel="noopener noreferrer">The Truth About Record Labels × How Record Deals Really Work</a></p><p class="youtube-embed-meta">Channel: The Truth IS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=30QnabqgS54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=30QnabqgS54">Open on YouTube</a></p></div></div></div>
-
 ## Recoupment and Advances in the Streaming Era
 
-The most important contractual mechanism shaping streaming income is recoupment. When a label provides an advance, pays recording costs, funds marketing campaigns or invests in tour support, those expenses are commonly treated as recoupable. The artist's share of future royalties is applied against that balance before significant payments are made to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</span></span></span>
+The most important contractual mechanism shaping streaming income is recoupment. When a label provides an advance, pays [recording]({{ 'recording/' | relative_url }}) costs, funds marketing campaigns or invests in tour support, those expenses are commonly treated as recoupable. The artist's share of future [royalties]({{ 'royalties/' | relative_url }}) is applied against that balance before significant payments are made to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</span></span></span>
 
 This system made intuitive sense in an era when labels faced substantial manufacturing, warehousing and distribution costs. Streaming changed the economics of delivery, but many contracts preserved the same accounting structure. As a result, an artist can generate millions of streams yet remain officially "unrecouped", meaning that streaming income primarily reduces an internal debt balance rather than producing direct royalty payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</span></span></span>
 
 The consequences vary dramatically:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,9 +299,6 @@ The issue has become significant enough that some labels have voluntarily altere
 
 These initiatives illustrate a broader recognition that perpetual recoupment can leave artists disconnected from the value generated by long-lived streaming catalogues.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XM25769Npn8" title="Sir Mix-a-Lot Explains How Publishing Beats Out Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XM25769Npn8" target="_blank" rel="noopener noreferrer">Sir Mix-a-Lot Explains How Publishing Beats Out Royalties</a></p><p class="youtube-embed-meta">Channel: djvlad</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XM25769Npn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XM25769Npn8">Open on YouTube</a></p></div></div></div>
-
 ## Why Label Investment Still Matters
 
 Critics of traditional deals sometimes present labels as unnecessary intermediaries, but that overlooks the economic role labels continue to play.
@@ -317,8 +309,7 @@ Streaming has not eliminated that function. In many cases, the artists receiving
 
 This explains why disputes over streaming income are rarely simple arguments about whether labels deserve a share. The real question is often whether older contractual percentages still reflect the level of investment and risk involved once music can remain commercially active on streaming services for decades.
 
-A contract signed in 1995 may have assumed that most revenue would arrive during a relatively short sales window. Streaming transformed successful recordings into long-term assets that can continue generating income indefinitely. That shift has altered the balance between the label's original investment and the artist's ongoing contribution to value creation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">CREATeCopyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
-
+A contract signed in 1995 may have assumed that most revenue would arrive during a relatively short sales window. Streaming transformed successful recordings into long-term assets that can continue generating income indefinitely. That shift has altered the balance between the label's original investment and the artist's ongoing contribution to value creation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-2-dark.svg" | relative_url }}" alt="Label Deals illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Legacy Royalty Terms Create Conflict
@@ -335,9 +326,7 @@ Such disputes are not isolated. Parliamentary inquiries, academic studies and cr
 
 Legacy deals can also contain deductions that were originally justified by physical distribution. Depending on the agreement, artists may face packaging deductions, reserves or other adjustments that appear increasingly disconnected from digital consumption. Researchers examining performer payments have argued that legacy contracts often leave artists receiving substantially smaller shares of streaming income than newer agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aepo-artis.org">[aepo-artis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aepo-artis.org</span><span class="citation-popover-title">Performer Payments Streaming 20219131842</span><span class="citation-popover-snippet">PERFORMER PAYMENTS FROM STREAMINGSeptember 13, 2021 — Royalty rates on legacy deals vary hugely depending on country and era, but based o...</span><span class="citation-popover-meta">Published: September 13, 2021</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-dark.svg" | relative_url }}" alt="Label Deals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Transparency, Renegotiation and the Push for Reform
 
 The streaming debate has gradually shifted from whether contracts matter to how they should evolve.
@@ -348,10 +337,7 @@ At the same time, pressure has grown for mechanisms that allow artists on older 
 
 The underlying issue is straightforward: streaming transformed how music earns money, but many contracts still reflect the assumptions of a previous era. Whether artists benefit quickly, slowly or not at all from streaming growth often depends less on the platform and more on the specific clauses governing royalties, ownership and recoupment.
 
-For that reason, record contracts remain one of the most powerful determinants of creator pay in the streaming economy. Even when the same song generates the same number of streams, the agreement behind it can produce radically different outcomes for the artist who made it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">CREATeCopyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Music and streaming</span><span class="citation-popover-snippet">AssetsMusic and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-dark.svg" | relative_url }}" alt="Label Deals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For that reason, record contracts remain one of the most powerful determinants of creator pay in the streaming economy. Even when the same song generates the same number of streams, the agreement behind it can produce radically different outcomes for the artist who made it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Music and streaming</span><span class="citation-popover-snippet">Music and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -750,82 +736,82 @@ For that reason, record contracts remain one of the most powerful determinants o
 1. <a id="endnote-1"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: UK Assets Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AssetsMusic and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</p></details>
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like](https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like)  
+   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/18910/pdf/](https://committees.parliament.uk/writtenevidence/18910/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/18910/pdf/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Rights reversion and contract adjustment  
-   Link: [https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment](https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment)  
+   Link: <a href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2023 — 6 Feb 2023 — In 2022, Defected Records introduced a minimum 30% royalty rate and a policy of writing off unrecouped de...</p></details>
    Published: February 6, 2023  
 
 5. <a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 220726 Music and streaming update paper  
-   Link: [https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf](https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming26 Jul 2022 — artists are being offered higher royalty rates and shorter contract terms than in the past...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pitchfork.com  
    Title: Four Tet Wins Streaming Royalties Dispute With Domino  
-   Link: [https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino](https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino)  
+   Link: <a href="https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hebden claimed he was owed a 50% royalty rate for streams and downloads according to his 2001 contract, rather than the 18% the label pai...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament4The market for music rights  
-   Link: [https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm](https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament UK15 Jul 2021 — Sony sold 50 percent of its shares for $750 million and ・ over $250 million was shared with artists417 ・ artis...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aepo-artis.org  
    Title: Performer Payments Streaming 20219131842  
-   Link: [https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf](https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf)  
+   Link: <a href="https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PERFORMER PAYMENTS FROM STREAMINGSeptember 13, 2021 — Royalty rates on legacy deals vary hugely depending on country and era, but based o...</p></details>
    Published: September 13, 2021  
 
 9. <a id="endnote-9"></a>
    Source: councilmusicmakers.org  
-   Link: [https://councilmusicmakers.org/contractrenegotiation/](https://councilmusicmakers.org/contractrenegotiation/)  
+   Link: <a href="https://councilmusicmakers.org/contractrenegotiation/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/contractrenegotiation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMM guidance on how to renegotiate your label contract22 Jul 2025 — BPI and AIM have recommended that their member labels adopt a set of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
    Title: the potential economic impact of er on performers and the music market in the uk  
-   Link: [https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk](https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: create.ac.uk  
-   Link: [https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf](https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CREATeCopyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</p></details>
+   Link: <a href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</p></details>
    Published: November 16, 2020  
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/13675494211044731](https://journals.sagepub.com/doi/10.1177/13675494211044731)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13675494211044731</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373](https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Use and Abuse of Statistics in UK Music Streaming...by R Osborne · 2025 · Cited by 1 — finding that, on avera...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mediawrites.twobirds.com  
    Title: Passle A Step Towards Fairness?  
-   Link: [https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i](https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i)  
+   Link: <a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Voluntary Code of Good...14 May 2024 — The Code states that record labels and publishers should encourage artists how royalties a...</p></details>
    Published: May 2024  
 
@@ -833,56 +819,56 @@ For that reason, record contracts remain one of the most powerful determinants o
 
 15. <a id="endnote-15"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7](https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7)  
+   Link: <a href="https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These measures aim to address income disparities for artists with pre-digital era record deals that did not account for streaming revenue...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: virpp.com  
-   Link: [https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/)  
+   Link: <a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2](https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2)  
+   Link: <a href="https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Artists Can Renegotiate Old Record Deals for...UK Artists who signed record deals before 2000 just got a massive win: they can now re...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ivorsacademy.com  
-   Link: [https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/](https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat the streaming [transparency code](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;) means for...6 Aug 2024 — This new code, which took effect on 31 st July 2024, incl...</p></details>
+   Link: <a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat the streaming transparency code means for...6 Aug 2024 — This new code, which took effect on 31 st July 2024, incl...</p></details>
    Published: July 2024  
 
 19. <a id="endnote-19"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming what does a fair deal for musicians look like  
-   Link: [https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like](https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like)  
+   Link: <a href="https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming: What Does a Fair Deal for...11 Feb 2025 — Songwriters and composers receive a 70-80% royalty from the music publisher u...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: themmf.net  
-   Link: [https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf](https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf)  
+   Link: <a href="https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf" target="_blank" rel="noopener noreferrer nofollow">https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to... Check your Streaming RoyaltiesIn that case, artists will receive income direct from them and it is not subject to recoupment of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming royalties  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties for Streaming Music | The MU22 Apr 2026 — The MU Royalties department collects between £1.5 million to £2 million a year for mu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Truth About Record Labels and Streaming Income  
-   Link: [https://www.youtube.com/watch?v=8q-i9sT2XpI](https://www.youtube.com/watch?v=8q-i9sT2XpI)  
+   Link: <a href="https://www.youtube.com/watch?v=8q-i9sT2XpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8q-i9sT2XpI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding [Royalty Splits](&amp;#123;&amp;#123; &#x27;royalty-splits/&#x27; | relative_url &amp;#125;&amp;#125;): Labels, Distributors, and Artists...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: weareumaw.org  
    Title: un report  
-   Link: [https://weareumaw.org/un-report](https://weareumaw.org/un-report)  
+   Link: <a href="https://weareumaw.org/un-report" target="_blank" rel="noopener noreferrer nofollow">https://weareumaw.org/un-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of UN Report on StreamingThe UN report recommends the worldwide creation of a new streaming royalty paid to artists, including no...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bura.brunel.ac.uk  
    Title: Full Text  
-   Link: [https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf](https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf)  
+   Link: <a href="https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK economics of music streaming inquiryby H Bosher · 2022 · Cited by 3 — Equitable remuneration (ER) is an international legal concept in...</p></details>

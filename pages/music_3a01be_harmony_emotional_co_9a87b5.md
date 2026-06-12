@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - harmony
 keywords:
-- music
+- music-3-a01-be
 - harmony
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Harmony colors expectation, letting the same melody feel warm, tense, sad, triumphant or unresolved.
 hero_summary: Harmony colors expectation, letting the same melody feel warm, tense, sad, triumphant or unresolved.
 layout: default
 permalink: /harmony/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Harmony
 title: How Harmony Changes What Music Means
-title_full: How Harmony Changes What Music Means | Music
+title_full: How Harmony Changes What Music Means
 display_title_short: Harmony
 display_title: Harmony
 heading_title: How Harmony Changes What Music Means
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 next_link:
   basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
-date: '2026-06-09 06:18:05 '
+date: '2026-06-11 23:09:49 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5-overview-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5-overview.webp
@@ -501,22 +501,20 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5-overview-social.j
 
 ## Introduction
 
-Harmony changes musical emotion by changing what the ear expects, how stable the [music]({{ 'music/' | relative_url }}) feels, and how strongly a moment seems to ask for continuation or resolution. The same [melody]({{ 'melody/' | relative_url }}) can sound tender, bleak, heroic, comic or suspended when placed over different chords because harmony supplies a moving emotional frame: it can make a note feel like home, like a question, like a wound, or like a doorway. This matters because much of music’s feeling arrives before any lyric, story or image tells us what to feel.
-
+Harmony changes musical emotion by changing what the ear expects, how stable the music feels, and how strongly a moment seems to ask for continuation or resolution. The same [melody]({{ 'melody/' | relative_url }}) can sound tender, bleak, heroic, comic or suspended when placed over different chords because harmony supplies a moving emotional frame: it can make a note feel like home, like a question, like a wound, or like a doorway. This matters because much of music’s feeling arrives before any lyric, story or image tells us what to feel.
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-overview.webp" | relative_url }}" alt="Overview image for Harmony" loading="eager" decoding="sync" fetchpriority="high">
-Harmony is not a simple code in which one chord always means one emotion. Research on musical expectation shows that listeners respond to patterns that are satisfied, delayed or disrupted, and harmonic context is one of the main ways music creates those patterns. The emotional result depends on the chord itself, the progression around it, the listener’s cultural experience, and the wider musical setting of tempo, [timbre]({{ 'timbre/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.mus.cam.ac.uk">[Centre for Music and Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.mus.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Music and ScienceExpectation | Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</span></span></span>
+Harmony is not a simple code in which one chord always means one emotion. Research on musical expectation shows that listeners respond to patterns that are satisfied, delayed or disrupted, and harmonic context is one of the main ways music creates those patterns. The emotional result depends on the chord itself, the progression around it, the listener’s cultural experience, and the wider musical setting of tempo, [timbre]({{ 'timbre/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.mus.cam.ac.uk">[Centre for Music and Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.mus.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Music and ScienceExpectation &#124; Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</span></span></span>
 
 ## Chords and emotional colour
 
-A chord is more than several notes sounding together. In tonal music, it is a cue about emotional temperature and direction. A major triad is often heard in Western contexts as brighter or more positive, while a minor triad is often heard as darker or more sorrowful; diminished and augmented sonorities can suggest suspense, instability or strangeness. Large music datasets and computational work often encode these associations because they are common enough in Western repertoires to be useful for analysing harmony at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</span></span></span>
+A chord is more than several notes sounding together. In tonal music, it is a cue about emotional temperature and direction. A major triad is often heard in Western contexts as brighter or more positive, while a minor triad is often heard as darker or more sorrowful; diminished and augmented sonorities can suggest suspense, instability or strangeness. Large music datasets and computational work often encode these associations because they are common enough in Western repertoires to be useful for analysing harmony at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">ChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</span></span></span>
 
 Yet the word “often” is doing important work. A single minor chord does not automatically make a piece sad. A minor harmony in a fast dance track can feel fierce, sensual or exhilarating; a major harmony in a slow, sparse setting can feel nostalgic, fragile or even painful. Harmony gives the melody a colour, but the colour is mixed with rhythm, register, loudness, instrumentation and genre [memory]({{ 'memory/' | relative_url }}).
 
 One useful way to hear this is to imagine a simple melody note. If the chord underneath treats that note as the root of a stable harmony, the moment may feel grounded. If the chord makes the same note into a suspended or clashing tone, it may feel yearning or unresolved. If the chord reinterprets the note as part of a surprising new key area, the same sound can feel like a turn in the story. Harmony changes emotion because it changes the role a note seems to be playing.
 
-Empirical studies support this more flexible view. A 2025 study on major and minor chords found that listeners rated major chords as more pleasant and less tense than minor chords when heard as isolated sonorities, but the emotional effect changed when the chords appeared as endings within progressions. Stable terminations strengthened the major–minor contrast, while unstable terminations reduced it, showing that progression and context shape the emotion of the chord itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
-
+Empirical studies support this more flexible view. A 2025 study on major and minor chords found that listeners rated major chords as more pleasant and less tense than minor chords when heard as isolated sonorities, but the emotional effect changed when the chords appeared as endings within progressions. Stable terminations strengthened the major–minor contrast, while unstable terminations reduced it, showing that progression and context shape the emotion of the chord itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-1-dark.svg" | relative_url }}" alt="Harmony illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tension, release and surprise
@@ -537,7 +535,6 @@ Consonance and dissonance are not simply “nice” and “bad”. Consonant har
 
 That is why emotionally affecting harmony often lives between comfort and disturbance. Too little tension can make a progression feel static; too much can make it feel incoherent or exhausting. The expressive art lies in how much pressure the music builds, how long it asks the listener to wait, and how convincingly it releases or redirects that pressure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z4MSF3hIznE" title="How to Modulate to ANY Key (Easy to Difficult)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z4MSF3hIznE" target="_blank" rel="noopener noreferrer">How to Modulate to ANY Key (Easy to Difficult)</a></p><p class="youtube-embed-meta">Channel: Zach Heyde &middot; Views: 263.9K &middot; Uploaded: July 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z4MSF3hIznE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z4MSF3hIznE">Open on YouTube</a></p></div></div></div>
 
 ## The same melody can mean different things
@@ -550,11 +547,10 @@ This is also why film music and songwriting often use harmony to steer emotional
 
 Recent computational work on emotion-driven harmonisation makes the same point from the opposite direction. The task is to give the same or similar melodic material different emotional qualities by choosing different harmonic contexts. A 2024 paper on emotion-driven melody harmonisation noted that changing perceived emotional valence through chords alone can be difficult because the melody itself imposes constraints, but it also treated key-aware harmony as central to shaping emotional character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.20176" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-2-dark.svg" | relative_url }}" alt="Harmony illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why context matters more than formula
 
-The common shortcut “major equals happy, minor equals sad” is useful only as a beginner’s doorway. It describes a strong convention in much Western listening, not a universal law of feeling. A 2025 systematic review and meta-analysis of major–minor perception concluded that sensitivity and emotional evaluation are influenced by [culture]({{ 'culture/' | relative_url }}), age, musical expertise and health, and that major–minor associations arise from an interplay of psychoacoustic features and cultural influences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
+The common shortcut “major equals happy, minor equals sad” is useful only as a beginner’s doorway. It describes a strong convention in much Western listening, not a universal law of feeling. A 2025 systematic review and meta-analysis of major–minor perception concluded that sensitivity and emotional evaluation are influenced by [culture]({{ 'culture/' | relative_url }}), age, musical expertise and health, and that major–minor associations arise from an interplay of psychoacoustic features and cultural influences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
 Cross-cultural research makes the warning sharper. Studies involving Tsimané listeners from the Bolivian Amazon found that preferences for consonance over dissonance, so familiar among many Western listeners, were absent or much weaker in groups with less exposure to Western music, while aversion to acoustic roughness remained a more robust factor. Later work found that greater integration with global and Bolivian culture was associated with a small but significant increase in consonance preference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcdermottlab.mit.edu">[McDermott Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcdermottlab.mit.edu</span><span class="citation-popover-title">Mc Dermott Lab Indifference to dissonance in native Amazonians reveals</span><span class="citation-popover-snippet">Mc Dermott Lab Indifference to dissonance in native Amazonians reveals</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -562,19 +558,17 @@ This does not mean harmony is arbitrary. Some aspects of sound, such as roughnes
 
 Context also works inside the piece itself. A chord that feels shocking early on may feel inevitable once the music has prepared it. A dissonance that feels harsh in isolation may feel beautiful when it resolves. A cadence that sounds final in one passage may sound ironic if the surrounding texture, lyric or performance undercuts it. Harmony is emotional grammar, not a dictionary.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hXeX031w-6Q" title="Creating Tension and Release in Music - Music Composition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hXeX031w-6Q" target="_blank" rel="noopener noreferrer">Creating Tension and Release in Music - Music Composition</a></p><p class="youtube-embed-meta">Channel: Music Matters &middot; Views: 68.4K &middot; Uploaded: May 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hXeX031w-6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hXeX031w-6Q">Open on YouTube</a></p></div></div></div>
 
 ## How harmony makes music feel unresolved
 
-Unresolved harmony is powerful because it keeps the listener emotionally open. A cadence that stops just short of home, a repeated loop that never lands, or a chord with a suspended note can make music feel as if it is still thinking, still wanting, still becoming. This is why unresolved harmony often suits longing, grief, suspense, spiritual awe and romantic uncertainty.
+[Unresolved harmony]({{ 'unresolved-harmony/' | relative_url }}) is powerful because it keeps the listener emotionally open. A cadence that stops just short of home, a repeated loop that never lands, or a chord with a suspended note can make music feel as if it is still thinking, still wanting, still becoming. This is why unresolved harmony often suits longing, grief, suspense, spiritual awe and romantic uncertainty.
 
-The effect depends on prediction. If listeners sense where the music “should” go, then the delay becomes meaningful. Research on contextual prediction and musical tension has shown that perceived tension is shaped by how predictable the surrounding context is: expectation does not operate in a vacuum, but through the pattern the listener has already been given. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
+The effect depends on prediction. If listeners sense where the music “should” go, then the delay becomes meaningful. Research on contextual prediction and musical tension has shown that perceived tension is shaped by how predictable the surrounding context is: expectation does not operate in a vacuum, but through the pattern the listener has already been given. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
 A suspended chord is a compact example. One note is held over from a previous harmony or placed where the ear expects a more stable tone. The chord does not sound wrong; it sounds unfinished. When the suspension resolves, the emotional charge comes partly from the small bodily sense of settling. If the resolution is delayed, repeated or denied, that small charge can become the expressive centre of a phrase.
 
 This is why some of the most emotionally memorable harmonic moments are not the most complex. A simple two-chord loop can feel devastating if it withholds closure. A familiar cadence can feel overwhelming if it arrives after a long harmonic detour. Harmony changes emotion not by being complicated, but by making the listener care about arrival.
-
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-3-dark.svg" | relative_url }}" alt="Harmony illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Harmony as emotional motion
@@ -585,9 +579,7 @@ That relational nature explains why formulas are tempting but limited. Major cho
 
 For listeners, the practical takeaway is simple: when music seems to change emotional colour without changing melody or words, harmony is often doing the hidden work. It tells the ear whether a moment is settled or searching, whether an arrival feels earned or avoided, and whether the next sound feels like comfort, surprise or consequence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HhnxOu1p-W0" title="Music and the Brain: From Mode to Emotion in Musical Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HhnxOu1p-W0" target="_blank" rel="noopener noreferrer">Music and the Brain: From Mode to Emotion in Musical Communication</a></p><p class="youtube-embed-meta">Channel: Library of Congress &middot; Views: 35.1K &middot; Uploaded: July 2009 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HhnxOu1p-W0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HhnxOu1p-W0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -985,130 +977,130 @@ For listeners, the practical takeaway is simple: when music seems to change emot
 
 1. <a id="endnote-1"></a>
    Source: wires.onlinelibrary.wiley.com  
-   Link: [https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262)  
+   Link: <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825000034](https://www.sciencedirect.com/science/article/pii/S0001691825000034)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41597-023-02410-w](https://www.nature.com/articles/s41597-023-02410-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41597-023-02410-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2407.20176](https://arxiv.org/abs/2407.20176)  
+   Link: <a href="https://arxiv.org/abs/2407.20176" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.20176</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1571064524001672](https://www.sciencedirect.com/science/article/pii/S1571064524001672)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725002744](https://www.sciencedirect.com/science/article/pii/S0010027725002744)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725002744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725002744</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919](https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919</a>  
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-34345-y](https://www.nature.com/articles/s41598-023-34345-y)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-34345-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-34345-y</a>  
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-019-55781-9](https://www.nature.com/articles/s41598-019-55781-9)  
+   Link: <a href="https://www.nature.com/articles/s41598-019-55781-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-55781-9</a>  
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-018-35873-8](https://www.nature.com/articles/s41598-018-35873-8)  
+   Link: <a href="https://www.nature.com/articles/s41598-018-35873-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-018-35873-8</a>  
 
 13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-07300-6](https://www.nature.com/articles/s41598-022-07300-6)  
+   Link: <a href="https://www.nature.com/articles/s41598-022-07300-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-07300-6</a>  
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-020-65615-8](https://www.nature.com/articles/s41598-020-65615-8)  
+   Link: <a href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-65615-8</a>  
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub](https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub)  
+   Link: <a href="https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub</a>  
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-021-01393-1](https://www.nature.com/articles/s41598-021-01393-1)  
+   Link: <a href="https://www.nature.com/articles/s41598-021-01393-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-01393-1</a>  
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-13064-6.pdf](https://www.nature.com/articles/s41598-025-13064-6.pdf)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-13064-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-13064-6.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-08956-6](https://www.nature.com/articles/s41598-025-08956-6)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-08956-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-08956-6</a>  
 
 19. <a id="endnote-19"></a>
    Source: cms.mus.cam.ac.uk  
-   Link: [https://cms.mus.cam.ac.uk/projects/expectation/](https://cms.mus.cam.ac.uk/projects/expectation/)  
+   Link: <a href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow">https://cms.mus.cam.ac.uk/projects/expectation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for Music and ScienceExpectation | Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mcdermottlab.mit.edu  
    Title: Mc Dermott Lab Indifference to dissonance in native Amazonians reveals  
-   Link: [https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf](https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf)  
+   Link: <a href="https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to Modulate to ANY Key (Easy to Difficult)  
-   Link: [http://www.youtube.com/watch?v=Z4MSF3hIznE](http://www.youtube.com/watch?v=Z4MSF3hIznE)  
+   Link: <a href="http://www.youtube.com/watch?v=Z4MSF3hIznE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Z4MSF3hIznE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How chords change musical emotion harmony theory Which Chord Sequences Produce Which Emotions (A Complete Map Of The Tonal System) Pur Pa...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=n6MViTAfNio](http://www.youtube.com/watch?v=n6MViTAfNio)  
+   Link: <a href="http://www.youtube.com/watch?v=n6MViTAfNio" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n6MViTAfNio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How I wish HARMONY was explained to me as a student...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension](https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension)  
+   Link: <a href="https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download](https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download)  
+   Link: <a href="https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download</a>  
 
 25. <a id="endnote-25"></a>
    Source: noisyclan.com  
-   Link: [https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT](https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT)  
+   Link: <a href="https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT" target="_blank" rel="noopener noreferrer nofollow">https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/](https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/)  
+   Link: <a href="https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/</a>  
 
 27. <a id="endnote-27"></a>
    Source: neurohaven.co.uk  
-   Link: [https://neurohaven.co.uk/how-music-evokes-emotion](https://neurohaven.co.uk/how-music-evokes-emotion)  
+   Link: <a href="https://neurohaven.co.uk/how-music-evokes-emotion" target="_blank" rel="noopener noreferrer nofollow">https://neurohaven.co.uk/how-music-evokes-emotion</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/480749852301325/posts/2179325655777061/](https://www.facebook.com/groups/480749852301325/posts/2179325655777061/)  
+   Link: <a href="https://www.facebook.com/groups/480749852301325/posts/2179325655777061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/480749852301325/posts/2179325655777061/</a>  
 
 29. <a id="endnote-29"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0](https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0)  
+   Link: <a href="https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/](https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/)  
+   Link: <a href="https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/</a>

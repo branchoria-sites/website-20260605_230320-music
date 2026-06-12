@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e
 - music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919
 tags:
-- music
+- music-3-a01-be
 - short-clips
 - early-hooks
 keywords:
-- music
+- music-3-a01-be
 - short-clips
 - early-hooks
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The opening moments of a song now carry outsized weight because they must earn attention before a viewer scrolls away.
 hero_summary: The opening moments of a song now carry outsized weight because they must earn attention before a viewer scrolls away.
 layout: default
 permalink: /early-hooks/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /short-clips/
 nav_short_title: Early Hooks
 title: How Fast Does a Song Need to Grab You?
-title_full: How Fast Does a Song Need to Grab You? | Short Clips
+title_full: How Fast Does a Song Need to Grab You?
 display_title_short: Early Hooks
 display_title: Early Hooks
 heading_title: How Fast Does a Song Need to Grab You?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Short Clips Reshape Hit Songs | Music
+parent_title: How Short Clips Reshape Hit Songs
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: How Short Clips Reshape Hit Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the Chorus Is No Longer the Only Hook
 up_link:
   basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -265,7 +265,7 @@ next_link:
   permalink: /song-revivals/
   short_title: Song Revivals
   heading_title: How Old Songs Become New Hits Again
-date: '2026-06-09 06:46:12 '
+date: '2026-06-11 23:24:24 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1.webp
@@ -276,20 +276,18 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hook
 
 Short-form video has intensified a trend that was already emerging in streaming: the opening seconds of a song now carry extraordinary weight. A listener can skip almost instantly, and a viewer scrolling through clips may decide within moments whether a sound deserves [attention]({{ 'attention/' | relative_url }}). As a result, songwriters and producers increasingly treat the first few seconds as a retention mechanism rather than merely an introduction.
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1-dark.svg" | relative_url }}" alt="Early Hooks illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every song begins with a chorus. Instead, successful tracks often reveal their identity, emotion or curiosity trigger almost immediately. The goal is simple: prevent the listener from leaving before the song has a chance to create attachment. Research on streaming behaviour shows that skipping is remarkably common, with roughly a quarter of plays abandoned within the first five seconds and more than a third skipped within the first 30 seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</span></span></span>
+This does not mean every song begins with a chorus. Instead, successful tracks often reveal their identity, emotion or curiosity trigger almost immediately. The goal is simple: prevent the listener from leaving before the song has a chance to create attachment. Research on streaming behaviour shows that skipping is remarkably common, with roughly a quarter of plays abandoned within the first five seconds and more than a third skipped within the first 30 seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</span></span></span>
 
 ## How Fast Does a Song Need to Grab You?
 
 The answer depends on the platform, but the pressure starts almost immediately.
 
-Streaming services have given listeners unprecedented control. A song no longer competes only with other songs on the radio; it competes with millions of alternatives that are one tap away. Studies of streaming behaviour have found that skipping is concentrated at the very beginning of tracks, creating a critical retention window in the opening seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</span></span></span>
+Streaming services have given listeners unprecedented control. A song no longer competes only with other songs on the radio; it competes with millions of alternatives that are one tap away. Studies of streaming behaviour have found that skipping is concentrated at the very beginning of tracks, creating a critical retention window in the opening seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</span></span></span>
 
-Short-form video amplifies this effect. On platforms built around scrolling, [music]({{ 'music/' | relative_url }}) is often encountered as part of a larger visual feed. The sound must therefore communicate something recognisable before the user moves on. In practical terms, many writers now think about whether a song offers an immediately identifiable moment rather than whether it slowly builds toward one.
+Short-form video amplifies this effect. On platforms built around scrolling, music is often encountered as part of a larger visual feed. The sound must therefore communicate something recognisable before the user moves on. In practical terms, many writers now think about whether a song offers an immediately identifiable moment rather than whether it slowly builds toward one.
 
 This retention pressure is not only artistic. Streaming ecosystems reward engagement. Industry analyses consistently point to early skip rates as an important signal for recommendation systems and playlist exposure, encouraging artists to make the opening seconds more compelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imusician.pro/en/resources/blog/how-spotify-changes-affect-the-music-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imusician.pro">[iMusician]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imusician.pro</span><span class="citation-popover-title">how spotify changes affect the music industry</span><span class="citation-popover-snippet">The algorithm tracks when listeners skip tracks before the 30-second mark, and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://organicmusicpromo.com/optimizing-your-first-30-seconds-for-spotify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: organicmusicpromo.com">[Organic Music Promo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">organicmusicpromo.com</span><span class="citation-popover-snippet">Spotify&#x27;s algorithm considers a &#x27;skip&#x27; if a listener moves on before the 30-second mark. Therefore...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1KOMtT_FdDY" title="Listening to BAD HABIT by Steve Lacy - ANALYSIS + REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1KOMtT_FdDY" target="_blank" rel="noopener noreferrer">Listening to BAD HABIT by Steve Lacy - ANALYSIS + REVIEW</a></p><p class="youtube-embed-meta">Channel: Music Kingdom &middot; Views: 702 &middot; Uploaded: November 2022 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1KOMtT_FdDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1KOMtT_FdDY">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +296,6 @@ This retention pressure is not only artistic. Streaming ecosystems reward engage
 An immediate hook is not necessarily the chorus. It is any element that quickly answers the listener's unconscious question: “Why should I keep listening?”
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,8 +310,7 @@ Common examples include:
 
 The most effective early [hooks]({{ 'hooks/' | relative_url }}) often combine several of these elements at once. A listener may not consciously identify what captured their attention, but the song has already established an identity before disengagement occurs.
 
-Research into music excerpts suggests that effective previews balance familiarity and [surprise]({{ 'surprise/' | relative_url }}). Material that is overly repetitive can lose attention, while material that is too unpredictable can confuse listeners. Retention improves when listeners receive enough information to understand what makes the music distinctive without feeling that everything has already been revealed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2309.14475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Designing Effective Music Excerpts</span><span class="citation-popover-snippet">arXivDesigning Effective Music ExcerptsSeptember 25, 2023...</span><span class="citation-popover-meta">Published: September 25, 2023</span></span></span>
-
+Research into music excerpts suggests that effective previews balance familiarity and [surprise]({{ 'surprise/' | relative_url }}). Material that is overly repetitive can lose attention, while material that is too unpredictable can confuse listeners. Retention improves when listeners receive enough information to understand what makes the music distinctive without feeling that everything has already been revealed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2309.14475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Designing Effective Music Excerpts</span><span class="citation-popover-snippet">Designing Effective Music ExcerptsSeptember 25, 2023...</span><span class="citation-popover-meta">Published: September 25, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t3s6WPNyX9o" title="Spotify Skip Rates EXPLAINED: Save Your Reach in 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t3s6WPNyX9o" target="_blank" rel="noopener noreferrer">Spotify Skip Rates EXPLAINED: Save Your Reach in 2026</a></p><p class="youtube-embed-meta">Channel: Innovaniac Music &middot; Views: 389 &middot; Uploaded: January 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t3s6WPNyX9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t3s6WPNyX9o">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +326,6 @@ The trend is visible alongside broader reductions in song length. Billboard hits
 
 Importantly, shorter intros do not necessarily mean simpler songwriting. Many modern productions compress what older songs might have spread across 20 or 30 seconds into the first five or ten. The hook arrives sooner, but sophisticated layering, tension and development can still occur afterwards.
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-2-dark.svg" | relative_url }}" alt="Early Hooks illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Early Attention Triggers
 
@@ -343,7 +338,6 @@ Steve Lacy's “Bad Habit” became a prominent example. A brief section of the 
 ### The immediate vocal entrance
 
 Many contemporary songs reduce the delay before the lead vocal appears. A voice is often the fastest way to establish personality and emotional context. When vocals arrive early, listeners gain information about the song's mood, genre and narrative almost instantly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/496FEdMR35g" title="How Steve Lacy Made &quot;Bad Habit&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=496FEdMR35g" target="_blank" rel="noopener noreferrer">How Steve Lacy Made &quot;Bad Habit&quot;</a></p><p class="youtube-embed-meta">Channel: SamKing &middot; Views: 9.8K &middot; Uploaded: October 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=496FEdMR35g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=496FEdMR35g">Open on YouTube</a></p></div></div></div>
 
@@ -365,11 +359,10 @@ The most successful examples tend to use the opening hook as an invitation rathe
 
 This is why the best early hooks often feel connected to the song's core identity. They are not merely attention tricks. They are condensed versions of what makes the track worth hearing in the first place.
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-3-dark.svg" | relative_url }}" alt="Early Hooks illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The New Function of the Opening Seconds
 
-The opening moments of a song have become a retention checkpoint. In an environment where listeners routinely abandon tracks within seconds and discovery increasingly happens through [short clips]({{ 'short-clips/' | relative_url }}), the introduction must perform more work than it once did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</span></span></span>
+The opening moments of a song have become a retention checkpoint. In an environment where listeners routinely abandon tracks within seconds and discovery increasingly happens through [short clips]({{ 'short-clips/' | relative_url }}), the introduction must perform more work than it once did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</span></span></span>
 
 For songwriters, the question is no longer simply how to start a song. It is how to communicate enough of the song's identity before attention disappears. Whether through a lyric, melody, texture or [rhythm]({{ 'rhythm/' | relative_url }}), the first seconds now serve as a test of retention—and increasingly, as the gateway to everything that follows.
 
@@ -490,15 +483,15 @@ For songwriters, the question is no longer simply how to start a song. It is how
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture"><img src="{{ '/assets/images/marketplace-covers/3c4709e078f9bdf9535c.jpg' | relative_url }}" alt="Listing image for Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nick Drake T-Shirt Folk Singer-Songwriter Acoustic British Music Tee S-5XL"><img src="https://i.ebayimg.com/images/g/tg8AAeSwMsxojmqh/s-l225.jpg" alt="Listing image for Nick Drake T-Shirt Folk Singer-Songwriter Acoustic British Music Tee S-5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nick Drake T-Shirt Folk Singer-Songwriter Acoustic British Music Tee S-5XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +499,15 @@ For songwriters, the question is no longer simply how to start a song. It is how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MY CHEMICAL ROMANCE BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/efe73630922d47b586a8.jpg' | relative_url }}" alt="Listing image for MY CHEMICAL ROMANCE BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="https://i.ebayimg.com/images/g/7egAAOSw1Gtcd9bb/s-l225.jpg" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">MY CHEMICAL ROMANCE BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +515,15 @@ For songwriters, the question is no longer simply how to start a song. It is how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sombr The Late Nights Young Romance Europe Tour 2026 Music Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/40e71beb3f1d70660c78.jpg' | relative_url }}" alt="Listing image for Sombr The Late Nights Young Romance Europe Tour 2026 Music Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRUST ME I AM A SONGWRITER T-SHIRT best funny awesome gift"><img src="https://i.ebayimg.com/images/g/yYMAAOSwJltoB3tG/s-l225.jpg" alt="Listing image for TRUST ME I AM A SONGWRITER T-SHIRT best funny awesome gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Sombr The Late Nights Young Romance Europe Tour 2026 Music Poster Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">TRUST ME I AM A SONGWRITER T-SHIRT best funny awesome gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +531,15 @@ For songwriters, the question is no longer simply how to start a song. It is how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/575252c6202735919653.jpg' | relative_url }}" alt="Listing image for Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEONARD COHEN Tribute Singer Songwriter Poet Heavy Cotton t-shirt All Sizes"><img src="https://i.ebayimg.com/images/g/2aoAAOSw4GVYJWs3/s-l225.jpg" alt="Listing image for LEONARD COHEN Tribute Singer Songwriter Poet Heavy Cotton t-shirt All Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">LEONARD COHEN Tribute Singer Songwriter Poet Heavy Cotton t-shirt All Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +547,7 @@ For songwriters, the question is no longer simply how to start a song. It is how
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="early-hooks-how-fast-does-a-song-need-to-grab-you-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="how-fast-does-a-song-need-to-grab-you-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -769,108 +762,108 @@ For songwriters, the question is no longer simply how to start a song. It is how
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7526936/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The skipping behavior of users of music streaming services...by N Montecchio · 2020 · Cited by 35 — Skipping is an overwhelmingly com...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: imusician.pro  
    Title: how spotify changes affect the music industry  
-   Link: [https://imusician.pro/en/resources/blog/how-spotify-changes-affect-the-music-industry](https://imusician.pro/en/resources/blog/how-spotify-changes-affect-the-music-industry)  
+   Link: <a href="https://imusician.pro/en/resources/blog/how-spotify-changes-affect-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/how-spotify-changes-affect-the-music-industry</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The algorithm tracks when listeners skip tracks before the 30-second mark, and...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Designing Effective Music Excerpts  
-   Link: [https://arxiv.org/abs/2309.14475](https://arxiv.org/abs/2309.14475)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDesigning Effective Music ExcerptsSeptember 25, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2309.14475" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.14475</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Effective Music ExcerptsSeptember 25, 2023...</p></details>
    Published: September 25, 2023  
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Uncovering How Streaming Is Changing the Sound of Pop  
-   Link: [https://pitchfork.com/features/article/uncovering-how-streaming-is-changing-the-sound-of-pop](https://pitchfork.com/features/article/uncovering-how-streaming-is-changing-the-sound-of-pop)  
+   Link: <a href="https://pitchfork.com/features/article/uncovering-how-streaming-is-changing-the-sound-of-pop" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/features/article/uncovering-how-streaming-is-changing-the-sound-of-pop</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since streaming requires songs to be played for at least 30 seconds to count towards chart tallies, artists are strategically crafting th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: organicmusicpromo.com  
-   Link: [https://organicmusicpromo.com/optimizing-your-first-30-seconds-for-spotify/](https://organicmusicpromo.com/optimizing-your-first-30-seconds-for-spotify/)  
+   Link: <a href="https://organicmusicpromo.com/optimizing-your-first-30-seconds-for-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://organicmusicpromo.com/optimizing-your-first-30-seconds-for-spotify/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s algorithm considers a &#x27;skip&#x27; if a listener moves on before the 30-second mark. Therefore...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: qz.com  
    Title: Quartz The economics of streaming is making songs shorter  
-   Link: [https://qz.com/1519823/is-spotify-making-songs-shorter](https://qz.com/1519823/is-spotify-making-songs-shorter)  
+   Link: <a href="https://qz.com/1519823/is-spotify-making-songs-shorter" target="_blank" rel="noopener noreferrer nofollow">https://qz.com/1519823/is-spotify-making-songs-shorter</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>QuartzThe economics of streaming is making songs shorter - QuartzSix percent of hit songs were 2 minutes 30 seconds or shorter in 2018, u...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abc.net.au  
    Title: ABC News The hooks have it: how artists are using Tik Tok to catch  
-   Link: [https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224](https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224)  
+   Link: <a href="https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/triplej/news/tiktok-hooks-lizzo-steve-lacy-peach-prc-jack-harlow-hottest-100/101989224</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsThe hooks have it: how artists are using TikTok to catch...February 19, 2023 — 19 Feb 2023 — The 15 second hook from Steve Lacy&#x27;...</p></details>
    Published: February 19, 2023  
 
 8. <a id="endnote-8"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit](https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit)  
+   Link: <a href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: introducing new audience segmentation on spotify for artists  
-   Link: [https://artists.spotify.com/blog/introducing-new-audience-segmentation-on-spotify-for-artists](https://artists.spotify.com/blog/introducing-new-audience-segmentation-on-spotify-for-artists)  
+   Link: <a href="https://artists.spotify.com/blog/introducing-new-audience-segmentation-on-spotify-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/introducing-new-audience-segmentation-on-spotify-for-artists</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Guide to Audience SegmentsApr 24, 2024 — This guide covers all you need to know about audience segments and the metrics on the S...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lyricmastery_spotify-song-skip-rates-tell-us-a-lot-about-activity-7383213382436352001-xRLJ](https://www.linkedin.com/posts/lyricmastery_spotify-song-skip-rates-tell-us-a-lot-about-activity-7383213382436352001-xRLJ)  
+   Link: <a href="https://www.linkedin.com/posts/lyricmastery_spotify-song-skip-rates-tell-us-a-lot-about-activity-7383213382436352001-xRLJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lyricmastery_spotify-song-skip-rates-tell-us-a-lot-about-activity-7383213382436352001-xRLJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie Naumann&#x27;s PostOct 12, 2025 — In the modern streaming environment, retention is everything. Data shows a listener is 25% likely to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=496FEdMR35g](https://www.youtube.com/watch?v=496FEdMR35g)  
+   Link: <a href="https://www.youtube.com/watch?v=496FEdMR35g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=496FEdMR35g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Steve Lacy Made &quot;Bad Habit&quot;I Recreated Steve Lacy with an iPhone to Prove Gear Isn&#x27;t Necessary. AudioHaze &amp;middot; 128K views; How t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Songwriting/comments/1gzjm6t/whats_with_all_the_new_shorter_songs/](https://www.reddit.com/r/Songwriting/comments/1gzjm6t/whats_with_all_the_new_shorter_songs/)  
+   Link: <a href="https://www.reddit.com/r/Songwriting/comments/1gzjm6t/whats_with_all_the_new_shorter_songs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Songwriting/comments/1gzjm6t/whats_with_all_the_new_shorter_songs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s with all the new &quot;shorter songs?&quot;: r/SongwritingI&#x27;m noticing a trend of songs now that are under 2 minutes......is this a TikTok...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: orionmusicnetwork.com  
    Title: spotify streams vs monthly listeners what actually pays more  
-   Link: [https://orionmusicnetwork.com/spotify-streams-vs-monthly-listeners-what-actually-pays-more/](https://orionmusicnetwork.com/spotify-streams-vs-monthly-listeners-what-actually-pays-more/)  
+   Link: <a href="https://orionmusicnetwork.com/spotify-streams-vs-monthly-listeners-what-actually-pays-more/" target="_blank" rel="noopener noreferrer nofollow">https://orionmusicnetwork.com/spotify-streams-vs-monthly-listeners-what-actually-pays-more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Streams vs Monthly Listeners: What Actually Pays...Jan 9, 2026 — As a music industry leader, we&#x27;ve analyzed Spotify&#x27;s payout dat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: andrmusic.co  
-   Link: [https://andrmusic.co/behind-the-music/artist-development-metrics-success/](https://andrmusic.co/behind-the-music/artist-development-metrics-success/)  
+   Link: <a href="https://andrmusic.co/behind-the-music/artist-development-metrics-success/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/artist-development-metrics-success/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>% skip rate (engagement maintenance); 30-60 seconds: Under 12% skip rate (song...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/musicartistspromo/posts/857184444016686/](https://www.facebook.com/groups/musicartistspromo/posts/857184444016686/)  
+   Link: <a href="https://www.facebook.com/groups/musicartistspromo/posts/857184444016686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/musicartistspromo/posts/857184444016686/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, I want to urge artists, songwriters, and music producers to do better.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: soundonsound.com  
-   Link: [https://www.soundonsound.com/techniques/inside-track-steve-lacy-bad-habit](https://www.soundonsound.com/techniques/inside-track-steve-lacy-bad-habit)  
+   Link: <a href="https://www.soundonsound.com/techniques/inside-track-steve-lacy-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/inside-track-steve-lacy-bad-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Track: Steve Lacy &#x27;Bad Habit&#x27; - Neal PogueA song like &#x27;Bad Habit&#x27; is just a genuine song that comes from a pure, innocent place...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: news.osu.edu  
    Title: has music streaming killed the instrumental intro  
-   Link: [https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/](https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/)  
+   Link: <a href="https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>music streaming killed the instrumental intro?4 Apr 2017 — Intros that averaged more than 20 seconds in the mid-80s are now only about 5...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
    Title: why pop songs are getting shorter a87c61af47d8  
-   Link: [https://medium.com/%40maya.l.hazarika/why-pop-songs-are-getting-shorter-a87c61af47d8](https://medium.com/%40maya.l.hazarika/why-pop-songs-are-getting-shorter-a87c61af47d8)  
+   Link: <a href="https://medium.com/%40maya.l.hazarika/why-pop-songs-are-getting-shorter-a87c61af47d8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40maya.l.hazarika/why-pop-songs-are-getting-shorter-a87c61af47d8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Pop Songs Are Getting Shorter | by Maya HazarikaResearch shows intros averaged over 20 seconds in the 1980s but now run about five se...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/spotify/comments/rctp8i/how_spotify_wrapped_is_calculated_explained/](https://www.reddit.com/r/spotify/comments/rctp8i/how_spotify_wrapped_is_calculated_explained/)  
+   Link: <a href="https://www.reddit.com/r/spotify/comments/rctp8i/how_spotify_wrapped_is_calculated_explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spotify/comments/rctp8i/how_spotify_wrapped_is_calculated_explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your top songs are calculated by play count rather...Read more...</p></details>

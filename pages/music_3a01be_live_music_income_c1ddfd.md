@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - live-income
 keywords:
-- music
+- music-3-a01-be
 - live-income
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Concerts can provide artists with income, visibility and fan connection that recorded streaming alone may not deliver.
 hero_summary: Concerts can provide artists with income, visibility and fan connection that recorded streaming alone may not deliver.
 layout: default
 permalink: /live-income/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Live Income
 title: Why Live Music Still Pays Differently
-title_full: Why Live Music Still Pays Differently | Music
+title_full: Why Live Music Still Pays Differently
 display_title_short: Live Income
 display_title: Live Income
 heading_title: Why Live Music Still Pays Differently
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 next_link:
   basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
-date: '2026-06-09 06:08:33 '
+date: '2026-06-11 23:04:35 '
 header:
   og_image: /assets/images/music_3a01be_live_music_income_c1ddfd-overview-social.jpg
   preview_image: /assets/images/music_3a01be_live_music_income_c1ddfd-overview.webp
@@ -501,20 +501,17 @@ image: /assets/images/music_3a01be_live_music_income_c1ddfd-overview-social.jpg
 
 ## Introduction
 
-Live music still matters financially because it pays differently from recordings. Streaming can spread a song globally, but the money is usually delayed, rights-dependent and thinly divided across labels, publishers, platforms, distributors and collaborators. A concert, by contrast, can create several kinds of value at once: ticket income, a performance fee, merchandise sales, [public performance]({{ 'public-play/' | relative_url }}) royalties for songs, fan data, local spending, press [attention]({{ 'attention/' | relative_url }}) and a stronger bond with listeners. That does not make touring easy or equally profitable. It is expensive, risky and increasingly unequal. But it remains one of the few places where music turns attention into visible economic activity in a single night, and where artists can prove demand beyond play counts. Recorded music revenues reached US$31.7 billion globally in 2025, with streaming making up 69.6% of recorded income, but live performance remains a separate economic engine rather than a side activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
-
+Live music still matters financially because it pays differently from recordings. Streaming can spread a song globally, but the money is usually delayed, rights-dependent and thinly divided across labels, publishers, platforms, distributors and collaborators. A concert, by contrast, can create several kinds of value at once: ticket income, a performance fee, merchandise sales, public performance [royalties]({{ 'royalties/' | relative_url }}) for songs, fan data, local spending, press [attention]({{ 'attention/' | relative_url }}) and a stronger bond with listeners. That does not make touring easy or equally profitable. It is expensive, risky and increasingly unequal. But it remains one of the few places where music turns attention into visible economic activity in a single night, and where artists can prove demand beyond play counts. Recorded music revenues reached US$31.7 billion globally in 2025, with streaming making up 69.6% of recorded income, but live performance remains a separate economic engine rather than a side activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-overview.webp" | relative_url }}" alt="Overview image for Live Income" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a gig earns differently from a stream
 
-The financial logic of live [music]({{ 'music/' | relative_url }}) begins with [scarcity]({{ 'scarcity/' | relative_url }}). A stream can be repeated endlessly and usually pays through a complex pool-based system; a live performance is limited by venue capacity, date, location and demand. That scarcity is why a committed fan may pay far more for one evening in a room with an artist than they would contribute through hundreds of passive streams.
+The financial logic of live music begins with [scarcity]({{ 'scarcity/' | relative_url }}). A stream can be repeated endlessly and usually pays through a complex pool-based system; a live performance is limited by venue capacity, date, location and demand. That scarcity is why a committed fan may pay far more for one evening in a room with an artist than they would contribute through hundreds of passive streams.
 
-For the artist, live work can also concentrate income. A fee for a small venue show, a share of ticket sales, a festival slot or a tour guarantee may be negotiated before the performance. This does not mean the artist keeps the full ticket price. Promoters, venues, ticketing companies, production suppliers, managers, agents, crew, transport, accommodation, insurance, tax and security all sit inside the live cost chain. But the artist can sometimes see a clearer connection between audience demand and earnings than they do in streaming, where income depends on scale, territory, platform rules and rights ownership.
+For the artist, live work can also concentrate income. A fee for a small venue show, a share of ticket sales, a festival slot or a tour guarantee may be negotiated before the performance. This does not mean the artist keeps the full ticket price. Promoters, venues, ticketing companies, production suppliers, managers, agents, crew, transport, accommodation, insurance, tax and security all sit inside the live cost chain. But the artist can sometimes see a clearer connection between audience demand and earnings than they do in streaming, where income depends on scale, territory, [platform rules]({{ 'platform-rules/' | relative_url }}) and rights ownership.
 
-This is why live music matters even in a streaming-dominated era. IFPI’s 2026 global report shows that paid subscriptions and streaming remain the main drivers of recorded music growth, but those figures describe the recorded market, not the full livelihood of working musicians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> The UK Musicians’ Census found that UK musicians’ average annual income from music work was £20,700, with 43% earning less than £14,000 from music; nearly half said a lack of sustainable income was a barrier to their career. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians | The MU...</span></span></span> Live work is therefore not a luxury add-on for many musicians. It is often part of the patchwork that makes a career possible.
+This is why live music matters even in a streaming-dominated era. IFPI’s 2026 global report shows that paid subscriptions and streaming remain the main drivers of recorded music growth, but those figures describe the recorded market, not the full livelihood of working musicians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> The UK Musicians’ Census found that UK musicians’ average annual income from music work was £20,700, with 43% earning less than £14,000 from music; nearly half said a lack of sustainable income was a barrier to their career. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians &#124; The MU...</span></span></span> Live work is therefore not a luxury add-on for many musicians. It is often part of the patchwork that makes a career possible.
 
-
-<img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-dark.svg" | relative_url }}" alt="Live Income illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tickets, fees and touring economics
 
 Ticket money is the most visible part of live music, but it is not a simple transfer from fan to artist. A show is a small temporary business. Someone must hire the venue, staff the doors, provide sound and lighting, promote the date, pay support acts, arrange travel, cover risk and sell enough tickets to make the numbers work. At small scale, the musician may be the person doing much of that work. At large scale, it becomes a network of agents, promoters, production teams, venue operators and ticketing platforms.
@@ -524,7 +521,6 @@ The biggest live companies show how large this economy has become. Live Nation s
 In the UK, live music spending has also become a major consumer market. LIVE reported that UK consumer spending on live music reached £6.68 billion in 2024, up 9.5% on the previous year and more than £2 billion higher than in 2019; concerts accounted for 75.3% of that spending, and more than 23.5 million music tourists attended UK live music events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> UK Music’s wider economic report put the UK music industry’s 2024 contribution at a record £8 billion in gross value added, with 220,000 full-time equivalent jobs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukmusic.org/research-reports/this-is-music-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmusic.org">[UK Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmusic.org</span><span class="citation-popover-title">this is music 2025</span><span class="citation-popover-snippet">this is music 2025</span></span></span>
 
 For an artist, the live income mix can include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -536,14 +532,12 @@ For an artist, the live income mix can include:
 
 </div>
 
-The problem is that gross ticket revenue can look impressive while net income is modest. Fuel, van hire, hotels, crew wages, visas, carnets, rehearsal rooms, instrument insurance and production costs can eat through a run before the artist is paid properly. The Musicians’ Union’s live engagement guidance reflects this reality: it notes that many gig fees are negotiated case by case and stresses written confirmation of terms so musicians can prove what has been agreed and recover fees if problems arise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians | The MU...</span></span></span>
+The problem is that gross ticket revenue can look impressive while net income is modest. Fuel, van hire, hotels, crew wages, visas, carnets, rehearsal rooms, instrument insurance and production costs can eat through a run before the artist is paid properly. The Musicians’ Union’s live engagement guidance reflects this reality: it notes that many gig fees are negotiated case by case and stresses written confirmation of terms so musicians can prove what has been agreed and recover fees if problems arise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians &#124; The MU...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G0OP525STto" title="How Live Nation Is Devouring the Live Music Industry | WSJ The Economics Of" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G0OP525STto" target="_blank" rel="noopener noreferrer">How Live Nation Is Devouring the Live Music Industry | WSJ The Economics Of</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G0OP525STto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G0OP525STto">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-dark.svg" | relative_url }}" alt="Live Income illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Performance royalties and public use
 
-Live music also pays through rights, not just through the fee at the door. When a songwriter’s work is performed publicly, that use can generate performance [royalties]({{ 'royalties/' | relative_url }}). In the UK, PRS for Music licenses the public performance of compositions and distributes money to songwriters, composers and publishers. This matters because the person performing on stage is not always the person who wrote the songs, and because the song itself has a separate economic life from the ticketed event.
+Live music also pays through [rights]({{ 'rights/' | relative_url }}), not just through the fee at the door. When a songwriter’s work is performed publicly, that use can generate performance royalties. In the UK, PRS for Music licenses the public performance of compositions and distributes money to songwriters, composers and publishers. This matters because the person performing on stage is not always the person who wrote the songs, and because the song itself has a separate economic life from the ticketed event.
 
 For concerts and many other live music events, PRS’s live tariff increased from 3% to 4% of relevant gross box office receipts, while qualifying festivals have a lower rate of 2.5% or 2.7% depending on reporting criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Copyright Tribunal approves Tariff LP</span><span class="citation-popover-snippet">PRS for Music Copyright Tribunal approves Tariff LP</span></span></span> In practice, that means a live show can generate publishing income alongside performance fees and ticket revenue. A songwriter whose work is played at a large show may benefit even if they are not the headline performer.
 
@@ -551,8 +545,6 @@ This mechanism is financially important but imperfect. It depends on setlists be
 
 For working musicians, the lesson is practical as well as structural. A gig can create income after the night itself, but only if the relevant songs are reported, the rightsholder information is accurate and the collecting society can connect the performance to the correct writers. Live royalties are not a bonus floating above the business; they are part of the machinery that turns public musical use into payment.
 
-
-<img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-2-dark.svg" | relative_url }}" alt="Live Income illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why visibility can become money later
 
 A live show is also a marketing event with financial consequences. Streaming platforms can show that someone listened, but they do not always reveal whether the listener would buy a ticket, recommend the artist or support a release. A room full of paying fans sends a clearer signal. Promoters, agents, labels, publishers, festivals and brands all treat live demand as evidence that an audience is real.
@@ -563,9 +555,7 @@ Grassroots venues are especially important here because they function as the tes
 
 That development role is financially different from streaming discovery. A playlist placement may lift a track; a live circuit can train an artist, build local demand, employ crew and create repeatable ticket-buying behaviour. The money is not only in the first gig. It is in the career infrastructure that a run of gigs can build.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KxEgwtDcXXs" title="The Real Truth About Making Money as a Musician" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KxEgwtDcXXs" target="_blank" rel="noopener noreferrer">The Real Truth About Making Money as a Musician</a></p><p class="youtube-embed-meta">Channel: Jeff Schneider</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KxEgwtDcXXs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KxEgwtDcXXs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-2-dark.svg" | relative_url }}" alt="Live Income illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why live work is not equally accessible
 
 The strongest argument against romanticising live music is that touring is not equally available to all artists. It rewards those who can absorb upfront costs, travel repeatedly, survive uncertainty and take time away from other paid work or caring responsibilities. The result is a financial filter: some artists can use live work to grow, while others are priced out before demand has a chance to develop.
@@ -574,21 +564,17 @@ The grassroots end of the sector is particularly fragile. The 2024 parliamentary
 
 That matters for artists because a weakened venue network means fewer first steps. If small rooms close, new musicians lose places to learn, test songs, meet fans, sell merchandise and make mistakes at survivable scale. The live market can then become more top-heavy: stadium and arena tours generate record spending, while the pipeline that produces future headliners becomes less secure.
 
-[Access]({{ 'access/' | relative_url }}) barriers also fall unevenly. The UK Musicians’ Census found that 23% of musicians said they did not earn enough to support themselves or their families, and 44% saw lack of sustainable income as a career barrier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians | The MU...</span></span></span> Disabled musicians face further structural challenges: a Musicians’ Union report based on Musicians’ Census data found an average disability pay gap of £4,400 among musicians earning all their income from music, with higher debt levels among disabled musicians than non-disabled musicians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians | The MU...</span></span></span>
+[Access]({{ 'access/' | relative_url }}) barriers also fall unevenly. The UK Musicians’ Census found that 23% of musicians said they did not earn enough to support themselves or their families, and 44% saw lack of sustainable income as a career barrier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians &#124; The MU...</span></span></span> Disabled musicians face further structural challenges: a Musicians’ Union report based on Musicians’ Census data found an average disability pay gap of £4,400 among musicians earning all their income from music, with higher debt levels among disabled musicians than non-disabled musicians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians &#124; The MU...</span></span></span>
 
 So live music still pays differently, but not automatically fairly. The artist who can fund rehearsals, travel and losses may reach better rooms; the artist who cannot may be stuck playing unpaid or underpaid shows, or may leave the field altogether.
 
-
-<img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-dark.svg" | relative_url }}" alt="Live Income illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The financial value is real, but uneven
 
 Live music remains financially important because it converts music into direct, place-based economic activity. It can pay performers through fees and ticket shares, pay songwriters through public performance royalties, support venues and local economies, and turn fan attention into long-term career momentum. It also gives the industry a demand signal that streaming alone cannot fully provide: people leaving home, paying for entry and choosing to be present.
 
 The tension is that the live economy is both powerful and fragile. At the top, global tours and major concert companies show extraordinary demand. In the middle and at the grassroots, rising costs, thin margins, weak bargaining power and venue closures make the same system hard to enter and hard to sustain. Live music matters financially not because it solves the problems of streaming, but because it creates a different route by which music becomes livelihood, community spending and career proof. Its future value depends on whether that route remains open beyond the already successful few.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OXS7Q9RG_7o" title="How to Make Money From Music Even If No One Knows You Yet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OXS7Q9RG_7o" target="_blank" rel="noopener noreferrer">How to Make Money From Music Even If No One Knows You Yet</a></p><p class="youtube-embed-meta">Channel: Music Money Makeover Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OXS7Q9RG_7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OXS7Q9RG_7o">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-dark.svg" | relative_url }}" alt="Live Income illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -707,15 +693,15 @@ The tension is that the live economy is both powerful and fragile. At the top, g
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -723,15 +709,15 @@ The tension is that the live economy is both powerful and fragile. At the top, g
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -739,15 +725,15 @@ The tension is that the live economy is both powerful and fragile. At the top, g
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -755,15 +741,15 @@ The tension is that the live economy is both powerful and fragile. At the top, g
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -771,7 +757,7 @@ The tension is that the live economy is both powerful and fragile. At the top, g
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-income-why-live-music-still-pays-differently-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="live-income-why-live-music-still-pays-differently-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -986,184 +972,184 @@ The tension is that the live economy is both powerful and fragile. At the top, g
 
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</p></details>
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union  
-   Link: [https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians](https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians)  
+   Link: <a href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians | The MU...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommended Minimum Rates for Live Musicians | The MU...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Grassroots music venues  
-   Link: [https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: musicradar.com  
-   Link: [https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis](https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis)  
+   Link: <a href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis</a>  
 
 6. <a id="endnote-6"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: ifpi.org  
    Title: MITE 2025  
-   Link: [https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf](https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/resources/](https://www.ifpi.org/resources/)  
+   Link: <a href="https://www.ifpi.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/resources/</a>  
 
 9. <a id="endnote-9"></a>
    Source: committees.parliament.uk  
    Title: uk Written evidence  
-   Link: [https://committees.parliament.uk/writtenevidence/161871/html/](https://committees.parliament.uk/writtenevidence/161871/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/161871/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161871/html/</a>  
 
 10. <a id="endnote-10"></a>
    Source: investors.livenationentertainment.com  
    Title: Live Nation Entertainment Investor Relations:: Live Nation Entertainment (LYV)  
-   Link: [https://investors.livenationentertainment.com/](https://investors.livenationentertainment.com/)  
+   Link: <a href="https://investors.livenationentertainment.com/" target="_blank" rel="noopener noreferrer nofollow">https://investors.livenationentertainment.com/</a>  
 
 11. <a id="endnote-11"></a>
    Source: newsroom.livenation.com  
    Title: live nation entertainment full year and fourth quarter 2025 results  
-   Link: [https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/](https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/)  
+   Link: <a href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/</a>  
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high](https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high)  
+   Link: <a href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high</a>  
 
 13. <a id="endnote-13"></a>
    Source: ukmusic.org  
    Title: this is music 2025  
-   Link: [https://www.ukmusic.org/research-reports/this-is-music-2025/](https://www.ukmusic.org/research-reports/this-is-music-2025/)  
+   Link: <a href="https://www.ukmusic.org/research-reports/this-is-music-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/research-reports/this-is-music-2025/</a>  
 
 14. <a id="endnote-14"></a>
    Source: prsformusic.com  
    Title: PRS for Music Copyright Tribunal approves Tariff LP  
-   Link: [https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing](https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing)  
+   Link: <a href="https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing</a>  
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
 16. <a id="endnote-16"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union Musicians' Census Reveals Disabled  
-   Link: [https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges](https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges)  
+   Link: <a href="https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges</a>  
 
 17. <a id="endnote-17"></a>
    Source: investors.livenationentertainment.com  
    Title: annual reports  
-   Link: [https://investors.livenationentertainment.com/sec-filings/annual-reports](https://investors.livenationentertainment.com/sec-filings/annual-reports)  
+   Link: <a href="https://investors.livenationentertainment.com/sec-filings/annual-reports" target="_blank" rel="noopener noreferrer nofollow">https://investors.livenationentertainment.com/sec-filings/annual-reports</a>  
 
 18. <a id="endnote-18"></a>
    Source: musiciansunion.org.uk  
    Title: how to report live performances to prs for music  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
 
 19. <a id="endnote-19"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy](https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy)  
+   Link: <a href="https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy</a>  
 
 20. <a id="endnote-20"></a>
    Source: musiciansunion.org.uk  
    Title: take the musicians census 2023  
-   Link: [https://musiciansunion.org.uk/news/take-the-musicians-census-2023](https://musiciansunion.org.uk/news/take-the-musicians-census-2023)  
+   Link: <a href="https://musiciansunion.org.uk/news/take-the-musicians-census-2023" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/take-the-musicians-census-2023</a>  
 
 21. <a id="endnote-21"></a>
    Source: musiciansunion.org.uk  
    Title: less than 24 hours left to take the musicians census 2023  
-   Link: [https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023](https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023)  
+   Link: <a href="https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023</a>  
 
 22. <a id="endnote-22"></a>
    Source: prsformusic.com  
    Title: performing right society limited  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy](https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy</a>  
 
 23. <a id="endnote-23"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf](https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: ukmusic.org  
    Title: the four commercial assets inside the economics of the music industry  
-   Link: [https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/](https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/)  
+   Link: <a href="https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Musician](https://en.wikipedia.org/wiki/Musician)  
+   Link: <a href="https://en.wikipedia.org/wiki/Musician" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Musician</a>  
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd](https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd)  
+   Link: <a href="https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd</a>  
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CxDPvGxNCW-/](https://www.instagram.com/p/CxDPvGxNCW-/)  
+   Link: <a href="https://www.instagram.com/p/CxDPvGxNCW-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CxDPvGxNCW-/</a>  
 
 28. <a id="endnote-28"></a>
    Source: store.mintel.com  
    Title: uk music concerts and festivals market report  
-   Link: [https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report](https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report)  
+   Link: <a href="https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report" target="_blank" rel="noopener noreferrer nofollow">https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report</a>  
 
 29. <a id="endnote-29"></a>
    Source: prnewswire.com  
    Title: live nation entertainment third quarter 2025 results 302604664  
-   Link: [https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html](https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html)  
+   Link: <a href="https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: cultuurmonitor.nl  
-   Link: [https://www.cultuurmonitor.nl/en/domein/muziek/](https://www.cultuurmonitor.nl/en/domein/muziek/)  
+   Link: <a href="https://www.cultuurmonitor.nl/en/domein/muziek/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultuurmonitor.nl/en/domein/muziek/</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/[charts](https://www.billboard.com/[charts)  
+   Link: <a href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/[charts</a>  
 
 32. <a id="endnote-32"></a>
    Source: pollstar.com  
-   Link: [https://pollstar.com/charts](https://pollstar.com/charts)  
+   Link: <a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I](https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I)  
+   Link: <a href="https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/](https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/)  
+   Link: <a href="https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/</a>  
 
 35. <a id="endnote-35"></a>
    Source: musicianscensus.co.uk  
-   Link: [https://www.musicianscensus.co.uk/insight-reports](https://www.musicianscensus.co.uk/insight-reports)  
+   Link: <a href="https://www.musicianscensus.co.uk/insight-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscensus.co.uk/insight-reports</a>  
 
 36. <a id="endnote-36"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DU_usMTlwji/](https://www.instagram.com/p/DU_usMTlwji/)  
+   Link: <a href="https://www.instagram.com/p/DU_usMTlwji/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU_usMTlwji/</a>  
 
 37. <a id="endnote-37"></a>
    Source: musicvenuetrust.com  
-   Link: [https://musicvenuetrust.com/](https://musicvenuetrust.com/)  
+   Link: <a href="https://musicvenuetrust.com/" target="_blank" rel="noopener noreferrer nofollow">https://musicvenuetrust.com/</a>  
 
 38. <a id="endnote-38"></a>
    Source: musiciansfriend.com  
-   Link: [https://www.musiciansfriend.com/](https://www.musiciansfriend.com/)  
+   Link: <a href="https://www.musiciansfriend.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.musiciansfriend.com/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/495179813977387/](https://www.facebook.com/groups/495179813977387/)  
+   Link: <a href="https://www.facebook.com/groups/495179813977387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/495179813977387/</a>  
 
 40. <a id="endnote-40"></a>
    Source: musicianscensus.co.uk  
-   Link: [https://www.musicianscensus.co.uk/](https://www.musicianscensus.co.uk/)  
+   Link: <a href="https://www.musicianscensus.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscensus.co.uk/</a>

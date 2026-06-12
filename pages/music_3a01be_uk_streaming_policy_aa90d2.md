@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_timbre_sound_texture_76da17
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - uk-policy
 keywords:
-- music
+- music-3-a01-be
 - uk-policy
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: UK inquiries and voluntary measures show how governments can pressure the music industry without fully redesigning it.
 hero_summary: UK inquiries and voluntary measures show how governments can pressure the music industry without fully redesigning it.
 layout: default
 permalink: /uk-policy/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: UK Policy
 title: Can Policy Make Streaming Fairer?
-title_full: Can Policy Make Streaming Fairer? | Music
+title_full: Can Policy Make Streaming Fairer?
 display_title_short: UK Policy
 display_title: UK Policy
 heading_title: Can Policy Make Streaming Fairer?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 next_link:
   basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
-date: '2026-06-09 06:13:42 '
+date: '2026-06-11 23:07:11 '
 header:
   og_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2-overview-social.jpg
   preview_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2-overview.webp
@@ -501,11 +501,10 @@ image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2-overview-social.jp
 
 ## Introduction
 
-UK streaming policy tests a difficult question: can government make [music]({{ 'music/' | relative_url }}) streaming fairer without rewriting the whole music business? Since 2020, the UK has become one of the most visible test cases for this approach. Parliamentary committees pushed for a “complete reset” of streaming, creators argued that [royalties]({{ 'royalties/' | relative_url }}) were too low and too opaque, and government-backed workstreams produced voluntary agreements on metadata, transparency and creator remuneration rather than immediate sweeping legislation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Economics of music streaming</span><span class="citation-popover-snippet">UK Parliament CommitteesEconomics of music streaming - CommitteesMusic streaming in the UK brings in more than £1 billion in revenue with...</span></span></span>
-
+UK streaming policy tests a difficult question: can government make music streaming fairer without rewriting the whole music business? Since 2020, the UK has become one of the most visible test cases for this approach. Parliamentary committees pushed for a “complete reset” of streaming, creators argued that [royalties]({{ 'royalties/' | relative_url }}) were too low and too opaque, and government-backed workstreams produced voluntary agreements on metadata, transparency and creator remuneration rather than immediate sweeping legislation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Economics of music streaming</span><span class="citation-popover-snippet">UK Parliament CommitteesEconomics of music streaming - CommitteesMusic streaming in the UK brings in more than £1 billion in revenue with...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-overview.webp" | relative_url }}" alt="Overview image for UK Policy" loading="eager" decoding="sync" fetchpriority="high">
-The result is a governance experiment. Instead of simply declaring streaming “broken” or leaving the market alone, UK policy has used inquiries, market studies, commissioned research and working groups to pressure labels, publishers, platforms and collecting societies into changing practice. That has produced some concrete measures, including a 2023 metadata agreement, a 2024 [transparency code]({{ 'transparency/' | relative_url }}) and 2025 label-led remuneration principles. But the same process also shows the limits of voluntary reform: many creator groups still argue that fair pay requires enforceable [rights]({{ 'rights/' | relative_url }}), not just better information and goodwill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/governmentstreamingreforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3GOV.UK 3GOV.UK]
+The result is a governance experiment. Instead of simply declaring streaming “broken” or leaving the market alone, UK policy has used inquiries, market studies, commissioned research and working groups to pressure labels, publishers, platforms and collecting societies into changing practice. That has produced some concrete measures, including a 2023 metadata agreement, a 2024 transparency code and 2025 label-led remuneration principles. But the same process also shows the limits of voluntary reform: many creator groups still argue that fair pay requires enforceable [rights]({{ 'rights/' | relative_url }}), not just better information and goodwill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/governmentstreamingreforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3GOV.UK 3GOV.UK]
 
 ## Why the UK became a streaming fairness test case
 
@@ -517,8 +516,6 @@ The committee’s 2021 report called for a “complete reset” of the streaming
 
 That framing made the UK unusual. It did not treat streaming fairness only as a consumer-price issue or a private contract dispute. It treated it as a public policy problem about how cultural markets are governed when digital distribution becomes the dominant route to income.
 
-
-<img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-1-dark.svg" | relative_url }}" alt="UK Policy illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The call for a streaming reset
 
 The phrase “reset” carried two meanings. For creator advocates, it meant changing the rules of the recorded music economy so performers and songwriters could receive more reliable and transparent income from streaming. For government and regulators, it raised a harder question: which part of the system should be changed, and by whom?
@@ -527,20 +524,18 @@ One major proposal was equitable remuneration, often shortened to ER. In this co
 
 Other proposed reforms focused on contract adjustment and rights reversion. A contract adjustment mechanism would let creators seek better terms when old agreements become disproportionately unfair in new market conditions. A reversion right would allow rights transferred to a company to return to the creator after a defined period or under certain conditions. The UK Intellectual Property Office commissioned research on these options, reflecting that the streaming debate had shifted from moral complaint to detailed copyright design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The government&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of pr...</span></span></span>
 
-The policy challenge is that each remedy helps a different group and creates different risks. ER could create a new income route for performers but might reduce the revenue available to labels for advances, marketing or artist development. Reversion could help creators trapped in outdated deals but might unsettle investment models built around long-term rights ownership. Contract adjustment sounds flexible, but it depends on who can afford to bring a claim and how “unfairness” is measured. The UK process therefore became less about finding one magic fix and more about testing which interventions could survive legal, economic and industry scrutiny.
+The policy challenge is that each remedy helps a different group and creates different risks. ER could create a new income route for performers but might reduce the revenue available to labels for advances, marketing or artist development. Reversion could help creators trapped in outdated deals but might unsettle investment models built around long-term rights [ownership]({{ 'ownership/' | relative_url }}). Contract adjustment sounds flexible, but it depends on who can afford to bring a claim and how “unfairness” is measured. The UK process therefore became less about finding one magic fix and more about testing which interventions could survive legal, economic and industry scrutiny.
 
+<img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-1-dark.svg" | relative_url }}" alt="UK Policy illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the CMA did — and did not — find
 
-The Competition and Markets Authority’s 2022 music and streaming market study changed the direction of the debate. Many artists hoped a competition investigation would identify market power as the cause of low creator pay. Instead, the CMA concluded that competition between streaming services was broadly delivering good outcomes for consumers and decided not to launch a full market investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+The Competition and Markets Authority’s 2022 music and streaming market study changed the direction of the debate. Many artists hoped a competition investigation would identify market power as the cause of low [creator pay]({{ 'creator-pay/' | relative_url }}). Instead, the CMA concluded that competition between streaming services was broadly delivering good outcomes for consumers and decided not to launch a full market investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 That conclusion did not mean the CMA thought musicians had no problem. It acknowledged creator concerns, but judged that the main fairness issues were not likely to be solved through competition enforcement alone. In other words, if musicians were receiving too little, the answer might lie in copyright, contract practice and industry revenue-sharing rather than in proving that platforms or labels were earning excessive profits through anti-competitive conduct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2020/nov/24/nadine-shah-i-cant-pay-the-rent-on-unfair-music-streaming-revenues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This distinction matters. Competition law asks whether markets are functioning for competition and consumers; streaming fairness asks whether cultural workers receive a just share of value. Those questions overlap, but they are not identical. A streaming service can be cheap and attractive for listeners while still leaving many creators unable to earn meaningful income.
 
 The CMA also highlighted concentration in listening. The Guardian’s coverage of the study reported that more than 60% of music streamed in the UK came from just 0.4% of artists, while fewer than 1% of artists reached the level of listening associated with about £12,000 in income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2020/nov/24/nadine-shah-i-cant-pay-the-rent-on-unfair-music-streaming-revenues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That does not prove every royalty split is unfair, but it shows why a “per stream” economy can feel brutal: the market rewards [attention]({{ 'attention/' | relative_url }}) at vast scale, while the long tail of creators remains culturally active but financially fragile.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## Transparency and remuneration measures
 
@@ -555,7 +550,6 @@ The most important measures fall into three linked areas:
 **Creator remuneration.** In 2024, the government convened a Creator Remuneration Working Group to explore industry-led action on streaming income. In July 2025, the government announced label-led principles adopted by the British Phonographic Industry and the Association of Independent Music, with commitments from the UK divisions of Universal, Sony and Warner. These measures included targeted support for legacy artists, songwriters and session musicians, with the government saying it would monitor delivery and consider further intervention if the package failed to improve outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Economics of music streaming</span><span class="citation-popover-snippet">UK Parliament CommitteesEconomics of music streaming - CommitteesMusic streaming in the UK brings in more than £1 billion in revenue with...</span></span></span>
 
 The 2025 package is especially revealing because it focuses on groups whose problems are easy to understand. Legacy artists may have signed contracts before streaming existed, meaning their old terms were not designed for today’s digital revenues. Songwriters may attend writing sessions without guaranteed payment while hoping a song is later placed and monetised. Session musicians often receive upfront fees rather than ongoing streaming royalties. The label-led principles try to address these pinch points without replacing the wider royalty system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Rights reversion and contract adjustment</span><span class="citation-popover-snippet">Rights reversion and contract adjustment</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-2-dark.svg" | relative_url }}" alt="UK Policy illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why better information is not the same as fair pay
@@ -578,9 +572,7 @@ This is a different kind of fairness problem. A royalty reform asks how money sh
 
 The CMA’s final report also described the importance of editorial, algorithmic and “[algotorial]({{ 'algotorial/' | relative_url }})” playlists in streaming services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Music and streaming</span><span class="citation-popover-snippet">UK Assets Music and streaming</span></span></span> This matters because the modern music economy is not just a marketplace of tracks waiting to be chosen. It is a system of ranking, surfacing and nudging. Fair pay policy therefore has to look not only at contracts but also at discovery.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-3-dark.svg" | relative_url }}" alt="UK Policy illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits of voluntary industry change
 
 The UK’s streaming policy experiment has produced more movement than a purely hands-off approach would have done. It has generated official research, forced industry actors into the same room, created public timelines and secured commitments that can be monitored. The government’s own streaming work page now records a sequence of milestones from the 2021 inquiry through metadata, algorithms, transparency, remuneration research and the 2025 label-led measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">industry transparency code on music streaming announced by government</span></span></span>
@@ -590,9 +582,6 @@ But the limits are equally clear. Voluntary codes depend on industry cooperation
 Creator groups have therefore split their response between cautious welcome and continued pressure. The Council of Music Makers welcomed parts of the 2025 package, including commitments around songwriter per diems, but continued to emphasise that creator interests must be protected as the measures are monitored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://councilmusicmakers.org/cmm-statement-on-creator-remuneration-working-group-outcomes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-title">cmm statement on creator remuneration working group outcomes</span><span class="citation-popover-snippet">cmm statement on creator remuneration working group outcomes</span></span></span> The Musicians’ Union has also continued to campaign for equitable remuneration, framing it as a way to guarantee royalties for performers on streamed tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The policy lesson is not that voluntary reform always fails. It is that voluntary reform tends to work on the problems the industry is willing to define narrowly: clearer data, better communication, targeted support for legacy cases, improved session terms. It struggles when the question is broader: should streaming revenue be redistributed by law, and should performers receive rights that override old contracts?
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VAfy26xs6e0" title="Navigating The American Healthcare System | South Park: The End Of Obesity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VAfy26xs6e0" target="_blank" rel="noopener noreferrer">Navigating The American Healthcare System | South Park: The End Of Obesity</a></p><p class="youtube-embed-meta">Channel: South Park Studios</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VAfy26xs6e0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VAfy26xs6e0">Open on YouTube</a></p></div></div></div>
 
 ## What the UK case shows about governing music streaming
 
@@ -607,9 +596,6 @@ Third, the UK case shows how government can shape industry behaviour without imm
 The unresolved question is whether this pressure model can produce fair pay at scale. If metadata improves, transparency rises and targeted creator support reaches the people it is meant to help, the UK approach may be seen as a pragmatic route through a complex market. If income outcomes barely change, the same history will strengthen the case for statutory remuneration rights, contract adjustment or reversion rules.
 
 For now, UK streaming policy is best understood as a stress test. It asks whether a powerful music industry can be nudged into fairer behaviour by public scrutiny, or whether streaming’s economics require law to step in where voluntary change stops.
-
-
-<img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-3-dark.svg" | relative_url }}" alt="UK Policy illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1008,220 +994,220 @@ For now, UK streaming policy is best understood as a stress test. It asks whethe
 1. <a id="endnote-1"></a>
    Source: committees.parliament.uk  
    Title: UK Parliament Committees Economics of music streaming  
-   Link: [https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/](https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/)  
+   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesEconomics of music streaming - CommitteesMusic streaming in the UK brings in more than £1 billion in revenue with...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/guidance/the-governments-work-on-music-streaming](https://www.gov.uk/guidance/the-governments-work-on-music-streaming)  
+   Link: <a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The government&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of pr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: U K industry agreement on music streaming metadata  
-   Link: [https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata](https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata)  
+   Link: <a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</p></details>
    Published: May 31, 2023  
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: uk voluntary code of good practice on transparency in music streaming  
-   Link: [https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming](https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming)  
+   Link: <a href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...31 Jan 2024 — This Voluntary Code is agreed by the trade body signatories on beh...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: new label led measures to boost income for uk music creators  
-   Link: [https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators](https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators)  
+   Link: <a href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators</a>  
 
 6. <a id="endnote-6"></a>
    Source: cmulibrary.com  
-   Link: [https://cmulibrary.com/timeline-dcmsstreaminginquiry/](https://cmulibrary.com/timeline-dcmsstreaminginquiry/)  
+   Link: <a href="https://cmulibrary.com/timeline-dcmsstreaminginquiry/" target="_blank" rel="noopener noreferrer nofollow">https://cmulibrary.com/timeline-dcmsstreaminginquiry/</a>  
 
 7. <a id="endnote-7"></a>
    Source: lexology.com  
    Title: The economics of Music Streaming  
-   Link: [https://www.lexology.com/library/detail.aspx?g=1b0b0b65-5d9e-4dcb-9154-b095c0937b87](https://www.lexology.com/library/detail.aspx?g=1b0b0b65-5d9e-4dcb-9154-b095c0937b87)  
+   Link: <a href="https://www.lexology.com/library/detail.aspx?g=1b0b0b65-5d9e-4dcb-9154-b095c0937b87" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=1b0b0b65-5d9e-4dcb-9154-b095c0937b87</a>  
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: Rights reversion and contract adjustment  
-   Link: [https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment](https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment)  
+   Link: <a href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment</a>  
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Music and streaming market study: final report  
-   Link: [https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report](https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report)  
+   Link: <a href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report</a>  
 
 10. <a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: GOV.UK  
    Title: united kingdom industry agreement on music streaming metadata  
-   Link: [https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata](https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata)  
+   Link: <a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata</a>  
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
    Title: industry transparency code on music streaming announced by government  
-   Link: [https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government](https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government)  
+   Link: <a href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government</a>  
 
 13. <a id="endnote-13"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hcws887](https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hcws887)  
+   Link: <a href="https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hcws887" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hcws887</a>  
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: ernment secures label-led measures to boost earnings  
-   Link: [https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists](https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists)  
+   Link: <a href="https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/government-secures-label-led-measures-to-boost-earnings-for-uk-artists</a>  
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: The impact of recommendation algorithms on the UK's  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
 
 16. <a id="endnote-16"></a>
    Source: councilmusicmakers.org  
    Title: cmm statement on creator remuneration working group outcomes  
-   Link: [https://councilmusicmakers.org/cmm-statement-on-creator-remuneration-working-group-outcomes/](https://councilmusicmakers.org/cmm-statement-on-creator-remuneration-working-group-outcomes/)  
+   Link: <a href="https://councilmusicmakers.org/cmm-statement-on-creator-remuneration-working-group-outcomes/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/cmm-statement-on-creator-remuneration-working-group-outcomes/</a>  
 
 17. <a id="endnote-17"></a>
    Source: publications.parliament.uk  
    Title: uk Creator remuneration  
-   Link: [https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html](https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/1245/report.html](https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/1245/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/1245/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/1245/report.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: publications.parliament.uk  
    Title: uk Creator remuneration  
-   Link: [https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/report.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: hansard.parliament.uk  
    Title: Creator Remuneration From Music Streaming Label Led Principles  
-   Link: [https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples](https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples)  
+   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
 
 21. <a id="endnote-21"></a>
    Source: hansard.parliament.uk  
    Title: uk Music Streaming: Label-led Principles  
-   Link: [https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples](https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples)  
+   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples</a>  
 
 22. <a id="endnote-22"></a>
    Source: GOV.UK  
    Title: music and streaming market study  
-   Link: [https://www.gov.uk/cma-cases/music-and-streaming-market-study](https://www.gov.uk/cma-cases/music-and-streaming-market-study)  
+   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
 
 23. <a id="endnote-23"></a>
    Source: GOV.UK  
    Title: music creators earnings in the digital era  
-   Link: [https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era](https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era)  
+   Link: <a href="https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era</a>  
 
 24. <a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Music and streaming final report executive  
-   Link: [https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf](https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Creator Remuneration Working Group To R  
-   Link: [https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf](https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65d37f420f4eb10064a98169/Creator_Remuneration_Working_Group_-_ToR.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: ipo.blog.gov.uk  
    Title: music metadata matters how to get paid and credited  
-   Link: [https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/](https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/)  
+   Link: <a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
 
 27. <a id="endnote-27"></a>
    Source: councilmusicmakers.org  
    Title: cmm statement on the ipo report on er and streaming  
-   Link: [https://councilmusicmakers.org/cmm-statement-on-the-ipo-report-on-er-and-streaming/](https://councilmusicmakers.org/cmm-statement-on-the-ipo-report-on-er-and-streaming/)  
+   Link: <a href="https://councilmusicmakers.org/cmm-statement-on-the-ipo-report-on-er-and-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/cmm-statement-on-the-ipo-report-on-er-and-streaming/</a>  
 
 28. <a id="endnote-28"></a>
    Source: councilmusicmakers.org  
    Title: crwg outcomes statement  
-   Link: [https://councilmusicmakers.org/crwg-outcomes-statement/](https://councilmusicmakers.org/crwg-outcomes-statement/)  
+   Link: <a href="https://councilmusicmakers.org/crwg-outcomes-statement/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/crwg-outcomes-statement/</a>  
 
 29. <a id="endnote-29"></a>
    Source: thefac.org  
-   Link: [https://thefac.org/news-directory/governmentstreamingreforms](https://thefac.org/news-directory/governmentstreamingreforms)  
+   Link: <a href="https://thefac.org/news-directory/governmentstreamingreforms" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/governmentstreamingreforms</a>  
 
 30. <a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2020/nov/24/nadine-shah-i-cant-pay-the-rent-on-unfair-music-streaming-revenues](https://www.theguardian.com/business/2020/nov/24/nadine-shah-i-cant-pay-the-rent-on-unfair-music-streaming-revenues)  
+   Link: <a href="https://www.theguardian.com/business/2020/nov/24/nadine-shah-i-cant-pay-the-rent-on-unfair-music-streaming-revenues" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2020/nov/24/nadine-shah-i-cant-pay-the-rent-on-unfair-music-streaming-revenues</a>  
 
 31. <a id="endnote-31"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels](https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels)  
+   Link: <a href="https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/fix-streaming-government-announces-equitable-remuneration-working-group-dominated-by-labels</a>  
 
 32. <a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists](https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists)  
+   Link: <a href="https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2022/nov/29/uk-music-streaming-cma-artists</a>  
 
 33. <a id="endnote-33"></a>
    Source: musiciansunion.org.uk  
    Title: analysis of the competition and markets authority report on music streaming  
-   Link: [https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming](https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming)  
+   Link: <a href="https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/analysis-of-the-competition-and-markets-authority-report-on-music-streaming</a>  
 
 34. <a id="endnote-34"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming transparency code announced by government  
-   Link: [https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government](https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government)  
+   Link: <a href="https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government</a>  
 
 35. <a id="endnote-35"></a>
    Source: ukparliament.shorthandstories.com  
-   Link: [https://ukparliament.shorthandstories.com/music-streaming-must-modernise-DCMS-report/index.html](https://ukparliament.shorthandstories.com/music-streaming-must-modernise-DCMS-report/index.html)  
+   Link: <a href="https://ukparliament.shorthandstories.com/music-streaming-must-modernise-DCMS-report/index.html" target="_blank" rel="noopener noreferrer nofollow">https://ukparliament.shorthandstories.com/music-streaming-must-modernise-DCMS-report/index.html</a>  
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Fight for Fair Pay in the UK Music Streaming Industry  
-   Link: [https://www.youtube.com/watch?v=r06sJ_jZ5kU](https://www.youtube.com/watch?v=r06sJ_jZ5kU)  
+   Link: <a href="https://www.youtube.com/watch?v=r06sJ_jZ5kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r06sJ_jZ5kU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UK Music Streaming Reform Faces Such Difficult Challenges...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Artists vs. Streaming: Inside the UK Parliamentary Debate  
-   Link: [https://www.youtube.com/watch?v=A2WpZ0g81-E](https://www.youtube.com/watch?v=A2WpZ0g81-E)  
+   Link: <a href="https://www.youtube.com/watch?v=A2WpZ0g81-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2WpZ0g81-E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fight for Fair Pay in the UK Music Streaming Industry...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Fixing Streaming: Can UK Policy Make Music Fairer?  
-   Link: [https://www.youtube.com/watch?v=Gk6W5zP-q-o](https://www.youtube.com/watch?v=Gk6W5zP-q-o)  
+   Link: <a href="https://www.youtube.com/watch?v=Gk6W5zP-q-o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gk6W5zP-q-o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artists vs. Streaming: Inside the UK Parliamentary Debate...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: The UK Economics of Music Streaming Inquiry Explained  
-   Link: [https://www.youtube.com/watch?v=Jm3X15rWl9w](https://www.youtube.com/watch?v=Jm3X15rWl9w)  
+   Link: <a href="https://www.youtube.com/watch?v=Jm3X15rWl9w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm3X15rWl9w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing Streaming: Can UK Policy Make Music Fairer?...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era](https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era)  
+   Link: <a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
 
 41. <a id="endnote-41"></a>
    Source: impalamusic.org  
-   Link: [https://impalamusic.org/artist-revenue-and-equitable-remuneration/](https://impalamusic.org/artist-revenue-and-equitable-remuneration/)  
+   Link: <a href="https://impalamusic.org/artist-revenue-and-equitable-remuneration/" target="_blank" rel="noopener noreferrer nofollow">https://impalamusic.org/artist-revenue-and-equitable-remuneration/</a>  
 
 42. <a id="endnote-42"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/edocs/mdocs/copyright/en/sccr_43/sccr_43_equitable_remuneration_will_page.pdf](https://www.wipo.int/edocs/mdocs/copyright/en/sccr_43/sccr_43_equitable_remuneration_will_page.pdf)  
+   Link: <a href="https://www.wipo.int/edocs/mdocs/copyright/en/sccr_43/sccr_43_equitable_remuneration_will_page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/copyright/en/sccr_43/sccr_43_equitable_remuneration_will_page.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: mpaonline.org.uk  
-   Link: [https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/](https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/)  
+   Link: <a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
 
 44. <a id="endnote-44"></a>
    Source: digit-research.org  
-   Link: [https://digit-research.org/projects/music-creators-earnings-in-the-streaming-era/](https://digit-research.org/projects/music-creators-earnings-in-the-streaming-era/)  
+   Link: <a href="https://digit-research.org/projects/music-creators-earnings-in-the-streaming-era/" target="_blank" rel="noopener noreferrer nofollow">https://digit-research.org/projects/music-creators-earnings-in-the-streaming-era/</a>  
 
 45. <a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368818373_The_Impact_of_Algorithmically_Driven_Recommendation_Systems_on_Music_Consumption_and_Production_A_Literature_Review](https://www.researchgate.net/publication/368818373_The_Impact_of_Algorithmically_Driven_Recommendation_Systems_on_Music_Consumption_and_Production_A_Literature_Review)  
+   Link: <a href="https://www.researchgate.net/publication/368818373_The_Impact_of_Algorithmically_Driven_Recommendation_Systems_on_Music_Consumption_and_Production_A_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368818373_The_Impact_of_Algorithmically_Driven_Recommendation_Systems_on_Music_Consumption_and_Production_A_Literature_Review</a>

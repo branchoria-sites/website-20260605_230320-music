@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7
 - music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6
 tags:
-- music
+- music-3-a01-be
 - metadata
 - code-links
 keywords:
-- music
+- music-3-a01-be
 - metadata
 - code-links
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Recording and composition identifiers solve different payment problems, and royalties break down when the two sides are not connected.
 hero_summary: Recording and composition identifiers solve different payment problems, and royalties break down when the two sides are not connected.
 layout: default
 permalink: /code-links/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /metadata/
 nav_short_title: Code Links
 title: The two codes behind every paid song
-title_full: The two codes behind every paid song | Metadata
+title_full: The two codes behind every paid song
 display_title_short: Code Links
 display_title: Code Links
 heading_title: The two codes behind every paid song
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Bad Music Data Costs Creators Money | Music
+parent_title: Why Bad Music Data Costs Creators Money
 parent_permalink: /metadata/
 parent_nav_short_title: Metadata
 parent_heading_title: Why Bad Music Data Costs Creators Money
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Where unpaid royalties wait for better data
 up_link:
   basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -259,7 +259,7 @@ next_link:
   permalink: /dj-sets/
   short_title: DJ Sets
   heading_title: Why DJ royalties are so hard to trace
-date: '2026-06-09 07:37:47 '
+date: '2026-06-11 23:49:55 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-1.webp
@@ -268,20 +268,16 @@ image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment
 
 ## Introduction
 
-A song can generate two different streams of [royalties]({{ 'royalties/' | relative_url }}) at the same time: one for the sound [recording]({{ 'recording/' | relative_url }}) and another for the underlying composition. The recording is identified by an ISRC (International Standard Recording Code), while the composition is identified by an ISWC (International Standard Musical Work Code). On their own, both codes are useful. The crucial payment mechanism is the link between them. When databases can connect a recording's ISRC to the correct composition's ISWC, royalties can be routed to labels, performers, songwriters and publishers. When that connection is missing, incomplete or disputed, money can be delayed, held for research, or distributed incorrectly. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">ISWCThe ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</span></span></span>
-
+A song can generate two different streams of [royalties]({{ 'royalties/' | relative_url }}) at the same time: one for the sound [recording]({{ 'recording/' | relative_url }}) and another for the underlying composition. The recording is identified by an ISRC (International Standard Recording Code), while the composition is identified by an ISWC (International Standard Musical Work Code). On their own, both codes are useful. The crucial payment mechanism is the link between them. When databases can connect a recording's ISRC to the correct composition's ISWC, royalties can be routed to labels, performers, songwriters and publishers. When that connection is missing, incomplete or disputed, money can be delayed, held for research, or distributed incorrectly. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">The ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-1-dark.svg" | relative_url }}" alt="Code Links illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The two codes behind every paid song
 
-The [music]({{ 'music/' | relative_url }}) industry treats recordings and compositions as separate assets because they represent different [rights]({{ 'rights/' | relative_url }}).
+The music industry treats recordings and compositions as separate assets because they represent different [rights]({{ 'rights/' | relative_url }}).
 
-An ISRC identifies a specific sound recording or music video. It follows the recording throughout its life, regardless of format or release configuration. A remaster, remix or alternate version may require a different ISRC because it is a different recording. The code is designed to identify the master recording, not the song itself. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[2ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-snippet">ifpi-isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</span></span></span>
+An ISRC identifies a specific sound recording or music video. It follows the recording throughout its life, regardless of format or release configuration. A remaster, remix or alternate version may require a different ISRC because it is a different recording. The code is designed to identify the master recording, not the song itself. IFPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[2ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-snippet">isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</span></span></span>
 
-An ISWC identifies the musical work: the [melody]({{ 'melody/' | relative_url }}), [lyrics]({{ 'lyrics/' | relative_url }}) and composition that exist independently of any particular recording. One song can have a single ISWC even when it has dozens of recordings by different artists. The ISWC is used by collective management organisations and publishers to identify the work and help allocate songwriter and publisher royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-title">iswc number work codes faq</span><span class="citation-popover-snippet">All About ISWCs and How They Can Help You Get Paid18 Nov 2023 — The International Standard Musical Work Code (ISWC) is a unique, permanen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">ISWCThe ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[The ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">ISWCThe ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</span></span></span> distinction matters because listeners hear recordings, but many royalty systems ultimately need to pay both recording owners and composition owners. The two identifiers solve different problems in the same payment chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/services/information-services/international-identifiers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-snippet">CISACInternational IdentifiersThe ISWC identifies musical works by reference to the title of a work and its creators (including composers...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5aGVJmcfkE" title="What is an ISWC? Music Industry - 5 Mins or Less" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5aGVJmcfkE" target="_blank" rel="noopener noreferrer">What is an ISWC? Music Industry - 5 Mins or Less</a></p><p class="youtube-embed-meta">Channel: Exploration Group &middot; Views: 1.6K &middot; Uploaded: November 2020 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5aGVJmcfkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5aGVJmcfkE">Open on YouTube</a></p></div></div></div>
+An ISWC identifies the musical work: the [melody]({{ 'melody/' | relative_url }}), [lyrics]({{ 'lyrics/' | relative_url }}) and composition that exist independently of any particular recording. One song can have a single ISWC even when it has dozens of recordings by different artists. The ISWC is used by collective management organisations and publishers to identify the work and help allocate songwriter and publisher royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-title">iswc number work codes faq</span><span class="citation-popover-snippet">All About ISWCs and How They Can Help You Get Paid18 Nov 2023 — The International Standard Musical Work Code (ISWC) is a unique, permanen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">The ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[The ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">The ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</span></span></span> distinction matters because listeners hear recordings, but many royalty systems ultimately need to pay both recording owners and composition owners. The two identifiers solve different problems in the same payment chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/services/information-services/international-identifiers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-snippet">International IdentifiersThe ISWC identifies musical works by reference to the title of a work and its creators (including composers...</span></span></span>
 
 ## What recording identifiers do
 
@@ -289,31 +285,27 @@ When a stream, download, broadcast or other use is reported, the recording side 
 
 Streaming platforms, distributors, labels, neighbouring-rights organisations and many reporting systems use the ISRC to determine which recording was used. Because each recording has its own code, usage data can be aggregated accurately across services and territories. Missing or invalid ISRCs can create significant royalty-tracking problems and payment delays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://winformusic.org/win-unveils-isrc-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winformusic.org">[WIN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winformusic.org</span><span class="citation-popover-title">win unveils isrc factsheet</span><span class="citation-popover-snippet">WINWIN unveils ISRC Factsheet to educate about its importance ...28 Jun 2023 — Missing, invalid or duplicate ISRCs can lead to significan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aria.com.au/industry/isrc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aria.com.au">[Aria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aria.com.au</span><span class="citation-popover-snippet">ISRCEach ISRC is a unique and permanent identifier for a specific recording which can be permanently encoded into a product as its digita...</span></span></span>
 
-Consider a familiar song recorded by multiple artists. Each recording receives its own ISRC because each recording has different performers, recording owners and commercial histories. The ISRC answers the question: "Which recording generated this revenue?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-snippet">Song Registration Tips | What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</span></span></span>
+Consider a familiar song recorded by multiple artists. Each recording receives its own ISRC because each recording has different performers, recording owners and commercial histories. The ISRC answers the question: "Which recording generated this revenue?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-snippet">Song Registration Tips &#124; What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</span></span></span>
 
-What it does not answer is: "Which composition sits underneath that recording?" That requires a different identifier and a link between the two datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-snippet">ifpi-isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</span></span></span>
+What it does not answer is: "Which composition sits underneath that recording?" That requires a different identifier and a link between the two datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-snippet">isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZeorINQB2RA" title="DO THIS Before Your Next Release! (ISRC CODES)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZeorINQB2RA" target="_blank" rel="noopener noreferrer">DO THIS Before Your Next Release! (ISRC CODES)</a></p><p class="youtube-embed-meta">Channel: Spinlight Studio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZeorINQB2RA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZeorINQB2RA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-3-dark.svg" | relative_url }}" alt="Code Links illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What composition identifiers do
 
 The ISWC operates on the [publishing]({{ 'publishing/' | relative_url }}) side of music rights.
 
 Instead of identifying a recording session or master file, it identifies the composition itself and connects that work to songwriter and publisher information. The code helps distinguish one musical work from another, even when titles are similar or identical. It also allows societies around the world to recognise the same composition when collecting and distributing royalties internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apraamcos.co.nz/about-us/news-and-events/what-is-an-iswc-and-how-does-it-help-get-you-paid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apraamcos.co.nz">[APRA AMCOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apraamcos.co.nz</span><span class="citation-popover-title">what is an iswc and how does it help get you paid</span><span class="citation-popover-snippet">APRA AMCOSWhat is an ISWC and how does it help get you paid?26 Mar 2024 — The ISWC (International Standard Musical Work Code) is a unique...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.qmul.ac.uk/ccls/alumni/news/2023-news/items/international-standard-musical-work-code.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qmul.ac.uk">[Queen Mary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qmul.ac.uk</span><span class="citation-popover-title">international standard musical work code</span><span class="citation-popover-snippet">11 Sept 2023 —... ISWC is the international standard identifier for musical works. Every time a song is written by a composer and is reg...</span></span></span> University of London
 
-A useful way to think about the system is that a composition may have many recordings. A classic song might be released as an original studio recording, a live version, a cover version, an acoustic version and several remixes. Each recording can have its own ISRC, but they may all point back to the same ISWC if they use the same underlying composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-snippet">Song Registration Tips | What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muzisecur.fr/en/blog/isrc-code-complete-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muzisecur.fr">[muzisecur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muzisecur.fr</span><span class="citation-popover-title">isrc code complete guide</span><span class="citation-popover-snippet">ISRC Code: Complete Guide for Music17 Mar 2026 — The ISRC identifies the sound recording (the master), while the ISWC identifies the musi...</span></span></span> This structure allows songwriter royalties to follow the composition regardless of which recording generated the usage.[CISAC]
-
+A useful way to think about the system is that a composition may have many recordings. A classic song might be released as an original studio recording, a live version, a cover version, an acoustic version and several remixes. Each recording can have its own ISRC, but they may all point back to the same ISWC if they use the same underlying composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-snippet">Song Registration Tips &#124; What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muzisecur.fr/en/blog/isrc-code-complete-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muzisecur.fr">[muzisecur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muzisecur.fr</span><span class="citation-popover-title">isrc code complete guide</span><span class="citation-popover-snippet">ISRC Code: Complete Guide for Music17 Mar 2026 — The ISRC identifies the sound recording (the master), while the ISWC identifies the musi...</span></span></span> This structure allows songwriter royalties to follow the composition regardless of which recording generated the usage.[CISAC]
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-2-dark.svg" | relative_url }}" alt="Code Links illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the recording-to-work link fails
 
 The most important payment step is not assigning an ISRC or assigning an ISWC. It is connecting them correctly.
 
-A streaming service can know exactly which recording was played because it has the ISRC. Yet publishing royalties still require identification of the corresponding musical work. If the recording metadata does not connect to the correct ISWC and associated ownership information, the publishing side cannot be paid automatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">new improved music identifier will help creators all important digital</span><span class="citation-popover-snippet">CISACNew improved music identifier will help creators in the all-...24 Sept 2020 — A two-year project to modernise the global ISWC syste...</span></span></span>
+A streaming service can know exactly which recording was played because it has the ISRC. Yet publishing royalties still require [identification]({{ 'identification/' | relative_url }}) of the corresponding musical work. If the recording metadata does not connect to the correct ISWC and associated [ownership]({{ 'ownership/' | relative_url }}) information, the publishing side cannot be paid automatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">new improved music identifier will help creators all important digital</span><span class="citation-popover-snippet">New improved music identifier will help creators in the all-...24 Sept 2020 — A two-year project to modernise the global ISWC syste...</span></span></span>
 
 Several common failure points appear across the industry:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -326,21 +318,17 @@ Several common failure points appear across the industry:
 
 When these failures occur, royalty administrators may move funds into suspense accounts, hold payments pending research, or rely on manual matching processes. The result is slower and less accurate royalty distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1911.08278" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards an Open and Scalable Music Metadata Layer</span><span class="citation-popover-snippet">arXiv Towards an Open and Scalable Music Metadata Layer</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5aGVJmcfkE" title="What is an ISWC? Music Industry - 5 Mins or Less" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5aGVJmcfkE" target="_blank" rel="noopener noreferrer">What is an ISWC? Music Industry - 5 Mins or Less</a></p><p class="youtube-embed-meta">Channel: Exploration Group &middot; Views: 1.6K &middot; Uploaded: November 2020 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5aGVJmcfkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5aGVJmcfkE">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-3-dark.svg" | relative_url }}" alt="Code Links illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the link matters more than either code alone
 
 Neither identifier was designed to replace the other.
 
-The ISRC identifies a recording but cannot identify the composition behind it. The ISWC identifies a composition but cannot identify every recording that uses it. The royalty system becomes efficient only when both identifiers are connected through reliable metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-snippet">ifpi-isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iswcnet.cisac.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswcnet.cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswcnet.cisac.org</span><span class="citation-popover-snippet">cisac.orgISWC: PortalThe ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference...</span></span></span>
+The ISRC identifies a recording but cannot identify the composition behind it. The ISWC identifies a composition but cannot identify every recording that uses it. The royalty system becomes efficient only when both identifiers are connected through reliable metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-snippet">isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iswcnet.cisac.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswcnet.cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswcnet.cisac.org</span><span class="citation-popover-snippet">cisac.orgISWC: PortalThe ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference...</span></span></span>
 
 In practical terms, the ISRC tells the industry what was played, while the ISWC helps determine who wrote it and who should receive publishing income. The link between them is the bridge that allows usage data to become royalty payments. Without that bridge, even perfectly tracked listening activity can fail to reach the correct songwriter, publisher, performer or rights owner. CISAC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.qmul.ac.uk/ccls/alumni/news/2023-news/items/international-standard-musical-work-code.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qmul.ac.uk">[Queen Mary University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qmul.ac.uk</span><span class="citation-popover-title">international standard musical work code</span><span class="citation-popover-snippet">11 Sept 2023 —... ISWC is the international standard identifier for musical works. Every time a song is written by a composer and is reg...</span></span></span>
 
-For that reason, one of the most important pieces of music metadata is often invisible to listeners: the connection between the recording code and the composition code. That single relationship frequently determines whether revenue moves smoothly through the system or becomes another [unmatched royalty]({{ 'unmatched-pools/' | relative_url }}) waiting to be claimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-snippet">Song Registration Tips | What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1911.08278" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards an Open and Scalable Music Metadata Layer</span><span class="citation-popover-snippet">arXiv Towards an Open and Scalable Music Metadata Layer</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IMS_JAyuMSs" title="ISRC Codes, UPC Codes, ISWC Codes, IPI Codes: What Are They &amp; Why Do You Need Them? 🧐" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IMS_JAyuMSs" target="_blank" rel="noopener noreferrer">ISRC Codes, UPC Codes, ISWC Codes, IPI Codes: What Are They &amp; Why Do You Need Them? 🧐</a></p><p class="youtube-embed-meta">Channel: Pay Us No Mind</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IMS_JAyuMSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IMS_JAyuMSs">Open on YouTube</a></p></div></div></div>
-
+For that reason, one of the most important pieces of music metadata is often invisible to listeners: the connection between the recording code and the composition code. That single relationship frequently determines whether revenue moves smoothly through the system or becomes another unmatched royalty waiting to be claimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-snippet">Song Registration Tips &#124; What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1911.08278" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards an Open and Scalable Music Metadata Layer</span><span class="citation-popover-snippet">arXiv Towards an Open and Scalable Music Metadata Layer</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -738,179 +726,179 @@ For that reason, one of the most important pieces of music metadata is often inv
 
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf](https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIInternational Standard Recording Code (ISRC) HandbookISRC identifies the recording not the encoding of the recording so the same reco...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Standard Recording Code (ISRC) HandbookISRC identifies the recording not the encoding of the recording so the same reco...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: iswc.org  
-   Link: [https://www.iswc.org/iswc](https://www.iswc.org/iswc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISWCThe ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</p></details>
+   Link: <a href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.iswc.org/iswc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ISWCThe ISWC identifies musical works, not their manifestations, objects, or expressions (e.g. publications, broadcasts...). The...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cisac.org  
-   Link: [https://www.cisac.org/services/information-services/international-identifiers](https://www.cisac.org/services/information-services/international-identifiers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISACInternational IdentifiersThe ISWC identifies musical works by reference to the title of a work and its creators (including composers...</p></details>
+   Link: <a href="https://www.cisac.org/services/information-services/international-identifiers" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/services/information-services/international-identifiers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>International IdentifiersThe ISWC identifies musical works by reference to the title of a work and its creators (including composers...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: isrc.ifpi.org  
-   Link: [https://isrc.ifpi.org/why-use-isrc/when-not-to-assign](https://isrc.ifpi.org/why-use-isrc/when-not-to-assign)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifpi-isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</p></details>
+   Link: <a href="https://isrc.ifpi.org/why-use-isrc/when-not-to-assign" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/why-use-isrc/when-not-to-assign</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>isrcWhen Not To AssignISRC is used to identify sound recordings and music videos only. ISRC should not be used to identify other ite...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: iswc.org  
-   Link: [https://www.iswc.org/home](https://www.iswc.org/home)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISWC: HomeThe ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference number for...</p></details>
+   Link: <a href="https://www.iswc.org/home" target="_blank" rel="noopener noreferrer nofollow">https://www.iswc.org/home</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeThe ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference number for...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cisac.org  
    Title: new improved music identifier will help creators all important digital  
-   Link: [https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital](https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CISACNew improved music identifier will help creators in the all-...24 Sept 2020 — A two-year project to modernise the global ISWC syste...</p></details>
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New improved music identifier will help creators in the all-...24 Sept 2020 — A two-year project to modernise the global ISWC syste...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ascap.com  
    Title: iswc number work codes faq  
-   Link: [https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq](https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq)  
+   Link: <a href="https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All About ISWCs and How They Can Help You Get Paid18 Nov 2023 — The International Standard Musical Work Code (ISWC) is a unique, permanen...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: blog.songtrust.com  
-   Link: [https://blog.songtrust.com/isrc-iswc-song-registration-tips](https://blog.songtrust.com/isrc-iswc-song-registration-tips)  
+   Link: <a href="https://blog.songtrust.com/isrc-iswc-song-registration-tips" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/isrc-iswc-song-registration-tips</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Song Registration Tips | What&#x27;s the Difference: ISRC vs ISWC6 Apr 2020 — An ISWC can be linked to any number of ISRCs, while each ISRC is...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: apraamcos.co.nz  
    Title: what is an iswc and how does it help get you paid  
-   Link: [https://www.apraamcos.co.nz/about-us/news-and-events/what-is-an-iswc-and-how-does-it-help-get-you-paid](https://www.apraamcos.co.nz/about-us/news-and-events/what-is-an-iswc-and-how-does-it-help-get-you-paid)  
+   Link: <a href="https://www.apraamcos.co.nz/about-us/news-and-events/what-is-an-iswc-and-how-does-it-help-get-you-paid" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.co.nz/about-us/news-and-events/what-is-an-iswc-and-how-does-it-help-get-you-paid</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>APRA AMCOSWhat is an ISWC and how does it help get you paid?26 Mar 2024 — The ISWC (International Standard Musical Work Code) is a unique...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: muzisecur.fr  
    Title: isrc code complete guide  
-   Link: [https://www.muzisecur.fr/en/blog/isrc-code-complete-guide/](https://www.muzisecur.fr/en/blog/isrc-code-complete-guide/)  
+   Link: <a href="https://www.muzisecur.fr/en/blog/isrc-code-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.muzisecur.fr/en/blog/isrc-code-complete-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRC Code: Complete Guide for Music17 Mar 2026 — The ISRC identifies the sound recording (the master), while the ISWC identifies the musi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Towards an Open and Scalable Music Metadata Layer  
-   Link: [https://arxiv.org/abs/1911.08278](https://arxiv.org/abs/1911.08278)  
+   Link: <a href="https://arxiv.org/abs/1911.08278" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1911.08278</a>  
 
 12. <a id="endnote-12"></a>
    Source: iswc.org  
-   Link: [https://www.iswc.org/cmos](https://www.iswc.org/cmos)  
+   Link: <a href="https://www.iswc.org/cmos" target="_blank" rel="noopener noreferrer nofollow">https://www.iswc.org/cmos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISWC for Collective Management OrganisationsThe ISWC is used to identify musical works (including versions etc.), regardless of whether t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: isrc.ifpi.org  
-   Link: [https://isrc.ifpi.org/faqs](https://isrc.ifpi.org/faqs)  
+   Link: <a href="https://isrc.ifpi.org/faqs" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I use ISRC to identify it? No. ISRC is not for identifying audio-visual works. It is for identifying sound recordings and music video rec...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: help.songtrust.com  
-   Link: [https://help.songtrust.com/knowledge/if-i-release-a-work-as-a-single-and-again-on-an-album-does-the-isrc-stay-the-same](https://help.songtrust.com/knowledge/if-i-release-a-work-as-a-single-and-again-on-an-album-does-the-isrc-stay-the-same)  
+   Link: <a href="https://help.songtrust.com/knowledge/if-i-release-a-work-as-a-single-and-again-on-an-album-does-the-isrc-stay-the-same" target="_blank" rel="noopener noreferrer nofollow">https://help.songtrust.com/knowledge/if-i-release-a-work-as-a-single-and-again-on-an-album-does-the-isrc-stay-the-same</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the ISRC Change If I Release a Work as a Single and...A song that is released as a single and as part of an album will always maintain t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: iswcnet.cisac.org  
-   Link: [https://iswcnet.cisac.org/](https://iswcnet.cisac.org/)  
+   Link: <a href="https://iswcnet.cisac.org/" target="_blank" rel="noopener noreferrer nofollow">https://iswcnet.cisac.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cisac.orgISWC: PortalThe ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aria.com.au  
-   Link: [https://www.aria.com.au/industry/isrc](https://www.aria.com.au/industry/isrc)  
+   Link: <a href="https://www.aria.com.au/industry/isrc" target="_blank" rel="noopener noreferrer nofollow">https://www.aria.com.au/industry/isrc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRCEach ISRC is a unique and permanent identifier for a specific recording which can be permanently encoded into a product as its digita...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: International Standard Recording Code  
-   Link: [https://en.wikipedia.org/wiki/International_Standard_Recording_Code](https://en.wikipedia.org/wiki/International_Standard_Recording_Code)  
+   Link: <a href="https://en.wikipedia.org/wiki/International_Standard_Recording_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Recording_Code</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Standard Recording CodeAn ISRC identifies a particular recording, not the work (composition and lyrical content) itself...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: qmul.ac.uk  
    Title: international standard musical work code  
-   Link: [https://www.qmul.ac.uk/ccls/alumni/news/2023-news/items/international-standard-musical-work-code.html](https://www.qmul.ac.uk/ccls/alumni/news/2023-news/items/international-standard-musical-work-code.html)  
+   Link: <a href="https://www.qmul.ac.uk/ccls/alumni/news/2023-news/items/international-standard-musical-work-code.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qmul.ac.uk/ccls/alumni/news/2023-news/items/international-standard-musical-work-code.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2023 —... ISWC is the international standard identifier for musical works. Every time a song is written by a composer and is reg...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: International Standard Musical Work Code  
-   Link: [https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code](https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code)  
+   Link: <a href="https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Standard Musical Work CodeThe International Standard Musical Work Code (ISWC) is a unique identifier for musical works...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musicbrainz.org  
-   Link: [https://musicbrainz.org/doc/ISRC](https://musicbrainz.org/doc/ISRC)  
+   Link: <a href="https://musicbrainz.org/doc/ISRC" target="_blank" rel="noopener noreferrer nofollow">https://musicbrainz.org/doc/ISRC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRCThe International Standard Recording Code, abbreviated to ISRC, is a system of codes that identify audio and music video recordings.R...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: apraamcos.com.au  
    Title: what is an iswc  
-   Link: [https://www.apraamcos.com.au/about-us/news-and-events/what-is-an-iswc](https://www.apraamcos.com.au/about-us/news-and-events/what-is-an-iswc)  
+   Link: <a href="https://www.apraamcos.com.au/about-us/news-and-events/what-is-an-iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/what-is-an-iswc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and how does it help you get paid?15 Mar 2024 — The ISWC (International Standard Musical Work Code) is a unique, permanent and internatio...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/massdogmusic/posts/1610031129894611/](https://www.facebook.com/groups/massdogmusic/posts/1610031129894611/)  
+   Link: <a href="https://www.facebook.com/groups/massdogmusic/posts/1610031129894611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/massdogmusic/posts/1610031129894611/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you remaster a song, should you use another...Summary: The ISRC is a code that identifies recordings, while the ISWC is a code for mu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nicklandis.com  
    Title: Like the ISRC is for recordings and the ISNI is for people.Read more  
-   Link: [https://www.nicklandis.com/blog/iswc](https://www.nicklandis.com/blog/iswc)  
+   Link: <a href="https://www.nicklandis.com/blog/iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.nicklandis.com/blog/iswc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISWC - Nick Landis Mastering14 Aug 2018 — The International Standard Musical Work Code, or ISWC, is a unique identifier for musical works...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: ppimusic.ie  
-   Link: [https://www.ppimusic.ie/about-ppi/isrc-codes-faq](https://www.ppimusic.ie/about-ppi/isrc-codes-faq)  
+   Link: <a href="https://www.ppimusic.ie/about-ppi/isrc-codes-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.ppimusic.ie/about-ppi/isrc-codes-faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRC Codes FAQNo, ISRC codes are just a means of identifying sound recordings and music videos. For barcodes please check with your CD ma...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: soundcharts.com  
-   Link: [https://soundcharts.com/en/isrc-finder](https://soundcharts.com/en/isrc-finder)  
+   Link: <a href="https://soundcharts.com/en/isrc-finder" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/isrc-finder</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRC Finder – Official ISRC LookupISRC stands for International Standard Recording Code. It is a unique, 12-character identifier for a sp...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cott.org.tt  
-   Link: [https://cott.org.tt/wp-content/uploads/2022/03/ISRC-Handbook.pdf](https://cott.org.tt/wp-content/uploads/2022/03/ISRC-Handbook.pdf)  
+   Link: <a href="https://cott.org.tt/wp-content/uploads/2022/03/ISRC-Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cott.org.tt/wp-content/uploads/2022/03/ISRC-Handbook.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ultimate-guide-music-metadata-juan-camilo-sarassa-rds9e](https://www.linkedin.com/pulse/ultimate-guide-music-metadata-juan-camilo-sarassa-rds9e)  
+   Link: <a href="https://www.linkedin.com/pulse/ultimate-guide-music-metadata-juan-camilo-sarassa-rds9e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ultimate-guide-music-metadata-juan-camilo-sarassa-rds9e</a>  
 
 28. <a id="endnote-28"></a>
    Source: get.bandcamp.help  
-   Link: [https://get.bandcamp.help/en/articles/15263219-what-are-the-publishing-rights-fields-for](https://get.bandcamp.help/en/articles/15263219-what-are-the-publishing-rights-fields-for)  
+   Link: <a href="https://get.bandcamp.help/en/articles/15263219-what-are-the-publishing-rights-fields-for" target="_blank" rel="noopener noreferrer nofollow">https://get.bandcamp.help/en/articles/15263219-what-are-the-publishing-rights-fields-for</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are the Publishing Rights fields for?26 May 2026 — For publishing royalties, entering an ISRC is a reliable way to track Bandcamp sales a...</p></details>
    Published: May 2026  
 
 29. <a id="endnote-29"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/obp/ui/en/](https://www.iso.org/obp/ui/en/)  
+   Link: <a href="https://www.iso.org/obp/ui/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/obp/ui/en/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is not used to identify manifestations of, or objects...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: feiyr.com  
    Title: The ISRC enables the unique identification of recordings.Read more  
-   Link: [https://www.feiyr.com/en/blog/isrc-and-iswc-an-explanation-for-music-lovers/](https://www.feiyr.com/en/blog/isrc-and-iswc-an-explanation-for-music-lovers/)  
+   Link: <a href="https://www.feiyr.com/en/blog/isrc-and-iswc-an-explanation-for-music-lovers/" target="_blank" rel="noopener noreferrer nofollow">https://www.feiyr.com/en/blog/isrc-and-iswc-an-explanation-for-music-lovers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRC and ISWC: An explanation for music lovers26 Mar 2025 — The ISRC is a code that identifies recordings, while the ISWC is a code for m...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: community.metabrainz.org  
    Title: should we correct misapplied isrcs  
-   Link: [https://community.metabrainz.org/t/should-we-correct-misapplied-isrcs/713553](https://community.metabrainz.org/t/should-we-correct-misapplied-isrcs/713553)  
+   Link: <a href="https://community.metabrainz.org/t/should-we-correct-misapplied-isrcs/713553" target="_blank" rel="noopener noreferrer nofollow">https://community.metabrainz.org/t/should-we-correct-misapplied-isrcs/713553</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Style10 Sept 2024 — According to the ISRC Handbook: ISRC is a unique identifier for sound and music video recordings where one, and only...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: support.cdbaby.com  
    Title: 360019038511 Understanding ISRCs  
-   Link: [https://support.cdbaby.com/hc/en-us/articles/360019038511-Understanding-ISRCs](https://support.cdbaby.com/hc/en-us/articles/360019038511-Understanding-ISRCs)  
+   Link: <a href="https://support.cdbaby.com/hc/en-us/articles/360019038511-Understanding-ISRCs" target="_blank" rel="noopener noreferrer nofollow">https://support.cdbaby.com/hc/en-us/articles/360019038511-Understanding-ISRCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRCs7 Oct 2025 — An ISRC is a permanent code assigned to a specific recording. It applies to the sound recording itself, not the underly...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: horusmusic.global  
    Title: breaking down metadata understanding upcs isrcs and iswcs  
-   Link: [https://www.horusmusic.global/breaking-down-metadata-understanding-upcs-isrcs-and-iswcs/](https://www.horusmusic.global/breaking-down-metadata-understanding-upcs-isrcs-and-iswcs/)  
+   Link: <a href="https://www.horusmusic.global/breaking-down-metadata-understanding-upcs-isrcs-and-iswcs/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/breaking-down-metadata-understanding-upcs-isrcs-and-iswcs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the identifier that refers to the specific master copyright recording of a track.Read more...</p></details>

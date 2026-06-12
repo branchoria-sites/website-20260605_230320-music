@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_merch_fandom_263862_limited_merch_trust_067339
 - music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c
 tags:
-- music
+- music-3-a01-be
 - merch
 - band-shirts
 keywords:
-- music
+- music-3-a01-be
 - merch
 - band-shirts
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Band shirts and artist hoodies let fans make music taste visible, turning private listening into a public signal of belonging.
 hero_summary: Band shirts and artist hoodies let fans make music taste visible, turning private listening into a public signal of belonging.
 layout: default
 permalink: /band-shirts/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /merch/
 nav_short_title: Band Shirts
 title: Why Band Shirts Say More Than Taste
-title_full: Why Band Shirts Say More Than Taste | Merch
+title_full: Why Band Shirts Say More Than Taste
 display_title_short: Band Shirts
 display_title: Band Shirts
 heading_title: Why Band Shirts Say More Than Taste
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Music Merch Means More Than Branding | Music
+parent_title: Why Music Merch Means More Than Branding
 parent_permalink: /merch/
 parent_nav_short_title: Merch
 parent_heading_title: Why Music Merch Means More Than Branding
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Tour Shirts Become Memory Objects
 up_link:
   basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -259,7 +259,7 @@ next_link:
   permalink: /billie-values/
   short_title: Billie Values
   heading_title: Can Merch Carry An Artist's Values?
-date: '2026-06-09 06:45:19 '
+date: '2026-06-11 23:24:03 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identit
 
 ## Introduction
 
-A band shirt does more than tell people what [music]({{ 'music/' | relative_url }}) someone listens to. It turns a private preference into a public identity. Music is often experienced alone—through headphones, playlists, and personal memories—but a shirt, hoodie, or patch makes that taste visible. In a single glance, it can signal belonging, values, memories, and cultural allegiance to strangers who recognise the reference. Researchers in fan studies and aesthetics argue that merchandise plays an important role in how fans construct and communicate identity, not merely how they support artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1367549420973211" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe material culture of music festival fandomsby L Barrière · 2022 · Cited by 46 — According to fan studies, the consumption...</span></span></span>
-
+A band shirt does more than tell people what music someone listens to. It turns a private preference into a public identity. Music is often experienced alone—through headphones, playlists, and personal memories—but a shirt, hoodie, or patch makes that taste visible. In a single glance, it can signal belonging, values, memories, and cultural allegiance to strangers who recognise the reference. Researchers in fan studies and aesthetics argue that merchandise plays an important role in how fans construct and communicate identity, not merely how they support artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1367549420973211" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe material culture of music festival fandomsby L Barrière · 2022 · Cited by 46 — According to fan studies, the consumption...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1-dark.svg" | relative_url }}" alt="Band Shirts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider world of music merchandise, band shirts occupy a distinctive place because they function as social signals. They allow fans to communicate who they are, who they identify with, and which communities they feel part of—often without saying a word. <span class="citation-chip-wrap"><a class="citation-chip" href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: estetikajournal.org">[Estetika Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">estetikajournal.org</span><span class="citation-popover-snippet">Estetika JournalBand Merch, Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</span></span></span>
@@ -280,7 +279,7 @@ The central mechanism is simple: clothing is visible, and music taste usually is
 
 When someone wears a band shirt, other people who recognise the artist immediately receive information about the wearer. Philosopher Felix Bräuer argues that band merchandise has acquired a widely understood social meaning: people generally assume that someone wearing a band's shirt is a fan of that band's music. Because that assumption is broadly shared, the shirt functions as a reliable signal of fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: estetikajournal.org">[Estetika Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">estetikajournal.org</span><span class="citation-popover-snippet">Estetika JournalBand Merch, Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</span></span></span>
 
-This matters because musical preferences often form part of a person's self-concept. Research on musical identity suggests that tastes in music are tied to personal values, social relationships, and life experiences, making them unusually powerful markers of identity compared with many other consumer choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.04948" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Environmental Changes and the Dynamics of Musical Identity</span><span class="citation-popover-snippet">arXivEnvironmental Changes and the Dynamics of Musical IdentityApril 10, 2019...</span><span class="citation-popover-meta">Published: April 10, 2019</span></span></span>
+This matters because musical preferences often form part of a person's self-concept. Research on musical identity suggests that tastes in music are tied to personal values, social relationships, and life experiences, making them unusually powerful markers of identity compared with many other consumer choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.04948" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Environmental Changes and the Dynamics of Musical Identity</span><span class="citation-popover-snippet">Environmental Changes and the Dynamics of Musical IdentityApril 10, 2019...</span><span class="citation-popover-meta">Published: April 10, 2019</span></span></span>
 
 A band shirt therefore compresses several messages into a single object:
 
@@ -290,7 +289,6 @@ A band shirt therefore compresses several messages into a single object:
 * **I recognise myself in the [culture]({{ 'culture/' | relative_url }}) around this artist.**
 
 Unlike a streaming history hidden on a phone, the signal is intended to be seen. That visibility helps transform music from a private preference into a social identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: estetikajournal.org">[Estetika Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">estetikajournal.org</span><span class="citation-popover-snippet">Estetika JournalBand Merch, Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-6Wk-kd8xSg" title="K-Pop&#x27;s Rise in the West: How BTS Changed the Music Industry Forever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-6Wk-kd8xSg" target="_blank" rel="noopener noreferrer">K-Pop&#x27;s Rise in the West: How BTS Changed the Music Industry Forever</a></p><p class="youtube-embed-meta">Channel: Humanity &middot; Views: 2.0K &middot; Uploaded: October 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-6Wk-kd8xSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-6Wk-kd8xSg">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +304,6 @@ These design choices help explain why fans often care deeply about authenticity.
 
 In this way, the shirt becomes a cultural shorthand. Fans are not merely displaying a brand; they are displaying membership in a shared symbolic language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1367549420973211" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe material culture of music festival fandomsby L Barrière · 2022 · Cited by 46 — According to fan studies, the consumption...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-2-dark.svg" | relative_url }}" alt="Band Shirts illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Recognition From Strangers Matters
 
@@ -319,7 +316,6 @@ A person wearing a metal band's shirt in a city centre, a festival hoodie on pub
 This process is especially important because fandom is partly social. Merchandise allows fans to identify one another in everyday environments far removed from concerts or online spaces. The shirt becomes a portable meeting point between strangers who share cultural knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: estetikajournal.org">[Estetika Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">estetikajournal.org</span><span class="citation-popover-snippet">Estetika JournalBand Merch, Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</span></span></span>
 
 The result is that music identity becomes something lived publicly rather than merely consumed privately.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j9Hznap9Yf4" title="Ep 71 // HOW LONG GONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j9Hznap9Yf4" target="_blank" rel="noopener noreferrer">Ep 71 // HOW LONG GONE</a></p><p class="youtube-embed-meta">Channel: ARE WE ON AIR ? &middot; Views: 470 &middot; Uploaded: November 2023 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j9Hznap9Yf4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j9Hznap9Yf4">Open on YouTube</a></p></div></div></div>
 
@@ -337,19 +333,16 @@ Contemporary fandom research points in the same direction. Fans increasingly des
 
 This is why fans frequently continue wearing band shirts long after a tour ends or a release cycle finishes. The shirt no longer represents a marketing campaign. It represents part of the wearer's story.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-3-dark.svg" | relative_url }}" alt="Band Shirts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Boundary Between Taste and Identity
 
 Not every preference becomes part of identity. People enjoy many things without feeling compelled to display them. Band shirts become significant because they sit at the intersection of taste, community, and self-expression.
 
-Music occupies a special place in identity formation. It is tied to memories, emotions, social groups, and life stages in ways that many other cultural products are not. When that attachment becomes visible through clothing, the music ceases to be merely something a person likes. It becomes something they use to describe themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.04948" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Environmental Changes and the Dynamics of Musical Identity</span><span class="citation-popover-snippet">arXivEnvironmental Changes and the Dynamics of Musical IdentityApril 10, 2019...</span><span class="citation-popover-meta">Published: April 10, 2019</span></span></span>
+Music occupies a special place in identity formation. It is tied to memories, emotions, social groups, and life stages in ways that many other cultural products are not. When that attachment becomes visible through clothing, the music ceases to be merely something a person likes. It becomes something they use to describe themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.04948" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Environmental Changes and the Dynamics of Musical Identity</span><span class="citation-popover-snippet">Environmental Changes and the Dynamics of Musical IdentityApril 10, 2019...</span><span class="citation-popover-meta">Published: April 10, 2019</span></span></span>
 
 That is the deeper reason band shirts say more than taste. They transform listening into a visible statement of belonging. Through shared symbols, public recognition, and emotional attachment, a piece of clothing becomes evidence of who someone feels they are—and who they feel connected to through music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: estetikajournal.org">[Estetika Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">estetikajournal.org</span><span class="citation-popover-snippet">Estetika JournalBand Merch, Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1367549420973211" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe material culture of music festival fandomsby L Barrière · 2022 · Cited by 46 — According to fan studies, the consumption...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E9vb0UMNjEQ" title="World Building with Merch: Inside the New Rules of Music Branding with Dan Goldberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E9vb0UMNjEQ" target="_blank" rel="noopener noreferrer">World Building with Merch: Inside the New Rules of Music Branding with Dan Goldberg</a></p><p class="youtube-embed-meta">Channel: MUBUTV - Music Business Television &middot; Views: 181 &middot; Uploaded: May 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E9vb0UMNjEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E9vb0UMNjEQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,15 +461,15 @@ That is the deeper reason band shirts say more than taste. They transform listen
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kendrick Lamar, GNX, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/1e159187183966e052b5.jpg' | relative_url }}" alt="Listing image for Kendrick Lamar, GNX, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer">Kendrick Lamar, GNX, Album Art Poster, Print, Music, Tracklist</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +477,15 @@ That is the deeper reason band shirts say more than taste. They transform listen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exercises Resistance Band POSTER Workout Gym Fitness Training PRINT A5-A1 Poster"><img src="{{ '/assets/images/marketplace-covers/81cf4c17211e76d9ffcc.jpg' | relative_url }}" alt="Listing image for Exercises Resistance Band POSTER Workout Gym Fitness Training PRINT A5-A1 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer">Exercises Resistance Band POSTER Workout Gym Fitness Training PRINT A5-A1 Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +493,15 @@ That is the deeper reason band shirts say more than taste. They transform listen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +509,15 @@ That is the deeper reason band shirts say more than taste. They transform listen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +525,7 @@ That is the deeper reason band shirts say more than taste. They transform listen
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=band+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=band-shirts-why-band-shirts-say-more-than-taste-music-band-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="band poster" data-ebay-reference="band-shirts-why-band-shirts-say-more-than-taste-music-band-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-band-shirts-say-more-than-taste-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -748,89 +741,89 @@ That is the deeper reason band shirts say more than taste. They transform listen
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Environmental Changes and the Dynamics of Musical Identity  
-   Link: [https://arxiv.org/abs/1904.04948](https://arxiv.org/abs/1904.04948)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnvironmental Changes and the Dynamics of Musical IdentityApril 10, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1904.04948" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.04948</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Changes and the Dynamics of Musical IdentityApril 10, 2019...</p></details>
    Published: April 10, 2019  
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s40691-022-00299-4](https://link.springer.com/article/10.1186/s40691-022-00299-4)  
+   Link: <a href="https://link.springer.com/article/10.1186/s40691-022-00299-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s40691-022-00299-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>explicit designs and fanship was examined to address perceived differentiation, social...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vogue.com  
    Title: Inside the Superfan Economy  
-   Link: [https://www.vogue.com/article/inside-the-superfan-economy](https://www.vogue.com/article/inside-the-superfan-economy)  
+   Link: <a href="https://www.vogue.com/article/inside-the-superfan-economy" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/inside-the-superfan-economy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From K-pop’s global expansion to Taylor Swift’s Eras tour, superfans now drive major brand and revenue opportunities. Unlike past fandom...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1367549420973211](https://journals.sagepub.com/doi/10.1177/1367549420973211)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1367549420973211" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1367549420973211</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe material culture of music festival fandomsby L Barrière · 2022 · Cited by 46 — According to fan studies, the consumption...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: estetikajournal.org  
-   Link: [https://estetikajournal.org/en/articles/10.33134/eeja.563](https://estetikajournal.org/en/articles/10.33134/eeja.563)  
+   Link: <a href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow">https://estetikajournal.org/en/articles/10.33134/eeja.563</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Estetika JournalBand [Merch](&amp;#123;&amp;#123; &#x27;merch/&#x27; | relative_url &amp;#125;&amp;#125;), Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: intensitiescultmedia.com  
    Title: 7 chadborn edwards and reysen fan identity2  
-   Link: [https://intensitiescultmedia.com/wp-content/uploads/2017/05/7-chadborn-edwards-and-reysen-fan-identity2.pdf](https://intensitiescultmedia.com/wp-content/uploads/2017/05/7-chadborn-edwards-and-reysen-fan-identity2.pdf)  
+   Link: <a href="https://intensitiescultmedia.com/wp-content/uploads/2017/05/7-chadborn-edwards-and-reysen-fan-identity2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intensitiescultmedia.com/wp-content/uploads/2017/05/7-chadborn-edwards-and-reysen-fan-identity2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intensities: The Journal of Cult MediaDisplaying Fan Identity to Make Friendsby D Chadborn · 2017 · Cited by 82 — Clothing and other disp...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: byrdie.com  
-   Link: [https://www.byrdie.com/music-merch-trend-8762963](https://www.byrdie.com/music-merch-trend-8762963)  
+   Link: <a href="https://www.byrdie.com/music-merch-trend-8762963" target="_blank" rel="noopener noreferrer nofollow">https://www.byrdie.com/music-merch-trend-8762963</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Katie Devlin, Stylus&#x27;s assistant fashion trends editor, highlights the growing market and the need for artists to innovate their merch of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: library.oapen.org  
-   Link: [https://library.oapen.org/bitstream/handle/20.500.12657/93717/9783990941218.pdf?isAllowed=y&sequence=1](https://library.oapen.org/bitstream/handle/20.500.12657/93717/9783990941218.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://library.oapen.org/bitstream/handle/20.500.12657/93717/9783990941218.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/93717/9783990941218.pdf?isAllowed=y&amp;sequence=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Aesthetic Taste in Music and Art for Our Perceived. Identity”, Frontiers in Psychology 11 (2021), doi: 10.3389/...Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: watoowatoo.net  
-   Link: [https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf](https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf)  
+   Link: <a href="https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ationships fans who celebrate their passion individually might have with their music icons and focuses on a better...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship](https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship)  
+   Link: <a href="https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>explicit designs and fanship was examined to address perceived differentiation, social...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: eyesoremerch.com  
    Title: cultural impact how band merch shapes music communities  
-   Link: [https://eyesoremerch.com/blog/cultural-impact-how-band-merch-shapes-music-communities/?srsltid=AfmBOooaU3fo4x5kUwwGpfXT98GSfy50SB_eSXvicfUnClQ4kDaGMGQV](https://eyesoremerch.com/blog/cultural-impact-how-band-merch-shapes-music-communities/?srsltid=AfmBOooaU3fo4x5kUwwGpfXT98GSfy50SB_eSXvicfUnClQ4kDaGMGQV)  
+   Link: <a href="https://eyesoremerch.com/blog/cultural-impact-how-band-merch-shapes-music-communities/?srsltid=AfmBOooaU3fo4x5kUwwGpfXT98GSfy50SB_eSXvicfUnClQ4kDaGMGQV" target="_blank" rel="noopener noreferrer nofollow">https://eyesoremerch.com/blog/cultural-impact-how-band-merch-shapes-music-communities/?srsltid=AfmBOooaU3fo4x5kUwwGpfXT98GSfy50SB_eSXvicfUnClQ4kDaGMGQV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Impact: How Band Merch Shapes Music...30 Jul 2024 — Reinforcing Fan Identities: Wearing band merchandise serves as a badge of h...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: K-Pop's Rise in the West: How BTS Changed the Music Industry Forever  
-   Link: [https://www.youtube.com/watch?v=-6Wk-kd8xSg](https://www.youtube.com/watch?v=-6Wk-kd8xSg)  
+   Link: <a href="https://www.youtube.com/watch?v=-6Wk-kd8xSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-6Wk-kd8xSg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the role of music merchandise as a tool for fan identity, community building, and cultural expression beyond simple...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: online.berklee.edu  
    Title: how to create music merch to grow your brand  
-   Link: [https://online.berklee.edu/takenote/how-to-create-music-merch-to-grow-your-brand/](https://online.berklee.edu/takenote/how-to-create-music-merch-to-grow-your-brand/)  
+   Link: <a href="https://online.berklee.edu/takenote/how-to-create-music-merch-to-grow-your-brand/" target="_blank" rel="noopener noreferrer nofollow">https://online.berklee.edu/takenote/how-to-create-music-merch-to-grow-your-brand/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Create Music Merch to Grow Your Brand27 Jan 2026 — Learn how to design, price, and promote music merch that strengthens your brand, en...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theloftmcr/posts/%E1%B4%98-%CA%80%E1%B4%80%CA%9F%CA%9F%E1%B4%87%CA%9F-%E1%B4%9B%E1%B4%8F%E1%B4%98-%EA%9C%B1%E1%B4%87%CA%9F%E1%B4%87%E1%B4%84%E1%B4%9B%EA%9C%B1the-nevermind-founder-returns-to-manchester-for-an-extended-/1364344575744880/](https://www.facebook.com/theloftmcr/posts/%E1%B4%98-%CA%80%E1%B4%80%CA%9F%CA%9F%E1%B4%87%CA%9F-%E1%B4%9B%E1%B4%8F%E1%B4%98-%EA%9C%B1%E1%B4%87%CA%9F%E1%B4%87%E1%B4%84%E1%B4%9B%EA%9C%B1the-nevermind-founder-returns-to-manchester-for-an-extended-/1364344575744880/)  
+   Link: <a href="https://www.facebook.com/theloftmcr/posts/%E1%B4%98-%CA%80%E1%B4%80%CA%9F%CA%9F%E1%B4%87%CA%9F-%E1%B4%9B%E1%B4%8F%E1%B4%98-%EA%9C%B1%E1%B4%87%CA%9F%E1%B4%87%E1%B4%84%E1%B4%9B%EA%9C%B1the-nevermind-founder-returns-to-manchester-for-an-extended-/1364344575744880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theloftmcr/posts/%E1%B4%98-%CA%80%E1%B4%80%CA%9F%CA%9F%E1%B4%87%CA%9F-%E1%B4%9B%E1%B4%8F%E1%B4%98-%EA%9C%B1%E1%B4%87%CA%9F%E1%B4%87%E1%B4%84%E1%B4%9B%EA%9C%B1the-nevermind-founder-returns-to-manchester-for-an-extended-/1364344575744880/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hosting some of the most iconic and memorable punk /...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ibew.org.uk  
    Title: TH E HISTORY OF THE WIND BAND IN BELGIUM  
-   Link: [https://www.ibew.org.uk/dvarch/DV05699.pdf](https://www.ibew.org.uk/dvarch/DV05699.pdf)  
+   Link: <a href="https://www.ibew.org.uk/dvarch/DV05699.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibew.org.uk/dvarch/DV05699.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE HISTORY OF THE WIND BAND IN BELGIUM - IBEWFrancis Pieters proves once again with this new book that he continues to show unlimited in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EOTRFestival/posts/much-hyped-london-trio-mary-in-the-junkyard-are-absolutely-deserving-of-the-buzz/1302891951195512/](https://www.facebook.com/EOTRFestival/posts/much-hyped-london-trio-mary-in-the-junkyard-are-absolutely-deserving-of-the-buzz/1302891951195512/)  
+   Link: <a href="https://www.facebook.com/EOTRFestival/posts/much-hyped-london-trio-mary-in-the-junkyard-are-absolutely-deserving-of-the-buzz/1302891951195512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EOTRFestival/posts/much-hyped-london-trio-mary-in-the-junkyard-are-absolutely-deserving-of-the-buzz/1302891951195512/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng witchy, immersive rock that spirals like a charmed...</p></details>

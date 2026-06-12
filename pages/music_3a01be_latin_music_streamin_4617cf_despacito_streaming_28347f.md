@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34
 - music_3a01be_latin_music_streamin_4617cf_viva_latino_playlist_372256
 tags:
-- music
+- music-3-a01-be
 - latin-music
 - despacito
 keywords:
-- music
+- music-3-a01-be
 - latin-music
 - despacito
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Despacito proved that a Spanish-language hit could dominate global pop listening without waiting for a traditional crossover path.
 hero_summary: Despacito proved that a Spanish-language hit could dominate global pop listening without waiting for a traditional crossover path.
 layout: default
 permalink: /despacito/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /latin-music/
 nav_short_title: Despacito
 title: Why Despacito Changed Global Pop Listening
-title_full: Why Despacito Changed Global Pop Listening | Latin Music
+title_full: Why Despacito Changed Global Pop Listening
 display_title_short: Despacito
 display_title: Despacito
 heading_title: Why Despacito Changed Global Pop Listening
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Latin Music Travels So Far | Music
+parent_title: Why Latin Music Travels So Far
 parent_permalink: /latin-music/
 parent_nav_short_title: Latin Music
 parent_heading_title: Why Latin Music Travels So Far
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Playlists Became Latin Music's Front Door
 up_link:
   basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
@@ -265,7 +265,7 @@ next_link:
   permalink: /diaspora/
   short_title: Diaspora
   heading_title: Why Diaspora Listening Powered Latin Streaming
-date: '2026-06-09 06:56:57 '
+date: '2026-06-11 23:29:55 '
 header:
   og_image: /assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-1.webp
@@ -274,64 +274,59 @@ image: /assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streami
 
 ## Introduction
 
-“Despacito” did not merely become a hit song. It became a turning point in how the global [music]({{ 'music/' | relative_url }}) business understood language, streaming, and audience behaviour. Released in January 2017 by Luis Fonsi and Daddy Yankee, the track demonstrated that a Spanish-language song could dominate mainstream pop consumption worldwide without first being converted into an English-language product. Its success challenged decades of industry assumptions about crossover strategy and showed that streaming platforms had fundamentally altered the route from regional popularity to global ubiquity.
-
+Despacito did not merely become a hit song. It became a turning point in how the global music business understood language, streaming, and audience behaviour. Released in January 2017 by Luis Fonsi and Daddy Yankee, the track demonstrated that a Spanish-language song could dominate mainstream pop consumption worldwide without first being converted into an English-language product. Its success challenged decades of industry assumptions about crossover strategy and showed that streaming platforms had fundamentally altered the route from regional popularity to global ubiquity.
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-1-dark.svg" | relative_url }}" alt="Despacito illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-By July 2017, “Despacito” had become the most-streamed song in history, accumulating 4.6 billion plays across streaming platforms in just six months, surpassing Justin Bieber’s “Sorry”, the previous record holder. The achievement was unprecedented not only because of the scale involved, but because it was achieved by a song whose core identity remained Spanish-language and Latin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Despacito becomes most streamed song of all time, with 4.6bn plays</span><span class="citation-popover-snippet">This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">despacito breaks time streaming records 4 6bn plays 6 months</span><span class="citation-popover-snippet">Music Business WorldwideDespacito breaks all-time streaming records with 4.6bn...Jul 19, 2017 — The track, signed to Universal Music Lat...</span></span></span>
+By July 2017, Despacito had become the most-streamed song in history, accumulating 4.6 billion plays across streaming platforms in just six months, surpassing Justin Biebers Sorry, the previous record holder. The achievement was unprecedented not only because of the scale involved, but because it was achieved by a song whose core identity remained Spanish-language and Latin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Despacito becomes most streamed song of all time, with 4.6bn plays</span><span class="citation-popover-snippet">This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">despacito breaks time streaming records 4 6bn plays 6 months</span><span class="citation-popover-snippet">Music Business WorldwideDespacito breaks all-time streaming records with 4.6bn...Jul 19, 2017  The track, signed to Universal Music Lat...</span></span></span>
 
-The importance of “Despacito” extends beyond chart records. It revealed how streaming platforms could bypass traditional radio gatekeepers, how bilingual and multilingual audiences could drive global consumption patterns, and how labels could use real-time listening data to accelerate international growth. In the story of how [Latin music]({{ 'latin-music/' | relative_url }}) became a streaming power, “Despacito” stands as the clearest single-case demonstration of the shift.
+The importance of Despacito extends beyond chart records. It revealed how streaming platforms could bypass traditional radio gatekeepers, how bilingual and multilingual audiences could drive global consumption patterns, and how labels could use real-time listening data to accelerate international growth. In the story of how [Latin music]({{ 'latin-music/' | relative_url }}) became a streaming power, Despacito stands as the clearest single-case demonstration of the shift.
 
 ## The Pre-Streaming Crossover Model
 
 Before streaming became dominant, Latin artists who wanted mainstream success in the United States and other English-speaking markets typically followed a crossover model. The industry expectation was that artists would either record English-language material or heavily adapt their image and repertoire for Anglo-American radio.
 
-Artists such as Gloria Estefan, Ricky Martin, Shakira and Enrique Iglesias achieved major international success, but their breakthrough moments were closely tied to English-language releases and traditional promotional campaigns. Success depended heavily on radio programmers, television appearances, physical distribution networks and record-label marketing budgets.
+Artists such as Gloria Estefan, Ricky Martin, Shakira and Enrique Iglesias achieved major international success, but their breakthrough moments were closely tied to English-language releases and traditional promotional campaigns. Success depended heavily on radio programmers, television appearances, [physical]({{ 'physical/' | relative_url }}) distribution networks and record-label marketing budgets.
 
 This model created a hierarchy in which Spanish-language music was often treated as a niche category rather than part of mainstream pop. Songs could become major hits within Latin America or among diaspora audiences while remaining largely invisible to broader global markets.
 
 Streaming began to weaken these barriers. Spotify, YouTube, Apple Music and other platforms placed songs from different languages side by side in playlists and recommendation systems. Discovery increasingly depended on user behaviour rather than radio programming. Listeners no longer needed to wait for local broadcasters to validate a song before hearing it.
 
-“Despacito” arrived at exactly the moment when these structural changes were becoming powerful enough to reshape global listening habits. Its success was therefore not simply a reflection of the song itself; it was evidence that the underlying distribution system had changed.
+Despacito arrived at exactly the moment when these structural changes were becoming powerful enough to reshape global listening habits. Its success was therefore not simply a reflection of the song itself; it was evidence that the underlying distribution system had changed.
 
-## How Streaming Made “Despacito” Different
+## How Streaming Made Despacito Different
 
 The song's rise was unusually rapid and unusually global.
 
-Rather than depending primarily on radio airplay, “Despacito” spread through a combination of YouTube views, audio streaming, playlist placement, social sharing and algorithmic recommendation systems. Streaming allowed the song to gain momentum simultaneously across multiple territories.
+Rather than depending primarily on radio airplay, Despacito spread through a combination of YouTube views, audio streaming, playlist placement, social sharing and algorithmic recommendation systems. Streaming allowed the song to gain momentum simultaneously across multiple territories.
 
-The numbers were extraordinary. By July 2017, the combined original and remix versions had generated 4.6 billion streams, making it the most-streamed song ever at that time. Spotify and YouTube accounted for the overwhelming majority of those plays, illustrating how streaming services had become the primary engines of global music discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">despacito breaks time streaming records 4 6bn plays 6 months</span><span class="citation-popover-snippet">Music Business WorldwideDespacito breaks all-time streaming records with 4.6bn...Jul 19, 2017 — The track, signed to Universal Music Lat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wgbh.org/news/2017-07-19/despacito-quickly-becomes-the-most-streamed-song-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">While “Despacito” was a bona fide global ...Read more</span><span class="citation-popover-snippet">GBH&#x27;Despacito&#x27; Quickly Becomes The Most-Streamed Song EverJul 19, 2017 — According to analytics firm BuzzAngle, audio streams were up 58....</span></span></span>
+The numbers were extraordinary. By July 2017, the combined original and remix versions had generated 4.6 billion streams, making it the most-streamed song ever at that time. Spotify and YouTube accounted for the overwhelming majority of those plays, illustrating how streaming services had become the primary engines of global music discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">despacito breaks time streaming records 4 6bn plays 6 months</span><span class="citation-popover-snippet">Music Business WorldwideDespacito breaks all-time streaming records with 4.6bn...Jul 19, 2017  The track, signed to Universal Music Lat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wgbh.org/news/2017-07-19/despacito-quickly-becomes-the-most-streamed-song-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">While Despacito was a bona fide global ...Read more</span><span class="citation-popover-snippet">GBH&#x27;Despacito&#x27; Quickly Becomes The Most-Streamed Song EverJul 19, 2017  According to analytics firm BuzzAngle, audio streams were up 58....</span></span></span>
 
-The song also benefited from visual [culture]({{ 'culture/' | relative_url }}). The Puerto Rico-shot music video became one of the fastest-growing videos in YouTube history and later became the platform's most-viewed video ever. Daddy Yankee explicitly linked the record-breaking performance to the changing role of digital platforms, arguing that “the rules of music have changed” and acknowledging YouTube's influence in making the song a global phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Despacito becomes most streamed song of all time, with 4.6bn plays</span><span class="citation-popover-snippet">This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</span></span></span>
+The song also benefited from visual culture. The Puerto Rico-shot music video became one of the fastest-growing videos in YouTube history and later became the platform's most-viewed video ever. Daddy Yankee explicitly linked the record-breaking performance to the changing role of digital platforms, arguing that the rules of music have changed and acknowledging YouTube's influence in making the song a global phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Despacito becomes most streamed song of all time, with 4.6bn plays</span><span class="citation-popover-snippet">This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</span></span></span>
 
-What distinguished “Despacito” from earlier crossover moments was that listeners around the world embraced the song despite not necessarily understanding its lyrics. Streaming metrics showed that audiences increasingly responded to rhythm, melody, atmosphere and social visibility rather than linguistic familiarity alone.
+What distinguished Despacito from earlier crossover moments was that listeners around the world embraced the song despite not necessarily understanding its [lyrics]({{ 'lyrics/' | relative_url }}). Streaming metrics showed that audiences increasingly responded to rhythm, melody, atmosphere and social visibility rather than linguistic familiarity alone.
 
 The song became evidence that global listeners were more willing to engage with non-English music than many industry executives had previously believed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## How the Remix Amplified an Already Global Hit
 
-A common misconception is that Justin Bieber's participation created the success of “Despacito.” The historical record suggests a more nuanced story.
+A common misconception is that Justin Bieber's participation created the success of Despacito. The historical record suggests a more nuanced story.
 
-Before Bieber became involved, the original version was already a major hit across Latin America and numerous international markets. Streaming data had already signalled strong momentum. The remix expanded the song's reach, particularly in English-speaking territories, but it amplified an existing global phenomenon rather than creating one from nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Artist Case Study Luis Fonsi</span><span class="citation-popover-snippet">IFPILUIS FONSIMarch 30, 2022 — The Justin Bieber remix was recorded on a Tuesday and released that Sunday. “The democratisation of consum...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
+Before Bieber became involved, the original version was already a major hit across Latin America and numerous international markets. Streaming data had already signalled strong momentum. The remix expanded the song's reach, particularly in English-speaking territories, but it amplified an existing global phenomenon rather than creating one from nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Artist Case Study Luis Fonsi</span><span class="citation-popover-snippet">LUIS FONSIMarch 30, 2022  The Justin Bieber remix was recorded on a Tuesday and released that Sunday. The democratisation of consum...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
 
-The timing was crucial. According to an IFPI case study on Luis Fonsi, the Bieber remix was recorded and released with remarkable speed. The remix was completed within days, allowing Universal Music to capitalise on rapidly growing demand visible through streaming analytics. The label could see where the song was gaining traction and respond in near real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Artist Case Study Luis Fonsi</span><span class="citation-popover-snippet">IFPILUIS FONSIMarch 30, 2022 — The Justin Bieber remix was recorded on a Tuesday and released that Sunday. “The democratisation of consum...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
+The timing was crucial. According to an IFPI case study on Luis Fonsi, the Bieber remix was recorded and released with remarkable speed. The remix was completed within days, allowing Universal Music to capitalise on rapidly growing demand visible through streaming analytics. The label could see where the song was gaining traction and respond in near real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Artist Case Study Luis Fonsi</span><span class="citation-popover-snippet">LUIS FONSIMarch 30, 2022  The Justin Bieber remix was recorded on a Tuesday and released that Sunday. The democratisation of consum...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
 
 This represented a different way of building international success. Under older industry models, labels often spent months testing markets and organising promotional campaigns. Streaming allowed executives to identify organic audience growth first and then strengthen it with strategic interventions.
 
-The remix ultimately helped propel “Despacito” to an extraordinary chart run. The song became the first primarily Spanish-language track to reach the top of the Billboard Hot 100 since “Macarena” in 1996. It remained at number one for 16 weeks, tying what was then the all-time Hot 100 longevity record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Despacito" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-hot-latin-songs-record-number-one-justin-bieber/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Despacito Breaks Hot Latin Songs Record for Weeks at No</span><span class="citation-popover-snippet">1Feb 12, 2018 — Along the way, “Despacito” also made history atop the all-genre Billboard Hot 100 chart, ruling for 16 weeks beginning Ma...</span></span></span>
+The remix ultimately helped propel Despacito to an extraordinary chart run. The song became the first primarily Spanish-language track to reach the top of the Billboard Hot 100 since Macarena in 1996. It remained at number one for 16 weeks, tying what was then the all-time Hot 100 longevity record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Despacito" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-hot-latin-songs-record-number-one-justin-bieber/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Despacito Breaks Hot Latin Songs Record for Weeks at No</span><span class="citation-popover-snippet">1Feb 12, 2018  Along the way, Despacito also made history atop the all-genre Billboard Hot 100 chart, ruling for 16 weeks beginning Ma...</span></span></span>
 
 Importantly, however, the song never abandoned its Spanish-language identity. Most of the lyrics remained in Spanish, and Daddy Yankee's verses stayed intact. The remix therefore reinforced a new lesson for the industry: English-language participation could help broaden reach, but complete linguistic conversion was no longer necessary.
 
-
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-2-dark.svg" | relative_url }}" alt="Despacito illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why “Despacito” Became a Streaming Landmark
+## Why Despacito Became a Streaming Landmark
 
 Many songs achieve large streaming numbers. Few become symbols of a structural shift.
 
-“Despacito” became a landmark because it sat at the intersection of several changes occurring simultaneously:
+Despacito became a landmark because it sat at the intersection of several changes occurring simultaneously:
 
 **Platform-driven discovery.** Streaming algorithms rewarded engagement rather than language category. If listeners repeatedly played a song, saved it, shared it or completed it, platforms continued recommending it.
 
@@ -343,31 +338,30 @@ Many songs achieve large streaming numbers. Few become symbols of a structural s
 
 **Video-streaming convergence.** YouTube and audio streaming platforms reinforced one another, creating a feedback loop of discovery and repeat listening. GBH <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4888128/youtube-most-viewed-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Last month, &quot;Despacito&quot; also became the most-streamed song of all time with over 4.6 billion streams across platforms. Daddy Yankee ackno...</span></span></span>
 
-The speed of the song's ascent also reflected broader industry trends. Streaming itself was expanding rapidly during 2017. US music consumption data showed enormous growth in streaming activity, and “Despacito” became one of the clearest beneficiaries of that transformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wgbh.org/news/2017-07-19/despacito-quickly-becomes-the-most-streamed-song-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">While “Despacito” was a bona fide global ...Read more</span><span class="citation-popover-snippet">GBH&#x27;Despacito&#x27; Quickly Becomes The Most-Streamed Song EverJul 19, 2017 — According to analytics firm BuzzAngle, audio streams were up 58....</span></span></span>
-
+The speed of the song's ascent also reflected broader industry trends. Streaming itself was expanding rapidly during 2017. US music consumption data showed enormous growth in streaming activity, and Despacito became one of the clearest beneficiaries of that transformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wgbh.org/news/2017-07-19/despacito-quickly-becomes-the-most-streamed-song-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">While Despacito was a bona fide global ...Read more</span><span class="citation-popover-snippet">GBH&#x27;Despacito&#x27; Quickly Becomes The Most-Streamed Song EverJul 19, 2017  According to analytics firm BuzzAngle, audio streams were up 58....</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-3-dark.svg" | relative_url }}" alt="Despacito illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What Labels and Platforms Learned from “Despacito”
+## What Labels and Platforms Learned from Despacito
 
 The music industry drew several important lessons from the song's success.
 
 First, labels gained evidence that language was becoming a less significant commercial barrier in the streaming era. A hit no longer needed an English-language version to attract massive global audiences.
 
-Second, executives learned the value of data-driven international strategy. Streaming analytics provided immediate visibility into where songs were growing. Rather than relying on intuition or slow market research, labels could identify emerging demand and invest accordingly. The IFPI case study on Luis Fonsi specifically highlights how streaming transparency allowed teams to position the song differently across markets according to local performance patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Artist Case Study Luis Fonsi</span><span class="citation-popover-snippet">IFPILUIS FONSIMarch 30, 2022 — The Justin Bieber remix was recorded on a Tuesday and released that Sunday. “The democratisation of consum...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
+Second, executives learned the value of data-driven international strategy. Streaming analytics provided immediate visibility into where songs were growing. Rather than relying on intuition or slow market research, labels could identify emerging demand and invest accordingly. The IFPI case study on Luis Fonsi specifically highlights how streaming transparency allowed teams to position the song differently across markets according to local performance patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Artist Case Study Luis Fonsi</span><span class="citation-popover-snippet">LUIS FONSIMarch 30, 2022  The Justin Bieber remix was recorded on a Tuesday and released that Sunday. The democratisation of consum...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
 
-Third, platforms recognised that non-English music could drive mainstream engagement. “Despacito” helped validate global playlist strategies and encouraged greater investment in international music categories.
+Third, platforms recognised that non-English music could drive mainstream engagement. Despacito helped validate global playlist strategies and encouraged greater investment in international music categories.
 
 Finally, the success encouraged artists to remain authentic to their linguistic and cultural identities. Rather than treating English-language recording as the inevitable destination of commercial success, many artists increasingly viewed global growth as possible while remaining rooted in Spanish-language music.
 
 ## The Legacy for Spanish-Language Pop
 
-The significance of “Despacito” becomes clearer when viewed through what followed.
+The significance of Despacito becomes clearer when viewed through what followed.
 
 The song did not create Latin music's global rise on its own, but it accelerated confidence across the industry. It demonstrated that a Spanish-language track could become the world's dominant pop song in an environment shaped primarily by streaming rather than radio.
 
-Its chart achievements remain remarkable. The song spent 16 weeks atop the Billboard Hot 100, became the most-streamed song in history at the time, and established records across YouTube, Spotify and Latin [charts]({{ 'charts/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy More importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">“Despacito” Ties Billboard Hot 100 RecordWith 16 weeks to its name at No. 1, &quot;Despacito&quot; is tied for most weeks ever in the top spot with...</span></span></span>, it changed expectations. Before “Despacito,” a Spanish-language global smash was often viewed as an exception. After “Despacito,” it became easier for industry executives, streaming services and audiences to imagine Spanish-language music as a permanent part of mainstream global pop culture.
+Its chart achievements remain remarkable. The song spent 16 weeks atop the Billboard Hot 100, became the most-streamed song in history at the time, and established records across YouTube, Spotify and Latin [charts]({{ 'charts/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy More importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">Despacito Ties Billboard Hot 100 RecordWith 16 weeks to its name at No. 1, &quot;Despacito&quot; is tied for most weeks ever in the top spot with...</span></span></span>, it changed expectations. Before Despacito, a Spanish-language global smash was often viewed as an exception. After Despacito, it became easier for industry executives, streaming services and audiences to imagine Spanish-language music as a permanent part of mainstream global pop culture.
 
-That shift in perception may be the song's most enduring achievement. “Despacito” proved that streaming had created a new route to worldwide success—one in which a Spanish-language hit no longer needed to cross over into global pop. It could simply become global pop.
+That shift in perception may be the song's most enduring achievement. Despacito proved that streaming had created a new route to worldwide successone in which a Spanish-language hit no longer needed to cross over into global pop. It could simply become global pop.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -439,7 +433,7 @@ That shift in perception may be the song's most enduring achievement. “Despaci
         </h4>
         <p class="fr-book-author">By Raquel Z. Rivera, Deborah Pacini Hernandez</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: ReggaetoÌ�n, History and criticism, ReggaetÃ³n, Reggae music, Reggaeton.</p>
+        <p class="fr-book-desc">First published 2009. Subjects: Reggaeton, History and criticism, Reggaetón, Reggae music, Reggaeton.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -765,196 +759,196 @@ That shift in perception may be the song's most enduring achievement. “Despaci
 
 1. <a id="endnote-1"></a>
    Source: time.com  
-   Link: [https://time.com/4888128/youtube-most-viewed-video/](https://time.com/4888128/youtube-most-viewed-video/)  
+   Link: <a href="https://time.com/4888128/youtube-most-viewed-video/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4888128/youtube-most-viewed-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last month, &quot;Despacito&quot; also became the most-streamed song of all time with over 4.6 billion streams across platforms. Daddy Yankee ackno...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ifpi.org  
    Title: Artist Case Study Luis Fonsi  
-   Link: [https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf](https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPILUIS FONSIMarch 30, 2022 — The Justin Bieber remix was recorded on a Tuesday and released that Sunday. “The democratisation of consum...</p></details>
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2022/04/Artist_Case_Study-Luis_Fonsi.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LUIS FONSIMarch 30, 2022  The Justin Bieber remix was recorded on a Tuesday and released that Sunday. The democratisation of consum...</p></details>
    Published: March 30, 2022  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Despacito](https://en.wikipedia.org/wiki/Despacito)  
+   Link: <a href="https://en.wikipedia.org/wiki/Despacito" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Despacito</a>  
 
 4. <a id="endnote-4"></a>
    Source: billboard.com  
    Title: Despacito Breaks Hot Latin Songs Record for Weeks at No  
-   Link: [https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-hot-latin-songs-record-number-one-justin-bieber/](https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-hot-latin-songs-record-number-one-justin-bieber/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1Feb 12, 2018 — Along the way, “Despacito” also made history atop the all-genre Billboard Hot 100 chart, ruling for 16 weeks beginning Ma...</p></details>
+   Link: <a href="https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-hot-latin-songs-record-number-one-justin-bieber/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-hot-latin-songs-record-number-one-justin-bieber/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1Feb 12, 2018  Along the way, Despacito also made history atop the all-genre Billboard Hot 100 chart, ruling for 16 weeks beginning Ma...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: grammy.com  
-   Link: [https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/](https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Despacito” Ties Billboard Hot 100 RecordWith 16 weeks to its name at No. 1, &quot;Despacito&quot; is tied for most weeks ever in the top spot with...</p></details>
+   Link: <a href="https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito Ties Billboard Hot 100 RecordWith 16 weeks to its name at No. 1, &quot;Despacito&quot; is tied for most weeks ever in the top spot with...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: guardian.ng  
    Title: despacito declared most streamed song ever  
-   Link: [https://guardian.ng/life/music/despacito-declared-most-streamed-song-ever/](https://guardian.ng/life/music/despacito-declared-most-streamed-song-ever/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Despacito&#x27; declared most streamed song everJul 19, 2017 — Puerto Rican singer Luis Fonsi&#x27;s “Despacito,” whose reggaeton beat has swept t...</p></details>
+   Link: <a href="https://guardian.ng/life/music/despacito-declared-most-streamed-song-ever/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/life/music/despacito-declared-most-streamed-song-ever/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Despacito&#x27; declared most streamed song everJul 19, 2017  Puerto Rican singer Luis Fonsi&#x27;s Despacito, whose reggaeton beat has swept t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/pro/despacito-hot-100-number-one-15-weeks/](https://www.billboard.com/pro/despacito-hot-100-number-one-15-weeks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Despacito&#x27; on Hot 100: Second Song Ever to Lead for at...Aug 21, 2017 — &#x27;Despacito&#x27; is Second Song Ever to Lead Hot 100 for at Least 15...</p></details>
+   Link: <a href="https://www.billboard.com/pro/despacito-hot-100-number-one-15-weeks/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/despacito-hot-100-number-one-15-weeks/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Despacito&#x27; on Hot 100: Second Song Ever to Lead for at...Aug 21, 2017  &#x27;Despacito&#x27; is Second Song Ever to Lead Hot 100 for at Least 15...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: billboard.com  
    Title: [bad bunny](&#123;&#123; 'bad-bunny/' | relative_url &#125;&#125;) dtmf breaks record despacito hot latin songs 1236232812  
-   Link: [https://www.billboard.com/music/chart-beat/bad-bunny-dtmf-breaks-record-despacito-hot-latin-songs-1236232812/](https://www.billboard.com/music/chart-beat/bad-bunny-dtmf-breaks-record-despacito-hot-latin-songs-1236232812/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny&#x27;s &#x27;DtMF&#x27; Breaks Record Set by &#x27;Despacito&#x27; for...Apr 27, 2026 — Bad Bunny sets a historic milestone as “DtMF” adds a 57th week...</p></details>
+   Link: <a href="https://www.billboard.com/music/chart-beat/bad-bunny-dtmf-breaks-record-despacito-hot-latin-songs-1236232812/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/bad-bunny-dtmf-breaks-record-despacito-hot-latin-songs-1236232812/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny&#x27;s &#x27;DtMF&#x27; Breaks Record Set by &#x27;Despacito&#x27; for...Apr 27, 2026  Bad Bunny sets a historic milestone as DtMF adds a 57th week...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: billboard.com  
    Title: luis fonsi daddy yankee despacito most streamed song 2017 nielsen  
-   Link: [https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-most-streamed-song-2017-nielsen/](https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-most-streamed-song-2017-nielsen/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito&#x27; Most Streamed Song of 2017Jan 3, 2018 — “Despacito” was also the most-streamed song both in audio-only and video-only streams...</p></details>
+   Link: <a href="https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-most-streamed-song-2017-nielsen/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luis-fonsi-daddy-yankee-despacito-most-streamed-song-2017-nielsen/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito&#x27; Most Streamed Song of 2017Jan 3, 2018  Despacito was also the most-streamed song both in audio-only and video-only streams...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: billboard.com  
    Title: luis fonsi daddy yankee justin bieber despacito latin songs record  
-   Link: [https://www.billboard.com/pro/luis-fonsi-daddy-yankee-justin-bieber-despacito-latin-songs-record/](https://www.billboard.com/pro/luis-fonsi-daddy-yankee-justin-bieber-despacito-latin-songs-record/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito&#x27; Ties Hot Latin Songs RecordFeb 5, 2018 — “Despacito” then returned for another six weeks at No. 1 (so far). On the all-genre B...</p></details>
+   Link: <a href="https://www.billboard.com/pro/luis-fonsi-daddy-yankee-justin-bieber-despacito-latin-songs-record/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luis-fonsi-daddy-yankee-justin-bieber-despacito-latin-songs-record/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito&#x27; Ties Hot Latin Songs RecordFeb 5, 2018  Despacito then returned for another six weeks at No. 1 (so far). On the all-genre B...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of Billboard Hot Latin Songs chart achievements and milestones  
-   Link: [https://en.wikipedia.org/wiki/List_of_Billboard_Hot_Latin_Songs_chart_achievements_and_milestones](https://en.wikipedia.org/wiki/List_of_Billboard_Hot_Latin_Songs_chart_achievements_and_milestones)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_Latin_Songs_chart_achievements_and_milestones" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Billboard_Hot_Latin_Songs_chart_achievements_and_milestones</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Billboard Hot Latin Songs chart achievements and...As of 2021, &quot;Despacito&quot; by Luis Fonsi and Daddy Yankee featuring Justin Bi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: How Despacito Changed the Music Industry  
-   Link: [https://www.youtube.com/watch?v=F00sS3k1kZg](https://www.youtube.com/watch?v=F00sS3k1kZg)  
+   Link: <a href="https://www.youtube.com/watch?v=F00sS3k1kZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F00sS3k1kZg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Streaming Revolution: How Despacito Conquered the World...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Streaming Revolution: How Despacito Conquered the World  
-   Link: [https://www.youtube.com/watch?v=uD5o6n9z458](https://www.youtube.com/watch?v=uD5o6n9z458)  
+   Link: <a href="https://www.youtube.com/watch?v=uD5o6n9z458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD5o6n9z458</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Despacito is the Most Important Song in Streaming History...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why Despacito is the Most Important Song in Streaming History  
-   Link: [https://www.youtube.com/watch?v=TfL_348T8f4](https://www.youtube.com/watch?v=TfL_348T8f4)  
+   Link: <a href="https://www.youtube.com/watch?v=TfL_348T8f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TfL_348T8f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Despacito Broke Down Language Barriers in Global Pop...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: How Despacito Broke Down Language Barriers in Global Pop  
-   Link: [https://www.youtube.com/watch?v=kYJv8P-XG-g](https://www.youtube.com/watch?v=kYJv8P-XG-g)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJv8P-XG-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJv8P-XG-g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Latin Music on the Digital Streaming Era...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Impact of Latin Music on the Digital Streaming Era  
-   Link: [https://www.youtube.com/watch?v=cQ1308V1y3Q](https://www.youtube.com/watch?v=cQ1308V1y3Q)  
+   Link: <a href="https://www.youtube.com/watch?v=cQ1308V1y3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQ1308V1y3Q</a>  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian Despacito becomes most streamed song of all time, with 4.6bn plays  
-   Link: [https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber](https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber)  
+   Link: <a href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: musicbusinessworldwide.com  
    Title: despacito breaks time streaming records 4 6bn plays 6 months  
-   Link: [https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/](https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideDespacito breaks all-time streaming records with 4.6bn...Jul 19, 2017 — The track, signed to Universal Music Lat...</p></details>
+   Link: <a href="https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/despacito-breaks-time-streaming-records-4-6bn-plays-6-months/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideDespacito breaks all-time streaming records with 4.6bn...Jul 19, 2017  The track, signed to Universal Music Lat...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: despacito becomes most viewed video in youtube history  
-   Link: [https://www.theguardian.com/music/2017/aug/04/despacito-becomes-most-viewed-video-in-youtube-history](https://www.theguardian.com/music/2017/aug/04/despacito-becomes-most-viewed-video-in-youtube-history)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDespacito becomes most-viewed video in YouTube history4 Aug 2017 — In June his video also became the most-streamed song of al...</p></details>
+   Link: <a href="https://www.theguardian.com/music/2017/aug/04/despacito-becomes-most-viewed-video-in-youtube-history" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/aug/04/despacito-becomes-most-viewed-video-in-youtube-history</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDespacito becomes most-viewed video in YouTube history4 Aug 2017  In June his video also became the most-streamed song of al...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/football/copa90/2017/jul/15/despacito-luis-fonsi-song-took-justin-bieber-football-anthem](https://www.theguardian.com/football/copa90/2017/jul/15/despacito-luis-fonsi-song-took-justin-bieber-football-anthem)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDespacito: how a Puerto Rican pop song became a global...Jul 15, 2017 — Over the last seven months, Luis Fonsi&#x27;s song Despac...</p></details>
+   Link: <a href="https://www.theguardian.com/football/copa90/2017/jul/15/despacito-luis-fonsi-song-took-justin-bieber-football-anthem" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/football/copa90/2017/jul/15/despacito-luis-fonsi-song-took-justin-bieber-football-anthem</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDespacito: how a Puerto Rican pop song became a global...Jul 15, 2017  Over the last seven months, Luis Fonsi&#x27;s song Despac...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: sdespacito classic summer hit or new mambo no 5 justin bieber  
-   Link: [https://www.theguardian.com/music/shortcuts/2017/jul/19/sdespacito-classic-summer-hit-or-new-mambo-no-5-justin-bieber](https://www.theguardian.com/music/shortcuts/2017/jul/19/sdespacito-classic-summer-hit-or-new-mambo-no-5-justin-bieber)  
+   Link: <a href="https://www.theguardian.com/music/shortcuts/2017/jul/19/sdespacito-classic-summer-hit-or-new-mambo-no-5-justin-bieber" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/shortcuts/2017/jul/19/sdespacito-classic-summer-hit-or-new-mambo-no-5-justin-bieber</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito becomes most streamed song of all time, with 4.6bn plays. Read more... It has been played 4.6bn times across all streaming ser...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2020/nov/02/baby-shark-becomes-most-viewed-youtube-video-ever-beating-despacito](https://www.theguardian.com/music/2020/nov/02/baby-shark-becomes-most-viewed-youtube-video-ever-beating-despacito)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Shark becomes most viewed YouTube video ever...2 Nov 2020 — At 7.04bn views, it edges past Despacito, the 2017 single by Puerto Ric...</p></details>
+   Link: <a href="https://www.theguardian.com/music/2020/nov/02/baby-shark-becomes-most-viewed-youtube-video-ever-beating-despacito" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2020/nov/02/baby-shark-becomes-most-viewed-youtube-video-ever-beating-despacito</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Shark becomes most viewed YouTube video ever...2 Nov 2020  At 7.04bn views, it edges past Despacito, the 2017 single by Puerto Ric...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
    Title: 200m royalty deal struck for song [catalogue](&#123;&#123; 'catalogue/' | relative_url &#125;&#125;) including justin bieber remix  
-   Link: [https://www.theguardian.com/business/2018/nov/16/200m-royalty-deal-struck-for-song-catalogue-including-justin-bieber-remix](https://www.theguardian.com/business/2018/nov/16/200m-royalty-deal-struck-for-song-catalogue-including-justin-bieber-remix)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Bieber remix of Despacito part of £200m song...16 Nov 2018 — A London-listed firm offering investors the chance to cash in on the...</p></details>
+   Link: <a href="https://www.theguardian.com/business/2018/nov/16/200m-royalty-deal-struck-for-song-catalogue-including-justin-bieber-remix" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2018/nov/16/200m-royalty-deal-struck-for-song-catalogue-including-justin-bieber-remix</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Bieber remix of Despacito part of 200m song...16 Nov 2018  A London-listed firm offering investors the chance to cash in on the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
    Title: The top 5: #1 Luis Fonsi  
-   Link: [https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en](https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Latin on Instagram: &quot;The tracks share the record for...Despacito alone has nearly 9 billion — almost double the next Latin track...</p></details>
+   Link: <a href="https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Latin on Instagram: &quot;The tracks share the record for...Despacito alone has nearly 9 billion  almost double the next Latin track...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYmzQRINqI3/](https://www.instagram.com/p/DYmzQRINqI3/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0%, Vibing: 100% 🔥 Song: Luis Fonsi, Daddy YankeeDespacito was moderately successful before the Justin Bieber remix, reaching no. 44 on t...</p></details>
+   Link: <a href="https://www.instagram.com/p/DYmzQRINqI3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYmzQRINqI3/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>0%, Vibing: 100%  Song: Luis Fonsi, Daddy YankeeDespacito was moderately successful before the Justin Bieber remix, reaching no. 44 on t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: 9 years ago today justin bieber joined luis fonsi and daddy yankee on the remix  
-   Link: [https://www.facebook.com/PopCultureUpdates/posts/9-years-ago-today-justin-bieber-joined-luis-fonsi-and-daddy-yankee-on-the-remix-/982453034136376/](https://www.facebook.com/PopCultureUpdates/posts/9-years-ago-today-justin-bieber-joined-luis-fonsi-and-daddy-yankee-on-the-remix-/982453034136376/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 years ago today, Justin Bieber joined Luis Fonsi and...In 2017, Luis Fonsi&#x27;s “Despacito” with Daddy Yankee ft. Justin Bieber was named...</p></details>
+   Link: <a href="https://www.facebook.com/PopCultureUpdates/posts/9-years-ago-today-justin-bieber-joined-luis-fonsi-and-daddy-yankee-on-the-remix-/982453034136376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopCultureUpdates/posts/9-years-ago-today-justin-bieber-joined-luis-fonsi-and-daddy-yankee-on-the-remix-/982453034136376/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 years ago today, Justin Bieber joined Luis Fonsi and...In 2017, Luis Fonsi&#x27;s Despacito with Daddy Yankee ft. Justin Bieber was named...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pitchfork.com  
    Title: people paid for music in 2017 streaming subscriptions and [vinyl](&#123;&#123; 'vinyl/' | relative_url &#125;&#125;) sales rise  
-   Link: [https://pitchfork.com/news/people-paid-for-music-in-2017-streaming-subscriptions-and-vinyl-sales-rise](https://pitchfork.com/news/people-paid-for-music-in-2017-streaming-subscriptions-and-vinyl-sales-rise)  
+   Link: <a href="https://pitchfork.com/news/people-paid-for-music-in-2017-streaming-subscriptions-and-vinyl-sales-rise" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/people-paid-for-music-in-2017-streaming-subscriptions-and-vinyl-sales-rise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl sales also grew by 20%, making up 10% of all physical album sales. In contrast, music downloads continued to decline, with only 563...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theverge.com  
    Title: despacito song luis fonsi daddy yankee justin bieber most streamed  
-   Link: [https://www.theverge.com/2017/7/19/15997816/despacito-song-luis-fonsi-daddy-yankee-justin-bieber-most-streamed](https://www.theverge.com/2017/7/19/15997816/despacito-song-luis-fonsi-daddy-yankee-justin-bieber-most-streamed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Fonsi and Daddy Yankee&#x27;s Despacito is the most-...Jul 19, 2017 — Luis Fonsi and Daddy Yankee&#x27;s “Despacito” has racked up a total of...</p></details>
+   Link: <a href="https://www.theverge.com/2017/7/19/15997816/despacito-song-luis-fonsi-daddy-yankee-justin-bieber-most-streamed" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2017/7/19/15997816/despacito-song-luis-fonsi-daddy-yankee-justin-bieber-most-streamed</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Fonsi and Daddy Yankee&#x27;s Despacito is the most-...Jul 19, 2017  Luis Fonsi and Daddy Yankee&#x27;s Despacito has racked up a total of...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: musictimes.com  
    Title: despacito stayed no 1 on billboard hot 100 for 16 weeks just like one sweet day  
-   Link: [https://www.musictimes.com/articles/75789/20170830/despacito-stayed-no-1-on-billboard-hot-100-for-16-weeks-just-like-one-sweet-day.htm](https://www.musictimes.com/articles/75789/20170830/despacito-stayed-no-1-on-billboard-hot-100-for-16-weeks-just-like-one-sweet-day.htm)  
+   Link: <a href="https://www.musictimes.com/articles/75789/20170830/despacito-stayed-no-1-on-billboard-hot-100-for-16-weeks-just-like-one-sweet-day.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.musictimes.com/articles/75789/20170830/despacito-stayed-no-1-on-billboard-hot-100-for-16-weeks-just-like-one-sweet-day.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daddy Yankee still reigns in the No. 1 spot in its 16th week on Billboard Hot 100, the same way that &quot;One...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: universalmusic.ca  
-   Link: [https://www.universalmusic.ca/press-releases/luis-fonsi-daddy-yankees-despacito-remix-featuring-justin-bieber-makes-history-first-spanish-language-song-reach-1-spotify-global-chart/](https://www.universalmusic.ca/press-releases/luis-fonsi-daddy-yankees-despacito-remix-featuring-justin-bieber-makes-history-first-spanish-language-song-reach-1-spotify-global-chart/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>made history, becoming “the first Spanish language song to reach #1 on...Read more...</p></details>
+   Link: <a href="https://www.universalmusic.ca/press-releases/luis-fonsi-daddy-yankees-despacito-remix-featuring-justin-bieber-makes-history-first-spanish-language-song-reach-1-spotify-global-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalmusic.ca/press-releases/luis-fonsi-daddy-yankees-despacito-remix-featuring-justin-bieber-makes-history-first-spanish-language-song-reach-1-spotify-global-chart/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>made history, becoming the first Spanish language song to reach #1 on...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: guinnessworldrecords.de  
-   Link: [https://www.guinnessworldrecords.de/world-records/83385-longest-stay-at-no-1-of-the-us-top-latin-song-chart](https://www.guinnessworldrecords.de/world-records/83385-longest-stay-at-no-1-of-the-us-top-latin-song-chart)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly William and Beyoncé, on 21 October 2017 before reclaiming top spot...Read more...</p></details>
+   Link: <a href="https://www.guinnessworldrecords.de/world-records/83385-longest-stay-at-no-1-of-the-us-top-latin-song-chart" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.de/world-records/83385-longest-stay-at-no-1-of-the-us-top-latin-song-chart</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly William and Beyonc, on 21 October 2017 before reclaiming top spot...Read more...</p></details>
    Published: October 2017  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/](https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/)  
+   Link: <a href="https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 hit in the history of the Hot Latin Songs chart. The song sounds a...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Title: 🎹 A song recognized around the world within seconds  
-   Link: [https://www.facebook.com/MelodiesinMotion634/posts/-a-song-recognized-around-the-world-within-secondsdespacito-was-released-in-2017/122116885941038253/](https://www.facebook.com/MelodiesinMotion634/posts/-a-song-recognized-around-the-world-within-secondsdespacito-was-released-in-2017/122116885941038253/)  
+   Title:  A song recognized around the world within seconds  
+   Link: <a href="https://www.facebook.com/MelodiesinMotion634/posts/-a-song-recognized-around-the-world-within-secondsdespacito-was-released-in-2017/122116885941038253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MelodiesinMotion634/posts/-a-song-recognized-around-the-world-within-secondsdespacito-was-released-in-2017/122116885941038253/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Bieber was named the most-streamed track of all time! In 2017 Luis Fonsi&#x27;s &quot;Despacito&quot; was streamed 4.6 billion times across all m...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cbsnews.com  
    Title: despacito becomes most streamed song of all time  
-   Link: [https://www.cbsnews.com/news/despacito-becomes-most-streamed-song-of-all-time/](https://www.cbsnews.com/news/despacito-becomes-most-streamed-song-of-all-time/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Despacito” becomes most streamed song of all time19 Jul 2017 — SANTA MONICA, California -- &quot;Despacito&quot; has become the most streamed trac...</p></details>
+   Link: <a href="https://www.cbsnews.com/news/despacito-becomes-most-streamed-song-of-all-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/despacito-becomes-most-streamed-song-of-all-time/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despacito becomes most streamed song of all time19 Jul 2017  SANTA MONICA, California -- &quot;Despacito&quot; has become the most streamed trac...</p></details>

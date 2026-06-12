@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf
 - music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e
 tags:
-- music
+- music-3-a01-be
 - setlists
 - black-box-gigs
 keywords:
-- music
+- music-3-a01-be
 - setlists
 - black-box-gigs
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Grassroots shows are especially vulnerable to unmatched royalties when the venue is licensed but the songs are never reported.
 hero_summary: Grassroots shows are especially vulnerable to unmatched royalties when the venue is licensed but the songs are never reported.
 layout: default
 permalink: /black-box-gigs/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /setlists/
 nav_short_title: Black Box Gigs
 title: Why Grassroots Gig Money Gets Lost
-title_full: Why Grassroots Gig Money Gets Lost | Setlists
+title_full: Why Grassroots Gig Money Gets Lost
 display_title_short: Black Box Gigs
 display_title: Black Box Gigs
 heading_title: Why Grassroots Gig Money Gets Lost
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Setlists Are More Than Souvenirs | Music
+parent_title: Why Setlists Are More Than Souvenirs
 parent_permalink: /setlists/
 parent_nav_short_title: Setlists
 parent_heading_title: Why Setlists Are More Than Souvenirs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Missing Setlists Are Hard To Sue Over
 up_link:
   basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -259,7 +259,7 @@ next_link:
   permalink: /claim-deadlines/
   short_title: Claim Deadlines
   heading_title: What Happens When Gig Claims Arrive Too Late?
-date: '2026-06-09 07:34:55 '
+date: '2026-06-11 23:48:18 '
 header:
   og_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1.webp
@@ -270,22 +270,89 @@ image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_
 
 [Grassroots]({{ 'grassroots/' | relative_url }}) gigs are one of the weakest links in the live-music royalty chain. A small venue may pay for a music licence, ticket revenue may contribute to royalty collections, and songs may genuinely be performed in public, yet the money can still fail to reach the writers who earned it. The problem is not always that [royalties]({{ 'royalties/' | relative_url }}) are never collected. Often they are collected but cannot be matched to specific songs because nobody reports an accurate setlist, tracklist or performance record. When that happens, the money risks entering what the industry commonly calls a “black box” of unmatched or unallocated royalties, where funds are held, estimated, or eventually redistributed using proxy methods rather than direct evidence of what was actually played. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1-dark.svg" | relative_url }}" alt="Black Box Gigs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For songwriters working in grassroots [music]({{ 'music/' | relative_url }}), this creates a particular vulnerability. The smaller and less documented the performance, the less likely it is that reliable data exists to connect royalty income to the correct songs and writers.
+For songwriters working in grassroots music, this creates a particular vulnerability. The smaller and less documented the performance, the less likely it is that reliable data exists to connect royalty income to the correct songs and writers.
 
 ## What Black Box Royalties Mean in Live Music
 
 In live performance [licensing]({{ 'licensing/' | relative_url }}), collecting societies gather money from licensed venues, festivals, clubs and promoters. To distribute that money accurately, they need evidence showing which compositions were performed. Setlists, performance reports and tracklists provide that evidence. When the information is missing or incomplete, royalties can become unmatched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesNot sure how PRS turns setlists into royalties? Here&#x27;s a quick guide to how PRS colle...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The term “black box royalties” is commonly used to describe royalties that cannot be assigned confidently to the correct rightsholders because essential ownership or usage data is absent. Industry research and policy discussions have identified unmatched royalty pools as a persistent problem across music rights systems worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0308596124001149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDigital transformation, blockchain, and the music industryby A Arenal · 2024 · Cited by 16 — This issue is popularly known a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">unclaimed royalties final report</span><span class="citation-popover-snippet">Copyright OfficeUnclaimed Royalties: Best Practice Recommendations for...8 Jul 2021 — unclaimed accrued royalties for unmatched musical...</span></span></span>
+The term “black box royalties” is commonly used to describe royalties that cannot be assigned confidently to the correct rightsholders because essential [ownership]({{ 'ownership/' | relative_url }}) or usage data is absent. Industry research and policy discussions have identified unmatched royalty pools as a persistent problem across music [rights]({{ 'rights/' | relative_url }}) systems worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0308596124001149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Digital transformation, blockchain, and the music industryby A Arenal · 2024 · Cited by 16 — This issue is popularly known a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">unclaimed royalties final report</span><span class="citation-popover-snippet">Copyright OfficeUnclaimed Royalties: Best Practice Recommendations for...8 Jul 2021 — unclaimed accrued royalties for unmatched musical...</span></span></span>
 
 For live music, the issue is often straightforward:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A venue pays licence fees.
+2. Music is performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
+3. The songs played are not fully reported.
+4. The collecting society cannot confidently match the money to specific works.
+5. The money is held, estimated, or redistributed through alternative methods.
+
+</div>
+
+The result is that royalties generated by real performances may never reach the writers whose songs created the value in the first place.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nShce3bHHTY" title="How to Get Paid From Free Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nShce3bHHTY" target="_blank" rel="noopener noreferrer">How to Get Paid From Free Performances</a></p><p class="youtube-embed-meta">Channel: J Nolan &middot; Views: 746 &middot; Uploaded: August 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nShce3bHHTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nShce3bHHTY">Open on YouTube</a></p></div></div></div>
+
+## Why Grassroots Venues Produce Weak Performance Data
+
+Large arena tours typically have professional production teams, fixed setlists, ticketing records and established reporting processes. Grassroots venues often operate very differently.
+
+Many small shows involve changing line-ups, support acts, open-mic performers, cover bands, songwriter rounds or DJs. Setlists may be handwritten, altered on stage, lost after the event or never recorded at all. Artists may not know that reporting performances is necessary for royalty payments, especially early in their careers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</span></span></span>
+
+Several structural factors make grassroots reporting difficult:
+
+* **Limited administrative resources.** Small venues rarely employ dedicated staff to manage royalty reporting.
+* **High event volume.** Hundreds of small shows can occur across a region with minimal documentation.
+* **Frequent performer turnover.** New acts appear regularly, often without [publishing]({{ 'publishing/' | relative_url }}) knowledge or rights-management support.
+* **Informal performance environments.** Open mics, community events and mixed bills may generate little usable paperwork.
+* **Cover-heavy programming.** Venues may host performers playing songs written by others, increasing the importance of accurate reporting because the beneficiaries are often not on stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesNot sure how PRS turns setlists into royalties? Here&#x27;s a quick guide to how PRS colle...</span></span></span>
+
+These weaknesses do not necessarily mean that licence fees are not collected. The critical failure is that the collected money becomes disconnected from the underlying songs.
+
+<img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-2-dark.svg" | relative_url }}" alt="Black Box Gigs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How Missing Songs Make Later Allocation Harder
+
+A common misconception is that missing setlists only delay payment. In reality, missing data can permanently reduce allocation accuracy.
+
+Collecting societies can sometimes reconstruct performances using venue information, artist reports, historical patterns, sampling systems or manual investigations. However, reconstruction becomes harder as time passes and memories fade. An unsigned support act playing original material at a small venue may leave little trace beyond social media posts or a ticket listing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The challenge grows when multiple unknown works are involved. If a songwriter performs unreleased material, experimental compositions or newly written songs, there may be no commercially available recordings or public references to help identify what was played. Without a reported setlist, matching becomes substantially more difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">live performance royalties</span><span class="citation-popover-snippet">Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...1 Dec 2020 — If you perform original music, your Performing Rights...</span></span></span>
+
+This creates a cumulative effect:
+
+* One missing setlist may seem insignificant.
+* Thousands of missing setlists create large pools of uncertain data.
+* Large pools of uncertain data encourage greater reliance on estimates and proxies.
+* Independent writers become less visible within the distribution system.
+
+The administrative gap therefore scales from individual gigs to system-wide allocation problems.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YnScssbMPg0" title="How To Register Your Songs To Get Paid Royalties for Your Music | Lydia Walker | Rustic Songbird" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YnScssbMPg0" target="_blank" rel="noopener noreferrer">How To Register Your Songs To Get Paid Royalties for Your Music | Lydia Walker | Rustic Songbird</a></p><p class="youtube-embed-meta">Channel: Lydia Walker &middot; Views: 329 &middot; Uploaded: September 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YnScssbMPg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YnScssbMPg0">Open on YouTube</a></p></div></div></div>
+
+## Why Redistribution Methods Are Controversial
+
+When direct performance evidence is unavailable, collecting societies often rely on alternative allocation methods. These can include sampling, analogous distributions, historical patterns or broader market-share calculations. Such methods are intended to prevent money from remaining undistributed indefinitely, but they are controversial because they are approximations rather than direct measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
+
+Critics argue that proxy-based allocation can unintentionally favour better-documented repertoire and larger rightsholders. If the system knows much more about mainstream performances than about grassroots performances, the best-measured catalogues may receive a disproportionate share of money generated by poorly documented events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+
+Recent reporting on UK royalty disputes highlighted concerns that money collected from more than 100,000 gigs lacked sufficient song-level information for direct allocation, raising questions about how unassigned funds are ultimately redistributed. Critics contend that this creates a risk that grassroots activity subsidises larger catalogues, while collecting societies maintain that they use established processes and continue investing in better data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
+
+The debate is not simply about accounting. It is about whether the creators whose songs were actually performed receive payment, or whether imperfect information causes value to flow elsewhere.
+
+<img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-3-dark.svg" | relative_url }}" alt="Black Box Gigs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Grassroots Cost of Incomplete Reporting
+
+For a major songwriter with millions of streams, one missing pub gig may have little financial impact. For emerging writers, the effect can be more meaningful because grassroots performance income is built from many small payments rather than a few large ones.
+
+A songwriter who performs dozens of licensed venue shows each year may generate a steady stream of live royalties if performances are reported correctly. Organisations such as PRS, BMI, ASCAP and SOCAN all provide mechanisms for submitting live-performance information because they recognise that accurate reporting is necessary to connect performances to payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesNot sure how PRS turns setlists into royalties? Here&#x27;s a quick guide to how PRS colle...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+When those reports never arrive, the performance can effectively disappear from the royalty system. The venue may have paid. The audience may have heard the songs. The performance may have generated royalty value. Yet without reliable song-level data, the money risks becoming part of a broader unmatched pool rather than reaching the writers who created the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span>
+
+This is why missing setlists matter far beyond administrative convenience. At the grassroots level, they are one of the primary mechanisms by which genuine live-performance income can become black box royalty money.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CdPDN_uUEvc" title="3 How to Register Your Live Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CdPDN_uUEvc" target="_blank" rel="noopener noreferrer">3 How to Register Your Live Performances</a></p><p class="youtube-embed-meta">Channel: The Music Business Made Easy &middot; Views: 52 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CdPDN_uUEvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CdPDN_uUEvc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -404,15 +471,15 @@ For live music, the issue is often straightforward:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Style Indie 90s Band Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/45bb4ab36b291122b5ed.jpg' | relative_url }}" alt="Listing image for Retro Style Indie 90s Band Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Style Indie 90s Band Framed A Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -420,15 +487,15 @@ For live music, the issue is often straightforward:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Indie Rock Band Music Poster Print A4/A3 Wall Art Unframed Room Decor"><img src="{{ '/assets/images/marketplace-covers/ebd387efcb79cb1b4a5c.jpg' | relative_url }}" alt="Listing image for Indie Rock Band Music Poster Print A4/A3 Wall Art Unframed Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Indie Rock Band Music Poster Print A4/A3 Wall Art Unframed Room Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -436,15 +503,15 @@ For live music, the issue is often straightforward:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Framed Indie Band 90s Frame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ef73e5adf98aa00229dd.jpg' | relative_url }}" alt="Listing image for Vintage Framed Indie Band 90s Frame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Framed Indie Band 90s Frame Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -452,15 +519,15 @@ For live music, the issue is often straightforward:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kasabian Autographed Happening Event Poster Framed Indie Band Memorabilia"><img src="{{ '/assets/images/marketplace-covers/228b58bfc914bd487bc9.jpg' | relative_url }}" alt="Listing image for Kasabian Autographed Happening Event Poster Framed Indie Band Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kasabian Autographed Happening Event Poster Framed Indie Band Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for indie band poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: indie band poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,7 +535,7 @@ For live music, the issue is often straightforward:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=indie+band+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="indie band poster -book -books" data-ebay-reference="black-box-gigs-why-grassroots-gig-money-gets-lost-music-indie-band-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="why-grassroots-gig-money-gets-lost-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -679,191 +746,116 @@ For live music, the issue is often straightforward:
 </script>
 </section>
 
-2. Music is performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
-3. The songs played are not fully reported.
-4. The collecting society cannot confidently match the money to specific works.
-5. The money is held, estimated, or redistributed through alternative methods.
-
-</div>
-
-The result is that royalties generated by real performances may never reach the writers whose songs created the value in the first place.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YnScssbMPg0" title="How To Register Your Songs To Get Paid Royalties for Your Music | Lydia Walker | Rustic Songbird" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YnScssbMPg0" target="_blank" rel="noopener noreferrer">How To Register Your Songs To Get Paid Royalties for Your Music | Lydia Walker | Rustic Songbird</a></p><p class="youtube-embed-meta">Channel: Lydia Walker &middot; Views: 329 &middot; Uploaded: September 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YnScssbMPg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YnScssbMPg0">Open on YouTube</a></p></div></div></div>
-
-## Why Grassroots Venues Produce Weak Performance Data
-
-Large arena tours typically have professional production teams, fixed setlists, ticketing records and established reporting processes. [Grassroots venues]({{ 'grassroots/' | relative_url }}) often operate very differently.
-
-Many small shows involve changing line-ups, support acts, open-mic performers, cover bands, songwriter rounds or DJs. Setlists may be handwritten, altered on stage, lost after the event or never recorded at all. Artists may not know that reporting performances is necessary for royalty payments, especially early in their careers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</span></span></span>
-
-Several structural factors make grassroots reporting difficult:
-
-* **Limited administrative resources.** Small venues rarely employ dedicated staff to manage royalty reporting.
-* **High event volume.** Hundreds of small shows can occur across a region with minimal documentation.
-* **Frequent performer turnover.** New acts appear regularly, often without publishing knowledge or rights-management support.
-* **Informal performance environments.** Open mics, community events and mixed bills may generate little usable paperwork.
-* **Cover-heavy programming.** Venues may host performers playing songs written by others, increasing the importance of accurate reporting because the beneficiaries are often not on stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesNot sure how PRS turns setlists into royalties? Here&#x27;s a quick guide to how PRS colle...</span></span></span>
-
-These weaknesses do not necessarily mean that licence fees are not collected. The critical failure is that the collected money becomes disconnected from the underlying songs.
-
-
-<img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-2-dark.svg" | relative_url }}" alt="Black Box Gigs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How Missing Songs Make Later Allocation Harder
-
-A common misconception is that [missing setlists]({{ 'setlists/' | relative_url }}) only delay payment. In reality, missing data can permanently reduce allocation accuracy.
-
-Collecting societies can sometimes reconstruct performances using venue information, artist reports, historical patterns, sampling systems or manual investigations. However, reconstruction becomes harder as time passes and memories fade. An unsigned support act playing original material at a small venue may leave little trace beyond social media posts or a ticket listing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-The challenge grows when multiple unknown works are involved. If a songwriter performs unreleased material, experimental compositions or newly written songs, there may be no commercially available recordings or public references to help identify what was played. Without a reported setlist, matching becomes substantially more difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">live performance royalties</span><span class="citation-popover-snippet">Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...1 Dec 2020 — If you perform original music, your Performing Rights...</span></span></span>
-
-This creates a cumulative effect:
-
-* One missing setlist may seem insignificant.
-* Thousands of missing setlists create large pools of uncertain data.
-* Large pools of uncertain data encourage greater reliance on estimates and proxies.
-* Independent writers become less visible within the distribution system.
-
-The administrative gap therefore scales from individual gigs to system-wide allocation problems.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nShce3bHHTY" title="How to Get Paid From Free Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nShce3bHHTY" target="_blank" rel="noopener noreferrer">How to Get Paid From Free Performances</a></p><p class="youtube-embed-meta">Channel: J Nolan &middot; Views: 746 &middot; Uploaded: August 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nShce3bHHTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nShce3bHHTY">Open on YouTube</a></p></div></div></div>
-
-## Why Redistribution Methods Are Controversial
-
-When direct performance evidence is unavailable, collecting societies often rely on alternative allocation methods. These can include sampling, analogous distributions, historical patterns or broader market-share calculations. Such methods are intended to prevent money from remaining undistributed indefinitely, but they are controversial because they are approximations rather than direct measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
-
-Critics argue that proxy-based allocation can unintentionally favour better-documented repertoire and larger rightsholders. If the system knows much more about mainstream performances than about grassroots performances, the best-measured catalogues may receive a disproportionate share of money generated by poorly documented events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
-
-Recent reporting on UK royalty disputes highlighted concerns that money collected from more than 100,000 gigs lacked sufficient song-level information for direct allocation, raising questions about how unassigned funds are ultimately redistributed. Critics contend that this creates a risk that grassroots activity subsidises larger catalogues, while collecting societies maintain that they use established processes and continue investing in better data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
-
-The debate is not simply about accounting. It is about whether the creators whose songs were actually performed receive payment, or whether imperfect information causes value to flow elsewhere.
-
-
-<img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-3-dark.svg" | relative_url }}" alt="Black Box Gigs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The Grassroots Cost of Incomplete Reporting
-
-For a major songwriter with millions of streams, one missing pub gig may have little financial impact. For emerging writers, the effect can be more meaningful because grassroots performance income is built from many small payments rather than a few large ones.
-
-A songwriter who performs dozens of licensed venue shows each year may generate a steady stream of live royalties if performances are reported correctly. Organisations such as PRS, BMI, ASCAP and SOCAN all provide mechanisms for submitting live-performance information because they recognise that accurate reporting is necessary to connect performances to payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesNot sure how PRS turns setlists into royalties? Here&#x27;s a quick guide to how PRS colle...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-When those reports never arrive, the performance can effectively disappear from the royalty system. The venue may have paid. The audience may have heard the songs. The performance may have generated royalty value. Yet without reliable song-level data, the money risks becoming part of a broader unmatched pool rather than reaching the writers who created the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water &amp; Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-snippet">Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</span></span></span>
-
-This is why missing setlists matter far beyond administrative convenience. At the grassroots level, they are one of the primary mechanisms by which genuine live-performance income can become black box royalty money.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CdPDN_uUEvc" title="3 How to Register Your Live Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CdPDN_uUEvc" target="_blank" rel="noopener noreferrer">3 How to Register Your Live Performances</a></p><p class="youtube-embed-meta">Channel: The Music Business Made Easy &middot; Views: 52 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CdPDN_uUEvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CdPDN_uUEvc">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/special/bmi_live](https://www.bmi.com/special/bmi_live)  
+   Link: <a href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/special/bmi_live</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0308596124001149](https://www.sciencedirect.com/science/article/pii/S0308596124001149)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDigital transformation, blockchain, and the music industryby A Arenal · 2024 · Cited by 16 — This issue is popularly known a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0308596124001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0308596124001149</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital transformation, blockchain, and the music industryby A Arenal · 2024 · Cited by 16 — This issue is popularly known a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: copyright.gov  
    Title: unclaimed royalties final report  
-   Link: [https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf](https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf)  
+   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeUnclaimed Royalties: Best Practice Recommendations for...8 Jul 2021 — unclaimed accrued royalties for unmatched musical...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: waterandmusic.com  
-   Link: [https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/](https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/)  
+   Link: <a href="https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/understanding-music-rights-data-the-challenges-of-delivering-timely-royalty-payments-to-artists/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Water &amp; Musicthe challenges of delivering timely royalty payments to artists12 Apr 2021 — Those unclaimed royalties end up in a “black bo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances  
-   Link: [https://www.prsformusic.com/royalties/report-live-performances](https://www.prsformusic.com/royalties/report-live-performances)  
+   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReporting live performances - RoyaltiesNot sure how PRS turns setlists into royalties? Here&#x27;s a quick guide to how PRS colle...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionHow to Report Live Performances to PRS for Music8 Dec 2023 — Log into the PRS website · Click on Royalties, then select R...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aristake.com  
    Title: live performance royalties  
-   Link: [https://aristake.com/live-performance-royalties/](https://aristake.com/live-performance-royalties/)  
+   Link: <a href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/live-performance-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...1 Dec 2020 — If you perform original music, your Performing Rights...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/](https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/</a>  
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties](https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties)  
+   Link: <a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/](https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/)  
+   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicOur CEO Andrea Czapary Martin reflecting on Live royalties and the importance of setlist data to ensure songwriters get paid...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: musicradar.com  
-   Link: [https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report](https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report)  
+   Link: <a href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: llama-group.com  
-   Link: [https://www.llama-group.com/news/bridger-confirmed-as-cisac-rme-client-launches-its-expansion-into-global-offline-royalty-collection/](https://www.llama-group.com/news/bridger-confirmed-as-cisac-rme-client-launches-its-expansion-into-global-offline-royalty-collection/)  
+   Link: <a href="https://www.llama-group.com/news/bridger-confirmed-as-cisac-rme-client-launches-its-expansion-into-global-offline-royalty-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.llama-group.com/news/bridger-confirmed-as-cisac-rme-client-launches-its-expansion-into-global-offline-royalty-collection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridger, confirmed as CISAC RME Client, launches its...3 Mar 2026 — Our mission is clear: to ensure authors, composers, and publishers r...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lindacooganb.medium.com  
-   Link: [https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557](https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty Maze: Why So Many Artists Still Don&#x27;t Understand...A practical guide to publishing, performance royalties, [cover song licensing](&amp;#123;&amp;#123; &#x27;cover-songs-d042c1/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557" target="_blank" rel="noopener noreferrer nofollow">https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty Maze: Why So Many Artists Still Don&#x27;t Understand...A practical guide to publishing, performance royalties, cover song licensing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: djmag.com  
-   Link: [https://djmag.com/longreads/producers-are-losing-millions-royalties-every-year-%E2%80%93-heres-what-you-can-do-about-it](https://djmag.com/longreads/producers-are-losing-millions-royalties-every-year-%E2%80%93-heres-what-you-can-do-about-it)  
+   Link: <a href="https://djmag.com/longreads/producers-are-losing-millions-royalties-every-year-%E2%80%93-heres-what-you-can-do-about-it" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/longreads/producers-are-losing-millions-royalties-every-year-%E2%80%93-heres-what-you-can-do-about-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Producers are losing millions in royalties every year17 Sept 2019 — A lack of data, information, and will has left electronic music produ...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/](https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The songs don&#x27;t need to be recorded or released yet and it pays roughly $1-$2+ per original song...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: artists.spotify.com  
    Title: want to avoid lost royalties follow these important tips from the mmf  
-   Link: [https://artists.spotify.com/en/blog/want-to-avoid-lost-royalties-follow-these-important-tips-from-the-mmf](https://artists.spotify.com/en/blog/want-to-avoid-lost-royalties-follow-these-important-tips-from-the-mmf)  
+   Link: <a href="https://artists.spotify.com/en/blog/want-to-avoid-lost-royalties-follow-these-important-tips-from-the-mmf" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/want-to-avoid-lost-royalties-follow-these-important-tips-from-the-mmf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Follow These Important Tips...21 Mar 2022 — Understanding the complexities of song registration, rights management, and royalty collecti...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: recordoftheday.com  
    Title: claimy raises 15m to unlock the music industrys [missing royalties](&#123;&#123; 'missing-royalties/' | relative_url &#125;&#125;)  
-   Link: [https://www.recordoftheday.com/on-the-move/news-press/claimy-raises-15m-to-unlock-the-music-industrys-missing-royalties](https://www.recordoftheday.com/on-the-move/news-press/claimy-raises-15m-to-unlock-the-music-industrys-missing-royalties)  
+   Link: <a href="https://www.recordoftheday.com/on-the-move/news-press/claimy-raises-15m-to-unlock-the-music-industrys-missing-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/claimy-raises-15m-to-unlock-the-music-industrys-missing-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claimy raises €1.5 m to unlock the music industry&#x27;s missing...6 Oct 2025 — AI-powered platform will help solve the “black box issue”, de...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: digitalmusicnews.com  
    Title: global music publishing collections decline  
-   Link: [https://www.digitalmusicnews.com/2020/10/28/global-music-publishing-collections-decline/](https://www.digitalmusicnews.com/2020/10/28/global-music-publishing-collections-decline/)  
+   Link: <a href="https://www.digitalmusicnews.com/2020/10/28/global-music-publishing-collections-decline/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2020/10/28/global-music-publishing-collections-decline/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Publishing Collections Projected to Tank 35...28 Oct 2020 — CISAC has predicted that global music publishing collections wi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/](https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/)  
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>itting your live setlists when you perform? Are you collecting...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cisac.org  
    Title: cisac global collections report 2025  
-   Link: [https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025](https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025)  
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Nov 2025 — CISAC Global Collections Report 2025; Royalties collected for creators worldwide rose to a record €13.97 billion in 2024, a...</p></details>

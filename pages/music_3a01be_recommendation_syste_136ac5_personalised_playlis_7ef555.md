@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recommendation_syste_136ac5_mood_recommendations_563861
 - music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0
 tags:
-- music
+- music-3-a01-be
 - algorithms
 - playlist-loops
 keywords:
-- music
+- music-3-a01-be
 - algorithms
 - playlist-loops
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Personalised playlists make discovery easier, but repeated safe matches can turn variety into a smaller comfort zone.
 hero_summary: Personalised playlists make discovery easier, but repeated safe matches can turn variety into a smaller comfort zone.
 layout: default
 permalink: /playlist-loops/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /algorithms/
 nav_short_title: Playlist Loops
 title: Do personalised playlists make taste smaller?
-title_full: Do personalised playlists make taste smaller? | Algorithms
+title_full: Do personalised playlists make taste smaller?
 display_title_short: Playlist Loops
 display_title: Playlist Loops
 heading_title: Do personalised playlists make taste smaller?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Algorithms Help Or Narrow Music Discovery? | Music
+parent_title: Do Algorithms Help Or Narrow Music Discovery?
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: Do Algorithms Help Or Narrow Music Discovery?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How mood playlists changed music discovery
 up_link:
   basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /mood-matching/
   short_title: Mood Matching
   heading_title: How mood playlists changed music discovery
-date: '2026-06-09 07:45:03 '
+date: '2026-06-11 23:54:00 '
 header:
   og_image: /assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1.webp
@@ -268,15 +268,14 @@ image: /assets/images/music_3a01be_recommendation_syste_136ac5_personalised_play
 
 ## Introduction
 
-Personalised playlists are often presented as the ideal solution to [music]({{ 'music/' | relative_url }}) overload. Instead of searching through millions of tracks, listeners receive a stream of songs chosen specifically for them. This can make discovery feel effortless, but it also creates a subtle risk: the same systems that help people find new music can gradually reduce the range of music they hear.
-
+Personalised playlists are often presented as the ideal solution to music overload. Instead of searching through millions of tracks, listeners receive a stream of songs chosen specifically for them. This can make discovery feel effortless, but it also creates a subtle risk: the same systems that help people find new music can gradually reduce the range of music they hear.
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1-dark.svg" | relative_url }}" alt="Playlist Loops illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not that recommendation playlists never introduce anything new. Rather, they often optimise for the safest version of novelty—a song that is different enough to feel fresh but similar enough to minimise the chance of a skip. Over time, this can create a listening environment where familiar patterns are constantly reinforced and genuine [surprise]({{ 'surprise/' | relative_url }}) becomes less common. Research on [music recommendation]({{ 'algorithms-a7ef46/' | relative_url }}) systems repeatedly identifies a tension between relevance and diversity, with platforms often favouring engagement and satisfaction over exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> 2arXiv
+The problem is not that recommendation playlists never introduce anything new. Rather, they often optimise for the safest version of novelty—a song that is different enough to feel fresh but similar enough to minimise the chance of a skip. Over time, this can create a listening environment where familiar patterns are constantly reinforced and genuine [surprise]({{ 'surprise/' | relative_url }}) becomes less common. Research on music recommendation systems repeatedly identifies a tension between relevance and diversity, with platforms often favouring engagement and satisfaction over exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> 2arXiv
 
 ## How recommendation playlists learn from listening behaviour
 
-Personalised playlists are built from feedback. Every play, skip, save, repeat listen and playlist addition becomes a signal about what a listener might want next. The system then searches for tracks that resemble those signals, using combinations of collaborative filtering, audio analysis and behavioural similarity models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateMusic Personalization at SpotifyWe&#x27;ll dive deep into the workings of Discover Weekly, our marquee personalized playlist which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00521-024-10828-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkRevisiting recommender systems: an investigative surveyby OAS Ibrahim · 2025 · Cited by 31 — This paper provides a thorough...</span></span></span>
+Personalised playlists are built from feedback. Every play, skip, save, repeat listen and playlist addition becomes a signal about what a listener might want next. The system then searches for tracks that resemble those signals, using combinations of collaborative filtering, audio analysis and behavioural similarity models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Music Personalization at SpotifyWe&#x27;ll dive deep into the workings of Discover Weekly, our marquee personalized playlist which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00521-024-10828-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkRevisiting recommender systems: an investigative surveyby OAS Ibrahim · 2025 · Cited by 31 — This paper provides a thorough...</span></span></span>
 
 This approach works extremely well at identifying preferences. The challenge is that the system only knows what a listener has already revealed about themselves. If someone spends months listening to indie folk, the recommendation engine receives thousands of data points suggesting that indie folk is a safe choice. Even when it introduces new artists, those artists are likely to share characteristics with the existing listening profile.
 
@@ -289,7 +288,6 @@ The central mechanism behind narrowing habits is not repetition alone. It is rep
 A recommendation engine generally seeks to maximise the likelihood that a listener will continue listening. Songs that closely resemble previous favourites are statistically safer than radically different suggestions. When this process is repeated thousands of times, the listener receives a steady stream of music that sits near existing preferences.
 
 Several effects can emerge:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -304,9 +302,6 @@ Researchers studying recommender systems often refer to this tendency as a form 
 
 The result is not necessarily boredom. Many listeners enjoy the experience because recommendations continue to feel relevant. The issue is that relevance and variety are not the same thing. A listener may discover hundreds of songs while still exploring only a narrow portion of the musical landscape.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JPXgCGaqreA" title="I Switched From Spotify To Apple Music - Here&#x27;s What&#x27;s Different" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JPXgCGaqreA" target="_blank" rel="noopener noreferrer">I Switched From Spotify To Apple Music - Here&#x27;s What&#x27;s Different</a></p><p class="youtube-embed-meta">Channel: Jimmy Tries World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JPXgCGaqreA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JPXgCGaqreA">Open on YouTube</a></p></div></div></div>
-
 ## What the evidence suggests about shrinking diversity
 
 The question of whether recommendation systems actually reduce diversity has produced mixed findings, but several studies point to meaningful narrowing effects at the individual level.
@@ -315,8 +310,9 @@ Spotify researchers analysing listening behaviour found that recommendation syst
 
 A field experiment conducted on Spotify found an engagement-diversity trade-off. Personalised recommendations increased consumption, but they also reduced individual-level diversity of what users consumed. The researchers concluded that recommendation systems optimised primarily for engagement can make consumption more homogeneous within individual users even while increasing variety across the platform as a whole. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Other reviews of music recommendation research have similarly highlighted concerns about taste reinforcement and reduced exposure to unfamiliar music. Studies examining algorithmic curation frequently describe a tendency for recommendation systems to strengthen existing preferences, making it harder for listeners to encounter distant genres, scenes or cultural traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateMusic Personalization at SpotifyWe&#x27;ll dive deep into the workings of Discover Weekly, our marquee personalized playlist which...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateMusic Personalization at SpotifyWe&#x27;ll dive deep into the workings of Discover Weekly, our marquee personalized playlist which...</span></span></span>, the evidence is not one-sided. Some research finds that streaming platforms can broaden cultural consumption under certain conditions, and that the effects depend heavily on how diversity is measured. The important point is that narrowing habits are not inevitable, but they are a predictable outcome when recommendation systems prioritise behavioural similarity above exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sociologicalscience.com/download/vol_12/september/SocSci_v12_572to600.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sociologicalscience.com">[Sociological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sociologicalscience.com</span><span class="citation-popover-snippet">Sociological ScienceStreaming Platforms, Filter Bubbles, and Cultural...by S Coavoux · 2025 — We find a statistically significant positi...</span></span></span>
+Other reviews of music recommendation research have similarly highlighted concerns about taste reinforcement and reduced exposure to unfamiliar music. Studies examining algorithmic curation frequently describe a tendency for recommendation systems to strengthen existing preferences, making it harder for listeners to encounter distant genres, scenes or cultural traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Music Personalization at SpotifyWe&#x27;ll dive deep into the workings of Discover Weekly, our marquee personalized playlist which...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Music Personalization at SpotifyWe&#x27;ll dive deep into the workings of Discover Weekly, our marquee personalized playlist which...</span></span></span>, the evidence is not one-sided. Some research finds that streaming platforms can broaden cultural consumption under certain conditions, and that the effects depend heavily on how diversity is measured. The important point is that narrowing habits are not inevitable, but they are a predictable outcome when recommendation systems prioritise behavioural similarity above exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sociologicalscience.com/download/vol_12/september/SocSci_v12_572to600.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sociologicalscience.com">[Sociological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sociologicalscience.com</span><span class="citation-popover-snippet">Sociological ScienceStreaming Platforms, Filter Bubbles, and Cultural...by S Coavoux · 2025 — We find a statistically significant positi...</span></span></span>
 
+<img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-2-dark.svg" | relative_url }}" alt="Playlist Loops illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why playlist loops become self-reinforcing
 
 Once a listener begins relying heavily on personalised playlists, a feedback loop can develop.
@@ -325,14 +321,11 @@ The listener hears recommendations based on previous behaviour. Those recommenda
 
 This cycle can make personal taste appear more stable than it really is. Many listeners have interests they have never had the opportunity to discover because recommendation systems are better at identifying demonstrated preferences than latent ones.
 
-The effect is especially visible in [autoplay]({{ 'autoplay/' | relative_url }}) queues, personalised radio stations and continuously generated playlists. These features reduce the moments when a listener actively chooses what to hear. Instead of making deliberate jumps between styles, users are guided along paths the system predicts they will enjoy. Over time, those paths can become increasingly familiar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/insights/consumer-insights/chained-to-the-algorhythm-how-spotify-standardizes-our-listening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">chained to the algorhythm how spotify standardizes our listening</span><span class="citation-popover-snippet">The Decision LabAlgoRhythm: How Spotify Standardizes Listening | TDL18 Apr 2024 — Spotify&#x27;s feedback loop traps you inside of a filter bu...</span></span></span>
+The effect is especially visible in [autoplay]({{ 'autoplay/' | relative_url }}) queues, personalised radio stations and continuously generated playlists. These features reduce the moments when a listener actively chooses what to hear. Instead of making deliberate jumps between styles, users are guided along paths the system predicts they will enjoy. Over time, those paths can become increasingly familiar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/insights/consumer-insights/chained-to-the-algorhythm-how-spotify-standardizes-our-listening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">chained to the algorhythm how spotify standardizes our listening</span><span class="citation-popover-snippet">The Decision LabAlgoRhythm: How Spotify Standardizes Listening &#124; TDL18 Apr 2024 — Spotify&#x27;s feedback loop traps you inside of a filter bu...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-2-dark.svg" | relative_url }}" alt="Playlist Loops illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ways platforms and listeners can widen discovery
 
 The same research that identifies narrowing effects also points towards solutions.
-
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-3-dark.svg" | relative_url }}" alt="Playlist Loops illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Designing for exploration
@@ -341,23 +334,17 @@ Recommendation researchers increasingly argue that diversity and serendipity sho
 
 This is why many recommendation systems experiment with mechanisms that inject novelty into otherwise familiar playlists. The challenge is balancing surprise with satisfaction so that listeners remain engaged while still encountering genuinely new material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s86-Z-CbaHA" title="The Banach–Tarski Paradox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s86-Z-CbaHA" target="_blank" rel="noopener noreferrer">The Banach–Tarski Paradox</a></p><p class="youtube-embed-meta">Channel: Vsauce</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s86-Z-CbaHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s86-Z-CbaHA">Open on YouTube</a></p></div></div></div>
-
 ### Habits that break the loop
 
 Listeners also have more influence than they may realise. A few behaviours can dramatically increase variety:
 
 * Alternate between personalised playlists and manual exploration.
 * Follow artists, labels or local scenes outside usual genres.
-* Use [editorial playlists]({{ 'editorial-adds/' | relative_url }}) alongside algorithmic ones.
+* Use editorial playlists alongside algorithmic ones.
 * Occasionally listen through complete [albums]({{ 'albums/' | relative_url }}) rather than endless recommendation feeds.
 * Search deliberately for unfamiliar genres, countries or eras.
 
 These actions create new behavioural signals that recommendation systems can learn from, making future suggestions more varied.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6qU1sDBU9Cs" title="The Terrible Paradox of Self-Awareness | Fernando Pessoa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6qU1sDBU9Cs" target="_blank" rel="noopener noreferrer">The Terrible Paradox of Self-Awareness | Fernando Pessoa</a></p><p class="youtube-embed-meta">Channel: Pursuit of Wonder</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6qU1sDBU9Cs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6qU1sDBU9Cs">Open on YouTube</a></p></div></div></div>
 
 ## Do personalised playlists make taste smaller?
 
@@ -482,15 +469,15 @@ Personalised playlists excel at reducing friction and maintaining relevance. Yet
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Playlist Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ZDAAAeSwXgJpiOFc/s-l225.jpg" alt="Listing image for Retro Playlist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Playlist Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for playlist wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: playlist wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +485,15 @@ Personalised playlists excel at reducing friction and maintaining relevance. Yet
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playlist Posters &amp; Prints Volume 2 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Z0QAAeSwH0Np1TNK/s-l225.jpg" alt="Listing image for Playlist Posters &amp; Prints Volume 2 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer">Playlist Posters &amp; Prints Volume 2 Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for playlist wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: playlist wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +501,15 @@ Personalised playlists excel at reducing friction and maintaining relevance. Yet
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Playlist 50 Gangsta Rap 50 Disne Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/en0AAeSw1kZoc45n/s-l225.jpg" alt="Listing image for My Playlist 50 Gangsta Rap 50 Disne Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer">My Playlist 50 Gangsta Rap 50 Disne Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for playlist wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: playlist wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +517,15 @@ Personalised playlists excel at reducing friction and maintaining relevance. Yet
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playlist Posters &amp; Prints Volume 1 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/MD0AAeSwKnpp1~Zd/s-l225.jpg" alt="Listing image for Playlist Posters &amp; Prints Volume 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer">Playlist Posters &amp; Prints Volume 1 Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for playlist wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: playlist wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +533,7 @@ Personalised playlists excel at reducing friction and maintaining relevance. Yet
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="playlist-loops-do-personalised-playlists-make-taste-smaller-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=playlist+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-personalised-playlists-make-taste-smaller-playlist-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="playlist wall art" data-ebay-reference="do-personalised-playlists-make-taste-smaller-playlist-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,181 +748,181 @@ Personalised playlists excel at reducing friction and maintaining relevance. Yet
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.08203](https://arxiv.org/abs/2003.08203)  
+   Link: <a href="https://arxiv.org/abs/2003.08203" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.08203</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1812.03226](https://arxiv.org/abs/1812.03226)  
+   Link: <a href="https://arxiv.org/abs/1812.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1812.03226</a>  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify](https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateMusic Personalization at SpotifyWe&#x27;ll dive deep into the workings of [Discover Weekly](&amp;#123;&amp;#123; &#x27;discover-weekly/&#x27; | relative_url &amp;#125;&amp;#125;), our marquee personalized playlist which...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307573833_Music_Personalization_at_Spotify</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Personalization at SpotifyWe&#x27;ll dive deep into the workings of [Discover Weekly](&amp;#123;&amp;#123; &#x27;discover-weekly/&#x27; | relative_url &amp;#125;&amp;#125;), our marquee personalized playlist which...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00521-024-10828-5](https://link.springer.com/article/10.1007/s00521-024-10828-5)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00521-024-10828-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00521-024-10828-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkRevisiting recommender systems: an investigative surveyby OAS Ibrahim · 2025 · Cited by 31 — This paper provides a thorough...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1311.6355](https://arxiv.org/abs/1311.6355)  
+   Link: <a href="https://arxiv.org/abs/1311.6355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1311.6355</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[1311.6355] Exploration in Interactive Personalized Music...by X Wang · 2013 · Cited by 215 — This paper presents a new approach to musi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jads.nl  
    Title: netflix spotify and the evolution of recommender algorithms  
-   Link: [https://www.jads.nl/news/netflix-spotify-and-the-evolution-of-recommender-algorithms/](https://www.jads.nl/news/netflix-spotify-and-the-evolution-of-recommender-algorithms/)  
+   Link: <a href="https://www.jads.nl/news/netflix-spotify-and-the-evolution-of-recommender-algorithms/" target="_blank" rel="noopener noreferrer nofollow">https://www.jads.nl/news/netflix-spotify-and-the-evolution-of-recommender-algorithms/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix, Spotify and the evolution of recommender algorithms25 Aug 2023 — This prevents users from slipping into a so-called “filter bubb...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: [https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify](https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateEffects of algorithmic curation in users&#x27; music taste on Spotify15 Mar 2026 — This study addresses the potential impact of re...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify15 Mar 2026 — This study addresses the potential impact of re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems](https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems)  
+   Link: <a href="https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[3] found that following Spotify&#x27;s recommendations reduced the diversity of the users&#x27; listening lists (see also [8]) and that users...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/388659001_Reframing_the_filter_bubble_through_diverse_scale_effects_in_online_music_consumption](https://www.researchgate.net/publication/388659001_Reframing_the_filter_bubble_through_diverse_scale_effects_in_online_music_consumption)  
+   Link: <a href="https://www.researchgate.net/publication/388659001_Reframing_the_filter_bubble_through_diverse_scale_effects_in_online_music_consumption" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388659001_Reframing_the_filter_bubble_through_diverse_scale_effects_in_online_music_consumption</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reframing the filter bubble through diverse scale...The contribution of this work focuses on appraising the interpretability of an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.00592](https://arxiv.org/abs/2212.00592)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAssessing the Impact of Music Recommendation Diversity on Listeners: A Longitudinal StudyDecember 1, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2212.00592" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.00592</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Impact of Music Recommendation Diversity on Listeners: A Longitudinal StudyDecember 1, 2022...</p></details>
    Published: December 1, 2022  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 387217872 Diversity and Serendipity Preference Aware Recommender System  
-   Link: [https://www.researchgate.net/publication/387217872_Diversity_and_Serendipity_Preference-Aware_Recommender_System](https://www.researchgate.net/publication/387217872_Diversity_and_Serendipity_Preference-Aware_Recommender_System)  
+   Link: <a href="https://www.researchgate.net/publication/387217872_Diversity_and_Serendipity_Preference-Aware_Recommender_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387217872_Diversity_and_Serendipity_Preference-Aware_Recommender_System</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Diversity and Serendipity Preference-Aware...Jul 8, 2024 — Diversity and novelty are essential objectives in recommender systems t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 386149700 Music Recommendation System on Spotify Using Deep Learning  
-   Link: [https://www.researchgate.net/publication/386149700_Music_Recommendation_System_on_Spotify_Using_Deep_Learning](https://www.researchgate.net/publication/386149700_Music_Recommendation_System_on_Spotify_Using_Deep_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/386149700_Music_Recommendation_System_on_Spotify_Using_Deep_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386149700_Music_Recommendation_System_on_Spotify_Using_Deep_Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4. Contextual Bandits: Approaches that Spotify. may use to balance exploration (new music) with. exploitation (music...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/345442009_Personalized_Recommendations_for_Music_Genre_Exploration](https://www.researchgate.net/publication/345442009_Personalized_Recommendations_for_Music_Genre_Exploration)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020) explored the effect of [music recommendations](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;) on users&#x27; playlist creation behavior and found that users with high...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/345442009_Personalized_Recommendations_for_Music_Genre_Exploration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345442009_Personalized_Recommendations_for_Music_Genre_Exploration</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020) explored the effect of music recommendations on users&#x27; playlist creation behavior and found that users with high...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 341126150 Algorithmic Effects on the Diversity of Consumption on Spotify  
-   Link: [https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify](https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify)  
+   Link: <a href="https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2020) provide cleaner evidence: Spotify&#x27;s Discover Weekly increased consumption but reduced genre diversity by 12% over six...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2003.08203](https://arxiv.org/pdf/2003.08203)  
+   Link: <a href="https://arxiv.org/pdf/2003.08203" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2003.08203</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>filter bubble: the effect of using recommender systems on content diversity. Proceedings of the 23rd international conference on. World w...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2511.16478](https://arxiv.org/html/2511.16478)  
+   Link: <a href="https://arxiv.org/html/2511.16478" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.16478</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In Proceedings of the Fifth ACM Conference on Recommender Systems.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: spotify.com  
-   Link: [https://www.spotify.com/uk/signup](https://www.spotify.com/uk/signup)  
+   Link: <a href="https://www.spotify.com/uk/signup" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/signup</a>  
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11042-024-19505-0](https://link.springer.com/article/10.1007/s11042-024-19505-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11042-024-19505-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11042-024-19505-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ethical recommendation system based on friend&#x27;s preferred...by M Furini · 2025 · Cited by 9 — Our proposed music recommendation mechanis...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13735-017-0118-y](https://link.springer.com/article/10.1007/s13735-017-0118-y)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13735-017-0118-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13735-017-0118-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>country-specific music preferences and music...by M Schedl · 2017 · Cited by 225 — We further illustrate how to exploit the dataset for...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify](https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify)  
+   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sociologicalscience.com  
-   Link: [https://sociologicalscience.com/download/vol_12/september/SocSci_v12_572to600.pdf](https://sociologicalscience.com/download/vol_12/september/SocSci_v12_572to600.pdf)  
+   Link: <a href="https://sociologicalscience.com/download/vol_12/september/SocSci_v12_572to600.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sociologicalscience.com/download/vol_12/september/SocSci_v12_572to600.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological ScienceStreaming Platforms, Filter Bubbles, and Cultural...by S Coavoux · 2025 — We find a statistically significant positi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thedecisionlab.com  
    Title: chained to the algorhythm how spotify standardizes our listening  
-   Link: [https://thedecisionlab.com/insights/consumer-insights/chained-to-the-algorhythm-how-spotify-standardizes-our-listening](https://thedecisionlab.com/insights/consumer-insights/chained-to-the-algorhythm-how-spotify-standardizes-our-listening)  
+   Link: <a href="https://thedecisionlab.com/insights/consumer-insights/chained-to-the-algorhythm-how-spotify-standardizes-our-listening" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/insights/consumer-insights/chained-to-the-algorhythm-how-spotify-standardizes-our-listening</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAlgoRhythm: How Spotify Standardizes Listening | TDL18 Apr 2024 — Spotify&#x27;s feedback loop traps you inside of a filter bu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: research.atspotify.com  
    Title: calibrated recommendations with contextual bandits on spotify homepage  
-   Link: [https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage](https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage)  
+   Link: <a href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exploration and exploitation. For more details about this work please refer our paper: Calibrated Recommendations with Contextual Bandits...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: research.google  
-   Link: [https://research.google/pubs/values-of-exploration-in-recommender-systems/](https://research.google/pubs/values-of-exploration-in-recommender-systems/)  
+   Link: <a href="https://research.google/pubs/values-of-exploration-in-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/pubs/values-of-exploration-in-recommender-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecommendation quality that more directly impact user experience.Read more...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: thesis.eur.nl  
-   Link: [https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf](https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>they Discover Weekly your taste?Therefore, this thesis aims to analyse whether the differences in Spotify usage have an impact on the per...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: keentolearn.medium.com  
-   Link: [https://keentolearn.medium.com/7-ways-how-spotifys-algorithm-delivers-personalized-music-recommendations-ebfbc934d90f](https://keentolearn.medium.com/7-ways-how-spotifys-algorithm-delivers-personalized-music-recommendations-ebfbc934d90f)  
+   Link: <a href="https://keentolearn.medium.com/7-ways-how-spotifys-algorithm-delivers-personalized-music-recommendations-ebfbc934d90f" target="_blank" rel="noopener noreferrer nofollow">https://keentolearn.medium.com/7-ways-how-spotifys-algorithm-delivers-personalized-music-recommendations-ebfbc934d90f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.com7 ways How Spotify&#x27;s Algorithm Delivers Personalized Music...One challenge is the “filter bubble” effect, where the algorithm...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fairmuse.eu  
-   Link: [https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf](https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf)  
+   Link: <a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gorithms (recommender systems in particular) and playlists&#x27; design on consumption, by paying special...Read mor...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: beckyxzhang.github.io  
-   Link: [https://beckyxzhang.github.io/paper](https://beckyxzhang.github.io/paper)  
+   Link: <a href="https://beckyxzhang.github.io/paper" target="_blank" rel="noopener noreferrer nofollow">https://beckyxzhang.github.io/paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the diversity-accuracy dilemma of Spotify&#x27;s...May 13, 2021 — In this paper, we explore how different algorithms impact accurac...</p></details>
    Published: May 13, 2021  
 
 29. <a id="endnote-29"></a>
    Source: illumin.usc.edu  
    Title: algorithmic symphonies how spotify strikes the right chord  
-   Link: [https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/](https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/)  
+   Link: <a href="https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/" target="_blank" rel="noopener noreferrer nofollow">https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Symphonies: How Spotify Strikes the Right Chord21 Jan 2024 — This article explores Spotify&#x27;s recommendation algorithm, including how it h...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: music-tomorrow.com  
    Title: fairness and diversity in music recommendation algorithms  
-   Link: [https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms](https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms)  
+   Link: <a href="https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/fairness-and-diversity-in-music-recommendation-algorithms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are music recommendation algorithms fair to emerging...21 Sept 2021 — In today&#x27;s piece, we&#x27;ll go through the main elements of this probl...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 55 — The impact of streaming platforms on musical pro...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ethos.itu.dk  
    Title: a foray into the world of music recommender systems  
-   Link: [https://ethos.itu.dk/a-foray-into-the-world-of-music-recommender-systems/](https://ethos.itu.dk/a-foray-into-the-world-of-music-recommender-systems/)  
+   Link: <a href="https://ethos.itu.dk/a-foray-into-the-world-of-music-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow">https://ethos.itu.dk/a-foray-into-the-world-of-music-recommender-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>foray into the world of music recommender systems10 Jul 2023 — The impact of algorithmically driven recommendation systems on music consu...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: transactions.ismir.net  
-   Link: [https://transactions.ismir.net/articles/10.5334/tismir.106](https://transactions.ismir.net/articles/10.5334/tismir.106)  
+   Link: <a href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow">https://transactions.ismir.net/articles/10.5334/tismir.106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — Exploring the...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40myliemudaliyar/behind-the-playlist-analyzing-spotifys-recommendation-system-5044a13f5ccf](https://medium.com/%40myliemudaliyar/behind-the-playlist-analyzing-spotifys-recommendation-system-5044a13f5ccf)  
+   Link: <a href="https://medium.com/%40myliemudaliyar/behind-the-playlist-analyzing-spotifys-recommendation-system-5044a13f5ccf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40myliemudaliyar/behind-the-playlist-analyzing-spotifys-recommendation-system-5044a13f5ccf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ith exploitation (recommending content similar to what the user...Read more...</p></details>

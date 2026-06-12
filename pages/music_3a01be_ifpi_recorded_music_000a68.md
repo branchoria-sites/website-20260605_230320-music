@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - ifpi-data
 keywords:
-- music
+- music-3-a01-be
 - ifpi-data
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: IFPI market figures show recorded music revenue, streaming subscriptions and format shifts across the global industry.
 hero_summary: IFPI market figures show recorded music revenue, streaming subscriptions and format shifts across the global industry.
 layout: default
 permalink: /ifpi-data/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: IFPI Data
 title: What Global Music Revenue Numbers Show
-title_full: What Global Music Revenue Numbers Show | Music
+title_full: What Global Music Revenue Numbers Show
 display_title_short: IFPI Data
 display_title: IFPI Data
 heading_title: What Global Music Revenue Numbers Show
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 next_link:
   basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
-date: '2026-06-09 06:11:15 '
+date: '2026-06-11 23:05:55 '
 header:
   og_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68-overview-social.jpg
   preview_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/music_3a01be_ifpi_recorded_music_000a68-overview-social.jp
 
 ## Introduction
 
-IFPI measures recorded music growth by tracking the money generated by recorded music across [formats]({{ 'formats/' | relative_url }}), markets and regions, then comparing those figures with previous calendar years. Its headline figure is not “all music income” and not what every artist personally receives; it is a recorded-music industry revenue measure built from label-supplied data, national industry verification, format categories and currency conversion. In the 2026 Global Music Report, IFPI said global recorded music revenues reached US$31.7 billion in 2025, up 6.4%, marking the eleventh consecutive year of growth. [Paid streaming]({{ 'paid-streaming/' | relative_url }}) was the central driver: subscription streaming grew 8.8%, represented 52.4% of global recorded music revenues, and helped lift paid subscription account users to 837 million worldwide. Those numbers show the recorded sector’s recovery and expansion, but they also need careful reading because headline growth can hide regional differences, format volatility, exchange-rate effects, and unresolved questions about how revenue reaches artists and songwriters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
-
+IFPI measures recorded music growth by tracking the money generated by recorded music across [formats]({{ 'formats/' | relative_url }}), markets and regions, then comparing those figures with previous calendar years. Its headline figure is not “all music income” and not what every artist personally receives; it is a recorded-music industry revenue measure built from label-supplied data, national industry verification, format categories and currency conversion. In the 2026 Global Music Report, IFPI said global recorded music revenues reached US$31.7 billion in 2025, up 6.4%, marking the eleventh consecutive year of growth. [Paid streaming]({{ 'paid-streaming/' | relative_url }}) was the central driver: subscription streaming grew 8.8%, represented 52.4% of global recorded music revenues, and helped lift paid subscription account users to 837 million worldwide. Those numbers show the recorded sector’s recovery and expansion, but they also need careful reading because headline growth can hide regional differences, format volatility, exchange-rate effects, and unresolved questions about how revenue reaches artists and songwriters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-overview.webp" | relative_url }}" alt="Overview image for IFPI Data" loading="eager" decoding="sync" fetchpriority="high">
 ## What IFPI Is Actually Measuring
@@ -513,8 +512,6 @@ The 2026 report’s own notes describe the data base behind the figures. IFPI sa
 
 The main measurement unit is revenue by calendar year. IFPI reports global totals, regional totals, country rankings and format categories such as streaming, [physical]({{ 'physical/' | relative_url }}), downloads and other digital, performance [rights]({{ 'rights/' | relative_url }}) and synchronisation. The 2026 premium report is described by IFPI as covering calendar year 2025 and providing five years of data from 2021 to 2025, which is why the figures are useful for trend analysis rather than just one-year headlines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmr.ifpi.org">[gmr.ifpi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmr.ifpi.org</span><span class="citation-popover-title">about report</span><span class="citation-popover-snippet">about report</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-1-dark.svg" | relative_url }}" alt="IFPI Data illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Recorded Revenue and Market Growth
 
 The headline growth number answers a simple question: how much more recorded music revenue was generated than in the previous year? For 2025, IFPI’s answer was US$31.7 billion, up 6.4% on 2024. This followed 2024 revenue of US$29.6 billion, up 4.8%, and 2023 revenue of US$28.6 billion, up 10.2%. Read together, those figures show a market still growing, but not at a constant speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming boosts global music revenues once again 2025 report shows 2026 03 18</span><span class="citation-popover-snippet">IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</span></span></span>
@@ -523,9 +520,7 @@ IFPI’s year-on-year growth rate is especially useful because it compresses tho
 
 The same data can also show where growth is concentrated. The USA and Canada remained the largest recorded-music region in 2025, holding 38.7% of global revenues and growing 3.5%. Europe grew 5.6% and accounted for 30.4% of global revenues. Asia grew 10.9%, helped by Japan returning to growth and China becoming the fourth-largest global market. These details matter because a healthy global number can be driven by very different local stories: mature subscription markets in North America, high physical demand in parts of Asia, and rapid streaming adoption in Latin America, the Middle East and Africa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">Open source on ifpi.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mSpfNMdoCis" title="What is driving growth in the music recording industry? | IFPI | The Big Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mSpfNMdoCis" target="_blank" rel="noopener noreferrer">What is driving growth in the music recording industry? | IFPI | The Big Question</a></p><p class="youtube-embed-meta">Channel: euronews &middot; Views: 1.0K &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mSpfNMdoCis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mSpfNMdoCis">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-1-dark.svg" | relative_url }}" alt="IFPI Data illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Streaming Subscriptions and Paid Access
 
 Paid streaming has become the central evidence line in IFPI’s growth story. In 2025, total streaming revenues surpassed US$22 billion and accounted for 69.6% of global recorded music income. Within that, paid subscription streaming grew 8.8% and represented 52.4% of all recorded music revenue. IFPI also counted 837 million users of paid streaming subscription accounts globally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR 2024 State of the Industry</span><span class="citation-popover-snippet">GMR 2024 State of the Industry</span></span></span>
@@ -534,8 +529,6 @@ That subscription figure is not just a consumer-adoption statistic. It explains 
 
 The subscription line also helps distinguish paid [access]({{ 'access/' | relative_url }}) from ad-supported listening. IFPI reports total streaming as a combined category, but it separately highlights subscription streaming because paid access carries most of the sector’s revenue growth. In 2024, Reuters reported that streaming subscriptions rose 10.6% to 752 million users, while paid subscription revenue grew 9.5% and ad-supported formats rose only 1.2%. In 2025, the global subscription account-user figure rose again to 837 million, showing continued expansion but also raising questions about how much further mature markets can grow without price rises, new bundles or deeper penetration in emerging markets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-2-dark.svg" | relative_url }}" alt="IFPI Data illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Format Shifts Are Part of the Measurement
 
 IFPI’s growth data is not a single streaming chart. It is a format map showing how recorded music revenue moves between different channels. The core categories include streaming, physical formats, downloads and other digital revenue, performance rights and synchronisation. This matters because a headline revenue increase may come from one format compensating for weakness in another.
@@ -546,9 +539,7 @@ The previous year shows the opposite side of that volatility. In 2024, global re
 
 This is why IFPI’s format categories are useful for interpretation. A market can be growing because more people subscribe to streaming, because vinyl demand is rising, because performance-rights income has recovered, or because several smaller categories are moving at once. The headline total tells the size of the market; the format breakdown explains its shape.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G0OP525STto" title="How Live Nation Is Devouring the Live Music Industry | WSJ The Economics Of" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G0OP525STto" target="_blank" rel="noopener noreferrer">How Live Nation Is Devouring the Live Music Industry | WSJ The Economics Of</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G0OP525STto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G0OP525STto">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-2-dark.svg" | relative_url }}" alt="IFPI Data illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Headline Numbers Can Hide
 
 IFPI’s figures are powerful because they make global comparison possible, but they are not a complete picture of music’s economic health. The first limitation is that global recorded revenue is not the same as artist income. Reuters noted in its 2026 coverage that IFPI’s report gave revenue figures but did not disclose how much of that income is shared with artists. That distinction is essential: recorded music revenue may rise while individual outcomes vary sharply by contract, repertoire ownership, catalogue age, territory, playlist performance and bargaining power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming boosts global music revenues once again 2025 report shows 2026 03 18</span><span class="citation-popover-snippet">IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</span></span></span>
@@ -561,13 +552,13 @@ The fourth limitation is that streaming volume is not the same as streaming valu
 
 Finally, the data can hide quality and integrity problems inside apparently healthy growth. IFPI’s 2026 release explicitly warned about streaming fraud, arguing that artificially generated plays for manipulated or fake content divert revenue from legitimate artists and distort the market. That warning matters because modern growth is measured through digital systems where usage data, licensing income and recommendation systems are closely linked. A larger streaming market is not automatically a cleaner or more equitable market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gmr.ifpi.org/downloads/GMR2026_Methodology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmr.ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmr.ifpi.org</span><span class="citation-popover-title">GMR2026 Methodology</span><span class="citation-popover-snippet">GMR2026 Methodology</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mSpfNMdoCis" title="What is driving growth in the music recording industry? | IFPI | The Big Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mSpfNMdoCis" target="_blank" rel="noopener noreferrer">What is driving growth in the music recording industry? | IFPI | The Big Question</a></p><p class="youtube-embed-meta">Channel: euronews &middot; Views: 1.0K &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mSpfNMdoCis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mSpfNMdoCis">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-3-dark.svg" | relative_url }}" alt="IFPI Data illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Read IFPI Numbers Well
 
 The best way to read IFPI’s recorded music figures is to separate four questions that often get blurred together.
 
-First, ask what grew. Was the increase driven by paid streaming, ad-supported streaming, vinyl, public-performance revenue, synchronisation, or regional expansion? In 2025, paid streaming was the dominant driver, but physical growth and regional gains also mattered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
+First, ask what grew. Was the increase driven by paid streaming, ad-supported streaming, vinyl, public-performance revenue, synchronisation, or regional expansion? In 2025, paid streaming was the dominant driver, but physical growth and regional gains also mattered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
 
 Second, ask where the growth happened. Global growth of 6.4% in 2025 contained slower growth in the largest region, USA and Canada, and much faster growth in Latin America, the Middle East and North Africa, Sub-Saharan Africa and Asia. This shows a maturing subscription economy in some markets and continuing expansion in others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmr.ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmr.ifpi.org</span><span class="citation-popover-title">about report</span><span class="citation-popover-snippet">about report</span></span></span>
 
@@ -577,9 +568,7 @@ Fourth, ask what comparison is being made. IFPI’s global figures are most usef
 
 IFPI’s numbers show that recorded music has moved from post-piracy recovery into a streaming-led global growth era. The most useful reading is neither celebration nor dismissal. The figures show a larger, more international and more subscription-dependent recorded music market; they do not, by themselves, prove that every artist, songwriter or local scene is benefiting equally.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAC6WUZ0WNs" title="The impact of the rise of streaming services on the music industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAC6WUZ0WNs" target="_blank" rel="noopener noreferrer">The impact of the rise of streaming services on the music industry</a></p><p class="youtube-embed-meta">Channel: TechTalk by ChatVariety</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAC6WUZ0WNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAC6WUZ0WNs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-3-dark.svg" | relative_url }}" alt="IFPI Data illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ifpi_recorded_music_000a68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -698,15 +687,15 @@ IFPI’s numbers show that recorded music has moved from post-piracy recovery in
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches"><img src="{{ '/assets/images/marketplace-covers/7f34e612858ce96cd4e3.jpg' | relative_url }}" alt="Listing image for Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish music wall art prints album songs posters A2 A3 A4 8x10 inches</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -714,15 +703,15 @@ IFPI’s numbers show that recorded music has moved from post-piracy recovery in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Notes Wall Art Sticker, Decal living room UK SH94"><img src="{{ '/assets/images/marketplace-covers/7ebec7c59a68bb0ae3e8.jpg' | relative_url }}" alt="Listing image for Music Notes Wall Art Sticker, Decal living room UK SH94" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Music Notes Wall Art Sticker, Decal living room UK SH94</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -730,15 +719,15 @@ IFPI’s numbers show that recorded music has moved from post-piracy recovery in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -746,15 +735,15 @@ IFPI’s numbers show that recorded music has moved from post-piracy recovery in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: music wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -762,7 +751,7 @@ IFPI’s numbers show that recorded music has moved from post-piracy recovery in
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music wall art" data-ebay-reference="ifpi-data-what-global-music-revenue-numbers-show-music-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-global-music-revenue-numbers-show-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -977,176 +966,176 @@ IFPI’s numbers show that recorded music has moved from post-piracy recovery in
 
 1. <a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPIGLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</p></details>
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/](https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wipo.int  
    Title: IFPI looks at a decade of digital transformation in the music industry  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661](https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661)  
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
 
 4. <a id="endnote-4"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: [https://gmr.ifpi.org/about-report](https://gmr.ifpi.org/about-report)  
+   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
 
 5. <a id="endnote-5"></a>
    Source: globalmusicreport.ifpi.org  
    Title: Frequently Asked Questions  
-   Link: [https://globalmusicreport.ifpi.org/faq](https://globalmusicreport.ifpi.org/faq)  
+   Link: <a href="https://globalmusicreport.ifpi.org/faq" target="_blank" rel="noopener noreferrer nofollow">https://globalmusicreport.ifpi.org/faq</a>  
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/](https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: streaming subscriptions boost 2023 recorded music revenues report 2024 03 21  
-   Link: [https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/](https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-subscriptions-boost-2023-recorded-music-revenues-report-2024-03-21/</a>  
 
 8. <a id="endnote-8"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/](https://www.riaa.com/reports/)  
+   Link: <a href="https://www.riaa.com/reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/</a>  
 
 9. <a id="endnote-9"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf](https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
    Title: Music and streaming market study  
-   Link: [https://www.gov.uk/cma-cases/music-and-streaming-market-study](https://www.gov.uk/cma-cases/music-and-streaming-market-study)  
+   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
 
 11. <a id="endnote-11"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/music-and-streaming-market-study-update-paper/executive-summary](https://www.gov.uk/government/publications/music-and-streaming-market-study-update-paper/executive-summary)  
+   Link: <a href="https://www.gov.uk/government/publications/music-and-streaming-market-study-update-paper/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-and-streaming-market-study-update-paper/executive-summary</a>  
 
 12. <a id="endnote-12"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/](https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/)  
+   Link: <a href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/</a>  
 
 15. <a id="endnote-15"></a>
    Source: ifpi.org  
    Title: GMR 2024 State of the Industry  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: ifpi.org  
    Title: Global Music Report 2023 State of the Industry  
-   Link: [https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf](https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: gmr.ifpi.org  
    Title: GMR 2026 Contents  
-   Link: [https://gmr.ifpi.org/downloads/GMR%202026_Contents.pdf](https://gmr.ifpi.org/downloads/GMR%202026_Contents.pdf)  
+   Link: <a href="https://gmr.ifpi.org/downloads/GMR%202026_Contents.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/downloads/GMR%202026_Contents.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: gmr.ifpi.org  
    Title: GMR2026 Methodology  
-   Link: [https://gmr.ifpi.org/downloads/GMR2026_Methodology.pdf](https://gmr.ifpi.org/downloads/GMR2026_Methodology.pdf)  
+   Link: <a href="https://gmr.ifpi.org/downloads/GMR2026_Methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/downloads/GMR2026_Methodology.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/](https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
 
 20. <a id="endnote-20"></a>
    Source: riaa.com  
    Title: 2025 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/</a>  
 
 21. <a id="endnote-21"></a>
    Source: riaa.com  
    Title: 2025 mid year music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/</a>  
 
 22. <a id="endnote-22"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/](https://www.riaa.com/)  
+   Link: <a href="https://www.riaa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/</a>  
 
 23. <a id="endnote-23"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/u-s-sales-database/](https://www.riaa.com/u-s-sales-database/)  
+   Link: <a href="https://www.riaa.com/u-s-sales-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/u-s-sales-database/</a>  
 
 24. <a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Music and streaming  
-   Link: [https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf](https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Music and streaming final report executive  
-   Link: [https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf](https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384edb7e90e07789ae1271c/Music_and_streaming_final_report_executive_summary.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: GOV.UK  
    Title: music and streaming market study final report  
-   Link: [https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report](https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report)  
+   Link: <a href="https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report</a>  
 
 27. <a id="endnote-27"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research IFPI confirms global recorded music revenue growth  
-   Link: [https://www.midiaresearch.com/blog/ifpi-confirms-global-recorded-music-revenue-growth](https://www.midiaresearch.com/blog/ifpi-confirms-global-recorded-music-revenue-growth)  
+   Link: <a href="https://www.midiaresearch.com/blog/ifpi-confirms-global-recorded-music-revenue-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/ifpi-confirms-global-recorded-music-revenue-growth</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchguides.library.syr.edu  
-   Link: [https://researchguides.library.syr.edu/music/data](https://researchguides.library.syr.edu/music/data)  
+   Link: <a href="https://researchguides.library.syr.edu/music/data" target="_blank" rel="noopener noreferrer nofollow">https://researchguides.library.syr.edu/music/data</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/content/05ea07dc-2fae-4616-93e1-746cc8ac4635](https://www.ft.com/content/05ea07dc-2fae-4616-93e1-746cc8ac4635)  
+   Link: <a href="https://www.ft.com/content/05ea07dc-2fae-4616-93e1-746cc8ac4635" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/05ea07dc-2fae-4616-93e1-746cc8ac4635</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>El mercado estadounidense apenas creció un 2.2% el año pasado. Las suscripciones pagadas a servicios como Spotify y Apple Music siguieron...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Trends in the Modern Music Business  
-   Link: [https://www.youtube.com/watch?v=aG3D_m6M0-c](https://www.youtube.com/watch?v=aG3D_m6M0-c)  
+   Link: <a href="https://www.youtube.com/watch?v=aG3D_m6M0-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG3D_m6M0-c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video provides direct insights into the latest IFPI Global Music Report findings and the primary drivers behind industry revenue growth...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3](https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3)  
+   Link: <a href="https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/](https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/in-the-ifpis-annual-global-music-report-covering-the-music-industry-2025-global-/1302327805101128/</a>  
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/michelearnese_curious-about-the-10-companies-that-are-reshaping-activity-7446228533019901952-aUnz](https://www.linkedin.com/posts/michelearnese_curious-about-the-10-companies-that-are-reshaping-activity-7446228533019901952-aUnz)  
+   Link: <a href="https://www.linkedin.com/posts/michelearnese_curious-about-the-10-companies-that-are-reshaping-activity-7446228533019901952-aUnz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/michelearnese_curious-about-the-10-companies-that-are-reshaping-activity-7446228533019901952-aUnz</a>  
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/drewthurlow_us-recorded-music-revenue-hit-115b-in-activity-7439384357548666880-0QME](https://www.linkedin.com/posts/drewthurlow_us-recorded-music-revenue-hit-115b-in-activity-7439384357548666880-0QME)  
+   Link: <a href="https://www.linkedin.com/posts/drewthurlow_us-recorded-music-revenue-hit-115b-in-activity-7439384357548666880-0QME" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drewthurlow_us-recorded-music-revenue-hit-115b-in-activity-7439384357548666880-0QME</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theviolinchannel/posts/the-recording-industry-association-of-america-recently-released-its-2025-year-en/1497021961781140/](https://www.facebook.com/theviolinchannel/posts/the-recording-industry-association-of-america-recently-released-its-2025-year-en/1497021961781140/)  
+   Link: <a href="https://www.facebook.com/theviolinchannel/posts/the-recording-industry-association-of-america-recently-released-its-2025-year-en/1497021961781140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theviolinchannel/posts/the-recording-industry-association-of-america-recently-released-its-2025-year-en/1497021961781140/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/dataisbeautiful/comments/1rz0vzq/oc_global_recorded_music_industry_revenues_by/](https://www.reddit.com/r/dataisbeautiful/comments/1rz0vzq/oc_global_recorded_music_industry_revenues_by/)  
+   Link: <a href="https://www.reddit.com/r/dataisbeautiful/comments/1rz0vzq/oc_global_recorded_music_industry_revenues_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dataisbeautiful/comments/1rz0vzq/oc_global_recorded_music_industry_revenues_by/</a>  
 
 37. <a id="endnote-37"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/](https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/</a>  
 
 38. <a id="endnote-38"></a>
    Source: wiggin.co.uk  
-   Link: [https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/](https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/)  
+   Link: <a href="https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/" target="_blank" rel="noopener noreferrer nofollow">https://www.wiggin.co.uk/insight/competition-and-markets-authority-publishes-final-report-in-its-study-on-music-streaming-market/</a>

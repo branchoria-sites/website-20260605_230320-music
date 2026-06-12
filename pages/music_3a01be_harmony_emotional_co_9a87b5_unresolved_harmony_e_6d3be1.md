@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec
 - music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260
 tags:
-- music
+- music-3-a01-be
 - harmony
 - unresolved-harmony
 keywords:
-- music
+- music-3-a01-be
 - harmony
 - unresolved-harmony
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Chords that avoid final resolution keep listeners emotionally engaged, often conveying longing, suspense, or awe.
 hero_summary: Chords that avoid final resolution keep listeners emotionally engaged, often conveying longing, suspense, or awe.
 layout: default
 permalink: /unresolved-harmony/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /harmony/
 nav_short_title: Unresolved Harmony
 title: How Unresolved Chords Keep Music Emotionally Open
-title_full: How Unresolved Chords Keep Music Emotionally Open | Harmony
+title_full: How Unresolved Chords Keep Music Emotionally Open
 display_title_short: Unresolved Harmony
 display_title: Unresolved Harmony
 heading_title: How Unresolved Chords Keep Music Emotionally Open
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Harmony Changes What Music Means | Music
+parent_title: How Harmony Changes What Music Means
 parent_permalink: /harmony/
 parent_nav_short_title: Harmony
 parent_heading_title: How Harmony Changes What Music Means
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Tension and Release Shape Emotional Impact in Music
 up_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -259,7 +259,7 @@ prev_link:
   permalink: /tension-release/
   short_title: Tension & Release
   heading_title: How Tension and Release Shape Emotional Impact in Music
-date: '2026-06-09 07:26:52 '
+date: '2026-06-11 23:44:52 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmon
 
 ## Introduction
 
-Unresolved [harmony]({{ 'harmony/' | relative_url }}) keeps musical emotion open by delaying or withholding the sense of arrival that listeners often expect. Rather than guiding the ear towards a clear destination, unresolved chords leave questions hanging in the air. The result can be longing, anticipation, wonder, melancholy, mystery, or even transcendence. In many styles of [music]({{ 'music/' | relative_url }}), from classical works to ambient soundscapes and popular songs, composers and songwriters use harmonic incompleteness not because they cannot resolve tension, but because they want listeners to remain emotionally engaged with what comes next.
-
+Unresolved [harmony]({{ 'harmony/' | relative_url }}) keeps musical emotion open by delaying or withholding the sense of arrival that listeners often expect. Rather than guiding the ear towards a clear destination, unresolved chords leave questions hanging in the air. The result can be longing, anticipation, wonder, melancholy, mystery, or even transcendence. In many styles of music, from classical works to ambient soundscapes and popular songs, composers and songwriters use harmonic incompleteness not because they cannot resolve tension, but because they want listeners to remain emotionally engaged with what comes next.
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved Harmony illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research in music psychology consistently links emotional responses to expectation. When harmony postpones closure, listeners experience a state of uncertainty and anticipation that can become emotionally meaningful in its own right. Rather than functioning as a temporary obstacle on the way to resolution, unresolved harmony can become the emotional centre of a musical passage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — According to Meyer,1 Lerdahl and Jackend...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/285500789_Musical_Expectancy_and_Thrills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">285500789 Musical Expectancy and Thrills</span><span class="citation-popover-snippet">ResearchGate(PDF) Musical Expectancy and Thrills13 Sept 2016 — In the history of scholarship pertaining to music and emotion, the phenome...</span></span></span>
@@ -284,7 +283,6 @@ Studies examining emotional responses to different cadences have found that list
 
 The emotional effect is often subtle rather than dramatic. Instead of producing anxiety, an unresolved cadence may suggest:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A thought left unfinished.
@@ -296,21 +294,17 @@ The emotional effect is often subtle rather than dramatic. Instead of producing 
 
 Because the music does not fully close the emotional door, listeners remain psychologically connected to the unfolding narrative.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KmpDxDzKhCE" title="Why YOU Love SUS Chords" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KmpDxDzKhCE" target="_blank" rel="noopener noreferrer">Why YOU Love SUS Chords</a></p><p class="youtube-embed-meta">Channel: Rick Beato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KmpDxDzKhCE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KmpDxDzKhCE">Open on YouTube</a></p></div></div></div>
-
 ## Why the Brain Responds to Harmonic Openness
 
 Unresolved harmony works partly through prediction. Human listeners continuously form expectations about what should happen next in music. When a chord progression appears to point towards a stable destination, the brain begins preparing for that arrival.
 
-Research on musical tension describes tension as an affective state associated with instability, conflict, uncertainty, and a yearning for continuation. Resolution reduces that state; unresolved harmony preserves it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9117266/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTension experience induced by tonal and melodic shift</span><span class="citation-popover-snippet">PMCby N Zhang · 2022 · Cited by 11 — The role of harmonic expectancy violations in musical emotions: Evidence from subjective, physiologi...</span></span></span>
+Research on musical tension describes tension as an affective state associated with instability, conflict, uncertainty, and a yearning for continuation. Resolution reduces that state; unresolved harmony preserves it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9117266/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTension experience induced by tonal and melodic shift</span><span class="citation-popover-snippet">by N Zhang · 2022 · Cited by 11 — The role of harmonic expectancy violations in musical emotions: Evidence from subjective, physiologi...</span></span></span>
 
 Importantly, preserved tension is not always unpleasant. David Huron's work on musical expectation argues that anticipation itself can be rewarding. Listeners often enjoy remaining temporarily suspended between certainty and uncertainty because anticipation creates emotional energy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/285500789_Musical_Expectancy_and_Thrills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">285500789 Musical Expectancy and Thrills</span><span class="citation-popover-snippet">ResearchGate(PDF) Musical Expectancy and Thrills13 Sept 2016 — In the history of scholarship pertaining to music and emotion, the phenome...</span></span></span>
 
 Recent studies examining harmonic expectancy violations have also shown that unexpected or unresolved harmonic events influence subjective emotional responses as well as physiological measures linked to arousal. In other words, unresolved harmony is not merely an abstract theoretical concept; it affects measurable emotional experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stefan-koelsch.de/papers/Steinbeis%2BJOCN2006_inpress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stefan-koelsch.de">[stefan-koelsch.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stefan-koelsch.de</span><span class="citation-popover-snippet">Subjective response measures for tension and...</span></span></span>
 
 This helps explain why many listeners describe unresolved passages as emotionally rich rather than simply incomplete.
-
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved Harmony illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Repeating Loops and Ongoing Tension
@@ -320,7 +314,6 @@ Not all unresolved harmony appears at the end of a phrase. Many modern genres cr
 In a traditional tonal progression, tension accumulates and is eventually discharged. A loop can interrupt that pattern by cycling continuously between chords that imply motion without granting final arrival. Because the sequence repeats, the expected resolution is perpetually deferred.
 
 This technique appears frequently in:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -338,13 +331,11 @@ Film composers often rely on this strategy when portraying emotional states that
 
 The emotional result is especially powerful when paired with repetition. Each recurrence renews the expectation of closure while simultaneously postponing it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tuQrKWLCKc" title="How I wish HARMONY was explained to me as a student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tuQrKWLCKc" target="_blank" rel="noopener noreferrer">How I wish HARMONY was explained to me as a student</a></p><p class="youtube-embed-meta">Channel: Nahre Sol</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tuQrKWLCKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tuQrKWLCKc">Open on YouTube</a></p></div></div></div>
-
 ## Emotional Associations with Longing and Uncertainty
 
 Unresolved harmony is strongly associated with emotions that themselves resist completion.
 
+<img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved Harmony illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Longing
 
 Longing involves desire directed towards something absent, distant, or unattainable. Because unresolved chords point beyond themselves, they naturally mirror this emotional structure.
@@ -353,11 +344,9 @@ Musicologists and psychologists have frequently linked harmonic tension and inco
 
 A perfectly resolved ending says, in effect, "the journey is over." An unresolved sonority suggests, "something remains."
 
-
-<img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved Harmony illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Uncertainty
 
-Uncertainty is another emotional state closely tied to unresolved harmony. Studies examining responses to musical [surprise]({{ 'surprise/' | relative_url }}) and chord uncertainty show that listeners connect unpredictable or unresolved harmonic events with distinctive emotional and bodily sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cell.com/iscience/fulltext/S2589-0042%2824%2900719-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cell.com">[Cell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cell.com</span><span class="citation-popover-snippet">CellBodily maps of uncertainty and surprise in musical chord...by T Daikoku · 2024 · Cited by 25 — This study examined how the perceptio...</span></span></span>
+Uncertainty is another emotional state closely tied to unresolved harmony. Studies examining responses to musical [surprise]({{ 'surprise/' | relative_url }}) and chord uncertainty show that listeners connect unpredictable or unresolved harmonic events with distinctive emotional and bodily sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cell.com/iscience/fulltext/S2589-0042%2824%2900719-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cell.com">[Cell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cell.com</span><span class="citation-popover-snippet">Bodily maps of uncertainty and surprise in musical chord...by T Daikoku · 2024 · Cited by 25 — This study examined how the perceptio...</span></span></span>
 
 Unlike fear-based uncertainty, musical uncertainty is often experienced in a safe environment. Listeners can explore ambiguity without real-world consequences. This allows unresolved harmony to evoke curiosity, fascination, and contemplation rather than distress.
 
@@ -367,14 +356,11 @@ Some of the most emotionally powerful unresolved harmonies do not feel tense at 
 
 Extended chords, floating tonal centres, and harmonies that avoid strong cadential closure can create a sense of vastness or wonder. Because the music refuses to define a final emotional meaning, listeners are invited to inhabit a broader emotional space. The absence of closure becomes part of the expressive message.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KVZimVICjMo" title="How to Develop Executive Presence for Senior Leaders &amp; Directors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KVZimVICjMo" target="_blank" rel="noopener noreferrer">How to Develop Executive Presence for Senior Leaders &amp; Directors</a></p><p class="youtube-embed-meta">Channel: Kara Ronin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KVZimVICjMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KVZimVICjMo">Open on YouTube</a></p></div></div></div>
-
 ## When Resolution Finally Arrives
 
 The power of resolution depends partly on how long it has been withheld. An immediate resolution can feel satisfying, but a delayed one often feels more meaningful because the listener has spent time inhabiting uncertainty.
 
-Research on harmonic context shows that emotional judgements of chords depend heavily on their relationship to surrounding progressions. Stability and tension are experienced not as isolated properties but as outcomes of musical context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
+Research on harmonic context shows that emotional judgements of chords depend heavily on their relationship to surrounding progressions. Stability and tension are experienced not as isolated properties but as outcomes of musical context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
 For this reason, unresolved harmony and resolution should not be understood as opposites competing for emotional importance. The unresolved state creates the conditions that make resolution matter. Yet many composers deliberately stop before reaching complete closure, allowing the openness itself to become the final emotional statement.
 
@@ -497,15 +483,15 @@ In such moments, music does not answer the listener's questions. It preserves th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOLCANO CHOIR / THE CLOAK OX 2014 SAN DIEGO CONCERT TOUR POSTER - Ambient Music"><img src="{{ '/assets/images/marketplace-covers/f72433b3cf85f7b25349.jpg' | relative_url }}" alt="Listing image for VOLCANO CHOIR / THE CLOAK OX 2014 SAN DIEGO CONCERT TOUR POSTER - Ambient Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid"><img src="https://i.ebayimg.com/images/g/l5gAAOSwzgBhpP2k/s-l225.jpg" alt="Listing image for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VOLCANO CHOIR / THE CLOAK OX 2014 SAN DIEGO CONCERT TOUR POSTER - Ambient Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ambient music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ambient music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +499,15 @@ In such moments, music does not answer the listener's questions. It preserves th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POPPY &quot;COMPUTER TOUR 2017&quot; PORTLAND CONCERT POSTER - Electropop, Ambient Music"><img src="{{ '/assets/images/marketplace-covers/f4ccd673d6efe4fc0945.jpg' | relative_url }}" alt="Listing image for POPPY &quot;COMPUTER TOUR 2017&quot; PORTLAND CONCERT POSTER - Electropop, Ambient Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales &amp; Music Theory Poster (Grey) - Learn Piano &amp; Keyboard Print"><img src="https://i.ebayimg.com/images/g/XI4AAOSwTa9ht0oX/s-l225.jpg" alt="Listing image for Piano Chords, Scales &amp; Music Theory Poster (Grey) - Learn Piano &amp; Keyboard Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">POPPY &quot;COMPUTER TOUR 2017&quot; PORTLAND CONCERT POSTER - Electropop, Ambient Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales &amp; Music Theory Poster (Grey) - Learn Piano &amp; Keyboard Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ambient music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ambient music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +515,15 @@ In such moments, music does not answer the listener's questions. It preserves th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ambient music [collage] Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1324ef7250272b424e1c.jpg' | relative_url }}" alt="Listing image for Ambient music [collage] Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="https://i.ebayimg.com/images/g/iH0AAOSwWrFjalXx/s-l225.jpg" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ambient music [collage] Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ambient music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ambient music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +531,15 @@ In such moments, music does not answer the listener's questions. It preserves th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAPHAEL &quot;EN SU GRAN NOCHE&quot; 2016 HOUSTON CONCERT TOUR POSTER - Ambient Music"><img src="{{ '/assets/images/marketplace-covers/a1cab4e4d784ea6c8a47.jpg' | relative_url }}" alt="Listing image for RAPHAEL &quot;EN SU GRAN NOCHE&quot; 2016 HOUSTON CONCERT TOUR POSTER - Ambient Music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords Chart Educational Music Theory Poster"><img src="https://i.ebayimg.com/images/g/524AAeSw93Np-Gx3/s-l225.jpg" alt="Listing image for Piano Chords Chart Educational Music Theory Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RAPHAEL &quot;EN SU GRAN NOCHE&quot; 2016 HOUSTON CONCERT TOUR POSTER - Ambient Music</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Piano Chords Chart Educational Music Theory Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ambient music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ambient music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,7 +547,7 @@ In such moments, music does not answer the listener's questions. It preserves th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ambient+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ambient music poster -book -books" data-ebay-reference="unresolved-harmony-how-unresolved-chords-keep-music-emotionally-open-music-ambient-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-unresolved-chords-keep-music-emotionally-open-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="how-unresolved-chords-keep-music-emotionally-open-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,125 +762,125 @@ In such moments, music does not answer the listener's questions. It preserves th
 
 1. <a id="endnote-1"></a>
    Source: wires.onlinelibrary.wiley.com  
-   Link: [https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262)  
+   Link: <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — According to Meyer,1 Lerdahl and Jackend...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 285500789 Musical Expectancy and Thrills  
-   Link: [https://www.researchgate.net/publication/285500789_Musical_Expectancy_and_Thrills](https://www.researchgate.net/publication/285500789_Musical_Expectancy_and_Thrills)  
+   Link: <a href="https://www.researchgate.net/publication/285500789_Musical_Expectancy_and_Thrills" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285500789_Musical_Expectancy_and_Thrills</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Musical Expectancy and Thrills13 Sept 2016 — In the history of scholarship pertaining to music and emotion, the phenome...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7531224/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7531224/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMusical Tension Associated With Violations of Hierarchical...by L Sun · 2020 · Cited by 20 — Musical tension is an affective state th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7531224/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7531224/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical Tension Associated With Violations of Hierarchical...by L Sun · 2020 · Cited by 20 — Musical tension is an affective state th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Melodic expectation  
-   Link: [https://en.wikipedia.org/wiki/Melodic_expectation](https://en.wikipedia.org/wiki/Melodic_expectation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Melodic_expectation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melodic_expectation</a>  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 342985774 Perceived Emotions of Harmonic Cadences  
-   Link: [https://www.researchgate.net/publication/342985774_Perceived_Emotions_of_Harmonic_Cadences](https://www.researchgate.net/publication/342985774_Perceived_Emotions_of_Harmonic_Cadences)  
+   Link: <a href="https://www.researchgate.net/publication/342985774_Perceived_Emotions_of_Harmonic_Cadences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342985774_Perceived_Emotions_of_Harmonic_Cadences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Perceived Emotions of Harmonic Cadences18 Jul 2020 — Harmonic cadences are chord progressions that play an important structural rol...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/318802898_Review_David_Huron_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation](https://www.researchgate.net/publication/318802898_Review_David_Huron_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation)  
+   Link: <a href="https://www.researchgate.net/publication/318802898_Review_David_Huron_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318802898_Review_David_Huron_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Review: David Huron, &quot;Sweet Anticipation: Music...22 Dec 2025 — Review: David Huron, &quot;Sweet Anticipation: Music and the Psychology...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: stefan-koelsch.de  
-   Link: [https://stefan-koelsch.de/papers/Steinbeis%2BJOCN2006_inpress.pdf](https://stefan-koelsch.de/papers/Steinbeis%2BJOCN2006_inpress.pdf)  
+   Link: <a href="https://stefan-koelsch.de/papers/Steinbeis%2BJOCN2006_inpress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stefan-koelsch.de/papers/Steinbeis%2BJOCN2006_inpress.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective response measures for tension and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTension experience induced by tonal and melodic shift  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9117266/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117266/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby N Zhang · 2022 · Cited by 11 — The role of harmonic expectancy violations in musical emotions: Evidence from subjective, physiologi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9117266/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9117266/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by N Zhang · 2022 · Cited by 11 — The role of harmonic expectancy violations in musical emotions: Evidence from subjective, physiologi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: emusicology.org  
    Title: According to previous survey studies, both nostalgia and longing are among  
-   Link: [https://emusicology.org/article/4646/galley/5021/download/](https://emusicology.org/article/4646/galley/5021/download/)  
+   Link: <a href="https://emusicology.org/article/4646/galley/5021/download/" target="_blank" rel="noopener noreferrer nofollow">https://emusicology.org/article/4646/galley/5021/download/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theoretical Proposals on How Vertical Harmony May...by I LAHDELMA · 2015 · Cited by 26 — ABSTRACT: Music is often associated with the em...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cell.com  
-   Link: [https://www.cell.com/iscience/fulltext/S2589-0042%2824%2900719-3](https://www.cell.com/iscience/fulltext/S2589-0042%2824%2900719-3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CellBodily maps of uncertainty and surprise in musical chord...by T Daikoku · 2024 · Cited by 25 — This study examined how the perceptio...</p></details>
+   Link: <a href="https://www.cell.com/iscience/fulltext/S2589-0042%2824%2900719-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cell.com/iscience/fulltext/S2589-0042%2824%2900719-3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodily maps of uncertainty and surprise in musical chord...by T Daikoku · 2024 · Cited by 25 — This study examined how the perceptio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825000034](https://www.sciencedirect.com/science/article/pii/S0001691825000034)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectModerating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/215646505_The_Psychophysics_of_Harmony_Perception_Harmony_is_a_Three-Tone_Phenomenon](https://www.researchgate.net/publication/215646505_The_Psychophysics_of_Harmony_Perception_Harmony_is_a_Three-Tone_Phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/215646505_The_Psychophysics_of_Harmony_Perception_Harmony_is_a_Three-Tone_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/215646505_The_Psychophysics_of_Harmony_Perception_Harmony_is_a_Three-Tone_Phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Psychophysics of Harmony Perception22 Dec 2025 — We conclude that the perceptual regularities of traditional diatonic harmony a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2059204320938635](https://journals.sagepub.com/doi/10.1177/2059204320938635)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059204320938635</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: neurohaven.co.uk  
-   Link: [https://neurohaven.co.uk/how-music-evokes-emotion](https://neurohaven.co.uk/how-music-evokes-emotion)  
+   Link: <a href="https://neurohaven.co.uk/how-music-evokes-emotion" target="_blank" rel="noopener noreferrer nofollow">https://neurohaven.co.uk/how-music-evokes-emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Evokes EmotionFrequency, Harmony, &amp; the Brain: How Music Evokes Emotion. Music has a unique power to stir our emotions, from jo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: music.stackexchange.com  
    Title: is the sense of resolution of a harmonic cadence psychologically intrinsic or  
-   Link: [https://music.stackexchange.com/questions/75220/is-the-sense-of-resolution-of-a-harmonic-cadence-psychologically-intrinsic-or](https://music.stackexchange.com/questions/75220/is-the-sense-of-resolution-of-a-harmonic-cadence-psychologically-intrinsic-or)  
+   Link: <a href="https://music.stackexchange.com/questions/75220/is-the-sense-of-resolution-of-a-harmonic-cadence-psychologically-intrinsic-or" target="_blank" rel="noopener noreferrer nofollow">https://music.stackexchange.com/questions/75220/is-the-sense-of-resolution-of-a-harmonic-cadence-psychologically-intrinsic-or</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the sense of resolution of a harmonic cadence...7 Oct 2018 — If we took someone who had never heard western music before and played a pi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hugoribeiro.com.br  
-   Link: [https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf](https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf)  
+   Link: <a href="https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctly iconic manner, and thus not necessarily through the negative thwarting of expectation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: soundand.design  
    Title: understanding harmony in music theory 7e998c1f2c63  
-   Link: [https://soundand.design/understanding-harmony-in-music-theory-7e998c1f2c63](https://soundand.design/understanding-harmony-in-music-theory-7e998c1f2c63)  
+   Link: <a href="https://soundand.design/understanding-harmony-in-music-theory-7e998c1f2c63" target="_blank" rel="noopener noreferrer nofollow">https://soundand.design/understanding-harmony-in-music-theory-7e998c1f2c63</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Harmony in Music Theory | by Myk Eff28 Aug 2024 — In a harmonic context, dissonance introduces conflict into the music, whi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: music.stackexchange.com  
    Title: what do you call a suspension that never resolves  
-   Link: [https://music.stackexchange.com/questions/111494/what-do-you-call-a-suspension-that-never-resolves](https://music.stackexchange.com/questions/111494/what-do-you-call-a-suspension-that-never-resolves)  
+   Link: <a href="https://music.stackexchange.com/questions/111494/what-do-you-call-a-suspension-that-never-resolves" target="_blank" rel="noopener noreferrer nofollow">https://music.stackexchange.com/questions/111494/what-do-you-call-a-suspension-that-never-resolves</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do you call a suspension that never resolves?3 Mar 2021 — In &quot;A Day in the Life&quot; by the Beatles, I notice the [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) plays a note (E) jus...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/876194196241093/posts/1698969750630196/](https://www.facebook.com/groups/876194196241093/posts/1698969750630196/)  
+   Link: <a href="https://www.facebook.com/groups/876194196241093/posts/1698969750630196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/876194196241093/posts/1698969750630196/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of each other smoothly &amp; surprisingly. Tension and release seem...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
    Title: The study emphasizes the need  
-   Link: [https://www.academia.edu/9144203/Emotional_responses_to_music_The_need_to_consider_underlying_mechanisms](https://www.academia.edu/9144203/Emotional_responses_to_music_The_need_to_consider_underlying_mechanisms)  
+   Link: <a href="https://www.academia.edu/9144203/Emotional_responses_to_music_The_need_to_consider_underlying_mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/9144203/Emotional_responses_to_music_The_need_to_consider_underlying_mechanisms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Emotional responses to music: The need to consider...Researchers propose six mechanisms by which music evokes emotions: reflexes...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/117531513/The_Psychoacoustics_of_Harmony_Perception_Centuries_after_three_part_harmony_entered_Western_music_research_is_starting_to_clarify_why_different_chords_sound_tense_or_resolved_cheerful_or_melancholy](https://www.academia.edu/117531513/The_Psychoacoustics_of_Harmony_Perception_Centuries_after_three_part_harmony_entered_Western_music_research_is_starting_to_clarify_why_different_chords_sound_tense_or_resolved_cheerful_or_melancholy)  
+   Link: <a href="https://www.academia.edu/117531513/The_Psychoacoustics_of_Harmony_Perception_Centuries_after_three_part_harmony_entered_Western_music_research_is_starting_to_clarify_why_different_chords_sound_tense_or_resolved_cheerful_or_melancholy" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/117531513/The_Psychoacoustics_of_Harmony_Perception_Centuries_after_three_part_harmony_entered_Western_music_research_is_starting_to_clarify_why_different_chords_sound_tense_or_resolved_cheerful_or_melancholy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychoacoustics of Harmony Perception Centuries...The perception of musical harmony is influenced by tension and valence, shaping em...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mtosmt.org  
-   Link: [https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.blattler.html](https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.blattler.html)  
+   Link: <a href="https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.blattler.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.blattler.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blättler, A Voicing-Based Model for Additive Harmonyby DJ Blättler · 2017 · Cited by 11 — This article develops, for the Parisian moderni...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</p></details>

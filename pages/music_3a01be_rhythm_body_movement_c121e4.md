@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - rhythm
 keywords:
-- music
+- music-3-a01-be
 - rhythm
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Rhythm turns sound into anticipation, movement and shared physical energy across dances, chants, pop hooks and live crowds.
 hero_summary: Rhythm turns sound into anticipation, movement and shared physical energy across dances, chants, pop hooks and live crowds.
 layout: default
 permalink: /rhythm/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Rhythm
 title: Why Rhythm Makes Music Feel Physical
-title_full: Why Rhythm Makes Music Feel Physical | Music
+title_full: Why Rhythm Makes Music Feel Physical
 display_title_short: Rhythm
 display_title: Rhythm
 heading_title: Why Rhythm Makes Music Feel Physical
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 next_link:
   basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
-date: '2026-06-09 06:25:35 '
+date: '2026-06-11 23:13:59 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4-overview-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4-overview-social.j
 
 ## Introduction
 
-Rhythm makes music feel physical because it gives the body something to predict, join and share. A beat is not just a sound repeated in time; it is a moving invitation. Listeners tap a foot before deciding to, dancers lock steps to a pulse, crowds clap together, and performers use repetition and surprise to build energy. The mechanism is partly neurological, because rhythm engages auditory and motor systems together, and partly social, because moving in time with other people can create closeness, excitement and a sense of common purpose. Research on beat perception, groove, dance synchrony, live [concerts]({{ 'concerts/' | relative_url }}) and rhythmic auditory stimulation all points to the same core idea: rhythm turns listening into timed bodily [attention]({{ 'attention/' | relative_url }}). It does not move every body in the same way, or mean the same thing in every setting, but it is one of music’s strongest routes from sound to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureIndividual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</span></span></span>
-
+Rhythm makes music feel physical because it gives the body something to predict, join and share. A beat is not just a sound repeated in time; it is a moving invitation. Listeners tap a foot before deciding to, dancers lock steps to a pulse, crowds clap together, and performers use repetition and surprise to build energy. The mechanism is partly neurological, because rhythm engages auditory and motor systems together, and partly social, because moving in time with other people can create closeness, excitement and a sense of common purpose. Research on beat perception, groove, dance synchrony, live [concerts]({{ 'concerts/' | relative_url }}) and rhythmic auditory stimulation all points to the same core idea: rhythm turns listening into timed bodily [attention]({{ 'attention/' | relative_url }}). It does not move every body in the same way, or mean the same thing in every setting, but it is one of music’s strongest routes from sound to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Individual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-overview.webp" | relative_url }}" alt="Overview image for Rhythm" loading="eager" decoding="sync" fetchpriority="high">
 ## Beat, Pulse and Repetition
@@ -515,18 +514,16 @@ Repetition is the practical foundation. A repeated pulse lets the body settle in
 
 This is why the beat is often felt before it is analysed. A listener does not need to name the metre or count bars to know when to clap. The body can track regularity at the level of expectation: this is where the next step, nod, breath or gesture belongs. In everyday language, people call this “feeling the beat”, but the phrase points to a genuine mechanism: the sound organises time in a way the body can use.
 
-
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-1-dark.svg" | relative_url }}" alt="Rhythm illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Groove Is Prediction With Just Enough Trouble
 
-Some rhythms make people want to move more than others. The word often used for this is “groove”: the pleasurable urge to move with [music]({{ 'music/' | relative_url }}). Groove is not simply the same as speed, loudness or a perfectly regular beat. A metronome is highly regular, but it does not usually make a room dance. What makes groove powerful is the mix of predictability and tension.
+Some rhythms make people want to move more than others. The word often used for this is “groove”: the pleasurable urge to move with music. Groove is not simply the same as speed, loudness or a perfectly regular beat. A metronome is highly regular, but it does not usually make a room dance. What makes groove powerful is the mix of predictability and tension.
 
 A key study on funk drum patterns found that medium levels of [syncopation]({{ 'syncopation/' | relative_url }}) produced the strongest ratings for both pleasure and wanting to move. Syncopation means that accents fall in places that play against the expected beat. Too little syncopation can feel obvious; too much can make the beat hard to locate. The sweet spot is a rhythm that lets the listener predict the pulse while still being teased by off-beat accents and delayed emphasis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Open source on plos.org.</span></span></span>
 
 This helps explain why a great groove often feels as if it is leaning forward. The body senses where the beat should land, while the music places some events slightly around that expectation. The pleasure comes from being able to recover the pulse, not from being lost. In funk, disco, house, hip-hop, Afrobeats, salsa, drum and bass, rock and pop, that tension can be created in different ways: ghost notes on drums, basslines that anticipate the downbeat, claps that mark a backbeat, or vocals that stretch phrases across the bar.
 
 The same principle also explains why “danceable” does not always mean simple. A rhythm can be complex and still easy to move to if its complexity is organised around a felt pulse. Conversely, a technically regular rhythm can feel stiff if it lacks weight, swing, emphasis or interaction. The body is not just asking whether events are evenly spaced; it is asking whether the pattern offers a meaningful way to move.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JISh_c8oUsw" title="Rhythm in music explained- How to get rhythm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JISh_c8oUsw" target="_blank" rel="noopener noreferrer">Rhythm in music explained- How to get rhythm</a></p><p class="youtube-embed-meta">Channel: Ruairi Glasheen &middot; Views: 341.6K &middot; Uploaded: December 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JISh_c8oUsw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JISh_c8oUsw">Open on YouTube</a></p></div></div></div>
 
@@ -540,7 +537,6 @@ Live music adds another layer because the audience is not only hearing the same 
 
 That coordination helps explain familiar concert behaviours: clapping in time, jumping on a drop, chanting a hook, waving arms together, or surging towards a chorus. The rhythm does not force these actions in a mechanical sense. It creates a timing structure in which they become easy, contagious and meaningful. The result is often more than individual enjoyment multiplied by a crowd; it is a shared physical event.
 
-
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-2-dark.svg" | relative_url }}" alt="Rhythm illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rhythm Can Help Bodies Move Better
 
@@ -552,19 +548,17 @@ The mechanism is closely related to ordinary musical movement. When a steady bea
 
 This clinical evidence is useful for understanding music more broadly because it shows that rhythm is not merely decorative. It can structure action. A drum pattern in a club, a chant in a stadium and a metronomic cue in therapy are very different cultural events, but each uses repeated timing to guide bodies through time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BPU9X_GDKNQ" title="How to Master Rhythm Changes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BPU9X_GDKNQ" target="_blank" rel="noopener noreferrer">How to Master Rhythm Changes</a></p><p class="youtube-embed-meta">Channel: Learn Jazz Standards &middot; Views: 69.7K &middot; Uploaded: April 2022 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BPU9X_GDKNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BPU9X_GDKNQ">Open on YouTube</a></p></div></div></div>
 
 ## Chants, Hooks and the Body’s Memory
 
 Rhythm also moves bodies by making music memorable. A repeated hook or chant gives listeners a pattern they can join quickly. The words may matter, but the timing often matters first: where the syllables fall, where breath lands, when the group response comes, how long the pause lasts before the next shout.
 
-This is why rhythm sits at the centre of many collective musical forms. Call-and-response, protest chants, football songs, playground clapping games, work songs and festival choruses all rely on repeatable timing. The structure lets people participate with little rehearsal. Once the pulse is understood, the group can keep going, grow louder, accelerate, stop together or restart.
+This is why rhythm sits at the centre of many collective musical forms. Call-and-response, protest chants, football songs, playground clapping games, work songs and festival [choruses]({{ 'choruses/' | relative_url }}) all rely on repeatable timing. The structure lets people participate with little rehearsal. Once the pulse is understood, the group can keep going, grow louder, accelerate, stop together or restart.
 
 Rhythm’s role in memory is also practical for pop. A hook often succeeds because it is not only singable but bodily graspable: a listener can feel the entrance, anticipate the repetition and recognise the shape after only a few hearings. The most effective rhythmic hooks are rarely isolated from melody, [harmony]({{ 'harmony/' | relative_url }}) or timbre, but they often supply the part that lets the song become an action: clapping, pointing, stepping, bouncing, chanting or miming the words.
 
 The MIT Press Reader’s discussion of rhythm notes that repeated sounds and silences support dancing, memory and group singing, and points to examples such as religious chants and military cadence calls. That range is important: rhythm does not belong only to entertainment. It is a tool for coordination, recall and shared attention across many kinds of musical life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thereader.mitpress.mit.edu">[The MIT Press Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thereader.mitpress.mit.edu</span><span class="citation-popover-title">The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives</span><span class="citation-popover-snippet">The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-3-dark.svg" | relative_url }}" alt="Rhythm illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rhythm Changes Meaning by Context
@@ -576,7 +570,6 @@ Tempo is one obvious factor. Fast rhythms can raise arousal, but speed alone doe
 This is why rhythm should not be reduced to a universal button that simply “makes people dance”. It offers affordances: possibilities for action. A dance floor encourages visible movement; a concert hall may invite stillness, breath synchrony or small seated movements; a religious or commemorative setting may turn repetition into focus and restraint. The listener’s body still responds, but the response is shaped by learned codes.
 
 Ethnomusicological work on entrainment makes this wider point: rhythmic coordination through music is easy to recognise in examples such as foot tapping, but musical entrainment must be understood within broader biological and social functioning, not treated as a single behaviour with one meaning everywhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicdynamicslab.uconn.edu">[musicdynamicslab.uconn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicdynamicslab.uconn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fSbrYAwTGkA" title="Brain Rhythms - How Do We Feel The Beat?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer">Brain Rhythms - How Do We Feel The Beat?</a></p><p class="youtube-embed-meta">Channel: BrainFacts.org &middot; Views: 9.6K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fSbrYAwTGkA">Open on YouTube</a></p></div></div></div>
 
@@ -982,158 +975,158 @@ The most memorable point is that rhythm does not merely accompany movement; it o
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-48132-2](https://www.nature.com/articles/s41598-023-48132-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureIndividual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-48132-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/</a>  
 
 7. <a id="endnote-7"></a>
    Source: thereader.mitpress.mit.edu  
    Title: The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives  
-   Link: [https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/](https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/)  
+   Link: <a href="https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/" target="_blank" rel="noopener noreferrer nofollow">https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/</a>  
 
 8. <a id="endnote-8"></a>
    Source: musicdynamicslab.uconn.edu  
-   Link: [https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf](https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf)  
+   Link: <a href="https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-93948-9](https://www.nature.com/articles/s41598-025-93948-9)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-93948-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-93948-9</a>  
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-11324-3](https://www.nature.com/articles/s41598-022-11324-3)  
+   Link: <a href="https://www.nature.com/articles/s41598-022-11324-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11324-3</a>  
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-05952-8](https://www.nature.com/articles/s41598-025-05952-8)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-05952-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-05952-8</a>  
 
 12. <a id="endnote-12"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&type=printable](https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&type=printable)  
+   Link: <a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&amp;type=printable</a>  
 
 13. <a id="endnote-13"></a>
    Source: jps.ecnu.edu.cn  
    Title: j.cnki.1671 6981.20250112  
-   Link: [https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112](https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112)  
+   Link: <a href="https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112" target="_blank" rel="noopener noreferrer nofollow">https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112</a>  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17488212/](https://pubmed.ncbi.nlm.nih.gov/17488212/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17488212/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMusic and social bonding: “self-other” merging and...by B Tarr · 2014 · Cited by 820 — In this paper we review evidence support...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: royalsocietypublishing.org  
    Title: Synchrony and exertion during dance independently  
-   Link: [https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently](https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently)  
+   Link: <a href="https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently</a>  
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26510676/](https://pubmed.ncbi.nlm.nih.gov/26510676/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26510676/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26510676/</a>  
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full)  
+   Link: <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24740381/](https://pubmed.ncbi.nlm.nih.gov/24740381/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24740381/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24740381/</a>  
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full</a>  
 
 21. <a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full</a>  
 
 23. <a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full</a>  
 
 24. <a id="endnote-24"></a>
    Source: pianowithjonny.com  
    Title: Rhythm Changes  
-   Link: [https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/](https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/)  
+   Link: <a href="https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Rhythm changes  
-   Link: [https://en.wikipedia.org/wiki/Rhythm_changes](https://en.wikipedia.org/wiki/Rhythm_changes)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rhythm_changes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhythm_changes</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Rhythm](https://en.wikipedia.org/wiki/Rhythm)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rhythm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhythm</a>  
 
 27. <a id="endnote-27"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/art/rhythm-music](https://www.britannica.com/art/rhythm-music)  
+   Link: <a href="https://www.britannica.com/art/rhythm-music" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/rhythm-music</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement](https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement)  
+   Link: <a href="https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness](https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness)  
+   Link: <a href="https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure](https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure)  
+   Link: <a href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure</a>  
 
 31. <a id="endnote-31"></a>
    Source: neuroscience.gsu.edu  
-   Link: [https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf](https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf)  
+   Link: <a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: musicandmeaning.net  
-   Link: [https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3](https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3)  
+   Link: <a href="https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3" target="_blank" rel="noopener noreferrer nofollow">https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3</a>  
 
 33. <a id="endnote-33"></a>
    Source: physio-pedia.com  
-   Link: [https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training](https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training)  
+   Link: <a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496](https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496)  
+   Link: <a href="https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology](https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology)  
+   Link: <a href="https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology</a>  
 
 36. <a id="endnote-36"></a>
    Source: mutor-2.github.io  
-   Link: [https://mutor-2.github.io/ScienceOfMusic/units/12/](https://mutor-2.github.io/ScienceOfMusic/units/12/)  
+   Link: <a href="https://mutor-2.github.io/ScienceOfMusic/units/12/" target="_blank" rel="noopener noreferrer nofollow">https://mutor-2.github.io/ScienceOfMusic/units/12/</a>  
 
 37. <a id="endnote-37"></a>
    Source: lermagazine.com  
-   Link: [https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat](https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat)  
+   Link: <a href="https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat" target="_blank" rel="noopener noreferrer nofollow">https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat</a>

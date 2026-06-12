@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d
 - music_3a01be_afrobeats_global_cir_80f305_uk_afrobeats_nightli_2c85b0
 tags:
-- music
+- music-3-a01-be
 - afrobeats
 - charts
 keywords:
-- music
+- music-3-a01-be
 - afrobeats
 - charts
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Afrobeats-specific charts helped turn scattered listening into public proof that labels, advertisers and casual listeners could understand.
 hero_summary: Afrobeats-specific charts helped turn scattered listening into public proof that labels, advertisers and casual listeners could understand.
 layout: default
 permalink: /charts/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /afrobeats/
 nav_short_title: Charts
 title: Why Afrobeats Needed Its Own Charts
-title_full: Why Afrobeats Needed Its Own Charts | Afrobeats
+title_full: Why Afrobeats Needed Its Own Charts
 display_title_short: Charts
 display_title: Charts
 heading_title: Why Afrobeats Needed Its Own Charts
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Afrobeats Crossed Global Borders | Music
+parent_title: How Afrobeats Crossed Global Borders
 parent_permalink: /afrobeats/
 parent_nav_short_title: Afrobeats
 parent_heading_title: How Afrobeats Crossed Global Borders
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why UK Parties Mattered for Afrobeats
 up_link:
   basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -265,7 +265,7 @@ next_link:
   permalink: /love-nwantiti/
   short_title: Love Nwantiti
   heading_title: How Love Nwantiti Travelled Beyond Nigeria
-date: '2026-06-09 07:15:49 '
+date: '2026-06-11 23:39:12 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-1.webp
@@ -274,14 +274,13 @@ image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_r
 
 ## Introduction
 
-Afrobeats did not become globally visible simply because more people were listening to it. It became visible because institutions began counting that listening in ways that the wider [music]({{ 'music/' | relative_url }}) industry recognised. Official genre-specific charts transformed millions of scattered streams, downloads and sales into a public record that labels, advertisers, radio programmers and casual listeners could understand. In the case of Afrobeats, dedicated charts in the United Kingdom and United States marked a shift from cultural momentum to measurable market presence. They provided evidence that the genre was not a niche trend but a sustained commercial force across multiple countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span>
-
+Afrobeats did not become globally visible simply because more people were listening to it. It became visible because institutions began counting that listening in ways that the wider music industry recognised. Official genre-specific charts transformed millions of scattered streams, downloads and sales into a public record that labels, advertisers, radio programmers and casual listeners could understand. In the case of Afrobeats, dedicated charts in the United Kingdom and United States marked a shift from cultural momentum to measurable market presence. They provided evidence that the genre was not a niche trend but a sustained commercial force across multiple countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-1-dark.svg" | relative_url }}" alt="Charts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, genre charts do more than measure popularity. They help define what counts as a genre, who belongs within it, and how audiences understand a musical movement. That influence has made Afrobeats charts both celebrated and contested.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3hDyz2BViz4" title="Official | meaning of Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3hDyz2BViz4" target="_blank" rel="noopener noreferrer">Official | meaning of Official</a></p><p class="youtube-embed-meta">Channel: The Definition Channel &middot; Views: 1.5K &middot; Uploaded: March 2022 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3hDyz2BViz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3hDyz2BViz4">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-3-dark.svg" | relative_url }}" alt="Charts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## UK Afrobeats Chart Visibility
 
 The launch of the Official UK Afrobeats Chart in July 2020 was a landmark moment in the genre's institutional recognition. Created through a collaboration between the Official Charts Company and [Afro Nation]({{ 'afro-nation/' | relative_url }}), the weekly Top 20 chart was designed to track the UK's biggest Afrobeats songs using official sales and streaming data. It gave Afrobeats a dedicated place within the country's chart infrastructure rather than leaving artists to compete solely within broader pop rankings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span>
@@ -291,7 +290,6 @@ The significance was not merely symbolic. For years, Afrobeats had flourished in
 The chart also highlighted the UK's role in Afrobeats circulation. Many leading artists already enjoyed strong British audiences before achieving wider global success. The existence of a formal chart acknowledged that the UK was not merely importing music from West Africa but functioning as one of the genre's key international markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/whats-wrong-official-afrobeats-chart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-snippet">Music In AfricaWhat&#x27;s wrong with the Official Afrobeats Chart?18 Aug 2020 — Besides, an official Afrobeats chart provides mileage for Afr...</span></span></span>
 
 Within months, chart-topping records such as Darkoo's "Gangsta" demonstrated that Afrobeats songs could sustain measurable commercial performance over extended periods rather than appearing as occasional crossover hits. Annual chart summaries further reinforced the idea that Afrobeats constituted a durable market segment worthy of dedicated industry [attention]({{ 'attention/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CxkvgwoS3IQ" title="Darkoo and One Acen thank fans as Gangsta is crowned top Afrobeats track of 2020 | Official Charts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CxkvgwoS3IQ" target="_blank" rel="noopener noreferrer">Darkoo and One Acen thank fans as Gangsta is crowned top Afrobeats track of 2020 | Official Charts</a></p><p class="youtube-embed-meta">Channel: Official Charts &middot; Views: 852 &middot; Uploaded: January 2021 &middot; Length: 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CxkvgwoS3IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CxkvgwoS3IQ">Open on YouTube</a></p></div></div></div>
 
@@ -305,24 +303,18 @@ Billboard's involvement carried particular weight because Billboard charts remai
 
 The chart also revealed the genre's growing geographic reach. Songs could accumulate substantial U.S. chart performance even when they originated outside traditional American music centres. This helped demonstrate one of Afrobeats' most distinctive features as a global genre: audiences were often discovering music through streaming platforms and social networks before traditional industry gatekeepers fully embraced it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/billboard-us-afrobeats-songs-chart-1235046800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billboard us afrobeats songs chart 1235046800</span><span class="citation-popover-snippet">Afrobeats Chart: Billboard Teams Up With Afro Nation22 Mar 2022 — The Billboard US Afrobeats Songs chart will go live on Billboard.com on...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w8DyKMbX_ac" title="How To Become an Afrobeat Superstar, Without Having a Hit Song | Kolapo Oladapo | TEDxOAU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w8DyKMbX_ac" target="_blank" rel="noopener noreferrer">How To Become an Afrobeat Superstar, Without Having a Hit Song | Kolapo Oladapo | TEDxOAU</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w8DyKMbX_ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w8DyKMbX_ac">Open on YouTube</a></p></div></div></div>
-
-
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-2-dark.svg" | relative_url }}" alt="Charts illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Genre Charts Can Prove and Distort
 
 Genre-specific charts are powerful because they create visibility. They can demonstrate that a scene has commercial scale, identify emerging artists and provide evidence that investment is justified. For Afrobeats, official charts helped convert cultural influence into metrics that advertisers, sponsors and major labels could easily understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span>
 
-However, charts also shape perception in ways that can oversimplify reality. Afrobeats itself is an umbrella term covering a wide range of contemporary African popular music styles. Once a chart category is established, diverse sounds may be grouped together for the sake of market clarity even when artists have different musical influences, national backgrounds or creative identities. Critics of the UK chart argued that institutional recognition came with a risk of flattening distinctions within African music cultures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pan-african-music.com/en/afrobeats-new-chart-same-misgivings-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pan-african-music.com">[PAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pan-african-music.com</span><span class="citation-popover-title">PAM | Pan African Music Afrobeats&#x27; new chart same misgivings</span><span class="citation-popover-snippet">PAM | Pan African MusicAfrobeats&#x27; new chart same misgivingsJuly 29, 2020 — 29 Jul 2020 — On July 26th Official Charts launches UK Afrobea...</span><span class="citation-popover-meta">Published: July 29, 2020</span></span></span> | Pan African Music
+However, charts also shape perception in ways that can oversimplify reality. Afrobeats itself is an umbrella term covering a wide range of contemporary African popular music styles. Once a chart category is established, diverse sounds may be grouped together for the sake of market clarity even when artists have different musical influences, national backgrounds or creative identities. Critics of the UK chart argued that institutional recognition came with a risk of flattening distinctions within African music cultures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pan-african-music.com/en/afrobeats-new-chart-same-misgivings-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pan-african-music.com">[PAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pan-african-music.com</span><span class="citation-popover-title">PAM &#124; Pan African Music Afrobeats&#x27; new chart same misgivings</span><span class="citation-popover-snippet">PAM &#124; Pan African MusicAfrobeats&#x27; new chart same misgivingsJuly 29, 2020 — 29 Jul 2020 — On July 26th Official Charts launches UK Afrobea...</span><span class="citation-popover-meta">Published: July 29, 2020</span></span></span> | Pan African Music
 
 Another challenge is that chart categories can influence behaviour. Artists, labels and streaming services may adapt marketing strategies around chart eligibility and genre branding. As a result, charts do not merely reflect a genre; they can actively shape how that genre is presented and understood. The category becomes part of the industry's decision-making system. The Culture Custodian (Est. 2014. <span class="citation-chip-wrap"><a class="citation-chip" href="https://culturecustodian.com/evaluating-billboards-afrobeats-chart-and-its-potential-impact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturecustodian.com">[culturecustodian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturecustodian.com</span><span class="citation-popover-title">The Culture Custodian (Est</span><span class="citation-popover-snippet">2014.)Evaluating Billboard&#x27;s Afrobeats Chart and its Potential...The Billboard U.S. Afrobeats Songs chart is expected to go live on the...</span></span></span>
 
 Yet despite these limitations, the creation of official Afrobeats charts marked a crucial governance moment in global music circulation. They provided institutional recognition for a movement that had already built audiences across continents. More importantly, they made those audiences visible in a format that the broader music industry could not easily ignore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/tems-essence-top-afrobeats-charts-2022-year-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">tems essence top afrobeats charts 2022 year end</span><span class="citation-popover-snippet">Afrobeats Songs chart launched for the chart dated April 2, 2022, and ranks the 50 most popular Afrobeats songs in the U.S...</span><span class="citation-popover-meta">Published: April 2, 2022</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3hDyz2BViz4" title="Official | meaning of Official" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3hDyz2BViz4" target="_blank" rel="noopener noreferrer">Official | meaning of Official</a></p><p class="youtube-embed-meta">Channel: The Definition Channel &middot; Views: 1.5K &middot; Uploaded: March 2022 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3hDyz2BViz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3hDyz2BViz4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-3-dark.svg" | relative_url }}" alt="Charts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -721,227 +713,227 @@ Yet despite these limitations, the creation of official Afrobeats charts marked 
 1. <a id="endnote-1"></a>
    Source: billboard.com  
    Title: billboard us afrobeats songs chart 1235046800  
-   Link: [https://www.billboard.com/music/chart-beat/billboard-us-afrobeats-songs-chart-1235046800/](https://www.billboard.com/music/chart-beat/billboard-us-afrobeats-songs-chart-1235046800/)  
+   Link: <a href="https://www.billboard.com/music/chart-beat/billboard-us-afrobeats-songs-chart-1235046800/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/billboard-us-afrobeats-songs-chart-1235046800/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats Chart: Billboard Teams Up With Afro Nation22 Mar 2022 — The Billboard US Afrobeats Songs chart will go live on Billboard.com on...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UK Afrobeats Singles Chart  
-   Link: [https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart](https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart)  
+   Link: <a href="https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UK_Afrobeats_Singles_Chart</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Afrobeats Singles ChartThe UK Afrobeats Singles Chart is a record chart compiled in the United Kingdom by the Official Charts Compa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: businessday.ng  
    Title: billboard to launch new us afrobeats songs chart  
-   Link: [https://businessday.ng/life-arts/article/billboard-to-launch-new-us-afrobeats-songs-chart/](https://businessday.ng/life-arts/article/billboard-to-launch-new-us-afrobeats-songs-chart/)  
+   Link: <a href="https://businessday.ng/life-arts/article/billboard-to-launch-new-us-afrobeats-songs-chart/" target="_blank" rel="noopener noreferrer nofollow">https://businessday.ng/life-arts/article/billboard-to-launch-new-us-afrobeats-songs-chart/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Mar 2022 — The Billboard US Afrobeats Songs chart, which has 50 positions, will begin on March 29, 2022, and will rank the country&#x27;s m...</p></details>
    Published: March 29, 2022  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Billboard U.S. Afrobeats Songs  
-   Link: [https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs](https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_U.S._Afrobeats_Songs</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Billboard charts  
-   Link: [https://en.wikipedia.org/wiki/Billboard_charts](https://en.wikipedia.org/wiki/Billboard_charts)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_charts" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_charts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2004 — The Billboard charts tabulate the relative weekly popularity of songs and [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) in the United States and globally. T...</p></details>
    Published: December 17, 2004  
 
 6. <a id="endnote-6"></a>
    Source: pan-african-music.com  
    Title: PAM | Pan African Music Afrobeats' new chart same misgivings  
-   Link: [https://pan-african-music.com/en/afrobeats-new-chart-same-misgivings-1/](https://pan-african-music.com/en/afrobeats-new-chart-same-misgivings-1/)  
+   Link: <a href="https://pan-african-music.com/en/afrobeats-new-chart-same-misgivings-1/" target="_blank" rel="noopener noreferrer nofollow">https://pan-african-music.com/en/afrobeats-new-chart-same-misgivings-1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PAM | Pan African MusicAfrobeats&#x27; new chart same misgivingsJuly 29, 2020 — 29 Jul 2020 — On July 26th Official Charts launches UK Afrobea...</p></details>
    Published: July 29, 2020  
 
 7. <a id="endnote-7"></a>
    Source: culturecustodian.com  
    Title: The [Culture](&#123;&#123; 'culture/' | relative_url &#125;&#125;) Custodian (Est  
-   Link: [https://culturecustodian.com/evaluating-billboards-afrobeats-chart-and-its-potential-impact/](https://culturecustodian.com/evaluating-billboards-afrobeats-chart-and-its-potential-impact/)  
+   Link: <a href="https://culturecustodian.com/evaluating-billboards-afrobeats-chart-and-its-potential-impact/" target="_blank" rel="noopener noreferrer nofollow">https://culturecustodian.com/evaluating-billboards-afrobeats-chart-and-its-potential-impact/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2014.)Evaluating Billboard&#x27;s Afrobeats Chart and its Potential...The Billboard U.S. Afrobeats Songs chart is expected to go live on the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UK Afrobeats Chart Top 20 songs of 2020  
-   Link: [https://en.wikipedia.org/wiki/UK_Afrobeats_Chart_Top_20_songs_of_2020](https://en.wikipedia.org/wiki/UK_Afrobeats_Chart_Top_20_songs_of_2020)  
+   Link: <a href="https://en.wikipedia.org/wiki/UK_Afrobeats_Chart_Top_20_songs_of_2020" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UK_Afrobeats_Chart_Top_20_songs_of_2020</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Afrobeats Chart Top 20 songs of 2020Year-end list; 7, &quot;Juicy&quot;, Darkoo, &amp; Hardy Caprio; 8, &quot;I Like&quot;, Kojo Funds; 9, &quot;4AM&quot;, Manny...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Billboard Year End U.S. Afrobeats Songs of 2022  
-   Link: [https://en.wikipedia.org/wiki/Billboard_Year-End_U.S._Afrobeats_Songs_of_2022](https://en.wikipedia.org/wiki/Billboard_Year-End_U.S._Afrobeats_Songs_of_2022)  
+   Link: <a href="https://en.wikipedia.org/wiki/Billboard_Year-End_U.S._Afrobeats_Songs_of_2022" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Billboard_Year-End_U.S._Afrobeats_Songs_of_2022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats Songs of 2022The Billboard US Afrobeats Songs chart ranks the best-performing Afrobeats singles in the United States. Its data...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: billboard.com  
    Title: tems essence top afrobeats charts 2022 year end  
-   Link: [https://www.billboard.com/pro/tems-essence-top-afrobeats-charts-2022-year-end/](https://www.billboard.com/pro/tems-essence-top-afrobeats-charts-2022-year-end/)  
+   Link: <a href="https://www.billboard.com/pro/tems-essence-top-afrobeats-charts-2022-year-end/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/tems-essence-top-afrobeats-charts-2022-year-end/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats Songs chart launched for the chart dated April 2, 2022, and ranks the 50 most popular Afrobeats songs in the U.S...</p></details>
    Published: April 2, 2022  
 
 11. <a id="endnote-11"></a>
    Source: billboard.com  
-   Link: [https://www.billboard.com/charts/](https://www.billboard.com/charts/)  
+   Link: <a href="https://www.billboard.com/charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/charts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chart Landing Pages – BillboardU.S. · Afrobeats Expand afrobeats menu. Billboard U.S. Afrobeats Songs... GREEN APPLE Top Billboard Japan...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: billboard.com  
    Title: best afrobeats songs  
-   Link: [https://www.billboard.com/lists/best-afrobeats-songs/](https://www.billboard.com/lists/best-afrobeats-songs/)  
+   Link: <a href="https://www.billboard.com/lists/best-afrobeats-songs/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/best-afrobeats-songs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats Songs chart in 2022 that ranks the 50 most popular Afrobeats songs in the country every week, two...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/](https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/first-ever-official-afrobeats-chart-to-launch-this-week-to-celebrate-rise-of-afrobeats-in-the-uk__30265/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsFirst ever Official Afrobeats Chart to launch this week...21 Jul 2020 — This week sees the launch of the first Official U...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/chart-news/celebrating-one-year-of-the-official-uk-afrobeats-chart-i-feel-like-the-representation-is-finally-there-__33654/](https://www.officialcharts.com/chart-news/celebrating-one-year-of-the-official-uk-afrobeats-chart-i-feel-like-the-representation-is-finally-there-__33654/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/celebrating-one-year-of-the-official-uk-afrobeats-chart-i-feel-like-the-representation-is-finally-there-__33654/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/celebrating-one-year-of-the-official-uk-afrobeats-chart-i-feel-like-the-representation-is-finally-there-__33654/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Official Afrobeats Chart. Launched in July 2020 as a collaboration between the Official Charts Company and music festival Afro Natio...</p></details>
    Published: July 2020  
 
 15. <a id="endnote-15"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/charts/afrobeats-chart/](https://www.officialcharts.com/charts/afrobeats-chart/)  
+   Link: <a href="https://www.officialcharts.com/charts/afrobeats-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/afrobeats-chart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Afrobeats ChartThe UK&#x27;s biggest Afrobeats songs of the week based on sales and streams across a seven day period, compiled by th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicinafrica.net  
-   Link: [https://www.musicinafrica.net/magazine/whats-wrong-official-afrobeats-chart](https://www.musicinafrica.net/magazine/whats-wrong-official-afrobeats-chart)  
+   Link: <a href="https://www.musicinafrica.net/magazine/whats-wrong-official-afrobeats-chart" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/whats-wrong-official-afrobeats-chart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaWhat&#x27;s wrong with the Official Afrobeats Chart?18 Aug 2020 — Besides, an official Afrobeats chart provides mileage for Afr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: officialcharts.com  
    Title: the uks official top 20 afrobeats songs of 2020 32322  
-   Link: [https://www.officialcharts.com/chart-news/the-uks-official-top-20-afrobeats-songs-of-2020__32322/](https://www.officialcharts.com/chart-news/the-uks-official-top-20-afrobeats-songs-of-2020__32322/)  
+   Link: <a href="https://www.officialcharts.com/chart-news/the-uks-official-top-20-afrobeats-songs-of-2020__32322/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-uks-official-top-20-afrobeats-songs-of-2020__32322/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsThe UK&#x27;s Official Top 20 Afrobeats songs of 2020...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: okayafrica.com  
    Title: Billboard & Afro Nation Are Launching a U.S  
-   Link: [https://www.okayafrica.com/billboard-afro-nation-are-launching-a-us-afrobeats-chart/261171](https://www.okayafrica.com/billboard-afro-nation-are-launching-a-us-afrobeats-chart/261171)  
+   Link: <a href="https://www.okayafrica.com/billboard-afro-nation-are-launching-a-us-afrobeats-chart/261171" target="_blank" rel="noopener noreferrer nofollow">https://www.okayafrica.com/billboard-afro-nation-are-launching-a-us-afrobeats-chart/261171</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats Chart23 Mar 2022 —... Billboard U.S. Afrobeats Songs Chart on March 29. The 50-position chart will rank the most popular afrob...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/learner-english/official](https://dictionary.cambridge.org/dictionary/learner-english/official)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/learner-english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/learner-english/official</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>known by the public: It&#x27;s official - they&#x27;re getting married! official adjective (NOT TRUE). An official explanation or statement...Read...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/official](https://dictionary.cambridge.org/dictionary/english/official)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary7 days ago — a person who has a position of responsibility in an organization: a government/trade...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — a person who has a position of responsibility in an organization: a government/trade...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/charts/afrobeats-chart/20200920/afrobeat/](https://www.officialcharts.com/charts/afrobeats-chart/20200920/afrobeat/)  
+   Link: <a href="https://www.officialcharts.com/charts/afrobeats-chart/20200920/afrobeat/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/afrobeats-chart/20200920/afrobeat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Afrobeats Chart on 20/9/202020 Sept 2020 — The UK&#x27;s biggest Afrobeats songs of the week based on sales and streams across a seve...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: officialcharts.com  
-   Link: [https://www.officialcharts.com/news/afrobeats/](https://www.officialcharts.com/news/afrobeats/)  
+   Link: <a href="https://www.officialcharts.com/news/afrobeats/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/news/afrobeats/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adekunle-gold-2021... The UK&#x27;s Official Top 20 Afrobeats songs of 2020. specialist-number-1...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3hDyz2BViz4](https://www.youtube.com/watch?v=3hDyz2BViz4)  
+   Link: <a href="https://www.youtube.com/watch?v=3hDyz2BViz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3hDyz2BViz4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official | meaning of OfficialWhat is OFFICIAL meaning? ---------- Susan Miller (2021, December 16.) Official meaning www.language.founda...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thenativemag.com  
    Title: Starting next week, March 29. — chart data (@  
-   Link: [https://thenativemag.com/billboard-afronation-chart/](https://thenativemag.com/billboard-afronation-chart/)  
+   Link: <a href="https://thenativemag.com/billboard-afronation-chart/" target="_blank" rel="noopener noreferrer nofollow">https://thenativemag.com/billboard-afronation-chart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard teams up with Afronation for Afrobeats songs chart23 Mar 2022 — Billboard to launch new US Afrobeats Songs Chart, ranking the t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thenativemag.com  
    Title: billboard afrobeats chart takeaways  
-   Link: [https://thenativemag.com/billboard-afrobeats-chart-takeaways/](https://thenativemag.com/billboard-afrobeats-chart-takeaways/)  
+   Link: <a href="https://thenativemag.com/billboard-afrobeats-chart-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thenativemag.com/billboard-afrobeats-chart-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four takeaways from the inaugural Billboard Afrobeats chartMar 31, 2022 — Amidst all the excitement surrounding the Billboard Afrobeats C...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTGDqYBDIRy/](https://www.instagram.com/reel/DTGDqYBDIRy/)  
+   Link: <a href="https://www.instagram.com/reel/DTGDqYBDIRy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTGDqYBDIRy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa, gaining international recognition for her unique sound...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dancehallmag.com  
    Title: billboard creates us chart for afrobeats songs after ditching reggae song chart  
-   Link: [https://www.dancehallmag.com/2022/03/23/news/billboard-creates-us-chart-for-afrobeats-songs-after-ditching-reggae-song-chart.html](https://www.dancehallmag.com/2022/03/23/news/billboard-creates-us-chart-for-afrobeats-songs-after-ditching-reggae-song-chart.html)  
+   Link: <a href="https://www.dancehallmag.com/2022/03/23/news/billboard-creates-us-chart-for-afrobeats-songs-after-ditching-reggae-song-chart.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dancehallmag.com/2022/03/23/news/billboard-creates-us-chart-for-afrobeats-songs-after-ditching-reggae-song-chart.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Creates US Chart For Afrobeats Songs After...23 Mar 2022 — According to a release from Billboard, the US Afrobeats Songs chart...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: thatgrapejuice.net  
-   Link: [https://thatgrapejuice.net/2020/07/major-official-afrobeats-chart-launched/](https://thatgrapejuice.net/2020/07/major-official-afrobeats-chart-launched/)  
+   Link: <a href="https://thatgrapejuice.net/2020/07/major-official-afrobeats-chart-launched/" target="_blank" rel="noopener noreferrer nofollow">https://thatgrapejuice.net/2020/07/major-official-afrobeats-chart-launched/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official UK Afrobeats Chart Launched21 Jul 2020 — Set to be unveiled each week by way of new BBC 1xtra offering The Official UK Afrobeats...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: dukeconcept.com  
    Title: billboard afronation afrobeats  
-   Link: [https://www.dukeconcept.com/latest-articles/billboard-afronation-afrobeats](https://www.dukeconcept.com/latest-articles/billboard-afronation-afrobeats)  
+   Link: <a href="https://www.dukeconcept.com/latest-articles/billboard-afronation-afrobeats" target="_blank" rel="noopener noreferrer nofollow">https://www.dukeconcept.com/latest-articles/billboard-afronation-afrobeats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Nation and Billboard partner to debut new US...22 Mar 2025 — The 50-position Billboard US Afrobeats Songs chart ranks the most popu...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: support.luminatedata.com  
-   Link: [https://support.luminatedata.com/portal/en/kb/articles/charts](https://support.luminatedata.com/portal/en/kb/articles/charts)  
+   Link: <a href="https://support.luminatedata.com/portal/en/kb/articles/charts" target="_blank" rel="noopener noreferrer nofollow">https://support.luminatedata.com/portal/en/kb/articles/charts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Each chart includes a customizable grid view with activity breakouts, week-over-week...Read more...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/books/edited-volume/21354/chapter/109648577/Platform-Distribution-of-Music-How-Afrobeats](https://www.emerald.com/books/edited-volume/21354/chapter/109648577/Platform-Distribution-of-Music-How-Afrobeats)  
+   Link: <a href="https://www.emerald.com/books/edited-volume/21354/chapter/109648577/Platform-Distribution-of-Music-How-Afrobeats" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/21354/chapter/109648577/Platform-Distribution-of-Music-How-Afrobeats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingPlatform Distribution of Music: How Afrobeats Artists Build...“Afrobeats” is an umbrella term that describes contempor...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CxkvgwoS3IQ](https://www.youtube.com/watch?v=CxkvgwoS3IQ)  
+   Link: <a href="https://www.youtube.com/watch?v=CxkvgwoS3IQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CxkvgwoS3IQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Darkoo and One Acen thank fans as Gangsta is crowned top...Darkoo and One Acen thank their fans as their track Gangsta is revealed to be...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
    Title: celebrating one year official uk afrobeats chart  
-   Link: [https://www.linkedin.com/pulse/celebrating-one-year-official-uk-afrobeats-chart-](https://www.linkedin.com/pulse/celebrating-one-year-official-uk-afrobeats-chart-)  
+   Link: <a href="https://www.linkedin.com/pulse/celebrating-one-year-official-uk-afrobeats-chart-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/celebrating-one-year-official-uk-afrobeats-chart-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating one year of the Official UK Afrobeats ChartLaunched in July 2020 as a collaboration between the Official Charts Company and m...</p></details>
    Published: July 2020  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CR8lRf1jiJW/](https://www.instagram.com/p/CR8lRf1jiJW/)  
+   Link: <a href="https://www.instagram.com/p/CR8lRf1jiJW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CR8lRf1jiJW/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2020 with @afronation, the weekly Top 20 – compiled...Read more...</p></details>
    Published: July 2020  
 
 35. <a id="endnote-35"></a>
    Source: africanews.com  
    Title: afrobeats billboard to launch first us chart  
-   Link: [https://www.africanews.com/2022/03/25/afrobeats-billboard-to-launch-first-us-chart/](https://www.africanews.com/2022/03/25/afrobeats-billboard-to-launch-first-us-chart/)  
+   Link: <a href="https://www.africanews.com/2022/03/25/afrobeats-billboard-to-launch-first-us-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.africanews.com/2022/03/25/afrobeats-billboard-to-launch-first-us-chart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrobeats: Billboard to launch first US chart | Africanews13 Aug 2024 — The chart will go live on March 29 and rank the top 50 most popul...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AdesopeOlajide/posts/shopsydoosinsights-on-over-becoming-the-number-1-record-on-the-official-afrobeat/1505299298262395/](https://www.facebook.com/AdesopeOlajide/posts/shopsydoosinsights-on-over-becoming-the-number-1-record-on-the-official-afrobeat/1505299298262395/)  
+   Link: <a href="https://www.facebook.com/AdesopeOlajide/posts/shopsydoosinsights-on-over-becoming-the-number-1-record-on-the-official-afrobeat/1505299298262395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AdesopeOlajide/posts/shopsydoosinsights-on-over-becoming-the-number-1-record-on-the-official-afrobeat/1505299298262395/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>) The UK&#x27;s biggest Afrobeats songs of the week based on...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
    Title: The Billboard charts are hugely influential  
-   Link: [https://www.facebook.com/Billboard/posts/the-billboard-charts-are-hugely-influential-keith-caulfield-explains-how-they-wo/1241158247884751/](https://www.facebook.com/Billboard/posts/the-billboard-charts-are-hugely-influential-keith-caulfield-explains-how-they-wo/1241158247884751/)  
+   Link: <a href="https://www.facebook.com/Billboard/posts/the-billboard-charts-are-hugely-influential-keith-caulfield-explains-how-they-wo/1241158247884751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/the-billboard-charts-are-hugely-influential-keith-caulfield-explains-how-they-wo/1241158247884751/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Caulfield...The Billboard chart is a renowned music popularity chart that ranks the performance of songs and albums in the United...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/gb/playlist/the-uks-official-top-20-afrobeats-artists-of-the/pl.e39760d499bd4ecc9f0e94a8e134a8e2](https://music.apple.com/gb/playlist/the-uks-official-top-20-afrobeats-artists-of-the/pl.e39760d499bd4ecc9f0e94a8e134a8e2)  
+   Link: <a href="https://music.apple.com/gb/playlist/the-uks-official-top-20-afrobeats-artists-of-the/pl.e39760d499bd4ecc9f0e94a8e134a8e2" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/gb/playlist/the-uks-official-top-20-afrobeats-artists-of-the/pl.e39760d499bd4ecc9f0e94a8e134a8e2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎The UK&#x27;s Official Top 20 Afrobeats Artists Of The Past 12...The Top 20 biggest Afrobeats artists and their biggest Afrobeats t...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: africanews.com  
-   Link: [https://www.africanews.com/2022/03/30/first-ever-billboard-us-afrobeats-chart-check-out-top-10/](https://www.africanews.com/2022/03/30/first-ever-billboard-us-afrobeats-chart-check-out-top-10/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AfricanewsFirst ever Billboard US Afrobeats chart: Check out Top 10 songsAug 13, 2024 — Nigerian singer CKay tops the first ever Billboar...</p></details>
+   Link: <a href="https://www.africanews.com/2022/03/30/first-ever-billboard-us-afrobeats-chart-check-out-top-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.africanews.com/2022/03/30/first-ever-billboard-us-afrobeats-chart-check-out-top-10/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First ever Billboard US Afrobeats chart: Check out Top 10 songsAug 13, 2024 — Nigerian singer CKay tops the first ever Billboar...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/dictionary/official](https://www.britannica.com/dictionary/official)  
+   Link: <a href="https://www.britannica.com/dictionary/official" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/official</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t: a person who holds an officeRead more...</p></details>

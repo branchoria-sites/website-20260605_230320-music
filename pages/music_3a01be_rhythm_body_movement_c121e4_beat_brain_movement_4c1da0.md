@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c
 - music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096
 tags:
-- music
+- music-3-a01-be
 - rhythm
 - beat-brain
 keywords:
-- music
+- music-3-a01-be
 - rhythm
 - beat-brain
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Beat perception activates motor systems even when listeners sit still, helping explain why rhythm can feel like a bodily invitation.
 hero_summary: Beat perception activates motor systems even when listeners sit still, helping explain why rhythm can feel like a bodily invitation.
 layout: default
 permalink: /beat-brain/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /rhythm/
 nav_short_title: Beat Brain
 title: Why Your Body Hears the Beat First
-title_full: Why Your Body Hears the Beat First | Rhythm
+title_full: Why Your Body Hears the Beat First
 display_title_short: Beat Brain
 display_title: Beat Brain
 heading_title: Why Your Body Hears the Beat First
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Rhythm Makes Music Feel Physical | Music
+parent_title: Why Rhythm Makes Music Feel Physical
 parent_permalink: /rhythm/
 parent_nav_short_title: Rhythm
 parent_heading_title: Why Rhythm Makes Music Feel Physical
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Off Beat Rhythms Make People Move
 up_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -259,7 +259,7 @@ next_link:
   permalink: /hooks/
   short_title: Hooks
   heading_title: Why Chants Stay in the Body
-date: '2026-06-09 07:05:55 '
+date: '2026-06-11 23:34:19 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1.webp
@@ -270,13 +270,12 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_moveme
 
 A beat feels [physical]({{ 'physical/' | relative_url }}) because the brain treats rhythm partly as a movement problem, even when the listener is sitting still. Hearing a regular pulse does not only involve the auditory system recognising sound patterns; it also recruits motor [regions]({{ 'regions/' | relative_url }}) involved in timing, planning and sequencing action. That is why a foot tap can feel almost automatic: the brain is already preparing “when” a movement could happen before the listener consciously decides to move.
 
-
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-dark.svg" | relative_url }}" alt="Beat Brain illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key idea is auditory-motor coupling. Beat perception links listening with movement-readiness through networks that include the supplementary motor area, premotor cortex, basal ganglia, cerebellum and auditory cortex. Studies using brain imaging, behavioural tasks, infant research and movement disorders all point in the same direction: the body does not simply react after the beat is understood. The brain helps understand the beat by simulating, predicting and organising possible movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">PubMedRhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow beat perception coopts motor neurophysiology</span><span class="citation-popover-snippet">PMC - NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</span></span></span>
+The key idea is auditory-motor coupling. Beat perception links listening with movement-readiness through networks that include the supplementary motor area, premotor cortex, basal ganglia, cerebellum and auditory cortex. Studies using brain imaging, behavioural tasks, infant research and movement disorders all point in the same direction: the body does not simply react after the beat is understood. The brain helps understand the beat by simulating, predicting and organising possible movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow beat perception coopts motor neurophysiology</span><span class="citation-popover-snippet">NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</span></span></span>
 
 ## Why the Motor Brain Listens Too
 
-The most important finding is also the easiest to miss: motor areas can activate during [rhythm]({{ 'rhythm/' | relative_url }}) listening even when no visible movement is made. In a landmark functional MRI study, Jessica Grahn and Matthew Brett found that listening to rhythms engaged a bilateral network including the supplementary motor area, premotor regions, basal ganglia, cerebellum and auditory areas, while the lack of primary motor cortex activation supported the idea that participants were not simply moving secretly in the scanner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">PubMedRhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span>
+The most important finding is also the easiest to miss: motor areas can activate during [rhythm]({{ 'rhythm/' | relative_url }}) listening even when no visible movement is made. In a landmark functional MRI study, Jessica Grahn and Matthew Brett found that listening to rhythms engaged a bilateral network including the supplementary motor area, premotor regions, basal ganglia, cerebellum and auditory areas, while the lack of primary motor cortex activation supported the idea that participants were not simply moving secretly in the scanner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span>
 
 That matters because it changes what “hearing the beat” means. The brain is not only analysing a sound object from the outside. It is preparing a timed action model: where the pulse is, when the next important moment will arrive, and how a movement could align with it. The movement may never happen, but the preparation helps the rhythm become usable.
 
@@ -294,14 +293,13 @@ This explains why a beat can seem to “pull” movement out of the body. The li
 
 It also explains why rhythm can survive missing information. In many songs, the beat is not struck on every pulse. A bassline, hi-hat, vocal phrase or handclap may imply the timing without spelling it out. The listener’s brain fills in the regular pulse, and the motor system helps maintain it across gaps, syncopations and pauses.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T5-iKwIJPjQ" title="Moving to the Beat: Music&#x27;s Role in Parkinson&#x27;s Disease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T5-iKwIJPjQ" target="_blank" rel="noopener noreferrer">Moving to the Beat: Music&#x27;s Role in Parkinson&#x27;s Disease</a></p><p class="youtube-embed-meta">Channel: Demystifying Medicine McMaster &middot; Views: 465 &middot; Uploaded: December 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T5-iKwIJPjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T5-iKwIJPjQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Pulse Feels Easier Than Meter Theory
 
 Pulse is the felt regular beat. Meter is the organised pattern of strong and weak beats that musicians may describe as two, three, four or more beats in a bar. For many listeners, pulse is immediate while meter theory feels abstract because the brain can prepare movement from a simple repeating timing point without needing formal labels.
 
-A person can walk, clap or nod to a song without knowing whether it is in four-four time, compound time or an unusual metre. The body mainly needs a reliable “when”. [Music]({{ 'music/' | relative_url }}) theory gives names to larger structures, but beat perception gives the nervous system a practical timing signal.
+A person can walk, clap or nod to a song without knowing whether it is in four-four time, compound time or an unusual metre. The body mainly needs a reliable “when”. Music theory gives names to larger structures, but beat perception gives the nervous system a practical timing signal.
 
 This is why metronomes, kick drums and clapping patterns can feel so direct. They reduce ambiguity and make prediction cheap. More complex grooves can still be highly danceable, but only if the listener can recover the pulse. When the pulse becomes too hard to infer, the motor invitation weakens: the rhythm may remain interesting, but it becomes harder to join.
 
@@ -317,7 +315,6 @@ The point for music is clear: rhythm is not merely decorative sound. A beat can 
 
 The evidence also warns against oversimplifying. Not every rhythmic cue helps every person. One study found that people with weaker beat perception had more difficulty synchronising gait to some musical cues, and low-groove music could be less helpful than high-groove music or metronome cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-2-dark.svg" | relative_url }}" alt="Beat Brain illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Babies, Bodies and the Early Sense of Beat
 
@@ -329,14 +326,12 @@ This is one reason [lullabies]({{ 'lullabies/' | relative_url }}), rocking, clap
 
 Recent developmental work also suggests that newborns can detect beat or rhythmic regularity, though researchers continue to debate how innate rhythm perception is and how it develops through prenatal sound exposure, caregiving and learning. The cautious takeaway is not that babies are born as tiny dancers, but that the human brain is prepared to treat rhythm as a predictive, bodily signal from the start. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-title">CORDISBaby&#x27;s got rhythm: research shows that beat perception is innate</span><span class="citation-popover-snippet">CORDISBaby&#x27;s got rhythm: research shows that beat perception is innate</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-3-dark.svg" | relative_url }}" alt="Beat Brain illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Makes Music Feel Like an Invitation
 
 A beat invites movement because it gives the brain a future. Instead of hearing isolated sounds, the listener senses a pattern that points forward: the next pulse is coming, the body could meet it, and other people could meet it too.
 
 That invitation depends on several linked mechanisms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,8 +343,7 @@ That invitation depends on several linked mechanisms:
 
 </div>
 
-This is why rhythm can feel more bodily than [melody]({{ 'melody/' | relative_url }}) alone. Melody may move emotion and memory, but beat gives the nervous system a timed place to act. A song does not need to command the listener to move; the brain has already built a movement-ready structure inside the listening experience.
-
+This is why rhythm can feel more bodily than [melody]({{ 'melody/' | relative_url }}) alone. Melody may move emotion and [memory]({{ 'memory/' | relative_url }}), but beat gives the nervous system a timed place to act. A song does not need to command the listener to move; the brain has already built a movement-ready structure inside the listening experience.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fSbrYAwTGkA" title="Brain Rhythms - How Do We Feel The Beat?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer">Brain Rhythms - How Do We Feel The Beat?</a></p><p class="youtube-embed-meta">Channel: BrainFacts.org &middot; Views: 9.6K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fSbrYAwTGkA">Open on YouTube</a></p></div></div></div>
 
@@ -361,9 +355,7 @@ There is also still debate over exactly how motor regions contribute. Some theor
 
 The strongest conclusion is therefore specific rather than exaggerated: the brain links beats to movement because beat perception uses systems normally associated with timing, sequencing and preparing action. The listener may remain still, but the beat is already being processed in a bodily way. That is why rhythm often feels less like something heard from a distance and more like something the body is being asked to join.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_1Rw49fSjPQ" title="New Brain Research Uncovers How Music Triggers Movement, Emotion, and Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_1Rw49fSjPQ" target="_blank" rel="noopener noreferrer">New Brain Research Uncovers How Music Triggers Movement, Emotion, and Connection</a></p><p class="youtube-embed-meta">Channel: Medical Dialogues &middot; Views: 123 &middot; Uploaded: October 2025 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_1Rw49fSjPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_1Rw49fSjPQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,168 +754,168 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow beat perception coopts motor neurophysiology  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/cercor/article/34/10/bhae406/7817849](https://academic.oup.com/cercor/article/34/10/bhae406/7817849)  
+   Link: <a href="https://academic.oup.com/cercor/article/34/10/bhae406/7817849" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/cercor/article/34/10/bhae406/7817849</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414](https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRhythmic engagement with music in infancy  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/</a>  
 
 6. <a id="endnote-6"></a>
    Source: cordis.europa.eu  
    Title: CORDISBaby's got rhythm: research shows that beat perception is innate  
-   Link: [https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate](https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate)  
+   Link: <a href="https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNeural Networks for Beat Perception in Musical Rhythm  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746](https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S105381192030255X](https://www.sciencedirect.com/science/article/pii/S105381192030255X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S105381192030255X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S105381192030255X</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1053811925005968](https://www.sciencedirect.com/science/article/pii/S1053811925005968)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1053811925005968" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1053811925005968</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827](https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599](https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X](https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X</a>  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: This movement may result from processing of the beat by motor areas  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17488212/](https://pubmed.ncbi.nlm.nih.gov/17488212/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedRhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17488212/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Why Do We Move to the Beat?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31846652/](https://pubmed.ncbi.nlm.nih.gov/31846652/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31846652/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31846652/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-Scale Approach...by L Damm · 2020 · Cited by 137 — Humans&#x27; ability to synchronize movement with auditory rhythms relies on motor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: brainmusic.org  
    Title: Grahn rhythm2007  
-   Link: [https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf](https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf)  
+   Link: <a href="https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicRhythm and Beat Perception in Motor Areas of the Brainby JA Grahn · Cited by 1586 — Moving on to the fMRI data collected in th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
    Title: Frontiers Neural Networks for Beat Perception in Musical Rhythm  
-   Link: [https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full)  
+   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full</a>  
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full</a>  
 
 19. <a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full)  
+   Link: <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
    Title: Frontiers Individual Differences in Beat Perception Affect Gait  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full</a>  
 
 21. <a id="endnote-21"></a>
    Source: brainmusic.org  
    Title: Brain Music Feeling the Beat: Movement Influences Infant Rhythm  
-   Link: [https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf](https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf)  
+   Link: <a href="https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19673753/](https://pubmed.ncbi.nlm.nih.gov/19673753/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19673753/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19673753/</a>  
 
 23. <a id="endnote-23"></a>
    Source: cordis.europa.eu  
-   Link: [https://cordis.europa.eu/project/id/801872](https://cordis.europa.eu/project/id/801872)  
+   Link: <a href="https://cordis.europa.eu/project/id/801872" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/project/id/801872</a>  
 
 24. <a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full</a>  
 
 25. <a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full</a>  
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full</a>  
 
 27. <a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Brain Rhythms  
-   Link: [https://www.youtube.com/watch?v=fSbrYAwTGkA](https://www.youtube.com/watch?v=fSbrYAwTGkA)  
+   Link: <a href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSbrYAwTGkA</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music](https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music)  
+   Link: <a href="https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music</a>  
 
 30. <a id="endnote-30"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception](https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception)  
+   Link: <a href="https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system](https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system)  
+   Link: <a href="https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review](https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review</a>  
 
 33. <a id="endnote-33"></a>
    Source: neuroscience.gsu.edu  
-   Link: [https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf](https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf)  
+   Link: <a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: physio-pedia.com  
-   Link: [https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training](https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training)  
+   Link: <a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
 
 35. <a id="endnote-35"></a>
    Source: dallabella-lab.ca  
-   Link: [https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf](https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf)  
+   Link: <a href="https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception](https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception)  
+   Link: <a href="https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology](https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology)  
+   Link: <a href="https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology</a>  
 
 38. <a id="endnote-38"></a>
    Source: jessicagrahn.com  
-   Link: [https://www.jessicagrahn.com/research-summaries.html](https://www.jessicagrahn.com/research-summaries.html)  
+   Link: <a href="https://www.jessicagrahn.com/research-summaries.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jessicagrahn.com/research-summaries.html</a>

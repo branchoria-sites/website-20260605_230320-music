@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf
 - music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096
 tags:
-- music
+- music-3-a01-be
 - rhythm
 - rhythm-therapy
 keywords:
-- music
+- music-3-a01-be
 - rhythm
 - rhythm-therapy
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Regular sound cues can help some people organise steps, gait and balance by giving movement an external timing target.
 hero_summary: Regular sound cues can help some people organise steps, gait and balance by giving movement an external timing target.
 layout: default
 permalink: /rhythm-therapy/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /rhythm/
 nav_short_title: Rhythm Therapy
 title: Can a Beat Help Bodies Move Better?
-title_full: Can a Beat Help Bodies Move Better? | Rhythm
+title_full: Can a Beat Help Bodies Move Better?
 display_title_short: Rhythm Therapy
 display_title: Rhythm Therapy
 heading_title: Can a Beat Help Bodies Move Better?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Rhythm Makes Music Feel Physical | Music
+parent_title: Why Rhythm Makes Music Feel Physical
 parent_permalink: /rhythm/
 parent_nav_short_title: Rhythm
 parent_heading_title: Why Rhythm Makes Music Feel Physical
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Off Beat Rhythms Make People Move
 up_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -265,7 +265,7 @@ next_link:
   permalink: /shared-timing/
   short_title: Shared Timing
   heading_title: How Dance Floors Turn Beats Into Belonging
-date: '2026-06-09 07:47:54 '
+date: '2026-06-11 23:55:33 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_r
 
 ## Introduction
 
-[Music]({{ 'music/' | relative_url }})’s ability to make people move is not limited to dancing. In rehabilitation clinics and research laboratories, carefully timed beats are used to help some people walk more steadily, take longer steps and improve coordination. The approach is known as rhythmic auditory cueing or rhythmic auditory stimulation (RAS): a patient synchronises movement to an external [rhythm]({{ 'rhythm/' | relative_url }}), often a metronome or music with a clear pulse. The same timing mechanism that allows dancers to stay together can give the nervous system a reliable target for organising movement. Research has found benefits for certain walking difficulties associated with conditions such as Parkinson’s disease and stroke, although the effects vary between individuals and should not be viewed as a cure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/book/59860/chapter/511395107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic8 Rhythmic Auditory Stimulation (RAS</span><span class="citation-popover-snippet">OUP Academic8 Rhythmic Auditory Stimulation (RAS) - Oxford Academic17 Apr 2025 — RAS is a neurologic rehabilitation technique used by neu...</span></span></span>
-
+Musics ability to make people move is not limited to dancing. In rehabilitation clinics and research laboratories, carefully timed beats are used to help some people walk more steadily, take longer steps and improve coordination. The approach is known as rhythmic auditory cueing or rhythmic auditory stimulation (RAS): a patient synchronises movement to an external [rhythm]({{ 'rhythm/' | relative_url }}), often a metronome or music with a clear pulse. The same timing mechanism that allows dancers to stay together can give the nervous system a reliable target for organising movement. Research has found benefits for certain walking difficulties associated with conditions such as Parkinsons disease and stroke, although the effects vary between individuals and should not be viewed as a cure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/book/59860/chapter/511395107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic8 Rhythmic Auditory Stimulation (RAS</span><span class="citation-popover-snippet">OUP Academic8 Rhythmic Auditory Stimulation (RAS) - Oxford Academic17 Apr 2025  RAS is a neurologic rehabilitation technique used by neu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-1-dark.svg" | relative_url }}" alt="Rhythm Therapy illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can a Beat Help Bodies Move Better?
@@ -286,10 +285,9 @@ Walking depends on precise timing. Each step requires coordinated activation of 
 
 Rhythmic cueing provides an external clock. Instead of relying entirely on impaired internal timing systems, the walker matches footsteps to a predictable auditory pulse. The cue may be a metronome click, a drum beat or specially selected music with a steady tempo. Therapists often adjust the tempo to match or slightly challenge a person's natural walking cadence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physio-pedia.com">[Physiopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physio-pedia.com</span><span class="citation-popover-snippet">PhysiopediaAuditory Rhythmic Stimulation for Gait TrainingAcoustic rhythms produced by metronomes or previously selected music, signal th...</span></span></span>
 
-Researchers believe the effectiveness of rhythmic cues comes from strong connections between auditory and motor networks in the brain. Hearing a regular beat can activate movement-related [regions]({{ 'regions/' | relative_url }}) even before a person moves, helping the nervous system anticipate and organise the next step. This auditory–motor coupling is one reason rhythm can influence movement so quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jnnp.bmj.com/content/62/1/22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jnnp.bmj.com">[JNNP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jnnp.bmj.com</span><span class="citation-popover-snippet">JNNPRhythmic auditory-motor facilitation of gait patterns in...by GC McIntosh · 1997 · Cited by 997 — OBJECTIVES: The effect of rhythmic...</span></span></span>
+Researchers believe the effectiveness of rhythmic cues comes from strong connections between auditory and motor networks in the brain. Hearing a regular beat can activate movement-related [regions]({{ 'regions/' | relative_url }}) even before a person moves, helping the nervous system anticipate and organise the next step. This auditorymotor coupling is one reason rhythm can influence movement so quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jnnp.bmj.com/content/62/1/22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jnnp.bmj.com">[JNNP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jnnp.bmj.com</span><span class="citation-popover-snippet">Rhythmic auditory-motor facilitation of gait patterns in...by GC McIntosh  1997  Cited by 997  OBJECTIVES: The effect of rhythmic...</span></span></span>
 
 In practice, therapists commonly use rhythmic cueing to target:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,34 +295,32 @@ In practice, therapists commonly use rhythmic cueing to target:
 * Step length. <span class="citation-chip-wrap"><a class="citation-chip" href="https://propelphysiotherapy.com/neurological/rhythmic-auditory-stimulation-gait-training-parkinsons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: propelphysiotherapy.com">[propelphysiotherapy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">propelphysiotherapy.com</span><span class="citation-popover-title">A systematic review of over 20 randomized</span><span class="citation-popover-snippet">Rhythmic Auditory Stimulation in Gait Training for Parkinson&#x27;sThis stimulus has been found to improve gait parameters such as step length...</span></span></span>
 * Cadence (steps per minute).
 * Gait symmetry between left and right sides.
-* Balance and mobility during everyday walking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</span></span></span>
+* Balance and mobility during everyday walking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</span></span></span>
 
 </div>
 
 The intervention is often combined with conventional gait training, treadmill work or broader physiotherapy rather than used alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41983-023-00606-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Combination of rhythmic auditory stimulation with treadmill training enhances the gait performance. Similar content being viewed by...Re...</span></span></span>
 
-## Why Parkinson’s Disease Became a Major Test Case
+## Why Parkinsons Disease Became a Major Test Case
 
-Parkinson’s disease has provided some of the strongest evidence for rhythmic gait cueing. Many people with Parkinson’s experience shortened steps, slower walking, reduced arm swing and episodes of “freezing of gait”, in which movement briefly stalls despite the intention to walk.
+Parkinsons disease has provided some of the strongest evidence for rhythmic gait cueing. Many people with Parkinsons experience shortened steps, slower walking, reduced arm swing and episodes of freezing of gait, in which movement briefly stalls despite the intention to walk.
 
-Early studies showed that training with rhythmic auditory stimulation could improve gait velocity, stride length and cadence compared with self-paced walking. One influential trial reported improvements of roughly 25% in walking speed, 12% in stride length and 10% in cadence after rhythmic training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</span></span></span>
+Early studies showed that training with rhythmic auditory stimulation could improve gait velocity, stride length and cadence compared with self-paced walking. One influential trial reported improvements of roughly 25% in walking speed, 12% in stride length and 10% in cadence after rhythmic training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</span></span></span>
 
-More recent systematic reviews and meta-analyses continue to find positive effects. Reviews of multiple randomised controlled trials report improvements in gait, mobility and quality of life measures, with gains particularly evident in walking speed and stride length. Some studies also suggest reductions in freezing episodes and falls risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/325578692_Rhythmic_auditory_stimulation_for_reduction_of_falls_in_Parkinson%27s_disease_a_randomized_controlled_study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Rhythmic auditory stimulation for reduction of falls in...Conclusion RAS training significantly reduced the number of falls in Par...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1043575/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Effects of rhythmic auditory stimulation on motor function...by L Wang · 2022 · Cited by 35 — This study aimed to summarize the effectiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</span></span></span>
+More recent systematic reviews and meta-analyses continue to find positive effects. Reviews of multiple randomised controlled trials report improvements in gait, mobility and quality of life measures, with gains particularly evident in walking speed and stride length. Some studies also suggest reductions in freezing episodes and falls risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/325578692_Rhythmic_auditory_stimulation_for_reduction_of_falls_in_Parkinson%27s_disease_a_randomized_controlled_study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Rhythmic auditory stimulation for reduction of falls in...Conclusion RAS training significantly reduced the number of falls in Par...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1043575/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Effects of rhythmic auditory stimulation on motor function...by L Wang  2022  Cited by 35  This study aimed to summarize the effectiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</span></span></span>
 
-A useful way to understand these findings is that rhythmic cues may help bypass some of the impaired internal timing processes associated with Parkinson’s disease. The external beat acts as a movement organiser, giving the walker a predictable structure to follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRhythmic auditory stimulation as a potential...by Y Koshimori · 2023 · Cited by 26 — In PD, RAS training has been shown to...</span></span></span>
+A useful way to understand these findings is that rhythmic cues may help bypass some of the impaired internal timing processes associated with Parkinsons disease. The external beat acts as a movement organiser, giving the walker a predictable structure to follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rhythmic auditory stimulation as a potential...by Y Koshimori  2023  Cited by 26  In PD, RAS training has been shown to...</span></span></span>
 
-However, not every patient responds equally well. Studies have found substantial variation between individuals, with rhythmic ability and the capacity to synchronise movements to a beat appearing to influence outcomes. Some patients improve dramatically, while others experience only modest changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep42005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureGait improvement via rhythmic stimulation in Parkinson&#x27;s...by SD Bella · 2017 · Cited by 239 — Training based on rhythmic auditory...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41531-018-0043-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">However, this effect varies considerably across patients...</span></span></span>
-
+However, not every patient responds equally well. Studies have found substantial variation between individuals, with rhythmic ability and the capacity to synchronise movements to a beat appearing to influence outcomes. Some patients improve dramatically, while others experience only modest changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep42005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Gait improvement via rhythmic stimulation in Parkinson&#x27;s...by SD Bella  2017  Cited by 239  Training based on rhythmic auditory...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41531-018-0043-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">However, this effect varies considerably across patients...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-2-dark.svg" | relative_url }}" alt="Rhythm Therapy illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Stroke Research Has Found
 
 Stroke rehabilitation has produced a second important body of evidence. After a stroke, many people develop asymmetrical gait patterns, reduced walking speed and balance problems that can limit independence.
 
-Research dating back to the 1990s found that rhythmic facilitation could enhance gait rehabilitation in stroke patients. Subsequent trials and reviews have generally supported the use of auditory cueing as part of walking recovery programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRhythmic auditory stimulation as a potential...by Y Koshimori · 2023 · Cited by 26 — In PD, RAS training has been shown to...</span></span></span>
+Research dating back to the 1990s found that rhythmic facilitation could enhance gait rehabilitation in stroke patients. Subsequent trials and reviews have generally supported the use of auditory cueing as part of walking recovery programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rhythmic auditory stimulation as a potential...by Y Koshimori  2023  Cited by 26  In PD, RAS training has been shown to...</span></span></span>
 
 Meta-analyses report improvements in:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,23 +328,22 @@ Meta-analyses report improvements in:
 * Stride length.
 * Cadence.
 * Dynamic balance.
-* Timed mobility tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-019-38723-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureEffects of (music-based) rhythmic auditory cueing training...by S Ghai · 2019 · Cited by 111 — This review strongly recommends the...</span></span></span>
+* Timed mobility tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-019-38723-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Effects of (music-based) rhythmic auditory cueing training...by S Ghai  2019  Cited by 111  This review strongly recommends the...</span></span></span>
 
 </div>
 
-Several studies have also found that adding rhythmic cues to treadmill training can outperform comparable gait training without auditory timing support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12906-023-04310-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">effects of rhythmic auditory stimulation on functional...by S Gonzalez-Hoelling · 2024 · Cited by 14 — Systematic reviews have shown tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10882642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby V Pando-Naude · 2024 · Cited by 12 — Rhythmic auditory stimulation promotes gait recovery in Parkinson&#x27;s patients: a systematic rev...</span></span></span>
+Several studies have also found that adding rhythmic cues to treadmill training can outperform comparable gait training without auditory timing support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12906-023-04310-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">effects of rhythmic auditory stimulation on functional...by S Gonzalez-Hoelling  2024  Cited by 14  Systematic reviews have shown tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10882642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Pando-Naude  2024  Cited by 12  Rhythmic auditory stimulation promotes gait recovery in Parkinson&#x27;s patients: a systematic rev...</span></span></span>
 
-For stroke survivors, the practical value is often straightforward: rhythm provides a consistent reference point when internal coordination has been disrupted. Rather than concentrating on every individual muscle action, the patient focuses on matching movement to a predictable pulse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9366143/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby X Ye · 2022 · Cited by 59 — Studies have shown that gait training accompanied by music and rhythmic auditory stimulation (RAS) can...</span></span></span>
-
+For stroke survivors, the practical value is often straightforward: rhythm provides a consistent reference point when internal coordination has been disrupted. Rather than concentrating on every individual muscle action, the patient focuses on matching movement to a predictable pulse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9366143/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by X Ye  2022  Cited by 59  Studies have shown that gait training accompanied by music and rhythmic auditory stimulation (RAS) can...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-3-dark.svg" | relative_url }}" alt="Rhythm Therapy illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Metronomes to Personalised Music
 
 Although the basic principle is simple, implementation choices matter.
 
-Some rehabilitation programmes use metronomes because they provide highly precise timing. Others use music because many people find it more engaging and motivating during repeated training sessions. Music can also encourage longer participation and make rehabilitation feel less mechanical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apdaparkinson.org/article/music-therapy-parkinsons-disease/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apdaparkinson.org">[American Parkinson Disease Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apdaparkinson.org</span><span class="citation-popover-title">People with PD often</span><span class="citation-popover-snippet">American Parkinson Disease AssociationMusic Therapy for Parkinson&#x27;s diseaseFeb 5, 2019 — One technique is known as rhythmic auditory cuei...</span></span></span>
+Some rehabilitation programmes use metronomes because they provide highly precise timing. Others use music because many people find it more engaging and motivating during repeated training sessions. Music can also encourage longer participation and make rehabilitation feel less mechanical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apdaparkinson.org/article/music-therapy-parkinsons-disease/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apdaparkinson.org">[American Parkinson Disease Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apdaparkinson.org</span><span class="citation-popover-title">People with PD often</span><span class="citation-popover-snippet">American Parkinson Disease AssociationMusic Therapy for Parkinson&#x27;s diseaseFeb 5, 2019  One technique is known as rhythmic auditory cuei...</span></span></span>
 
-Recent work has explored wearable technologies and digital systems that deliver personalised rhythmic cues during everyday walking rather than only in clinics. Researchers are investigating smartphone-based systems, adaptive music platforms and wearable cueing devices that can adjust rhythm in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-05952-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInfluence of wearable rhythmic auditory stimulation on...by S Scataglini · 2025 · Cited by 6 — The aim of this study is to investi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41531-025-00952-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Amplifying walking activity in Parkinson&#x27;s disease through...by F Porciuncula · 2025 · Cited by 8 — We demonstrate the effectiveness of...</span></span></span>
+Recent work has explored wearable technologies and digital systems that deliver personalised rhythmic cues during everyday walking rather than only in clinics. Researchers are investigating smartphone-based systems, adaptive music platforms and wearable cueing devices that can adjust rhythm in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-05952-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Influence of wearable rhythmic auditory stimulation on...by S Scataglini  2025  Cited by 6  The aim of this study is to investi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41531-025-00952-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Amplifying walking activity in Parkinson&#x27;s disease through...by F Porciuncula  2025  Cited by 8  We demonstrate the effectiveness of...</span></span></span>
 
 This shift reflects a broader rehabilitation goal: turning rhythmic cueing from a supervised therapy exercise into a practical support tool for daily mobility.
 
@@ -356,13 +351,13 @@ This shift reflects a broader rehabilitation goal: turning rhythmic cueing from 
 
 The evidence for rhythmic cueing is encouraging, but it is important not to overstate what it achieves.
 
-Rhythmic auditory stimulation is generally used as a rehabilitation aid, not as a replacement for medical treatment, physiotherapy or disease management. Improvements are typically measured in gait parameters such as speed, stride length, balance and mobility rather than complete recovery from an underlying neurological condition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</span></span></span>
+Rhythmic auditory stimulation is generally used as a rehabilitation aid, not as a replacement for medical treatment, physiotherapy or disease management. Improvements are typically measured in gait parameters such as speed, stride length, balance and mobility rather than complete recovery from an underlying neurological condition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</span></span></span>
 
-Researchers also note limitations in the evidence base. Many studies involve relatively small participant groups, and some reviews rate the overall quality of evidence as low to moderate because blinding and other methodological controls are difficult in movement-training research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</span></span></span>
+Researchers also note limitations in the evidence base. Many studies involve relatively small participant groups, and some reviews rate the overall quality of evidence as low to moderate because blinding and other methodological controls are difficult in movement-training research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</span></span></span>
 
-Perhaps the most important caveat is that rhythm does not work equally well for everyone. Success depends on factors including diagnosis, severity of impairment, cognitive function, responsiveness to auditory cues and the ability to synchronise movement with a beat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-41790-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Effects of unilateral step training along with rhythmic...by S Khalid · 2026 — The objective of this study was to determine and compare...</span></span></span>
+Perhaps the most important caveat is that rhythm does not work equally well for everyone. Success depends on factors including diagnosis, severity of impairment, cognitive function, responsiveness to auditory cues and the ability to synchronise movement with a beat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-41790-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Effects of unilateral step training along with rhythmic...by S Khalid  2026  The objective of this study was to determine and compare...</span></span></span>
 
-Even so, the broader lesson is striking. A simple rhythmic pulse—one of music’s most basic ingredients—can become a clinical tool. By providing an external timing structure, rhythm can help some people regain smoother, more confident movement, demonstrating that the connection between music and the body extends far beyond performance and dance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/book/59860/chapter/511395107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic8 Rhythmic Auditory Stimulation (RAS</span><span class="citation-popover-snippet">OUP Academic8 Rhythmic Auditory Stimulation (RAS) - Oxford Academic17 Apr 2025 — RAS is a neurologic rehabilitation technique used by neu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</span></span></span>
+Even so, the broader lesson is striking. A simple rhythmic pulseone of musics most basic ingredientscan become a clinical tool. By providing an external timing structure, rhythm can help some people regain smoother, more confident movement, demonstrating that the connection between music and the body extends far beyond performance and dance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/book/59860/chapter/511395107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic8 Rhythmic Auditory Stimulation (RAS</span><span class="citation-popover-snippet">OUP Academic8 Rhythmic Auditory Stimulation (RAS) - Oxford Academic17 Apr 2025  RAS is a neurologic rehabilitation technique used by neu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -497,11 +492,11 @@ Even so, the broader lesson is striking. A simple rhythmic pulse—one of music�
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=percussion+shaker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="percussion shaker" data-ebay-reference="rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade Indonesian Seed Pod &amp; Rattan Shaker â€“ Ethnic Percussion Instrument"><img src="{{ '/assets/images/marketplace-covers/2226aadb14c4b7da8d97.jpg' | relative_url }}" alt="Listing image for Handmade Indonesian Seed Pod &amp; Rattan Shaker â€“ Ethnic Percussion Instrument" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=percussion+shaker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="percussion shaker" data-ebay-reference="rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade Indonesian Seed Pod &amp; Rattan Shaker – Ethnic Percussion Instrument"><img src="{{ '/assets/images/marketplace-covers/2226aadb14c4b7da8d97.jpg' | relative_url }}" alt="Listing image for Handmade Indonesian Seed Pod &amp; Rattan Shaker – Ethnic Percussion Instrument" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=percussion+shaker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="percussion shaker" data-ebay-reference="rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker" target="_blank" rel="sponsored noopener noreferrer">Handmade Indonesian Seed Pod &amp; Rattan Shaker â€“ Ethnic Percussion Instrument</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=percussion+shaker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="percussion shaker" data-ebay-reference="rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker" target="_blank" rel="sponsored noopener noreferrer">Handmade Indonesian Seed Pod &amp; Rattan Shaker – Ethnic Percussion Instrument</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=percussion+shaker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="percussion shaker" data-ebay-reference="rhythm-therapy-can-a-beat-help-bodies-move-better-music-percussion-shaker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for percussion shaker">Search <span data-ebay-domain-label>eBay.co.uk</span>: percussion shaker</a>
         <div class="fr-book-actions">
@@ -761,234 +756,234 @@ Even so, the broader lesson is striking. A simple rhythmic pulse—one of music�
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: Academic8 Rhythmic Auditory Stimulation (RAS)  
-   Link: [https://academic.oup.com/book/59860/chapter/511395107](https://academic.oup.com/book/59860/chapter/511395107)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic8 Rhythmic Auditory Stimulation (RAS) - Oxford Academic17 Apr 2025 — RAS is a neurologic rehabilitation technique used by neu...</p></details>
+   Link: <a href="https://academic.oup.com/book/59860/chapter/511395107" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/59860/chapter/511395107</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic8 Rhythmic Auditory Stimulation (RAS) - Oxford Academic17 Apr 2025  RAS is a neurologic rehabilitation technique used by neu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10882642/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10882642/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby V Pando-Naude · 2024 · Cited by 12 — Rhythmic auditory stimulation promotes gait recovery in Parkinson&#x27;s patients: a systematic rev...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10882642/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10882642/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Pando-Naude  2024  Cited by 12  Rhythmic auditory stimulation promotes gait recovery in Parkinson&#x27;s patients: a systematic rev...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jnnp.bmj.com  
-   Link: [https://jnnp.bmj.com/content/62/1/22](https://jnnp.bmj.com/content/62/1/22)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JNNPRhythmic auditory-motor facilitation of gait patterns in...by GC McIntosh · 1997 · Cited by 997 — OBJECTIVES: The effect of rhythmic...</p></details>
+   Link: <a href="https://jnnp.bmj.com/content/62/1/22" target="_blank" rel="noopener noreferrer nofollow">https://jnnp.bmj.com/content/62/1/22</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic auditory-motor facilitation of gait patterns in...by GC McIntosh  1997  Cited by 997  OBJECTIVES: The effect of rhythmic...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41983-023-00606-w](https://link.springer.com/article/10.1186/s41983-023-00606-w)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41983-023-00606-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41983-023-00606-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combination of rhythmic auditory stimulation with treadmill training enhances the gait performance. Similar content being viewed by...Re...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9366143/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9366143/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby X Ye · 2022 · Cited by 59 — Studies have shown that gait training accompanied by music and rhythmic auditory stimulation (RAS) can...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9366143/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9366143/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by X Ye  2022  Cited by 59  Studies have shown that gait training accompanied by music and rhythmic auditory stimulation (RAS) can...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827](https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRhythmic auditory stimulation as a potential...by Y Koshimori · 2023 · Cited by 26 — In PD, RAS training has been shown to...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic auditory stimulation as a potential...by Y Koshimori  2023  Cited by 26  In PD, RAS training has been shown to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/325578692_Rhythmic_auditory_stimulation_for_reduction_of_falls_in_Parkinson%27s_disease_a_randomized_controlled_study](https://www.researchgate.net/publication/325578692_Rhythmic_auditory_stimulation_for_reduction_of_falls_in_Parkinson%27s_disease_a_randomized_controlled_study)  
+   Link: <a href="https://www.researchgate.net/publication/325578692_Rhythmic_auditory_stimulation_for_reduction_of_falls_in_Parkinson%27s_disease_a_randomized_controlled_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325578692_Rhythmic_auditory_stimulation_for_reduction_of_falls_in_Parkinson%27s_disease_a_randomized_controlled_study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rhythmic auditory stimulation for reduction of falls in...Conclusion RAS training significantly reduced the number of falls in Par...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/srep42005](https://www.nature.com/articles/srep42005)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureGait improvement via rhythmic stimulation in Parkinson&#x27;s...by SD Bella · 2017 · Cited by 239 — Training based on rhythmic auditory...</p></details>
+   Link: <a href="https://www.nature.com/articles/srep42005" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep42005</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gait improvement via rhythmic stimulation in Parkinson&#x27;s...by SD Bella  2017  Cited by 239  Training based on rhythmic auditory...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41531-018-0043-7](https://www.nature.com/articles/s41531-018-0043-7)  
+   Link: <a href="https://www.nature.com/articles/s41531-018-0043-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41531-018-0043-7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this effect varies considerably across patients...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5324039/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5324039/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>improvement via rhythmic stimulation in Parkinson&#x27;s...by S Dalla Bella · 2017 · Cited by 233 — Training based on rhythmic auditory stimu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5324039/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5324039/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>improvement via rhythmic stimulation in Parkinson&#x27;s...by S Dalla Bella  2017  Cited by 233  Training based on rhythmic auditory stimu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022510X97001469](https://www.sciencedirect.com/science/article/abs/pii/S0022510X97001469)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRhythmic facilitation of gait training in hemiparetic stroke...by MH Thaut · 1997 · Cited by 662 — The data offer evidence...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022510X97001469" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022510X97001469</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic facilitation of gait training in hemiparetic stroke...by MH Thaut  1997  Cited by 662  The data offer evidence...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jmt/article-abstract/53/2/149/2614212](https://academic.oup.com/jmt/article-abstract/53/2/149/2614212)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicRhythmic Auditory Cueing in Motor Rehabilitation for Stroke...by GE Yoo · 2016 · Cited by 147 — This study aimed to systemat...</p></details>
+   Link: <a href="https://academic.oup.com/jmt/article-abstract/53/2/149/2614212" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jmt/article-abstract/53/2/149/2614212</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicRhythmic Auditory Cueing in Motor Rehabilitation for Stroke...by GE Yoo  2016  Cited by 147  This study aimed to systemat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-019-38723-3](https://www.nature.com/articles/s41598-019-38723-3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureEffects of (music-based) rhythmic auditory cueing training...by S Ghai · 2019 · Cited by 111 — This review strongly recommends the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-019-38723-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-38723-3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of (music-based) rhythmic auditory cueing training...by S Ghai  2019  Cited by 111  This review strongly recommends the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEffects of gait training with rhythmic auditory stimulation  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4905878/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4905878/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby G Song · 2016 · Cited by 48 — The results of this study showed that gait training with rhythmic auditory stimulation was more effec...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4905878/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4905878/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Song  2016  Cited by 48  The results of this study showed that gait training with rhythmic auditory stimulation was more effec...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAuditory rhythmical cueing to improve gait and [physical](&#123;&#123; 'physical/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7236874/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7236874/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby P McCue · 2020 · Cited by 7 — Auditory rhythmic cueing (ARC) has been used to provide auditory feedback and shows promise in improv...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7236874/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7236874/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by P McCue  2020  Cited by 7  Auditory rhythmic cueing (ARC) has been used to provide auditory feedback and shows promise in improv...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/mtp/article/42/2/198/7674207](https://academic.oup.com/mtp/article/42/2/198/7674207)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicExploring Different Types of Music Cues for Arm Movements in...by RA Smith · 2024 · Cited by 2 — Music therapists may use au...</p></details>
+   Link: <a href="https://academic.oup.com/mtp/article/42/2/198/7674207" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mtp/article/42/2/198/7674207</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicExploring Different Types of Music Cues for Arm Movements in...by RA Smith  2024  Cited by 2  Music therapists may use au...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-05952-8](https://www.nature.com/articles/s41598-025-05952-8)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureInfluence of wearable rhythmic auditory stimulation on...by S Scataglini · 2025 · Cited by 6 — The aim of this study is to investi...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-025-05952-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-05952-8</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of wearable rhythmic auditory stimulation on...by S Scataglini  2025  Cited by 6  The aim of this study is to investi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41531-025-00952-x](https://www.nature.com/articles/s41531-025-00952-x)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amplifying walking activity in Parkinson&#x27;s disease through...by F Porciuncula · 2025 · Cited by 8 — We demonstrate the effectiveness of...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41531-025-00952-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41531-025-00952-x</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amplifying walking activity in Parkinson&#x27;s disease through...by F Porciuncula  2025  Cited by 8  We demonstrate the effectiveness of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9053573/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9053573/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Rhythmic Auditory Stimulation on Gait and Motor...by L Wang · 2022 · Cited by 56 — This study aimed to summarize the effectiveness of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9053573/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9053573/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Rhythmic Auditory Stimulation on Gait and Motor...by L Wang  2022  Cited by 56  This study aimed to summarize the effectiveness of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0268003325002980](https://www.sciencedirect.com/science/article/abs/pii/S0268003325002980)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. Machine learning models predicted individual...Read m...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0268003325002980" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0268003325002980</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>. Machine learning models predicted individual...Read m...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1052305720309629](https://www.sciencedirect.com/science/article/abs/pii/S1052305720309629)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Rhythm of Music Therapy on Gait in Patients with...by Y Wang · 2021 · Cited by 42 — The present study aims to analyze the effe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1052305720309629" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1052305720309629</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Rhythm of Music Therapy on Gait in Patients with...by Y Wang  2021  Cited by 42  The present study aims to analyze the effe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0268003325002980?dgcid=rss_sd_all](https://www.sciencedirect.com/science/article/pii/S0268003325002980?dgcid=rss_sd_all)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0268003325002980?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0268003325002980?dgcid=rss_sd_all</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly improves key spatiotemporal gait parameters in individuals with Parkinson&#x27;s...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451865423000716](https://www.sciencedirect.com/science/article/pii/S2451865423000716)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of gait training using rhythmic auditory stimulation on...by T Igusa · 2023 · Cited by 7 — This study protocol aims to determine...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451865423000716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451865423000716</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of gait training using rhythmic auditory stimulation on...by T Igusa  2023  Cited by 7  This study protocol aims to determine...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-41790-y](https://www.nature.com/articles/s41598-026-41790-y)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of unilateral step training along with rhythmic...by S Khalid · 2026 — The objective of this study was to determine and compare...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-026-41790-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-41790-y</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of unilateral step training along with rhythmic...by S Khalid  2026  The objective of this study was to determine and compare...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/mtp/article-abstract/31/1/35/1152495](https://academic.oup.com/mtp/article-abstract/31/1/35/1152495)  
+   Link: <a href="https://academic.oup.com/mtp/article-abstract/31/1/35/1152495" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mtp/article-abstract/31/1/35/1152495</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The application of...R...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/301345590_Rhythmic_Auditory_Cueing_in_Motor_Rehabilitation_for_Stroke_Patients_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/301345590_Rhythmic_Auditory_Cueing_in_Motor_Rehabilitation_for_Stroke_Patients_Systematic_Review_and_Meta-Analysis)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Cueing in Motor Rehabilitation for...7 Aug 2025 — Although systematic reviews report benefits from using ARC for gait...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/301345590_Rhythmic_Auditory_Cueing_in_Motor_Rehabilitation_for_Stroke_Patients_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301345590_Rhythmic_Auditory_Cueing_in_Motor_Rehabilitation_for_Stroke_Patients_Systematic_Review_and_Meta-Analysis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Cueing in Motor Rehabilitation for...7 Aug 2025  Although systematic reviews report benefits from using ARC for gait...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12906-023-04310-3](https://link.springer.com/article/10.1186/s12906-023-04310-3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of rhythmic auditory stimulation on functional...by S Gonzalez-Hoelling · 2024 · Cited by 14 — Systematic reviews have shown tha...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s12906-023-04310-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12906-023-04310-3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of rhythmic auditory stimulation on functional...by S Gonzalez-Hoelling  2024  Cited by 14  Systematic reviews have shown tha...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: physio-pedia.com  
-   Link: [https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training](https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training)  
+   Link: <a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PhysiopediaAuditory Rhythmic Stimulation for Gait TrainingAcoustic rhythms produced by metronomes or previously selected music, signal th...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27084833/](https://pubmed.ncbi.nlm.nih.gov/27084833/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditory Cueing in Motor Rehabilitation for...by GE Yoo · 2016 · Cited by 147 — This study corroborates the beneficial effects of rhythm...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27084833/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27084833/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditory Cueing in Motor Rehabilitation for...by GE Yoo  2016  Cited by 147  This study corroborates the beneficial effects of rhythm...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/34121062/](https://pubmed.ncbi.nlm.nih.gov/34121062/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedEffectiveness of Rhythmic Auditory Stimulation on Gait in...by F Burrai · 2024 · Cited by 24 — Rhythmic auditory stimulation may h...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34121062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34121062/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of Rhythmic Auditory Stimulation on Gait in...by F Burrai  2024  Cited by 24  Rhythmic auditory stimulation may h...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1043575/full](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1043575/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of rhythmic auditory stimulation on motor function...by L Wang · 2022 · Cited by 35 — This study aimed to summarize the effectiv...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1043575/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1043575/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of rhythmic auditory stimulation on motor function...by L Wang  2022  Cited by 35  This study aimed to summarize the effectiv...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/8684391/](https://pubmed.ncbi.nlm.nih.gov/8684391/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedRhythmic auditory stimulation in gait training for Parkinson&#x27;s...by MH Thaut · 1996 · Cited by 1306 — Patients who trained with RA...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8684391/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8684391/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic auditory stimulation in gait training for Parkinson&#x27;s...by MH Thaut  1996  Cited by 1306  Patients who trained with RA...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersRhythmic auditory stimulation promotes gait recovery in...by X Ye · 2022 · Cited by 57 — In this meta-analysis of 18 randomized...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersRhythmic auditory stimulation promotes gait recovery in...by X Ye  2022  Cited by 57  In this meta-analysis of 18 randomized...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: apdaparkinson.org  
    Title: People with PD often  
-   Link: [https://www.apdaparkinson.org/article/music-therapy-parkinsons-disease/](https://www.apdaparkinson.org/article/music-therapy-parkinsons-disease/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Parkinson Disease AssociationMusic Therapy for Parkinson&#x27;s diseaseFeb 5, 2019 — One technique is known as rhythmic auditory cuei...</p></details>
+   Link: <a href="https://www.apdaparkinson.org/article/music-therapy-parkinsons-disease/" target="_blank" rel="noopener noreferrer nofollow">https://www.apdaparkinson.org/article/music-therapy-parkinsons-disease/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Parkinson Disease AssociationMusic Therapy for Parkinson&#x27;s diseaseFeb 5, 2019  One technique is known as rhythmic auditory cuei...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/rhythmic](https://dictionary.cambridge.org/dictionary/english/rhythmic)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary6 days ago — A rhythmic sound has a regular movement or beat that is repeated: the rhythmic sound...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/rhythmic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/rhythmic</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago  A rhythmic sound has a regular movement or beat that is repeated: the rhythmic sound...</p></details>
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: withpower.com  
-   Link: [https://www.withpower.com/trial/phase-apathy-9-2022-0a988](https://www.withpower.com/trial/phase-apathy-9-2022-0a988)  
+   Link: <a href="https://www.withpower.com/trial/phase-apathy-9-2022-0a988" target="_blank" rel="noopener noreferrer nofollow">https://www.withpower.com/trial/phase-apathy-9-2022-0a988</a>  
 
 37. <a id="endnote-37"></a>
    Source: withpower.com  
-   Link: [https://www.withpower.com/trial/phase-parkinson-disease-4-2023-06b2a](https://www.withpower.com/trial/phase-parkinson-disease-4-2023-06b2a)  
+   Link: <a href="https://www.withpower.com/trial/phase-parkinson-disease-4-2023-06b2a" target="_blank" rel="noopener noreferrer nofollow">https://www.withpower.com/trial/phase-parkinson-disease-4-2023-06b2a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Gait Training for Parkinson&#x27;s DiseaseThe results showed that auditory stimulation not only increased step length and st...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: withpower.com  
-   Link: [https://www.withpower.com/trial/phase-parkinson-disease-3-2023-e1fae](https://www.withpower.com/trial/phase-parkinson-disease-3-2023-e1fae)  
+   Link: <a href="https://www.withpower.com/trial/phase-parkinson-disease-3-2023-e1fae" target="_blank" rel="noopener noreferrer nofollow">https://www.withpower.com/trial/phase-parkinson-disease-3-2023-e1fae</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Stimulation for Parkinson&#x27;s DiseaseStudies have shown that gait training accompanied by music and rhythmic auditory sti...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: app.trialscreen.org  
-   Link: [https://app.trialscreen.org/trials/autocorrelated-rhythmic-auditory-stimulations-parkinson-s-disease-patients-trial-nct03716674](https://app.trialscreen.org/trials/autocorrelated-rhythmic-auditory-stimulations-parkinson-s-disease-patients-trial-nct03716674)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Stimulations for...23 Oct 2018 — Authors showed beneficial effects of isochronic Rhythmic Auditory Stimulation (RAS) o...</p></details>
+   Link: <a href="https://app.trialscreen.org/trials/autocorrelated-rhythmic-auditory-stimulations-parkinson-s-disease-patients-trial-nct03716674" target="_blank" rel="noopener noreferrer nofollow">https://app.trialscreen.org/trials/autocorrelated-rhythmic-auditory-stimulations-parkinson-s-disease-patients-trial-nct03716674</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Stimulations for...23 Oct 2018  Authors showed beneficial effects of isochronic Rhythmic Auditory Stimulation (RAS) o...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: dptcapstone.web.unc.edu  
    Title: rhythmic auditory stimulation for improved gait in parkinsons disease  
-   Link: [https://dptcapstone.web.unc.edu/2019/04/11/rhythmic-auditory-stimulation-for-improved-gait-in-parkinsons-disease/](https://dptcapstone.web.unc.edu/2019/04/11/rhythmic-auditory-stimulation-for-improved-gait-in-parkinsons-disease/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditory Stimulation for Improved Gait in Parkinson&#x27;s...11 Apr 2019 — The purpose of this study was to perform an exploratory analysis o...</p></details>
+   Link: <a href="https://dptcapstone.web.unc.edu/2019/04/11/rhythmic-auditory-stimulation-for-improved-gait-in-parkinsons-disease/" target="_blank" rel="noopener noreferrer nofollow">https://dptcapstone.web.unc.edu/2019/04/11/rhythmic-auditory-stimulation-for-improved-gait-in-parkinsons-disease/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditory Stimulation for Improved Gait in Parkinson&#x27;s...11 Apr 2019  The purpose of this study was to perform an exploratory analysis o...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: propelphysiotherapy.com  
    Title: A systematic review of over 20 randomized  
-   Link: [https://propelphysiotherapy.com/neurological/rhythmic-auditory-stimulation-gait-training-parkinsons/](https://propelphysiotherapy.com/neurological/rhythmic-auditory-stimulation-gait-training-parkinsons/)  
+   Link: <a href="https://propelphysiotherapy.com/neurological/rhythmic-auditory-stimulation-gait-training-parkinsons/" target="_blank" rel="noopener noreferrer nofollow">https://propelphysiotherapy.com/neurological/rhythmic-auditory-stimulation-gait-training-parkinsons/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Auditory Stimulation in Gait Training for Parkinson&#x27;sThis stimulus has been found to improve gait parameters such as step length...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: medrxiv.org  
    Title: 2025.12.15.25342289v1.full text  
-   Link: [https://www.medrxiv.org/content/10.64898/2025.12.15.25342289v1.full-text](https://www.medrxiv.org/content/10.64898/2025.12.15.25342289v1.full-text)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Music-Based Gait Training in People with Parkinson&#x27;s...Dec 17, 2025 — Effects of rhythmic auditory stimulation on gait and motor fun...</p></details>
+   Link: <a href="https://www.medrxiv.org/content/10.64898/2025.12.15.25342289v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2025.12.15.25342289v1.full-text</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Music-Based Gait Training in People with Parkinson&#x27;s...Dec 17, 2025  Effects of rhythmic auditory stimulation on gait and motor fun...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: medrxiv.org  
    Title: 2025.05.09.25327235v1.full text  
-   Link: [https://www.medrxiv.org/content/10.1101/2025.05.09.25327235v1.full-text](https://www.medrxiv.org/content/10.1101/2025.05.09.25327235v1.full-text)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Rhythmic Auditory Stimulation (RAS)® with and...11 May 2025 — Rhythmic auditory stimulation (RAS) has been used to improve PD...</p></details>
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2025.05.09.25327235v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.05.09.25327235v1.full-text</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Rhythmic Auditory Stimulation (RAS) with and...11 May 2025  Rhythmic auditory stimulation (RAS) has been used to improve PD...</p></details>
    Published: May 2025  
 
 44. <a id="endnote-44"></a>
    Source: aginganddisease.org  
-   Link: [https://www.aginganddisease.org/EN/abstract/abstract147691.shtml](https://www.aginganddisease.org/EN/abstract/abstract147691.shtml)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Rhythmic Auditory Cueing on Aging Gaitby G Shashank · 2017 · Cited by 115 — A systematic review and meta-analysis was carried o...</p></details>
+   Link: <a href="https://www.aginganddisease.org/EN/abstract/abstract147691.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.aginganddisease.org/EN/abstract/abstract147691.shtml</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Rhythmic Auditory Cueing on Aging Gaitby G Shashank  2017  Cited by 115  A systematic review and meta-analysis was carried o...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12943453/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12943453/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Music Therapy with Personalized Rhythmic...by A Demeco · 2026 — RAS (Rhythmic Auditory Stimulation): A neurologic rehabilitation tech...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12943453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12943453/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Music Therapy with Personalized Rhythmic...by A Demeco  2026  RAS (Rhythmic Auditory Stimulation): A neurologic rehabilitation tech...</p></details>

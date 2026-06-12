@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555
 - music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0
 tags:
-- music
+- music-3-a01-be
 - algorithms
 - autoplay
 keywords:
-- music
+- music-3-a01-be
 - algorithms
 - autoplay
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Autoplay can turn one deliberate song choice into a longer recommendation path shaped by platform ranking decisions.
 hero_summary: Autoplay can turn one deliberate song choice into a longer recommendation path shaped by platform ranking decisions.
 layout: default
 permalink: /autoplay/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /algorithms/
 nav_short_title: Autoplay
 title: Who chooses the next song?
-title_full: Who chooses the next song? | Algorithms
+title_full: Who chooses the next song?
 display_title_short: Autoplay
 display_title: Autoplay
 heading_title: Who chooses the next song?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Algorithms Help Or Narrow Music Discovery? | Music
+parent_title: Do Algorithms Help Or Narrow Music Discovery?
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: Do Algorithms Help Or Narrow Music Discovery?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do personalised playlists make taste smaller?
 up_link:
   basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -259,7 +259,7 @@ next_link:
   permalink: /cold-start/
   short_title: Cold Start
   heading_title: Why new artists are hard to recommend
-date: '2026-06-09 07:43:38 '
+date: '2026-06-11 23:53:14 '
 header:
   og_image: /assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1.webp
@@ -268,17 +268,16 @@ image: /assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_
 
 ## Introduction
 
-Autoplay answers a deceptively simple question: who chooses the next song when the one you selected ends? On modern streaming platforms, the answer is often not the listener. Once an album, playlist or individual track finishes, autoplay systems generate a continuing queue of “similar” [music]({{ 'music/' | relative_url }}), turning a deliberate choice into an extended recommendation session. Spotify, for example, describes Autoplay as a feature that automatically plays similar songs after a listening session ends so that the music does not stop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">SpotifyAutoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</span></span></span>
-
+Autoplay answers a deceptively simple question: who chooses the next song when the one you selected ends? On modern streaming platforms, the answer is often not the listener. Once an album, playlist or individual track finishes, autoplay systems generate a continuing queue of “similar” music, turning a deliberate choice into an extended recommendation session. Spotify, for example, describes Autoplay as a feature that automatically plays similar songs after a listening session ends so that the music does not stop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-dark.svg" | relative_url }}" alt="Autoplay illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because a large share of music discovery no longer comes from active searching. Instead, it happens while listeners are doing something else: commuting, working, exercising or relaxing. In those moments, autoplay becomes a powerful discovery mechanism. It determines which artists receive an extra chance to be heard, which songs gain repeated exposure, and how much influence streaming platforms have over the path a listening session takes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[Dynamoi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">how does spotify autoplay choose songs</span><span class="citation-popover-snippet">DynamoiSpotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</span></span></span>
+This matters because a large share of music discovery no longer comes from active searching. Instead, it happens while listeners are doing something else: commuting, working, exercising or relaxing. In those moments, autoplay becomes a powerful discovery mechanism. It determines which artists receive an extra chance to be heard, which songs gain repeated exposure, and how much influence streaming platforms have over the path a listening session takes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[Dynamoi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">how does spotify autoplay choose songs</span><span class="citation-popover-snippet">Spotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</span></span></span>
 
 ## How autoplay changes the listening session
 
 Autoplay changes discovery by extending a listener’s journey beyond their original intention. A person may actively choose one song, album or playlist, but the platform often chooses everything that follows.
 
-Spotify states that when an album, playlist or selection of songs ends, Autoplay automatically serves similar tracks. The recommendation process draws on listening behaviour and taste signals, while third-party analyses of Spotify’s system describe combinations of collaborative filtering and audio similarity measures such as tempo, energy and mood characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Note that if you have Repeat toggled on, it will override...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">SpotifyUnderstanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</span></span></span>
+Spotify states that when an album, playlist or selection of songs ends, Autoplay automatically serves similar tracks. The recommendation process draws on listening behaviour and taste signals, while third-party analyses of Spotify’s system describe combinations of collaborative filtering and audio similarity measures such as tempo, energy and mood characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Note that if you have Repeat toggled on, it will override...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</span></span></span>
 
 The result is a shift from active discovery to passive discovery:
 
@@ -289,14 +288,13 @@ This distinction matters because each autoplay decision creates a branching path
 
 Autoplay also benefits from timing. It appears precisely when a listener reaches a decision point. Rather than presenting [silence]({{ 'silence/' | relative_url }}) and requiring a new choice, the platform fills the gap with recommendations. Evidence from research on autoplay in digital media suggests that automatic continuation features can extend sessions and reduce the likelihood that users stop consuming content when one item ends. Although that research focuses on video streaming, the underlying behavioural principle is highly relevant to continuous music listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cpFXmuts4aE" title="How to Stop Spotify Playing Suggested Songs - Turn Off Autoplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer">How to Stop Spotify Playing Suggested Songs - Turn Off Autoplay</a></p><p class="youtube-embed-meta">Channel: Gauging Gadgets &middot; Views: 277.2K &middot; Uploaded: December 2021 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cpFXmuts4aE">Open on YouTube</a></p></div></div></div>
 
 ## Why passive discovery gives platforms more influence
 
 Autoplay increases platform influence because it moves recommendation decisions into the [background]({{ 'background/' | relative_url }}) of the listening experience.
 
-When users actively search for music, they exercise direct control over discovery. When autoplay takes over, the platform becomes an intermediary deciding which candidates deserve the next opportunity for exposure. The listener still retains ultimate control—they can skip, save or stop listening—but the initial selection is no longer theirs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">SpotifySafety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</span></span></span>
+When users actively search for music, they exercise direct control over discovery. When autoplay takes over, the platform becomes an intermediary deciding which candidates deserve the next opportunity for exposure. The listener still retains ultimate control—they can skip, save or stop listening—but the initial selection is no longer theirs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Safety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</span></span></span>
 
 This creates several governance questions.
 
@@ -314,7 +312,6 @@ Autoplay is especially influential because music rewards repetition. Research on
 
 An autoplay recommendation therefore has value beyond a single stream. If a track repeatedly appears in algorithmically generated queues, it gains multiple chances to become familiar. Familiarity can lead to saves, playlist additions and future voluntary listening. In practical terms, autoplay does not just introduce music; it can help establish it.
 
-
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-2-dark.svg" | relative_url }}" alt="Autoplay illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Does passive discovery narrow or broaden listening?
 
@@ -325,7 +322,6 @@ Supporters argue that autoplay exposes listeners to artists they would never hav
 Critics argue that passive discovery can increase dependence on algorithms and encourage repetitive recommendation patterns. MIDiA Research has noted that growing reliance on passive recommendation may strengthen user dependence on algorithmic selection while not necessarily translating into broader [artist discovery]({{ 'artist-discovery/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">music discovery is not dead just evolving the industry needs to evolve with it</span><span class="citation-popover-snippet">MIDiA ResearchMusic discovery is not dead, just evolving – the industry...9 May 2025 — While the shift towards passive discovery may hel...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The tension is central to understanding autoplay. It can expand exposure beyond a listener's existing habits, yet it can also concentrate attention on whatever the ranking system decides is safest or most engaging.
-
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-3-dark.svg" | relative_url }}" alt="Autoplay illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What autoplay means for artists chasing repeat exposure
@@ -352,8 +348,7 @@ At the same time, autoplay introduces concerns about fairness and transparency. 
 
 For independent artists, the challenge is that autoplay exposure can be highly valuable but remains largely governed by ranking systems that are not fully visible to the public.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yc8iNnbQAM" title="How to Turn Off Autoplay in Spotify Mobile App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer">How to Turn Off Autoplay in Spotify Mobile App</a></p><p class="youtube-embed-meta">Channel: Max Dalton &middot; Views: 10.5K &middot; Uploaded: January 2026 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yc8iNnbQAM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cW9hwyxwK6k" title="How the Spotify algorithm is DESTROYING the music industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer">How the Spotify algorithm is DESTROYING the music industry</a></p><p class="youtube-embed-meta">Channel: SoundGuys &middot; Views: 3.7K &middot; Uploaded: April 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cW9hwyxwK6k">Open on YouTube</a></p></div></div></div>
 
 ## Who really chooses the next song?
 
@@ -363,9 +358,7 @@ The listener makes the first choice: selecting a song, artist, playlist or album
 
 That makes autoplay one of the most influential forms of recommendation in music streaming. It operates during moments of low friction, affects what listeners hear when they are not actively searching, and can provide artists with the repeated exposure that turns unfamiliar music into familiar favourites. The governance question is not whether autoplay discovers music—it clearly does—but how transparently and fairly platforms decide what comes next.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cW9hwyxwK6k" title="How the Spotify algorithm is DESTROYING the music industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer">How the Spotify algorithm is DESTROYING the music industry</a></p><p class="youtube-embed-meta">Channel: SoundGuys &middot; Views: 3.7K &middot; Uploaded: April 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cW9hwyxwK6k">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yc8iNnbQAM" title="How to Turn Off Autoplay in Spotify Mobile App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer">How to Turn Off Autoplay in Spotify Mobile App</a></p><p class="youtube-embed-meta">Channel: Max Dalton &middot; Views: 10.5K &middot; Uploaded: January 2026 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yc8iNnbQAM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -763,231 +756,231 @@ That makes autoplay one of the most influential forms of recommendation in music
 
 1. <a id="endnote-1"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/uk/article/autoplay/](https://support.spotify.com/uk/article/autoplay/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyAutoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</p></details>
+   Link: <a href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/uk/article/autoplay/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159](https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159)  
+   Link: <a href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that if you have Repeat toggled on, it will override...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dynamoi.com  
    Title: how does spotify autoplay choose songs  
-   Link: [https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs](https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DynamoiSpotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</p></details>
+   Link: <a href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: [https://www.spotify.com/safetyandprivacy/understanding-recommendations](https://www.spotify.com/safetyandprivacy/understanding-recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</p></details>
+   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms  
-   Link: [https://arxiv.org/abs/2109.03538](https://arxiv.org/abs/2109.03538)  
+   Link: <a href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03538</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.16040](https://arxiv.org/abs/2412.16040)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAn Experimental Study Of Netflix Use and the Effects of Autoplay on Watching BehaviorsDecember 20, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.16040</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Experimental Study Of Netflix Use and the Effects of Autoplay on Watching BehaviorsDecember 20, 2024...</p></details>
    Published: December 20, 2024  
 
 7. <a id="endnote-7"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: [https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifySafety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</p></details>
+   Link: <a href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.16226](https://arxiv.org/abs/2210.16226)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDiscovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.16226</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
    Published: October 28, 2022  
 
 9. <a id="endnote-9"></a>
    Source: music-tomorrow.com  
    Title: How the [Discover Weekly](&#123;&#123; 'discover-weekly/' | relative_url &#125;&#125;) Algorithm Works (And Why Your  
-   Link: [https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm](https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm)  
+   Link: <a href="https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — 11 Feb 2026 — Algorithmic recommendation systems have become the dominant mode of music discovery — and a central pil...</p></details>
    Published: February 12, 2026  
 
 10. <a id="endnote-10"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077](https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077)  
+   Link: <a href="https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I have Autoplay enabled, it just starts playing songs from my playlist and a few new...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719)  
+   Link: <a href="https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists are created specifically so that only certain songs are played. It...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959](https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959)  
+   Link: <a href="https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>songs still playing after turning Autopl...14 Jun 2023 — Spotify&#x27;s free tier sometimes overrides Autoplay settings to encourage discovery...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057](https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057)  
+   Link: <a href="https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Click on your profile picture at the top right corner and select Settings. Scroll down to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261](https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261)  
+   Link: <a href="https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Well its not doing that it automatically go&#x27;s back to the first...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635](https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635)  
+   Link: <a href="https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When you reach the end of an album, playlist, or selection of tracks, Spotify will automatically play similar songs so...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474](https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474)  
+   Link: <a href="https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay25 Dec 2024 — Select Settings and privacy. 4. Under Playback, scroll down to &#x27;Autoplay similar content&#x27; and switch it on (green)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153](https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153)  
+   Link: <a href="https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify isn&#x27;t playing suggested songs like it used to7 Feb 2024 — The feature that allows the app to play recommended content when you re...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547](https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547)  
+   Link: <a href="https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to disable autoplay after album ends?2 Mar 2022 — You can go to Settings &gt; Autoplay on the desktop app, and there you&#x27;ll see the setting...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425](https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425)  
+   Link: <a href="https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to stop recommended for you playing&quot;Playing recommended songs for you&quot; is caused by the Autoplay feature: when an album/playlist/podcast...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415](https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415)  
+   Link: <a href="https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stops after a track endsIn the meantime, we recommend turning off both automatic quality and Data Saver in the app settings, and to chang...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: community.spotify.com  
-   Link: [https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181](https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181)  
+   Link: <a href="https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do I keep Spotify from playing songs NOT on my...You can disable Autoplay on your desktop app by navigating to Settings and toggling the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: music-tomorrow.com  
-   Link: [https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide)  
+   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Do You Choose the Music… or Does the Algorithm Choose for You?  
-   Link: [http://www.youtube.com/watch?v=g2JdT_x0oQw](http://www.youtube.com/watch?v=g2JdT_x0oQw)  
+   Link: <a href="http://www.youtube.com/watch?v=g2JdT_x0oQw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g2JdT_x0oQw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Autoplay recommendation system &quot;passive listening&quot; discovery You Didn&#x27;t Choose That Song MindVerse: FBPN...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: midiaresearch.com  
    Title: music discovery is not dead just evolving the industry needs to evolve with it  
-   Link: [https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it](https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it)  
+   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchMusic discovery is not dead, just evolving – the industry...9 May 2025 — While the shift towards passive discovery may hel...</p></details>
    Published: May 2025  
 
 25. <a id="endnote-25"></a>
    Source: thesis.eur.nl  
    Title: Stanisljevic D  
-   Link: [https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf](https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify on music discovery among...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: research.atspotify.com  
-   Link: [https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery](https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery)  
+   Link: <a href="https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery</a>  
 
 27. <a id="endnote-27"></a>
    Source: beatstorapon.com  
-   Link: [https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/](https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beats To Rap OnSpotify&#x27;s [Music Recommendation](&amp;#123;&amp;#123; &#x27;algorithms-a7ef46/&#x27; | relative_url &amp;#125;&amp;#125;) Algorithm: The Complete...March 1, 2025 — 1 Mar 2025 — Spotify&#x27;s algorithm pays close atte...</p></details>
+   Link: <a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beats To Rap OnSpotify&#x27;s Music Recommendation Algorithm: The Complete...March 1, 2025 — 1 Mar 2025 — Spotify&#x27;s algorithm pays close atte...</p></details>
    Published: March 1, 2025  
 
 28. <a id="endnote-28"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/](https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 things to know about Spotify&#x27;s controversial new &#x27;pay for...4 Nov 2020 — Spotify revealed that it would soon be testing a controversia...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: digital.hec.ca  
-   Link: [https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/](https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/)  
+   Link: <a href="https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/" target="_blank" rel="noopener noreferrer nofollow">https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Algorithm Shapes Global Music Discovery...9 Nov 2025 — Spotify&#x27;s recommendation system helps its users discover new songs, but...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: chartlex.com  
    Title: spotify discovery mode explained indie artists  
-   Link: [https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU](https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU)  
+   Link: <a href="https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Discovery Mode Explained for Artists (2026)3 Apr 2026 — Spotify Discovery Mode is a promotional tool that allows artists to flag...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: en.community.sonos.com  
    Title: enable spotify autoplay after album ends 6852082  
-   Link: [https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082](https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082)  
+   Link: <a href="https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082" target="_blank" rel="noopener noreferrer nofollow">https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify autoplay after album ends4 Dec 2020 — Spotify Autoplay feature is not available in Sonos, when your album or playlist ends, the p...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: freeyourmusic.com  
    Title: how do spotify personalized playlists work  
-   Link: [https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work](https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work)  
+   Link: <a href="https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work" target="_blank" rel="noopener noreferrer nofollow">https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify uses a combination of audio analysis, user feedback (likes, skips, saves), machine learning...Read more...</p></details>
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms](https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms)  
+   Link: <a href="https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of Music in Digital Media: From Viral Videos...2 Jun 2025 — It highlights the role of user-generated content, influencer c...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
    Title: many people assume that the use of algorithmic media streaming and distribution  
-   Link: [https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/](https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/)  
+   Link: <a href="https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many people assume that the use of algorithmic media...Many people assume that the use of algorithmic media streaming and distribution p...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4yc8iNnbQAM](https://www.youtube.com/watch?v=4yc8iNnbQAM)  
+   Link: <a href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yc8iNnbQAM</a>  
 
 36. <a id="endnote-36"></a>
    Source: nrgmr.com  
    Title: understanding the audio content discovery paradox  
-   Link: [https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/](https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/)  
+   Link: <a href="https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jul 2024 — Many consumers report that they place great value on the self-directed process of active discovery, researching new artists...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8](https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8)  
+   Link: <a href="https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s today than helping you discover your next favorite artist.Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: theguardian.com  
    Title: The Guardian Pay to get playlisted?  
-   Link: [https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist](https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist)  
+   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The accusations against Spotify&#x27;s Discovery ModeSpotify introduced Discovery Mode in 2020, a program where artists accept lower royalty r...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: How to Stop Spotify Playing Suggested Songs  
-   Link: [https://www.youtube.com/watch?v=cpFXmuts4aE](https://www.youtube.com/watch?v=cpFXmuts4aE)  
+   Link: <a href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cpFXmuts4aE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turn Off...In this tutorial I show you how to stop Spotify from automatically playing random similar songs at the end of a playlist...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Algorithms in Your Ears: Looking Into the making of your music feeds  
-   Link: [http://www.youtube.com/watch?v=3ZO44newDuo](http://www.youtube.com/watch?v=3ZO44newDuo)  
+   Link: <a href="http://www.youtube.com/watch?v=3ZO44newDuo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3ZO44newDuo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do You Choose the Music… or Does the Algorithm Choose for You?...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ML Barata · 2021 · Cited by 175 — This study aims to understand the factors that influence music consumption through streaming plat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ML Barata · 2021 · Cited by 175 — This study aims to understand the factors that influence music consumption through streaming plat...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: How the Spotify algorithm is DESTROYING the music industry  
-   Link: [http://www.youtube.com/watch?v=cW9hwyxwK6k](http://www.youtube.com/watch?v=cW9hwyxwK6k)  
+   Link: <a href="http://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cW9hwyxwK6k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithms in Your Ears: Looking Into the making of your music feeds...</p></details>

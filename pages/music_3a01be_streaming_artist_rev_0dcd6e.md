@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - royalties
 keywords:
-- music
+- music-3-a01-be
 - royalties
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Streaming money depends on rights, contracts, territories, platform rules and listening scale, not just play counts.
 hero_summary: Streaming money depends on rights, contracts, territories, platform rules and listening scale, not just play counts.
 layout: default
 permalink: /royalties/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Royalties
 title: How Streaming Money Actually Reaches Artists
-title_full: How Streaming Money Actually Reaches Artists | Music
+title_full: How Streaming Money Actually Reaches Artists
 display_title_short: Royalties
 display_title: Royalties
 heading_title: How Streaming Money Actually Reaches Artists
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 next_link:
   basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
-date: '2026-06-09 06:27:48 '
+date: '2026-06-11 23:15:12 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e-overview-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e-overview-social.j
 ## Introduction
 
 Streaming money reaches artists through a chain, not a simple “play count equals cash” formula. A stream usually creates value for at least two copyrights: the sound recording, often controlled by a label, distributor or artist, and the composition, controlled by songwriters and publishers. Platforms place subscription and advertising revenue into territory-specific royalty pools, allocate shares according to listening, then pay rights holders. Artists are paid only after contracts, distribution fees, [publishing]({{ 'publishing/' | relative_url }}) splits, recoupment and collecting-society rules have done their work. That is why two artists with the same number of streams can receive very different amounts. Streaming has made recorded music more global and measurable, but it has also made payment harder to understand because the money passes through rights, territories, intermediaries and scale before it becomes [artist income]({{ 'artist-income/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</span></span></span> 2themlc.com
-
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-overview.webp" | relative_url }}" alt="Overview image for Royalties" loading="eager" decoding="sync" fetchpriority="high">
 ## The stream creates two separate royalty paths
@@ -524,7 +523,6 @@ This is where contracts matter. One artist may own their master and pay a distri
 
 This is one reason headline platform payouts can be misleading. Spotify reported paying more than US$10 billion to the music industry in 2024, while later industry reporting put its 2025 payout above US$11 billion, but those figures refer to payments to music rights holders, not direct wages to every performer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3824c37d-1c16-4da2-809c-c683790ed114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-1-dark.svg" | relative_url }}" alt="Royalties illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Publishing royalties travel through a different system
 
@@ -541,9 +539,6 @@ The practical consequence is simple but important: a creator may be earning mone
 Streaming services usually do not pay a fixed rate [per stream]({{ 'per-stream/' | relative_url }}). The familiar idea that a stream is “worth” a precise amount is a rough after-the-fact average, not the mechanism that sets payment. The dominant model is based on revenue share. A platform collects money from subscriptions and advertising, keeps its share, allocates the rest to royalty pools, and divides those pools according to listening share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</span></span></span>
 
 Spotify describes this as streamshare: if an artist accounts for 1% of streams in a particular country, that artist’s selected rights holders receive 1% of the recording royalties Spotify pays in that country. This is why a million streams in one market may not produce the same recording revenue as a million streams in another. The relevant pool depends on local subscription prices, advertising revenue, currency, taxes, platform mix and the total number of streams competing for the same money. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0-f4dOJ78Fs" title="Spotify Royalties Explained: How Streaming Money Really Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer">Spotify Royalties Explained: How Streaming Money Really Works</a></p><p class="youtube-embed-meta">Channel: Joey Dale Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0-f4dOJ78Fs">Open on YouTube</a></p></div></div></div>
 
 ### Subscription and ad-supported listening do not pay the same
 
@@ -571,7 +566,6 @@ The UK Parliament’s Digital, Culture, Media and Sport Committee inquiry into t
 
 The central tension remains: streaming has grown the recorded music market, but the growth does not automatically arrive evenly in musicians’ bank accounts. Rights ownership and contract terms can matter as much as popularity.
 
-
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-2-dark.svg" | relative_url }}" alt="Royalties illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Recoupment can delay payment even when streams are strong
 
@@ -589,7 +583,6 @@ SoundExchange, for example, collects and distributes digital performance royalti
 
 For a working artist, the practical map is therefore:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Distributor or label** for master income from interactive streaming.
@@ -601,9 +594,6 @@ For a working artist, the practical map is therefore:
 </div>
 
 Missing one of these routes can mean money sits unclaimed, is delayed, or is paid to the wrong party until metadata and ownership data are corrected.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
 
 ## Platform rules can change who earns
 
@@ -617,6 +607,7 @@ SoundCloud’s fan-powered royalties offer another alternative for eligible inde
 
 These alternatives do not remove the complexity of rights ownership, but they show that the payment model itself is contested. The debate is not just about how much streaming services pay; it is also about which listening behaviour should be rewarded.
 
+<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-3-dark.svg" | relative_url }}" alt="Royalties illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why scale changes the outcome
 
 Streaming income is unusually sensitive to scale because small per-stream averages only become meaningful when multiplied across large, repeated listening. This is why the same system can look transformative for one artist and negligible for another.
@@ -625,13 +616,11 @@ At the top end, streaming can generate substantial rights-holder revenue. Spotif
 
 But those figures describe the upper layers of a vast catalogue economy. They also refer to royalties generated for rights holders connected to an artist’s music, not necessarily the artist’s personal take-home income. For emerging and mid-level acts, the more relevant question is often not “Can streaming pay?” but “At what scale, under what ownership structure, and alongside what other income?”
 
-
-<img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-3-dark.svg" | relative_url }}" alt="Royalties illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A small loyal audience can outperform a larger casual one
 
 Under the standard pro-rata model, an artist’s income depends on their share of total listening in a territory. That tends to reward large volume. But artist-centred and fan-powered models highlight a different value: dedicated listeners who repeatedly choose an artist, follow releases and support them beyond passive playlist exposure.
 
-This is why [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) should be understood as part of a wider artist economy rather than the whole career. Streams can signal demand, feed discovery, support catalogue income and prove international traction. Yet for many musicians, sustainable income still depends on combining streaming with publishing, live performance, merchandise, direct fan support, sync licensing, physical formats and teaching or production work.
+This is why streaming revenue should be understood as part of a wider artist economy rather than the whole career. Streams can signal demand, feed discovery, support catalogue income and prove international traction. Yet for many musicians, sustainable income still depends on combining streaming with publishing, live performance, merchandise, direct fan support, sync licensing, physical [formats]({{ 'formats/' | relative_url }}) and teaching or production work.
 
 The scale problem also explains why per-stream averages cause frustration. A listener may imagine their subscription directly funding the artists they personally love. Under the dominant pooled model, however, that subscription contributes to a wider revenue pool divided by total market share. A fan who listens almost exclusively to small artists may still be participating in a system where the biggest share of pooled revenue goes to the most streamed catalogue overall, unless the platform uses a user-centric or fan-powered model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://community.soundcloud.com/fanpoweredroyalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.soundcloud.com">[SoundCloud Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.soundcloud.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -648,9 +637,6 @@ Third, examine **the deal terms**. Distributor commission, label royalty rate, p
 Fourth, confirm **the metadata and registrations**. Wrong songwriter splits, missing International Standard Recording Codes, inconsistent artist names, unregistered compositions and unmatched publishing data can delay or misdirect royalties.
 
 Finally, compare the income with **listening behaviour**, not only stream totals. Repeat listening, saved tracks, follower growth, playlist source, territory mix and catalogue depth can tell an artist whether streaming is building a durable audience or merely producing a temporary spike.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XM25769Npn8" title="Sir Mix-a-Lot Explains How Publishing Beats Out Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XM25769Npn8" target="_blank" rel="noopener noreferrer">Sir Mix-a-Lot Explains How Publishing Beats Out Royalties</a></p><p class="youtube-embed-meta">Channel: djvlad</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XM25769Npn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XM25769Npn8">Open on YouTube</a></p></div></div></div>
 
 ## What streaming has clarified and what it has not
 
@@ -777,15 +763,15 @@ That is why “how much does an artist get per stream?” is usually the wrong f
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock and Roll 100PCS Trendy Music Band Stickers Packs for Adults Teens, Vinyl Wa"><img src="{{ '/assets/images/marketplace-covers/3db4b49d8f2d9384183a.jpg' | relative_url }}" alt="Listing image for Rock and Roll 100PCS Trendy Music Band Stickers Packs for Adults Teens, Vinyl Wa" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland T-shirt Music Audio Producer Retro Synthesiser"><img src="https://i.ebayimg.com/images/g/VckAAOSwAVlb9brH/s-l225.jpg" alt="Listing image for Roland T-shirt Music Audio Producer Retro Synthesiser" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">Rock and Roll 100PCS Trendy Music Band Stickers Packs for Adults Teens, Vinyl Wa</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland T-shirt Music Audio Producer Retro Synthesiser</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -793,15 +779,15 @@ That is why “how much does an artist get per stream?” is usually the wrong f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack"><img src="{{ '/assets/images/marketplace-covers/879300663ca5c8f9eb0b.jpg' | relative_url }}" alt="Listing image for 50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee"><img src="https://i.ebayimg.com/images/g/z7IAAeSwkR5oifri/s-l225.jpg" alt="Listing image for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">50x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -809,15 +795,15 @@ That is why “how much does an artist get per stream?” is usually the wrong f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 Guitar Rock Music Vinyl Sticker Pack - Waterproof Decals - Peel &amp; Stick"><img src="{{ '/assets/images/marketplace-covers/d034f576ca9bd8314c98.jpg' | relative_url }}" alt="Listing image for 20 Guitar Rock Music Vinyl Sticker Pack - Waterproof Decals - Peel &amp; Stick" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Art for Husband Dad Music Producer Disc Jockey Techno DJ T-Shirt"><img src="https://i.ebayimg.com/images/g/fLkAAeSwafZqJ9HY/s-l225.jpg" alt="Listing image for DJ Art for Husband Dad Music Producer Disc Jockey Techno DJ T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">20 Guitar Rock Music Vinyl Sticker Pack - Waterproof Decals - Peel &amp; Stick</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DJ Art for Husband Dad Music Producer Disc Jockey Techno DJ T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -825,15 +811,15 @@ That is why “how much does an artist get per stream?” is usually the wrong f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack"><img src="{{ '/assets/images/marketplace-covers/8c499d54bd8b4baae0e1.jpg' | relative_url }}" alt="Listing image for 15x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt"><img src="https://i.ebayimg.com/images/g/pR8AAeSwZ79oid1x/s-l225.jpg" alt="Listing image for Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">15x Glossy Music Note Stickers For Laptop Guitar Scrapbooking Sticker Bomb Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music sticker pack">Search <span data-ebay-domain-label>eBay.co.uk</span>: music sticker pack</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -841,7 +827,7 @@ That is why “how much does an artist get per stream?” is usually the wrong f
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+sticker+pack&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music sticker pack" data-ebay-reference="royalties-how-streaming-money-actually-reaches-artists-music-music-sticker-pack" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-money-actually-reaches-artists-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="how-streaming-money-actually-reaches-artists-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1056,208 +1042,208 @@ That is why “how much does an artist get per stream?” is usually the wrong f
 
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/digital-music-royalties-landscape](https://www.themlc.com/digital-music-royalties-landscape)  
+   Link: <a href="https://www.themlc.com/digital-music-royalties-landscape" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/digital-music-royalties-landscape</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Digital Music Royalties LandscapeThe MLC collects digital audio mechanical royalties from eligible streaming and download services in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: [https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that](https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that)  
+   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
 
 5. <a id="endnote-5"></a>
    Source: ifpicr.cz  
    Title: global music report 2025  
-   Link: [https://ifpicr.cz/global_music_report_2025](https://ifpicr.cz/global_music_report_2025)  
+   Link: <a href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow">https://ifpicr.cz/global_music_report_2025</a>  
 
 6. <a id="endnote-6"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/](https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/)  
+   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
 
 7. <a id="endnote-7"></a>
    Source: newsroom.spotify.com  
    Title: How the Music Industry's Cultural and Financial Impact  
-   Link: [https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/](https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/)  
+   Link: <a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
 
 8. <a id="endnote-8"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/](https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/)  
+   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/</a>  
 
 9. <a id="endnote-9"></a>
    Source: soundexchange.com  
-   Link: [https://www.soundexchange.com/frequently-asked-questions/](https://www.soundexchange.com/frequently-asked-questions/)  
+   Link: <a href="https://www.soundexchange.com/frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/frequently-asked-questions/</a>  
 
 10. <a id="endnote-10"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
 
 11. <a id="endnote-11"></a>
    Source: support.deezer.com  
    Title: Support Artist-Centric Payment Model (ACPS)  
-   Link: [https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS](https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS)  
+   Link: <a href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS</a>  
 
 12. <a id="endnote-12"></a>
    Source: help.soundcloud.com  
-   Link: [https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties](https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties)  
+   Link: <a href="https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties</a>  
 
 13. <a id="endnote-13"></a>
    Source: community.soundcloud.com  
-   Link: [https://community.soundcloud.com/fanpoweredroyalties](https://community.soundcloud.com/fanpoweredroyalties)  
+   Link: <a href="https://community.soundcloud.com/fanpoweredroyalties" target="_blank" rel="noopener noreferrer nofollow">https://community.soundcloud.com/fanpoweredroyalties</a>  
 
 14. <a id="endnote-14"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI2  
-   Link: [https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf](https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: soundexchange.com  
-   Link: [https://www.soundexchange.com/what-we-do/for-artists-labels-and-producers/](https://www.soundexchange.com/what-we-do/for-artists-labels-and-producers/)  
+   Link: <a href="https://www.soundexchange.com/what-we-do/for-artists-labels-and-producers/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/what-we-do/for-artists-labels-and-producers/</a>  
 
 17. <a id="endnote-17"></a>
    Source: soundexchange.com  
-   Link: [https://www.soundexchange.com/](https://www.soundexchange.com/)  
+   Link: <a href="https://www.soundexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundexchange.com/</a>  
 
 18. <a id="endnote-18"></a>
    Source: support.spotify.com  
    Title: understanding spotify royalties  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
 
 19. <a id="endnote-19"></a>
    Source: help.soundcloud.com  
    Title: 1260801306810 Fan powered Royalties  
-   Link: [https://help.soundcloud.com/hc/de/articles/1260801306810-Fan-powered-Royalties](https://help.soundcloud.com/hc/de/articles/1260801306810-Fan-powered-Royalties)  
+   Link: <a href="https://help.soundcloud.com/hc/de/articles/1260801306810-Fan-powered-Royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.soundcloud.com/hc/de/articles/1260801306810-Fan-powered-Royalties</a>  
 
 20. <a id="endnote-20"></a>
    Source: support.tunecore.com  
    Title: 360052000051 What is the Mechanical Licensing Collective MLC  
-   Link: [https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC](https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC)  
+   Link: <a href="https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC</a>  
 
 21. <a id="endnote-21"></a>
    Source: deezer.com  
-   Link: [https://www.deezer.com/explore/artist-remuneration/](https://www.deezer.com/explore/artist-remuneration/)  
+   Link: <a href="https://www.deezer.com/explore/artist-remuneration/" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/explore/artist-remuneration/</a>  
 
 22. <a id="endnote-22"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/content/3824c37d-1c16-4da2-809c-c683790ed114](https://www.ft.com/content/3824c37d-1c16-4da2-809c-c683790ed114)  
+   Link: <a href="https://www.ft.com/content/3824c37d-1c16-4da2-809c-c683790ed114" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/3824c37d-1c16-4da2-809c-c683790ed114</a>  
 
 23. <a id="endnote-23"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
 
 24. <a id="endnote-24"></a>
    Source: soundcharts.com  
    Title: digital performance royalties  
-   Link: [https://soundcharts.com/en/blog/digital-performance-royalties](https://soundcharts.com/en/blog/digital-performance-royalties)  
+   Link: <a href="https://soundcharts.com/en/blog/digital-performance-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/digital-performance-royalties</a>  
 
 25. <a id="endnote-25"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Takeaways  
-   Link: [https://loudandclear.byspotify.com/takeaways/](https://loudandclear.byspotify.com/takeaways/)  
+   Link: <a href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/takeaways/</a>  
 
 26. <a id="endnote-26"></a>
    Source: orphiq.com  
    Title: soundexchange digital royalties  
-   Link: [https://orphiq.com/resources/soundexchange-digital-royalties](https://orphiq.com/resources/soundexchange-digital-royalties)  
+   Link: <a href="https://orphiq.com/resources/soundexchange-digital-royalties" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/soundexchange-digital-royalties</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheBoardroom/posts/spotify-paid-out-a-record-11-billion-to-the-music-industry-in-2025-bringing-the-/1414270324045770/](https://www.facebook.com/TheBoardroom/posts/spotify-paid-out-a-record-11-billion-to-the-music-industry-in-2025-bringing-the-/1414270324045770/)  
+   Link: <a href="https://www.facebook.com/TheBoardroom/posts/spotify-paid-out-a-record-11-billion-to-the-music-industry-in-2025-bringing-the-/1414270324045770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBoardroom/posts/spotify-paid-out-a-record-11-billion-to-the-music-industry-in-2025-bringing-the-/1414270324045770/</a>  
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVvk02mDuKR/](https://www.instagram.com/p/DVvk02mDuKR/)  
+   Link: <a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
 
 29. <a id="endnote-29"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/](https://loudandclear.byspotify.com/)  
+   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
 
 30. <a id="endnote-30"></a>
    Source: royaltyexchange.com  
    Title: mechanical royalties  
-   Link: [https://royaltyexchange.com/blog/mechanical-royalties](https://royaltyexchange.com/blog/mechanical-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/mechanical-royalties</a>  
 
 31. <a id="endnote-31"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/spotify-royalties-per-stream](https://musosoup.com/blog/spotify-royalties-per-stream)  
+   Link: <a href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties-per-stream</a>  
 
 32. <a id="endnote-32"></a>
    Source: boost-collective.com  
    Title: spotify royalty calculator free  
-   Link: [https://www.boost-collective.com/blog/spotify-royalty-calculator-free](https://www.boost-collective.com/blog/spotify-royalty-calculator-free)  
+   Link: <a href="https://www.boost-collective.com/blog/spotify-royalty-calculator-free" target="_blank" rel="noopener noreferrer nofollow">https://www.boost-collective.com/blog/spotify-royalty-calculator-free</a>  
 
 33. <a id="endnote-33"></a>
    Source: aepo-artis.org  
    Title: spotifys loud but not so clear  
-   Link: [https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/](https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/)  
+   Link: <a href="https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/</a>  
 
 34. <a id="endnote-34"></a>
    Source: rollingstone.com  
    Title: spotify streaming royalties change streaming fraud 1234890236  
-   Link: [https://www.rollingstone.com/music/music-news/spotify-streaming-royalties-change-streaming-fraud-1234890236/](https://www.rollingstone.com/music/music-news/spotify-streaming-royalties-change-streaming-fraud-1234890236/)  
+   Link: <a href="https://www.rollingstone.com/music/music-news/spotify-streaming-royalties-change-streaming-fraud-1234890236/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/spotify-streaming-royalties-change-streaming-fraud-1234890236/</a>  
 
 35. <a id="endnote-35"></a>
    Source: variety.com  
-   Link: [https://variety.com/2026/digital/news/spotify-says-more-than-1500-artists-earned-1-million-in-royalties-2025-1236684566/](https://variety.com/2026/digital/news/spotify-says-more-than-1500-artists-earned-1-million-in-royalties-2025-1236684566/)  
+   Link: <a href="https://variety.com/2026/digital/news/spotify-says-more-than-1500-artists-earned-1-million-in-royalties-2025-1236684566/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2026/digital/news/spotify-says-more-than-1500-artists-earned-1-million-in-royalties-2025-1236684566/</a>  
 
 36. <a id="endnote-36"></a>
    Source: wlv.openrepository.com  
-   Link: [https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content](https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content)  
+   Link: <a href="https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content" target="_blank" rel="noopener noreferrer nofollow">https://wlv.openrepository.com/server/api/core/bitstreams/227b16ad-7dff-43cd-9465-675eed22da24/content</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: ipbusinessacademy.org  
    Title: economics of streaming the rise of the music artists rights and compensation  
-   Link: [https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation](https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation)  
+   Link: <a href="https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation" target="_blank" rel="noopener noreferrer nofollow">https://ipbusinessacademy.org/economics-of-streaming-the-rise-of-the-music-artists-rights-and-compensation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Further, they argued the royalties record...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/](https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/</a>  
 
 39. <a id="endnote-39"></a>
    Source: analog.com  
-   Link: [https://www.analog.com/en/lp/001/beginners-guide-to-dsp.html](https://www.analog.com/en/lp/001/beginners-guide-to-dsp.html)  
+   Link: <a href="https://www.analog.com/en/lp/001/beginners-guide-to-dsp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.analog.com/en/lp/001/beginners-guide-to-dsp.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/](https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/)  
+   Link: <a href="https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1in2clb/artistcentric_payment_thoughts/</a>  
 
 41. <a id="endnote-41"></a>
    Source: dijkmansguitars.com  
-   Link: [https://dijkmansguitars.com/en/collections/paul-reed-smith?srsltid=AfmBOoqPeIXJi6f2TLf_S73IJ3_OnhcXFX8akebYo61alqQVIhXjIU8B](https://dijkmansguitars.com/en/collections/paul-reed-smith?srsltid=AfmBOoqPeIXJi6f2TLf_S73IJ3_OnhcXFX8akebYo61alqQVIhXjIU8B)  
+   Link: <a href="https://dijkmansguitars.com/en/collections/paul-reed-smith?srsltid=AfmBOoqPeIXJi6f2TLf_S73IJ3_OnhcXFX8akebYo61alqQVIhXjIU8B" target="_blank" rel="noopener noreferrer nofollow">https://dijkmansguitars.com/en/collections/paul-reed-smith?srsltid=AfmBOoqPeIXJi6f2TLf_S73IJ3_OnhcXFX8akebYo61alqQVIhXjIU8B</a>  
 
 42. <a id="endnote-42"></a>
    Source: mpaonline.org.uk  
-   Link: [https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/](https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/)  
+   Link: <a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
 
 43. <a id="endnote-43"></a>
    Source: autosound24.nl  
-   Link: [https://www.autosound24.nl/car-audio/dsp-versterkers](https://www.autosound24.nl/car-audio/dsp-versterkers)  
+   Link: <a href="https://www.autosound24.nl/car-audio/dsp-versterkers" target="_blank" rel="noopener noreferrer nofollow">https://www.autosound24.nl/car-audio/dsp-versterkers</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/](https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/)  
+   Link: <a href="https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtrendszambia/posts/technewsupdate-deezer-and-universal-to-launch-artist-centric-streaming-modeluniv/1000774257719705/</a>  
 
 45. <a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dynamitri_how-can-artists-make-money-12-digital-activity-7435610280811712512-EaIb](https://www.linkedin.com/posts/dynamitri_how-can-artists-make-money-12-digital-activity-7435610280811712512-EaIb)  
+   Link: <a href="https://www.linkedin.com/posts/dynamitri_how-can-artists-make-money-12-digital-activity-7435610280811712512-EaIb" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dynamitri_how-can-artists-make-money-12-digital-activity-7435610280811712512-EaIb</a>  
 
 46. <a id="endnote-46"></a>
    Source: revelator.com  
-   Link: [https://revelator.com/blog/how-music-streaming-royalties-work](https://revelator.com/blog/how-music-streaming-royalties-work)  
+   Link: <a href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-music-streaming-royalties-work</a>

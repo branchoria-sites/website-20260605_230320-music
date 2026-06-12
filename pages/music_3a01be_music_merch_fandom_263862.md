@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - merch
 keywords:
-- music
+- music-3-a01-be
 - merch
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Merchandise gives fans a visible way to carry belonging beyond the song, album or concert venue.
 hero_summary: Merchandise gives fans a visible way to carry belonging beyond the song, album or concert venue.
 layout: default
 permalink: /merch/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Merch
 title: Why Music Merch Means More Than Branding
-title_full: Why Music Merch Means More Than Branding | Music
+title_full: Why Music Merch Means More Than Branding
 display_title_short: Merch
 display_title: Merch
 heading_title: Why Music Merch Means More Than Branding
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 next_link:
   basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
-date: '2026-06-09 06:09:04 '
+date: '2026-06-11 23:04:50 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862-overview-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862-overview.webp
@@ -501,11 +501,10 @@ image: /assets/images/music_3a01be_music_merch_fandom_263862-overview-social.jpg
 
 ## Introduction
 
-Merchandise extends an artist’s world by turning [music]({{ 'music/' | relative_url }}) into something fans can wear, keep, display and recognise in one another. A song may be private through headphones and temporary in a venue, but a hoodie, tour shirt, poster, tote bag or vinyl variant carries the artist’s visual language into daily life. That is why merch means more than branding: it becomes a portable sign of identity, a [memory]({{ 'memory/' | relative_url }}) object from a specific night, and sometimes a scarce collectible whose value depends on trust, story and authenticity.
-
+Merchandise extends an artist’s world by turning music into something fans can wear, keep, display and recognise in one another. A song may be private through headphones and temporary in a venue, but a hoodie, tour shirt, poster, tote bag or [vinyl]({{ 'vinyl/' | relative_url }}) variant carries the artist’s visual language into daily life. That is why merch means more than branding: it becomes a portable sign of identity, a [memory]({{ 'memory/' | relative_url }}) object from a specific night, and sometimes a scarce collectible whose value depends on trust, story and authenticity.
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-overview.webp" | relative_url }}" alt="Overview image for Merch" loading="eager" decoding="sync" fetchpriority="high">
-This matters because music fandom is increasingly lived across platforms, venues and social spaces rather than only through recordings. WIPO describes merchandise as a way for fans to continue their relationship with musicians and identify with them after live events, while MIDiA projects the global music merchandise market, including [physical]({{ 'physical/' | relative_url }}) and digital merch and physical music [formats]({{ 'formats/' | relative_url }}), to reach US$16.3 billion by 2030. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/music-merchandise-the-new-key-to-branding-for-musicians-74266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">music merchandise the new key to branding for musicians 74266</span><span class="citation-popover-snippet">WIPOMusic merchandise: the new key to branding for musicians15 May 2025 — top musicians leverage merchandising to generate income more th...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This matters because music fandom is increasingly lived across platforms, venues and social spaces rather than only through recordings. WIPO describes merchandise as a way for fans to continue their relationship with musicians and identify with them after live events, while MIDiA projects the global music merchandise market, including [physical]({{ 'physical/' | relative_url }}) and digital merch and physical music [formats]({{ 'formats/' | relative_url }}), to reach US$16.3 billion by 2030. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/music-merchandise-the-new-key-to-branding-for-musicians-74266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">music merchandise the new key to branding for musicians 74266</span><span class="citation-popover-snippet">Music merchandise: the new key to branding for musicians15 May 2025 — top musicians leverage merchandising to generate income more th...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## Merch turns listening into visible identity
 
@@ -517,8 +516,6 @@ Good merch therefore extends the artist’s world by translating sonic identity 
 
 This is why “branding” is too thin a word for successful music merch. A corporate logo is designed to produce recognition. Artist merch has to do more: it must feel like a believable object from the same imaginative universe as the songs, videos, stage design and public persona. When it works, the fan is not just advertising the artist. They are carrying a piece of the artist’s world into ordinary life.
 
-
-<img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-1-dark.svg" | relative_url }}" alt="Merch illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tour merch turns a concert into a keepsake
 
 Concert merchandise has a special emotional charge because it is tied to time and place. A tour shirt is not just a shirt; it can be proof of attendance, a memory aid, a social badge and a private souvenir. Dates printed on the back can turn the object into a personal archive: the city, the venue, the year, the person who came with you, the queue outside, the final song.
@@ -527,14 +524,12 @@ That memory function explains why fans still buy physical objects in a streaming
 
 Tour merch also extends the event beyond the venue. A fan may hear the set once, but wear the shirt for years. That makes merch unusually durable compared with many parts of the live experience. Ticket stubs have become less visible as mobile ticketing has grown, but shirts, wristbands, posters and tote bags still give the night a physical afterlife. IQ Magazine, citing Live Nation research, reported that Gen Z fans particularly value tangible music objects, with 81% valuing merchandise and 87% keeping items such as ticket stubs and wristbands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iqmagazine.com/2026/04/artists-can-make-more-from-merch-than-performance-fees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqmagazine.com">[IQ Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqmagazine.com</span><span class="citation-popover-title">IQ Magazine&#x27;Artists can make more from merch than performance fees</span><span class="citation-popover-snippet">IQ Magazine&#x27;Artists can make more from merch than performance fees</span></span></span>
 
-For artists, tour merch can also become a financial bridge. The Featured Artists Coalition argues that sales of T-shirts, [vinyl]({{ 'vinyl/' | relative_url }}) and posters are often what allow artists to cover touring costs or break even, especially at smaller and mid-level stages where streaming income and fees may not be enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/york-barbican-100percentvenues-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This gives the merch table a dual role: it is both a memory station for fans and a survival mechanism for working musicians.
+For artists, tour merch can also become a financial bridge. The Featured Artists Coalition argues that sales of T-shirts, vinyl and posters are often what allow artists to cover touring costs or break even, especially at smaller and mid-level stages where streaming income and fees may not be enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/york-barbican-100percentvenues-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This gives the merch table a dual role: it is both a memory station for fans and a survival mechanism for working musicians.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DzymkqGBEcw" title="Why Some Concert Merch Becomes Priceless" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer">Why Some Concert Merch Becomes Priceless</a></p><p class="youtube-embed-meta">Channel: WNYC &middot; Views: 66 &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DzymkqGBEcw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-1-dark.svg" | relative_url }}" alt="Merch illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scarcity can create value, but it can also break trust
 
-Limited merch works because music fandom is emotional and time-sensitive. A product available only at one show, during one album cycle or for one short online drop can feel more meaningful than a permanent item in a shop. Scarcity gives the object a story: it was available then, to those who noticed, waited or attended. Water & Music has described time-limited drops and livestream-linked exclusives as increasingly common in music merch, especially as artists borrow tactics from luxury fashion and streetwear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/music-merchandise-keeps-artists-afloat-but-how-does-it-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[waterandmusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-title">music merchandise keeps artists afloat but how does it work</span><span class="citation-popover-snippet">music merchandise keeps artists afloat but how does it work</span></span></span>
+Limited merch works because music fandom is emotional and time-sensitive. A product available only at one show, during one album cycle or for one short online drop can feel more meaningful than a permanent item in a shop. Scarcity gives the object a story: it was available then, to those who noticed, waited or attended. Water & Music has described time-[limited drops]({{ 'limited-drops/' | relative_url }}) and livestream-linked exclusives as increasingly common in music merch, especially as artists borrow tactics from luxury fashion and streetwear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/music-merchandise-keeps-artists-afloat-but-how-does-it-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[waterandmusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-title">music merchandise keeps artists afloat but how does it work</span><span class="citation-popover-snippet">music merchandise keeps artists afloat but how does it work</span></span></span>
 
 Scarcity can deepen an artist’s world when it is used to mark a real moment. A limited poster for a hometown show, a capsule tied to an album’s visual concept, or a piece designed around a tour’s stage imagery gives fans a reason to connect object and experience. It can also make the merch feel less generic. Fans are often not buying cloth, paper or plastic as raw materials; they are buying proximity to a particular chapter in an artist’s story.
 
@@ -542,8 +537,6 @@ But scarcity becomes fragile when fans feel manipulated. Multiple vinyl variants
 
 The lesson is not that scarcity is always cynical. It is that scarcity has to feel earned. Fans tend to accept limited items when the limitation fits the story, production method or event. They are more likely to reject it when it appears to exist only to trigger urgency, inflate chart positions or squeeze repeat purchases from the most loyal audience.
 
-
-<img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-2-dark.svg" | relative_url }}" alt="Merch illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Authentic merch feels designed from inside the artist’s world
 
 Authenticity in merch is partly aesthetic and partly ethical. A product feels authentic when its design, materials, price, availability and message fit what fans already understand about the artist. If the artist’s public world is intimate and handmade, mass-produced glossy products may feel wrong. If an artist speaks often about climate responsibility, wasteful packaging or low-transparency manufacturing can weaken the message. If an artist’s image is rooted in streetwear, fashion quality matters more than it might for a novelty tour item.
@@ -553,7 +546,6 @@ Billie Eilish is a clear example of merch being used as an extension of values a
 Authenticity also affects collaborations. A fashion partnership can expand an artist’s universe if it makes sense with the artist’s style, audience and values. It can look hollow if fans perceive it as a logo swap. Vogue’s superfan economy reporting captures this tension: brands and merch teams increasingly want to turn fandom into products and experiences, but fans are quick to reject products that do not align with what the artist stands for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vogue.com/article/inside-the-superfan-economy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Inside the Superfan Economy</span><span class="citation-popover-snippet">From K-pop’s global expansion to Taylor Swift’s Eras tour, superfans now drive major brand and revenue opportunities. Unlike past fandom...</span></span></span>
 
 In practical terms, artist-world merch usually has at least one of four anchors:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -566,9 +558,7 @@ In practical terms, artist-world merch usually has at least one of four anchors:
 
 When those anchors are missing, fans may still buy once, but the object does not strengthen the world around the music. It feels like an add-on.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6V4y0AX69h4" title="the psychology of building a brand everyone loves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6V4y0AX69h4" target="_blank" rel="noopener noreferrer">the psychology of building a brand everyone loves</a></p><p class="youtube-embed-meta">Channel: Matt Gray</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6V4y0AX69h4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6V4y0AX69h4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-2-dark.svg" | relative_url }}" alt="Merch illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Merch can build community beyond the biggest fans
 
 Merch is often associated with superfans, but its cultural role is broader. A casual listener might buy a shirt because the design is good. A returning fan might buy a poster to remember one show. A dedicated fan might collect variants, queue early for venue exclusives or recognise a subtle lyric reference on a sleeve. These different levels of engagement let merch act as a bridge between everyday listening and deeper fandom.
@@ -578,7 +568,6 @@ MIDiA’s 2026 merch and ticket buyer research points to this widening fan econo
 The community effect is strongest when merch gives fans a shared code. At concerts, clothing can turn an audience into a temporary visual community: fans dress according to album eras, colour schemes, inside jokes or scene references. Vogue’s reporting on AEG’s live-event research noted that 41% of fans had dressed in a way that identified them as part of a fan community, and 12% had gone as far as getting a tattoo connected to a favourite artist or fan group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vogue.com/article/inside-the-superfan-economy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Inside the Superfan Economy</span><span class="citation-popover-snippet">From K-pop’s global expansion to Taylor Swift’s Eras tour, superfans now drive major brand and revenue opportunities. Unlike past fandom...</span></span></span>
 
 This does not mean every fan wants to be visibly branded. In fact, subtle merch can be powerful because it lets fans signal belonging without looking like a walking poster. A small symbol, lyric fragment or design motif can create a quieter kind of recognition: not “everyone should know this artist”, but “the right people will know”. That is often where merch becomes most world-building, because it rewards [attention]({{ 'attention/' | relative_url }}) and shared knowledge.
-
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-3-dark.svg" | relative_url }}" alt="Merch illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The business tension: support, access and over-commercialisation
@@ -591,8 +580,7 @@ There is also a fan-side tension. Merch can make music culture richer, more tact
 
 That balance is especially important for younger audiences. Music fandom often begins before fans have much disposable income, and visible merch can create status differences inside communities. A strong merch strategy should therefore support belonging without turning belonging into a constant purchase requirement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7wq-hPZKZyk" title="How Musicians With No Fans Make $100k Off Merch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7wq-hPZKZyk" target="_blank" rel="noopener noreferrer">How Musicians With No Fans Make $100k Off Merch</a></p><p class="youtube-embed-meta">Channel: Musformation // Jesse Cannon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7wq-hPZKZyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7wq-hPZKZyk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DzymkqGBEcw" title="Why Some Concert Merch Becomes Priceless" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer">Why Some Concert Merch Becomes Priceless</a></p><p class="youtube-embed-meta">Channel: WNYC &middot; Views: 66 &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DzymkqGBEcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DzymkqGBEcw">Open on YouTube</a></p></div></div></div>
 
 ## What makes artist-world merch work
 
@@ -717,15 +705,15 @@ For listeners, that is why an old tour shirt can outlast a marketing campaign. I
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Concert Poster from 60s Savoy Tivoli Contrabantiempo AOR"><img src="{{ '/assets/images/marketplace-covers/352ecc49cf25951ec094.jpg' | relative_url }}" alt="Listing image for Original Concert Poster from 60s Savoy Tivoli Contrabantiempo AOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/OnQAAeSwRadpYBeW/s-l225.jpg" alt="Listing image for UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Original Concert Poster from 60s Savoy Tivoli Contrabantiempo AOR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO evidence wall art prints merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO evidence wall art prints merch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -733,15 +721,15 @@ For listeners, that is why an old tour shirt can outlast a marketing campaign. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Vans Warped Tour [Concert Poster] 4.25&quot; x 5.75&quot; Double Side Montage Mountain"><img src="{{ '/assets/images/marketplace-covers/ced15746f2aa35c96181.jpg' | relative_url }}" alt="Listing image for 4 Vans Warped Tour [Concert Poster] 4.25&quot; x 5.75&quot; Double Side Montage Mountain" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">4 Vans Warped Tour [Concert Poster] 4.25&quot; x 5.75&quot; Double Side Montage Mountain</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO evidence wall art prints merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO evidence wall art prints merch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -749,15 +737,15 @@ For listeners, that is why an old tour shirt can outlast a marketing campaign. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad â€“ Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO evidence wall art prints merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO evidence wall art prints merch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -765,15 +753,15 @@ For listeners, that is why an old tour shirt can outlast a marketing campaign. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT"><img src="{{ '/assets/images/marketplace-covers/4aa04c288f4ad701a7d2.jpg' | relative_url }}" alt="Listing image for Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Famous Rock Band ALBUM COVERS NEW 24X36 POSTER RARE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO evidence wall art prints merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO evidence wall art prints merch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -781,7 +769,7 @@ For listeners, that is why an old tour shirt can outlast a marketing campaign. I
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=merch-why-music-merch-means-more-than-branding-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="merch-why-music-merch-means-more-than-branding-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+evidence+wall+art+prints+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO evidence wall art prints merch" data-ebay-reference="why-music-merch-means-more-than-branding-ufo-evidence-wall-art-prints-merch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -997,152 +985,152 @@ For listeners, that is why an old tour shirt can outlast a marketing campaign. I
 1. <a id="endnote-1"></a>
    Source: wipo.int  
    Title: music merchandise the new key to branding for musicians 74266  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/music-merchandise-the-new-key-to-branding-for-musicians-74266](https://www.wipo.int/en/web/wipo-magazine/articles/music-merchandise-the-new-key-to-branding-for-musicians-74266)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPOMusic merchandise: the new key to branding for musicians15 May 2025 — top musicians leverage merchandising to generate income more th...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/music-merchandise-the-new-key-to-branding-for-musicians-74266" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/music-merchandise-the-new-key-to-branding-for-musicians-74266</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music merchandise: the new key to branding for musicians15 May 2025 — top musicians leverage merchandising to generate income more th...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: vogue.com  
    Title: Inside the Superfan Economy  
-   Link: [https://www.vogue.com/article/inside-the-superfan-economy](https://www.vogue.com/article/inside-the-superfan-economy)  
+   Link: <a href="https://www.vogue.com/article/inside-the-superfan-economy" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/inside-the-superfan-economy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From K-pop’s global expansion to Taylor Swift’s Eras tour, superfans now drive major brand and revenue opportunities. Unlike past fandom...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: atvenu.com  
    Title: year in review  
-   Link: [https://www.atvenu.com/year-in-review](https://www.atvenu.com/year-in-review)  
+   Link: <a href="https://www.atvenu.com/year-in-review" target="_blank" rel="noopener noreferrer nofollow">https://www.atvenu.com/year-in-review</a>  
 
 4. <a id="endnote-4"></a>
    Source: waterandmusic.com  
    Title: music merchandise keeps artists afloat but how does it work  
-   Link: [https://www.waterandmusic.com/music-merchandise-keeps-artists-afloat-but-how-does-it-work/](https://www.waterandmusic.com/music-merchandise-keeps-artists-afloat-but-how-does-it-work/)  
+   Link: <a href="https://www.waterandmusic.com/music-merchandise-keeps-artists-afloat-but-how-does-it-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/music-merchandise-keeps-artists-afloat-but-how-does-it-work/</a>  
 
 5. <a id="endnote-5"></a>
    Source: ew.com  
-   Link: [https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024](https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024)  
+   Link: <a href="https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024</a>  
 
 6. <a id="endnote-6"></a>
    Source: news.com.au  
    Title: Swifties slam Life of a Showgirl vinyl variant drop  
-   Link: [https://www.news.com.au/entertainment/music/swifties-call-out-pop-stars-vinyl-variant-cash-grab-for-new-record-amid-costofliving-pressures/news-story/9006a281d314291d540929c8f0b130ac](https://www.news.com.au/entertainment/music/swifties-call-out-pop-stars-vinyl-variant-cash-grab-for-new-record-amid-costofliving-pressures/news-story/9006a281d314291d540929c8f0b130ac)  
+   Link: <a href="https://www.news.com.au/entertainment/music/swifties-call-out-pop-stars-vinyl-variant-cash-grab-for-new-record-amid-costofliving-pressures/news-story/9006a281d314291d540929c8f0b130ac" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/entertainment/music/swifties-call-out-pop-stars-vinyl-variant-cash-grab-for-new-record-amid-costofliving-pressures/news-story/9006a281d314291d540929c8f0b130ac</a>  
 
 7. <a id="endnote-7"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research How big can music merch get?  
-   Link: [https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-[charts](https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-[charts)  
+   Link: <a href="https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/how-big-can-music-merch-get-midias-latest-report-[charts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA&#x27;s latest report charts...24 Oct 2024 — The global merchandise market will rise to become a $16.3 billion industry by 2030. But as...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: estetikajournal.org  
-   Link: [https://estetikajournal.org/en/articles/10.33134/eeja.563](https://estetikajournal.org/en/articles/10.33134/eeja.563)  
+   Link: <a href="https://estetikajournal.org/en/articles/10.33134/eeja.563" target="_blank" rel="noopener noreferrer nofollow">https://estetikajournal.org/en/articles/10.33134/eeja.563</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Estetika JournalBand Merch, Silencing, and Aesthetic Communityby F Bräuer · 2026 · Cited by 1 — Wearing band merch signals that one is a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iqmagazine.com  
    Title: IQ Magazine'Artists can make more from merch than performance fees'  
-   Link: [https://www.iqmagazine.com/2026/04/artists-can-make-more-from-merch-than-performance-fees/](https://www.iqmagazine.com/2026/04/artists-can-make-more-from-merch-than-performance-fees/)  
+   Link: <a href="https://www.iqmagazine.com/2026/04/artists-can-make-more-from-merch-than-performance-fees/" target="_blank" rel="noopener noreferrer nofollow">https://www.iqmagazine.com/2026/04/artists-can-make-more-from-merch-than-performance-fees/</a>  
 
 10. <a id="endnote-10"></a>
    Source: thefac.org  
-   Link: [https://thefac.org/news-directory/york-barbican-100percentvenues-](https://thefac.org/news-directory/york-barbican-100percentvenues-)  
+   Link: <a href="https://thefac.org/news-directory/york-barbican-100percentvenues-" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/york-barbican-100percentvenues-</a>  
 
 11. <a id="endnote-11"></a>
    Source: billieeilishstore.de  
-   Link: [https://www.billieeilishstore.de/en/pages/sustainability](https://www.billieeilishstore.de/en/pages/sustainability)  
+   Link: <a href="https://www.billieeilishstore.de/en/pages/sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/pages/sustainability</a>  
 
 12. <a id="endnote-12"></a>
    Source: billieeilishstore.de  
    Title: Billie Eilish Tour Impact Report  
-   Link: [https://www.billieeilishstore.de/pages/tour-impact-report](https://www.billieeilishstore.de/pages/tour-impact-report)  
+   Link: <a href="https://www.billieeilishstore.de/pages/tour-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/pages/tour-impact-report</a>  
 
 13. <a id="endnote-13"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research Insights from MIDi A's merch and ticket buyer survey  
-   Link: [https://www.midiaresearch.com/blog/the-new-rules-of-musics-growth-engine-insights-from-midias-merch-and-ticket-buyer-survey](https://www.midiaresearch.com/blog/the-new-rules-of-musics-growth-engine-insights-from-midias-merch-and-ticket-buyer-survey)  
+   Link: <a href="https://www.midiaresearch.com/blog/the-new-rules-of-musics-growth-engine-insights-from-midias-merch-and-ticket-buyer-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/the-new-rules-of-musics-growth-engine-insights-from-midias-merch-and-ticket-buyer-survey</a>  
 
 14. <a id="endnote-14"></a>
    Source: thefac.org  
    Title: Featured Artists Coalition#100Percent Venues Petition and Open Letter —  
-   Link: [https://thefac.org/news-directory/100percentvenuespetition](https://thefac.org/news-directory/100percentvenuespetition)  
+   Link: <a href="https://thefac.org/news-directory/100percentvenuespetition" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/100percentvenuespetition</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: billie eilish pushes music labels to upcycle  
-   Link: [https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/](https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/)  
+   Link: <a href="https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/</a>  
 
 16. <a id="endnote-16"></a>
    Source: prsformusic.com  
    Title: featured artists coalition launch petition in support of 100 venues campaign  
-   Link: [https://www.prsformusic.com/m-magazine/news/featured-artists-coalition-launch-petition-in-support-of-100-venues-campaign](https://www.prsformusic.com/m-magazine/news/featured-artists-coalition-launch-petition-in-support-of-100-venues-campaign)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/news/featured-artists-coalition-launch-petition-in-support-of-100-venues-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/featured-artists-coalition-launch-petition-in-support-of-100-venues-campaign</a>  
 
 17. <a id="endnote-17"></a>
    Source: store.billieeilish.com  
-   Link: [https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-](https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-)  
+   Link: <a href="https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-" target="_blank" rel="noopener noreferrer nofollow">https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-</a>  
 
 18. <a id="endnote-18"></a>
    Source: austore.billieeilish.com  
-   Link: [https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj](https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj)  
+   Link: <a href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj" target="_blank" rel="noopener noreferrer nofollow">https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj</a>  
 
 19. <a id="endnote-19"></a>
    Source: billieeilishstore.de  
-   Link: [https://www.billieeilishstore.de/en/collections/upcycled](https://www.billieeilishstore.de/en/collections/upcycled)  
+   Link: <a href="https://www.billieeilishstore.de/en/collections/upcycled" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/collections/upcycled</a>  
 
 20. <a id="endnote-20"></a>
    Source: billieeilishstore.de  
-   Link: [https://www.billieeilishstore.de/en/collections/all](https://www.billieeilishstore.de/en/collections/all)  
+   Link: <a href="https://www.billieeilishstore.de/en/collections/all" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/collections/all</a>  
 
 21. <a id="endnote-21"></a>
    Source: members.asicentral.com  
    Title: billie eilish umg upcycle 400k unsold concert tees into new merch  
-   Link: [https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/](https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/)  
+   Link: <a href="https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/" target="_blank" rel="noopener noreferrer nofollow">https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/</a>  
 
 22. <a id="endnote-22"></a>
    Source: thefac.org  
-   Link: [https://thefac.org/](https://thefac.org/)  
+   Link: <a href="https://thefac.org/" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/</a>  
 
 23. <a id="endnote-23"></a>
    Source: merchbar.com  
    Title: Band Merch  
-   Link: [https://www.merchbar.com/?srsltid=AfmBOoouGTKRv5xX9lCHfgULtwmFIWsZrqBIblLeyV0ZE-gqLhNNfVv1](https://www.merchbar.com/?srsltid=AfmBOoouGTKRv5xX9lCHfgULtwmFIWsZrqBIblLeyV0ZE-gqLhNNfVv1)  
+   Link: <a href="https://www.merchbar.com/?srsltid=AfmBOoouGTKRv5xX9lCHfgULtwmFIWsZrqBIblLeyV0ZE-gqLhNNfVv1" target="_blank" rel="noopener noreferrer nofollow">https://www.merchbar.com/?srsltid=AfmBOoouGTKRv5xX9lCHfgULtwmFIWsZrqBIblLeyV0ZE-gqLhNNfVv1</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382300728_Taylor_Swift%27s_Branding_Strategy_The_Economics_of_Authenticity](https://www.researchgate.net/publication/382300728_Taylor_Swift%27s_Branding_Strategy_The_Economics_of_Authenticity)  
+   Link: <a href="https://www.researchgate.net/publication/382300728_Taylor_Swift%27s_Branding_Strategy_The_Economics_of_Authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382300728_Taylor_Swift%27s_Branding_Strategy_The_Economics_of_Authenticity</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship](https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship)  
+   Link: <a href="https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361102091_The_effect_of_fan-themed_apparel_products%27_signal_explicitness_on_fans%27_perceptions_the_moderating_effect_of_fanship</a>  
 
 26. <a id="endnote-26"></a>
    Source: watoowatoo.net  
-   Link: [https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf](https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf)  
+   Link: <a href="https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.watoowatoo.net/mkgr/papers/DerbaixKorchia-Individual-Celebration-Pop-Music-fans.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/364951005_Merchandise_and_Memorabilia_Between_Art_Products_Self-Image_and_Musicians_Existence](https://www.researchgate.net/publication/364951005_Merchandise_and_Memorabilia_Between_Art_Products_Self-Image_and_Musicians_Existence)  
+   Link: <a href="https://www.researchgate.net/publication/364951005_Merchandise_and_Memorabilia_Between_Art_Products_Self-Image_and_Musicians_Existence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364951005_Merchandise_and_Memorabilia_Between_Art_Products_Self-Image_and_Musicians_Existence</a>  
 
 28. <a id="endnote-28"></a>
    Source: pinterest.com  
-   Link: [https://www.pinterest.com/ideas/concert-merchandise/935950301703/](https://www.pinterest.com/ideas/concert-merchandise/935950301703/)  
+   Link: <a href="https://www.pinterest.com/ideas/concert-merchandise/935950301703/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/ideas/concert-merchandise/935950301703/</a>  
 
 29. <a id="endnote-29"></a>
    Source: miriamsmind.com  
-   Link: [https://miriamsmind.com/products/eras-tour-ticket-fan-04509](https://miriamsmind.com/products/eras-tour-ticket-fan-04509)  
+   Link: <a href="https://miriamsmind.com/products/eras-tour-ticket-fan-04509" target="_blank" rel="noopener noreferrer nofollow">https://miriamsmind.com/products/eras-tour-ticket-fan-04509</a>  
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DV6F-SvlUT2/](https://www.instagram.com/p/DV6F-SvlUT2/)  
+   Link: <a href="https://www.instagram.com/p/DV6F-SvlUT2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV6F-SvlUT2/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Music/comments/1p5f31n/fans_blast_taylor_swift_for_cheap_misleading/](https://www.reddit.com/r/Music/comments/1p5f31n/fans_blast_taylor_swift_for_cheap_misleading/)  
+   Link: <a href="https://www.reddit.com/r/Music/comments/1p5f31n/fans_blast_taylor_swift_for_cheap_misleading/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1p5f31n/fans_blast_taylor_swift_for_cheap_misleading/</a>  
 
 32. <a id="endnote-32"></a>
    Source: andrmusic.co  
-   Link: [https://andrmusic.co/behind-the-music/psychology-streaming-to-buying/](https://andrmusic.co/behind-the-music/psychology-streaming-to-buying/)  
+   Link: <a href="https://andrmusic.co/behind-the-music/psychology-streaming-to-buying/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/psychology-streaming-to-buying/</a>  
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DME8nneqp75/](https://www.instagram.com/p/DME8nneqp75/)  
+   Link: <a href="https://www.instagram.com/p/DME8nneqp75/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DME8nneqp75/</a>

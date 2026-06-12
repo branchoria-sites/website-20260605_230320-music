@@ -9,23 +9,23 @@ sibling_basenames:
 - music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf
 - music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58
 tags:
-- music
+- music-3-a01-be
 - silence
 keywords:
-- music
+- music-3-a01-be
 - silence
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Pauses in music create anticipation and affect listener perception of upcoming notes or phrases.
 hero_summary: Pauses in music create anticipation and affect listener perception of upcoming notes or phrases.
 layout: default
 permalink: /pauses-tension/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /silence/
 nav_short_title: Pauses & Tension
 title: How Pauses Build Anticipation in Music
-title_full: How Pauses Build Anticipation in Music | Silence
+title_full: How Pauses Build Anticipation in Music
 display_title_short: Pauses & Tension
 display_title: Pauses & Tension
 heading_title: How Pauses Build Anticipation in Music
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Silence Can Be Music Too | Music
+parent_title: Why Silence Can Be Music Too
 parent_permalink: /silence/
 parent_nav_short_title: Silence
 parent_heading_title: Why Silence Can Be Music Too
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -247,7 +247,7 @@ sibling_links:
   heading_title: Why Silence Shapes the Impact of Recorded Music
 up_link:
   basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -263,7 +263,7 @@ next_link:
   permalink: /performance-gestures/
   short_title: Performance Gestures
   heading_title: How Performers Use Gesture to Shape Silence
-date: '2026-06-09 06:36:07 '
+date: '2026-06-11 23:19:26 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1.webp
@@ -272,30 +272,28 @@ image: /assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_
 
 ## Introduction
 
-Musical pauses are among the most effective ways composers and performers create tension. A well-placed [silence]({{ 'silence/' | relative_url }}) does not stop the musical experience; instead, it often intensifies it. Listeners continue to hear the [music]({{ 'music/' | relative_url }}) mentally during the gap, carrying forward memories of what has just happened while predicting what might come next. As a result, a pause can feel suspenseful, unresolved, dramatic, comforting, or even shocking depending on its context. Research on musical silence consistently shows that listeners do not experience pauses as empty time. They actively fill them with expectation, making silence a powerful tool for shaping anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collaborate.princeton.edu">[Princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collaborate.princeton.edu</span><span class="citation-popover-snippet">Princeton UniversitySilences in music are musical not silent: An exploratory...by EH Margulis · 2007 · Cited by 86 — Silences in music a...</span></span></span>
-
+Musical pauses are among the most effective ways composers and performers create tension. A well-placed [silence]({{ 'silence/' | relative_url }}) does not stop the musical experience; instead, it often intensifies it. Listeners continue to hear the music mentally during the gap, carrying forward memories of what has just happened while predicting what might come next. As a result, a pause can feel suspenseful, unresolved, dramatic, comforting, or even shocking depending on its context. Research on musical silence consistently shows that listeners do not experience pauses as empty time. They actively fill them with expectation, making silence a powerful tool for shaping anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collaborate.princeton.edu">[Princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collaborate.princeton.edu</span><span class="citation-popover-snippet">Princeton UniversitySilences in music are musical not silent: An exploratory...by EH Margulis · 2007 · Cited by 86 — Silences in music a...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1-dark.svg" | relative_url }}" alt="Pauses &amp; Tension illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Acoustic Silence vs Musical Silence
 
-A pause in music is acoustically simple: sound stops. Psychologically, however, it is far more complex. Studies by music theorist Elizabeth Hellmuth Margulis demonstrate that identical periods of silence can be perceived very differently depending on the musical material that precedes them. A silence following a phrase that feels complete tends to be experienced as restful, while a silence interrupting an unfinished idea often produces tension and anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collaborate.princeton.edu">[princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collaborate.princeton.edu</span><span class="citation-popover-snippet">Princeton UniversitySilences in music are musical not silent: An exploratory...by EH Margulis · 2007 · Cited by 86 — Silences in music a...</span></span></span> This distinction helps explain why [silence in music]({{ 'silence/' | relative_url }}) differs from silence in everyday life. Musical pauses are embedded within patterns that listeners have already begun to understand. Once a melody, rhythm, or harmonic progression establishes expectations, a sudden absence of sound becomes meaningful because it interrupts a process the listener expects to continue. JSTOR <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2007/06/070622180242.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily In this sense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Exploring The Sounds Of Silence24 June 2007 — Silence in music is not really silent. Research by a University of Arkansas music theorist...</span><span class="citation-popover-meta">Published: June 2007</span></span></span>, silence functions less as an absence and more as a temporary withholding of information. The listener's [attention]({{ 'attention/' | relative_url }}) often becomes more focused during the pause than during the notes themselves.
+A pause in music is acoustically simple: sound stops. Psychologically, however, it is far more complex. Studies by music theorist Elizabeth Hellmuth Margulis demonstrate that identical periods of silence can be perceived very differently depending on the musical material that precedes them. A silence following a phrase that feels complete tends to be experienced as restful, while a silence interrupting an unfinished idea often produces tension and anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collaborate.princeton.edu">[princeton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collaborate.princeton.edu</span><span class="citation-popover-snippet">Princeton UniversitySilences in music are musical not silent: An exploratory...by EH Margulis · 2007 · Cited by 86 — Silences in music a...</span></span></span> This distinction helps explain why [silence in music]({{ 'silence/' | relative_url }}) differs from silence in everyday life. Musical pauses are embedded within patterns that listeners have already begun to understand. Once a melody, rhythm, or harmonic progression establishes expectations, a sudden absence of sound becomes meaningful because it interrupts a process the listener expects to continue. JSTOR <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2007/06/070622180242.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily In this sense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Exploring The Sounds Of Silence24 June 2007 — Silence in music is not really silent. Research by a University of Arkansas music theorist...</span><span class="citation-popover-meta">Published: June 2007</span></span></span>, silence functions less as an absence and more as a temporary withholding of information. The listener's [attention]({{ 'attention/' | relative_url }}) often becomes more focused during the pause than during the notes themselves.
 
 ## Why Pauses Create Suspense
 
 ### The Brain Predicts What Comes Next
 
-Modern research in music cognition suggests that listening involves constant prediction. The brain continuously generates expectations about upcoming notes, rhythms, and harmonic changes. When music briefly stops, those predictive processes do not stop with it. Instead, listeners continue imagining likely continuations. Journal of Neuroscience <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span>
+Modern research in music cognition suggests that listening involves constant prediction. The brain continuously generates expectations about upcoming notes, rhythms, and harmonic changes. When music briefly stops, those predictive processes do not stop with it. Instead, listeners continue imagining likely continuations. Journal of Neuroscience <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Predictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span>
 
-This predictive behaviour explains why pauses can be emotionally powerful. A silence inserted just before an expected event delays confirmation of the listener's prediction. The longer the expectation remains unresolved, the greater the tension can become. When the anticipated note, chord, or beat finally arrives, the release often feels especially satisfying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/pdf/40283130.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORListening to Musical Silenceby EH Margulis · 2007 · Cited by 79 — The article&#x27;s account of silence emphasizes the active, participat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span>
+This predictive behaviour explains why pauses can be emotionally powerful. A silence inserted just before an expected event delays confirmation of the listener's prediction. The longer the expectation remains unresolved, the greater the tension can become. When the anticipated note, chord, or beat finally arrives, the release often feels especially satisfying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/pdf/40283130.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Listening to Musical Silenceby EH Margulis · 2007 · Cited by 79 — The article&#x27;s account of silence emphasizes the active, participat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span>
 
 ### Delayed Resolution Increases Tension
 
 One common technique involves pausing before a musical resolution. In tonal music, listeners often develop expectations about where a phrase is heading. If the music appears ready to resolve but suddenly stops, the pause effectively stretches the moment of anticipation.
 
-Research on musical expectation and emotion has repeatedly linked uncertainty, prediction, and expectation violation to emotional responses in listeners. Musical structures that delay expected outcomes frequently increase perceived tension and emotional engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1707.06231" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-013-0161-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerProbabilistic models of expectation violation predict...by H Egermann · 2013 · Cited by 255 — We present the results of a study...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span>
+Research on musical expectation and emotion has repeatedly linked uncertainty, prediction, and expectation violation to emotional responses in listeners. Musical structures that delay expected outcomes frequently increase perceived tension and emotional engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1707.06231" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-013-0161-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Probabilistic models of expectation violation predict...by H Egermann · 2013 · Cited by 255 — We present the results of a study...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Predictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span>
 
 A pause therefore acts as a temporal magnifier. Rather than adding more notes, it increases the emotional weight of the notes that are already expected.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d6uyAlV4XXo" title="Cadences for Musicians Around the World - Music Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d6uyAlV4XXo" target="_blank" rel="noopener noreferrer">Cadences for Musicians Around the World - Music Theory</a></p><p class="youtube-embed-meta">Channel: Music Matters &middot; Views: 4.5K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d6uyAlV4XXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d6uyAlV4XXo">Open on YouTube</a></p></div></div></div>
 
@@ -307,12 +305,11 @@ The same silence can create very different effects depending on its surroundings
 * **Before a resolution:** listeners commonly experience suspense.
 * **Within a repeating pattern:** a pause may feel surprising because it violates an established [rhythm]({{ 'rhythm/' | relative_url }}).
 * **Before a major entrance:** the silence can focus attention on the upcoming event.
-* **After a dramatic climax:** the pause may encourage reflection rather than anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">The music of silenceIf a pause follows good musical closure then participants are able to react more quickly to the pause and reported th...</span></span></span>
+* **After a dramatic climax:** the pause may encourage reflection rather than anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">The music of silenceIf a pause follows good musical closure then participants are able to react more quickly to the pause and reported th...</span></span></span>
 
-Margulis's experiments found that listeners reported greater tension during pauses that followed musically open or unresolved passages than during pauses after passages that felt complete. This finding reinforces the idea that pauses derive their meaning primarily from context rather than duration alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">The music of silenceIf a pause follows good musical closure then participants are able to react more quickly to the pause and reported th...</span></span></span>
+Margulis's experiments found that listeners reported greater tension during pauses that followed musically open or unresolved passages than during pauses after passages that felt complete. This finding reinforces the idea that pauses derive their meaning primarily from context rather than duration alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpsychology.co.uk">[Music Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpsychology.co.uk</span><span class="citation-popover-snippet">The music of silenceIf a pause follows good musical closure then participants are able to react more quickly to the pause and reported th...</span></span></span>
 
 Predictability also plays an important role. Research examining temporal predictability and emotional response suggests that listeners' emotional experiences are closely tied to how strongly they can anticipate future musical events. Pauses interact directly with these expectations by delaying them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionFeeling the Beat: Temporal Predictability is Associated with...by N Singer · 2023 · Cited by 14 — Our findings revea...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-2-dark.svg" | relative_url }}" alt="Pauses &amp; Tension illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fermata and the Art of Waiting
@@ -331,7 +328,6 @@ Classical composers have long exploited pauses to control expectation. Dramatic 
 
 In orchestral music, a complete ensemble stop can create a moment of collective anticipation. The audience remains mentally connected to the musical trajectory even though no sound is present. This technique appears throughout works by composers from Mozart and Beethoven to Mahler and Shostakovich. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.piano-composer-teacher-london.co.uk/fermata/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: piano-composer-teacher-london.co.uk">[WKMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">piano-composer-teacher-london.co.uk</span><span class="citation-popover-title">WKMTFermata in Music</span><span class="citation-popover-snippet">Fermata MeaningFebruary 23, 2025 — 23 Feb 2025 — Cadential Emphasis. Marking the end of phrases or sections, often at cadences. Example 1...</span><span class="citation-popover-meta">Published: February 23, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9XNuAtgNyHo" title="Music &amp; Neuroscience: The Science of Musical Emotion (Lesson 3) | Susan Rogers | Berklee 15/26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9XNuAtgNyHo" target="_blank" rel="noopener noreferrer">Music &amp; Neuroscience: The Science of Musical Emotion (Lesson 3) | Susan Rogers | Berklee 15/26</a></p><p class="youtube-embed-meta">Channel: Berklee Online &middot; Views: 1.1K &middot; Uploaded: October 2025 &middot; Length: 4 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9XNuAtgNyHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9XNuAtgNyHo">Open on YouTube</a></p></div></div></div>
 
 ### Jazz
@@ -346,7 +342,6 @@ Many popular songs employ the "drop-out" technique, where instruments suddenly d
 
 The effect works because listeners mentally continue the groove during the interruption. When the music returns, it fulfils expectations that have been temporarily suspended.
 
-
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-3-dark.svg" | relative_url }}" alt="Pauses &amp; Tension illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Electronic Dance Music
 
@@ -356,18 +351,17 @@ The eventual return of the beat delivers a release that depends largely on the t
 
 ## Why Silence Often Feels Longer Than It Is
 
-Pauses frequently seem longer than their objective duration. One reason is that anticipation changes the listener's perception of time. When attention becomes concentrated on an expected event, subjective time can stretch. Research on music and time perception suggests that emotional engagement and arousal influence how durations are experienced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span>
+Pauses frequently seem longer than their objective duration. One reason is that anticipation changes the listener's perception of time. When attention becomes concentrated on an expected event, subjective time can stretch. Research on music and time perception suggests that emotional engagement and arousal influence how durations are experienced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Predictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span>
 
 During a suspenseful pause, listeners are not passively waiting. They are actively forecasting the next musical event. That mental activity can make even a short silence feel significant and extended.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/APlIB-7L19M" title="Fermata (Pause) Sign - Tuesday Two Minute Tip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=APlIB-7L19M" target="_blank" rel="noopener noreferrer">Fermata (Pause) Sign - Tuesday Two Minute Tip</a></p><p class="youtube-embed-meta">Channel: Keyboard Skills Pro &middot; Views: 6.5K &middot; Uploaded: November 2020 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=APlIB-7L19M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=APlIB-7L19M">Open on YouTube</a></p></div></div></div>
 
 ## Pauses as Active Musical Events
 
-It is tempting to think of pauses as moments when music stops. In practice, many musicians treat them as events that require as much expressive control as sounded notes. Studies of ensemble performance show that musicians coordinate and prepare actions during expressive silences, indicating that the pause remains part of the musical process rather than a break from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbit.dtu.dk/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbit.dtu.dk">[Welcome to DTU Research Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbit.dtu.dk</span><span class="citation-popover-snippet">Welcome to DTU Research DatabaseThe sound of silence: an EEG study of how musicians time...by A Zamm · 2021 · Cited by 22 — Together the...</span></span></span>
+It is tempting to think of pauses as moments when music stops. In practice, many musicians treat them as events that require as much expressive control as sounded notes. Studies of ensemble performance show that musicians coordinate and prepare actions during expressive silences, indicating that the pause remains part of the musical process rather than a break from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Predictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbit.dtu.dk/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbit.dtu.dk">[Welcome to DTU Research Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbit.dtu.dk</span><span class="citation-popover-snippet">Welcome to DTU Research DatabaseThe sound of silence: an EEG study of how musicians time...by A Zamm · 2021 · Cited by 22 — Together the...</span></span></span>
 
-For listeners, the same principle applies. Silence becomes a space where expectation, [memory]({{ 'memory/' | relative_url }}), and prediction interact. The pause holds attention precisely because it delays fulfilment. By withholding sound at crucial moments, music transforms absence into suspense and turns waiting into part of the artistic experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Sweet anticipation: Music and the psychology of expectation. New York...Read more...</span></span></span>
+For listeners, the same principle applies. Silence becomes a space where expectation, [memory]({{ 'memory/' | relative_url }}), and prediction interact. The pause holds attention precisely because it delays fulfilment. By withholding sound at crucial moments, music transforms absence into suspense and turns waiting into part of the artistic experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Sweet anticipation: Music and the psychology of expectation. New York...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,165 +759,165 @@ For listeners, the same principle applies. Silence becomes a space where expecta
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses](https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSilences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249978349_Silences_in_Music_are_Musical_Not_Silent_An_Exploratory_Study_of_Context_Effects_on_the_Experience_of_Musical_Pauses</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Silences in Music are Musical Not Silent: An Exploratory...SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one d...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: collaborate.princeton.edu  
-   Link: [https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/](https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/)  
+   Link: <a href="https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/" target="_blank" rel="noopener noreferrer nofollow">https://collaborate.princeton.edu/en/publications/silences-in-music-are-musical-not-silent-an-exploratory-study-of-/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Princeton UniversitySilences in music are musical not silent: An exploratory...by EH Margulis · 2007 · Cited by 86 — Silences in music a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedaily.com  
-   Link: [https://www.sciencedaily.com/releases/2007/06/070622180242.htm](https://www.sciencedaily.com/releases/2007/06/070622180242.htm)  
+   Link: <a href="https://www.sciencedaily.com/releases/2007/06/070622180242.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2007/06/070622180242.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring The Sounds Of Silence24 June 2007 — Silence in music is not really silent. Research by a University of Arkansas music theorist...</p></details>
    Published: June 2007  
 
 4. <a id="endnote-4"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/pdf/40283130.pdf](https://www.jstor.org/stable/pdf/40283130.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORListening to Musical Silenceby EH Margulis · 2007 · Cited by 79 — The article&#x27;s account of silence emphasizes the active, participat...</p></details>
+   Link: <a href="https://www.jstor.org/stable/pdf/40283130.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/40283130.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Listening to Musical Silenceby EH Margulis · 2007 · Cited by 79 — The article&#x27;s account of silence emphasizes the active, participat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/10.1525/mp.2007.24.5.485](https://www.jstor.org/stable/10.1525/mp.2007.24.5.485)  
+   Link: <a href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/mp.2007.24.5.485</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet anticipation: Music and the psychology of expectation. New York...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPredictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predictability and Uncertainty in the Pleasure of Music - PMCby BP Gold · 2019 · Cited by 266 — In Study 1, we investigate how musical...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1707.06231](https://arxiv.org/abs/1707.06231)  
+   Link: <a href="https://arxiv.org/abs/1707.06231" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1707.06231</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation](https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation)  
+   Link: <a href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Anticipation: Music and the Psychology of ExpectationThe psychological theory of expectation that David Huron proposes in Sweet Ant...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13415-013-0161-y](https://link.springer.com/article/10.3758/s13415-013-0161-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerProbabilistic models of expectation violation predict...by H Egermann · 2013 · Cited by 255 — We present the results of a study...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13415-013-0161-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-013-0161-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Probabilistic models of expectation violation predict...by H Egermann · 2013 · Cited by 255 — We present the results of a study...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Effects of pitch and timing expectancy on musical emotion  
-   Link: [https://arxiv.org/abs/1708.03687](https://arxiv.org/abs/1708.03687)  
+   Link: <a href="https://arxiv.org/abs/1708.03687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.03687</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/249881993_Moved_by_Nothing_Listening_to_Musical_Silence](https://www.researchgate.net/publication/249881993_Moved_by_Nothing_Listening_to_Musical_Silence)  
+   Link: <a href="https://www.researchgate.net/publication/249881993_Moved_by_Nothing_Listening_to_Musical_Silence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249881993_Moved_by_Nothing_Listening_to_Musical_Silence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moved by Nothing: Listening to Musical SilenceThis article explores the functions of silence in common-practice music, with an emphasis o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: piano-composer-teacher-london.co.uk  
    Title: WKMTFermata in Music  
-   Link: [https://www.piano-composer-teacher-london.co.uk/fermata/](https://www.piano-composer-teacher-london.co.uk/fermata/)  
+   Link: <a href="https://www.piano-composer-teacher-london.co.uk/fermata/" target="_blank" rel="noopener noreferrer nofollow">https://www.piano-composer-teacher-london.co.uk/fermata/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fermata MeaningFebruary 23, 2025 — 23 Feb 2025 — Cadential Emphasis. Marking the end of phrases or sections, often at cadences. Example 1...</p></details>
    Published: February 23, 2025  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3713348/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3713348/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Droit-Volet · 2013 · Cited by 234 — The results showed that the effect of tempo in music, associated with a subjective arousal ef...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3713348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3713348/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Droit-Volet · 2013 · Cited by 234 — The results showed that the effect of tempo in music, associated with a subjective arousal ef...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe sound of silence: an EEG study of how musicians time...by A Zamm · 2020 · Cited by 22 — These findings provide novel insight into...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sound of silence: an EEG study of how musicians time...by A Zamm · 2020 · Cited by 22 — These findings provide novel insight into...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: orbit.dtu.dk  
-   Link: [https://orbit.dtu.dk/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/](https://orbit.dtu.dk/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/)  
+   Link: <a href="https://orbit.dtu.dk/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/" target="_blank" rel="noopener noreferrer nofollow">https://orbit.dtu.dk/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to DTU Research DatabaseThe sound of silence: an EEG study of how musicians time...by A Zamm · 2021 · Cited by 22 — Together the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Bohdan-Syroyid-Syroyid/publication/343722710_Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth-Century_Music_and_In-Depth_Case_Study_of_Webern%27s_Op_27iii/links/5f8ee097a6fdccfd7b6ec842/Analysis-of-Silences-in-Music-Theoretical-Perspectives-Analytical-Examples-from-Twentieth-Century-Music-and-In-Depth-Case-Study-of-Weberns-Op-27-iii.pdf](https://www.researchgate.net/profile/Bohdan-Syroyid-Syroyid/publication/343722710_Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth-Century_Music_and_In-Depth_Case_Study_of_Webern%27s_Op_27iii/links/5f8ee097a6fdccfd7b6ec842/Analysis-of-Silences-in-Music-Theoretical-Perspectives-Analytical-Examples-from-Twentieth-Century-Music-and-In-Depth-Case-Study-of-Weberns-Op-27-iii.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Bohdan-Syroyid-Syroyid/publication/343722710_Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth-Century_Music_and_In-Depth_Case_Study_of_Webern%27s_Op_27iii/links/5f8ee097a6fdccfd7b6ec842/Analysis-of-Silences-in-Music-Theoretical-Perspectives-Analytical-Examples-from-Twentieth-Century-Music-and-In-Depth-Case-Study-of-Weberns-Op-27-iii.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Bohdan-Syroyid-Syroyid/publication/343722710_Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth-Century_Music_and_In-Depth_Case_Study_of_Webern%27s_Op_27iii/links/5f8ee097a6fdccfd7b6ec842/Analysis-of-Silences-in-Music-Theoretical-Perspectives-Analytical-Examples-from-Twentieth-Century-Music-and-In-Depth-Case-Study-of-Weberns-Op-27-iii.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expectancy pause, creates anticipation and longing. Tonal music. Dominant followed by...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: musicpsychology.co.uk  
-   Link: [https://musicpsychology.co.uk/the-music-of-silence/](https://musicpsychology.co.uk/the-music-of-silence/)  
+   Link: <a href="https://musicpsychology.co.uk/the-music-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/the-music-of-silence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The music of silenceIf a pause follows good musical closure then participants are able to react more quickly to the pause and reported th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02044/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02044/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02044/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02044/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Responses to Music: Shifts in Frontal Brain...by HA Arjmand · 2017 · Cited by 149 — Recent studies have demonstrated increased...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journalofcognition.org  
-   Link: [https://journalofcognition.org/articles/10.5334/joc.286](https://journalofcognition.org/articles/10.5334/joc.286)  
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.286" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.286</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionFeeling the Beat: Temporal Predictability is Associated with...by N Singer · 2023 · Cited by 14 — Our findings revea...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.578644/full?ref=hypebot.com](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.578644/full?ref=hypebot.com)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.578644/full?ref=hypebot.com" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.578644/full?ref=hypebot.com</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmonic [Surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) and Preference Over Time in Popular...by SA Miles · 2021 · Cited by 13 — Previous work demonstrated that music with mo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: musictheoryacademy.com  
    Title: There are 4 main types of cadences.Read more  
-   Link: [https://www.musictheoryacademy.com/how-to-read-sheet-music/cadences/](https://www.musictheoryacademy.com/how-to-read-sheet-music/cadences/)  
+   Link: <a href="https://www.musictheoryacademy.com/how-to-read-sheet-music/cadences/" target="_blank" rel="noopener noreferrer nofollow">https://www.musictheoryacademy.com/how-to-read-sheet-music/cadences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cadences - Music Theory Academy - Perfect, plagal...A cadence in music is a chord progression of at least 2 chords that ends a phrase or...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: mtosmt.org  
-   Link: [https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.margulis.html](https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.margulis.html)  
+   Link: <a href="https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.margulis.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.22.28.4/mto.22.28.4.margulis.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 28.4: Margulis, Structure in Narrative Imaginings to...This paper digests a recent body of empirical work on narrative imaginings to...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/425099711623706/posts/1847427256057604/](https://www.facebook.com/groups/425099711623706/posts/1847427256057604/)  
+   Link: <a href="https://www.facebook.com/groups/425099711623706/posts/1847427256057604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/425099711623706/posts/1847427256057604/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of cadences in music theory explainedA deceptive cadence is a musical technique where a progression sets up the expectation of a fi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: illustratemagazine.com  
    Title: the power of silence in music how pauses and minimalism create impact  
-   Link: [https://illustratemagazine.com/the-power-of-silence-in-music-how-pauses-and-minimalism-create-impact/](https://illustratemagazine.com/the-power-of-silence-in-music-how-pauses-and-minimalism-create-impact/)  
+   Link: <a href="https://illustratemagazine.com/the-power-of-silence-in-music-how-pauses-and-minimalism-create-impact/" target="_blank" rel="noopener noreferrer nofollow">https://illustratemagazine.com/the-power-of-silence-in-music-how-pauses-and-minimalism-create-impact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Silence in Music: How Pauses and...Sep 13, 2024 — Research into the psychology of music suggests that silence and minimalis...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: research.ceu.edu  
-   Link: [https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/](https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/)  
+   Link: <a href="https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/" target="_blank" rel="noopener noreferrer nofollow">https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CEU Research Pure PortalThe sound of silence: An EEG study of how musicians time...by A Zamm · 2021 · Cited by 22 — Dive into the resear...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40newmusiccomposer/the-psychology-of-music-perception-how-listeners-process-my-work-e5ee9fb68d98](https://medium.com/%40newmusiccomposer/the-psychology-of-music-perception-how-listeners-process-my-work-e5ee9fb68d98)  
+   Link: <a href="https://medium.com/%40newmusiccomposer/the-psychology-of-music-perception-how-listeners-process-my-work-e5ee9fb68d98" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40newmusiccomposer/the-psychology-of-music-perception-how-listeners-process-my-work-e5ee9fb68d98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uct it in our minds. Our brains seek patterns, fill in gaps...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DPh6PN4D2bq/](https://www.instagram.com/reel/DPh6PN4D2bq/)  
+   Link: <a href="https://www.instagram.com/reel/DPh6PN4D2bq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPh6PN4D2bq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c. It&#x27;s all about feel! #music #musictheory #fermata...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: biorxiv.org  
    Title: an EEG exploration of excitement in music  
-   Link: [https://www.biorxiv.org/content/10.1101/637983v2.full-text](https://www.biorxiv.org/content/10.1101/637983v2.full-text)  
+   Link: <a href="https://www.biorxiv.org/content/10.1101/637983v2.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.1101/637983v2.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2019 — Research has shown music containing high anticipation and tension for predicted or unexpected alterations in its continuou...</p></details>
    Published: May 16, 2019  
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTWw5wFjO-V/](https://www.instagram.com/reel/DTWw5wFjO-V/)  
+   Link: <a href="https://www.instagram.com/reel/DTWw5wFjO-V/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTWw5wFjO-V/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mine, a chemical involved in motivation, learning, and pleasure...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: barbadpiano.ae  
-   Link: [https://barbadpiano.ae/blog/self-improvement/power-of-silence/](https://barbadpiano.ae/blog/self-improvement/power-of-silence/)  
+   Link: <a href="https://barbadpiano.ae/blog/self-improvement/power-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://barbadpiano.ae/blog/self-improvement/power-of-silence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Silence in Music: How Pauses Create EmotionFeb 27, 2025 — Scientific studies have shown that silence in music can trigger po...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: semanticscholar.org  
    Title: However, like pauses in speech,  
-   Link: [https://www.semanticscholar.org/paper/5984cd2c1cb8d9e027d0937d2dd603e9c76d4ffc](https://www.semanticscholar.org/paper/5984cd2c1cb8d9e027d0937d2dd603e9c76d4ffc)  
+   Link: <a href="https://www.semanticscholar.org/paper/5984cd2c1cb8d9e027d0937d2dd603e9c76d4ffc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/5984cd2c1cb8d9e027d0937d2dd603e9c76d4ffc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Silences in Music are Musical Not Silent: An Exploratory...1 June 2007 — SILENCES IN MUSIC ARE DISTINGUISHED acoustically along only one...</p></details>
-   Published: June 2007  
+   Published: June 2007

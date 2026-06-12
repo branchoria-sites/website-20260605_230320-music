@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-protest-songs-power/
 description: Focused pages that expand on Protest Songs.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_protest_songs_power_430b69
-parent_title: Protest Songs | Music
+parent_title: Protest Songs
 parent_nav_short_title: Protest Songs
 parent_permalink: /protest-songs/
 ---

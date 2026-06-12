@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_albums_in_streaming_0eaed5_albums_and_fan_loyal_b3d772
 - music_3a01be_albums_in_streaming_0eaed5_vinyl_album_experien_a1bc48
 tags:
-- music
+- music-3-a01-be
 - albums
 - album-arc
 keywords:
-- music
+- music-3-a01-be
 - albums
 - album-arc
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Albums use sequencing and contrast to create meaning that playlist listening often changes or removes.
 hero_summary: Albums use sequencing and contrast to create meaning that playlist listening often changes or removes.
 layout: default
 permalink: /album-arc/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /albums/
 nav_short_title: Album Arc
 title: What Gets Lost When Songs Leave the Album?
-title_full: What Gets Lost When Songs Leave the Album? | Albums
+title_full: What Gets Lost When Songs Leave the Album?
 display_title_short: Album Arc
 display_title: Album Arc
 heading_title: What Gets Lost When Songs Leave the Album?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Albums Still Matter Now | Music
+parent_title: Why Albums Still Matter Now
 parent_permalink: /albums/
 parent_nav_short_title: Albums
 parent_heading_title: Why Albums Still Matter Now
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
@@ -243,12 +243,12 @@ sibling_links:
   short_title: Fan Rituals
   heading_title: Why Do Fans Still Gather Around Album Releases?
 - basename: music_3a01be_albums_in_streaming_0eaed5_vinyl_album_experien_a1bc48
-  title: Vinyl Album Experien | Albums
-  permalink: /vinyl-album-experien/
-  short_title: Vinyl Album Experien
+  title: Vinyl Album Experien A1 Bc 48 | Albums
+  permalink: /vinyl-album-experien-a1-bc-48/
+  short_title: Vinyl Album Experien A1 Bc 48
 up_link:
   basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
@@ -258,7 +258,7 @@ next_link:
   permalink: /album-variants/
   short_title: Album Variants
   heading_title: Are Album Variants Fandom or Chart Strategy?
-date: '2026-06-09 06:43:06 '
+date: '2026-06-11 23:23:03 '
 header:
   og_image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1.webp
@@ -267,22 +267,20 @@ image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_ar
 
 ## Introduction
 
-Can playlists replace an album’s narrative arc? In some respects, yes: playlists are excellent at organising music around moods, activities and personal taste. They can create emotional flow, [surprise]({{ 'surprise/' | relative_url }}) and cohesion. What they generally do not replace is the specific narrative structure that artists build through album sequencing. [Albums]({{ 'albums/' | relative_url }}) are often designed as journeys in which songs gain meaning from their position, contrast with neighbouring tracks, and contribute to a larger emotional or thematic statement. When songs are removed from that sequence and placed into playlists, part of that intended meaning can disappear. Research on album sequencing, music psychology and listening habits suggests that track order is not accidental; it is frequently a deliberate creative device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">PMCby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</span></span></span>
-
+Can playlists replace an album’s narrative arc? In some respects, yes: playlists are excellent at organising music around moods, activities and personal taste. They can create emotional flow, [surprise]({{ 'surprise/' | relative_url }}) and cohesion. What they generally do not replace is the specific narrative structure that artists build through album sequencing. [Albums]({{ 'albums/' | relative_url }}) are often designed as journeys in which songs gain meaning from their position, contrast with neighbouring tracks, and contribute to a larger emotional or thematic statement. When songs are removed from that sequence and placed into playlists, part of that intended meaning can disappear. Research on album sequencing, music psychology and listening habits suggests that track order is not accidental; it is frequently a deliberate creative device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">by P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album &#124; The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1-dark.svg" | relative_url }}" alt="Album Arc illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The rise of streaming has made playlists a dominant way of discovering and consuming [music]({{ 'music/' | relative_url }}), but it has also highlighted a distinction between music as a collection of songs and music as a structured work. That distinction helps explain why albums continue to matter even in an era of algorithmic listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4505600/playlists-albums-loop-music-business/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Americans Listening to Playlists Over Albums, Study Finds</span><span class="citation-popover-snippet">Playlists account for 31% of listening time, while albums make up 22%. Single track listening remains the most popular at 46%, though it...</span><span class="citation-popover-meta">Published: September 23, 2016</span></span></span>
+The rise of streaming has made playlists a dominant way of discovering and consuming music, but it has also highlighted a distinction between music as a collection of songs and music as a structured work. That distinction helps explain why albums continue to matter even in an era of algorithmic listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4505600/playlists-albums-loop-music-business/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Americans Listening to Playlists Over Albums, Study Finds</span><span class="citation-popover-snippet">Playlists account for 31% of listening time, while albums make up 22%. Single track listening remains the most popular at 46%, though it...</span><span class="citation-popover-meta">Published: September 23, 2016</span></span></span>
 
 ## Why Track Order Matters
 
 An album is not simply a container. For many artists, sequencing is part of the composition itself.
 
-Recent research analysing tens of thousands of albums found consistent patterns in how artists arrange tracks. Tempo, energy and emotional intensity often follow recognisable arcs rather than appearing randomly. Songs with higher energy frequently appear near the beginning, while emotional and sonic characteristics shift across an album in ways that resemble narrative development. Researchers argue that these patterns reflect broad artistic agreement about how listeners experience musical journeys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">PMCby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span> PubMed Industry practitioners describe sequencing in similar terms. The order of tracks influences pacing <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40608693/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">album is a story: Feature arcs in sequences of tracksby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns...</span></span></span>, tension, release, contrast and resolution. Opening tracks establish expectations, middle sections deepen themes or introduce complications, and closing tracks often provide reflection or closure. In this view, changing the order changes the work itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fisherald.com/the-art-of-album-sequencing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisherald.com">[2fisherald.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisherald.com</span><span class="citation-popover-title">the art of album sequencing</span><span class="citation-popover-snippet">26 Feb 2024 — An album&#x27;s sequencing has many elements, but the main ones are the first impression (track one), ending (final track), and...</span></span></span>
+Recent research analysing tens of thousands of albums found consistent patterns in how artists arrange tracks. Tempo, energy and emotional intensity often follow recognisable arcs rather than appearing randomly. Songs with higher energy frequently appear near the beginning, while emotional and sonic characteristics shift across an album in ways that resemble narrative development. Researchers argue that these patterns reflect broad artistic agreement about how listeners experience musical journeys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">by P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span> PubMed Industry practitioners describe sequencing in similar terms. The order of tracks influences pacing <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40608693/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">album is a story: Feature arcs in sequences of tracksby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns...</span></span></span>, tension, release, contrast and resolution. Opening tracks establish expectations, middle sections deepen themes or introduce complications, and closing tracks often provide reflection or closure. In this view, changing the order changes the work itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album &#124; The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fisherald.com/the-art-of-album-sequencing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisherald.com">[2fisherald.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisherald.com</span><span class="citation-popover-title">the art of album sequencing</span><span class="citation-popover-snippet">26 Feb 2024 — An album&#x27;s sequencing has many elements, but the main ones are the first impression (track one), ending (final track), and...</span></span></span>
 
-This is why many listeners react strongly to track-order debates. Discussions among music fans frequently focus not only on whether songs are good, but on whether they appear in the right place. The perceived flow between songs can affect how the entire album is remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/TaylorSwift/comments/1f6osqs/how_important_is_an_albums_track_order/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHow important is an album&#x27;s track order?: r/TaylorSwiftBeen hearing this a lot about Sabrina&#x27;s album - the track order is all over...</span></span></span>
+This is why many listeners react strongly to track-order debates. Discussions among music fans frequently focus not only on whether songs are good, but on whether they appear in the right place. The perceived flow between songs can affect how the entire album is remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/TaylorSwift/comments/1f6osqs/how_important_is_an_albums_track_order/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How important is an album&#x27;s track order?: r/TaylorSwiftBeen hearing this a lot about Sabrina&#x27;s album - the track order is all over...</span></span></span>
 
 A playlist can preserve individual songs, but it often removes the transitions, contrasts and cumulative effects that sequencing was designed to create.
-
 
 <img src="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-3-dark.svg" | relative_url }}" alt="Album Arc illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mood Playlists Versus Artist Intent
@@ -301,7 +299,6 @@ Album listeningPlaylist listeningArtist controls sequenceListener or algorithm c
 
 Neither approach is inherently better. Playlists excel at personalisation. Albums excel at sustained storytelling.
 
-
 <img src="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-2-dark.svg" | relative_url }}" alt="Album Arc illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Album Storytelling
 
@@ -311,7 +308,7 @@ Concept albums are the clearest example. By definition, they are structured so t
 
 Even albums that are not explicit narratives often rely on sequencing. Frank Sinatra's mid-century concept records, many progressive rock albums, and contemporary releases built around emotional progression use order to create meaning through contrast and accumulation. A reflective closing track may resonate because of everything that came before it, not because of its standalone qualities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Concept_album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Concept album</span><span class="citation-popover-snippet">Concept album</span></span></span>
 
-Research into sequencing patterns reinforces this idea. If artists repeatedly arrange albums in similar arc-like ways, that suggests listeners experience songs not only individually but also as parts of larger structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">PMCby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span>
+Research into sequencing patterns reinforces this idea. If artists repeatedly arrange albums in similar arc-like ways, that suggests listeners experience songs not only individually but also as parts of larger structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">by P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span>
 
 ## What Playlists Can Do That Albums Cannot
 
@@ -319,12 +316,11 @@ The story is not entirely one-sided.
 
 Playlists have developed their own forms of narrative. A carefully curated playlist can create emotional progression, introduce unexpected juxtapositions and reflect a listener's personal experiences. Some playlists function almost like autobiographies, with meaning emerging from the relationships between tracks chosen by the listener rather than by an artist.
 
-Research on playlist coherence suggests that listeners do respond to sequencing within playlists, and streaming services increasingly use sequential listening patterns when generating recommendations. In other words, order still matters in playlists; it is simply serving a different purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">PMCby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.ismir.net/ismir2021/paper/000077.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.ismir.net">[ISMIR Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.ismir.net</span><span class="citation-popover-snippet">ISMIR ArchivesDOES TRACK SEQUENCE IN USER-GENERATED...by H Schweiger · Cited by 15 — The extent to which the sequence of tracks in music...</span></span></span>
+Research on playlist coherence suggests that listeners do respond to sequencing within playlists, and streaming services increasingly use sequential listening patterns when generating recommendations. In other words, order still matters in playlists; it is simply serving a different purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn album is a story: Feature arcs in sequences of tracks</span><span class="citation-popover-snippet">by P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.ismir.net/ismir2021/paper/000077.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.ismir.net">[ISMIR Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.ismir.net</span><span class="citation-popover-snippet">ISMIR ArchivesDOES TRACK SEQUENCE IN USER-GENERATED...by H Schweiger · Cited by 15 — The extent to which the sequence of tracks in music...</span></span></span>
 
 The difference is authorship. Album narratives are generally authored by artists. Playlist narratives are usually authored by listeners, curators or algorithms.
 
 That distinction changes the kind of meaning produced. An album asks, "What story does this artist want to tell?" A playlist often asks, "What experience does this listener want to have?"
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SpVNpWQBUXQ" title="Concept Albums Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SpVNpWQBUXQ" target="_blank" rel="noopener noreferrer">Concept Albums Explained</a></p><p class="youtube-embed-meta">Channel: musEducation &middot; Views: 108 &middot; Uploaded: January 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SpVNpWQBUXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SpVNpWQBUXQ">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +332,7 @@ Songs on albums frequently act like chapters. Some introduce themes. Others crea
 
 The result is similar to reading memorable scenes from a novel without reading the chapters between them. The scenes may still work. What disappears is the carefully constructed relationship among them.
 
-This helps explain why albums remain culturally significant despite the dominance of playlists. Playlists are superb tools for discovery, convenience and personal expression. Yet when artists use sequencing to build tension, develop themes and create emotional resolution, playlists rarely reproduce the full experience. They can preserve the songs, but they often cannot fully preserve the arc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40608693/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">album is a story: Feature arcs in sequences of tracksby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fisherald.com/the-art-of-album-sequencing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisherald.com">[3fisherald.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisherald.com</span><span class="citation-popover-title">the art of album sequencing</span><span class="citation-popover-snippet">26 Feb 2024 — An album&#x27;s sequencing has many elements, but the main ones are the first impression (track one), ending (final track), and...</span></span></span>
+This helps explain why albums remain culturally significant despite the dominance of playlists. Playlists are superb tools for discovery, convenience and personal expression. Yet when artists use sequencing to build tension, develop themes and create emotional resolution, playlists rarely reproduce the full experience. They can preserve the songs, but they often cannot fully preserve the arc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40608693/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">album is a story: Feature arcs in sequences of tracksby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">industry insights how to sequence a music album</span><span class="citation-popover-snippet">Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album &#124; The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fisherald.com/the-art-of-album-sequencing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisherald.com">[3fisherald.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisherald.com</span><span class="citation-popover-title">the art of album sequencing</span><span class="citation-popover-snippet">26 Feb 2024 — An album&#x27;s sequencing has many elements, but the main ones are the first impression (track one), ending (final track), and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -455,15 +451,15 @@ This helps explain why albums remain culturally significant despite the dominanc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Album Poster Cover Request Your Own Album Choice Album Cover Poster"><img src="{{ '/assets/images/marketplace-covers/61b18c7d2fb473f44bfc.jpg' | relative_url }}" alt="Listing image for Custom Album Poster Cover Request Your Own Album Choice Album Cover Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SYSTEM OF A DOWN &quot;TOXICITY&quot; - Album Cover Poster - Various Sizes"><img src="https://i.ebayimg.com/images/g/zWUAAOSwk8lmdAz-/s-l225.jpg" alt="Listing image for SYSTEM OF A DOWN &quot;TOXICITY&quot; - Album Cover Poster - Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Custom Album Poster Cover Request Your Own Album Choice Album Cover Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">SYSTEM OF A DOWN &quot;TOXICITY&quot; - Album Cover Poster - Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -471,15 +467,15 @@ This helps explain why albums remain culturally significant despite the dominanc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Juice Wrld Poster. Album Covers Wall Art/Print. All Album Covers. A4/A3/A2"><img src="{{ '/assets/images/marketplace-covers/3cb11b42f52a7a748a40.jpg' | relative_url }}" alt="Listing image for Juice Wrld Poster. Album Covers Wall Art/Print. All Album Covers. A4/A3/A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Taylor swift bedroom poster prints album cover boys girls gift A2 A3 A4 A5 X11"><img src="https://i.ebayimg.com/images/g/YOIAAOSwb-FmSlo4/s-l225.jpg" alt="Listing image for Taylor swift bedroom poster prints album cover boys girls gift A2 A3 A4 A5 X11" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Juice Wrld Poster. Album Covers Wall Art/Print. All Album Covers. A4/A3/A2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Taylor swift bedroom poster prints album cover boys girls gift A2 A3 A4 A5 X11</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +483,15 @@ This helps explain why albums remain culturally significant despite the dominanc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3/A4 - Fleetwood Mac RUMOURS Album Cover Wall Art Posters"><img src="{{ '/assets/images/marketplace-covers/c2aabca67fde76be18c3.jpg' | relative_url }}" alt="Listing image for A3/A4 - Fleetwood Mac RUMOURS Album Cover Wall Art Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/Gm4AAeSw9fpptEEA/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">A3/A4 - Fleetwood Mac RUMOURS Album Cover Wall Art Posters</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +499,15 @@ This helps explain why albums remain culturally significant despite the dominanc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Smiths Album Cover Poster / Full Collection / Unframed A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/16cc8e67ccf1c3592d2b.jpg' | relative_url }}" alt="Listing image for The Smiths Album Cover Poster / Full Collection / Unframed A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes"><img src="https://i.ebayimg.com/images/g/CoMAAOSwxaJksAwI/s-l225.jpg" alt="Listing image for EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">The Smiths Album Cover Poster / Full Collection / Unframed A5 A4 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">EAGLES.. HOTEL CALIFORNIA ... Iconic Album Cover Poster Various Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for album cover poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: album cover poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,7 +515,7 @@ This helps explain why albums remain culturally significant despite the dominanc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="album-arc-what-gets-lost-when-songs-leave-the-album-music-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=album+cover+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-gets-lost-when-songs-leave-the-album-album-cover-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="album cover poster" data-ebay-reference="what-gets-lost-when-songs-leave-the-album-album-cover-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -735,67 +731,67 @@ This helps explain why albums remain culturally significant despite the dominanc
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn album is a story: Feature arcs in sequences of tracks  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12225790/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns of track sequencing, with musicians showing broad...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: Americans Listening to Playlists Over Albums, Study Finds  
-   Link: [https://time.com/4505600/playlists-albums-loop-music-business/](https://time.com/4505600/playlists-albums-loop-music-business/)  
+   Link: <a href="https://time.com/4505600/playlists-albums-loop-music-business/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4505600/playlists-albums-loop-music-business/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists account for 31% of listening time, while albums make up 22%. Single track listening remains the most popular at 46%, though it...</p></details>
    Published: September 23, 2016  
 
 3. <a id="endnote-3"></a>
    Source: fisherald.com  
    Title: the art of album sequencing  
-   Link: [https://fisherald.com/the-art-of-album-sequencing/](https://fisherald.com/the-art-of-album-sequencing/)  
+   Link: <a href="https://fisherald.com/the-art-of-album-sequencing/" target="_blank" rel="noopener noreferrer nofollow">https://fisherald.com/the-art-of-album-sequencing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2024 — An album&#x27;s sequencing has many elements, but the main ones are the first impression (track one), ending (final track), and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TaylorSwift/comments/1f6osqs/how_important_is_an_albums_track_order/](https://www.reddit.com/r/TaylorSwift/comments/1f6osqs/how_important_is_an_albums_track_order/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHow important is an album&#x27;s track order?: r/TaylorSwiftBeen hearing this a lot about Sabrina&#x27;s album - the track order is all over...</p></details>
+   Link: <a href="https://www.reddit.com/r/TaylorSwift/comments/1f6osqs/how_important_is_an_albums_track_order/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TaylorSwift/comments/1f6osqs/how_important_is_an_albums_track_order/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How important is an album&#x27;s track order?: r/TaylorSwiftBeen hearing this a lot about Sabrina&#x27;s album - the track order is all over...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/](https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/)  
+   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/bqjm57/lets_talk_album_sequencing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Talk: Album Sequencing: r/LetsTalkMusicGood album tracklists tend to have an arc to them, a sort of sound narrative to give the tr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Concept album  
-   Link: [https://en.wikipedia.org/wiki/Concept_album](https://en.wikipedia.org/wiki/Concept_album)  
+   Link: <a href="https://en.wikipedia.org/wiki/Concept_album" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Concept_album</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11923031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923031/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe impact of playlist characteristics on coherence in user...by H Schweiger · 2025 · Cited by 5 — In this paper, we provide a formal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11923031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11923031/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of playlist characteristics on coherence in user...by H Schweiger · 2025 · Cited by 5 — In this paper, we provide a formal...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.ismir.net  
-   Link: [https://archives.ismir.net/ismir2021/paper/000077.pdf](https://archives.ismir.net/ismir2021/paper/000077.pdf)  
+   Link: <a href="https://archives.ismir.net/ismir2021/paper/000077.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.ismir.net/ismir2021/paper/000077.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISMIR ArchivesDOES TRACK SEQUENCE IN USER-GENERATED...by H Schweiger · Cited by 15 — The extent to which the sequence of tracks in music...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: musiciansunion.org.uk  
    Title: industry insights how to sequence a music album  
-   Link: [https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album](https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album)  
+   Link: <a href="https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/industry-insights-how-to-sequence-a-music-album</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionIndustry Insights: How to Sequence a Music Album | The MU26 Jan 2024 — Great sequencing can enhance and elevate an album...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40608693/](https://pubmed.ncbi.nlm.nih.gov/40608693/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40608693/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40608693/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>album is a story: Feature arcs in sequences of tracksby P Neto · 2025 · Cited by 1 — Our findings reveal consistent statistical patterns...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: research.atspotify.com  
    Title: exploiting sequential music preferences via optimisation based sequencing  
-   Link: [https://research.atspotify.com/2023/10/exploiting-sequential-music-preferences-via-optimisation-based-sequencing](https://research.atspotify.com/2023/10/exploiting-sequential-music-preferences-via-optimisation-based-sequencing)  
+   Link: <a href="https://research.atspotify.com/2023/10/exploiting-sequential-music-preferences-via-optimisation-based-sequencing" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2023/10/exploiting-sequential-music-preferences-via-optimisation-based-sequencing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchExploiting Sequential Music Preferences via Optimisation...26 Oct 2023 — We study the problem of constructing personaliz...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: longriverreview.com  
-   Link: [https://longriverreview.com/blog/2019/concept-albums-musics-place-in-storytelling/](https://longriverreview.com/blog/2019/concept-albums-musics-place-in-storytelling/)  
+   Link: <a href="https://longriverreview.com/blog/2019/concept-albums-musics-place-in-storytelling/" target="_blank" rel="noopener noreferrer nofollow">https://longriverreview.com/blog/2019/concept-albums-musics-place-in-storytelling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Long River ReviewConcept Albums: Music&#x27;s Place in StorytellingMarch 27, 2019 — 27 Mar 2019 — A concept album contains tracks that combine...</p></details>
    Published: March 27, 2019  
 
@@ -804,57 +800,57 @@ This helps explain why albums remain culturally significant despite the dominanc
 13. <a id="endnote-13"></a>
    Source: blog.discmakers.com  
    Title: what is a concept album  
-   Link: [https://blog.discmakers.com/2023/08/what-is-a-concept-album/](https://blog.discmakers.com/2023/08/what-is-a-concept-album/)  
+   Link: <a href="https://blog.discmakers.com/2023/08/what-is-a-concept-album/" target="_blank" rel="noopener noreferrer nofollow">https://blog.discmakers.com/2023/08/what-is-a-concept-album/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disc Makers BlogWhat is a Concept Album and How Do You Make One?1 Aug 2023 — A concept album includes a body of songs centered around a s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: blog.landr.com  
    Title: album sequencing  
-   Link: [https://blog.landr.com/album-sequencing/](https://blog.landr.com/album-sequencing/)  
+   Link: <a href="https://blog.landr.com/album-sequencing/" target="_blank" rel="noopener noreferrer nofollow">https://blog.landr.com/album-sequencing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LANDR BlogAlbum Sequencing: How to Give Your Releases Perfect Flow13 Mar 2026 — Sequencing includes defining the [silence](&amp;#123;&amp;#123; &#x27;silence/&#x27; | relative_url &amp;#125;&amp;#125;) between songs, c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.07772v2](https://arxiv.org/html/2411.07772v2)  
+   Link: <a href="https://arxiv.org/html/2411.07772v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07772v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Album Sequencing26 Nov 2024 — Playlist sequencing is the process of taking a collection of music tracks and ordering them so th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: disloyalorder.com  
    Title: Crafting the Story Arc of Your Concept Album  
-   Link: [https://disloyalorder.com/2025/06/03/crafting-the-story-arc-of-your-concept-album/](https://disloyalorder.com/2025/06/03/crafting-the-story-arc-of-your-concept-album/)  
+   Link: <a href="https://disloyalorder.com/2025/06/03/crafting-the-story-arc-of-your-concept-album/" target="_blank" rel="noopener noreferrer nofollow">https://disloyalorder.com/2025/06/03/crafting-the-story-arc-of-your-concept-album/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disloyal Order3 Jun 2025 — This is a no-fluff, musician-focused breakdown of how to craft your concept album&#x27;s story arc from the inside...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ledbooks.org  
    Title: LISTENIN G TO MUSIC  
-   Link: [https://ledbooks.org/proceedings2017/led-data/uploads/2017/02/Accounting-for-genre_-how-genre-awareness-and-affinity-affects-music-streaming-use-%E2%80%93-Listening-to-music_-people-practices-and-experiences.pdf](https://ledbooks.org/proceedings2017/led-data/uploads/2017/02/Accounting-for-genre_-how-genre-awareness-and-affinity-affects-music-streaming-use-%E2%80%93-Listening-to-music_-people-practices-and-experiences.pdf)  
+   Link: <a href="https://ledbooks.org/proceedings2017/led-data/uploads/2017/02/Accounting-for-genre_-how-genre-awareness-and-affinity-affects-music-streaming-use-%E2%80%93-Listening-to-music_-people-practices-and-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ledbooks.org/proceedings2017/led-data/uploads/2017/02/Accounting-for-genre_-how-genre-awareness-and-affinity-affects-music-streaming-use-%E2%80%93-Listening-to-music_-people-practices-and-experiences.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LISTENING TO MUSIC - LED Proceedings 2017 and 2019by M Flynn — By 2015, 30 years after the CD digitised music consumption, smartphones we...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: musicmusingsandsuch.com  
    Title: feature everything in its right place the fine art of album sequencing  
-   Link: [https://www.musicmusingsandsuch.com/musicmusingsandsuch/2020/4/12/feature-everything-in-its-right-place-the-fine-art-of-album-sequencing](https://www.musicmusingsandsuch.com/musicmusingsandsuch/2020/4/12/feature-everything-in-its-right-place-the-fine-art-of-album-sequencing)  
+   Link: <a href="https://www.musicmusingsandsuch.com/musicmusingsandsuch/2020/4/12/feature-everything-in-its-right-place-the-fine-art-of-album-sequencing" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmusingsandsuch.com/musicmusingsandsuch/2020/4/12/feature-everything-in-its-right-place-the-fine-art-of-album-sequencing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FEATURE: Everything in Its Right Place: The Fine Art of Album...12 Apr 2020 — The golden rule for sequencing an album was to have one of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: popdose.com  
    Title: off on the wrong foot the art of album sequencing  
-   Link: [https://popdose.com/off-on-the-wrong-foot-the-art-of-album-sequencing/](https://popdose.com/off-on-the-wrong-foot-the-art-of-album-sequencing/)  
+   Link: <a href="https://popdose.com/off-on-the-wrong-foot-the-art-of-album-sequencing/" target="_blank" rel="noopener noreferrer nofollow">https://popdose.com/off-on-the-wrong-foot-the-art-of-album-sequencing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Off on the Wrong Foot: the Art of Album Sequencing23 Feb 2012 — when sequencing an album, you start with a strong track — maybe not the b...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rockandrollglobe.com  
    Title: the best sequences in album rock and beyond  
-   Link: [https://rockandrollglobe.com/radio/the-best-sequences-in-album-rock-and-beyond/](https://rockandrollglobe.com/radio/the-best-sequences-in-album-rock-and-beyond/)  
+   Link: <a href="https://rockandrollglobe.com/radio/the-best-sequences-in-album-rock-and-beyond/" target="_blank" rel="noopener noreferrer nofollow">https://rockandrollglobe.com/radio/the-best-sequences-in-album-rock-and-beyond/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Apr 2022 — I also realized I had to separate non-concept albums and concept albums, the latter being very consciously sequenced in ord...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/An-album-is-a-story%3A-Feature-arcs-in-sequences-of-Neto-Hartmann/bf58d6d5ef681356559941441d2c858bee196188](https://www.semanticscholar.org/paper/An-album-is-a-story%3A-Feature-arcs-in-sequences-of-Neto-Hartmann/bf58d6d5ef681356559941441d2c858bee196188)  
+   Link: <a href="https://www.semanticscholar.org/paper/An-album-is-a-story%3A-Feature-arcs-in-sequences-of-Neto-Hartmann/bf58d6d5ef681356559941441d2c858bee196188" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/An-album-is-a-story%3A-Feature-arcs-in-sequences-of-Neto-Hartmann/bf58d6d5ef681356559941441d2c858bee196188</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An album is a story: Feature arcs in sequences of tracksThe algorithmic nature of song-sequencing: statistical regularities in music albu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: statsignificant.com  
    Title: how do music listening habits change  
-   Link: [https://www.statsignificant.com/p/how-do-music-listening-habits-change](https://www.statsignificant.com/p/how-do-music-listening-habits-change)  
+   Link: <a href="https://www.statsignificant.com/p/how-do-music-listening-habits-change" target="_blank" rel="noopener noreferrer nofollow">https://www.statsignificant.com/p/how-do-music-listening-habits-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Age...5 Feb 2025 — Younger streaming listeners skip more songs and sample more channels while somehow consuming less music (relativ...</p></details>

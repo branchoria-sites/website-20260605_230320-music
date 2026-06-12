@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359
 - music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df
 tags:
-- music
+- music-3-a01-be
 - spotify-payouts
 - artist-share
 keywords:
-- music
+- music-3-a01-be
 - spotify-payouts
 - artist-share
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Two artists with similar Spotify streams can earn very different amounts because their contracts decide what happens after rightsholders are paid.
 hero_summary: Two artists with similar Spotify streams can earn very different amounts because their contracts decide what happens after rightsholders are paid.
 layout: default
 permalink: /artist-share/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /spotify-payouts/
 nav_short_title: Artist Share
 title: Why Spotify money reaches artists unevenly
-title_full: Why Spotify money reaches artists unevenly | Spotify Payouts
+title_full: Why Spotify money reaches artists unevenly
 display_title_short: Artist Share
 display_title: Artist Share
 heading_title: Why Spotify money reaches artists unevenly
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Streaming Payout Claims Really Mean | Music
+parent_title: What Streaming Payout Claims Really Mean
 parent_permalink: /spotify-payouts/
 parent_nav_short_title: Spotify Payouts
 parent_heading_title: What Streaming Payout Claims Really Mean
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one stream creates two royalty trails
 up_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -265,7 +265,7 @@ next_link:
   permalink: /payout-data/
   short_title: Payout Data
   heading_title: What Spotify's big payout numbers leave out
-date: '2026-06-09 07:50:57 '
+date: '2026-06-11 23:57:24 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1.webp
@@ -276,15 +276,79 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_
 
 When people compare Spotify earnings, they often assume that two artists with similar streaming numbers should earn similar amounts. In practice, that is rarely true. Spotify generally pays record labels, distributors, publishers and other [rights]({{ 'rights/' | relative_url }}) holders first, not the performer who appears on the track. What ultimately reaches the artist depends on contracts signed long before a listener presses play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1-dark.svg" | relative_url }}" alt="Artist Share illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason the streaming debate remains contentious. Spotify can pay substantial sums into the [music]({{ 'music/' | relative_url }}) business while artists experience very different outcomes. A self-releasing musician who owns their recordings may keep most of the revenue after distribution costs, while a performer on a traditional label deal may receive only a fraction of the money generated by the same number of streams after [royalty splits]({{ 'royalty-splits/' | relative_url }}), recoupment and other deductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">spotify 11 billion in royalties</span><span class="citation-popover-snippet">However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</span></span></span>
+This is one reason the streaming debate remains contentious. Spotify can pay substantial sums into the music business while artists experience very different outcomes. A self-releasing musician who owns their recordings may keep most of the revenue after distribution costs, while a performer on a traditional label deal may receive only a fraction of the money generated by the same number of streams after [royalty splits]({{ 'royalty-splits/' | relative_url }}), recoupment and other deductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">spotify 11 billion in royalties</span><span class="citation-popover-snippet">However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</span></span></span>
 
 ## The payment chain from platform to performer
 
 Spotify's royalty system is built around rights [ownership]({{ 'ownership/' | relative_url }}) rather than performer identity. The platform distributes revenue to the rights holders designated for each [recording]({{ 'recording/' | relative_url }}) and composition. Those rights holders then pay artists according to their contracts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
 
 For a typical recording, the chain may look like this:
+
+1. Spotify allocates royalties to recording and publishing rights holders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orionpromotion.com/spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orionpromotion.com">[orionpromotion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orionpromotion.com</span><span class="citation-popover-snippet">Premium subs contribute 82% of royalties despite only 58% of streams. This stems from higher revenue per...Read more...</span></span></span>
+2. Record labels or distributors receive the recording-side income.
+3. Publishers, administrators and collecting societies handle [publishing]({{ 'publishing/' | relative_url }}) income.
+4. Artists, songwriters, producers and collaborators receive their contractual shares.
+5. Any outstanding advances or recoupable costs may be deducted before payment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
+
+The crucial point is that Spotify usually has no visibility into the final amount an artist receives. The platform can report what it paid to rightsholders, but not what individual musicians ultimately keep after contractual deductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbDIs3FHQ1o" title="AWAL DISTRIBUTION - REVIEW &amp; WALKTHROUGH (SWITCHED FROM DISTROKID)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbDIs3FHQ1o" target="_blank" rel="noopener noreferrer">AWAL DISTRIBUTION - REVIEW &amp; WALKTHROUGH (SWITCHED FROM DISTROKID)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 62.6K &middot; Uploaded: August 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbDIs3FHQ1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbDIs3FHQ1o">Open on YouTube</a></p></div></div></div>
+
+## How labels, distributors and recoupment affect income
+
+The largest differences in take-home pay often arise from deal structure rather than streaming volume.
+
+### Traditional label deals
+
+In a conventional record deal, the label typically finances recording, marketing, promotion and distribution. In exchange, the label owns or controls the master recordings and retains a large share of revenue. Artist royalty rates vary, but historically many recording agreements have left performers with a minority share of master income. Industry discussions frequently cite artist royalty rates in the low double digits, although terms vary substantially by bargaining power and career stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliaholtlaw.com">[Julia Holt Law Firm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliaholtlaw.com</span><span class="citation-popover-snippet">Julia Holt Law FirmRecoupment in Record Deals: What Every Artist Should...8 Mar 2026 — This investment is recouped from your royalties...</span></span></span> Reddit The situation becomes more complicated because advances and label spending are often recoupable. If a label pays an advance <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ed acts, upwards of 20-25% for top dogs, and some bigger indies...</span></span></span>, funds studio time, commissions videos or invests in marketing, those costs may be recovered from the artist's royalty account before the artist receives additional payments. An artist can therefore generate substantial streaming revenue while seeing little immediate cash flow because earnings are first used to repay the label's investment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicadmin.com">[Music Admin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicadmin.com</span><span class="citation-popover-snippet">Music AdminHow Record Deals Work in the Music Industry3 days ago — Learn how record deals work, including advances, recoupment, royalties...</span></span></span>
+
+### Distribution deals
+
+Distribution deals generally involve a different balance of risk and reward. Instead of financing the entire project, the distributor primarily delivers music to streaming services and may provide selected support services. In return, the distributor often takes a percentage of revenue rather than controlling most of the master income. Industry guidance commonly places distribution fees in roughly the 10–25% range, depending on services provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/record-deals-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">record deals explained</span><span class="citation-popover-snippet">Record Deals and Music Contracts Explained1 Feb 2026 — The label takes a percentage of revenue (typically 10-25%) as a distribution...</span></span></span>
+
+Because the artist retains more ownership and receives a larger share of receipts, a musician with identical Spotify performance can earn considerably more under a distribution agreement than under a traditional label contract. The trade-off is that the artist usually assumes greater responsibility for funding recording and marketing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/producer-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">producer royalties explained</span><span class="citation-popover-snippet">Producer Royalties Explained9 Apr 2026 — On a label deal, producer points are almost always paid from the artist&#x27;s share, not from...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-2-dark.svg" | relative_url }}" alt="Artist Share illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Additional participants reduce the artist share
+
+Even after the label-distributor split is determined, more parties may participate in the royalty pool. Producers can receive royalty points, featured artists may have negotiated percentages, managers often take commissions on [artist income]({{ 'artist-income/' | relative_url }}), and collaborators may share ownership of recordings or compositions. Some producer royalty arrangements are paid from the artist's royalty share rather than from the label's portion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/awal-label-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">awal label services</span><span class="citation-popover-snippet">AWAL Label Services for Independent ArtistsMar 15, 2026 — Compare this to standard distributors where you keep 100% (minus a small...</span></span></span>
+
+As a result, the amount attributed to a recording on Spotify is only the starting point. Multiple contractual layers can reduce the performer's final take-home income.
+
+## Why self-releasing artists can keep different shares
+
+The rise of digital distribution has created alternatives between full label ownership and complete independence.
+
+Many self-releasing artists use distributors that charge annual fees or relatively small revenue percentages while allowing creators to retain ownership of their masters. In these arrangements, artists may keep nearly all recording income after distribution costs. Some distributors and artist-services companies instead operate on revenue-sharing models, taking a percentage in exchange for broader support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/digital-distribution-comparison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">digital distribution comparison</span><span class="citation-popover-snippet">Ari&#x27;s TakeBest Music Distribution Companies in 2026Mar 13, 2026 — Artists keep 100% of their royalties. Horus is open to all artists and...</span></span></span> Dynamoi A frequently cited example is the artist-services model associated with companies such as AWAL. Rather than functioning exactly like a tradit <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[dynamoi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">awal vs traditional distributors</span><span class="citation-popover-snippet">AWAL Distribution: 15% Revenue Share ExplainedApr 28, 2026 — Artists keep 100% of masters and pay a distribution fee. Best for teams with...</span></span></span> ional label, these firms generally combine distribution with marketing, funding and operational support while taking a smaller share than a conventional recording contract. Public descriptions of such arrangements commonly place the company share around 15% for entry-level services, although terms can vary and higher-service tiers may involve larger percentages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/music-distribution-independent-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">music distribution independent labels</span><span class="citation-popover-snippet">Best Music Distribution for Independent Labels15 Mar 2026 — Independent labels need distribution infrastructure that handles multi-artist...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[Dynamoi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">awal vs traditional distributors</span><span class="citation-popover-snippet">AWAL Distribution: 15% Revenue Share ExplainedApr 28, 2026 — Artists keep 100% of masters and pay a distribution fee. Best for teams with...</span></span></span>
+
+This creates a spectrum rather than a simple choice between "independent" and "signed":
+
+* **Traditional label deal:** artist receives a smaller share but gains financing and infrastructure.
+* **Artist-services model:** artist retains ownership and a larger revenue share while outsourcing selected functions.
+* **Self-distribution:** artist keeps the largest share but must fund and manage most activities independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/record-deals-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">record deals explained</span><span class="citation-popover-snippet">Record Deals and Music Contracts Explained1 Feb 2026 — The label takes a percentage of revenue (typically 10-25%) as a distribution...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/producer-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">producer royalties explained</span><span class="citation-popover-snippet">Producer Royalties Explained9 Apr 2026 — On a label deal, producer points are almost always paid from the artist&#x27;s share, not from...</span></span></span>
+
+The best arrangement depends on whether the additional services generate enough growth to justify the revenue surrendered.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1HRO78tfk3c" title="SHOULD I USE AWAL FOR MUSIC DISTRIBUTION | MUSIC INDUSTRY TIPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1HRO78tfk3c" target="_blank" rel="noopener noreferrer">SHOULD I USE AWAL FOR MUSIC DISTRIBUTION | MUSIC INDUSTRY TIPS</a></p><p class="youtube-embed-meta">Channel: WesTheTech Productions &middot; Views: 7.1K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1HRO78tfk3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1HRO78tfk3c">Open on YouTube</a></p></div></div></div>
+
+## Why similar streaming numbers can produce very different outcomes
+
+Consider two artists whose recordings generate the same Spotify [royalties]({{ 'royalties/' | relative_url }}).
+
+One artist owns the masters and distributes independently through a low-cost distributor. The other is signed to a traditional label, has an unrecouped advance and owes producer royalties from their artist share. Even if Spotify sends the same amount into the system for both recordings, the independent artist may retain a much larger percentage of the money. The signed artist may receive far less until contractual obligations are satisfied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicadmin.com">[Music Admin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicadmin.com</span><span class="citation-popover-snippet">Music AdminHow Record Deals Work in the Music Industry3 days ago — Learn how record deals work, including advances, recoupment, royalties...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliaholtlaw.com">[Julia Holt Law Firm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliaholtlaw.com</span><span class="citation-popover-snippet">Julia Holt Law FirmRecoupment in Record Deals: What Every Artist Should...8 Mar 2026 — This investment is recouped from your royalties...</span></span></span>
+
+This helps explain why headline payout figures do not settle debates about artist compensation. The central question is often not how much Spotify paid for the stream, but who controlled the rights and what contractual path the money followed after it left the platform. Spotify itself emphasises that royalties are paid to designated rightsholders, who then compensate creators according to their individual agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0-f4dOJ78Fs" title="Spotify Royalties Explained: How Streaming Money Really Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer">Spotify Royalties Explained: How Streaming Money Really Works</a></p><p class="youtube-embed-meta">Channel: Joey Dale Music &middot; Views: 962 &middot; Uploaded: October 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0-f4dOJ78Fs">Open on YouTube</a></p></div></div></div>
+
+## The key takeaway for the streaming debate
+
+Arguments about streaming economics often focus on platform payout levels, but artist income is equally shaped by contract design. Ownership of masters, royalty percentages, recoupment clauses, distribution fees and revenue-sharing arrangements can all dramatically affect take-home pay.
+
+That is why two artists with nearly identical Spotify audiences can experience completely different financial outcomes. The stream generates revenue only once, but the contract determines how that revenue is divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">spotify 11 billion in royalties</span><span class="citation-popover-snippet">However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</span></span></span>
+
+<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-3-dark.svg" | relative_url }}" alt="Artist Share illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -678,253 +742,184 @@ For a typical recording, the chain may look like this:
 </script>
 </section>
 
-1. Spotify allocates royalties to recording and publishing rights holders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orionpromotion.com/spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orionpromotion.com">[orionpromotion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orionpromotion.com</span><span class="citation-popover-snippet">Premium subs contribute 82% of royalties despite only 58% of streams. This stems from higher revenue per...Read more...</span></span></span>
-2. Record labels or distributors receive the recording-side income.
-3. Publishers, administrators and collecting societies handle publishing income.
-4. Artists, songwriters, producers and collaborators receive their contractual shares.
-5. Any outstanding advances or recoupable costs may be deducted before payment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
-
-The crucial point is that Spotify usually has no visibility into the final amount an artist receives. The platform can report what it paid to rightsholders, but not what individual musicians ultimately keep after contractual deductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbDIs3FHQ1o" title="AWAL DISTRIBUTION - REVIEW &amp; WALKTHROUGH (SWITCHED FROM DISTROKID)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbDIs3FHQ1o" target="_blank" rel="noopener noreferrer">AWAL DISTRIBUTION - REVIEW &amp; WALKTHROUGH (SWITCHED FROM DISTROKID)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 62.6K &middot; Uploaded: August 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbDIs3FHQ1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbDIs3FHQ1o">Open on YouTube</a></p></div></div></div>
-
-## How labels, distributors and recoupment affect income
-
-The largest differences in take-home pay often arise from deal structure rather than streaming volume.
-
-### Traditional label deals
-
-In a conventional record deal, the label typically finances recording, marketing, promotion and distribution. In exchange, the label owns or controls the master recordings and retains a large share of revenue. Artist royalty rates vary, but historically many recording agreements have left performers with a minority share of master income. Industry discussions frequently cite artist royalty rates in the low double digits, although terms vary substantially by bargaining power and career stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliaholtlaw.com">[Julia Holt Law Firm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliaholtlaw.com</span><span class="citation-popover-snippet">Julia Holt Law FirmRecoupment in Record Deals: What Every Artist Should...8 Mar 2026 — This investment is recouped from your royalties...</span></span></span> Reddit The situation becomes more complicated because advances and label spending are often recoupable. If a label pays an advance <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ed acts, upwards of 20-25% for top dogs, and some bigger indies...</span></span></span>, funds studio time, commissions videos or invests in marketing, those costs may be recovered from the artist's royalty account before the artist receives additional payments. An artist can therefore generate substantial [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}) while seeing little immediate cash flow because earnings are first used to repay the label's investment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicadmin.com">[Music Admin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicadmin.com</span><span class="citation-popover-snippet">Music AdminHow Record Deals Work in the Music Industry3 days ago — Learn how record deals work, including advances, recoupment, royalties...</span></span></span>
-
-### Distribution deals
-
-Distribution deals generally involve a different balance of risk and reward. Instead of financing the entire project, the distributor primarily delivers music to streaming services and may provide selected support services. In return, the distributor often takes a percentage of revenue rather than controlling most of the master income. Industry guidance commonly places distribution fees in roughly the 10–25% range, depending on services provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/record-deals-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">record deals explained</span><span class="citation-popover-snippet">OrphiqRecord Deals and Music Contracts Explained1 Feb 2026 — The label takes a percentage of revenue (typically 10-25%) as a distribution...</span></span></span>
-
-Because the artist retains more ownership and receives a larger share of receipts, a musician with identical Spotify performance can earn considerably more under a distribution agreement than under a traditional label contract. The trade-off is that the artist usually assumes greater responsibility for funding recording and marketing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/producer-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">producer royalties explained</span><span class="citation-popover-snippet">OrphiqProducer Royalties Explained9 Apr 2026 — On a label deal, producer points are almost always paid from the artist&#x27;s share, not from...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-2-dark.svg" | relative_url }}" alt="Artist Share illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Additional participants reduce the artist share
-
-Even after the label-distributor split is determined, more parties may participate in the royalty pool. Producers can receive royalty points, featured artists may have negotiated percentages, managers often take commissions on artist income, and collaborators may share ownership of recordings or compositions. Some producer royalty arrangements are paid from the artist's royalty share rather than from the label's portion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/awal-label-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">awal label services</span><span class="citation-popover-snippet">OrphiqAWAL Label Services for Independent ArtistsMar 15, 2026 — Compare this to standard distributors where you keep 100% (minus a small...</span></span></span>
-
-As a result, the amount attributed to a recording on Spotify is only the starting point. Multiple contractual layers can reduce the performer's final take-home income.
-
-## Why self-releasing artists can keep different shares
-
-The rise of digital distribution has created alternatives between full label ownership and complete independence.
-
-Many self-releasing artists use distributors that charge annual fees or relatively small revenue percentages while allowing creators to retain ownership of their masters. In these arrangements, artists may keep nearly all recording income after distribution costs. Some distributors and artist-services companies instead operate on revenue-sharing models, taking a percentage in exchange for broader support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/digital-distribution-comparison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">digital distribution comparison</span><span class="citation-popover-snippet">Ari&#x27;s TakeBest Music Distribution Companies in 2026Mar 13, 2026 — Artists keep 100% of their royalties. Horus is open to all artists and...</span></span></span> Dynamoi A frequently cited example is the artist-services model associated with companies such as AWAL. Rather than functioning exactly like a tradit <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[dynamoi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">awal vs traditional distributors</span><span class="citation-popover-snippet">AWAL Distribution: 15% Revenue Share ExplainedApr 28, 2026 — Artists keep 100% of masters and pay a distribution fee. Best for teams with...</span></span></span> ional label, these firms generally combine distribution with marketing, funding and operational support while taking a smaller share than a conventional recording contract. Public descriptions of such arrangements commonly place the company share around 15% for entry-level services, although terms can vary and higher-service tiers may involve larger percentages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/music-distribution-independent-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">music distribution independent labels</span><span class="citation-popover-snippet">Best Music Distribution for Independent Labels15 Mar 2026 — Independent labels need distribution infrastructure that handles multi-artist...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[Dynamoi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">awal vs traditional distributors</span><span class="citation-popover-snippet">AWAL Distribution: 15% Revenue Share ExplainedApr 28, 2026 — Artists keep 100% of masters and pay a distribution fee. Best for teams with...</span></span></span>
-
-This creates a spectrum rather than a simple choice between "independent" and "signed":
-
-* **Traditional label deal:** artist receives a smaller share but gains financing and infrastructure.
-* **Artist-services model:** artist retains ownership and a larger revenue share while outsourcing selected functions.
-* **Self-distribution:** artist keeps the largest share but must fund and manage most activities independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/record-deals-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">record deals explained</span><span class="citation-popover-snippet">OrphiqRecord Deals and Music Contracts Explained1 Feb 2026 — The label takes a percentage of revenue (typically 10-25%) as a distribution...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/producer-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">producer royalties explained</span><span class="citation-popover-snippet">OrphiqProducer Royalties Explained9 Apr 2026 — On a label deal, producer points are almost always paid from the artist&#x27;s share, not from...</span></span></span>
-
-The best arrangement depends on whether the additional services generate enough growth to justify the revenue surrendered.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1HRO78tfk3c" title="SHOULD I USE AWAL FOR MUSIC DISTRIBUTION | MUSIC INDUSTRY TIPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1HRO78tfk3c" target="_blank" rel="noopener noreferrer">SHOULD I USE AWAL FOR MUSIC DISTRIBUTION | MUSIC INDUSTRY TIPS</a></p><p class="youtube-embed-meta">Channel: WesTheTech Productions &middot; Views: 7.1K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1HRO78tfk3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1HRO78tfk3c">Open on YouTube</a></p></div></div></div>
-
-## Why similar streaming numbers can produce very different outcomes
-
-Consider two artists whose recordings generate the same Spotify [royalties]({{ 'royalties/' | relative_url }}).
-
-One artist owns the masters and distributes independently through a low-cost distributor. The other is signed to a traditional label, has an unrecouped advance and owes producer royalties from their artist share. Even if Spotify sends the same amount into the system for both recordings, the independent artist may retain a much larger percentage of the money. The signed artist may receive far less until contractual obligations are satisfied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicadmin.com">[Music Admin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicadmin.com</span><span class="citation-popover-snippet">Music AdminHow Record Deals Work in the Music Industry3 days ago — Learn how record deals work, including advances, recoupment, royalties...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliaholtlaw.com">[Julia Holt Law Firm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliaholtlaw.com</span><span class="citation-popover-snippet">Julia Holt Law FirmRecoupment in Record Deals: What Every Artist Should...8 Mar 2026 — This investment is recouped from your royalties...</span></span></span>
-
-This helps explain why headline payout figures do not settle debates about artist compensation. The central question is often not how much Spotify paid for the stream, but who controlled the rights and what contractual path the money followed after it left the platform. Spotify itself emphasises that royalties are paid to designated rightsholders, who then compensate creators according to their individual agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_GMlEDKzwXg" title="Record Labels Explained | Artist Royalty Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_GMlEDKzwXg" target="_blank" rel="noopener noreferrer">Record Labels Explained | Artist Royalty Explained</a></p><p class="youtube-embed-meta">Channel: Music Money Makeover Show &middot; Views: 15.5K &middot; Uploaded: September 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_GMlEDKzwXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_GMlEDKzwXg">Open on YouTube</a></p></div></div></div>
-
-## The key takeaway for the streaming debate
-
-Arguments about streaming economics often focus on platform payout levels, but artist income is equally shaped by contract design. Ownership of masters, royalty percentages, recoupment clauses, distribution fees and revenue-sharing arrangements can all dramatically affect take-home pay.
-
-That is why two artists with nearly identical Spotify audiences can experience completely different financial outcomes. The stream generates revenue only once, but the contract determines how that revenue is divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">spotify 11 billion in royalties</span><span class="citation-popover-snippet">However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</span></span></span>
-
-
-<img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-3-dark.svg" | relative_url }}" alt="Artist Share illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesUnderstanding Spotify royalties · How we calculate and process royalties. We distribute the net revenue from Premium sub...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/providers](https://artists.spotify.com/en/providers)  
+   Link: <a href="https://artists.spotify.com/en/providers" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/providers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsProvider DirectoryThese companies will handle the [licensing](&amp;#123;&amp;#123; &#x27;licensing/&#x27; | relative_url &amp;#125;&amp;#125;) and distribution to Spotify and other streaming services...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/](https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed acts, upwards of 20-25% for top dogs, and some bigger indies...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: orphiq.com  
    Title: record deals explained  
-   Link: [https://orphiq.com/resources/record-deals-explained](https://orphiq.com/resources/record-deals-explained)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqRecord Deals and Music Contracts Explained1 Feb 2026 — The label takes a percentage of revenue (typically 10-25%) as a distribution...</p></details>
+   Link: <a href="https://orphiq.com/resources/record-deals-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/record-deals-explained</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Deals and Music Contracts Explained1 Feb 2026 — The label takes a percentage of revenue (typically 10-25%) as a distribution...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: orphiq.com  
    Title: producer royalties explained  
-   Link: [https://orphiq.com/resources/producer-royalties-explained](https://orphiq.com/resources/producer-royalties-explained)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqProducer Royalties Explained9 Apr 2026 — On a label deal, producer points are almost always paid from the artist&#x27;s share, not from...</p></details>
+   Link: <a href="https://orphiq.com/resources/producer-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/producer-royalties-explained</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Producer Royalties Explained9 Apr 2026 — On a label deal, producer points are almost always paid from the artist&#x27;s share, not from...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dynamoi.com  
    Title: awal vs traditional distributors  
-   Link: [https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors](https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors)  
+   Link: <a href="https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/music-distribution/awal-vs-traditional-distributors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AWAL Distribution: 15% Revenue Share ExplainedApr 28, 2026 — Artists keep 100% of masters and pay a distribution fee. Best for teams with...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: orphiq.com  
    Title: awal label services  
-   Link: [https://orphiq.com/resources/awal-label-services](https://orphiq.com/resources/awal-label-services)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OrphiqAWAL Label Services for Independent ArtistsMar 15, 2026 — Compare this to standard distributors where you keep 100% (minus a small...</p></details>
+   Link: <a href="https://orphiq.com/resources/awal-label-services" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/awal-label-services</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AWAL Label Services for Independent ArtistsMar 15, 2026 — Compare this to standard distributors where you keep 100% (minus a small...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dynamoi.com  
    Title: awal vs traditional distributors  
-   Link: [https://dynamoi.com/ko/learn/comparisons/awal-vs-traditional-distributors](https://dynamoi.com/ko/learn/comparisons/awal-vs-traditional-distributors)  
+   Link: <a href="https://dynamoi.com/ko/learn/comparisons/awal-vs-traditional-distributors" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/ko/learn/comparisons/awal-vs-traditional-distributors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>15% for what?Mar 3, 2026 — AWAL is a selective, Sony-owned distributor that operates on a 15% revenue share with no annual subscription o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: orphiq.com  
    Title: music distribution independent labels  
-   Link: [https://orphiq.com/resources/music-distribution-independent-labels](https://orphiq.com/resources/music-distribution-independent-labels)  
+   Link: <a href="https://orphiq.com/resources/music-distribution-independent-labels" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/music-distribution-independent-labels</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Music Distribution for Independent Labels15 Mar 2026 — Independent labels need distribution infrastructure that handles multi-artist...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: artists.spotify.com  
    Title: how royalties work  
-   Link: [https://artists.spotify.com/en/video/how-royalties-work](https://artists.spotify.com/en/video/how-royalties-work)  
+   Link: <a href="https://artists.spotify.com/en/video/how-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/how-royalties-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties Work – Spotify for ArtistsMatt and Kim, Sheryl Crow, and Cienfue weigh in on the importance of royalties and how they work on S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicbusiness/comments/1mwoly2/what_percentage_to_charge_of_streaming_royalties/](https://www.reddit.com/r/musicbusiness/comments/1mwoly2/what_percentage_to_charge_of_streaming_royalties/)  
+   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1mwoly2/what_percentage_to_charge_of_streaming_royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1mwoly2/what_percentage_to_charge_of_streaming_royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ou get streaming revenue but also say and revenue from...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/musicmarketing/comments/1gmh9ta/awal_with_180k_streams_monthly_money_loss_or_a/](https://www.reddit.com/r/musicmarketing/comments/1gmh9ta/awal_with_180k_streams_monthly_money_loss_or_a/)  
+   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/1gmh9ta/awal_with_180k_streams_monthly_money_loss_or_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/1gmh9ta/awal_with_180k_streams_monthly_money_loss_or_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWAL with 180k streams monthly money loss or a chance?Hi, so I’ve been making music for five months now and have accumulated 550,000 stre...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: artist.tools  
    Title: a guide to royalties for spotify  
-   Link: [https://www.artist.tools/post/a-guide-to-royalties-for-spotify](https://www.artist.tools/post/a-guide-to-royalties-for-spotify)  
+   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025 — Spotify pays out roughly 70% of its revenue to rights holders—the artists, labels, and publishers who own the music. Spotify...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: artist.tools  
    Title: the ultimate guide to spotify royalty payments  
-   Link: [https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments](https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments)  
+   Link: <a href="https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jan 2026 — Unlock your earnings potential. This guide breaks down Spotify royalty payments, how they&#x27;re calculated, and how to maximize...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: artist.tools  
    Title: a guide to music distribution deals for artists  
-   Link: [https://www.artist.tools/post/a-guide-to-music-distribution-deals-for-artists](https://www.artist.tools/post/a-guide-to-music-distribution-deals-for-artists)  
+   Link: <a href="https://www.artist.tools/post/a-guide-to-music-distribution-deals-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-music-distribution-deals-for-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some platforms might offer a free plan that takes a small cut, often around 15%, but...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theverge.com  
    Title: spotify 11 billion in royalties  
-   Link: [https://www.theverge.com/news/869523/spotify-11-billion-in-royalties](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)  
+   Link: <a href="https://www.theverge.com/news/869523/spotify-11-billion-in-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/869523/spotify-11-billion-in-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this sum went to rightsholders—such as labels, distributors, and publishers—rather than directly to artists, and Spotify does no...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: juliaholtlaw.com  
-   Link: [https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists](https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists)  
+   Link: <a href="https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.juliaholtlaw.com/blog/understanding-recoupment-in-record-deals-a-guide-for-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Julia Holt Law FirmRecoupment in Record Deals: What Every Artist Should...8 Mar 2026 — This investment is recouped from your royalties...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musicadmin.com  
-   Link: [https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/](https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/)  
+   Link: <a href="https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicadmin.com/guides/how-record-deals-work-in-the-music-industry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music AdminHow Record Deals Work in the Music Industry3 days ago — Learn how record deals work, including advances, recoupment, royalties...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aristake.com  
    Title: digital distribution comparison  
-   Link: [https://aristake.com/digital-distribution-comparison/](https://aristake.com/digital-distribution-comparison/)  
+   Link: <a href="https://aristake.com/digital-distribution-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/digital-distribution-comparison/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ari&#x27;s TakeBest Music Distribution Companies in 2026Mar 13, 2026 — Artists keep 100% of their royalties. Horus is open to all artists and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: emastered.com  
    Title: spotify royalties  
-   Link: [https://emastered.com/blog/spotify-royalties](https://emastered.com/blog/spotify-royalties)  
+   Link: <a href="https://emastered.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://emastered.com/blog/spotify-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This assumes that you are earning 100% of the royalties as the sole owner of the master...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/AWAL](https://en.wikipedia.org/wiki/AWAL)  
+   Link: <a href="https://en.wikipedia.org/wiki/AWAL" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AWAL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWALAWAL is a global recording business that serves as an alternative to the traditional record label, offering deal structures that p...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/awal](https://www.linkedin.com/company/awal)  
+   Link: <a href="https://www.linkedin.com/company/awal" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/awal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWALAWAL offers a modern approach to the traditional recording business, providing artists all the resources and expertise of a global la...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40paul.m.sergent/artist-label-services-vs-distribution-companies-bb4e7bd1589](https://medium.com/%40paul.m.sergent/artist-label-services-vs-distribution-companies-bb4e7bd1589)  
+   Link: <a href="https://medium.com/%40paul.m.sergent/artist-label-services-vs-distribution-companies-bb4e7bd1589" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40paul.m.sergent/artist-label-services-vs-distribution-companies-bb4e7bd1589</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artist &amp; Label Services vs Distribution CompaniesArtist &amp; Label Services companies charge a percentage share of royalty revenues, usually...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: curveroyaltysystems.com  
-   Link: [https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-6-royalty-deals](https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-6-royalty-deals)  
+   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-6-royalty-deals" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-6-royalty-deals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 6: Royalty DealsRoyalty rates are the percentages of earnings that will be shared with the artists. A deal may be as simple as one...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/major](https://www.merriam-webster.com/dictionary/major)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/major" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/major</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR Definition &amp; Meaning6 days ago — The meaning of MAJOR is greater in dignity, rank, importance, or interest. How to use major in a s...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: virpp.com  
-   Link: [https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/)  
+   Link: <a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESWhen royalties are generated from a stream, Spotify pays the money to the entity it signed the c...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: creativefundingagency.com  
-   Link: [https://www.creativefundingagency.com/understanding-royalty-advances](https://www.creativefundingagency.com/understanding-royalty-advances)  
+   Link: <a href="https://www.creativefundingagency.com/understanding-royalty-advances" target="_blank" rel="noopener noreferrer nofollow">https://www.creativefundingagency.com/understanding-royalty-advances</a>  
 
 31. <a id="endnote-31"></a>
    Source: musiclegal.co.uk  
-   Link: [https://www.musiclegal.co.uk/articles/understanding-music-royalties](https://www.musiclegal.co.uk/articles/understanding-music-royalties)  
+   Link: <a href="https://www.musiclegal.co.uk/articles/understanding-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.musiclegal.co.uk/articles/understanding-music-royalties</a>  
 
 32. <a id="endnote-32"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/indie-labels-are-questioning-the-percentage-of-streaming-royalties-paid-to-publishers-and-songwriters-vs-artists-and-record-companies/](https://www.musicbusinessworldwide.com/indie-labels-are-questioning-the-percentage-of-streaming-royalties-paid-to-publishers-and-songwriters-vs-artists-and-record-companies/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/indie-labels-are-questioning-the-percentage-of-streaming-royalties-paid-to-publishers-and-songwriters-vs-artists-and-record-companies/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/indie-labels-are-questioning-the-percentage-of-streaming-royalties-paid-to-publishers-and-songwriters-vs-artists-and-record-companies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Indie labels question if record companies&#x27; share of...17 May 2023 — The chart shows that, in 2021, Recorded music rightsholders took an...</p></details>
    Published: May 2023  
 
 33. <a id="endnote-33"></a>
    Source: orionpromotion.com  
-   Link: [https://orionpromotion.com/spotify-royalties/](https://orionpromotion.com/spotify-royalties/)  
+   Link: <a href="https://orionpromotion.com/spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://orionpromotion.com/spotify-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Premium subs contribute 82% of royalties despite only 58% of streams. This stems from higher revenue per...Read more...</p></details>

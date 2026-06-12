@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_physical_music_owner_d1771a_kpop_photo_cards_fa4b4f
 - music_3a01be_physical_music_owner_d1771a_signed_music_ownersh_907c76
 tags:
-- music
+- music-3-a01-be
 - physical
 - fan-pressure
 keywords:
-- music
+- music-3-a01-be
 - physical
 - fan-pressure
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Multiple versions can make ownership feel exciting, but they can also make loyalty feel expensive, wasteful or manipulative.
 hero_summary: Multiple versions can make ownership feel exciting, but they can also make loyalty feel expensive, wasteful or manipulative.
 layout: default
 permalink: /fan-pressure/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /physical/
 nav_short_title: Fan Pressure
 title: When Collecting Starts To Feel Like Pressure
-title_full: When Collecting Starts To Feel Like Pressure | Physical
+title_full: When Collecting Starts To Feel Like Pressure
 display_title_short: Fan Pressure
 display_title: Fan Pressure
 heading_title: When Collecting Starts To Feel Like Pressure
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Fans Still Want Music Objects | Music
+parent_title: Why Fans Still Want Music Objects
 parent_permalink: /physical/
 parent_nav_short_title: Physical
 parent_heading_title: Why Fans Still Want Music Objects
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Signed Albums Feel More Personal
 up_link:
   basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
@@ -265,7 +265,7 @@ next_link:
   permalink: /photo-cards/
   short_title: Photo Cards
   heading_title: Why K pop Albums Became Collectible Kits
-date: '2026-06-09 07:41:05 '
+date: '2026-06-11 23:51:41 '
 header:
   og_image: /assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_pr
 
 Physical formats strengthen a fan’s sense of [ownership]({{ 'ownership/' | relative_url }}) because they transform music into something collectable, displayable and personal. Yet the same mechanisms that make collecting exciting can also make it feel compulsory. Over the past decade, artists and labels have increasingly released albums in multiple physical versions, each with different artwork, colours, bonus tracks, [photo cards]({{ 'photo-cards/' | relative_url }}) or packaging. For some fans, these variants deepen engagement and offer meaningful choices. For others, they create pressure to spend repeatedly in order to feel complete, support an artist properly or avoid missing exclusive content. As variant strategies have expanded, they have become one of the most debated aspects of modern music fandom, raising questions about consumer pressure, chart competition, environmental costs and the line between enthusiasm and exploitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vinyl revival</span><span class="citation-popover-snippet">Vinyl revival</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-dark.svg" | relative_url }}" alt="Fan Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Variants Encourage Repeat Purchases
 
@@ -286,7 +285,7 @@ From a business perspective, this strategy increases sales by turning one album 
 
 The emotional appeal is understandable. Collecting can be enjoyable, social and creative. Fans often display variants together, trade duplicates and build collections that reflect their identity. The problem arises when ownership becomes fragmented across editions. Instead of choosing a favourite version, fans may feel that they need several versions to possess the “complete” album experience.
 
-This pressure is intensified by fandom cultures that link purchasing with support. In many music communities, especially highly organised fan communities, buying multiple copies is sometimes framed as a way to help chart performance, sales records or award eligibility. What begins as collecting can therefore become a form of participation in competitive fandom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">why k pop fans still buy cds even when they cant play them</span><span class="citation-popover-snippet">BillboardWhy K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</span></span></span>
+This pressure is intensified by fandom cultures that link purchasing with support. In many music communities, especially highly organised fan communities, buying multiple copies is sometimes framed as a way to help chart performance, sales records or award eligibility. What begins as collecting can therefore become a form of participation in competitive fandom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">why k pop fans still buy cds even when they cant play them</span><span class="citation-popover-snippet">Why K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</span></span></span>
 
 ## Random Extras, Lotteries and Completionism
 
@@ -294,10 +293,9 @@ This pressure is intensified by fandom cultures that link purchasing with suppor
 
 The strongest buying pressure often comes not from alternative covers but from randomised inclusions. K-pop provides the clearest example. Many albums include randomly assigned photo cards, postcards or member-specific items. Because buyers do not know which item they will receive, collecting becomes partly a game of chance.
 
-Research by the Korea Consumer Agency found that fandom goods frequently involve random photo cards and that collecting these items is a major motivation for album purchases. More than half of surveyed consumers reported purchasing albums primarily to collect photo cards rather than for the music itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">KCA52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</span></span></span>
+Research by the Korea Consumer Agency found that fandom goods frequently involve random photo cards and that collecting these items is a major motivation for album purchases. More than half of surveyed consumers reported purchasing albums primarily to collect photo cards rather than for the music itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</span></span></span>
 
 Randomisation creates a powerful completionist impulse:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,9 +308,6 @@ Randomisation creates a powerful completionist impulse:
 
 Unlike traditional record collecting, where each purchase adds a distinct release, randomised albums can encourage repeated purchases of effectively the same product. The emotional reward comes from the possibility of obtaining a desired item rather than from acquiring new music.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_LxrZncFlQU" title="Your Least Favourite Person&#x27;s Favourite Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_LxrZncFlQU" target="_blank" rel="noopener noreferrer">Your Least Favourite Person&#x27;s Favourite Book</a></p><p class="youtube-embed-meta">Channel: Owl Criticism</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_LxrZncFlQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_LxrZncFlQU">Open on YouTube</a></p></div></div></div>
-
 ### The Lottery Effect
 
 Some album campaigns go further by connecting purchases to fan-sign events, meet-and-greets or other lottery-based rewards. Each album purchased can function as another entry into a draw. This creates a structure that resembles a raffle more than a traditional music purchase.
@@ -321,18 +316,17 @@ Critics argue that these systems can disproportionately affect younger fans and 
 
 The ethical tension lies in the fact that the music and the collectable incentive become difficult to separate. The album is no longer merely the product; it becomes the ticket through which access, status or rare collectables are distributed.
 
+<img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-2-dark.svg" | relative_url }}" alt="Fan Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Sales Numbers Become Part of the Product
 
 Another source of pressure comes from chart culture. Fans increasingly understand that album purchases influence commercial rankings, first-week sales records and public narratives about an artist's success.
 
-This connection has led to debates about whether multiple versions artificially inflate sales figures. Critics argue that selling numerous editions encourages the same customer to buy repeatedly, making sales totals a measure of fan dedication as much as audience size. Supporters respond that purchasing multiple collectables is a legitimate consumer choice and that collectors have always driven parts of the music market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">album sales don&#x27;t impress me if they come with 5+ versions</span><span class="citation-popover-snippet">Redditalbum sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</span><span class="citation-popover-meta">Published: August 8, 2022</span></span></span>
+This connection has led to debates about whether multiple versions artificially inflate sales figures. Critics argue that selling numerous editions encourages the same customer to buy repeatedly, making sales totals a measure of fan dedication as much as audience size. Supporters respond that purchasing multiple collectables is a legitimate consumer choice and that collectors have always driven parts of the music market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">album sales don&#x27;t impress me if they come with 5+ versions</span><span class="citation-popover-snippet">album sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</span><span class="citation-popover-meta">Published: August 8, 2022</span></span></span>
 
 The controversy has become significant enough that chart organisations have repeatedly adjusted their rules. Billboard altered bundle policies in 2020 to reduce practices that critics viewed as sales gamification, later introducing more restricted “fan pack” rules and additional reforms intended to better reflect genuine consumer demand. These changes were explicitly linked to concerns about chart manipulation and the relationship between merchandise, variants and album sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Billboard Changing Chart Rules to Eliminate Merch/Album Bundling</span><span class="citation-popover-snippet">The current practice of bundling, where merchandise is sold along with a free album download to boost sales, will no longer be counted. T...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">billboard announces new fan bundle rule for chart eligibility</span><span class="citation-popover-snippet">Billboard Announces New “Fan Bundle” Rule for Chart...4 May 2023 — Under the new rules, artists may only sell two different “fan bundle”...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The fact that chart organisations continue revising these rules demonstrates how closely variant culture has become tied to competitive sales strategies rather than purely to musical appreciation.
 
-
-<img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-2-dark.svg" | relative_url }}" alt="Fan Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental and Fan Backlash
 
 ### Growing Criticism of Vinyl Variants
@@ -343,14 +337,12 @@ In 2024, Billie Eilish publicly criticised the practice of releasing large numbe
 
 The discussion resonated because it touched on a broader contradiction. Vinyl is often marketed as a durable, meaningful object that counters disposable digital culture. Yet the multiplication of variants can create its own form of excess consumption.
 
-
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-3-dark.svg" | relative_url }}" alt="Fan Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fan Reactions Are Increasingly Mixed
 
 Not all backlash comes from environmental activists. Many fans themselves express frustration when exclusive tracks, artwork or collectables are split across numerous editions.
 
 Common complaints include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,9 +355,6 @@ Common complaints include:
 
 Online discussions reveal a growing divide between collectors who enjoy abundant options and fans who feel overwhelmed by the expectation to keep up. Some argue that variants enhance choice. Others contend that choice becomes pressure when important content is intentionally fragmented across multiple products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">d is taking action against chart fraud, it was getting out of hand...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KZZeItIBtk4" title="The Arrival of Conquest | Invincible | Prime Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KZZeItIBtk4" target="_blank" rel="noopener noreferrer">The Arrival of Conquest | Invincible | Prime Video</a></p><p class="youtube-embed-meta">Channel: Invincible</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KZZeItIBtk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KZZeItIBtk4">Open on YouTube</a></p></div></div></div>
-
 ## Where the Line Between Fandom and Manipulation Sits
 
 Multiple album versions succeed because they tap into genuine pleasures: collecting, personalisation, community participation and visible support for artists. In moderation, variants can make physical ownership richer and more meaningful.
@@ -373,10 +362,6 @@ Multiple album versions succeed because they tap into genuine pleasures: collect
 The criticism emerges when collecting shifts from optional enjoyment to perceived obligation. Randomised inclusions, exclusive content, chart-driven purchasing campaigns and large numbers of near-identical editions can make loyalty feel expensive. Fans may still choose to participate, but the emotional dynamics become more complicated than a simple music purchase.
 
 As physical formats continue to thrive in the streaming era, the debate over [album variants]({{ 'album-variants/' | relative_url }}) increasingly centres on a difficult question: how much of collecting reflects fan enthusiasm, and how much reflects commercial systems designed to turn enthusiasm into repeated transactions? The answer varies from release to release, but the tension itself has become a defining feature of modern music ownership.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T1vxUS6axyk" title="The #1 Marketing Mistake Independent Artists Keep Making" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T1vxUS6axyk" target="_blank" rel="noopener noreferrer">The #1 Marketing Mistake Independent Artists Keep Making</a></p><p class="youtube-embed-meta">Channel: JensTheGuru</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T1vxUS6axyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T1vxUS6axyk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -495,15 +480,15 @@ As physical formats continue to thrive in the streaming era, the debate over [al
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)"><img src="https://i.ebayimg.com/images/g/gUwAAeSw9FJqHpMI/s-l225.jpg" alt="Listing image for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +496,15 @@ As physical formats continue to thrive in the streaming era, the debate over [al
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE"><img src="https://i.ebayimg.com/images/g/YIAAAeSwa2BqE1Lq/s-l225.jpg" alt="Listing image for ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +512,15 @@ As physical formats continue to thrive in the streaming era, the debate over [al
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/ebe57602e31bbd061474.jpg' | relative_url }}" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/NDAAAeSwRPJp1oMP/s-l225.jpg" alt="Listing image for Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +528,15 @@ As physical formats continue to thrive in the streaming era, the debate over [al
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="{{ '/assets/images/marketplace-covers/5fa9a626ce00b97a3c39.jpg' | relative_url }}" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange"><img src="https://i.ebayimg.com/images/g/pZ0AAeSwAqxqGsps/s-l225.jpg" alt="Listing image for Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,7 +544,7 @@ As physical formats continue to thrive in the streaming era, the debate over [al
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster -book -books" data-ebay-reference="fan-pressure-when-collecting-starts-to-feel-like-pressure-music-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -775,140 +760,140 @@ As physical formats continue to thrive in the streaming era, the debate over [al
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Vinyl revival  
-   Link: [https://en.wikipedia.org/wiki/Vinyl_revival](https://en.wikipedia.org/wiki/Vinyl_revival)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vinyl_revival</a>  
 
 2. <a id="endnote-2"></a>
    Source: billboard.com  
    Title: why k pop fans still buy cds even when they cant play them  
-   Link: [https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/](https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardWhy K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</p></details>
+   Link: <a href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: album sales don't impress me if they come with 5+ versions  
-   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/](https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditalbum sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</p></details>
+   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>album sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</p></details>
    Published: August 8, 2022  
 
 4. <a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Billboard Changing Chart Rules to Eliminate [Merch](&#123;&#123; 'merch/' | relative_url &#125;&#125;)/Album Bundling  
-   Link: [https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling](https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling)  
+   Link: <a href="https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The current practice of bundling, where merchandise is sold along with a free album download to boost sales, will no longer be counted. T...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pitchfork.com  
    Title: billboard announces new fan bundle rule for chart eligibility  
-   Link: [https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/](https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/)  
+   Link: <a href="https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Announces New “Fan Bundle” Rule for Chart...4 May 2023 — Under the new rules, artists may only sell two different “fan bundle”...</p></details>
    Published: May 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/](https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/)  
+   Link: <a href="https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>d is taking action against chart fraud, it was getting out of hand...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: billboard.com  
    Title: fan packs album [charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;)  
-   Link: [https://www.billboard.com/pro/billboard-fan-packs-album-charts/](https://www.billboard.com/pro/billboard-fan-packs-album-charts/)  
+   Link: <a href="https://www.billboard.com/pro/billboard-fan-packs-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/billboard-fan-packs-album-charts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Introduces &#x27;Fan Packs&#x27; to Album Charts4 May 2023 — The new combinations of merch and albums, dubbed “fan packs,” will allow fan...</p></details>
    Published: May 2023  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/](https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/)  
+   Link: <a href="https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>his excessive production of both needs to be reigned in by the industry...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is](https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is)  
+   Link: <a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: rollingstone.com  
    Title: billie eilish artist sustainability practices 1234997127  
-   Link: [https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/](https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/)  
+   Link: <a href="https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Defends Criticizing Artist Sustainability Practices1 Apr 2024 — In a recent interview with Billboard, the musician called o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thelineofbestfit.com  
    Title: billboard introduced fan packs to allow fan bundles to count in chart positions  
-   Link: [https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions](https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions)  
+   Link: <a href="https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions" target="_blank" rel="noopener noreferrer nofollow">https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard introduced &quot;fan packs&quot; to allow fan bundles...5 May 2023 — Now, under the new rules, artists may only sell two different “fan...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/](https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/)  
+   Link: <a href="https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard US album charts reform – new rules and changes...17 Mar 2025 — Billboard US album charts reform – new rules and changes This i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: stereogum.com  
-   Link: [https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news](https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news)  
+   Link: <a href="https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news" target="_blank" rel="noopener noreferrer nofollow">https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Introduces &quot;Fan Packs,&quot; Re-Allowing...4 May 2023 — In July 2020, Billboard changed its chart rules to eliminate merch and albu...</p></details>
    Published: May 2023  
 
 14. <a id="endnote-14"></a>
    Source: forbes.com  
    Title: billboard merch ticket bundle rules bts map of the soul 7  
-   Link: [https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/](https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/)  
+   Link: <a href="https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;s New Merch And Ticket Bundle Rules Will...14 Jul 2020 — Under these new rules, “all albums bundled with either merchandise or...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: them.us  
-   Link: [https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram](https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram)  
+   Link: <a href="https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a social media post, Eilish emphasized that her remarks in a Billboard interview addressed industry-wide issues and mentioned that she...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: teenvogue.com  
    Title: billie eilish calls out biggest artists for wasteful vinyl album variants  
-   Link: [https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants](https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants)  
+   Link: <a href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Defends “Wasteful” Vinyl Variants Stance After...2 Apr 2024 — Billie Eilish doubled down on her sustainability criticism o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dailybruin.com  
    Title: second take repeat purchases of vinyl albums harm environment consumers  
-   Link: [https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers](https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers)  
+   Link: <a href="https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers" target="_blank" rel="noopener noreferrer nofollow">https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Second Take: Repeat purchases of vinyl albums harm...5 Jun 2024 — According to Forbes, the production of one vinyl album produces 0.5 kg...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hollywoodreporter.com  
    Title: billie eilish slams artists multiple vinyls albums 1235862955  
-   Link: [https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/](https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/)  
+   Link: <a href="https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Slams Artists Putting Out Multiple Vinyls of...29 Mar 2024 — Billie Eilish slammed artists who put out multiple, unique re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: americansongwriter.com  
    Title: how billboard aims to stop chart manipulation with new rules  
-   Link: [https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/](https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/)  
+   Link: <a href="https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/" target="_blank" rel="noopener noreferrer nofollow">https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Billboard Aims To Stop Chart Manipulation With New...18 Mar 2025 — In hopes of stopping unethical chart practices, Billboard immedia...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thetimes.com  
    Title: billie eilish multiple vinyl variants releases c6kzlc0fx  
-   Link: [https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx](https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx)  
+   Link: <a href="https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish criticises musicians over &#x27;wasteful&#x27; vinyl releases2 Apr 2024 — She condemned releasing multiple vinyl versions of a record...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: washingtonpost.com  
    Title: album variants alternate versions special editions  
-   Link: [https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/](https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/)  
+   Link: <a href="https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift is the &#x27;variant queen,&#x27; but plenty of artists are...3 Dec 2025 — Variants -- alternate versions of the same album with diff...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW1GznSiAwm/](https://www.instagram.com/reel/DW1GznSiAwm/)  
+   Link: <a href="https://www.instagram.com/reel/DW1GznSiAwm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW1GznSiAwm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ou buy again. Some fans want the full set. That can mean dozens of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DHYTvGlNnSP/?hl=en](https://www.instagram.com/p/DHYTvGlNnSP/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DHYTvGlNnSP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHYTvGlNnSP/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rules include a minimum price for releases, mandatory captcha...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kca.go.kr  
-   Link: [https://www.kca.go.kr/eng/board/download.do?bid=00000005&did=1003533572&fno=10039277&menukey=6007](https://www.kca.go.kr/eng/board/download.do?bid=00000005&did=1003533572&fno=10039277&menukey=6007)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KCA52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</p></details>
+   Link: <a href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow">https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</p></details>

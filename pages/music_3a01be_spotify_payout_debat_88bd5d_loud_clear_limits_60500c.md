@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359
 - music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df
 tags:
-- music
+- music-3-a01-be
 - spotify-payouts
 - payout-data
 keywords:
-- music
+- music-3-a01-be
 - spotify-payouts
 - payout-data
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Spotify's Loud and Clear numbers show huge industry payouts, but they do not reveal each creator's final income.
 hero_summary: Spotify's Loud and Clear numbers show huge industry payouts, but they do not reveal each creator's final income.
 layout: default
 permalink: /payout-data/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /spotify-payouts/
 nav_short_title: Payout Data
 title: What Spotify's big payout numbers leave out
-title_full: What Spotify's big payout numbers leave out | Spotify Payouts
+title_full: What Spotify's big payout numbers leave out
 display_title_short: Payout Data
 display_title: Payout Data
 heading_title: What Spotify's big payout numbers leave out
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Streaming Payout Claims Really Mean | Music
+parent_title: What Streaming Payout Claims Really Mean
 parent_permalink: /spotify-payouts/
 parent_nav_short_title: Spotify Payouts
 parent_heading_title: What Streaming Payout Claims Really Mean
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one stream creates two royalty trails
 up_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -265,7 +265,7 @@ next_link:
   permalink: /per-stream/
   short_title: Per Stream
   heading_title: Why one Spotify stream has no fixed price
-date: '2026-06-09 06:41:45 '
+date: '2026-06-11 23:22:14 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-1.webp
@@ -274,31 +274,29 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits
 
 ## Introduction
 
-Spotify’s Loud & Clear reports are among the most cited datasets in arguments about streaming economics because they appear to answer a simple question: is streaming generating meaningful money for [music]({{ 'music/' | relative_url }})? On that narrow question, the figures are powerful evidence. They show that Spotify has become a major source of industry revenue, paying more than US$11 billion to the music industry in 2025 and nearly US$70 billion over its lifetime. They also show growing numbers of artists reaching significant royalty thresholds. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This represented a more than 10% increase from the previous year. Half of the royalties went to independent artists and labels, underlini...</span></span></span>, Loud & Clear does not reveal what most creators actually take home. The data tracks [royalties]({{ 'royalties/' | relative_url }}) generated on Spotify before those payments pass through labels, publishers, distributors, managers, collaborators and other contractual arrangements. As a result, the report proves that large sums are flowing through streaming, but it does not settle the separate question of whether individual artists and songwriters are earning a fair living.
-
+Spotify’s Loud & Clear reports are among the most cited datasets in arguments about streaming economics because they appear to answer a simple question: is streaming generating meaningful money for music? On that narrow question, the figures are powerful evidence. They show that Spotify has become a major source of industry revenue, paying more than US$11 billion to the music industry in 2025 and nearly US$70 billion over its lifetime. They also show growing numbers of artists reaching significant royalty thresholds. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This represented a more than 10% increase from the previous year. Half of the royalties went to independent artists and labels, underlini...</span></span></span>, Loud & Clear does not reveal what most creators actually take home. The data tracks [royalties]({{ 'royalties/' | relative_url }}) generated on Spotify before those payments pass through labels, publishers, distributors, managers, collaborators and other contractual arrangements. As a result, the report proves that large sums are flowing through streaming, but it does not settle the separate question of whether individual artists and songwriters are earning a fair living.
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-1-dark.svg" | relative_url }}" alt="Payout Data illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the headline payout figures measure
 
-The strongest contribution of Loud & Clear is that it provides a rare platform-level view of [streaming revenue]({{ 'revenue-dbec50/' | relative_url }}). Spotify’s reports document how much money the service distributes to music rightsholders and how many artists cross various royalty thresholds. Recent editions highlight that more than 13,800 artists generated at least US$100,000 from Spotify in 2025, while more than 1,500 generated over US$1 million. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and ClearIn 2025, there were more than 13,800 artists who generated at least $100,000* a year from Spotify...</span></span></span>
+The strongest contribution of Loud & Clear is that it provides a rare platform-level view of streaming revenue. Spotify’s reports document how much money the service distributes to music rightsholders and how many artists cross various royalty thresholds. Recent editions highlight that more than 13,800 artists generated at least US$100,000 from Spotify in 2025, while more than 1,500 generated over US$1 million. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and ClearIn 2025, there were more than 13,800 artists who generated at least $100,000* a year from Spotify...</span></span></span>
 
 These figures demonstrate several things that are difficult to dispute:
 
-* Streaming has become a large-scale revenue source for recorded music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[musiciansunion.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">Royalties for Streaming Music | The MU22 Apr 2026 — At least 92% of musicians say that less than 5% of their earnings comes from online s...</span></span></span>
+* Streaming has become a large-scale revenue source for recorded music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[musiciansunion.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">Royalties for Streaming Music &#124; The MU22 Apr 2026 — At least 92% of musicians say that less than 5% of their earnings comes from online s...</span></span></span>
 * Total payouts have grown substantially over time.
 * Significant numbers of artists now generate meaningful royalties from Spotify alone.
 * Independent artists and labels account for a large share of royalties, roughly half according to Spotify's reporting. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This represented a more than 10% increase from the previous year. Half of the royalties went to independent artists and labels, underlini...</span></span></span> The dataset is also useful for tracking structural changes. Loud & Clear has repeatedly shown growth in the number of artists reaching income thresholds ranging from US$10,000 to millions of dollars per year. Spotify argues this reflects the emergence of a broader middle tier rather than growth being captured exclusively by global superstars. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and ClearIn 2025, there were more than 13,800 artists who generated at least $100,000* a year from Spotify...</span></span></span>
 
 As evidence about the size and expansion of the streaming economy, the figures are valuable. They establish that streaming is not a niche revenue source and that substantial royalty pools exist.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zIBD51pB34M" title="13,800 Artists Generated $100k on Spotify in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zIBD51pB34M" target="_blank" rel="noopener noreferrer">13,800 Artists Generated $100k on Spotify in 2025</a></p><p class="youtube-embed-meta">Channel: Andrew Southworth &middot; Views: 4.5K &middot; Uploaded: March 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zIBD51pB34M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zIBD51pB34M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0-f4dOJ78Fs" title="Spotify Royalties Explained: How Streaming Money Really Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer">Spotify Royalties Explained: How Streaming Money Really Works</a></p><p class="youtube-embed-meta">Channel: Joey Dale Music &middot; Views: 962 &middot; Uploaded: October 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0-f4dOJ78Fs">Open on YouTube</a></p></div></div></div>
 
 ## Why gross royalties differ from artist income
 
 The most important limitation of Loud & Clear is that its headline numbers are gross royalty figures rather than creator earnings.
 
-Spotify pays rightsholders according to streamshare, meaning royalties are allocated based on a catalogue’s share of listening activity. The company states that it distributes roughly two-thirds of music revenue to recording and [publishing]({{ 'publishing/' | relative_url }}) rightsholders. Those payments are then divided according to separate contractual arrangements that Spotify does not control and often cannot see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</span></span></span>
+Spotify pays rightsholders according to streamshare, meaning royalties are allocated based on a [catalogue]({{ 'catalogue/' | relative_url }})’s share of listening activity. The company states that it distributes roughly two-thirds of music revenue to recording and [publishing]({{ 'publishing/' | relative_url }}) rightsholders. Those payments are then divided according to separate contractual arrangements that Spotify does not control and often cannot see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</span></span></span>
 
 This distinction matters because a reported royalty figure can represent very different outcomes for different creators.
 
@@ -316,10 +314,9 @@ For example, a track generating US$100,000 in Spotify royalties may involve:
 
 </div>
 
-After those deductions, the amount reaching any one individual may be far lower than the royalty figure shown in Loud & Clear. Spotify itself notes that it has no visibility into the agreements that determine final payments to artists and songwriters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">2025 music industry payouts whats next for artists</span><span class="citation-popover-snippet">SpotifyFrom $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
+After those deductions, the amount reaching any one individual may be far lower than the royalty figure shown in Loud & Clear. Spotify itself notes that it has no visibility into the agreements that determine final payments to artists and songwriters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">2025 music industry payouts whats next for artists</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 
 This is why critics often argue that platform payout statistics and creator income statistics answer different questions. A growing royalty pool does not automatically prove that revenue is being distributed equitably across the industry.
-
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-2-dark.svg" | relative_url }}" alt="Payout Data illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How income thresholds frame the streaming debate
@@ -328,15 +325,13 @@ One of Loud & Clear’s most influential features is its use of earnings thresho
 
 The same figures, however, can support opposing interpretations.
 
-Supporters view them as evidence that streaming has created opportunities unavailable in earlier eras. They point to the increasing number of artists reaching professional income levels and to the growing presence of independent and international acts among royalty earners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and ClearIn 2025, there were more than 13,800 artists who generated at least $100,000* a year from Spotify...</span></span></span> Spotify Critics focus on the denominator. Millions of artists and uploaders now compete for attention on streaming platforms. Analyses comparing Loud <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[newsroom.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">2025 music industry payouts whats next for artists</span><span class="citation-popover-snippet">SpotifyFrom $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span> & Clear thresholds with Spotify’s overall uploader population have noted that only a small percentage of uploaders reach even modest royalty levels. From that perspective, growth in top-line payouts does not necessarily indicate widespread prosperity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">Music Business Worldwide80 artists generated $10M+ each from Spotify last year</span><span class="citation-popover-snippet">11 Mar 2026 — 80 artists generated $10M+ each from Spotify last year. Over 1,500 generated $1M+. Here&#x27;s the full breakdown. · 303,200 art...</span></span></span>
+Supporters view them as evidence that streaming has created opportunities unavailable in earlier eras. They point to the increasing number of artists reaching professional income levels and to the growing presence of independent and international acts among royalty earners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Takeaways</span><span class="citation-popover-snippet">Loud and ClearTakeaways - Loud and ClearIn 2025, there were more than 13,800 artists who generated at least $100,000* a year from Spotify...</span></span></span> Spotify Critics focus on the denominator. Millions of artists and uploaders now compete for attention on streaming platforms. Analyses comparing Loud <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[newsroom.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">2025 music industry payouts whats next for artists</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span> & Clear thresholds with Spotify’s overall uploader population have noted that only a small percentage of uploaders reach even modest royalty levels. From that perspective, growth in top-line payouts does not necessarily indicate widespread prosperity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">Music Business Worldwide80 artists generated $10M+ each from Spotify last year</span><span class="citation-popover-snippet">11 Mar 2026 — 80 artists generated $10M+ each from Spotify last year. Over 1,500 generated $1M+. Here&#x27;s the full breakdown. · 303,200 art...</span></span></span>
 
 The debate therefore turns on what threshold is considered meaningful. A figure such as US$100,000 in annual Spotify-generated royalties may appear substantial, yet it can represent a full band, a shared catalogue, or income that must still be divided among multiple stakeholders. Conversely, supporters argue that gross royalty generation is the appropriate measure because Spotify cannot account for downstream contracts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">loud and clear music economics highlights</span><span class="citation-popover-snippet">Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — In 2025, more than a third of artists who generated $10,000 or more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0-f4dOJ78Fs" title="Spotify Royalties Explained: How Streaming Money Really Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer">Spotify Royalties Explained: How Streaming Money Really Works</a></p><p class="youtube-embed-meta">Channel: Joey Dale Music &middot; Views: 962 &middot; Uploaded: October 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0-f4dOJ78Fs">Open on YouTube</a></p></div></div></div>
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqgVEX6v1d0" title="Fact-Checking Spotify&#x27;s &quot;Loud &amp; Clear&quot; Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqgVEX6v1d0" target="_blank" rel="noopener noreferrer">Fact-Checking Spotify&#x27;s &quot;Loud &amp; Clear&quot; Report</a></p><p class="youtube-embed-meta">Channel: Prof John &middot; Views: 400 &middot; Uploaded: March 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqgVEX6v1d0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqgVEX6v1d0">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zIBD51pB34M" title="13,800 Artists Generated $100k on Spotify in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zIBD51pB34M" target="_blank" rel="noopener noreferrer">13,800 Artists Generated $100k on Spotify in 2025</a></p><p class="youtube-embed-meta">Channel: Andrew Southworth &middot; Views: 4.5K &middot; Uploaded: March 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zIBD51pB34M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zIBD51pB34M">Open on YouTube</a></p></div></div></div>
 
 ## The evidence Loud & Clear cannot provide
 
@@ -354,7 +349,6 @@ It does not reveal:
 Nor does the dataset directly address normative questions about fairness. It can show that payouts are increasing, but it cannot determine whether creators receive an appropriate share of the value generated by their work.
 
 That distinction explains why Loud & Clear remains central to the streaming debate. The data convincingly demonstrates that Spotify has become a major engine of music-industry revenue. What it does not demonstrate is how much of that revenue ultimately reaches the individual creators whose music generated it. The gap between those two measurements is where most of the controversy over streaming economics continues to live.
-
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-3-dark.svg" | relative_url }}" alt="Payout Data illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -755,222 +749,222 @@ That distinction explains why Loud & Clear remains central to the streaming deba
 1. <a id="endnote-1"></a>
    Source: newsroom.spotify.com  
    Title: 2025 music industry payouts whats next for artists  
-   Link: [https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/](https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyFrom $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</p></details>
+   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</p></details>
    Published: January 28, 2026  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/](https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/spotify-says-it-made-record-payout-more-than-11-billion-music-industry-2025-2026-01-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This represented a more than 10% increase from the previous year. Half of the royalties went to independent artists and labels, underlini...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newsroom.spotify.com  
    Title: loud and clear music economics highlights  
-   Link: [https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/](https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/)  
+   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — In 2025, more than a third of artists who generated $10,000 or more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: newsroom.spotify.com  
-   Link: [https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/](https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/)  
+   Link: <a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since 2017, the number of artists generating between $1,000 and $10 million annually has tripled.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/royalties-guide](https://artists.spotify.com/en/royalties-guide)  
+   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare — their share of total streams in a given month. E.g., if an...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: support.spotify.com  
-   Link: [https://support.spotify.com/us/artists/article/understanding-spotify-royalties/](https://support.spotify.com/us/artists/article/understanding-spotify-royalties/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUnderstanding Spotify royaltiesOnce we pay rightsholders according to their streamshare, they pay artists and songwriters accordin...</p></details>
+   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify royaltiesOnce we pay rightsholders according to their streamshare, they pay artists and songwriters accordin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: artists.spotify.com  
-   Link: [https://artists.spotify.com/en/home](https://artists.spotify.com/en/home)  
+   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Artists: Where Your Music is EverythingWith Spotify for Artists, you can amplify your reach, serve up videos, build pre-release hype...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: [https://artists.spotify.com/blog/modernizing-our-royalty-system](https://artists.spotify.com/blog/modernizing-our-royalty-system)  
+   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023 — Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: what were building for artists in 2026  
-   Link: [https://artists.spotify.com/blog/what-were-building-for-artists-in-2026](https://artists.spotify.com/blog/what-were-building-for-artists-in-2026)  
+   Link: <a href="https://artists.spotify.com/blog/what-were-building-for-artists-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/what-were-building-for-artists-in-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>$11B in 2025 Payouts to What We&#x27;re Building...26 Jan 2026 — I&#x27;m proud to share that, last year alone, Spotify paid out more than $11 bil...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: spotify.com  
    Title: Play free on mobile – Spotify  
-   Link: [https://www.spotify.com/uk/free/](https://www.spotify.com/uk/free/)  
+   Link: <a href="https://www.spotify.com/uk/free/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/free/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sign up for free. Why Spotify? Play your favourites. Listen to the songs you love and discover new music and...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: everything you need to know about how spotify pays rightsholders  
-   Link: [https://artists.spotify.com/blog/everything-you-need-to-know-about-how-spotify-pays-rightsholders](https://artists.spotify.com/blog/everything-you-need-to-know-about-how-spotify-pays-rightsholders)  
+   Link: <a href="https://artists.spotify.com/blog/everything-you-need-to-know-about-how-spotify-pays-rightsholders" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/everything-you-need-to-know-about-how-spotify-pays-rightsholders</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Need to Know About How Spotify Pays...15 Nov 2018 — Four new videos designed to help you understand the nuts and bolts of royalties...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: artist.tools  
    Title: the ultimate guide to spotify royalty payments  
-   Link: [https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments](https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments)  
+   Link: <a href="https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jan 2026 — Unlock your earnings potential. This guide breaks down Spotify royalty payments, how they&#x27;re calculated, and how to maximize...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Takeaways  
-   Link: [https://loudandclear.byspotify.com/takeaways/](https://loudandclear.byspotify.com/takeaways/)  
+   Link: <a href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearTakeaways - Loud and ClearIn 2025, there were more than 13,800 artists who generated at least $100,000* a year from Spotify...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicbusinessworldwide.com  
    Title: Music Business Worldwide80 artists generated $10M+ each from Spotify last year  
-   Link: [https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/](https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2026 — 80 artists generated $10M+ each from Spotify last year. Over 1,500 generated $1M+. Here&#x27;s the full breakdown. · 303,200 art...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: musicbusinessworldwide.com  
    Title: Music Business Worldwide12m artists uploaded music to Spotify last year  
-   Link: [https://www.musicbusinessworldwide.com/12m-artists-uploaded-music-to-spotify-last-year-less-than-0-6-generated-10000-or-more-in-royalties1/](https://www.musicbusinessworldwide.com/12m-artists-uploaded-music-to-spotify-last-year-less-than-0-6-generated-10000-or-more-in-royalties1/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/12m-artists-uploaded-music-to-spotify-last-year-less-than-0-6-generated-10000-or-more-in-royalties1/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/12m-artists-uploaded-music-to-spotify-last-year-less-than-0-6-generated-10000-or-more-in-royalties1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Less than...12 Mar 2025 — 12 million uploaders on Spotify, this means that less than 0.6% of Spotify uploaders generated at least $10,00...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian Spotify is trumpeting big paydays for artists  
-   Link: [https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report](https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report)  
+   Link: <a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: loudandclear.byspotify.com  
-   Link: [https://loudandclear.byspotify.com/](https://loudandclear.byspotify.com/)  
+   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud &amp; ClearWe analyzed the 2025 royalty data. These are the top ten findings that stood out most. Explore now. Beyond the Numbers. Hear...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
    Title: DVvk02m Du KR  
-   Link: [https://www.instagram.com/p/DVvk02mDuKR/](https://www.instagram.com/p/DVvk02mDuKR/)  
+   Link: <a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify pays nearly 70% of every dollar...In 2025, that added up to more than $11 billion, the largest annual payment to music from any...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/spotify-royalties](https://musosoup.com/blog/spotify-royalties)  
+   Link: <a href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties Explained: How They Work and What You...The royalty pool is funded by subscription fees and adverts, then divided amon...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musosoup.com  
-   Link: [https://musosoup.com/blog/spotify-royalties-per-stream](https://musosoup.com/blog/spotify-royalties-per-stream)  
+   Link: <a href="https://musosoup.com/blog/spotify-royalties-per-stream" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties-per-stream</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties [Per Stream](&amp;#123;&amp;#123; &#x27;per-stream/&#x27; | relative_url &amp;#125;&amp;#125;): Current Rates and How They...Spotify royalties are calculated using a “streamshare” model rather than a fi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/oliviaregnier_spotify-has-published-its-2025-loud-clear-activity-7438272713925771264-JUTq](https://www.linkedin.com/posts/oliviaregnier_spotify-has-published-its-2025-loud-clear-activity-7438272713925771264-JUTq)  
+   Link: <a href="https://www.linkedin.com/posts/oliviaregnier_spotify-has-published-its-2025-loud-clear-activity-7438272713925771264-JUTq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/oliviaregnier_spotify-has-published-its-2025-loud-clear-activity-7438272713925771264-JUTq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has published its 2025 Loud &amp; Clear report, sharing...Some highlights: •% growth vs 2024; • More than half of the payouts went t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/c/spotify](https://www.youtube.com/c/spotify)  
+   Link: <a href="https://www.youtube.com/c/spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s Best New Artist 2026 · Leon Thomas - VIBES DON&#x27;T LIE (Live) | Spotify Best New Artist · The Marías - Nobody New (Live) | Spotify Best...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0-f4dOJ78Fs](https://www.youtube.com/watch?v=0-f4dOJ78Fs)  
+   Link: <a href="https://www.youtube.com/watch?v=0-f4dOJ78Fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0-f4dOJ78Fs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ch Spotify ACTUALLY Pays You for a 1,000 Streams in 2024...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: musicradar.com  
-   Link: [https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report](https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report)  
+   Link: <a href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Spotify is the highest-paying retailer globally11 Mar 2026 — “In 2025, there were more than 13,800 artists who generated at least $100,0...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Spotify](https://en.wikipedia.org/wiki/Spotify)  
+   Link: <a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUsers can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social m...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: bluntmag.com.au  
    Title: spotify loud and clear report 2026 artists earnings  
-   Link: [https://bluntmag.com.au/news/spotify-loud-and-clear-report-2026-artists-earnings/](https://bluntmag.com.au/news/spotify-loud-and-clear-report-2026-artists-earnings/)  
+   Link: <a href="https://bluntmag.com.au/news/spotify-loud-and-clear-report-2026-artists-earnings/" target="_blank" rel="noopener noreferrer nofollow">https://bluntmag.com.au/news/spotify-loud-and-clear-report-2026-artists-earnings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Says 13800 Artists Made $100000 On The Platform...11 Mar 2026 — Spotify&#x27;s latest Loud and Clear report claims more than 13800 ar...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/](https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/)  
+   Link: <a href="https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/m7syfw/spotify_unveils_loud_and_clear_a_detailed_guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lar [they] make&quot; and that those [rights](&amp;#123;&amp;#123; &#x27;rights/&#x27; | relative_url &amp;#125;&amp;#125;) holders distributes 75-80% of...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: landr.com  
    Title: Learn how much you'll get paid for streams on Spotify, Apple Music,  
-   Link: [https://www.landr.com/royalty-calculator](https://www.landr.com/royalty-calculator)  
+   Link: <a href="https://www.landr.com/royalty-calculator" target="_blank" rel="noopener noreferrer nofollow">https://www.landr.com/royalty-calculator</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalty Calculator: How Much Are Streams Worth?Calculate your earnings from streaming royalties for every major distribution service...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: spotify has released its updated 2025 loud clear report offering a deeper look i  
-   Link: [https://www.facebook.com/worldmusicviews/posts/spotify-has-released-its-updated-2025-loud-clear-report-offering-a-deeper-look-i/1334255882072582/](https://www.facebook.com/worldmusicviews/posts/spotify-has-released-its-updated-2025-loud-clear-report-offering-a-deeper-look-i/1334255882072582/)  
+   Link: <a href="https://www.facebook.com/worldmusicviews/posts/spotify-has-released-its-updated-2025-loud-clear-report-offering-a-deeper-look-i/1334255882072582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldmusicviews/posts/spotify-has-released-its-updated-2025-loud-clear-report-offering-a-deeper-look-i/1334255882072582/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has released its updated 2025 Loud &amp; Clear report...11 Mar 2026 — According to Spotify, the company paid out more than $11 billi...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming royalties  
-   Link: [https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties](https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties for Streaming Music | The MU22 Apr 2026 — At least 92% of musicians say that less than 5% of their earnings comes from online s...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: virpp.com  
-   Link: [https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/)  
+   Link: <a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00](https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00)  
+   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThis article explains how it all works in the United States for Spotify and all other interactiv...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/how-do-artists-make-their-money-from-music-tgvvprx8p](https://www.thetimes.co.uk/article/how-do-artists-make-their-money-from-music-tgvvprx8p)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite having millions of listeners, their [streaming revenues](&amp;#123;&amp;#123; &#x27;revenue-dbec50/&#x27; | relative_url &amp;#125;&amp;#125;) are significantly lower than other income sources such as OnlyFans. Stream...</p></details>
+   Link: <a href="https://www.thetimes.co.uk/article/how-do-artists-make-their-money-from-music-tgvvprx8p" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/how-do-artists-make-their-money-from-music-tgvvprx8p</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite having millions of listeners, their streaming revenues are significantly lower than other income sources such as OnlyFans. Stream...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/gustavsoderstrom_we-just-shared-our-2025-loud-clear-report-activity-7437487552481243136-219I](https://www.linkedin.com/posts/gustavsoderstrom_we-just-shared-our-2025-loud-clear-report-activity-7437487552481243136-219I)  
+   Link: <a href="https://www.linkedin.com/posts/gustavsoderstrom_we-just-shared-our-2025-loud-clear-report-activity-7437487552481243136-219I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gustavsoderstrom_we-just-shared-our-2025-loud-clear-report-activity-7437487552481243136-219I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We just shared our 2025 Loud &amp; Clear report....+ In 2025, 10,000 more artists than the year before earned at least $10,000 If you&#x27;re cur...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: submitlink.io  
    Title: a strategic guide to spotify royalty payments for the professional artist  
-   Link: [https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist](https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist)  
+   Link: <a href="https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/a-strategic-guide-to-spotify-royalty-payments-for-the-professional-artist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Strategic Guide to Spotify Royalty Payments18 Mar 2026 — Discover spotify royalty payments: learn how earnings flow, what affects pa...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: linkedin.com  
    Title: samduboff loud and clear by spotify activity 7437482290483519488 Sm7  
-   Link: [https://www.linkedin.com/posts/samduboff_loud-and-clear-by-spotify-activity-7437482290483519488-_Sm7](https://www.linkedin.com/posts/samduboff_loud-and-clear-by-spotify-activity-7437482290483519488-_Sm7)  
+   Link: <a href="https://www.linkedin.com/posts/samduboff_loud-and-clear-by-spotify-activity-7437482290483519488-_Sm7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/samduboff_loud-and-clear-by-spotify-activity-7437482290483519488-_Sm7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud &amp; Clear Report: Spotify Royalty Payouts 2025In 2025 alone, Spotify paid out more than $11B to the music industry, bringing total lif...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: artisticechoes.co.uk  
    Title: music sin fronteras spotify and bandcamp two ways of paying artists  
-   Link: [https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/](https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/)  
+   Link: <a href="https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.artisticechoes.co.uk/2025/12/08/music-sin-fronteras-spotify-and-bandcamp-two-ways-of-paying-artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>streamshare” – Spotify&#x27;s term for how it divides all of the month&#x27;s royalties among rightsholders each month (labels, artists, songwriter...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: royaltyexchange.com  
    Title: how music streaming platforms calculate payouts per stream 2025  
-   Link: [https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025](https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025)  
+   Link: <a href="https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Platforms Calculate Payouts Per...Mar 4, 2025 — For instance, Spotify allocates about 65–70% of its revenue to right...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: 01net.it  
-   Link: [https://www.01net.it/how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025-spotify-loud-clear-report/](https://www.01net.it/how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025-spotify-loud-clear-report/)  
+   Link: <a href="https://www.01net.it/how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025-spotify-loud-clear-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.01net.it/how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025-spotify-loud-clear-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Over 50% of the artists who generated at least $1,000 in royalties on Spotify in 2024...Read more...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/spotifynews/reel/DVvoZJiEQj9/?hl=en](https://www.instagram.com/spotifynews/reel/DVvoZJiEQj9/?hl=en)  
+   Link: <a href="https://www.instagram.com/spotifynews/reel/DVvoZJiEQj9/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/spotifynews/reel/DVvoZJiEQj9/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>industry for 2025 alone, up 10% from the previous year and representing...</p></details>

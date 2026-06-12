@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-short-clips-songwrit/
 description: Focused pages that expand on Short Clips.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_short_clips_songwrit_c1f922
-parent_title: Short Clips | Music
+parent_title: Short Clips
 parent_nav_short_title: Short Clips
 parent_permalink: /short-clips/
 ---

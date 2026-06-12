@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_latin_music_streamin_4617cf_latin_collaboration_b8cc68
 - music_3a01be_latin_music_streamin_4617cf_viva_latino_playlist_372256
 tags:
-- music
+- music-3-a01-be
 - latin-music
 - diaspora
 keywords:
-- music
+- music-3-a01-be
 - latin-music
 - diaspora
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Latino diaspora audiences gave Latin music a ready-made listening network across homes, parties, social feeds and bilingual playlists.
 hero_summary: Latino diaspora audiences gave Latin music a ready-made listening network across homes, parties, social feeds and bilingual playlists.
 layout: default
 permalink: /diaspora/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /latin-music/
 nav_short_title: Diaspora
 title: Why Diaspora Listening Powered Latin Streaming
-title_full: Why Diaspora Listening Powered Latin Streaming | Latin Music
+title_full: Why Diaspora Listening Powered Latin Streaming
 display_title_short: Diaspora
 display_title: Diaspora
 heading_title: Why Diaspora Listening Powered Latin Streaming
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Latin Music Travels So Far | Music
+parent_title: Why Latin Music Travels So Far
 parent_permalink: /latin-music/
 parent_nav_short_title: Latin Music
 parent_heading_title: Why Latin Music Travels So Far
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Playlists Became Latin Music's Front Door
 up_link:
   basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
@@ -265,7 +265,7 @@ next_link:
   permalink: /viva-latino/
   short_title: Viva Latino
   heading_title: How Playlists Became Latin Music's Front Door
-date: '2026-06-09 07:28:11 '
+date: '2026-06-11 23:45:25 '
 header:
   og_image: /assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_s
 
 [Latin music]({{ 'latin-music/' | relative_url }})’s streaming boom in the United States was not driven by algorithms alone. Long before streaming platforms elevated reggaeton, Latin pop or [regional Mexican]({{ 'regional-mexican/' | relative_url }}) music, millions of Latino households had already built dense cultural networks connecting families, neighbourhoods and communities across the United States, the Caribbean and Latin America. Streaming succeeded in part because it plugged into those existing networks.
 
-
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-1-dark.svg" | relative_url }}" alt="Diaspora illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For many listeners, Latin music travels through two channels at once: family culture and digital discovery. A song may first be heard at a family gathering, in a car, through relatives abroad or in a community social-media group, then be reinforced by Spotify, YouTube or Apple Music recommendations. The result is a powerful feedback loop in which diaspora audiences provide an initial listening base while streaming platforms amplify successful tracks to wider audiences. This helps explain why Latin music has become one of the fastest-growing segments of the US music market and why streaming now accounts for more than 98% of US Latin music revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/reports/riaa-2024-year-end-us-market-latin-music-revenue-report-informe-de-ingresos-de-la-musica-latina-en-el-mercado-de-los-ee-uu-a-fines-de-2024-de-la-riaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">RIAARIAA 2024 Year-End US Market Latin Music Revenue...The RIAA released its 2025 Year-End Recorded Music Revenue Report, which reported...</span></span></span>
+For many listeners, Latin music travels through two channels at once: family [culture]({{ 'culture/' | relative_url }}) and digital discovery. A song may first be heard at a family gathering, in a car, through relatives abroad or in a community social-media group, then be reinforced by Spotify, YouTube or Apple Music recommendations. The result is a powerful feedback loop in which diaspora audiences provide an initial listening base while streaming platforms amplify successful tracks to wider audiences. This helps explain why Latin music has become one of the fastest-growing segments of the US music market and why streaming now accounts for more than 98% of US Latin music revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/reports/riaa-2024-year-end-us-market-latin-music-revenue-report-informe-de-ingresos-de-la-musica-latina-en-el-mercado-de-los-ee-uu-a-fines-de-2024-de-la-riaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">RIAA 2024 Year-End US Market Latin Music Revenue...The RIAA released its 2025 Year-End Recorded Music Revenue Report, which reported...</span></span></span>
 
 ## Bilingual Households and Genre-Fluid Listening
 
@@ -292,23 +291,19 @@ The impact is visible in consumption data. Luminate has found that American list
 
 For diaspora families, streaming also solves a practical problem. Parents and grandparents can maintain cultural connections through familiar artists while younger listeners discover new releases from Puerto Rico, Mexico, Colombia or elsewhere. Rather than replacing older cultural ties, streaming extends them.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nwRH_aly718" title="Exactly Who Is Listening To Latin Music? Everyone! | Billboard Latin Music Week 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer">Exactly Who Is Listening To Latin Music? Everyone! | Billboard Latin Music Week 2023</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 1.1K &middot; Uploaded: October 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nwRH_aly718">Open on YouTube</a></p></div></div></div>
-
 ## How Social Sharing Moves Songs Across Borders
 
 Diaspora networks are particularly effective because they operate across national borders.
 
-A new release can spread simultaneously through relatives in New York, Miami, Los Angeles, Mexico City, San Juan or Medellín. Messaging apps, social media platforms and video-sharing services allow music recommendations to move rapidly between countries without requiring radio promotion or physical distribution.
+A new release can spread simultaneously through relatives in New York, Miami, Los Angeles, Mexico City, San Juan or Medellín. Messaging apps, social media platforms and video-sharing services allow music recommendations to move rapidly between countries without requiring radio promotion or [physical]({{ 'physical/' | relative_url }}) distribution.
 
-Industry research has identified social sharing as a significant driver of Latin music discovery. Luminate's reporting on Latin music growth highlighted the importance of highly engaged fan communities and noted the role of WhatsApp and similar communication channels in spreading new music trends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate latin music growth numbers streaming super fans whatsapp 1235430663</span><span class="citation-popover-snippet">BillboardLatin Super Fans and Streaming Drive Latin Music Growth2 Oct 2023 — Latin super fans and double-digit growth in on-demand stream...</span></span></span>
+Industry research has identified social sharing as a significant driver of Latin music discovery. Luminate's reporting on Latin music growth highlighted the importance of highly engaged fan communities and noted the role of WhatsApp and similar communication channels in spreading new music trends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate latin music growth numbers streaming super fans whatsapp 1235430663</span><span class="citation-popover-snippet">Latin Super Fans and Streaming Drive Latin Music Growth2 Oct 2023 — Latin super fans and double-digit growth in on-demand stream...</span></span></span>
 
 This pattern differs from the traditional music-industry model. Historically, a label might need separate campaigns for different national markets. Diaspora audiences effectively create their own distribution network. A listener who shares a song with cousins abroad, posts it on social media or adds it to collaborative playlists becomes part of an informal promotional system.
 
 The success of many streaming-era Latin hits illustrates this mechanism. Songs often gain momentum within culturally connected communities before crossing into broader audiences. Once streaming platforms detect unusually strong engagement, recommendation systems and curated playlists can expose those tracks to listeners who have no personal connection to Latino communities.
 
 Diaspora audiences therefore function as both an initial audience and a signal generator. Their concentrated listening activity helps platforms identify songs with broader potential.
-
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-2-dark.svg" | relative_url }}" alt="Diaspora illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Paid and Free Streaming Both Matter
@@ -319,14 +314,14 @@ Paid subscriptions generate the largest share of Latin music revenue. RIAA data 
 
 However, free streaming is unusually important as well.
 
-Latin music earns a comparatively large share of revenue from ad-supported services such as YouTube, Vevo and free streaming tiers. According to the RIAA, ad-supported on-demand streaming represents a larger portion of Latin music revenue than it does for the overall US music market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">RIAARIAA Mid-Year 2024 US Latin Music Revenue Report...10 Oct 2024 — Latin increased 7% compared to the first half of 2023, led by paid...</span></span></span>
+Latin music earns a comparatively large share of revenue from ad-supported services such as YouTube, Vevo and free streaming tiers. According to the RIAA, ad-supported on-demand streaming represents a larger portion of Latin music revenue than it does for the overall US music market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">RIAA Mid-Year 2024 US Latin Music Revenue Report...10 Oct 2024 — Latin increased 7% compared to the first half of 2023, led by paid...</span></span></span>
 
 This dual structure aligns closely with diaspora listening behaviour. New immigrants, younger listeners and casual fans may first encounter music through free platforms. More dedicated listeners often migrate to paid subscriptions later. Because both tiers contribute meaningfully to consumption, artists can build large audiences even before converting significant numbers of listeners into paying subscribers.
 
 The importance of video platforms should not be underestimated. Many diaspora listeners discover music through clips, music videos and social sharing before moving to audio streaming services. This creates multiple entry points into the ecosystem and allows songs to circulate widely across different economic and demographic groups.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nwRH_aly718" title="Exactly Who Is Listening To Latin Music? Everyone! | Billboard Latin Music Week 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer">Exactly Who Is Listening To Latin Music? Everyone! | Billboard Latin Music Week 2023</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 1.1K &middot; Uploaded: October 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nwRH_aly718">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-dark.svg" | relative_url }}" alt="Diaspora illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Power of Highly Engaged Fan Communities
 
 Another reason diaspora networks matter is the intensity of engagement they generate.
@@ -341,15 +336,13 @@ This engagement helps explain why Latin music growth has remained resilient rath
 
 A common misunderstanding is that diaspora audiences simply consume music created for their own communities. In reality, they often act as cultural bridges.
 
-When a large, engaged diaspora audience concentrates attention on a song, streaming platforms register that behaviour. Recommendation systems, [editorial playlists]({{ 'editorial-adds/' | relative_url }}) and viral social-media trends can then expose the track to listeners outside Latino communities. The song's path to mainstream success often begins within the diaspora but does not end there.
+When a large, engaged diaspora audience concentrates attention on a song, streaming platforms register that behaviour. Recommendation systems, editorial playlists and viral social-media trends can then expose the track to listeners outside Latino communities. The song's path to mainstream success often begins within the diaspora but does not end there.
 
 The broader growth of international listening in the United States reinforces this effect. As American audiences become increasingly comfortable consuming music from different countries and in different languages, diaspora networks become even more influential as gateways for global music discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">latin music grows the most among genres in q1</span><span class="citation-popover-snippet">Luminate8 Apr 2025 — Last week, the RIAA reported that the Latin music genre generated a record-breaking $1.4 billion in U.S...</span></span></span>
 
-In that sense, US Latino communities did more than provide a market for Latin music. They provided a ready-made streaming infrastructure: bilingual households, cross-border relationships, social-sharing habits and highly engaged fan cultures. Streaming platforms amplified these networks, but the networks themselves helped create the conditions for Latin music’s extraordinary rise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate latin music growth numbers streaming super fans whatsapp 1235430663</span><span class="citation-popover-snippet">BillboardLatin Super Fans and Streaming Drive Latin Music Growth2 Oct 2023 — Latin super fans and double-digit growth in on-demand stream...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/the-rise-of-us-listeners-engaging-with-foreign-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate The Rise of US Listeners Engaging with Foreign Content</span><span class="citation-popover-snippet">Music 360 study, 30% of American music listeners listen to music originating from outside the country...Read more...</span></span></span>
+In that sense, US Latino communities did more than provide a market for Latin music. They provided a ready-made streaming infrastructure: bilingual households, cross-border relationships, social-sharing habits and highly engaged fan cultures. Streaming platforms amplified these networks, but the networks themselves helped create the conditions for Latin music’s extraordinary rise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate latin music growth numbers streaming super fans whatsapp 1235430663</span><span class="citation-popover-snippet">Latin Super Fans and Streaming Drive Latin Music Growth2 Oct 2023 — Latin super fans and double-digit growth in on-demand stream...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/the-rise-of-us-listeners-engaging-with-foreign-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate The Rise of US Listeners Engaging with Foreign Content</span><span class="citation-popover-snippet">Music 360 study, 30% of American music listeners listen to music originating from outside the country...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-dark.svg" | relative_url }}" alt="Diaspora illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -747,195 +740,195 @@ In that sense, US Latino communities did more than provide a market for Latin mu
 
 1. <a id="endnote-1"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/riaa-2024-year-end-us-market-latin-music-revenue-report-informe-de-ingresos-de-la-musica-latina-en-el-mercado-de-los-ee-uu-a-fines-de-2024-de-la-riaa/](https://www.riaa.com/reports/riaa-2024-year-end-us-market-latin-music-revenue-report-informe-de-ingresos-de-la-musica-latina-en-el-mercado-de-los-ee-uu-a-fines-de-2024-de-la-riaa/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARIAA 2024 Year-End US Market Latin Music Revenue...The RIAA released its 2025 Year-End Recorded Music Revenue Report, which reported...</p></details>
+   Link: <a href="https://www.riaa.com/reports/riaa-2024-year-end-us-market-latin-music-revenue-report-informe-de-ingresos-de-la-musica-latina-en-el-mercado-de-los-ee-uu-a-fines-de-2024-de-la-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/riaa-2024-year-end-us-market-latin-music-revenue-report-informe-de-ingresos-de-la-musica-latina-en-el-mercado-de-los-ee-uu-a-fines-de-2024-de-la-riaa/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA 2024 Year-End US Market Latin Music Revenue...The RIAA released its 2025 Year-End Recorded Music Revenue Report, which reported...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: riaa.com  
    Title: RIAA 2024 Year End US Market Latin Music Revenue Report  
-   Link: [https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf](https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUSIC REVENUE REPORT... The importance of streaming to Latin music fans i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: billboard.com  
    Title: luminate latin music growth numbers streaming super fans whatsapp 1235430663  
-   Link: [https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/](https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BillboardLatin Super Fans and Streaming Drive Latin Music Growth2 Oct 2023 — Latin super fans and double-digit growth in on-demand stream...</p></details>
+   Link: <a href="https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/business/business-news/luminate-latin-music-growth-numbers-streaming-super-fans-whatsapp-1235430663/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Super Fans and Streaming Drive Latin Music Growth2 Oct 2023 — Latin super fans and double-digit growth in on-demand stream...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/](https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARIAA Mid-Year 2024 US Latin Music Revenue Report...10 Oct 2024 — Latin increased 7% compared to the first half of 2023, led by paid...</p></details>
+   Link: <a href="https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Mid-Year 2024 US Latin Music Revenue Report...10 Oct 2024 — Latin increased 7% compared to the first half of 2023, led by paid...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: riaa.com  
    Title: riaa us market latin music revenues hit new high 18 above 2005 peak  
-   Link: [https://www.riaa.com/riaa-us-market-latin-music-revenues-hit-new-high-18-above-2005-peak/](https://www.riaa.com/riaa-us-market-latin-music-revenues-hit-new-high-18-above-2005-peak/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAAUS Market Latin Music Revenues Hit New High 18...1 Apr 2025 — With streaming delivering 98% of Latin revenues, Streaming is key for...</p></details>
+   Link: <a href="https://www.riaa.com/riaa-us-market-latin-music-revenues-hit-new-high-18-above-2005-peak/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-us-market-latin-music-revenues-hit-new-high-18-above-2005-peak/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Market Latin Music Revenues Hit New High 18...1 Apr 2025 — With streaming delivering 98% of Latin revenues, Streaming is key for...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: riaa.com  
    Title: YEAR END 2023 Latin RIAA Revenue Statistics  
-   Link: [https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf](https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf)  
+   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>YEAR-END 2023 LATIN RIAA REVENUE STATISTICSStreaming is the dominant choice of Latin music fans today, delivering more than 98% of total...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/](https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/)  
+   Link: <a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Latin Recorded Music Revenue Hits Nearly $500...17 Oct 2025 — Streaming dominated over all other [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;), providing 98% of this gain...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/riaa-mid-year-2025-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2025/](https://www.riaa.com/reports/riaa-mid-year-2025-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2025/)  
+   Link: <a href="https://www.riaa.com/reports/riaa-mid-year-2025-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/riaa-mid-year-2025-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Mid-Year 2025 US Latin Music Revenue Report...Streaming dominated over all other formats, providing 98% of this gain, as Latin musi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/reports/riaa-year-end-2025-us-latin-music-revenue-report-informe-anual-de-ingresos-de-la-musica-latina-en-ee-uu-de-riaa/](https://www.riaa.com/reports/riaa-year-end-2025-us-latin-music-revenue-report-informe-anual-de-ingresos-de-la-musica-latina-en-ee-uu-de-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/riaa-year-end-2025-us-latin-music-revenue-report-informe-anual-de-ingresos-de-la-musica-latina-en-ee-uu-de-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/riaa-year-end-2025-us-latin-music-revenue-report-informe-anual-de-ingresos-de-la-musica-latina-en-ee-uu-de-riaa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Year-End 2025 US Latin Music Revenue Report...In a new report, RIAA notes 2025 was the first year that Latin&#x27;s annual US revenue re...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: riaa.com  
    Title: 2025 year end music industry revenue report riaa  
-   Link: [https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/](https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/)  
+   Link: <a href="https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year-End Music Industry Revenue ReportThe RIAA released its 2025 Year-End Recorded Music Revenue Report, which reported that US whol...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nwRH_aly718](https://www.youtube.com/watch?v=nwRH_aly718)  
+   Link: <a href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nwRH_aly718</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ted data partner, unveils its new Latin Music Report exclusively at...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Title: The Rise of Latin Music: Why It's Dominating [Global Streaming](&#123;&#123; 'global-plays/' | relative_url &#125;&#125;)  
-   Link: [https://www.youtube.com/watch?v=wXJ-u_y5d6E](https://www.youtube.com/watch?v=wXJ-u_y5d6E)  
+   Title: The Rise of Latin Music: Why It's Dominating Global Streaming  
+   Link: <a href="https://www.youtube.com/watch?v=wXJ-u_y5d6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wXJ-u_y5d6E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Latin Music Became a Global Powerhouse...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: How Latin Music Became a Global Powerhouse  
-   Link: [https://www.youtube.com/watch?v=d_kS3q7M02A](https://www.youtube.com/watch?v=d_kS3q7M02A)  
+   Link: <a href="https://www.youtube.com/watch?v=d_kS3q7M02A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_kS3q7M02A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Business Behind the Latin Music Streaming Boom...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Business Behind the Latin Music Streaming Boom  
-   Link: [https://www.youtube.com/watch?v=s_v_5O-8qYg](https://www.youtube.com/watch?v=s_v_5O-8qYg)  
+   Link: <a href="https://www.youtube.com/watch?v=s_v_5O-8qYg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s_v_5O-8qYg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How US Latinos Are Shaping the Future of Media and Streaming...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: How US Latinos Are Shaping the Future of Media and Streaming  
-   Link: [https://www.youtube.com/watch?v=yW6M4cO2C-A](https://www.youtube.com/watch?v=yW6M4cO2C-A)  
+   Link: <a href="https://www.youtube.com/watch?v=yW6M4cO2C-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6M4cO2C-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Latin Music Is Taking Over: Cultural Influence and Digital Growth...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Why Latin Music Is Taking Over: Cultural Influence and Digital Growth  
-   Link: [https://www.youtube.com/watch?v=vV11-4oTz_E](https://www.youtube.com/watch?v=vV11-4oTz_E)  
+   Link: <a href="https://www.youtube.com/watch?v=vV11-4oTz_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV11-4oTz_E</a>  
 
 17. <a id="endnote-17"></a>
    Source: pewresearch.org  
    Title: Pew Research Center1  
-   Link: [https://www.pewresearch.org/journalism/2024/03/19/hispanic-americans-news-habits-and-sources/](https://www.pewresearch.org/journalism/2024/03/19/hispanic-americans-news-habits-and-sources/)  
+   Link: <a href="https://www.pewresearch.org/journalism/2024/03/19/hispanic-americans-news-habits-and-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/03/19/hispanic-americans-news-habits-and-sources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hispanic Americans&#x27; news habits and sourcesMarch 19, 2024 — 19 Mar 2024 — Among Latino adults ages 18 to 49, 73% prefer to get their news...</p></details>
    Published: March 19, 2024  
 
 18. <a id="endnote-18"></a>
    Source: luminatedata.com  
    Title: Luminate The Rise of US Listeners Engaging with Foreign Content  
-   Link: [https://luminatedata.com/blog/the-rise-of-us-listeners-engaging-with-foreign-content/](https://luminatedata.com/blog/the-rise-of-us-listeners-engaging-with-foreign-content/)  
+   Link: <a href="https://luminatedata.com/blog/the-rise-of-us-listeners-engaging-with-foreign-content/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/the-rise-of-us-listeners-engaging-with-foreign-content/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music 360 study, 30% of American music listeners listen to music originating from outside the country...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/latin-music-super-fans-spend-30-more-on-music-related-activities-than-other-music-super-fans-in-the-us-new-luminate-report-find123/](https://www.musicbusinessworldwide.com/latin-music-super-fans-spend-30-more-on-music-related-activities-than-other-music-super-fans-in-the-us-new-luminate-report-find123/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/latin-music-super-fans-spend-30-more-on-music-related-activities-than-other-music-super-fans-in-the-us-new-luminate-report-find123/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/latin-music-super-fans-spend-30-more-on-music-related-activities-than-other-music-super-fans-in-the-us-new-luminate-report-find123/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideLatin music superfans spend over 30% more on...October 3, 2023 — 3 Oct 2023 — The Luminate report found that Lat...</p></details>
    Published: October 3, 2023  
 
 20. <a id="endnote-20"></a>
    Source: thesis.eur.nl  
    Title: Jaques Oliveira dos Santos Nicole  
-   Link: [https://thesis.eur.nl/pub/55303/Jaques-Oliveira-dos-Santos-Nicole.pdf](https://thesis.eur.nl/pub/55303/Jaques-Oliveira-dos-Santos-Nicole.pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/55303/Jaques-Oliveira-dos-Santos-Nicole.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55303/Jaques-Oliveira-dos-Santos-Nicole.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music as a Genre in the American Market25 Jun 2020 — Latin music refers to music originating from a Latin country; those which are Spanis...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: luminatedata.com  
    Title: latin music grows the most among genres in q1  
-   Link: [https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/](https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/)  
+   Link: <a href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate8 Apr 2025 — Last week, the RIAA reported that the Latin music genre generated a record-breaking $1.4 billion in U.S...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/latin-music-generated-a-record-685m-in-us-recorded-music-revenues-in-the-first-half-of-2024-up-7/](https://www.musicbusinessworldwide.com/latin-music-generated-a-record-685m-in-us-recorded-music-revenues-in-the-first-half-of-2024-up-7/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/latin-music-generated-a-record-685m-in-us-recorded-music-revenues-in-the-first-half-of-2024-up-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/latin-music-generated-a-record-685m-in-us-recorded-music-revenues-in-the-first-half-of-2024-up-7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Music generated $685m in US recorded...10 Oct 2024 — US Latin Music revenues jumped 7.3% YoY in the first half of 2024, to $685.5...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: musicbusinessworldwide.com  
    Title: [latin musics](&#123;&#123; 'latin-music/' | relative_url &#125;&#125;) us revenues hit 1 42 billion in 2024 up 5 8 yoy  
-   Link: [https://www.musicbusinessworldwide.com/latin-musics-us-revenues-hit-1-42-billion-in-2024-up-5-8-yoy/](https://www.musicbusinessworldwide.com/latin-musics-us-revenues-hit-1-42-billion-in-2024-up-5-8-yoy/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/latin-musics-us-revenues-hit-1-42-billion-in-2024-up-5-8-yoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/latin-musics-us-revenues-hit-1-42-billion-in-2024-up-5-8-yoy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming revenues accounted for 98% of all revenue generated by Latin music in the US.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pewresearch.org  
    Title: how hispanic americans get their news  
-   Link: [https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/](https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/)  
+   Link: <a href="https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Mar 2024 — U.S.-born Latinos overwhelmingly prefer to get their news in English; about half of immigrant Latinos prefer it in Spanish...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dimastreaming_latin-musics-us-revenue-tops-1-billion-activity-7449557630064168960-8Qw-](https://www.linkedin.com/posts/dimastreaming_latin-musics-us-revenue-tops-1-billion-activity-7449557630064168960-8Qw-)  
+   Link: <a href="https://www.linkedin.com/posts/dimastreaming_latin-musics-us-revenue-tops-1-billion-activity-7449557630064168960-8Qw-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dimastreaming_latin-musics-us-revenue-tops-1-billion-activity-7449557630064168960-8Qw-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA: Latin Music Reaches $1B in US Revenue, 98% from...Latin music revenues reached $1 billion last year · 98% of that revenue came fro...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thetimes.com  
-   Link: [https://www.thetimes.com/culture/music/article/from-rosalia-to-bad-bunny-how-did-spanish-pop-conquer-the-world-bjg6j9sgj](https://www.thetimes.com/culture/music/article/from-rosalia-to-bad-bunny-how-did-spanish-pop-conquer-the-world-bjg6j9sgj)  
+   Link: <a href="https://www.thetimes.com/culture/music/article/from-rosalia-to-bad-bunny-how-did-spanish-pop-conquer-the-world-bjg6j9sgj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/culture/music/article/from-rosalia-to-bad-bunny-how-did-spanish-pop-conquer-the-world-bjg6j9sgj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Once niche performers, by 2026 they are selling out major UK arenas like the O2 and Tottenham Hotspur Stadium. Latin stars such as Karol...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: variety.com  
    Title: latin music revenue exceeds one billion third year riaa report 1236353141  
-   Link: [https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/](https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/)  
+   Link: <a href="https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Music Revenue Exceeds $1 Billion for Third Straight...1 Apr 2025 — Streaming made up 98% of that total, marking a 6% increase from...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: siriusxmmedia.com  
    Title: beyond the [charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;) why investing in latin streaming is a brand power move  
-   Link: [https://www.siriusxmmedia.com/insights/beyond-the-charts-why-investing-in-latin-streaming-is-a-brand-power-move](https://www.siriusxmmedia.com/insights/beyond-the-charts-why-investing-in-latin-streaming-is-a-brand-power-move)  
+   Link: <a href="https://www.siriusxmmedia.com/insights/beyond-the-charts-why-investing-in-latin-streaming-is-a-brand-power-move" target="_blank" rel="noopener noreferrer nofollow">https://www.siriusxmmedia.com/insights/beyond-the-charts-why-investing-in-latin-streaming-is-a-brand-power-move</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Latin Streaming Drives Audience Engagement and...9 Sept 2025 — Discover why investing in Latin streaming is a brand power move, as L...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
    Title: How Streaming Is Reshaping Latin American Music Culture[Show full  
-   Link: [https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados](https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados)  
+   Link: <a href="https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>abstract] streaming platforms such as Spotify and video-based social media sites such as TikTok becoming the primary means for music cons...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: midiaresearch.com  
    Title: audiobooks latin explosion a new front in the streaming wars  
-   Link: [https://www.midiaresearch.com/blog/audiobooks-latin-explosion-a-new-front-in-the-streaming-wars](https://www.midiaresearch.com/blog/audiobooks-latin-explosion-a-new-front-in-the-streaming-wars)  
+   Link: <a href="https://www.midiaresearch.com/blog/audiobooks-latin-explosion-a-new-front-in-the-streaming-wars" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/audiobooks-latin-explosion-a-new-front-in-the-streaming-wars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Audiobooks&#x27; Latin explosion — a new front in the streaming...2 Feb 2024 — As streaming and demographic shifts bring a second Latin explo...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: newindustryfocus.com  
    Title: latin music approaches 500m in mid 2025 revenue says riaa  
-   Link: [https://newindustryfocus.com/articles/latin-music-approaches-500m-in-mid-2025-revenue-says-riaa](https://newindustryfocus.com/articles/latin-music-approaches-500m-in-mid-2025-revenue-says-riaa)  
+   Link: <a href="https://newindustryfocus.com/articles/latin-music-approaches-500m-in-mid-2025-revenue-says-riaa" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/latin-music-approaches-500m-in-mid-2025-revenue-says-riaa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Music Approaches $500M in Mid-2025 Revenue...20 Oct 2025 — The RIAA reports US Latin music revenue grew 5.9% to $490.3M in H1 2025...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: variety.com  
    Title: latin music riaa mid year peak luminate report 1235742660  
-   Link: [https://variety.com/2023/music/news/latin-music-riaa-mid-year-peak-luminate-report-1235742660/](https://variety.com/2023/music/news/latin-music-riaa-mid-year-peak-luminate-report-1235742660/)  
+   Link: <a href="https://variety.com/2023/music/news/latin-music-riaa-mid-year-peak-luminate-report-1235742660/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2023/music/news/latin-music-riaa-mid-year-peak-luminate-report-1235742660/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Music Revenue Hits Peak of $627M in 2023, Música...2 Oct 2023 — Luminate&#x27;s Latin Music Report also found that Hispanic listeners a...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: winformusic.org  
-   Link: [https://winformusic.org/independent-labels-drive-artists-digital-success-according-to-latin-american-independent-music-observatory-report/](https://winformusic.org/independent-labels-drive-artists-digital-success-according-to-latin-american-independent-music-observatory-report/)  
+   Link: <a href="https://winformusic.org/independent-labels-drive-artists-digital-success-according-to-latin-american-independent-music-observatory-report/" target="_blank" rel="noopener noreferrer nofollow">https://winformusic.org/independent-labels-drive-artists-digital-success-according-to-latin-american-independent-music-observatory-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the growth of streaming in recent years, there is still a heavy...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DO89kwqgHHw/](https://www.instagram.com/p/DO89kwqgHHw/)  
+   Link: <a href="https://www.instagram.com/p/DO89kwqgHHw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DO89kwqgHHw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rent ages. What catches their attention while browsing...Read more...</p></details>

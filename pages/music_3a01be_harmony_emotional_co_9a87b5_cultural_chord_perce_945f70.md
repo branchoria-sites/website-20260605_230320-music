@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260
 - music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1
 tags:
-- music
+- music-3-a01-be
 - harmony
 - cultural-context
 keywords:
-- music
+- music-3-a01-be
 - harmony
 - cultural-context
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Cultural background, musical exposure, and personal experience influence how listeners interpret major and minor chords emotionally.
 hero_summary: Cultural background, musical exposure, and personal experience influence how listeners interpret major and minor chords emotionally.
 layout: default
 permalink: /cultural-context/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /harmony/
 nav_short_title: Cultural Context
 title: Why Major and Minor Chords Feel Different Across Cultures
-title_full: Why Major and Minor Chords Feel Different Across Cultures | Harmony
+title_full: Why Major and Minor Chords Feel Different Across Cultures
 display_title_short: Cultural Context
 display_title: Cultural Context
 heading_title: Why Major and Minor Chords Feel Different Across Cultures
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Harmony Changes What Music Means | Music
+parent_title: How Harmony Changes What Music Means
 parent_permalink: /harmony/
 parent_nav_short_title: Harmony
 parent_heading_title: How Harmony Changes What Music Means
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Unresolved Chords Keep Music Emotionally Open
 up_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -265,7 +265,7 @@ next_link:
   permalink: /melody-harmony/
   short_title: Melody & Harmony
   heading_title: How Harmony Reinterprets the Emotional Meaning of a Melody
-date: '2026-06-09 07:25:46 '
+date: '2026-06-11 23:44:20 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1.webp
@@ -276,47 +276,34 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_pe
 
 Listeners’ emotional responses to major and minor chords are not fixed biological reactions; instead, they are shaped strongly by **cultural context, musical exposure, and individual experience**. While Western traditions often teach that major chords “sound happy” and minor chords “sound sad,” evidence from music cognition research reveals that these associations vary with cultural familiarity, exposure to specific musical systems, and expertise. In some cultures with little to no exposure to Western [harmony]({{ 'harmony/' | relative_url }}), people do *not* automatically prefer major over minor or interpret one as universally positive and the other as negative. This section synthesises empirical findings on how culture and listener [background]({{ 'background/' | relative_url }}) influence major–minor emotional perception within the broader framework of harmony’s role in music emotion.[Nature]
 
-
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1-dark.svg" | relative_url }}" alt="Cultural Context illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Western Convention and Emotional Categorisation
 
-In Western classical and popular [music]({{ 'music/' | relative_url }}) traditions, major chords are statistically more common, more stable in the tonal syntax, and thus culturally reinforced as associated with *pleasantness* and positive affect, while minor chords, being relatively less frequent and acoustically less “stable,” are culturally linked with *sadness* or introspective affect. This conventional association emerges not solely from intrinsic acoustic properties but from repeated pairing in music listening and composition within a Western harmonic idiom. Studies with Western listeners frequently find that **major chords are rated as more pleasant and less tense than minor chords**, even when tested in isolation or at the ends of chord sequences that imply tonal completion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
+In Western classical and popular music traditions, major chords are statistically more common, more stable in the tonal syntax, and thus culturally reinforced as associated with *pleasantness* and positive affect, while minor chords, being relatively less frequent and acoustically less “stable,” are culturally linked with *sadness* or introspective affect. This conventional association emerges not solely from intrinsic acoustic properties but from repeated pairing in music listening and composition within a Western harmonic idiom. Studies with Western listeners frequently find that **major chords are rated as more pleasant and less tense than minor chords**, even when tested in isolation or at the ends of chord sequences that imply tonal completion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
 
-However, as the literature review on the major–minor dichotomy notes, **neural and psychological responses are heavily influenced by subjective perception**, including cultural exposure, age, and expertise, rather than being fixed, universal responses to these chord types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BQRKmiEGPug" title="Consonance and Dissonance - Music as Biology: What We Like to Hear and Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BQRKmiEGPug" target="_blank" rel="noopener noreferrer">Consonance and Dissonance - Music as Biology: What We Like to Hear and Why</a></p><p class="youtube-embed-meta">Channel: Đinh Ðức Mạnh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BQRKmiEGPug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BQRKmiEGPug">Open on YouTube</a></p></div></div></div>
+However, as the literature review on the major–minor dichotomy notes, **neural and psychological responses are heavily influenced by subjective perception**, including cultural exposure, age, and expertise, rather than being fixed, universal responses to these chord types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
 
 ## Cross‑Cultural Findings: Universality and Variation
 
-A key insight from cross‑cultural music research is that **listeners without exposure to Western harmonic systems do not automatically attribute the same emotional meanings to major and minor chords that Western listeners do**. The seminal study of native Amazonians (the Tsimané and related groups) found that, unlike Western listeners who consistently prefer consonant intervals and chords, these groups often show **no aversion to dissonant combinations and no strong preference for consonance**, suggesting that emotional valence judgments tied to harmonic conventions are not universal but culturally learned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureCultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension | Scienti...</span></span></span>
+A key insight from cross‑cultural music research is that **listeners without exposure to Western harmonic systems do not automatically attribute the same emotional meanings to major and minor chords that Western listeners do**. The seminal study of native Amazonians (the Tsimané and related groups) found that, unlike Western listeners who consistently prefer consonant intervals and chords, these groups often show **no aversion to dissonant combinations and no strong preference for consonance**, suggesting that emotional valence judgments tied to harmonic conventions are not universal but culturally learned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension &#124; Scienti...</span></span></span>
 
-Similarly, other cross‑cultural studies involving participants from different musical cultures (for example, researchers working with tribal groups with limited exposure to Western music) have reported **little or no consistent association between major/minor cadences and emotional labels** such as “happy” versus “sad.” In contrast, listeners familiar with Western harmony typically make such associations. These results indicate that simply hearing a particular chord quality does not innately evoke a specific emotional valence unless that association has been learned through cultural exposure and musical experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSHarmonic organisation conveys both universal and culture-specific cues for emotional expression in music | PLOS OneJanuary 13, 2021...</span><span class="citation-popover-meta">Published: January 13, 2021</span></span></span>
-
+Similarly, other cross‑cultural studies involving participants from different musical cultures (for example, researchers working with tribal groups with limited exposure to Western music) have reported **little or no consistent association between major/minor cadences and emotional labels** such as “happy” versus “sad.” In contrast, listeners familiar with Western harmony typically make such associations. These results indicate that simply hearing a particular chord quality does not innately evoke a specific emotional valence unless that association has been learned through cultural exposure and musical experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Harmonic organisation conveys both universal and culture-specific cues for emotional expression in music &#124; PLOS OneJanuary 13, 2021...</span><span class="citation-popover-meta">Published: January 13, 2021</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-2-dark.svg" | relative_url }}" alt="Cultural Context illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Role of Familiarity, Expertise, and Listener Background
 
-Beyond broad cultural background, **familiarity with a given musical system and formal training also shape how major and minor chords are perceived**. A study examining consonance and dissonance perception showed that **cultural familiarity and musical expertise modulate how pleasant or harmonious listeners find chords**, even if they do not dramatically alter perceived tension. Specifically, cultural familiarity significantly affected correlations among perceptual concepts like consonance, pleasantness, and preference across both musicians and non‑musicians, though the effect patterns differed with expertise level. This underscores that experience with particular musical styles influences not just preference but how emotional meaning is parsed in sound combinations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/nature18635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureIndifference to dissonance in native Amazonians reveals cultural variation in music perception | Nature...</span></span></span>
+Beyond broad cultural background, **familiarity with a given musical system and formal training also shape how major and minor chords are perceived**. A study examining consonance and dissonance perception showed that **cultural familiarity and musical expertise modulate how pleasant or harmonious listeners find chords**, even if they do not dramatically alter perceived tension. Specifically, cultural familiarity significantly affected correlations among perceptual concepts like consonance, pleasantness, and preference across both musicians and non‑musicians, though the effect patterns differed with expertise level. This underscores that experience with particular musical styles influences not just preference but how emotional meaning is parsed in sound combinations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/nature18635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Indifference to dissonance in native Amazonians reveals cultural variation in music perception &#124; Nature...</span></span></span>
 
-These findings align with broader analyses suggesting that the typical Western major‑minor emotional framing arises from an interplay between **psychoacoustic factors** (like roughness, harmonicity) and **cultural learning** — neither alone suffices to explain listeners’ emotional interpretations across cultural contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4f-jYGt-hwE" title="Dissonance is the Heart of Good Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4f-jYGt-hwE" target="_blank" rel="noopener noreferrer">Dissonance is the Heart of Good Music</a></p><p class="youtube-embed-meta">Channel: David Bruce Composer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4f-jYGt-hwE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4f-jYGt-hwE">Open on YouTube</a></p></div></div></div>
+These findings align with broader analyses suggesting that the typical Western major‑minor emotional framing arises from an interplay between **psychoacoustic factors** (like roughness, harmonicity) and **cultural learning** — neither alone suffices to explain listeners’ emotional interpretations across cultural contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
 
 ## Listener Variability: Age and Development
 
-Although less extensively explored than cultural exposure, **age and developmental experience** also contribute to how emotional connotations of major and minor modes are perceived. Reviews of research on major–minor perception note that **sensitivity and affective evaluation are influenced by both age and expertise**, suggesting that younger listeners or those with less exposure to structured harmonic systems may not share the same emotional associations as more experienced listeners. These individual differences further emphasise that emotional responses to harmony are learned and dynamic, shaped by cumulative listening history rather than fixed human universals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectModerating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
-
+Although less extensively explored than cultural exposure, **age and developmental experience** also contribute to how emotional connotations of major and minor modes are perceived. Reviews of research on major–minor perception note that **sensitivity and affective evaluation are influenced by both age and expertise**, suggesting that younger listeners or those with less exposure to structured harmonic systems may not share the same emotional associations as more experienced listeners. These individual differences further emphasise that emotional responses to harmony are learned and dynamic, shaped by cumulative listening history rather than fixed human universals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-3-dark.svg" | relative_url }}" alt="Cultural Context illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-Across cultures and listener groups, emotional interpretations of major and minor chords are not predetermined by the acoustic properties alone but are deeply intertwined with **cultural familiarity, exposure to specific musical traditions, and individual musical experience**. Western associations of major with positive emotion and minor with negative emotion reflect a learned convention within a tonal system rather than a universal perceptual response. While some aspects of chord perception — such as basic discrimination between consonance and dissonance — may be partly rooted in psychoacoustic processing, the emotional valence attributed to specific harmonic qualities emerges largely from cultural context and listening history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureCultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension | Scienti...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LDm-TmcSBc" title="Major and Minor Tonality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LDm-TmcSBc" target="_blank" rel="noopener noreferrer">Major and Minor Tonality</a></p><p class="youtube-embed-meta">Channel: Jean McKen</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LDm-TmcSBc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LDm-TmcSBc">Open on YouTube</a></p></div></div></div>
-
+Across cultures and listener groups, emotional interpretations of major and minor chords are not predetermined by the acoustic properties alone but are deeply intertwined with **cultural familiarity, exposure to specific musical traditions, and individual musical experience**. Western associations of major with positive emotion and minor with negative emotion reflect a learned convention within a tonal system rather than a universal perceptual response. While some aspects of chord perception — such as basic discrimination between consonance and dissonance — may be partly rooted in psychoacoustic processing, the emotional valence attributed to specific harmonic qualities emerges largely from cultural context and listening history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension &#124; Scienti...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -435,15 +422,15 @@ Across cultures and listener groups, emotional interpretations of major and mino
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3da66661fb182f8ee92d.jpg' | relative_url }}" alt="Listing image for Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present"><img src="https://i.ebayimg.com/images/g/-dMAAOSw71RkEuzW/s-l225.jpg" alt="Listing image for Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -451,15 +438,15 @@ Across cultures and listener groups, emotional interpretations of major and mino
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="{{ '/assets/images/marketplace-covers/eeb9c1a6ec9b01f5b83d.jpg' | relative_url }}" alt="Listing image for QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="https://i.ebayimg.com/images/g/N4AAAOSwp09hn6kk/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">QUEEN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,15 +454,15 @@ Across cultures and listener groups, emotional interpretations of major and mino
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions"><img src="{{ '/assets/images/marketplace-covers/a42f8e5429b7e9050048.jpg' | relative_url }}" alt="Listing image for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="https://i.ebayimg.com/images/g/4H8AAOSw5qNhsgaV/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +470,15 @@ Across cultures and listener groups, emotional interpretations of major and mino
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/07c05df666af11e959e6.jpg' | relative_url }}" alt="Listing image for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart"><img src="https://i.ebayimg.com/images/g/~CkAAOSwHwNhpP7g/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,7 +486,7 @@ Across cultures and listener groups, emotional interpretations of major and mino
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="cultural-context-why-major-and-minor-chords-feel-different-across-cultures-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -714,41 +701,41 @@ Across cultures and listener groups, emotional interpretations of major and mino
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-020-65615-8](https://www.nature.com/articles/s41598-020-65615-8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureCultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension | Scienti...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-65615-8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension | Scienti...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/nature18635](https://www.nature.com/articles/nature18635)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureIndifference to dissonance in native Amazonians reveals cultural variation in music perception | Nature...</p></details>
+   Link: <a href="https://www.nature.com/articles/nature18635" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature18635</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indifference to dissonance in native Amazonians reveals cultural variation in music perception | Nature...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825000034](https://www.sciencedirect.com/science/article/pii/S0001691825000034)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectModerating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</p></details>
    Published: March 1, 2025  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The major-minor mode dichotomy in music perception  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1571064524001672](https://www.sciencedirect.com/science/article/pii/S1571064524001672)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe major-minor mode dichotomy in music perception - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The major-minor mode dichotomy in music perception - ScienceDirect...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSHarmonic organisation conveys both universal and [culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;)-specific cues for emotional expression in music | PLOS OneJanuary 13, 2021...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmonic organisation conveys both universal and [culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;)-specific cues for emotional expression in music | PLOS OneJanuary 13, 2021...</p></details>
    Published: January 13, 2021  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1571064522000665](https://www.sciencedirect.com/science/article/pii/S1571064522000665)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectConsonance and dissonance perception. A critical review of the historical sources, multidisciplinary findings, and main hypo...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064522000665" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064522000665</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consonance and dissonance perception. A critical review of the historical sources, multidisciplinary findings, and main hypo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: The preattentive processing of major vs  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291](https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>minor chords in the human brain: An event-related potential study - ScienceDirectJanuary 10, 2011 — NEUROSCIENCE LETTERS Volume 487, Issu...</p></details>
    Published: January 10, 2011  
 
@@ -756,50 +743,50 @@ Across cultures and listener groups, emotional interpretations of major and mino
 
 8. <a id="endnote-8"></a>
    Source: pure.au.dk  
-   Link: [https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/](https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/)  
+   Link: <a href="https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aarhus UniversityEMOTION PROCESSING OF MAJOR, MINOR, AND DISSONANT CHORDS: A FUNCTIONAL MAGNETIC RESONANCE IMAGING STUDY. * Karen Johanne...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pure.au.dk  
-   Link: [https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/](https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/)  
+   Link: <a href="https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - Aarhus UniversitetMarch 1, 2003 — EMOTIONAL CONNOTATION...</p></details>
    Published: March 1, 2003  
 
 10. <a id="endnote-10"></a>
    Source: pure.au.dk  
-   Link: [https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music](https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music)  
+   Link: <a href="https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - Aarhus UniversityMarch 1, 2003 — EMOTIONAL CONNOTATIONS...</p></details>
    Published: March 1, 2003  
 
 12. <a id="endnote-12"></a>
    Source: researchportal.helsinki.fi  
-   Link: [https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music](https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music)  
+   Link: <a href="https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - University of HelsinkiEMOTIONAL CONNOTATIONS OF MAJOR A...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cir.nii.ac.jp  
-   Link: [https://cir.nii.ac.jp/crid/1360298765114259200](https://cir.nii.ac.jp/crid/1360298765114259200)  
+   Link: <a href="https://cir.nii.ac.jp/crid/1360298765114259200" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360298765114259200</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Major-Minor and Consonance-Dissonance | CiNii ResearchApril 1, 2017 — NEUROCOGNITION OF MAJOR-MINOR AND CONSONANCE-DISSONANCE DOI PDF...</p></details>
    Published: April 1, 2017  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32457382/](https://pubmed.ncbi.nlm.nih.gov/32457382/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32457382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32457382/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2020 May 26;10(1):8693. doi: 10.1038/s41598-020-65615-8. CULTURAL FAMILIARITY AND MUSICAL EXPERTISE IMPACT THE PLEASANTNESS OF CONSONANCE...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24957406/](https://pubmed.ncbi.nlm.nih.gov/24957406/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24957406/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24957406/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2015 Mar;15(1):15-31. doi: 10.3758/s13415-014-0309-4. MUSICAL CHORDS AND EMOTION: MAJOR AND MINOR TRIADS ARE PROCESSED FOR EMOTION David...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>influences conscious appraisal of, but not automatic aversion to, acoustically rough musical intervals - PMCDecember 5, 2023 — INTRODUCTI...</p></details>
    Published: December 5, 2023  
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCJuly 1, 2008 — 1.3 CHORD CATEGORIZATION Testing these hypotheses requires an experimental design that would directly assess this perce...</p></details>
-   Published: July 1, 2008  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2008 — 1.3 CHORD CATEGORIZATION Testing these hypotheses requires an experimental design that would directly assess this perce...</p></details>
+   Published: July 1, 2008

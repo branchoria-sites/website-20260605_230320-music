@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e
 - music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919
 tags:
-- music
+- music-3-a01-be
 - short-clips
 - clip-tradeoffs
 keywords:
-- music
+- music-3-a01-be
 - short-clips
 - clip-tradeoffs
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Songwriters face a tradeoff between creating a shareable snippet and maintaining depth across the entire track.
 hero_summary: Songwriters face a tradeoff between creating a shareable snippet and maintaining depth across the entire track.
 layout: default
 permalink: /clip-tradeoffs/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /short-clips/
 nav_short_title: Clip Tradeoffs
 title: When a Viral Snippet Hurts the Full Song
-title_full: When a Viral Snippet Hurts the Full Song | Short Clips
+title_full: When a Viral Snippet Hurts the Full Song
 display_title_short: Clip Tradeoffs
 display_title: Clip Tradeoffs
 heading_title: When a Viral Snippet Hurts the Full Song
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Short Clips Reshape Hit Songs | Music
+parent_title: How Short Clips Reshape Hit Songs
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: How Short Clips Reshape Hit Songs
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the Chorus Is No Longer the Only Hook
 up_link:
   basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -265,7 +265,7 @@ next_link:
   permalink: /early-hooks/
   short_title: Early Hooks
   heading_title: How Fast Does a Song Need to Grab You?
-date: '2026-06-09 07:48:44 '
+date: '2026-06-11 23:56:05 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwr
 ## Introduction
 
 Writing for short-form platforms creates a genuine songwriting dilemma. A song may need a memorable 10–20 second section that works independently in a video clip, yet listeners who stream the entire track still expect momentum, development and emotional payoff. The challenge is not simply creating a viral moment; it is ensuring that the moment serves the song rather than replacing it.
-
 
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-dark.svg" | relative_url }}" alt="Clip Tradeoffs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most successful contemporary writers increasingly treat clips as entry points rather than destinations. A shareable fragment can attract [attention]({{ 'attention/' | relative_url }}), but the complete song still has to reward deeper listening. The difference between a durable hit and a disposable trend often lies in whether the viral section feels like a doorway into a larger musical experience or merely the only interesting part of the track. Berklee songwriting faculty have noted that writers are paying closer attention to small structural details that make songs immediately recognisable on platforms such as TikTok, while still needing complete compositions that hold together beyond a few seconds of playback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
@@ -305,8 +304,7 @@ Several recurring mistakes appear when writers optimise too aggressively for sho
 
 These failures often produce songs that perform well in brief exposure but have limited replay value as complete recordings.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DCTil7LLZ5E" title="How to Write a Song: Use Imagery and Small Moments | Part 1/9 | Andrea Stolpe | American Songwriter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DCTil7LLZ5E" target="_blank" rel="noopener noreferrer">How to Write a Song: Use Imagery and Small Moments | Part 1/9 | Andrea Stolpe | American Songwriter</a></p><p class="youtube-embed-meta">Channel: Berklee Online &middot; Views: 39.2K &middot; Uploaded: November 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DCTil7LLZ5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DCTil7LLZ5E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUrRgbrMa34" title="Songwriting: Melody, Harmony, and Rhythm | Developing Melodic Hooks | Berklee | Scarlet Keys 15/24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer">Songwriting: Melody, Harmony, and Rhythm | Developing Melodic Hooks | Berklee | Scarlet Keys 15/24</a></p><p class="youtube-embed-meta">Channel: Berklee Online &middot; Views: 14.6K &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUrRgbrMa34">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Hooks and Development
 
@@ -335,7 +333,6 @@ One reason many enduring hits survive platform changes is that listeners continu
 
 A writer can therefore ask two separate questions:
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-2-dark.svg" | relative_url }}" alt="Clip Tradeoffs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. What makes somebody stop scrolling?
 2. What makes somebody stay for three minutes?
@@ -352,7 +349,6 @@ Historically, many songs were organised around one dominant chorus. Contemporary
 
 A song might contain:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * An opening line suitable for lip-sync videos.
@@ -367,7 +363,6 @@ This approach reduces pressure on any single section and encourages different au
 
 The success of many TikTok-driven songs demonstrates that [viral moments]({{ 'viral-moments/' | relative_url }}) are not always choruses. Bridges, second verses, spoken interjections and production breaks have all become entry points for discovery. Berklee's analysis similarly notes that distinctive structural devices can become recognisable hooks in their own right. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cNBn5miA8EA" title="Full Songwriting Course: Becoming a Songwriter (+Free PDF Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer">Full Songwriting Course: Becoming a Songwriter (+Free PDF Guide)</a></p><p class="youtube-embed-meta">Channel: Andrea Stolpe &middot; Views: 329.7K &middot; Uploaded: January 2025 &middot; Length: 2 hours 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cNBn5miA8EA">Open on YouTube</a></p></div></div></div>
 
 ### Building a Song Around Questions
@@ -377,7 +372,6 @@ Another practical technique is leaving listeners curious.
 A clip often presents an emotional statement, but the full song can provide the explanation. If the viral section raises a question that the rest of the track answers, the relationship becomes complementary rather than competitive.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +384,6 @@ Examples include:
 
 In these cases, the clip generates interest precisely because it is incomplete.
 
-
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-3-dark.svg" | relative_url }}" alt="Clip Tradeoffs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Sustainable Tradeoff
 
@@ -400,9 +393,7 @@ Songs become weaker when writers assume listeners will never hear beyond the vir
 
 That distinction increasingly defines the difference between a moment that trends and a song that lasts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUrRgbrMa34" title="Songwriting: Melody, Harmony, and Rhythm | Developing Melodic Hooks | Berklee | Scarlet Keys 15/24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer">Songwriting: Melody, Harmony, and Rhythm | Developing Melodic Hooks | Berklee | Scarlet Keys 15/24</a></p><p class="youtube-embed-meta">Channel: Berklee Online &middot; Views: 14.6K &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUrRgbrMa34">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wo6CAG6VNO8" title="TikTok Broke Pop Songwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer">TikTok Broke Pop Songwriting</a></p><p class="youtube-embed-meta">Channel: Maya Wagner &middot; Views: 40.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wo6CAG6VNO8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -801,73 +792,73 @@ That distinction increasingly defines the difference between a moment that trend
 1. <a id="endnote-1"></a>
    Source: berklee.edu  
    Title: tiktok is changing the dna of hit songs and artists are taking note  
-   Link: [https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note](https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note)  
+   Link: <a href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: college.berklee.edu  
-   Link: [https://college.berklee.edu/songwriting](https://college.berklee.edu/songwriting)  
+   Link: <a href="https://college.berklee.edu/songwriting" target="_blank" rel="noopener noreferrer nofollow">https://college.berklee.edu/songwriting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DepartmentThe Songwriting Department offers a Bachelor of Music in songwriting. Students majoring in songwriting master [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), harmony...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newyorker.com  
    Title: The New Yorker The Inescapable Charm of Steve Lacy's "Bad Habit"  
-   Link: [https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit](https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit)  
+   Link: <a href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: barbican.org.uk  
-   Link: [https://www.barbican.org.uk/whats-on/2025/event/steve](https://www.barbican.org.uk/whats-on/2025/event/steve)  
+   Link: <a href="https://www.barbican.org.uk/whats-on/2025/event/steve" target="_blank" rel="noopener noreferrer nofollow">https://www.barbican.org.uk/whats-on/2025/event/steve</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Oct 2025 — In the mid 1990s, head teacher Steve (Cillian Murphy) struggles to keep a reform boys&#x27; school afloat. The crumbling manor la...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/](https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/)  
+   Link: <a href="https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/](https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/)  
+   Link: <a href="https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is TikTok really re-shaping how artists are writing their...’ve been noticing more and more how TikTok is influencing the way songs are...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/](https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/)  
+   Link: <a href="https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/</a>  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cNBn5miA8EA](https://www.youtube.com/watch?v=cNBn5miA8EA)  
+   Link: <a href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cNBn5miA8EA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Songwriting Course: Becoming a Songwriter (+Free PDF...Becoming a Songwriter – free course on YouTube + a free companion guide! Sta...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Wo6CAG6VNO8](https://www.youtube.com/watch?v=Wo6CAG6VNO8)  
+   Link: <a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wo6CAG6VNO8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Broke Pop SongwritingIn this *video essay* I break down how the rise of short-form video erased traditional song form, why the hoo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRFStrrjZXV/](https://www.instagram.com/reel/DRFStrrjZXV/)  
+   Link: <a href="https://www.instagram.com/reel/DRFStrrjZXV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRFStrrjZXV/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d my students a challenge to write what I call a story hook song...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: netflix.com  
    Title: steve trailer tim mielants interview  
-   Link: [https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview](https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview)  
+   Link: <a href="https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Steve&#x27;: Interview with Director Tim Mielants3 Oct 2025 — Over one intense day, the devoted head teacher of a last-chance reform school s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: it.scribd.com  
    Title: Berklee Basic Melody Songwriting  
-   Link: [https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting](https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting)  
+   Link: <a href="https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The melody should be notated in a clear-cut but accurate fashion · 2. If a section of a song is repeated and some melodic rhythms and · 3...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DCTil7LLZ5E](https://www.youtube.com/watch?v=DCTil7LLZ5E)  
+   Link: <a href="https://www.youtube.com/watch?v=DCTil7LLZ5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCTil7LLZ5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write a Song: Use Imagery and Small Moments | Part 1...How to Write a Song: Verses Carry the Story, Chorus Carries the Message |...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UUrRgbrMa34](https://www.youtube.com/watch?v=UUrRgbrMa34)  
+   Link: <a href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UUrRgbrMa34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scarlet Keys 15/24. 14K views · 5 years ago...more. Berklee...</p></details>

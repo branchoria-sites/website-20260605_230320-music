@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_music_metadata_payme_5a11f4_live_setlists_songwr_f8d095
 - music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6
 tags:
-- music
+- music-3-a01-be
 - metadata
 - song-splits
 keywords:
-- music
+- music-3-a01-be
 - metadata
 - song-splits
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A known song can still go unpaid when co-writer, publisher, or ownership shares are late, disputed, or registered inconsistently.
 hero_summary: A known song can still go unpaid when co-writer, publisher, or ownership shares are late, disputed, or registered inconsistently.
 layout: default
 permalink: /song-splits/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /metadata/
 nav_short_title: Song Splits
 title: Why song splits can freeze royalty money
-title_full: Why song splits can freeze royalty money | Metadata
+title_full: Why song splits can freeze royalty money
 display_title_short: Song Splits
 display_title: Song Splits
 heading_title: Why song splits can freeze royalty money
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Bad Music Data Costs Creators Money | Music
+parent_title: Why Bad Music Data Costs Creators Money
 parent_permalink: /metadata/
 parent_nav_short_title: Metadata
 parent_heading_title: Why Bad Music Data Costs Creators Money
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Where unpaid royalties wait for better data
 up_link:
   basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music
+  title: Metadata | Music 3 A01 Be
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -265,7 +265,7 @@ next_link:
   permalink: /unmatched-pools/
   short_title: Unmatched Pools
   heading_title: Where unpaid royalties wait for better data
-date: '2026-06-09 06:59:04 '
+date: '2026-06-11 23:31:08 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royal
 
 A song can be streamed, broadcast and performed thousands of times, yet the money generated from those uses may sit unpaid if nobody can confidently say who owns what percentage of the composition. In music [publishing]({{ 'publishing/' | relative_url }}), those percentages are known as **song splits**. They determine how royalty income is divided among songwriters, composers and publishers. When split information is missing, incomplete, disputed or registered inconsistently across databases, royalty systems often cannot distribute the money with confidence. Instead, payments may be suspended, partially withheld, placed into unmatched or unclaimed royalty pools, or held until the [ownership]({{ 'ownership/' | relative_url }}) question is resolved. This is one of the most common ways that music metadata problems turn directly into delayed income for creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-1-dark.svg" | relative_url }}" alt="Song Splits illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What a split decides before royalties can move
 
-A song split is the agreed percentage ownership of a musical work. If two writers create a song and agree to a 50/50 split, each writer is entitled to half of the songwriter share. More complex collaborations may involve multiple writers, producers and publishers with different percentages assigned to each participant. [PRS for [Music]({{ 'music/' | relative_url }})](#endnote-6 "Snippet: PRS for MusicHow to calculate your songwriting splits23 Jan 2014 — The author of a work is the first owner of any copyright in it (except")
+A song split is the agreed percentage ownership of a musical work. If two writers create a song and agree to a 50/50 split, each writer is entitled to half of the songwriter share. More complex collaborations may involve multiple writers, producers and publishers with different percentages assigned to each participant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/business-and-money/calculate-songwriting-splits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">calculate songwriting splits</span><span class="citation-popover-snippet">PRS for MusicHow to calculate your songwriting splits23 Jan 2014 — The author of a work is the first owner of any copyright in it (except...</span></span></span>
 
 Those percentages are not merely accounting details. They are the instructions that collecting societies, publishers and [licensing]({{ 'licensing/' | relative_url }}) organisations use when distributing money. Before [royalties]({{ 'royalties/' | relative_url }}) can be paid, systems need to know:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +306,6 @@ Another problem arises when only part of a song's ownership is registered. The M
 
 In practice, that means:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * One writer may receive payment for their registered share.
@@ -319,9 +316,6 @@ In practice, that means:
 </div>
 
 The longer the uncertainty lasts, the larger the held balance can become.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
 
 ## Common split mistakes that block payment
 
@@ -349,7 +343,6 @@ Industry administrators often refer to these situations as duplicate claims or c
 
 When this happens, payment systems cannot simply guess who is correct.
 
-
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-2-dark.svg" | relative_url }}" alt="Song Splits illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Publisher changes are not updated
 
@@ -369,7 +362,6 @@ This can affect songs for years if the underlying disagreement is not settled.
 
 Disputes typically fall into several categories:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Disagreement about who wrote the work.
@@ -381,7 +373,6 @@ Disputes typically fall into several categories:
 
 Each category creates uncertainty about entitlement, and uncertainty is the enemy of efficient royalty distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.songtrust.com/knowledge/what-are-counter-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.songtrust.com">[Songtrust Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.songtrust.com</span><span class="citation-popover-title">Help Center What are Counter Claims?</span><span class="citation-popover-snippet">HELP CENTERConflicting claims (also known as counterclaims or duplicate claims) occur when there is a miscommunication between co-writers...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-3-dark.svg" | relative_url }}" alt="Song Splits illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The growing problem of unmatched and unclaimed royalties
 
@@ -391,7 +382,7 @@ The MLC receives royalties that cannot yet be matched to the correct rights hold
 
 The scale can be substantial. Following implementation of the US Music Modernization Act framework, more than $424 million in historical unmatched royalties were transferred to the MLC for matching and distribution efforts. Those funds represented uses that had generated money but could not be fully connected to the correct ownership records at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
 
-While not every [unmatched royalty]({{ 'unmatched-pools/' | relative_url }}) stems from split disputes, incomplete ownership and registration data are among the central reasons money enters these pools in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The MLC&#x27;s most important job is to identify and locate musical work copyright owners and match...Read more...</span></span></span>
+While not every unmatched royalty stems from split disputes, incomplete ownership and registration data are among the central reasons money enters these pools in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The MLC&#x27;s most important job is to identify and locate musical work copyright owners and match...Read more...</span></span></span>
 
 ## How writers and publishers reduce disputes
 
@@ -400,7 +391,6 @@ The most effective solution is remarkably simple: establish ownership before the
 Professional publishing workflows increasingly encourage writers to confirm splits immediately after a writing session. A written split sheet creates a shared record before memories fade or commercial success changes incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/business-and-money/calculate-songwriting-splits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">calculate songwriting splits</span><span class="citation-popover-snippet">PRS for MusicHow to calculate your songwriting splits23 Jan 2014 — The author of a work is the first owner of any copyright in it (except...</span></span></span>
 
 Writers and publishers also reduce risk by:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -413,9 +403,6 @@ Writers and publishers also reduce risk by:
 </div>
 
 The goal is not merely administrative accuracy. It is payment readiness. Every completed ownership record gives royalty systems the information they need to move money from usage reports to the correct people.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fyr511Ru6Xw" title="Music Royalties Explained: Copyrights, Royalties and More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fyr511Ru6Xw" target="_blank" rel="noopener noreferrer">Music Royalties Explained: Copyrights, Royalties and More</a></p><p class="youtube-embed-meta">Channel: Money &amp; Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fyr511Ru6Xw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fyr511Ru6Xw">Open on YouTube</a></p></div></div></div>
 
 ## Why split accuracy matters more than many creators realise
 
@@ -542,15 +529,15 @@ For that reason, song splits are not merely paperwork attached to a composition.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/f36fafaa0c0dc72c77fd.jpg' | relative_url }}" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruce Springsteen 1 American Singer Songwriter Poster Famous Black and White"><img src="https://i.ebayimg.com/images/g/kq4AAOSwjodaCDtO/s-l225.jpg" alt="Listing image for Bruce Springsteen 1 American Singer Songwriter Poster Famous Black and White" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Bruce Springsteen 1 American Singer Songwriter Poster Famous Black and White</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +545,15 @@ For that reason, song splits are not merely paperwork attached to a composition.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/89a57bd18b95212d2151.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JUSTIN HAYWARD SONGWRITER POSTER SIZED original music press advert from 1977"><img src="https://i.ebayimg.com/images/g/70sAAeSwiSJpzPm2/s-l225.jpg" alt="Listing image for JUSTIN HAYWARD SONGWRITER POSTER SIZED original music press advert from 1977" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">JUSTIN HAYWARD SONGWRITER POSTER SIZED original music press advert from 1977</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +561,15 @@ For that reason, song splits are not merely paperwork attached to a composition.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/211283313ca41c76e9be.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/bgsAAeSwRvVp1TeJ/s-l225.jpg" alt="Listing image for singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +577,15 @@ For that reason, song splits are not merely paperwork attached to a composition.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9ccc377cc6ca7080ad81.jpg' | relative_url }}" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IPkAAeSwPIZp1~RX/s-l225.jpg" alt="Listing image for singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">singer songwriter Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,7 +593,7 @@ For that reason, song splits are not merely paperwork attached to a composition.
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="song-splits-why-song-splits-can-freeze-royalty-money-music-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-song-splits-can-freeze-royalty-money-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-song-splits-can-freeze-royalty-money-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -822,127 +809,127 @@ For that reason, song splits are not merely paperwork attached to a composition.
 1. <a id="endnote-1"></a>
    Source: help.songtrust.com  
    Title: Help Center What are Counter Claims?  
-   Link: [https://help.songtrust.com/knowledge/what-are-counter-claims](https://help.songtrust.com/knowledge/what-are-counter-claims)  
+   Link: <a href="https://help.songtrust.com/knowledge/what-are-counter-claims" target="_blank" rel="noopener noreferrer nofollow">https://help.songtrust.com/knowledge/what-are-counter-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HELP CENTERConflicting claims (also known as counterclaims or duplicate claims) occur when there is a miscommunication between co-writers...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pitchfork.com  
-   Link: [https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective](https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective)  
+   Link: <a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: copyright.gov  
    Title: unclaimed royalties final report  
-   Link: [https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf](https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf)  
+   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeUnclaimed Royalties: Best Practice Recommendations for...8 Jul 2021 — from copyright owners and songwriters related to s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: themlc.com  
    Title: Mechanical Licensing Collective The MLC Lawyer Toolkit  
-   Link: [https://www.themlc.com/hubfs/Website/The%20MLC%20Lawyer%20Toolkit%20-%20V4.0.pdf](https://www.themlc.com/hubfs/Website/The%20MLC%20Lawyer%20Toolkit%20-%20V4.0.pdf)  
+   Link: <a href="https://www.themlc.com/hubfs/Website/The%20MLC%20Lawyer%20Toolkit%20-%20V4.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/hubfs/Website/The%20MLC%20Lawyer%20Toolkit%20-%20V4.0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveThe MLC Lawyer ToolkitJanuary 14, 2025 — Unmatched Royalties - The MLC uses the term unmatched royalties t...</p></details>
    Published: January 14, 2025  
 
 5. <a id="endnote-5"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/](https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC&#x27;s most important job is to identify and locate musical work copyright owners and match...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: prsformusic.com  
    Title: calculate songwriting splits  
-   Link: [https://www.prsformusic.com/m-magazine/business-and-money/calculate-songwriting-splits](https://www.prsformusic.com/m-magazine/business-and-money/calculate-songwriting-splits)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/business-and-money/calculate-songwriting-splits" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/business-and-money/calculate-songwriting-splits</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicHow to calculate your songwriting splits23 Jan 2014 — The author of a work is the first owner of any copyright in it (except...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx](https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/copyright/rules-governing-disputes-and-duplicate-claims-update.ashx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music follow when the control of copyright within a Musical. Work, or entitlement to Royalties in...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/works/counterclaims](https://www.prsformusic.com/works/counterclaims)  
+   Link: <a href="https://www.prsformusic.com/works/counterclaims" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/counterclaims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicClaims and counterclaimsIn line with the Rules, the relevant royalties will be held in suspense until the dispute is resolve...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/your-statement/back-claims](https://www.prsformusic.com/royalties/your-statement/back-claims)  
+   Link: <a href="https://www.prsformusic.com/royalties/your-statement/back-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/your-statement/back-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Back claimsAs a member, you can claim for up to three years of back-dated royalties, as long as you were a member during this period.Read...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/claim-unpaid-royalties](https://www.prsformusic.com/royalties/claim-unpaid-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/claim-unpaid-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/claim-unpaid-royalties</a>  
 
 11. <a id="endnote-11"></a>
    Source: prsformusic.com  
    Title: prs for music statement  
-   Link: [https://www.prsformusic.com/c/prs-for-music-statement](https://www.prsformusic.com/c/prs-for-music-statement)  
+   Link: <a href="https://www.prsformusic.com/c/prs-for-music-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/c/prs-for-music-statement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Aug 2025 — The Tribunal clearly identified that the class was effectively suing itself. It also noted that it was not clear how PRS wo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iqmagazine.com  
-   Link: [https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/](https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/)  
+   Link: <a href="https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.iqmagazine.com/2024/06/prs-for-music-sued-by-songwriters-over-royalties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music sued by songwriters over royaltiesA group of UK songwriters and composers has initiated legal action against their own coll...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newindustryfocus.com  
    Title: prs for music files legal claim against gaming distribution service steam  
-   Link: [https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam](https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam)  
+   Link: <a href="https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/prs-for-music-files-legal-claim-against-gaming-distribution-service-steam</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music Files Legal Claim Against Gaming...11 Mar 2026 — UK collection society PRS for Music is suing Valve Corporation, alleging...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: prssongwriterclaim.co.uk  
-   Link: [https://www.prssongwriterclaim.co.uk/about/](https://www.prssongwriterclaim.co.uk/about/)  
+   Link: <a href="https://www.prssongwriterclaim.co.uk/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.prssongwriterclaim.co.uk/about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Performing Rights SocietyThis website has been created to inform you of your important legal rights related to a legal claim (proposed co...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2020/09/17/2020-20079/reporting-and-distribution-of-royalties-to-copyright-owners-by-the-mechanical-licensing-collective](https://www.federalregister.gov/documents/2020/09/17/2020-20079/reporting-and-distribution-of-royalties-to-copyright-owners-by-the-mechanical-licensing-collective)  
+   Link: <a href="https://www.federalregister.gov/documents/2020/09/17/2020-20079/reporting-and-distribution-of-royalties-to-copyright-owners-by-the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2020/09/17/2020-20079/reporting-and-distribution-of-royalties-to-copyright-owners-by-the-mechanical-licensing-collective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting and Distribution of Royalties to Copyright...17 Sept 2020 — The Office understands the MLC intends to provide a number of alte...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/marketing/music-licensing-insights/guide-to-music-splits-and-royalty-payouts/](https://www.linkedin.com/top-content/marketing/music-licensing-insights/guide-to-music-splits-and-royalty-payouts/)  
+   Link: <a href="https://www.linkedin.com/top-content/marketing/music-licensing-insights/guide-to-music-splits-and-royalty-payouts/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/marketing/music-licensing-insights/guide-to-music-splits-and-royalty-payouts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Music Splits and Royalty PayoutsMusic splits refer to the percentage each person involved gets from a song, while royalty payout...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: 3pb.co.uk  
-   Link: [https://www.3pb.co.uk/barristers/mark-wilden/](https://www.3pb.co.uk/barristers/mark-wilden/)  
+   Link: <a href="https://www.3pb.co.uk/barristers/mark-wilden/" target="_blank" rel="noopener noreferrer nofollow">https://www.3pb.co.uk/barristers/mark-wilden/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark WildenBrice v Universal Music Publishing Limited (IPEC): For claimant in claim for a declaration of ownership of copyright in a comm...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: law.unh.edu  
-   Link: [https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf](https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf)  
+   Link: <a href="https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>royalties: tackling the music industry&#x27;s copyright data...by AJ SHARP · Cited by 3 — A uniform data entry process would ensure contribut...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/fairciviljustice_many-will-have-missed-this-but-last-week-activity-7369372950623457280-snwY](https://www.linkedin.com/posts/fairciviljustice_many-will-have-missed-this-but-last-week-activity-7369372950623457280-snwY)  
+   Link: <a href="https://www.linkedin.com/posts/fairciviljustice_many-will-have-missed-this-but-last-week-activity-7369372950623457280-snwY" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fairciviljustice_many-will-have-missed-this-but-last-week-activity-7369372950623457280-snwY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tribunal rejects songwriters&#x27; claim against PRS for Music4 Sept 2025 — Many will have missed this, but last week the Competition Appeal T...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/craigcharsley_prs-sues-gaming-platform-giant-steam-for-activity-7437111044092792833-ghn_](https://www.linkedin.com/posts/craigcharsley_prs-sues-gaming-platform-giant-steam-for-activity-7437111044092792833-ghn_)  
+   Link: <a href="https://www.linkedin.com/posts/craigcharsley_prs-sues-gaming-platform-giant-steam-for-activity-7437111044092792833-ghn_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/craigcharsley_prs-sues-gaming-platform-giant-steam-for-activity-7437111044092792833-ghn_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS royalties impact on game development and music artistsSome of the concerns, about the inner workings of the copyright markets, music...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties](https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties)  
+   Link: <a href="https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jun/25/jesus-and-mary-chain-robert-fripp-and-more-sue-prs-for-music-over-concert-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesus and Mary Chain, Robert Fripp and more sue PRS for...25 Jun 2024 — The lawsuit – which PRS says it will “vigorously defend” – centr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DRk5cFFiOov/](https://www.instagram.com/p/DRk5cFFiOov/)  
+   Link: <a href="https://www.instagram.com/p/DRk5cFFiOov/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRk5cFFiOov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Royalties Disputes Are Handled At The MLC | Join Our Community for the Full...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: collyerbristow.com  
-   Link: [https://collyerbristow.com/longer-reads/a-summary-of-the-dispute-between-prs-and-livenow/](https://collyerbristow.com/longer-reads/a-summary-of-the-dispute-between-prs-and-livenow/)  
+   Link: <a href="https://collyerbristow.com/longer-reads/a-summary-of-the-dispute-between-prs-and-livenow/" target="_blank" rel="noopener noreferrer nofollow">https://collyerbristow.com/longer-reads/a-summary-of-the-dispute-between-prs-and-livenow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS, LIVENow, and the business of responsible...7 Feb 2023 — Most songwriters have assigned their copyright to music publishers who coll...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/372001017008917/posts/1966808790861457/](https://www.facebook.com/groups/372001017008917/posts/1966808790861457/)  
+   Link: <a href="https://www.facebook.com/groups/372001017008917/posts/1966808790861457/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/372001017008917/posts/1966808790861457/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ies would be handed over to publishers based on market share.Read more...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-streaming-artist-rev/
 description: Focused pages that expand on Royalties.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_streaming_artist_rev_0dcd6e
-parent_title: Royalties | Music
+parent_title: Royalties
 parent_nav_short_title: Royalties
 parent_permalink: /royalties/
 ---

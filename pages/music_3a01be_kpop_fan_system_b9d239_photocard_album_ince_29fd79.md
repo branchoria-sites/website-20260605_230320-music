@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3
 - music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1
 tags:
-- music
+- music-3-a01-be
 - k-pop
 - photocards
 keywords:
-- music
+- music-3-a01-be
 - k-pop
 - photocards
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: K-pop albums sell as collectibles because random photocards, versions and fan-event chances make one release worth buying more than once.
 hero_summary: K-pop albums sell as collectibles because random photocards, versions and fan-event chances make one release worth buying more than once.
 layout: default
 permalink: /photocards/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /k-pop/
 nav_short_title: Photocards
 title: Why fans buy albums they do not play
-title_full: Why fans buy albums they do not play | K Pop
+title_full: Why fans buy albums they do not play
 display_title_short: Photocards
 display_title: Photocards
 heading_title: Why fans buy albums they do not play
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How K Pop Built A Global Fan Machine | Music
+parent_title: How K Pop Built A Global Fan Machine
 parent_permalink: /k-pop/
 parent_nav_short_title: K Pop
 parent_heading_title: How K Pop Built A Global Fan Machine
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why fan apps matter to K pop's business
 up_link:
   basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -259,7 +259,7 @@ prev_link:
   permalink: /fan-platforms/
   short_title: Fan Platforms
   heading_title: Why fan apps matter to K pop's business
-date: '2026-06-09 06:33:40 '
+date: '2026-06-11 23:18:10 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-1.webp
@@ -270,11 +270,10 @@ image: /assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_2
 
 K-pop [albums]({{ 'albums/' | relative_url }}) are often purchased for reasons that go far beyond listening to music. In a streaming era where songs are available instantly online, [physical]({{ 'physical/' | relative_url }}) K-pop releases have been redesigned as collectible fan products. Random photocards, multiple album versions, exclusive retailer bonuses and entries into fan-sign or video-call lotteries give fans reasons to buy the same release more than once. The result is a sales model in which the album functions partly as music and partly as a collectible system. This approach has helped drive extraordinary physical sales figures, but it has also generated debate about consumer spending pressures, chart inflation and environmental waste. KCA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-1-dark.svg" | relative_url }}" alt="Photocards illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What comes inside a collectible K-pop album
 
-A modern K-pop album is usually packaged less like a traditional CD and more like a collector's box. Beyond the disc itself, releases often contain photobooks, postcards, stickers, posters and, most importantly, random photocards featuring individual members. Researchers studying K-pop CD purchases in the United States found that these inserts are a major reason fans continue buying physical albums despite widespread streaming. Many buyers reported collecting, trading and displaying photocards as a central motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">ResearchGateThe Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span>
+A modern K-pop album is usually packaged less like a traditional CD and more like a collector's box. Beyond the disc itself, releases often contain photobooks, postcards, stickers, posters and, most importantly, random photocards featuring individual members. Researchers studying K-pop CD purchases in the United States found that these inserts are a major reason fans continue buying physical albums despite widespread streaming. Many buyers reported collecting, trading and displaying photocards as a central motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">The Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span>
 
 Photocards resemble trading cards in both size and behaviour. Fans rarely know which member they will receive before opening the album. A group with many members may distribute dozens of possible cards across several album versions, creating [scarcity]({{ 'scarcity/' | relative_url }}) and uncertainty. The card therefore becomes more than a photograph: it becomes a collectible item with perceived rarity and social value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
 
@@ -286,7 +285,6 @@ The key mechanism is randomness. Because buyers cannot choose which member card 
 
 This randomness creates several linked behaviours:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Repeat purchases:** Fans buy additional albums to improve their chances of receiving desired cards.
@@ -296,29 +294,25 @@ This randomness creates several linked behaviours:
 
 </div>
 
-Researchers and fan studies consistently describe photocards as a major driver of collecting behaviour. Fans often discuss "pulls" from album openings in the same way trading-card collectors discuss rare finds. The excitement comes not only from [ownership]({{ 'ownership/' | relative_url }}) but also from uncertainty and the possibility of obtaining a sought-after card. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">ResearchGateThe Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
+Researchers and fan studies consistently describe photocards as a major driver of collecting behaviour. Fans often discuss "pulls" from album openings in the same way trading-card collectors discuss rare finds. The excitement comes not only from [ownership]({{ 'ownership/' | relative_url }}) but also from uncertainty and the possibility of obtaining a sought-after card. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">The Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
 
 The scale can become remarkable. Reporting on the photocard market surrounding the group Seventeen noted that one album campaign involved hundreds of unique card variations across different versions and promotions. Marketing experts interviewed for that coverage described photocards as tangible indicators of [fan loyalty]({{ 'fan-loyalty/' | relative_url }}) and acknowledged that some collectors purchase very large numbers of albums in pursuit of complete sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amounts—up to $25,000...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LTry_VnyKgE" title="Album Sales Are No Longer Impressive and This Is Why (Photocards, Fancalls, &amp; Dumpsters)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LTry_VnyKgE" target="_blank" rel="noopener noreferrer">Album Sales Are No Longer Impressive and This Is Why (Photocards, Fancalls, &amp; Dumpsters)</a></p><p class="youtube-embed-meta">Channel: Midnight Theories &middot; Views: 12.6K &middot; Uploaded: June 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LTry_VnyKgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LTry_VnyKgE">Open on YouTube</a></p></div></div></div>
 
 ### Trading turns collecting into a social activity
 
 An important feature of the system is that it encourages interaction between fans. Because no single purchase guarantees a complete collection, collectors frequently trade online or at dedicated events. This transforms album buying into an ongoing social activity rather than a one-time transaction.
 
-For many fans, obtaining a desired card through trading becomes part of the entertainment. The album sale therefore generates further engagement long after the [music]({{ 'music/' | relative_url }}) has been released. Researchers have noted that photocards help create distinct collecting subcultures within larger fandoms, complete with display practices, wish lists and trading etiquette. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
+For many fans, obtaining a desired card through trading becomes part of the entertainment. The album sale therefore generates further engagement long after the music has been released. Researchers have noted that photocards help create distinct collecting subcultures within larger fandoms, complete with display practices, wish lists and trading etiquette. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
 
 ## Why multiple album versions matter
 
-Photocards are only one part of the incentive structure. Entertainment companies commonly release several versions of the same album, each featuring different packaging, artwork, concept photos or exclusive inserts.
+Photocards are only one part of the incentive structure. Entertainment companies commonly release several versions of the same album, each featuring different packaging, [artwork]({{ 'artwork/' | relative_url }}), concept photos or exclusive inserts.
 
-A fan who wants every photobook, cover design or version-specific photocard may purchase multiple copies of what is musically the same release. Different retailers may also offer unique pre-order benefits, creating further incentives to buy from several stores. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40carrie.wells71/types-of-k-pop-photocards-what-should-you-be-collecting-d1e13b478635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">These types of photocards usually cost between $5 to $12 USD.Read more</span><span class="citation-popover-snippet">MediumTypes of K-Pop Photocards: What Should You Be Collecting?September 12, 2022 — Depending on the group there may be more than one ran...</span><span class="citation-popover-meta">Published: September 12, 2022</span></span></span>
+A fan who wants every photobook, cover design or version-specific photocard may purchase multiple copies of what is musically the same release. Different retailers may also offer unique pre-order benefits, creating further incentives to buy from several stores. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40carrie.wells71/types-of-k-pop-photocards-what-should-you-be-collecting-d1e13b478635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">These types of photocards usually cost between $5 to $12 USD.Read more</span><span class="citation-popover-snippet">Types of K-Pop Photocards: What Should You Be Collecting?September 12, 2022 — Depending on the group there may be more than one ran...</span><span class="citation-popover-meta">Published: September 12, 2022</span></span></span>
 
-This strategy expands the number of possible collecting targets. Instead of choosing between buying an album or not buying it, fans may face decisions about collecting one version, several versions or every version available. Online fan discussions frequently cite version-exclusive photocards and event benefits as reasons for purchasing multiple copies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpop_uncensored/comments/1ig3oe3/kpop_is_overdoing_it_with_there_album_versions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Kpop is overdoing it with there Album versions</span><span class="citation-popover-snippet">RedditKpop is overdoing it with there Album versionsFebruary 2, 2025 — every version has its own photocards, its own postcards, its own p...</span><span class="citation-popover-meta">Published: February 2, 2025</span></span></span>
+This strategy expands the number of possible collecting targets. Instead of choosing between buying an album or not buying it, fans may face decisions about collecting one version, several versions or every version available. Online fan discussions frequently cite version-exclusive photocards and event benefits as reasons for purchasing multiple copies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpop_uncensored/comments/1ig3oe3/kpop_is_overdoing_it_with_there_album_versions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Kpop is overdoing it with there Album versions</span><span class="citation-popover-snippet">Kpop is overdoing it with there Album versionsFebruary 2, 2025 — every version has its own photocards, its own postcards, its own p...</span><span class="citation-popover-meta">Published: February 2, 2025</span></span></span>
 
 The approach is not unique to K-pop—variant editions exist elsewhere in popular music—but K-pop has arguably systematised the practice more thoroughly by combining alternate versions with random inserts, retailer exclusives and fan-event incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/style/2025/12/03/album-[variants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Taylor Swift, dubbed the “variant queen,” epitomizes this strategy with her album &quot;The Life of a Showgirl,&quot; which had over two dozen phys...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-2-dark.svg" | relative_url }}" alt="Photocards illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why fan-call and raffle events increase album purchases
@@ -328,7 +322,6 @@ Many releases add another layer of incentive: [access]({{ 'access/' | relative_u
 In these systems, each album purchased generally provides another chance to win. Because winners are often selected through a raffle process, fans seeking better odds may buy numerous copies. Retailers and official platforms regularly advertise album-linked raffle events that provide exclusive photocards or opportunities to interact with artists. [Weverse](#endnote-5 "Snippet: Weverse<span class="citation-chip-wrap"><a class="citation-chip" href="https://weverse.io/seventeen/notice/29847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[NOTICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] CxM 1st Mini Album [HYPE VIBES] Pre-order...All customers who entered the raffle will get 1 unreleased selfie photocard...</span></span></span> CxM 1st Mini Album <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/seventeen/notice/29847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[HYPE VIBES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] CxM 1st Mini Album [HYPE VIBES] Pre-order...All customers who entered the raffle will get 1 unreleased selfie photocard...</span></span></span> Pre-order...All customers who entered the raffle will get 1 unreleased selfie photocard...") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpopbazaar.com.au/pages/k-pop-bazaar-q-a-video-call-fansign-events?srsltid=AfmBOop0w60RGCXc3nNkvpd4FPvVjlu6q3x0-zTLTMVfRg_reEH1mtu2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpopbazaar.com.au">[2K-POP BAZAAR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpopbazaar.com.au</span><span class="citation-popover-title">K-POP BAZAARK-POP BAZAAR Q&amp;A</span><span class="citation-popover-snippet">Video Call &amp; Fansign EventsPurchase one (1) album or more through our video call/fan sign event on our website. One (1) album purchase eq...</span></span></span>
 
 This creates a powerful combination. A single album purchase can simultaneously offer:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,33 +334,28 @@ This creates a powerful combination. A single album purchase can simultaneously 
 
 Each incentive reinforces the others, making additional purchases appear more valuable than the music alone would justify.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eNqgnd49V54" title="KOREA BOX | Look what&#x27;s inside..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eNqgnd49V54" target="_blank" rel="noopener noreferrer">KOREA BOX | Look what&#x27;s inside...</a></p><p class="youtube-embed-meta">Channel: GILLTYYY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eNqgnd49V54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eNqgnd49V54">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LTry_VnyKgE" title="Album Sales Are No Longer Impressive and This Is Why (Photocards, Fancalls, &amp; Dumpsters)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LTry_VnyKgE" target="_blank" rel="noopener noreferrer">Album Sales Are No Longer Impressive and This Is Why (Photocards, Fancalls, &amp; Dumpsters)</a></p><p class="youtube-embed-meta">Channel: Midnight Theories &middot; Views: 12.6K &middot; Uploaded: June 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LTry_VnyKgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LTry_VnyKgE">Open on YouTube</a></p></div></div></div>
 
 ## Why physical sales can outpace listening needs
 
 One of the most unusual outcomes of this model is the separation of album ownership from music consumption. Many fans already stream the songs digitally, yet still buy physical albums because the collectible contents have value independent of the CD.
 
-Research on K-pop CD buyers found that not all purchasers regularly play the discs they buy. Instead, albums serve decorative, commemorative and collecting functions. Photocards, packaging and displays often become more important than the playback medium itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">ResearchGateThe Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span>
+Research on K-pop CD buyers found that not all purchasers regularly play the discs they buy. Instead, albums serve decorative, commemorative and collecting functions. Photocards, packaging and displays often become more important than the playback medium itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">The Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span>
 
 This helps explain how K-pop has maintained exceptionally strong physical sales while much of the global music industry shifted toward streaming. South Korea's physical album market has continued growing even as CD listening has declined, a trend widely linked to collectability, fan incentives and album version strategies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20230920/how-smart-albums-are-reshaping-k-pops-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">how smart albums are reshaping k pops future</span><span class="citation-popover-snippet">Korea TimesInvasion of &#x27;smart&#x27; albums20 Sept 2023 — They reached a new high of 80 million last year, jumping more than 25 percent from 20...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VIzuoc8TSRs" title="the history &amp; criticisms of kpop photocard collecting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VIzuoc8TSRs" target="_blank" rel="noopener noreferrer">the history &amp; criticisms of kpop photocard collecting</a></p><p class="youtube-embed-meta">Channel: nhi&#x27;s space</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VIzuoc8TSRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VIzuoc8TSRs">Open on YouTube</a></p></div></div></div>
-
 ## The criticism: when collecting becomes consumption pressure
 
-The same mechanisms that drive engagement also attract criticism. Critics argue that randomised collectibles and multiple versions can encourage excessive spending, particularly among highly devoted fans. Because chart rankings, awards and public records often reward sales volume, some fans feel pressure to buy multiple copies as a demonstration of support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kontinentalist.com">[Kontinentalist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kontinentalist.com</span><span class="citation-popover-title">kpop physical album sales environmental impact</span><span class="citation-popover-snippet">KontinentalistThe Physical Phenomenon20 Oct 2025 — Physical album sales are still essential determinants for an artist&#x27;s chart performanc...</span></span></span>
+The same mechanisms that drive engagement also attract criticism. Critics argue that randomised collectibles and multiple versions can encourage excessive spending, particularly among highly devoted fans. Because chart rankings, awards and public records often reward sales volume, some fans feel pressure to buy multiple copies as a demonstration of support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kontinentalist.com">[Kontinentalist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kontinentalist.com</span><span class="citation-popover-title">kpop physical album sales environmental impact</span><span class="citation-popover-snippet">The Physical Phenomenon20 Oct 2025 — Physical album sales are still essential determinants for an artist&#x27;s chart performanc...</span></span></span>
 
-Environmental concerns have become especially prominent. Reports on the industry have noted that many buyers are primarily interested in photocards, event entries or packaging rather than the CDs themselves. Environmental campaigners have pointed to cases where large quantities of albums are discarded after the collectible items are removed. Physical album sales have risen dramatically even as streaming dominates everyday listening, leading critics to question the sustainability of the model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://times.uos.ac.kr/news/articleView.html?idxno=10800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: times.uos.ac.kr">[times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">times.uos.ac.kr</span><span class="citation-popover-title">article View</span><span class="citation-popover-snippet">Hidden Environmental Toll of K-POP Albums17 Jun 2024 — As album sales rise rapidly and global environmental concerns intensify, K-POP and...</span></span></span> Supporters counter that fans are making voluntary purchases and that collecting is a legitimate hobby, comparable to trading cards, comics or other fandom-based collectibles. From this perspective, photocards and album versions provide enjoyment, community participation and a tangible connection to artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">ResearchGateThe Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span>
-
+Environmental concerns have become especially prominent. Reports on the industry have noted that many buyers are primarily interested in photocards, event entries or packaging rather than the CDs themselves. Environmental campaigners have pointed to cases where large quantities of albums are discarded after the collectible items are removed. Physical album sales have risen dramatically even as streaming dominates everyday listening, leading critics to question the sustainability of the model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://times.uos.ac.kr/news/articleView.html?idxno=10800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: times.uos.ac.kr">[times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">times.uos.ac.kr</span><span class="citation-popover-title">article View</span><span class="citation-popover-snippet">Hidden Environmental Toll of K-POP Albums17 Jun 2024 — As album sales rise rapidly and global environmental concerns intensify, K-POP and...</span></span></span> Supporters counter that fans are making voluntary purchases and that collecting is a legitimate hobby, comparable to trading cards, comics or other fandom-based collectibles. From this perspective, photocards and album versions provide enjoyment, community participation and a tangible connection to artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">The Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-3-dark.svg" | relative_url }}" alt="Photocards illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the system matters
 
 Photocards and multiple album versions reveal how K-pop transformed a declining format into a thriving fan product. Instead of selling a disc that merely contains music, companies sell a package of uncertainty, collectability, social interaction and status. Random inserts encourage trading and repeat purchases, while alternate versions and event lotteries multiply the reasons to buy.
 
-The result is one of the clearest examples of how K-pop turns music into a broader fan system: the album remains important not because listeners need another way to hear the songs, but because the physical object itself has become part of the fandom experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amounts—up to $25,000...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">ResearchGateThe Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[3eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
+The result is one of the clearest examples of how K-pop turns music into a broader fan system: the album remains important not because listeners need another way to hear the songs, but because the physical object itself has become part of the fandom experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amounts—up to $25,000...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">The Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[3eCampus Ontario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,138 +753,138 @@ The result is one of the clearest examples of how K-pop turns music into a broad
 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/](https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/)  
+   Link: <a href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Activist group Kpop4planet, which highlights the excessive waste, plans to address this issue during the United Nations negotiations on p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc  
-   Link: [https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States](https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateThe Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Appeal, Popularity, and Uses of K-pop Compact Disc...December 31, 2025 — 30 Apr 2026 — This study aims to understand the...</p></details>
    Published: December 31, 2025  
 
 3. <a id="endnote-3"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/](https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/comm3p18/chapter/brynnas-test-chapter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eCampus Ontario PressbooksQuality over Quantity: K-Pop Fans and Physical Album...by B Rafferty · 2023 — What sets K-Pop apart, however...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
    Title: These types of photocards usually cost between $5 to $12 USD.Read more  
-   Link: [https://medium.com/%40carrie.wells71/types-of-k-pop-photocards-what-should-you-be-collecting-d1e13b478635](https://medium.com/%40carrie.wells71/types-of-k-pop-photocards-what-should-you-be-collecting-d1e13b478635)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumTypes of K-Pop Photocards: What Should You Be Collecting?September 12, 2022 — Depending on the group there may be more than one ran...</p></details>
+   Link: <a href="https://medium.com/%40carrie.wells71/types-of-k-pop-photocards-what-should-you-be-collecting-d1e13b478635" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40carrie.wells71/types-of-k-pop-photocards-what-should-you-be-collecting-d1e13b478635</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of K-Pop Photocards: What Should You Be Collecting?September 12, 2022 — Depending on the group there may be more than one ran...</p></details>
    Published: September 12, 2022  
 
 5. <a id="endnote-5"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/seventeen/notice/29847](https://weverse.io/seventeen/notice/29847)  
+   Link: <a href="https://weverse.io/seventeen/notice/29847" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/seventeen/notice/29847</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse[NOTICE] CxM 1st Mini Album [HYPE VIBES] Pre-order...All customers who entered the raffle will get 1 unreleased selfie photocard...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Kpop is overdoing it with there Album versions  
-   Link: [https://www.reddit.com/r/kpop_uncensored/comments/1ig3oe3/kpop_is_overdoing_it_with_there_album_versions/](https://www.reddit.com/r/kpop_uncensored/comments/1ig3oe3/kpop_is_overdoing_it_with_there_album_versions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditKpop is overdoing it with there Album versionsFebruary 2, 2025 — every version has its own photocards, its own postcards, its own p...</p></details>
+   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1ig3oe3/kpop_is_overdoing_it_with_there_album_versions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1ig3oe3/kpop_is_overdoing_it_with_there_album_versions/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kpop is overdoing it with there Album versionsFebruary 2, 2025 — every version has its own photocards, its own postcards, its own p...</p></details>
    Published: February 2, 2025  
 
 7. <a id="endnote-7"></a>
    Source: kontinentalist.com  
    Title: kpop physical album sales environmental impact  
-   Link: [https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact](https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KontinentalistThe Physical Phenomenon20 Oct 2025 — Physical album sales are still essential determinants for an artist&#x27;s chart performanc...</p></details>
+   Link: <a href="https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact" target="_blank" rel="noopener noreferrer nofollow">https://kontinentalist.com/stories/kpop-physical-album-sales-environmental-impact</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physical Phenomenon20 Oct 2025 — Physical album sales are still essential determinants for an artist&#x27;s chart performanc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpophelp/comments/o4q8zf/photocards_and_album_sales/](https://www.reddit.com/r/kpophelp/comments/o4q8zf/photocards_and_album_sales/)  
+   Link: <a href="https://www.reddit.com/r/kpophelp/comments/o4q8zf/photocards_and_album_sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpophelp/comments/o4q8zf/photocards_and_album_sales/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: circle chart has release its annual 2025 best  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/1q9ocik/circle_chart_has_release_its_annual_2025_best/](https://www.reddit.com/r/kpopthoughts/comments/1q9ocik/circle_chart_has_release_its_annual_2025_best/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1q9ocik/circle_chart_has_release_its_annual_2025_best/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1q9ocik/circle_chart_has_release_its_annual_2025_best/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Selling ArtistThe public yearly chart only shows the top 100, so you&#x27;ll miss out on if a group had multiple albums that sold less than th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a](https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a)  
+   Link: <a href="https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>country or blamed on a specific group of people.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: koreatimes.co.kr  
    Title: how smart albums are reshaping k pops future  
-   Link: [https://www.koreatimes.co.kr/entertainment/k-pop/20230920/how-smart-albums-are-reshaping-k-pops-future](https://www.koreatimes.co.kr/entertainment/k-pop/20230920/how-smart-albums-are-reshaping-k-pops-future)  
+   Link: <a href="https://www.koreatimes.co.kr/entertainment/k-pop/20230920/how-smart-albums-are-reshaping-k-pops-future" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20230920/how-smart-albums-are-reshaping-k-pops-future</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea TimesInvasion of &#x27;smart&#x27; albums20 Sept 2023 — They reached a new high of 80 million last year, jumping more than 25 percent from 20...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6](https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6)  
+   Link: <a href="https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/business-k-pop-boy-paper-photo-trading-cards-hybe-seventeen-2025-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With their May 26 album release featuring 264 unique cards, fans like Jackie Ko and Kia Pastoral spend significant amounts—up to $25,000...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/style/2025/12/03/album-[variants](https://www.washingtonpost.com/style/2025/12/03/album-[variants)  
+   Link: <a href="https://www.washingtonpost.com/style/2025/12/03/album-[variants" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/style/2025/12/03/album-[variants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift, dubbed the “variant queen,” epitomizes this strategy with her album &quot;The Life of a Showgirl,&quot; which had over two dozen phys...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kpopbazaar.com.au  
    Title: K-POP BAZAARK-POP BAZAAR Q&A  
-   Link: [https://www.kpopbazaar.com.au/pages/k-pop-bazaar-q-a-video-call-fansign-events?srsltid=AfmBOop0w60RGCXc3nNkvpd4FPvVjlu6q3x0-zTLTMVfRg_reEH1mtu2](https://www.kpopbazaar.com.au/pages/k-pop-bazaar-q-a-video-call-fansign-events?srsltid=AfmBOop0w60RGCXc3nNkvpd4FPvVjlu6q3x0-zTLTMVfRg_reEH1mtu2)  
+   Link: <a href="https://www.kpopbazaar.com.au/pages/k-pop-bazaar-q-a-video-call-fansign-events?srsltid=AfmBOop0w60RGCXc3nNkvpd4FPvVjlu6q3x0-zTLTMVfRg_reEH1mtu2" target="_blank" rel="noopener noreferrer nofollow">https://www.kpopbazaar.com.au/pages/k-pop-bazaar-q-a-video-call-fansign-events?srsltid=AfmBOop0w60RGCXc3nNkvpd4FPvVjlu6q3x0-zTLTMVfRg_reEH1mtu2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Call &amp; Fansign EventsPurchase one (1) album or more through our video call/fan sign event on our website. One (1) album purchase eq...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: times.uos.ac.kr  
    Title: article View  
-   Link: [https://times.uos.ac.kr/news/articleView.html?idxno=10800](https://times.uos.ac.kr/news/articleView.html?idxno=10800)  
+   Link: <a href="https://times.uos.ac.kr/news/articleView.html?idxno=10800" target="_blank" rel="noopener noreferrer nofollow">https://times.uos.ac.kr/news/articleView.html?idxno=10800</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Environmental Toll of K-POP Albums17 Jun 2024 — As album sales rise rapidly and global environmental concerns intensify, K-POP and...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: ifbearofficial.com  
-   Link: [https://ifbearofficial.com/zh-hans/blogs/about/half-of-k-pop-fans-buy-albums-for-photocards-what-this-means-for-kpop-photocard-wholesale?srsltid=AfmBOoo2rD3LjWhwk98vmoolhZj1PtkN7KZa383CKeBq5uEnpzmkO0H9](https://ifbearofficial.com/zh-hans/blogs/about/half-of-k-pop-fans-buy-albums-for-photocards-what-this-means-for-kpop-photocard-wholesale?srsltid=AfmBOoo2rD3LjWhwk98vmoolhZj1PtkN7KZa383CKeBq5uEnpzmkO0H9)  
+   Link: <a href="https://ifbearofficial.com/zh-hans/blogs/about/half-of-k-pop-fans-buy-albums-for-photocards-what-this-means-for-kpop-photocard-wholesale?srsltid=AfmBOoo2rD3LjWhwk98vmoolhZj1PtkN7KZa383CKeBq5uEnpzmkO0H9" target="_blank" rel="noopener noreferrer nofollow">https://ifbearofficial.com/zh-hans/blogs/about/half-of-k-pop-fans-buy-albums-for-photocards-what-this-means-for-kpop-photocard-wholesale?srsltid=AfmBOoo2rD3LjWhwk98vmoolhZj1PtkN7KZa383CKeBq5uEnpzmkO0H9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Half of K-pop Fans Buy Albums for PhotocardsFans buy multiple copies of the same album to increase their chances of pulling a desired mem...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/869416105/ANALYSIS-OF-THE-PHOTOCARD-ON-KPOP-ALBUM-SALES](https://www.scribd.com/document/869416105/ANALYSIS-OF-THE-PHOTOCARD-ON-KPOP-ALBUM-SALES)  
+   Link: <a href="https://www.scribd.com/document/869416105/ANALYSIS-OF-THE-PHOTOCARD-ON-KPOP-ALBUM-SALES" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/869416105/ANALYSIS-OF-THE-PHOTOCARD-ON-KPOP-ALBUM-SALES</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Photocards on K-pop SalesPhotocards significantly impact consumer behavior by encouraging fans to purchase physical albums inst...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Ktown4u/posts/-kyuhyunkyuhyun-ep-the-classicktown4u-online-lucky-draw-event-when-purchasing-1-/1303864765112654/](https://www.facebook.com/Ktown4u/posts/-kyuhyunkyuhyun-ep-the-classicktown4u-online-lucky-draw-event-when-purchasing-1-/1303864765112654/)  
+   Link: <a href="https://www.facebook.com/Ktown4u/posts/-kyuhyunkyuhyun-ep-the-classicktown4u-online-lucky-draw-event-when-purchasing-1-/1303864765112654/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Ktown4u/posts/-kyuhyunkyuhyun-ep-the-classicktown4u-online-lucky-draw-event-when-purchasing-1-/1303864765112654/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AletheaKontis/posts/the-upcoming-new-mini-album-from-my-favorite-k-pop-group-has-two-versions-each-w/792985042621538/](https://www.facebook.com/AletheaKontis/posts/the-upcoming-new-mini-album-from-my-favorite-k-pop-group-has-two-versions-each-w/792985042621538/)  
+   Link: <a href="https://www.facebook.com/AletheaKontis/posts/the-upcoming-new-mini-album-from-my-favorite-k-pop-group-has-two-versions-each-w/792985042621538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AletheaKontis/posts/the-upcoming-new-mini-album-from-my-favorite-k-pop-group-has-two-versions-each-w/792985042621538/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Each will contain a random assortment of photos of the band members...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: kca.go.kr  
-   Link: [https://www.kca.go.kr/eng/board/download.do?bid=00000005&did=1003533572&fno=10039277&menukey=6007](https://www.kca.go.kr/eng/board/download.do?bid=00000005&did=1003533572&fno=10039277&menukey=6007)  
+   Link: <a href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow">https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ost popular fandom goods selected by consumers, and the majority (96.9%) of the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: kcampus.kr  
-   Link: [https://kcampus.kr/news/k-pop-s-cd-problem-isn-t-going-away-any-time-soon-653](https://kcampus.kr/news/k-pop-s-cd-problem-isn-t-going-away-any-time-soon-653)  
+   Link: <a href="https://kcampus.kr/news/k-pop-s-cd-problem-isn-t-going-away-any-time-soon-653" target="_blank" rel="noopener noreferrer nofollow">https://kcampus.kr/news/k-pop-s-cd-problem-isn-t-going-away-any-time-soon-653</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>K-campusK-pop&#x27;s CD problem isn&#x27;t going away any time soonAccording to music chart Circle Chart, the number of physical album sales is ste...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQMS1QBE-nd/](https://www.instagram.com/reel/DQMS1QBE-nd/)  
+   Link: <a href="https://www.instagram.com/reel/DQMS1QBE-nd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQMS1QBE-nd/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>luded either one randomly selected member card or a group card...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW1GznSiAwm/](https://www.instagram.com/reel/DW1GznSiAwm/)  
+   Link: <a href="https://www.instagram.com/reel/DW1GznSiAwm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW1GznSiAwm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>om selfie cards. If your favorite member is not inside, you buy...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Circle Album Chart  
-   Link: [https://en.wikipedia.org/wiki/Circle_Album_Chart](https://en.wikipedia.org/wiki/Circle_Album_Chart)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circle_Album_Chart" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circle_Album_Chart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circle Album ChartIt is a part of the Circle Chart, previously known as the Gaon Chart. It compiles shipments in weekly, monthly, and...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: kollectpop.com  
    Title: kpop photocards  
-   Link: [https://kollectpop.com/kpop-photocards](https://kollectpop.com/kpop-photocards)  
+   Link: <a href="https://kollectpop.com/kpop-photocards" target="_blank" rel="noopener noreferrer nofollow">https://kollectpop.com/kpop-photocards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>K-Pop Photocards Guide: Collect, Trade &amp; Spot Fakes10 Jan 2026 — Learn how to collect K-pop photocards, trade safely with fans, spot fake...</p></details>

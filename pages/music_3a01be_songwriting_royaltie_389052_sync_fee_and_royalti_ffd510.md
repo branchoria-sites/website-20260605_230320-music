@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4
 - music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d
 tags:
-- music
+- music-3-a01-be
 - publishing
 - sync-earnings
 keywords:
-- music
+- music-3-a01-be
 - publishing
 - sync-earnings
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A sync placement can create an upfront payment while also leading to additional royalties from later uses.
 hero_summary: A sync placement can create an upfront payment while also leading to additional royalties from later uses.
 layout: default
 permalink: /sync-earnings/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /publishing/
 nav_short_title: Sync Earnings
 title: When One Sync Deal Creates More Income
-title_full: When One Sync Deal Creates More Income | Publishing
+title_full: When One Sync Deal Creates More Income
 display_title_short: Sync Earnings
 display_title: Sync Earnings
 heading_title: When One Sync Deal Creates More Income
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Songs Earn Beyond The Recording | Music
+parent_title: How Songs Earn Beyond The Recording
 parent_permalink: /publishing/
 parent_nav_short_title: Publishing
 parent_heading_title: How Songs Earn Beyond The Recording
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Missing Setlists Leave Money Unpaid
 up_link:
   basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -259,7 +259,7 @@ prev_link:
   permalink: /setlist-gaps/
   short_title: Setlist Gaps
   heading_title: How Missing Setlists Leave Money Unpaid
-date: '2026-06-09 07:50:01 '
+date: '2026-06-11 23:56:53 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-1.webp
@@ -270,11 +270,10 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_roya
 
 A sync placement can create two very different kinds of income. The first is the **sync fee**: an upfront payment negotiated when music is licensed for use in a film, television programme, advert, video game or other visual media. The second is a range of **ongoing [royalties]({{ 'royalties/' | relative_url }})** that may arise after the placement is broadcast, streamed, performed publicly or otherwise exploited. Understanding the difference matters because a high-profile placement may generate substantial money long after the original contract is signed, while some placements produce little beyond the initial fee. The key is that a sync deal grants permission for a specific use, whereas later royalty streams depend on how that use reaches audiences and which [rights]({{ 'rights/' | relative_url }}) are triggered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingEach usage enquiry is considered on a case-by-case basis. Fees vary dependent on the use and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/sync-licensing-vs-performance-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-snippet">That Pitch BlogSync Licensing vs Performance Royalties Explained - ThatPitchSync Licensing: It&#x27;s like renting out your song for a specifi...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-1-dark.svg" | relative_url }}" alt="Sync Earnings illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What a Sync Licence Actually Covers
 
-A synchronisation, or sync, licence gives permission to pair [music]({{ 'music/' | relative_url }}) with visual content. This is the legal step required when a song is placed in a television episode, film scene, advertising campaign, trailer or online video. The licence is normally negotiated directly with the rights holders rather than through a blanket performance licence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbed.com/articles/resources/types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbed.com">[musicbed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbed.com</span><span class="citation-popover-snippet">This type of license is...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">What is a Music Synchronization License?</span><span class="citation-popover-snippet">Sync...3 Sept 2019 — A synchronization license, commonly shortened to ”sync,” generally refers to a legal agreement between the copyrigh...</span></span></span> The sync fee is typically a one-time negotiated payment. Its value depends on factors such as:
+A synchronisation, or sync, licence gives permission to pair music with visual content. This is the legal step required when a song is placed in a television episode, film scene, advertising campaign, trailer or online video. The licence is normally negotiated directly with the rights holders rather than through a blanket performance licence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbed.com/articles/resources/types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbed.com">[musicbed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbed.com</span><span class="citation-popover-snippet">This type of license is...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">What is a Music Synchronization License?</span><span class="citation-popover-snippet">Sync...3 Sept 2019 — A synchronization license, commonly shortened to ”sync,” generally refers to a legal agreement between the copyrigh...</span></span></span> The sync fee is typically a one-time negotiated payment. Its value depends on factors such as:
 
 * The prominence of the music in the production.
 * The type of media involved.
@@ -290,7 +289,7 @@ A common misconception is that the sync fee itself is a royalty. In reality, it 
 
 Most commercially released songs involve two separate copyrights:
 
-1. The **composition** (melody, lyrics and underlying musical work).
+1. The **composition** (melody, [lyrics]({{ 'lyrics/' | relative_url }}) and underlying musical work).
 2. The **master recording** (the specific recorded performance).
 
 When a producer wants to use the original recording of a song, permission is generally needed from both sides. PRS for Music explains that a master use licence covers the recording, while a sync licence for the composition covers the song itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingEach usage enquiry is considered on a case-by-case basis. Fees vary dependent on the use and...</span></span></span>
@@ -299,22 +298,20 @@ This dual-clearance system has important financial consequences. A sync fee may 
 
 The distinction also explains why a producer cannot rely on a public-performance licence from organisations such as ASCAP or BMI to place music in a film or advert. Performance licences and sync licences cover different rights. BMI explicitly notes that synchronisation licences are obtained from publishers or rights holders rather than through BMI itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.com/blog/music-licensing-public-performance-license-synchronization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.com">[Copyright Clearance Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.com</span><span class="citation-popover-title">Clearance Center Music Licensing: The Difference Between Public</span><span class="citation-popover-snippet">Copyright Clearance CenterMusic Licensing: The Difference Between Public...May 16, 2017 — So, if you have the appropriate blanket licens...</span><span class="citation-popover-meta">Published: May 16, 2017</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-2-dark.svg" | relative_url }}" alt="Sync Earnings illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why One Placement Can Lead to More Income
 
 The sync fee is often the beginning rather than the end of the revenue story.
 
-When a television programme, film or advert containing music is later broadcast, additional rights may be triggered. Performing rights organisations collect royalties from broadcasters and other music users and distribute them to songwriters and publishers when qualifying performances occur. PRS for Music, ASCAP and similar organisations operate these systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyber.harvard.edu">[Berkman Klein Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyber.harvard.edu</span><span class="citation-popover-snippet">Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingEach usage enquiry is considered on a case-by-case basis. Fees vary dependent on the use and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAPRoyalties and PaymentThe money we receive from radio stations is paid out for radio performances, the money we receive from TV netwo...</span></span></span>
+When a television programme, film or advert containing music is later broadcast, additional rights may be triggered. Performing rights organisations collect royalties from broadcasters and other music users and distribute them to songwriters and publishers when qualifying performances occur. PRS for Music, ASCAP and similar organisations operate these systems. [Berkman Klein Center+3PRS for Music+3ASCAP]
 
 A simplified example illustrates the mechanism:
 
 * A television producer pays a sync fee to use a song.
 * The completed programme airs on television.
-* The broadcaster pays licensing fees covering [public performance]({{ 'public-play/' | relative_url }}) rights.
+* The broadcaster pays [licensing]({{ 'licensing/' | relative_url }}) fees covering public performance rights.
 * Performing rights organisations track and distribute royalties to eligible songwriters and publishers.
 * Additional broadcasts, repeats and international transmissions can create further royalty payments. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://watershed.co.uk/filmhub/guides-resources/a-short-guide-to-music-licensing-with-prsformusic-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watershed.co.uk">[watershed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watershed.co.uk</span><span class="citation-popover-snippet">They collect payments from music performed in public, for example on a BBC show, and pass that on to...Read more...</span></span></span> This is why industry professionals often distinguish between**front-end income** (the sync fee) and **back-end income** (later royalties generated by exploitation of the programme). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.londonsoundacademy.com/blog/introduction-to-sync-licensing-what-every-music-producer-should-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonsoundacademy.com">[londonsoundacademy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonsoundacademy.com</span><span class="citation-popover-snippet">Introduction to Sync Licensing: What Every Music Producer...3 Sept 2024 — When a song is “licensed for sync”, the producer (and all of t...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LynKwMo53Yw" title="License Your Music for TV, Film &amp; More (Sync Licensing Crash Course)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LynKwMo53Yw" target="_blank" rel="noopener noreferrer">License Your Music for TV, Film &amp; More (Sync Licensing Crash Course)</a></p><p class="youtube-embed-meta">Channel: Randy McGravey Music &middot; Views: 3.2K &middot; Uploaded: August 2025 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LynKwMo53Yw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LynKwMo53Yw">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +326,6 @@ Potential sources of continuing income include:
 * Certain streaming and on-demand uses where performance royalties are generated.
 * Public exhibition and commercial uses covered by performing-rights systems.
 * Other licensed uses of the audiovisual work in different territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingEach usage enquiry is considered on a case-by-case basis. Fees vary dependent on the use and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://watershed.co.uk/filmhub/guides-resources/a-short-guide-to-music-licensing-with-prsformusic-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watershed.co.uk">[Watershed However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watershed.co.uk</span><span class="citation-popover-snippet">They collect payments from music performed in public, for example on a BBC show, and pass that on to...Read more...</span></span></span>, ongoing royalties are not guaranteed to be large. The amount depends heavily on where and how the programme is used, the reporting systems in each territory, audience size and the applicable royalty rules. Some placements generate substantial back-end income over many years, while others earn little beyond the original sync fee. Discussions among working music-rights holders frequently highlight this variability, particularly for online and streaming-focused placements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/COPYRIGHT/comments/115luh4/youtube_licensing_ascap_with_written_music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Licensing ASCAP with written musicThese blanket licenses (e.g. from ASCAP) do not cover sync rights or master use rights though...</span></span></span>
-
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-3-dark.svg" | relative_url }}" alt="Sync Earnings illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Balance Between Fees and Royalties Matters
@@ -732,193 +728,193 @@ For independent songwriters, the ideal sync placement is often one that provides
 
 1. <a id="endnote-1"></a>
    Source: musicbed.com  
-   Link: [https://www.musicbed.com/articles/resources/types-of-music-licenses/](https://www.musicbed.com/articles/resources/types-of-music-licenses/)  
+   Link: <a href="https://www.musicbed.com/articles/resources/types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/articles/resources/types-of-music-licenses/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This type of license is...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: soundcharts.com  
    Title: What is a Music Synchronization License?  
-   Link: [https://soundcharts.com/en/blog/how-music-sync-licensing-works](https://soundcharts.com/en/blog/how-music-sync-licensing-works)  
+   Link: <a href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/how-music-sync-licensing-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sync...3 Sept 2019 — A synchronization license, commonly shortened to ”sync,” generally refers to a legal agreement between the copyrigh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights](https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights)  
+   Link: <a href="https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI and Performing RightsBMI does not offer synchronization licenses. The producer of the audiovisual production usually requests a synch...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: copyright.com  
    Title: Clearance Center Music Licensing: The Difference Between Public  
-   Link: [https://www.copyright.com/blog/music-licensing-public-performance-license-synchronization/](https://www.copyright.com/blog/music-licensing-public-performance-license-synchronization/)  
+   Link: <a href="https://www.copyright.com/blog/music-licensing-public-performance-license-synchronization/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.com/blog/music-licensing-public-performance-license-synchronization/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Clearance CenterMusic Licensing: The Difference Between Public...May 16, 2017 — So, if you have the appropriate blanket licens...</p></details>
    Published: May 16, 2017  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/COPYRIGHT/comments/115luh4/youtube_licensing_ascap_with_written_music/](https://www.reddit.com/r/COPYRIGHT/comments/115luh4/youtube_licensing_ascap_with_written_music/)  
+   Link: <a href="https://www.reddit.com/r/COPYRIGHT/comments/115luh4/youtube_licensing_ascap_with_written_music/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/COPYRIGHT/comments/115luh4/youtube_licensing_ascap_with_written_music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing ASCAP with written musicThese blanket licenses (e.g. from ASCAP) do not cover [sync rights](&amp;#123;&amp;#123; &#x27;sync-rights/&#x27; | relative_url &amp;#125;&amp;#125;) or master use rights though...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment](https://www.ascap.com/help/royalties-and-payment)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAPRoyalties and PaymentThe money we receive from radio stations is paid out for radio performances, the money we receive from TV netwo...</p></details>
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentThe money we receive from radio stations is paid out for radio performances, the money we receive from TV netwo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: londonsoundacademy.com  
-   Link: [https://www.londonsoundacademy.com/blog/introduction-to-sync-licensing-what-every-music-producer-should-know](https://www.londonsoundacademy.com/blog/introduction-to-sync-licensing-what-every-music-producer-should-know)  
+   Link: <a href="https://www.londonsoundacademy.com/blog/introduction-to-sync-licensing-what-every-music-producer-should-know" target="_blank" rel="noopener noreferrer nofollow">https://www.londonsoundacademy.com/blog/introduction-to-sync-licensing-what-every-music-producer-should-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Sync Licensing: What Every Music Producer...3 Sept 2024 — When a song is “licensed for sync”, the producer (and all of t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: BMI synch royalty collection?: r/musicindustry  
-   Link: [https://www.reddit.com/r/musicindustry/comments/1gh3k78/bmi_synch_royalty_collection/](https://www.reddit.com/r/musicindustry/comments/1gh3k78/bmi_synch_royalty_collection/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBMI synch royalty collection?: r/musicindustryNovember 1, 2024 — I have a question about royalty collecting as an industry member...</p></details>
+   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1gh3k78/bmi_synch_royalty_collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1gh3k78/bmi_synch_royalty_collection/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI synch royalty collection?: r/musicindustryNovember 1, 2024 — I have a question about royalty collecting as an industry member...</p></details>
    Published: November 1, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: my song was used in a netflix show in 2022 and my  
-   Link: [https://www.reddit.com/r/musicmarketing/comments/1fpat4g/my_song_was_used_in_a_netflix_show_in_2022_and_my/](https://www.reddit.com/r/musicmarketing/comments/1fpat4g/my_song_was_used_in_a_netflix_show_in_2022_and_my/)  
+   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/1fpat4g/my_song_was_used_in_a_netflix_show_in_2022_and_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/1fpat4g/my_song_was_used_in_a_netflix_show_in_2022_and_my/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>was $900 and this performance royalty payment was $22.27 lol... Otherwise performance royalties will eventually go extinct...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: supertape.com  
    Title: getting into sync licensing 5 easy steps  
-   Link: [https://www.supertape.com/blog/getting-into-sync-licensing-5-easy-steps](https://www.supertape.com/blog/getting-into-sync-licensing-5-easy-steps)  
+   Link: <a href="https://www.supertape.com/blog/getting-into-sync-licensing-5-easy-steps" target="_blank" rel="noopener noreferrer nofollow">https://www.supertape.com/blog/getting-into-sync-licensing-5-easy-steps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting into sync licensing: 5 easy steps19 Feb 2025 — Sync Fees: The upfront payments made for using your music in a project. The amount...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bmi.com  
    Title: What is the difference between performing right royalties  
-   Link: [https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r](https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMIQuestion: What is the difference between performing right royalties, [mechanical royalties](&amp;#123;&amp;#123; &#x27;mechanical-royalties/&#x27; | relative_url &amp;#125;&amp;#125;) and sync royalties?...</p></details>
+   Link: <a href="https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/entry/what_is_the_difference_between_performing_right_royalties_mechanical_r</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Question: What is the difference between performing right royalties, [mechanical royalties](&amp;#123;&amp;#123; &#x27;mechanical-royalties/&#x27; | relative_url &amp;#125;&amp;#125;) and sync royalties?...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/licensing](https://www.bmi.com/licensing)  
+   Link: <a href="https://www.bmi.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music LicensingBMI offers more than 60 different music licenses to fit your business needs. See our complete list of licenses, rates and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/licensing/faqs](https://www.bmi.com/licensing/faqs)  
+   Link: <a href="https://www.bmi.com/licensing/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing/faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing FAQs | BMI.comBMI only licenses performing rights and does not license mechanical or synchronization rights. For more inf...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/ascap-licensing](https://www.ascap.com/help/ascap-licensing)  
+   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occurs e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help](https://www.ascap.com/help)  
+   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). If y...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films](https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films)  
+   Link: <a href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Acquire Music For FilmsASCAP works with film composers and composer agents at every level of experience and can help you find a co...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment/payment/royalties](https://www.ascap.com/help/royalties-and-payment/payment/royalties)  
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How ASCAP Calculates RoyaltiesThe money we receive from radio stations is paid out for radio performances, the money we receive from TV n...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: Not 51%, not 99%, but 100%.Read more  
-   Link: [https://www.reddit.com/r/advertising/comments/1oto89a/a_comprehensive_overview_of_sync_music_licensing/](https://www.reddit.com/r/advertising/comments/1oto89a/a_comprehensive_overview_of_sync_music_licensing/)  
+   Link: <a href="https://www.reddit.com/r/advertising/comments/1oto89a/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/advertising/comments/1oto89a/a_comprehensive_overview_of_sync_music_licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all parties...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing](https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing)  
+   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingEach usage enquiry is considered on a case-by-case basis. Fees vary dependent on the use and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thatpitch.com  
-   Link: [https://thatpitch.com/blog/sync-licensing-vs-performance-royalties-explained/](https://thatpitch.com/blog/sync-licensing-vs-performance-royalties-explained/)  
+   Link: <a href="https://thatpitch.com/blog/sync-licensing-vs-performance-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/sync-licensing-vs-performance-royalties-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogSync Licensing vs Performance Royalties Explained - ThatPitchSync Licensing: It&#x27;s like renting out your song for a specifi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thatpitch.com  
-   Link: [https://thatpitch.com/blog/what-performance-royalties-are-in-sync-licensing/](https://thatpitch.com/blog/what-performance-royalties-are-in-sync-licensing/)  
+   Link: <a href="https://thatpitch.com/blog/what-performance-royalties-are-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-performance-royalties-are-in-sync-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They get paid out when your song is heard in public places or broadcast. These are...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thatpitch.com  
    Title: That Pitch Blog Sync Licensing Fees Explained for Artists  
-   Link: [https://thatpitch.com/blog/sync-licensing-fees-explained-for-artists/](https://thatpitch.com/blog/sync-licensing-fees-explained-for-artists/)  
+   Link: <a href="https://thatpitch.com/blog/sync-licensing-fees-explained-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/sync-licensing-fees-explained-for-artists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogSync Licensing Fees Explained for Artists - ThatPitchSync licensing fees are typically negotiated based on factors such as...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: horusmusic.global  
    Title: how sync licensing works  
-   Link: [https://www.horusmusic.global/how-sync-licensing-works/](https://www.horusmusic.global/how-sync-licensing-works/)  
+   Link: <a href="https://www.horusmusic.global/how-sync-licensing-works/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/how-sync-licensing-works/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Horus MusicHow Sync Licensing Works10 Jul 2025 — Typical fees can range from £500 for indie projects to £50,000+ for major ad campaigns...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: prsformusic.com  
    Title: get up to speed with sync tips prs connects succeeding in sync  
-   Link: [https://www.prsformusic.com/m-magazine/business-and-money/get-up-to-speed-with-sync-tips-prs-connects-succeeding-in-sync](https://www.prsformusic.com/m-magazine/business-and-money/get-up-to-speed-with-sync-tips-prs-connects-succeeding-in-sync)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/business-and-money/get-up-to-speed-with-sync-tips-prs-connects-succeeding-in-sync" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/business-and-money/get-up-to-speed-with-sync-tips-prs-connects-succeeding-in-sync</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicGet up to speed with sync with PRS Connects | M Magazine1 Mar 2024 — A Master Use Licence is negotiated for the usage of a s...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thatpitch.com  
    Title: That Pitch Blog What [Master Rights](&#123;&#123; 'master-rights/' | relative_url &#125;&#125;) Mean in Sync Licensing  
-   Link: [https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/](https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/)  
+   Link: <a href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/](https://www.prsformusic.com/)  
+   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe protect the value of music by licensing music usage and collecting...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: watershed.co.uk  
-   Link: [https://watershed.co.uk/filmhub/guides-resources/a-short-guide-to-music-licensing-with-prsformusic-2/](https://watershed.co.uk/filmhub/guides-resources/a-short-guide-to-music-licensing-with-prsformusic-2/)  
+   Link: <a href="https://watershed.co.uk/filmhub/guides-resources/a-short-guide-to-music-licensing-with-prsformusic-2/" target="_blank" rel="noopener noreferrer nofollow">https://watershed.co.uk/filmhub/guides-resources/a-short-guide-to-music-licensing-with-prsformusic-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They collect payments from music performed in public, for example on a BBC show, and pass that on to...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cyber.harvard.edu  
-   Link: [https://cyber.harvard.edu/is02/readings/ascap.html](https://cyber.harvard.edu/is02/readings/ascap.html)  
+   Link: <a href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow">https://cyber.harvard.edu/is02/readings/ascap.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/using-music-online/other](https://www.prsformusic.com/licences/using-music-online/other)  
+   Link: <a href="https://www.prsformusic.com/licences/using-music-online/other" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/using-music-online/other</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicOther LicencesYou will need a separate synchronisation licence. No public performing rights are granted via this licence and...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: prsformusic.com  
    Title: how can prs for music support your sync opportunities  
-   Link: [https://www.prsformusic.com/m-magazine/business-and-money/how-can-prs-for-music-support-your-sync-opportunities](https://www.prsformusic.com/m-magazine/business-and-money/how-can-prs-for-music-support-your-sync-opportunities)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/business-and-money/how-can-prs-for-music-support-your-sync-opportunities" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/business-and-money/how-can-prs-for-music-support-your-sync-opportunities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicHow can PRS for Music support your sync opportunities?28 Aug 2024 — We operate a full synchronisation licensing service wher...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences/using-music-online/digital-music-licence/digital-music-licence-faqs](https://www.prsformusic.com/licences/using-music-online/digital-music-licence/digital-music-licence-faqs)  
+   Link: <a href="https://www.prsformusic.com/licences/using-music-online/digital-music-licence/digital-music-licence-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/using-music-online/digital-music-licence/digital-music-licence-faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Music Licence FAQsYour licence fee will be calculated automatically based on the music usage estimates you provide. You can follo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/licences](https://www.prsformusic.com/licences)  
+   Link: <a href="https://www.prsformusic.com/licences" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences</a>  
 
 33. <a id="endnote-33"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: [https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights](https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights)  
+   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to... understanding publishing rights14 May 2021 — We asked Simon to give us insights on copyright, publishing specialities, publishi...</p></details>
    Published: May 2021  
 
 34. <a id="endnote-34"></a>
    Source: prsformusic.com  
    Title: digital music services licence commercial terms  
-   Link: [https://www.prsformusic.com/-/media/files/prs-for-music/licensing/online-licensing/2025/digital-music-services-licence-commercial-terms.pdf](https://www.prsformusic.com/-/media/files/prs-for-music/licensing/online-licensing/2025/digital-music-services-licence-commercial-terms.pdf)  
+   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/licensing/online-licensing/2025/digital-music-services-licence-commercial-terms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/licensing/online-licensing/2025/digital-music-services-licence-commercial-terms.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Oct 2025 — The Digital Music Services Licence covers the use of PRS for Music repertoire and MCPS Commercial Music repertoire in servic...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: newmusicreview.co.uk  
-   Link: [https://newmusicreview.co.uk/sync-licensing-the-guide-from-phil-loutsis/](https://newmusicreview.co.uk/sync-licensing-the-guide-from-phil-loutsis/)  
+   Link: <a href="https://newmusicreview.co.uk/sync-licensing-the-guide-from-phil-loutsis/" target="_blank" rel="noopener noreferrer nofollow">https://newmusicreview.co.uk/sync-licensing-the-guide-from-phil-loutsis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sync Licensing - An Artists Guide with Phil Loutsis24 Dec 2025 — These can pay £1,000–£25,000, depending on usage and territories...</p></details>
 
 ### Additional References
@@ -926,56 +922,56 @@ For independent songwriters, the ideal sync placement is often one that provides
 36. <a id="endnote-36"></a>
    Source: aristake.com  
    Title: sync agents  
-   Link: [https://aristake.com/sync-agents/](https://aristake.com/sync-agents/)  
+   Link: <a href="https://aristake.com/sync-agents/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/sync-agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get Your Music Synced on TV, Video Games and...Jun 26, 2025 — Music supervisors don&#x27;t work with indie artists anymore in sync lic...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: bartdaylaw.com  
    Title: Licensing Music For Films  
-   Link: [https://bartdaylaw.com/licensing-music-for-films/](https://bartdaylaw.com/licensing-music-for-films/)  
+   Link: <a href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow">https://bartdaylaw.com/licensing-music-for-films/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What You Need to KnowThis permission which must be obtained for the underlying song is called a “synchronization license.” Here we...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: berklee.edu  
-   Link: [https://www.berklee.edu/berklee-now/news/music-licensing-101-how-to-sync-your-music](https://www.berklee.edu/berklee-now/news/music-licensing-101-how-to-sync-your-music)  
+   Link: <a href="https://www.berklee.edu/berklee-now/news/music-licensing-101-how-to-sync-your-music" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-now/news/music-licensing-101-how-to-sync-your-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing 101: How to Sync Your MusicLearn how to create syncable music, stand out to music supervisors, and negotiate sync deals w...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: mi.edu  
    Title: music licensing agreements film tv  
-   Link: [https://www.mi.edu/in-the-know/music-licensing-agreements-film-tv/](https://www.mi.edu/in-the-know/music-licensing-agreements-film-tv/)  
+   Link: <a href="https://www.mi.edu/in-the-know/music-licensing-agreements-film-tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.mi.edu/in-the-know/music-licensing-agreements-film-tv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing Agreements Explained: How to Get Your...Sep 24, 2025 — Want to get your music into film and TV? Learn the key types of m...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: us.moodmedia.com  
    Title: music licensing  
-   Link: [https://us.moodmedia.com/music-for-business/music-licensing/](https://us.moodmedia.com/music-for-business/music-licensing/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Can I Play Music in My Business?Public Performance License: The legal permission needed to play music in any public or commercial space...</p></details>
+   Link: <a href="https://us.moodmedia.com/music-for-business/music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://us.moodmedia.com/music-for-business/music-licensing/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can I Play Music in My Business?Public Performance License: The legal permission needed to play music in any public or commercial space...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: moodmedia.com  
    Title: Music Licensing  
-   Link: [https://moodmedia.com/gb/sound/music-licensing/](https://moodmedia.com/gb/sound/music-licensing/)  
+   Link: <a href="https://moodmedia.com/gb/sound/music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://moodmedia.com/gb/sound/music-licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What You Need to Know &amp; Legal SolutionsDetermine the type of licence you need: There are various types of licences for music, including s...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: musiciansunion.org.uk  
-   Link: [https://musiciansunion.org.uk/newuse](https://musiciansunion.org.uk/newuse)  
+   Link: <a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rces and template licences for TV, film and advertising companies...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: orphiq.com  
    Title: music licensing types explained  
-   Link: [https://orphiq.com/resources/music-licensing-types-explained](https://orphiq.com/resources/music-licensing-types-explained)  
+   Link: <a href="https://orphiq.com/resources/music-licensing-types-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/music-licensing-types-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing Types: Master, Sync, Mechanical15 Mar 2026 — Music licensing includes master, sync, mechanical, and performance licenses...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: ppluk.com  
-   Link: [https://www.ppluk.com/licensing/](https://www.ppluk.com/licensing/)  
+   Link: <a href="https://www.ppluk.com/licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.ppluk.com/licensing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rvices, as well as services that supply music for use in businesses.Read more...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: royaltyexchange.com  
    Title: bmi royalties  
-   Link: [https://royaltyexchange.com/blog/bmi-royalties](https://royaltyexchange.com/blog/bmi-royalties)  
+   Link: <a href="https://royaltyexchange.com/blog/bmi-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/bmi-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How They Work, What&#x27;s Collected, and...Apr 27, 2026 — If you have a catalog earning BMI performance royalties, you can sell a portion of...</p></details>

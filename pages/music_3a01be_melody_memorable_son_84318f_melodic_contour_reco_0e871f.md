@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f
 - music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72
 tags:
-- music
+- music-3-a01-be
 - melody
 - contour
 keywords:
-- music
+- music-3-a01-be
 - melody
 - contour
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: A melody's rising, falling and returning shape can make a song recognizable even when exact notes or rhythms are forgotten.
 hero_summary: A melody's rising, falling and returning shape can make a song recognizable even when exact notes or rhythms are forgotten.
 layout: default
 permalink: /contour/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /melody/
 nav_short_title: Contour
 title: The Shape Your Brain Hums Back
-title_full: The Shape Your Brain Hums Back | Melody
+title_full: The Shape Your Brain Hums Back
 display_title_short: Contour
 display_title: Contour
 heading_title: The Shape Your Brain Hums Back
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some Melodies Stay In Your Head | Music
+parent_title: Why Some Melodies Stay In Your Head
 parent_permalink: /melody/
 parent_nav_short_title: Melody
 parent_heading_title: Why Some Melodies Stay In Your Head
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Catchy Melodies Need a Twist
 up_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -265,7 +265,7 @@ next_link:
   permalink: /earworms/
   short_title: Earworms
   heading_title: What Makes a Tune Become an Earworm?
-date: '2026-06-09 07:33:47 '
+date: '2026-06-11 23:47:41 '
 header:
   og_image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_r
 
 ## Introduction
 
-A [melody]({{ 'melody/' | relative_url }}) is often remembered as a shape before it is remembered as a sequence of exact notes. Even when listeners cannot reproduce the precise pitches of a familiar song, they frequently retain its overall pattern of rising, falling and returning. [Music]({{ 'music/' | relative_url }}) researchers call this pattern a *melodic contour*. Evidence from decades of music cognition research suggests that contour is one of the most important cues people use to recognise tunes, helping the brain store and retrieve melodies efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
-
+A [melody]({{ 'melody/' | relative_url }}) is often remembered as a shape before it is remembered as a sequence of exact notes. Even when listeners cannot reproduce the precise pitches of a familiar song, they frequently retain its overall pattern of rising, falling and returning. Music researchers call this pattern a *melodic contour*. Evidence from decades of music cognition research suggests that contour is one of the most important cues people use to recognise tunes, helping the brain store and retrieve melodies efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-dark.svg" | relative_url }}" alt="Contour illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This helps explain a common experience: hearing only a few notes of a familiar song and recognising it almost instantly. The recognition often begins not with exact pitch information, but with the melody's broader outline.
@@ -288,9 +287,6 @@ For example, two versions of a melody may begin on different pitches and use sli
 
 A simple way to think about contour is as a musical skyline. Just as a city's silhouette remains recognisable from a distance even when individual buildings are hard to distinguish, a melody's contour can remain recognisable when finer musical details are blurred.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7idiC8K2Hw" title="How Music Hacks Your Brain&#x27;s Navigation System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7idiC8K2Hw" target="_blank" rel="noopener noreferrer">How Music Hacks Your Brain&#x27;s Navigation System</a></p><p class="youtube-embed-meta">Channel: Musora &middot; Views: 5.0K &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7idiC8K2Hw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7idiC8K2Hw">Open on YouTube</a></p></div></div></div>
-
 ## Why Broad Pitch Shapes Are Easier to Store
 
 Research on memory for melodies has repeatedly found that listeners retain contour information remarkably well. Dowling's influential theory of melodic memory proposed that contour functions as a high-level representation that listeners can encode before they process exact interval relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
@@ -301,10 +297,9 @@ Several findings support this idea:
 
 * People can often recognise melodies even when interval sizes are altered, provided the contour remains intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-snippet">Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</span></span></span>
 * Short-term memory experiments show that contour can be retained even when exact pitch information becomes less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Exploring Melodic Contour A Clustering Approach</span><span class="citation-popover-snippet">UC Press OnlineExploring Melodic Contour: A Clustering Approach19 Dec 2024 — An experiment by Dowling (1978) showed that the contours of...</span></span></span>
-* Studies of melodic recognition suggest that contour information is often processed before more detailed pitch relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">SciSpaceMusical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</span></span></span>
+* Studies of melodic recognition suggest that contour information is often processed before more detailed pitch relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Musical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</span></span></span>
 
 In practical terms, contour acts as a cognitive shortcut. Instead of storing dozens of individual note values, listeners can store a compact representation of the melody's overall trajectory.
-
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-2-dark.svg" | relative_url }}" alt="Contour illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a Few Notes Trigger Song Recognition
@@ -319,21 +314,18 @@ Researchers studying melody identification have found that distinctive contour c
 
 This means that recognition often depends less on hearing every note correctly and more on hearing enough of the melody's outline to activate a stored template.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A-OlABruENg" title="After Becoming a Slave, the Boy Awakened Two Powerful Talents and Could Master All Magic and Power!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A-OlABruENg" target="_blank" rel="noopener noreferrer">After Becoming a Slave, the Boy Awakened Two Powerful Talents and Could Master All Magic and Power!</a></p><p class="youtube-embed-meta">Channel: Mania Comics Legends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A-OlABruENg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A-OlABruENg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7idiC8K2Hw" title="How Music Hacks Your Brain&#x27;s Navigation System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7idiC8K2Hw" target="_blank" rel="noopener noreferrer">How Music Hacks Your Brain&#x27;s Navigation System</a></p><p class="youtube-embed-meta">Channel: Musora &middot; Views: 5.0K &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7idiC8K2Hw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7idiC8K2Hw">Open on YouTube</a></p></div></div></div>
 
 ## Evidence From Children and Infants
 
 The importance of contour appears surprisingly early in human development.
 
-Studies led by psychologist Sandra Trehub found that infants are sensitive to changes that alter melodic contour. Even before acquiring musical expertise, young listeners detect when the general shape of a melody changes. In many cases, contour violations are easier for them to notice than more subtle interval modifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">JSTORInfants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span>
+Studies led by psychologist Sandra Trehub found that infants are sensitive to changes that alter melodic contour. Even before acquiring musical expertise, young listeners detect when the general shape of a melody changes. In many cases, contour violations are easier for them to notice than more subtle interval modifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span>
 
 Research with children has produced similar findings. When melodies are transformed while preserving contour, children often judge them as more similar to the original than melodies whose contour has been altered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/0022096588900495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">W.J. Dowling. Scale and contour: Two components of a theory of memory for melodies. Psychological Review, 85 (1978), pp. 341-354. View in...</span></span></span>
 
 These results suggest that contour is not merely a skill used by trained musicians. It appears to be a fundamental feature of how humans perceive and remember melodic patterns.
 
-
-<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-dark.svg" | relative_url }}" alt="Contour illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Contour Matters More Than Perfect Accuracy
 
 A common misconception is that recognising a melody requires remembering exact notes. In reality, listeners often succeed with much less precise information.
@@ -344,12 +336,10 @@ This robustness has practical consequences. Systems designed to identify songs f
 
 The success of these systems mirrors human perception: when people hum a remembered tune, they often preserve its contour even when many intervals are inaccurate.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MG4I88LO564" title="Melodic Contour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MG4I88LO564" target="_blank" rel="noopener noreferrer">Melodic Contour</a></p><p class="youtube-embed-meta">Channel: Jenny Maier</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MG4I88LO564" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MG4I88LO564">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-dark.svg" | relative_url }}" alt="Contour illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Shape Your Brain Hums Back
 
-When a melody remains in memory, what survives is often not a detailed musical score but a simplified map of movement through pitch space. Research spanning memory experiments, developmental studies and melody-recognition tasks consistently points to melodic contour as a key mechanism behind tune recognition. Research Labs <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">JSTORInfants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span> That is why a familiar song can suddenly come back to mind after hearing only a few notes. The brain recognises the shape first. The exact notes may follow later, but the contour is often the spark that unlocks the memory of the tune.
+When a melody remains in memory, what survives is often not a detailed musical score but a simplified map of movement through pitch space. Research spanning memory experiments, developmental studies and melody-recognition tasks consistently points to melodic contour as a key mechanism behind tune recognition. Research Labs <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span> That is why a familiar song can suddenly come back to mind after hearing only a few notes. The brain recognises the shape first. The exact notes may follow later, but the contour is often the spark that unlocks the memory of the tune.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,144 +738,144 @@ When a melody remains in memory, what survives is often not a detailed musical s
 1. <a id="endnote-1"></a>
    Source: pubs.aip.org  
    Title: Contour Interval and Pitch Recognition in Memory  
-   Link: [https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory](https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory)  
+   Link: <a href="https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIP PublishingContour, Interval, and Pitch Recognition in Memory for Melodies1 Feb 1971 — Melodic contour (the sequence of ups and downs...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf](https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciSpaceMusical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</p></details>
+   Link: <a href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Musical Features That Facilitate Melody Identification  
-   Link: [https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It](https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It)  
+   Link: <a href="https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>few notes they would require in order to identify some well-known tune. Experienced listeners are often able to recognize a melody within...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: jstor.org  
    Title: Infants' Perception of Melodies: The Role of Melodic Contour  
-   Link: [https://www.jstor.org/stable/1130133](https://www.jstor.org/stable/1130133)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORInfants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</p></details>
+   Link: <a href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1130133</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</p></details>
    Published: June 3, 1984  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0022096588900495](https://www.sciencedirect.com/science/article/pii/0022096588900495)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0022096588900495" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022096588900495</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>W.J. Dowling. Scale and contour: Two components of a theory of memory for melodies. Psychological Review, 85 (1978), pp. 341-354. View in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Parsons code  
-   Link: [https://en.wikipedia.org/wiki/Parsons_code](https://en.wikipedia.org/wiki/Parsons_code)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parsons_code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parsons_code</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Musipedia](https://en.wikipedia.org/wiki/Musipedia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Musipedia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Musipedia</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies](https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies)  
+   Link: <a href="https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scale and contour: Two components of a theory of memory...30 Sept 2025 — It has been suggested that contour may be processed independent...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody](https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody)  
+   Link: <a href="https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Of A Contour-Based Representation For MelodyThe goal of this research is to explore what variation of contour and rhythmic infor...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubs.aip.org  
    Title: 524 1 online  
-   Link: [https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf](https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf)  
+   Link: <a href="https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Musical Structure and Emotion in Several Cultures,&quot; paper presented to Western. Psychol.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: labs.utdallas.edu  
    Title: Second, there is the overlearned musical scale to which.Read more  
-   Link: [https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf](https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf)  
+   Link: <a href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: brainmusic.org  
-   Link: [https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf](https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf)  
+   Link: <a href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: brainmusic.org  
-   Link: [https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf](https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf)  
+   Link: <a href="https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Musical Structure and Emotion in Several Cultures,&quot; paper presented to Western. Psychol.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: online.ucpress.edu  
    Title: Exploring Melodic Contour A Clustering Approach  
-   Link: [https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach](https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach)  
+   Link: <a href="https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineExploring Melodic Contour: A Clustering Approach19 Dec 2024 — An experiment by Dowling (1978) showed that the contours of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf](https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>melodic lines between contour turning points are more likely to become INMI. Turning points in a melody occur when the pitch direction re...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: brainmusic.org  
-   Link: [https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf](https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf)  
+   Link: <a href="https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicMusical Training Enhances Automatic Encoding of Melodic...by T Fujioka · Cited by 508 — The role of contour and intervals in...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: online.ucpress.edu  
-   Link: [https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of](https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of)  
+   Link: <a href="https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinctiveness Effect in the Recognition of Whole Melodies1 Feb 2019 — Using linear mixed-effects modeling, we found that greater pitch...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: jcaa.caa-aca.ca  
-   Link: [https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251](https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251)  
+   Link: <a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251" target="_blank" rel="noopener noreferrer nofollow">https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>caa-aca.ca1.1 Contour in music cognitionby JB Prince · Cited by 25 — Contour also plays a crucial role in mu sic cognition, providing one...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ovid.com  
-   Link: [https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of](https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of)  
+   Link: <a href="https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CHILDREN&#x27;S PERCEPTION OF FAMILIAR MELODIESby SE Trehub · 1985 · Cited by 80 — In this case, exact transpositions may be confused with tra...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24](https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24)  
+   Link: <a href="https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ktunes and fugues, is demonstrated by brief analyses of actual music...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: decisionneurosciencelab.org  
-   Link: [https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf](https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf)  
+   Link: <a href="https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>melodic and rhythmic contour in perception and memoryby WJ Dowling · Cited by 17 — Dowling, Kwak, and Andrews (1995) introduced &quot;real&quot; no...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hal.science  
    Title: Talamini contour Music Perception  
-   Link: [https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf](https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf)  
+   Link: <a href="https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can melodic contour help encoding luminance sequences...by F Talamini · 2025 — Studies have shown that contour is an essential feature t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Music Theory: Why We Remember Melodies  
-   Link: [https://www.youtube.com/watch?v=yW6C5f1S5-0](https://www.youtube.com/watch?v=yW6C5f1S5-0)  
+   Link: <a href="https://www.youtube.com/watch?v=yW6C5f1S5-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6C5f1S5-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how the broader, relative shape of a tune—its &quot;melodic contour&quot;—allows our brains to recognize and store musical pat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby GC Lebedeva · 2010 · Cited by 80 — This study investigated whether 11-month-old infants perceive the pitch (melodic) or the phoneti...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by GC Lebedeva · 2010 · Cited by 80 — This study investigated whether 11-month-old infants perceive the pitch (melodic) or the phoneti...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Melodic Contours Transcend Pitch - PMC - NIHby JE Graves · 2014 · Cited by 18 — The present study found that listener expectations fo...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: digitalcommons.bucknell.edu  
-   Link: [https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&context=fac_journ](https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&context=fac_journ)  
+   Link: <a href="https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&amp;context=fac_journ" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&amp;context=fac_journ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Features and Context in Recognition of Novel MelodiesWE INVESTIGATED HOW WELL STRUCTURAL FEATURES such as note density or the rel...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf](https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf)  
+   Link: <a href="https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>melody recognition: Distinctiveness and the role of...by F Bailes · 2010 · Cited by 29 — They suggest that duration may facilitate melod...</p></details>

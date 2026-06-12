@@ -9,23 +9,23 @@ sibling_basenames:
 - music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260
 - music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1
 tags:
-- music
+- music-3-a01-be
 - harmony
 keywords:
-- music
+- music-3-a01-be
 - harmony
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: The same melody can evoke hope, sadness, or suspense depending on the chords and harmonic setting beneath it.
 hero_summary: The same melody can evoke hope, sadness, or suspense depending on the chords and harmonic setting beneath it.
 layout: default
 permalink: /melody-harmony/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /harmony/
 nav_short_title: Melody & Harmony
 title: How Harmony Reinterprets the Emotional Meaning of a Melody
-title_full: How Harmony Reinterprets the Emotional Meaning of a Melody | Harmony
+title_full: How Harmony Reinterprets the Emotional Meaning of a Melody
 display_title_short: Melody & Harmony
 display_title: Melody & Harmony
 heading_title: How Harmony Reinterprets the Emotional Meaning of a Melody
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Harmony Changes What Music Means | Music
+parent_title: How Harmony Changes What Music Means
 parent_permalink: /harmony/
 parent_nav_short_title: Harmony
 parent_heading_title: How Harmony Changes What Music Means
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -247,7 +247,7 @@ sibling_links:
   heading_title: How Unresolved Chords Keep Music Emotionally Open
 up_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -263,7 +263,7 @@ next_link:
   permalink: /tension-release/
   short_title: Tension & Release
   heading_title: How Tension and Release Shape Emotional Impact in Music
-date: '2026-06-09 07:26:01 '
+date: '2026-06-11 23:44:29 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1.webp
@@ -274,14 +274,12 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_co
 
 In music, a [melody]({{ 'melody/' | relative_url }})’s emotional effect doesn’t belong solely to its sequence of pitches. Placing that same melody over different chords can dramatically change how we feel it — making it sound bright, wistful, tense or serene — without altering a single melodic note. This process of **melody reinterpretation through different harmonic contexts** is fundamental in composition, arrangement and improvisation, because [harmony]({{ 'harmony/' | relative_url }}) colours a melody’s emotional meaning by redefining the roles that individual notes play within the musical space. Reharmonization — supplying alternate chords beneath an unchanged melody — reveals how the vertical harmonic frame shapes listener perception of that melody’s emotional character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-dark.svg" | relative_url }}" alt="Melody &amp; Harmony illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Stable versus Clashing Chord Tones
 
 When a melody is supported by a chord, the relationship between each melodic note and the chord’s tones influences emotional perception. Melodic tones that align with a chord’s constituent pitch classes (the chord tones) create a sense of consonance and stability, which listeners typically hear as relaxed or resolved. By contrast, when a sustained melody note is not a tone of the supporting chord — for example, if a chord change leaves the melody note as a non‑chord tone — this can create “suspension” or tension that feels unresolved or expressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnotation.org.uk">[Global Notation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnotation.org.uk</span><span class="citation-popover-snippet">Global NotationGlobal Notation - Relating melody to chords...</span></span></span>
 
 For instance, the same E‑note in a tune can be harmonised as the root of an E major chord (E–G♯–B), suggesting stability and brightness, or as the third of a C major chord (C–E–G), shifting its perceived function within the harmony. This kind of reinterpretation plays with **vertical relationships** between melody and harmony, making a familiar melody feel different because the same pitch now serves a new harmonic identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9o7558M5ssY" title="Adding Melody to Chords | Beginner Guitar Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9o7558M5ssY" target="_blank" rel="noopener noreferrer">Adding Melody to Chords | Beginner Guitar Tips</a></p><p class="youtube-embed-meta">Channel: Guitar Center &middot; Views: 83.3K &middot; Uploaded: January 2022 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9o7558M5ssY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9o7558M5ssY">Open on YouTube</a></p></div></div></div>
 
@@ -291,11 +289,10 @@ Beyond basic triads, adding extensions and colour tones in the harmony beneath a
 
 In the practice of reharmonization, this technique allows the harmonic context to gently shift a melody’s emotional shading without disrupting its identity. For example, substituting diatonic chords with borrowed chords from parallel modes, or inserting chords that share a melody tone but alter surrounding intervals, can make a tune feel more introspective, lush, or forward‑leaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnjazzstandards.com">[Learn Jazz Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnjazzstandards.com</span><span class="citation-popover-title">Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard</span><span class="citation-popover-snippet">September 30, 2025...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-2-dark.svg" | relative_url }}" alt="Melody &amp; Harmony illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Reharmonization Effects
 
-Reharmonization illustrates how altering harmony changes the emotional character of a melody. Classical masters like J. S. Bach frequently presented the same chorale tune with widely differing harmonizations across movements, revealing new emotional contours without changing the melody itself. In some Bach chorale harmonizations, only a few of the final chords match across versions; most supporting harmonies differ dramatically, creating varied expressive effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/[Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts2.32: Reharmonizing a Melody</span><span class="citation-popover-snippet">Humanities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</span><span class="citation-popover-meta">Published: July 16, 2023</span></span></span>
+Reharmonization illustrates how altering harmony changes the emotional character of a melody. Classical masters like J. S. Bach frequently presented the same chorale tune with widely differing harmonizations across movements, revealing new emotional contours without changing the melody itself. In some Bach chorale harmonizations, only a few of the final chords match across versions; most supporting harmonies differ dramatically, creating varied expressive effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts2.32: Reharmonizing a Melody</span><span class="citation-popover-snippet">ities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</span><span class="citation-popover-meta">Published: July 16, 2023</span></span></span>
 
 In jazz, reharmonization is a core creative tool. Improvisers and arrangers take well‑known melodies — such as standards from the Great American Songbook — and apply alternate chord progressions beneath them. Techniques like chord substitution, tritone substi­tutions and borrowed chords produce fresh emotional readings while the melody line remains recognisable. These reharmonised versions may sound more modern, tension‑filled or smoother, depending on how the new chords interact with melodic tones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jazzadvice.com">[Jazz Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jazzadvice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -303,9 +300,7 @@ Another concrete example from jazz theory shows how changing the harmonic contex
 
 In all these cases, the mechanism is the same: **the same melody takes on new emotional colours because the chords underneath redefine the role of each pitch, alter tension and release patterns, and change expectation**. Simply put, harmony gives context — and that context shapes how the melody is felt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/csXcXYyvq40" title="Changing Harmony from Major to Minor - Music Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=csXcXYyvq40" target="_blank" rel="noopener noreferrer">Changing Harmony from Major to Minor - Music Theory</a></p><p class="youtube-embed-meta">Channel: Music Matters &middot; Views: 8.6K &middot; Uploaded: May 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=csXcXYyvq40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=csXcXYyvq40">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WZ3njfHevWQ" title="How to Harmonize a Tough Melody" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WZ3njfHevWQ" target="_blank" rel="noopener noreferrer">How to Harmonize a Tough Melody</a></p><p class="youtube-embed-meta">Channel: 8-bit Music Theory &middot; Views: 92.6K &middot; Uploaded: March 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WZ3njfHevWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WZ3njfHevWQ">Open on YouTube</a></p></div></div></div>
 
@@ -313,8 +308,7 @@ In all these cases, the mechanism is the same: **the same melody takes on new em
 
 Practically, reharmonizing a melody involves identifying key melody tones and choosing chords that either reinforce stability or introduce expressive tension. Musicians typically start with chords that contain the melody note but then experiment with substitutions that still fit melodically while introducing new harmonic colours. In jazz and contemporary practice, this leads to a rich palette of harmonic possibilities that can make the same melody sound wistful, surprising or poignant, depending on the chosen context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejazzpianosite.com">[TJPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejazzpianosite.com</span><span class="citation-popover-title">TJPSHow to Reharmonize a Song</span><span class="citation-popover-snippet">Reharmonization - TJPS...</span></span></span>
 
-By focusing on how chords relate to melody — whether by strengthening consonance or intentionally creating tension through non‑chord tones and colour extensions — musicians harness harmony to reinterpret emotional meaning while leaving the melody itself untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.berklee.edu">[college.berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.berklee.edu</span><span class="citation-popover-title">Today | Berklee College of Music</span><span class="citation-popover-snippet">Berklee Today | Berklee College of Music...</span></span></span>
-
+By focusing on how chords relate to melody — whether by strengthening consonance or intentionally creating tension through non‑chord tones and colour extensions — musicians harness harmony to reinterpret emotional meaning while leaving the melody itself untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.berklee.edu">[college.berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.berklee.edu</span><span class="citation-popover-title">Today &#124; Berklee College of Music</span><span class="citation-popover-snippet">Berklee Today &#124; Berklee College of Music...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-3-dark.svg" | relative_url }}" alt="Melody &amp; Harmony illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -714,118 +708,118 @@ By focusing on how chords relate to melody — whether by strengthening consonan
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Harmonization](https://en.wikipedia.org/wiki/Harmonization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harmonization</a>  
 
 2. <a id="endnote-2"></a>
    Source: human.libretexts.org  
    Title: Humanities Libre Texts2.32: Reharmonizing a Melody  
-   Link: [https://human.libretexts.org/Bookshelves/[Music](https://human.libretexts.org/Bookshelves/[Music)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</p></details>
+   Link: <a href="https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</p></details>
    Published: July 16, 2023  
 
 3. <a id="endnote-3"></a>
    Source: thejazzpianosite.com  
    Title: TJPSHow to Reharmonize a Song  
-   Link: [https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/)  
+   Link: <a href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reharmonization - TJPS...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: college.berklee.edu  
    Title: Today | Berklee College of Music  
-   Link: [https://college.berklee.edu/bt/131/reharmonizing.html](https://college.berklee.edu/bt/131/reharmonizing.html)  
+   Link: <a href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow">https://college.berklee.edu/bt/131/reharmonizing.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berklee Today | Berklee College of Music...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: berklee.edu  
-   Link: [https://www.berklee.edu/berklee-today/summer-2001/Reharmonization](https://www.berklee.edu/berklee-today/summer-2001/Reharmonization)  
+   Link: <a href="https://www.berklee.edu/berklee-today/summer-2001/Reharmonization" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-today/summer-2001/Reharmonization</a>  
 
 6. <a id="endnote-6"></a>
    Source: globalnotation.org.uk  
-   Link: [https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords](https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords)  
+   Link: <a href="https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords" target="_blank" rel="noopener noreferrer nofollow">https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NotationGlobal Notation - Relating melody to chords...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: iconcollective.edu  
    Title: ICON Collective Learn Reharmonization and How to Reharmonize a Song  
-   Link: [https://www.iconcollective.edu/reharmonization-techniques](https://www.iconcollective.edu/reharmonization-techniques)  
+   Link: <a href="https://www.iconcollective.edu/reharmonization-techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.iconcollective.edu/reharmonization-techniques</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICON CollectiveLearn Reharmonization and How to Reharmonize a SongNovember 18, 2019...</p></details>
    Published: November 18, 2019  
 
 8. <a id="endnote-8"></a>
    Source: learnjazzstandards.com  
    Title: Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard  
-   Link: [https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/](https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/)  
+   Link: <a href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2025...</p></details>
    Published: September 30, 2025  
 
 9. <a id="endnote-9"></a>
    Source: jazzadvice.com  
-   Link: [https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/](https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/)  
+   Link: <a href="https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/</a>  
 
 10. <a id="endnote-10"></a>
    Source: blog.dubspot.com  
-   Link: [https://blog.dubspot.com/reharmonization](https://blog.dubspot.com/reharmonization)  
+   Link: <a href="https://blog.dubspot.com/reharmonization" target="_blank" rel="noopener noreferrer nofollow">https://blog.dubspot.com/reharmonization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog 2. Music Theory 3. Music Theory Tutorial: Reharmonization Music Theory April 3, 2015 5 min read MUSIC THEORY TUTORIAL: REHARMONI...</p></details>
    Published: April 3, 2015  
 
 11. <a id="endnote-11"></a>
    Source: chromatone.center  
-   Link: [https://chromatone.center/theory/harmony/reharmonization/](https://chromatone.center/theory/harmony/reharmonization/)  
+   Link: <a href="https://chromatone.center/theory/harmony/reharmonization/" target="_blank" rel="noopener noreferrer nofollow">https://chromatone.center/theory/harmony/reharmonization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reharmonization | Chromatone.centerReharmonization How to reharmonize a song Image REHARMONIZATION = CHORD SUBSTITUTION BUT FOR THE WHOLE...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: jazztutorial.com  
-   Link: [https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano](https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano)  
+   Link: <a href="https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano" target="_blank" rel="noopener noreferrer nofollow">https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano</a>  
 
 13. <a id="endnote-13"></a>
    Source: musiqa.org  
    Title: 18.2 Harmony in Western Music 18.3 Expressing Harmony 18.4 Listening Galle  
-   Link: [https://musiqa.org/sound-reasoning-18-32/](https://musiqa.org/sound-reasoning-18-32/)  
+   Link: <a href="https://musiqa.org/sound-reasoning-18-32/" target="_blank" rel="noopener noreferrer nofollow">https://musiqa.org/sound-reasoning-18-32/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Reasoning 18.32 | MusiqaSOUND REASONING TABLE OF CONTENTS Part I: Sound Reasoning Part II: Hearing Harmony 18.1 Hearing Harmony: Wh...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide](https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide)  
+   Link: <a href="https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you suspect this is your content, claim it here. Available Format...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thejazzpianosite.com  
    Title: How to turn any Song into a Jazz Song  
-   Link: [https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/)  
+   Link: <a href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TJPSHOW TO TURN ANY SONG INTO A JAZZ SONG MAKE IT JAZZY In this lesson and the below video, we will explore how you can turn any song int...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How to Instantly Figure Out Chords to Simple Melodies  
-   Link: [https://www.youtube.com/watch?v=A2wGZ6Vq-5k](https://www.youtube.com/watch?v=A2wGZ6Vq-5k)  
+   Link: <a href="https://www.youtube.com/watch?v=A2wGZ6Vq-5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2wGZ6Vq-5k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The video How to Harmonize a Tough Melody is particularly relevant as it demonstrates the practical application of reharmonizing a well-k...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jazzpianoblog.com  
    Title: Reharmonization – First Steps  
-   Link: [https://jazzpianoblog.com/reharmonization-first-steps/](https://jazzpianoblog.com/reharmonization-first-steps/)  
+   Link: <a href="https://jazzpianoblog.com/reharmonization-first-steps/" target="_blank" rel="noopener noreferrer nofollow">https://jazzpianoblog.com/reharmonization-first-steps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It’s kind of a funny word when you first encounter it. It means exactly what it sounds like. To reharmonize something is t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Sep 29;2019:2369041. doi: 10.34133/2019/2369041 THE SCIENCE OF HARMONY: A PSYCHOPHYSICAL BASIS FOR PERCEPTUAL TENSIONS AND RESOLUTIO...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0305735614552006](https://journals.sagepub.com/doi/10.1177/0305735614552006)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735614552006" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735614552006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chords convey distinct emotional qualities to both naïve and expert listeners - Imre Lahdelma, Tuomas Eerola, 2016October 15, 2014 — SING...</p></details>
    Published: October 15, 2014  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: This Melody System Changes Everything  
-   Link: [https://www.youtube.com/watch?v=3FjRhN-f6Y0](https://www.youtube.com/watch?v=3FjRhN-f6Y0)  
+   Link: <a href="https://www.youtube.com/watch?v=3FjRhN-f6Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3FjRhN-f6Y0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Instantly Figure Out Chords to Simple Melodies...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: letslearntogether.neocities.org  
-   Link: [https://letslearntogether.neocities.org/music/reharmony](https://letslearntogether.neocities.org/music/reharmony)  
+   Link: <a href="https://letslearntogether.neocities.org/music/reharmony" target="_blank" rel="noopener noreferrer nofollow">https://letslearntogether.neocities.org/music/reharmony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We are &quot;re-doing&quot; the Harmony, hence the term &quot;Reharmonization&quot;. The musician...</p></details>

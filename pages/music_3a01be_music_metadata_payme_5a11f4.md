@@ -50,22 +50,22 @@ sibling_basenames:
 - music_3a01be_uk_streaming_policy_aa90d2
 - music_3a01be_vinyl_streaming_era_a87a09
 tags:
-- music
+- music-3-a01-be
 - metadata
 keywords:
-- music
+- music-3-a01-be
 - metadata
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Credits, ownership splits and setlists must be accurate or royalties can be delayed, misallocated or lost.
 hero_summary: Credits, ownership splits and setlists must be accurate or royalties can be delayed, misallocated or lost.
 layout: default
 permalink: /metadata/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 nav_short_title: Metadata
 title: Why Bad Music Data Costs Creators Money
-title_full: Why Bad Music Data Costs Creators Money | Music
+title_full: Why Bad Music Data Costs Creators Money
 display_title_short: Metadata
 display_title: Metadata
 heading_title: Why Bad Music Data Costs Creators Money
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Music
-parent_permalink: /music/
+parent_permalink: /music-3-a01-be/
 parent_nav_short_title: Music
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 sibling_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music
+  title: Afrobeats | Music 3 A01 Be
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music
+  title: AI Flooding | Music 3 A01 Be
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music
+  title: Albums | Music 3 A01 Be
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music
+  title: Algorithms | Music 3 A01 Be
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music
+  title: Attention | Music 3 A01 Be
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music
+  title: Catalogue | Music 3 A01 Be
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music
+  title: Concerts | Music 3 A01 Be
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music
+  title: Creator Pay | Music 3 A01 Be
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music
+  title: Harmony | Music 3 A01 Be
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music
+  title: Hymns | Music 3 A01 Be
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music
+  title: IFPI Data | Music 3 A01 Be
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music
+  title: K Pop | Music 3 A01 Be
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music
+  title: Latin Music | Music 3 A01 Be
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music
+  title: Live Income | Music 3 A01 Be
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music
+  title: Lullabies | Music 3 A01 Be
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music
+  title: Lyrics | Music 3 A01 Be
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music
+  title: Melody | Music 3 A01 Be
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music
+  title: Playlists | Music 3 A01 Be
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music
+  title: Protest Songs | Music 3 A01 Be
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music
+  title: Publishing | Music 3 A01 Be
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music
+  title: Regional Scenes | Music 3 A01 Be
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music
+  title: Rhythm | Music 3 A01 Be
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music
+  title: Rights | Music 3 A01 Be
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music
+  title: Royalties | Music 3 A01 Be
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music
+  title: Setlists | Music 3 A01 Be
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music
+  title: Short Clips | Music 3 A01 Be
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music
+  title: Silence | Music 3 A01 Be
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music
+  title: Spotify Payouts | Music 3 A01 Be
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music
+  title: Streaming | Music 3 A01 Be
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music
+  title: Sync | Music 3 A01 Be
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music
+  title: Timbre | Music 3 A01 Be
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music
+  title: UK Policy | Music 3 A01 Be
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music
+  title: Vinyl | Music 3 A01 Be
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 prev_link:
   basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music
+  title: Merch | Music 3 A01 Be
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 next_link:
   basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music
+  title: Physical | Music 3 A01 Be
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
-date: '2026-06-09 06:21:57 '
+date: '2026-06-11 23:11:45 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4-overview-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4-overview.webp
@@ -501,17 +501,16 @@ image: /assets/images/music_3a01be_music_metadata_payme_5a11f4-overview-social.j
 
 ## Introduction
 
-Bad music metadata costs creators money because royalties are paid by matching usage data to the right song, recording, writer, performer, publisher and owner. If those links are missing or wrong, the money may be delayed, placed on hold, matched to the wrong party, or pushed into unclaimed and unallocated pools. The problem is not just a streaming-era annoyance. It affects [public performance]({{ 'public-play/' | relative_url }}), live gigs, DJ sets, broadcast reporting, [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), neighbouring rights and catalogue administration. The UK Government’s music streaming metadata agreement states the core issue plainly: incomplete or inaccurate metadata can cause significant delays in creators being paid, and in some cases can mean they are not paid at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
-
+Bad music metadata costs creators money because royalties are paid by matching usage data to the right song, recording, writer, performer, publisher and owner. If those links are missing or wrong, the money may be delayed, placed on hold, matched to the wrong party, or pushed into unclaimed and unallocated pools. The problem is not just a streaming-era annoyance. It affects public performance, live gigs, DJ sets, broadcast reporting, [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), neighbouring rights and [catalogue]({{ 'catalogue/' | relative_url }}) administration. The UK Government’s music streaming metadata agreement states the core issue plainly: incomplete or inaccurate metadata can cause significant delays in creators being paid, and in some cases can mean they are not paid at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-overview.webp" | relative_url }}" alt="Overview image for Metadata" loading="eager" decoding="sync" fetchpriority="high">
 Metadata sounds like paperwork, but in music it is closer to the payment address for a creative work. A listener sees a track title and artist name. The royalty system needs much more: the [recording]({{ 'recording/' | relative_url }}) identifier, the musical work identifier, writer and publisher shares, performer details, [ownership]({{ 'ownership/' | relative_url }}) claims, setlists, usage reports and the identifiers that distinguish one person or company from another. When that information is clean, money can move. When it is fragmented, the system has to guess, hold, research or redistribute.
 
 ## The payment chain depends on matching, not just listening
 
-Modern [music]({{ 'music/' | relative_url }}) [royalties]({{ 'royalties/' | relative_url }}) are created when music is used, but they are paid when that use can be matched to the correct rightsholders. A stream, radio play, club performance or live set produces data. That data then has to connect to a recording, a composition, and the people or companies entitled to income from each side.
+Modern music [royalties]({{ 'royalties/' | relative_url }}) are created when music is used, but they are paid when that use can be matched to the correct rightsholders. A stream, radio play, club performance or live set produces data. That data then has to connect to a recording, a composition, and the people or companies entitled to income from each side.
 
-This is why metadata failures can be so costly. A streaming service may know that a sound recording was played, but the publishing royalty still needs a link from that recording to the underlying musical work. A venue may have paid for a live music licence, but the performing rights organisation still needs to know which songs were performed. A performer may have played on a recording, but a neighbouring rights organisation still needs the performer credit and role data required to allocate the performer share.
+This is why metadata failures can be so costly. A streaming service may know that a sound recording was played, but the [publishing]({{ 'publishing/' | relative_url }}) royalty still needs a link from that recording to the underlying musical work. A venue may have paid for a live music licence, but the performing [rights]({{ 'rights/' | relative_url }}) organisation still needs to know which songs were performed. A performer may have played on a recording, but a neighbouring rights organisation still needs the performer credit and role data required to allocate the performer share.
 
 The UK music streaming metadata agreement was created because the industry recognised that metadata for songwriters and compositions is often less complete and timely than recording and artist data. Its commitments include improving the quality and timeliness of work and songwriter metadata associated with new recordings, creating a core data set, and supporting education and technical working groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">united kingdom industry agreement on music streaming metadata</span><span class="citation-popover-snippet">United Kingdom Industry Agreement on Music Streaming...2 Nov 2023 — This document sets out a roadmap for how industry and Government wil...</span></span></span>
 
@@ -529,7 +528,6 @@ An **IPI** number identifies interested parties such as songwriters, composers, 
 
 These identifiers do different jobs. The royalty chain becomes fragile when they are missing, duplicated, misspelled or not linked together:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **Recording data:** ISRC, artist name, label, release title, version, distributor and recording ownership.
@@ -541,7 +539,6 @@ These identifiers do different jobs. The royalty chain becomes fragile when they
 </div>
 
 The key risk is that each system may only see part of the picture. A distributor may deliver an ISRC to a streaming platform; a publisher may register a work with an ISWC; a collecting society may hold writer and publisher shares; a venue may submit performance information. Royalties are most vulnerable where these datasets fail to meet.
-
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-1-dark.svg" | relative_url }}" alt="Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Splits can freeze money even when the song is known
@@ -566,9 +563,7 @@ The Musicians’ Union guidance on reporting live performances to PRS shows how 
 
 The risk is obvious: if the setlist is not submitted, or if songs are not registered properly, the royalty society may not know which works to pay. For a grassroots songwriter, the live royalty may be modest per gig, but repeated missed reports across tours, support slots and festivals can turn into meaningful lost income. For cover versions, the effect can be even less visible: the performing artist may not be the songwriter, so the person owed the money may never know that the song was played.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8mPvNpeX8pw" title="Tag MP3&#x27;s on Mac - Add Metadata and Artwork To Mp3 and Wav Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8mPvNpeX8pw" target="_blank" rel="noopener noreferrer">Tag MP3&#x27;s on Mac - Add Metadata and Artwork To Mp3 and Wav Files</a></p><p class="youtube-embed-meta">Channel: Jimmy, Make Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8mPvNpeX8pw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8mPvNpeX8pw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-2-dark.svg" | relative_url }}" alt="Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## DJ sets show the weakness of old reporting systems
 
 DJ performances expose the metadata problem especially sharply. A band set might contain ten or fifteen songs. A DJ set may contain dozens of tracks, blends, edits, remixes and partial uses, often by other producers. The rightsholder who should be paid is frequently not the person on stage.
@@ -591,8 +586,7 @@ The UK Intellectual Property Office’s metadata work also highlights delay as a
 
 The delay problem tends to be worse for creators with less administrative support. A major publisher may have staff dedicated to cleaning registrations, chasing unmatched income and resolving conflicts. A self-releasing artist, bedroom producer or songwriter without a publisher may not even know which database contains the missing field.
 
-
-<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-2-dark.svg" | relative_url }}" alt="Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-dark.svg" | relative_url }}" alt="Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Standards help, but they do not fix human workflow
 
 The music industry has not ignored metadata. It has standards, identifiers and data exchange systems. DDEX, the Digital Data Exchange standards body, provides formats for sharing music metadata between companies. Its recording data and rights standard enables the exchange of metadata about recordings, contributors and rights claims between record companies, performer representatives and licensing companies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ddex.net/standards/recording-data-and-rights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddex.net">[DDEX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddex.net</span><span class="citation-popover-title">Recording Data and Rights</span><span class="citation-popover-snippet">Recording Data and Rights</span></span></span> DDEX also says studio metadata is important for attribution and for ensuring royalties, where due, are allocated to the correct people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ddex.net/standards-2023/collection-of-studio-metadata/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddex.net">[DDEX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddex.net</span><span class="citation-popover-title">Collection of Studio Metadata</span><span class="citation-popover-snippet">Collection of Studio Metadata</span></span></span>
@@ -603,14 +597,11 @@ The UK industry agreement on streaming metadata therefore focuses not only on te
 
 That combination is important. Metadata reform is not just a software problem. It is a behaviour problem across writing rooms, studios, distributors, labels, publishers, collecting societies, platforms, venues and creators themselves.
 
-
-<img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-dark.svg" | relative_url }}" alt="Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The common failure points creators should recognise
 
 For a reader trying to understand why music data decides payment, the most useful way to think about metadata is as a chain of avoidable weak links. The same song can be perfectly popular and still poorly paid if the administrative connections are broken.
 
 The highest-risk errors include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -627,9 +618,6 @@ The highest-risk errors include:
 
 The practical consequence is that the music may still be heard, streamed, played or performed, but the royalty system cannot confidently answer the most important question: who should receive the money?
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
-
 ## Why the metadata problem is also a fairness problem
 
 Bad metadata does not affect everyone equally. Large catalogues, major publishers and established labels usually have better administrative resources, richer historical data and more leverage to resolve conflicts. Smaller creators may have to discover errors themselves, learn several systems and correct data after money has already gone unmatched.
@@ -638,11 +626,7 @@ This is why metadata debates often become fairness debates. If unclaimed or unid
 
 The fair answer is not simply to blame one party. Platforms need usable data. Distributors need to pass it cleanly. Publishers and societies need accurate work registrations. Venues and promoters need to report performances. DJs and artists need workable tracklist tools. Creators need to capture splits and identifiers before release, not years later.
 
-Metadata decides who gets paid because it is the evidence layer between music use and money. In a small scene, that evidence might be a [handwritten setlist]({{ 'paper-setlists/' | relative_url }}). In global streaming, it might be an ISRC, an ISWC, several IPI numbers and a chain of DDEX messages. The principle is the same: royalties can only travel to the right people when the data tells the system where to send them.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BHmVr8ZPmp0" title="Time Signatures Explained for Beginners - my formula to figure out any time signature!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BHmVr8ZPmp0" target="_blank" rel="noopener noreferrer">Time Signatures Explained for Beginners - my formula to figure out any time signature!</a></p><p class="youtube-embed-meta">Channel: Ruairi Glasheen</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BHmVr8ZPmp0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BHmVr8ZPmp0">Open on YouTube</a></p></div></div></div>
-
+Metadata decides who gets paid because it is the evidence layer between music use and money. In a small scene, that evidence might be a handwritten setlist. In global streaming, it might be an ISRC, an ISWC, several IPI numbers and a chain of DDEX messages. The principle is the same: royalties can only travel to the right people when the data tells the system where to send them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1041,266 +1025,266 @@ Metadata decides who gets paid because it is the evidence layer between music us
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: U K industry agreement on music streaming metadata  
-   Link: [https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata](https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata)  
+   Link: <a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</p></details>
    Published: May 31, 2023  
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: united kingdom industry agreement on music streaming metadata  
-   Link: [https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata](https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata)  
+   Link: <a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom Industry Agreement on Music Streaming...2 Nov 2023 — This document sets out a roadmap for how industry and Government wil...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: isrc.ifpi.org  
    Title: isrc Isrc@ifpi  
-   Link: [https://isrc.ifpi.org/](https://isrc.ifpi.org/)  
+   Link: <a href="https://isrc.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/</a>  
 
 4. <a id="endnote-4"></a>
    Source: ifpi.org  
-   Link: [https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf](https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf)  
+   Link: <a href="https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: iswc.org  
-   Link: [https://www.iswc.org/iswc](https://www.iswc.org/iswc)  
+   Link: <a href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.iswc.org/iswc</a>  
 
 6. <a id="endnote-6"></a>
    Source: cisac.org  
    Title: new improved music identifier will help creators all important digital  
-   Link: [https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital](https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital)  
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital</a>  
 
 7. <a id="endnote-7"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/registering-your-music/ipi-faqs](https://www.ascap.com/help/registering-your-music/ipi-faqs)  
+   Link: <a href="https://www.ascap.com/help/registering-your-music/ipi-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/ipi-faqs</a>  
 
 8. <a id="endnote-8"></a>
    Source: bmi.com  
-   Link: [https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number](https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number)  
+   Link: <a href="https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number</a>  
 
 9. <a id="endnote-9"></a>
    Source: pages.themlc.com  
-   Link: [https://pages.themlc.com/ipi-numbers](https://pages.themlc.com/ipi-numbers)  
+   Link: <a href="https://pages.themlc.com/ipi-numbers" target="_blank" rel="noopener noreferrer nofollow">https://pages.themlc.com/ipi-numbers</a>  
 
 10. <a id="endnote-10"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf](https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf)  
+   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: copyright.gov  
    Title: U.S. Copyright Office  
-   Link: [https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf](https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: copyright.gov  
    Title: U.S. Copyright Office MLC-Ex-Parte-Meeting  
-   Link: [https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf](https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/music-creators/ascap-onstage](https://www.ascap.com/music-creators/ascap-onstage)  
+   Link: <a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
 
 14. <a id="endnote-14"></a>
    Source: musicradar.com  
-   Link: [https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report](https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report)  
+   Link: <a href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The main issues stem from the lack of standardized music reporting in clubs, relying largely on unreliable methods like analogous distrib...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf](https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf)  
+   Link: <a href="https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: ddex.net  
    Title: Recording Data and Rights  
-   Link: [https://ddex.net/standards/recording-data-and-rights/](https://ddex.net/standards/recording-data-and-rights/)  
+   Link: <a href="https://ddex.net/standards/recording-data-and-rights/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/standards/recording-data-and-rights/</a>  
 
 17. <a id="endnote-17"></a>
    Source: ddex.net  
    Title: Collection of Studio Metadata  
-   Link: [https://ddex.net/standards-2023/collection-of-studio-metadata/](https://ddex.net/standards-2023/collection-of-studio-metadata/)  
+   Link: <a href="https://ddex.net/standards-2023/collection-of-studio-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/standards-2023/collection-of-studio-metadata/</a>  
 
 18. <a id="endnote-18"></a>
    Source: ddex.net  
-   Link: [https://ddex.net/tools-for-capturing-creator-credits/](https://ddex.net/tools-for-capturing-creator-credits/)  
+   Link: <a href="https://ddex.net/tools-for-capturing-creator-credits/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/tools-for-capturing-creator-credits/</a>  
 
 19. <a id="endnote-19"></a>
    Source: cisac.org  
    Title: launches major project upgrade international musical work identifier  
-   Link: [https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier](https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier)  
+   Link: <a href="https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier</a>  
 
 20. <a id="endnote-20"></a>
    Source: copyright.gov  
    Title: mlc and dlc  
-   Link: [https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf](https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/rulemaking/mma-transition-reporting/](https://www.copyright.gov/rulemaking/mma-transition-reporting/)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-transition-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-transition-reporting/</a>  
 
 22. <a id="endnote-22"></a>
    Source: copyright.gov  
    Title: The MLC Reply Submission 07 29 24  
-   Link: [https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf](https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf](https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf](https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf)  
+   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf](https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: copyright.gov  
    Title: mlc initial submission 2024  
-   Link: [https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf](https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf)  
+   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: ascap.com  
    Title: iswc number work codes faq  
-   Link: [https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq](https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq)  
+   Link: <a href="https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq</a>  
 
 28. <a id="endnote-28"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment](https://www.ascap.com/help/royalties-and-payment)  
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
 
 29. <a id="endnote-29"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards](https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards)  
+   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards</a>  
 
 30. <a id="endnote-30"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage](https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage)  
+   Link: <a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
 
 31. <a id="endnote-31"></a>
    Source: ascap.com  
-   Link: [https://www.ascap.com/help](https://www.ascap.com/help)  
+   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
 
 32. <a id="endnote-32"></a>
    Source: ipo.blog.gov.uk  
    Title: music metadata matters how to get paid and credited  
-   Link: [https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/](https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/)  
+   Link: <a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
 
 33. <a id="endnote-33"></a>
    Source: isrc.ifpi.org  
    Title: music videos  
-   Link: [https://isrc.ifpi.org/why-use-isrc/music-videos](https://isrc.ifpi.org/why-use-isrc/music-videos)  
+   Link: <a href="https://isrc.ifpi.org/why-use-isrc/music-videos" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/why-use-isrc/music-videos</a>  
 
 34. <a id="endnote-34"></a>
    Source: artist.tools  
    Title: what is music metadata essential guide for artists labels  
-   Link: [https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels](https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels)  
+   Link: <a href="https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels</a>  
 
 35. <a id="endnote-35"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/durp-initiative](https://www.themlc.com/durp-initiative)  
+   Link: <a href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/durp-initiative</a>  
 
 36. <a id="endnote-36"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/dataprograms](https://www.themlc.com/dataprograms)  
+   Link: <a href="https://www.themlc.com/dataprograms" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/dataprograms</a>  
 
 37. <a id="endnote-37"></a>
    Source: themlc.com  
    Title: Mechanical Licensing Collective Resources  
-   Link: [https://www.themlc.com/resources-publishers](https://www.themlc.com/resources-publishers)  
+   Link: <a href="https://www.themlc.com/resources-publishers" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-publishers</a>  
 
 38. <a id="endnote-38"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances  
-   Link: [https://www.prsformusic.com/royalties/report-live-performances](https://www.prsformusic.com/royalties/report-live-performances)  
+   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
 
 39. <a id="endnote-39"></a>
    Source: musiciansunion.org.uk  
    Title: how to report live performances to prs for music  
-   Link: [https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music](https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music)  
+   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
 
 40. <a id="endnote-40"></a>
    Source: prsformusic.com  
-   Link: [https://www.prsformusic.com/royalties/dj-royalties](https://www.prsformusic.com/royalties/dj-royalties)  
+   Link: <a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
 
 41. <a id="endnote-41"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties](https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties)  
+   Link: <a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: themlc.com  
    Title: Mechanical Licensing Collective Resources  
-   Link: [https://www.themlc.com/resources-songwriters](https://www.themlc.com/resources-songwriters)  
+   Link: <a href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-songwriters</a>  
 
 43. <a id="endnote-43"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music](https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music)  
+   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
 44. <a id="endnote-44"></a>
    Source: themlc.com  
-   Link: [https://www.themlc.com/](https://www.themlc.com/)  
+   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
 
 45. <a id="endnote-45"></a>
    Source: Wikipedia  
    Title: International Standard Recording Code  
-   Link: [https://en.wikipedia.org/wiki/International_Standard_Recording_Code](https://en.wikipedia.org/wiki/International_Standard_Recording_Code)  
+   Link: <a href="https://en.wikipedia.org/wiki/International_Standard_Recording_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Recording_Code</a>  
 
 46. <a id="endnote-46"></a>
    Source: Wikipedia  
    Title: International Standard Musical Work Code  
-   Link: [https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code](https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code)  
+   Link: <a href="https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/](https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/)  
+   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
 
 48. <a id="endnote-48"></a>
    Source: soundcharts.com  
    Title: music metadata  
-   Link: [https://soundcharts.com/en/blog/music-metadata](https://soundcharts.com/en/blog/music-metadata)  
+   Link: <a href="https://soundcharts.com/en/blog/music-metadata" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/music-metadata</a>  
 
 49. <a id="endnote-49"></a>
    Source: musosoup.com  
    Title: music metadata  
-   Link: [https://musosoup.com/blog/music-metadata](https://musosoup.com/blog/music-metadata)  
+   Link: <a href="https://musosoup.com/blog/music-metadata" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/music-metadata</a>  
 
 ### Additional References
 
 50. <a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study](https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study)  
+   Link: <a href="https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study</a>  
 
 51. <a id="endnote-51"></a>
    Source: studenttheses.uu.nl  
-   Link: [https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&sequence=1](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&amp;sequence=1</a>  
 
 52. <a id="endnote-52"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNA7Tf7M0pO/](https://www.instagram.com/reel/DNA7Tf7M0pO/)  
+   Link: <a href="https://www.instagram.com/reel/DNA7Tf7M0pO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNA7Tf7M0pO/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ttgigs/posts/2736459873200979/](https://www.facebook.com/groups/ttgigs/posts/2736459873200979/)  
+   Link: <a href="https://www.facebook.com/groups/ttgigs/posts/2736459873200979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ttgigs/posts/2736459873200979/</a>  
 
 54. <a id="endnote-54"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/](https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/)  
+   Link: <a href="https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/</a>  
 
 55. <a id="endnote-55"></a>
    Source: ivorsacademy.com  
-   Link: [https://ivorsacademy.com/campaign/fix-streaming/](https://ivorsacademy.com/campaign/fix-streaming/)  
+   Link: <a href="https://ivorsacademy.com/campaign/fix-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/campaign/fix-streaming/</a>  
 
 56. <a id="endnote-56"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXG9AJqGk_v/](https://www.instagram.com/p/DXG9AJqGk_v/)  
+   Link: <a href="https://www.instagram.com/p/DXG9AJqGk_v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXG9AJqGk_v/</a>  
 
 57. <a id="endnote-57"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg](https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg)  
+   Link: <a href="https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg</a>  
 
 58. <a id="endnote-58"></a>
    Source: musicrightsmanagement.in  
-   Link: [https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking](https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking)  
+   Link: <a href="https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking</a>  
 
 59. <a id="endnote-59"></a>
    Source: apraamcos.com.au  
-   Link: [https://www.apraamcos.com.au/resources/get-paid/performance-reports](https://www.apraamcos.com.au/resources/get-paid/performance-reports)  
+   Link: <a href="https://www.apraamcos.com.au/resources/get-paid/performance-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/resources/get-paid/performance-reports</a>

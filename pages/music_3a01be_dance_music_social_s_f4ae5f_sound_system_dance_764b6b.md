@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461
 - music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e
 tags:
-- music
+- music-3-a01-be
 - dance-music
 - sound-systems
 keywords:
-- music
+- music-3-a01-be
 - dance-music
 - sound-systems
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: High-powered sound systems coordinate collective bodily movement and focus in dance spaces.
 hero_summary: High-powered sound systems coordinate collective bodily movement and focus in dance spaces.
 layout: default
 permalink: /sound-systems/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /dance-music/
 nav_short_title: Sound Systems
 title: Why Sound Systems Direct Collective Movement on Dance Floors
-title_full: Why Sound Systems Direct Collective Movement on Dance Floors | Dance Music
+title_full: Why Sound Systems Direct Collective Movement on Dance Floors
 display_title_short: Sound Systems
 display_title: Sound Systems
 heading_title: Why Sound Systems Direct Collective Movement on Dance Floors
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Dance Music Builds A Room | Music
+parent_title: How Dance Music Builds A Room
 parent_permalink: /dance-music/
 parent_nav_short_title: Dance Music
 parent_heading_title: How Dance Music Builds A Room
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Club Architecture and Lighting Shape Dance Interaction
 up_link:
   basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music
+  title: Dance Music | Music 3 A01 Be
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -265,7 +265,7 @@ next_link:
   permalink: /venue-design/
   short_title: Venue Design
   heading_title: How Club Architecture and Lighting Shape Dance Interaction
-date: '2026-06-09 06:43:54 '
+date: '2026-06-11 23:23:26 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1.webp
@@ -276,43 +276,37 @@ image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_danc
 
 In [dance music]({{ 'dance-music/' | relative_url }}) [culture]({{ 'culture/' | relative_url }}), sound systems do far more than amplify tracks — they *fabricate* the shared rhythmic environment that enables dancers to synchronise their movements and feel connected as a group. At high‑powered clubs, warehouses and outdoor raves, the design, frequency range and acoustic projection of a sound system profoundly shape how music is perceived in the body, steer collective timing, and anchor the embodied experience of rhythm on the dance floor. Rather than being a neutral conduit for sound, the system becomes a **mechanism of shared rhythmic entrainment** that both aligns individual movement to a common pulse and transforms the space into a cohesive social field.
 
-
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-dark.svg" | relative_url }}" alt="Sound Systems illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Technical Setup and Layout
 
-A dance [music]({{ 'music/' | relative_url }}) sound system comprises multiple elements configured to deliver sound energy across a wide frequency spectrum, emphasising powerful low‑frequency (bass) reproduction and even coverage throughout the venue. Club systems typically include large subwoofers dedicated to very low frequencies (often below 100 Hz), mid‑range drivers for rhythmic content and high‑frequency components that articulate finer rhythmic detail. This extended bass range isn’t just heard — it’s felt through the body, especially the torso and legs, engaging sensorimotor systems beyond audition alone. Sound reinforcement systems in dance venues are calibrated with fill‑in speakers and high‑power amplifiers so that dancers in different parts of the room receive the same beat pulse without perceptible delays, preventing temporal smearing that can disrupt collective coordination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound reinforcement system</span><span class="citation-popover-snippet">Sound reinforcement system</span></span></span>
+A dance music sound system comprises multiple elements configured to deliver sound energy across a wide frequency spectrum, emphasising powerful low‑frequency (bass) reproduction and even coverage throughout the venue. Club systems typically include large subwoofers dedicated to very low frequencies (often below 100 Hz), mid‑range drivers for rhythmic content and high‑frequency components that articulate finer rhythmic detail. This extended bass range isn’t just heard — it’s felt through the body, especially the torso and legs, engaging sensorimotor systems beyond audition alone. Sound reinforcement systems in dance venues are calibrated with fill‑in speakers and high‑power amplifiers so that dancers in different parts of the room receive the same beat pulse without perceptible delays, preventing temporal smearing that can disrupt collective coordination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound reinforcement system</span><span class="citation-popover-snippet">Sound reinforcement system</span></span></span>
 
 The spatial layout of speakers and acoustics of the room also matter. Subwoofers placed symmetrically and calibrated with room absorbers and traps can create a more uniform bass field, minimising dead spots and ensuring that the beat’s energy reaches the ensemble of dancers. Engineers often deploy delays and carefully positioned fills so that sound from different speaker arrays arrives synchronously, stabilising beat perception across the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baronentertainment.co.uk">[Baron Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baronentertainment.co.uk</span><span class="citation-popover-title">Baron Entertainment Sound Systems &amp; Acoustics: How Clubs Create the Ultimate</span><span class="citation-popover-snippet">Baron EntertainmentSound Systems &amp; Acoustics: How Clubs Create the Ultimate...February 17, 2025 — A well-designed sound system, paired w...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize rhythm - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2UphAzryVpY" target="_blank" rel="noopener noreferrer">A different way to visualize rhythm - John Varney</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.6M &middot; Uploaded: October 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2UphAzryVpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2UphAzryVpY">Open on YouTube</a></p></div></div></div>
 
 ## Acoustic Influence on Movement
 
-Powerful bass and consistent rhythmic emphasis enable *entrainment* — the alignment of dancers’ movements to a common temporal framework. Human motor systems are highly responsive to low‑frequency rhythmic cues, which engage not only auditory but also vestibular and vibrotactile pathways. Very low bass has been shown to increase dancing intensity, suggesting that deep sub‑bass frequencies enhance the urge to move and improve timing alignment among dancers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectUndetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</span><span class="citation-popover-meta">Published: November 7, 2022</span></span></span>
+Powerful bass and consistent rhythmic emphasis enable *entrainment* — the alignment of dancers’ movements to a common temporal framework. Human motor systems are highly responsive to low‑frequency rhythmic cues, which engage not only auditory but also vestibular and vibrotactile pathways. Very low bass has been shown to increase dancing intensity, suggesting that deep sub‑bass frequencies enhance the urge to move and improve timing alignment among dancers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Undetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</span><span class="citation-popover-meta">Published: November 7, 2022</span></span></span>
 
 Experimental research supports the notion that rhythmic beats facilitate coordinated movement: individuals exhibit stronger tempo entrainment and more active movement when the bass drum’s sound pressure level increases, indicating that the acoustic dominance of low‑frequency impulses serves as a bodily reference for motor coordination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://backoffice.biblio.ugent.be/download/3192372/6990908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backoffice.biblio.ugent.be">[backoffice.biblio.ugent.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backoffice.biblio.ugent.be</span><span class="citation-popover-title">The Impact of the Bass Drum on Human Dance Movement</span><span class="citation-popover-snippet">February 21, 2013 — THE PRESENT STUDY AIMS TO GAIN BETTER INSIGHT into the connection between music and dance by exam- ining the dynamic...</span><span class="citation-popover-meta">Published: February 21, 2013</span></span></span>
 
-In real dance settings, group synchrony of body movements correlates with rhythmic features that approximate natural locomotor patterns (around 100‑150 bpm), highlighting how acoustic [rhythm]({{ 'rhythm/' | relative_url }}) patterns on sound systems align with embodied timing templates that are familiar and easily matched by dancers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
-
+In real dance settings, group synchrony of body movements correlates with rhythmic features that approximate natural locomotor patterns (around 100‑150 bpm), highlighting how acoustic [rhythm]({{ 'rhythm/' | relative_url }}) patterns on sound systems align with embodied timing templates that are familiar and easily matched by dancers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JISh_c8oUsw" title="Rhythm in music explained- How to get rhythm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JISh_c8oUsw" target="_blank" rel="noopener noreferrer">Rhythm in music explained- How to get rhythm</a></p><p class="youtube-embed-meta">Channel: Ruairi Glasheen &middot; Views: 341.6K &middot; Uploaded: December 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JISh_c8oUsw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JISh_c8oUsw">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-3-dark.svg" | relative_url }}" alt="Sound Systems illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-2-dark.svg" | relative_url }}" alt="Sound Systems illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sound Systems as Community Focal Points
 
-Beyond acoustics, sound systems structure the *social* experience of shared rhythm. Historically rooted in Jamaican diasporic culture, sound system setups brought powerful PA systems into communal gatherings where rhythm isn’t passively heard but collectively *felt* and responded to, creating a sense of communal flow and shared focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakota.co.uk">[Lakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakota.co.uk</span><span class="citation-popover-snippet">LakotaThe rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</span><span class="citation-popover-meta">Published: September 13, 2024</span></span></span>
+Beyond acoustics, sound systems structure the *social* experience of shared rhythm. Historically rooted in Jamaican diasporic culture, sound system setups brought powerful PA systems into communal gatherings where rhythm isn’t passively heard but collectively *felt* and responded to, creating a sense of communal flow and shared focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakota.co.uk">[Lakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakota.co.uk</span><span class="citation-popover-snippet">The rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</span><span class="citation-popover-meta">Published: September 13, 2024</span></span></span>
 
 In club contexts, the sound system effectively becomes the *temporal centre* — the source of the beat that dancers orient towards and synchronise with. When dancers perceive a stable, embodied beat through a high‑energy system, they can match their movements not only to the sound but also to each other, reinforcing collective timing and social cohesion. Even subtle acoustic features — the balance of low versus high frequencies, the shape of transient sounds, and the rhythmic clarity of percussion — influence how easily individuals can entrain their movements to the beat and to one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mts/article/44/1/1/6458117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[academic.oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">December 9, 2021...</span><span class="citation-popover-meta">Published: December 9, 2021</span></span></span>
 
 In sum, the role of sound systems in dance music is both technical and social: carefully engineered systems deliver rhythmic energy that bodies can lock into, while culturally rooted practices around system design and deployment curate the shared rhythmic field in which dancers experience collective movement and connection.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Zfogjk3rpc" title="Basic Subwoofer Set-up &amp; Placement for Events - Getting the Best Sound Out of Your Subwoofers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Zfogjk3rpc" target="_blank" rel="noopener noreferrer">Basic Subwoofer Set-up &amp; Placement for Events - Getting the Best Sound Out of Your Subwoofers</a></p><p class="youtube-embed-meta">Channel: DJ Life Mag &amp; DJX SHOW &middot; Views: 56.5K &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Zfogjk3rpc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Zfogjk3rpc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -711,116 +705,116 @@ In sum, the role of sound systems in dance music is both technical and social: c
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sound reinforcement system  
-   Link: [https://en.wikipedia.org/wiki/Sound_reinforcement_system](https://en.wikipedia.org/wiki/Sound_reinforcement_system)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_reinforcement_system</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0960982222015354](https://www.sciencedirect.com/science/article/pii/S0960982222015354)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectUndetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0960982222015354</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Undetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</p></details>
    Published: November 7, 2022  
 
 3. <a id="endnote-3"></a>
    Source: backoffice.biblio.ugent.be  
    Title: The Impact of the Bass Drum on Human Dance Movement  
-   Link: [https://backoffice.biblio.ugent.be/download/3192372/6990908](https://backoffice.biblio.ugent.be/download/3192372/6990908)  
+   Link: <a href="https://backoffice.biblio.ugent.be/download/3192372/6990908" target="_blank" rel="noopener noreferrer nofollow">https://backoffice.biblio.ugent.be/download/3192372/6990908</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2013 — THE PRESENT STUDY AIMS TO GAIN BETTER INSIGHT into the connection between music and dance by exam- ining the dynamic...</p></details>
    Published: February 21, 2013  
 
 4. <a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
    Published: October 20, 2016  
 
 5. <a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/mts/article/44/1/1/6458117](https://academic.oup.com/mts/article/44/1/1/6458117)  
+   Link: <a href="https://academic.oup.com/mts/article/44/1/1/6458117" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mts/article/44/1/1/6458117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2021...</p></details>
    Published: December 9, 2021  
 
 6. <a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/mts/article/44/1/1/6458117?rss=1](https://academic.oup.com/mts/article/44/1/1/6458117?rss=1)  
+   Link: <a href="https://academic.oup.com/mts/article/44/1/1/6458117?rss=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mts/article/44/1/1/6458117?rss=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Flux: Sound and Timing in Electronic Dance Music | Music Theory Spectrum | Oxford AcademicDecember 9, 2021 — Journal Article A GRID IN...</p></details>
    Published: December 9, 2021  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161](https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our study highlights the importance of types of waves...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/book/56186/chapter/443056466](https://academic.oup.com/book/56186/chapter/443056466)  
+   Link: <a href="https://academic.oup.com/book/56186/chapter/443056466" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/56186/chapter/443056466</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Embodied Perspective on Rhythm in Music–Dance Genres21 Mar 2024 — The experience of musical rhythm involves the interaction between sonic...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: baronentertainment.co.uk  
    Title: Baron Entertainment Sound Systems & Acoustics: How Clubs Create the Ultimate  
-   Link: [https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/](https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/)  
+   Link: <a href="https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baron EntertainmentSound Systems &amp; Acoustics: How Clubs Create the Ultimate...February 17, 2025 — A well-designed sound system, paired w...</p></details>
    Published: February 17, 2025  
 
 10. <a id="endnote-10"></a>
    Source: lakota.co.uk  
-   Link: [https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/](https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LakotaThe rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</p></details>
+   Link: <a href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow">https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</p></details>
    Published: September 13, 2024  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: bassline.org.uk  
-   Link: [https://www.bassline.org.uk/](https://www.bassline.org.uk/)  
+   Link: <a href="https://www.bassline.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bassline.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Association of Sound SystemsWelcome to the homepage of the British Association of Sound Systems. BASS The impact of &#x27; Sound Syste...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1](https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1)  
+   Link: <a href="https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e CoreFebruary 24, 2022 — COLLECTIVELY PLAYABLE WEARABLE MUSIC: PRACTICE-SITUATED APPROACHES TO PARTICIPATORY RELATIONAL INQUIRY Part of...</p></details>
    Published: February 24, 2022  
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32](https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32)  
+   Link: <a href="https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2023 — METHODS We conducted in-depth semi-structured interviews (Kvale and Brinkmann Reference Kvale and Brinkmann2009) with ex...</p></details>
    Published: March 13, 2023  
 
 14. <a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader](https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader)  
+   Link: <a href="https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2023 — SHAPING RHYTHM: TIMING AND SOUND IN FIVE GROOVE-BASED GENRES Published online by Cambridge University Press: 13 March 20...</p></details>
    Published: March 13, 2023  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/](https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/)  
+   Link: <a href="https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What low frequency bass does to the dance floorA recent study found that people danced 12% more when very low frequency bass is played. T...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.birmingham.ac.uk  
-   Link: [https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/](https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the vibe: sound, vibration, and affective attunement in electronic dance music scenes - University of BirminghamJanuary 2, 2020 — FEELING...</p></details>
    Published: January 2, 2020  
 
 17. <a id="endnote-17"></a>
    Source: cir.nii.ac.jp  
-   Link: [https://cir.nii.ac.jp/crid/1360021394479998208?lang=en](https://cir.nii.ac.jp/crid/1360021394479998208?lang=en)  
+   Link: <a href="https://cir.nii.ac.jp/crid/1360021394479998208?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360021394479998208?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rhythm: timing and sound in five groove-based genres | CiNii ResearchSHAPING RHYTHM: TIMING AND SOUND IN FIVE GROOVE-BASED GENRES DOI Web...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mtosmt.org  
-   Link: [https://www.mtosmt.org/ojs/index.php/mto/article/view/622](https://www.mtosmt.org/ojs/index.php/mto/article/view/622)  
+   Link: <a href="https://www.mtosmt.org/ojs/index.php/mto/article/view/622" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/ojs/index.php/mto/article/view/622</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 21, 2020 — DYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSIC ARTICLE SIDEBAR View...</p></details>
    Published: October 21, 2020  
 
 19. <a id="endnote-19"></a>
    Source: mtosmt.org  
    Title: SANDVIK, AND JON MARIUS AARESKJOLD-DRECKER KEYWORDS: groove, rhythm,  
-   Link: [https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html](https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html)  
+   Link: <a href="https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 26.2: Brøvig-Hanssen, Dynamic Range ProcessingDYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSI...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchcatalogue.net  
-   Link: [https://www.researchcatalogue.net/view/544625/728945](https://www.researchcatalogue.net/view/544625/728945)  
+   Link: <a href="https://www.researchcatalogue.net/view/544625/728945" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/544625/728945</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and dance have been connected world-wide in rituals of all sorts and social dancing.Read more...</p></details>

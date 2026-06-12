@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c
 - music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7
 tags:
-- music
+- music-3-a01-be
 - ai-songs
 - prompt-copyright
 keywords:
-- music
+- music-3-a01-be
 - ai-songs
 - prompt-copyright
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Prompt-only tracks test whether selection and taste can count as authorship when the expressive core comes from a generator.
 hero_summary: Prompt-only tracks test whether selection and taste can count as authorship when the expressive core comes from a generator.
 layout: default
 permalink: /prompt-copyright/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-songs/
 nav_short_title: Prompt Copyright
 title: Can a Prompt Make a Song Copyrightable?
-title_full: Can a Prompt Make a Song Copyrightable? | AI Songs
+title_full: Can a Prompt Make a Song Copyrightable?
 display_title_short: Prompt Copyright
 display_title: Prompt Copyright
 heading_title: Can a Prompt Make a Song Copyrightable?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets Credit For AI Made Music? | Music
+parent_title: Who Gets Credit For AI Made Music?
 parent_permalink: /ai-songs/
 parent_nav_short_title: AI Songs
 parent_heading_title: Who Gets Credit For AI Made Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When an AI Song Sounds Like a Star
 up_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music
+  title: AI Songs | Music 3 A01 Be
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -265,7 +265,7 @@ next_link:
   permalink: /upload-flood/
   short_title: Upload Flood
   heading_title: How AI Tracks Flood Streaming Platforms
-date: '2026-06-09 07:17:43 '
+date: '2026-06-11 23:40:07 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_
 
 Can a prompt make a song copyrightable? Under the emerging approach taken by the United States Copyright Office and reinforced by recent court decisions, the answer is usually no. A person who types a text prompt into a music generator and accepts the resulting track without meaningful creative intervention is unlikely to be recognised as the author of the song's expressive content. The key legal question is not who clicked “generate”, but who determined the musical expression that listeners hear. When [melody]({{ 'melody/' | relative_url }}), [lyrics]({{ 'lyrics/' | relative_url }}), arrangement and performance emerge primarily from the model rather than from human creative choices, copyright protection becomes difficult to claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This issue sits at the centre of the broader debate over AI-generated music. Prompt-only songs force copyright law to draw a line between directing a tool and creating a work. That line increasingly determines who can own, license and monetise AI-assisted music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Counts as Human Expression in an AI Song?
 
-Copyright law traditionally protects human expression rather than ideas, instructions or outcomes produced independently by a machine. In the context of AI [music]({{ 'music/' | relative_url }}), regulators are asking whether the human creator controlled the expressive elements of the final song or merely requested a result.
+Copyright law traditionally protects human expression rather than ideas, instructions or outcomes produced independently by a machine. In the context of AI music, regulators are asking whether the human creator controlled the expressive elements of the final song or merely requested a result.
 
 For music, expressive elements can include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -300,17 +298,13 @@ The U.S. Copyright Office's 2025 report emphasised that copyright can protect hu
 
 This distinction matters for music because modern generators can create complete songs from a few sentences. A prompt such as “write an emotional indie-folk song about lost friendship with acoustic guitar and female vocals” may influence the output, but the system still determines countless expressive details: melody, phrasing, instrumentation, [rhythm]({{ 'rhythm/' | relative_url }}), vocal inflections and arrangement. The user describes a destination; the model chooses much of the route. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hNCmb-4oXJA" title="Us - Official Trailer [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank" rel="noopener noreferrer">Us - Official Trailer [HD]</a></p><p class="youtube-embed-meta">Channel: Universal Pictures &middot; Views: 38.3M &middot; Uploaded: December 2018 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hNCmb-4oXJA">Open on YouTube</a></p></div></div></div>
-
 ## Why Prompts Alone Face Copyright Limits
 
 The strongest policy signal so far is the Copyright Office's conclusion that prompting, by itself, generally does not create copyrightable authorship. The Office reviewed claims that sophisticated prompts should qualify as creative expression and ultimately rejected the argument that prompting alone provides sufficient control over the generated result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
 
 The reasoning rests on unpredictability. Even highly detailed prompts do not reliably determine the exact musical expression that emerges from a generative system. The model interprets instructions through its own internal processes, producing outputs that users often cannot fully foresee. According to the Office, that weakens the claim that the resulting expression originated with the human prompter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
 
-For prompt-only songs, this creates a practical problem. A user may spend significant time refining prompts, regenerating tracks and choosing among outputs. Those actions may involve judgement and taste, but copyright law generally distinguishes between selecting an outcome and authoring the expressive material inside it. The Office specifically identified prompts as insufficient on their own to satisfy the human-authorship requirement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This does not mean prompts are creatively worthless. A skilled prompt writer may consistently obtain better songs than an inexperienced user. The legal question, however, is whether that skill amounts to authorship of the resulting music. Current policy guidance suggests that skill in directing a generator is not automatically equivalent to composing the generated song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPOUS Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
-
+For prompt-only songs, this creates a practical problem. A user may spend significant time refining prompts, regenerating tracks and choosing among outputs. Those actions may involve judgement and taste, but copyright law generally distinguishes between selecting an outcome and authoring the expressive material inside it. The Office specifically identified prompts as insufficient on their own to satisfy the human-authorship requirement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This does not mean prompts are creatively worthless. A skilled prompt writer may consistently obtain better songs than an inexperienced user. The legal question, however, is whether that skill amounts to authorship of the resulting music. Current policy guidance suggests that skill in directing a generator is not automatically equivalent to composing the generated song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">US Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-2-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Human Authorship Rule Behind the Debate
@@ -321,11 +315,9 @@ Recent litigation involving computer scientist Stephen Thaler reinforced that pr
 
 Although those cases involved visual art rather than music, their significance extends directly to AI-generated songs. If a song is presented as the product of an autonomous system and the human role consists only of issuing prompts, the same authorship concerns arise. Courts and regulators are increasingly treating human creative contribution as the foundation of copyright eligibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairuse.stanford.edu">[Stanford Copyright and Fair Use Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairuse.stanford.edu</span><span class="citation-popover-title">Copyright and Fair Use Center Thaler v</span><span class="citation-popover-snippet">Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</span></span></span>
 
-The policy logic is straightforward. Copyright exists partly to reward and encourage human creativity. Granting full protection to machine-generated outputs without meaningful human authorship could dramatically expand private ownership over works that were not created through traditional human expression. The Copyright Office has repeatedly signalled concern about extending protection too far in that direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
+The policy logic is straightforward. Copyright exists partly to reward and encourage human creativity. Granting full protection to machine-generated outputs without meaningful human authorship could dramatically expand private [ownership]({{ 'ownership/' | relative_url }}) over works that were not created through traditional human expression. The Copyright Office has repeatedly signalled concern about extending protection too far in that direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SgTYThUl9I4" title="Who REALLY Owns Your Suno AI Music? (The Truth You Need to Know)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SgTYThUl9I4" target="_blank" rel="noopener noreferrer">Who REALLY Owns Your Suno AI Music? (The Truth You Need to Know)</a></p><p class="youtube-embed-meta">Channel: Dynamic AI Tech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SgTYThUl9I4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SgTYThUl9I4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Editing and Arrangement Can Change the Answer
 
 The legal outcome changes when a person does more than prompt.
@@ -333,6 +325,20 @@ The legal outcome changes when a person does more than prompt.
 The Copyright Office recognises that human authorship can arise through creative selection, arrangement and modification of AI-generated material. This is especially important in music production, where editing decisions often shape the final work as much as initial composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowell.com">[Crowell &amp;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowell.com</span><span class="citation-popover-title">&amp; Moring</span><span class="citation-popover-snippet">Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</span></span></span> Moring - Home
 
 Consider three increasingly human-centred scenarios:
+
+1. **Prompt-only generation:** A user enters a prompt, receives a complete song and uploads it unchanged. Copyright protection is likely to be weak or unavailable for the generated musical content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span>
+2. **Curated assembly:** A creator generates multiple AI sections, selects specific passages and assembles them into a new structure. The selection and arrangement may qualify for protection even if the underlying generated material does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[2jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span>
+3. **Substantial transformation:** A musician rewrites lyrics, replaces melodies, records new performances, restructures the arrangement and uses AI material as raw input. In that case, the human-authored elements may receive copyright protection because they reflect original creative expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</span></span></span>
+
+The crucial shift is from requesting output to shaping expression. Copyright analysis increasingly focuses on the latter.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hNCmb-4oXJA" title="Us - Official Trailer [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank" rel="noopener noreferrer">Us - Official Trailer [HD]</a></p><p class="youtube-embed-meta">Channel: Universal Pictures &middot; Views: 38.3M &middot; Uploaded: December 2018 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hNCmb-4oXJA">Open on YouTube</a></p></div></div></div>
+
+## Why This Matters for Music Ownership
+
+The debate over prompt-only songs is not merely theoretical. It affects ownership, [licensing]({{ 'licensing/' | relative_url }}), enforcement and revenue.
+
+A copyright holder can normally control reproduction, distribution and commercial exploitation of a song. If a prompt-only track lacks sufficient human authorship, those rights may be limited or unavailable. That uncertainty affects creators using tools such as AI music generators, record labels evaluating catalogue rights and platforms deciding how generated music should be treated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> It also creates a new cultural question about authorship itself. Prompt-only music tests whether creative judgement, taste and selection should be enough to establish ownership when the expressive details come from a machine. Current copyright policy largely answers that question in the negative. Human contribution remains the decisive factor, not because prompting lacks value, but because copyright continues to attach most strongly to human-created expression rather than machine-generated output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finnegan.com">[3Finnegan &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finnegan.com</span><span class="citation-popover-title">Leading IP+ Law Firm U.S</span><span class="citation-popover-snippet">Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -726,204 +732,187 @@ Consider three increasingly human-centred scenarios:
 </script>
 </section>
 
-1. **Prompt-only generation:** A user enters a prompt, receives a complete song and uploads it unchanged. Copyright protection is likely to be weak or unavailable for the generated musical content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span>
-2. **Curated assembly:** A creator generates multiple AI sections, selects specific passages and assembles them into a new structure. The selection and arrangement may qualify for protection even if the underlying generated material does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[2jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span>
-3. **Substantial transformation:** A musician rewrites lyrics, replaces melodies, records new performances, restructures the arrangement and uses AI material as raw input. In that case, the human-authored elements may receive copyright protection because they reflect original creative expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</span></span></span>
-
-The crucial shift is from requesting output to shaping expression. Copyright analysis increasingly focuses on the latter.
-
-
-<img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why This Matters for Music Ownership
-
-The debate over prompt-only songs is not merely theoretical. It affects ownership, [licensing]({{ 'licensing/' | relative_url }}), enforcement and revenue.
-
-A copyright holder can normally control reproduction, distribution and commercial exploitation of a song. If a prompt-only track lacks sufficient human authorship, those rights may be limited or unavailable. That uncertainty affects creators using tools such as AI music generators, record labels evaluating catalogue rights and platforms deciding how generated music should be treated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> It also creates a new cultural question about authorship itself. Prompt-only music tests whether creative judgement, taste and selection should be enough to establish ownership when the expressive details come from a machine. Current copyright policy largely answers that question in the negative. Human contribution remains the decisive factor, not because prompting lacks value, but because copyright continues to attach most strongly to human-created expression rather than machine-generated output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finnegan.com">[3Finnegan |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finnegan.com</span><span class="citation-popover-title">Leading IP+ Law Firm U.S</span><span class="citation-popover-snippet">Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MoZlUaN0STI" title="Can You Copyright SUNO AI Music? PRO License and eCO Lyrics Breakdown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MoZlUaN0STI" target="_blank" rel="noopener noreferrer">Can You Copyright SUNO AI Music? PRO License and eCO Lyrics Breakdown</a></p><p class="youtube-embed-meta">Channel: SUNO STRATEGIES</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MoZlUaN0STI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MoZlUaN0STI">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sidley.com  
    Title: Austin U.S  
-   Link: [https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability](https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability)  
+   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: finnegan.com  
    Title: Leading IP+ Law Firm U.S  
-   Link: [https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html](https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html)  
+   Link: <a href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: newsroom.loc.gov  
-   Link: [https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab](https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab)  
+   Link: <a href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/](https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696](https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPOUS Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</p></details>
    Published: January 29, 2025  
 
 7. <a id="endnote-7"></a>
    Source: crowell.com  
    Title: & Moring  
-   Link: [https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs](https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs)  
+   Link: <a href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jonesday.com  
-   Link: [https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement](https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement)  
+   Link: <a href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hoganlovells.com  
    Title: www.hoganlovells.com U.S  
-   Link: [https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works](https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fairuse.stanford.edu  
    Title: Copyright and Fair Use Center Thaler v  
-   Link: [https://fairuse.stanford.edu/case/thaler-v-perlmutter/](https://fairuse.stanford.edu/case/thaler-v-perlmutter/)  
+   Link: <a href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow">https://fairuse.stanford.edu/case/thaler-v-perlmutter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skadden.com  
    Title: appellate court affirms human authorship  
-   Link: [https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship](https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship)  
+   Link: <a href="https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephen Thaler, a computer scientist, created an artificial intelligence system known as the Creativity Machine, which generated an [artwork](&amp;#123;&amp;#123; &#x27;artwork/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bakerdonelson.com  
    Title: Supreme Court Denies Certiorari in Thaler v  
-   Link: [https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act](https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act)  
+   Link: <a href="https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perlmutter5 Mar 2026 — Accordingly, the law remains that AI – by itself – is fundamentally incapable of creating a work that is subject t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459](https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459)  
+   Link: <a href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/newsnet/2025/1060.html](https://www.copyright.gov/newsnet/2025/1060.html)  
+   Link: <a href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/newsnet/2025/1060.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNet Issue 1060 | U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected by copyright only...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence | U.S  
-   Link: [https://www.copyright.gov/ai/](https://www.copyright.gov/ai/)  
+   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficePart 2 was published on January 29, 2025, and addresses the copyrightability of outputs created using generative AI. On M...</p></details>
    Published: January 29, 2025  
 
 16. <a id="endnote-16"></a>
    Source: copyright.gov  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: Generative [AI Training](&amp;#123;&amp;#123; &#x27;ai-training/&#x27; | relative_url &amp;#125;&amp;#125;) (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyright and Artifici...</p></details>
    Published: May 2025  
 
 17. <a id="endnote-17"></a>
    Source: skadden.com  
    Title: copyright office publishes report  
-   Link: [https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report](https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report)  
+   Link: <a href="https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on Copyrightability of AI-...4 Feb 2025 — The United States Copyright Office (USCO) has released its report on the copyrightability of o...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blogs.loc.gov  
-   Link: [https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/](https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/)  
+   Link: <a href="https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Copyright Office&#x27;s Report, Copyright and Artificial...6 Feb 2025 — It concludes that the outputs of generative AI can be protected b...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: copyrightalliance.org  
    Title: ai report part 2 copyrightability  
-   Link: [https://copyrightalliance.org/ai-report-part-2-copyrightability/](https://copyrightalliance.org/ai-report-part-2-copyrightability/)  
+   Link: <a href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/ai-report-part-2-copyrightability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: United States  
-   Link: [https://en.wikipedia.org/wiki/United_States](https://en.wikipedia.org/wiki/United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United StatesThe United States of America (USA), also known as the United States (US) or America, is a country primarily located in No...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: us copyright office copyright and artificial  
-   Link: [https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/](https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/)  
+   Link: <a href="https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Copyright and Artificial Intelligence...However, if you input your own lyrics and there is human input other than promp...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mintz.com  
    Title: 2025 02 07 us copyright office publishes second part report ai  
-   Link: [https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai](https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai)  
+   Link: <a href="https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office Publishes Second Part of Report on AI...Feb 7, 2025 — Copyright does not extend to purely AI-generated material, or...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: klgates.com  
-   Link: [https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection-8-30-2023](https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection-8-30-2023)  
+   Link: <a href="https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection-8-30-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection-8-30-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Court Rules Work Generated by Artificial...Aug 30, 2023 — This summary describes the August 18 ruling in Thayler v. Permutter ho...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: netflix.com  
-   Link: [https://www.netflix.com/title/81026600](https://www.netflix.com/title/81026600)  
+   Link: <a href="https://www.netflix.com/title/81026600" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81026600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch UsA serene family vacation turns frightening when a family&#x27;s nightmarish doppelgängers descend upon their waterfront abode. Watch t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: privacyworld.blog  
-   Link: [https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/](https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/)  
+   Link: <a href="https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrighting AI-Generated Works Requires “Sufficient...4 Feb 2025 — The report finds that protection of AI-generated works requires “suf...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: authorsalliance.org  
-   Link: [https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/](https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/)  
+   Link: <a href="https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrightability and Artificial Intelligence: A new report...Feb 20, 2025 — In denying his claim, the Office responded that “when an AI...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rothjackson.com  
-   Link: [https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/](https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/)  
+   Link: <a href="https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Publishes Part 2 of its Artificial Intelligence...Feb 6, 2025 — First and foremost, the report reiterates the longstand...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: constitutioncenter.org  
-   Link: [https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright](https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright)  
+   Link: <a href="https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright" target="_blank" rel="noopener noreferrer nofollow">https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court denies artificial intelligence authorship...11 Mar 2026 — Thaler, a computer scientist, created a generative artificial in...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: rimonlaw.com  
-   Link: [https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/](https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/)  
+   Link: <a href="https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Copyright Office Guidance Applies to Music That...8 May 2025 — The Office affirmed that copyright does not extend to purely AI-gener...</p></details>
    Published: May 2025  
 
 30. <a id="endnote-30"></a>
    Source: joneswalker.com  
    Title: with thaler closed courts must now turn to the harder question of ai assisted au  
-   Link: [https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5](https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5)  
+   Link: <a href="https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5" target="_blank" rel="noopener noreferrer nofollow">https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Thaler Closed, Courts Must Now Turn to the Harder...Mar 19, 2026 — Perlmutter[1] leaves undisturbed the decision from the DC Circui...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: barrysookman.com  
    Title: understanding the copyrightability of ai insights from the u s copyright office  
-   Link: [https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/](https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/)  
+   Link: <a href="https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Copyrightability of AI: Insights from the US...3 Feb 2025 — The Office&#x27;s rational that prompts cannot determine expres...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: usfblogs.usfca.edu  
    Title: from studio to silicon human authorship ai generated art and the supreme court  
-   Link: [https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/](https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/)  
+   Link: <a href="https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/" target="_blank" rel="noopener noreferrer nofollow">https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorship, AI-Generated Art, and the Supreme Court20 Mar 2026 — Stephen Thaler built an AI system he called the “Creativity Machine.” Th...</p></details>

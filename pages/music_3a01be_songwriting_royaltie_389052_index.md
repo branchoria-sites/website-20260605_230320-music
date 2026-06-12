@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-songwriting-royaltie/
 description: Focused pages that expand on Publishing.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_songwriting_royaltie_389052
-parent_title: Publishing | Music
+parent_title: Publishing
 parent_nav_short_title: Publishing
 parent_permalink: /publishing/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-ai-generated-music-a/
 description: Focused pages that expand on AI Songs.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: music_3a01be_ai_generated_music_a_2817f7
-parent_title: AI Songs | Music
+parent_title: AI Songs
 parent_nav_short_title: AI Songs
 parent_permalink: /ai-songs/
 ---

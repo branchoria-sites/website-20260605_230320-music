@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c
 - music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e
 tags:
-- music
+- music-3-a01-be
 - ai-training
 - transparency
 keywords:
-- music
+- music-3-a01-be
 - ai-training
 - transparency
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Artists cannot meaningfully consent, opt out or negotiate if they cannot see whether their recordings were used for training.
 hero_summary: Artists cannot meaningfully consent, opt out or negotiate if they cannot see whether their recordings were used for training.
 layout: default
 permalink: /transparency-d9b91c/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /ai-training/
 nav_short_title: Transparency
 title: The hidden dataset problem in AI music
-title_full: The hidden dataset problem in AI music | AI Training
+title_full: The hidden dataset problem in AI music
 display_title_short: Transparency
 display_title: Transparency
 heading_title: The hidden dataset problem in AI music
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Learn From Copyrighted Music? | Music
+parent_title: Can AI Learn From Copyrighted Music?
 parent_permalink: /ai-training/
 parent_nav_short_title: AI Training
 parent_heading_title: Can AI Learn From Copyrighted Music?
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When AI sounds too much like an artist
 up_link:
   basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music
+  title: AI Training | Music 3 A01 Be
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -265,7 +265,7 @@ next_link:
   permalink: /voice-imitation/
   short_title: Voice Imitation
   heading_title: When AI sounds too much like an artist
-date: '2026-06-09 07:20:20 '
+date: '2026-06-11 23:41:36 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_
 
 ## Introduction
 
-One of the most contentious questions in AI [music]({{ 'music/' | relative_url }}) is not whether copyrighted recordings were used for training, but whether anyone outside the companies building the models can find out. Artists, labels, publishers and performers cannot meaningfully consent to, object to, or negotiate over the use of their work if they do not know whether it was included in a training dataset in the first place. The result is a transparency problem: large music-generation systems may depend on enormous collections of audio, yet the contents of those collections are often treated as confidential business information. This lack of visibility sits at the centre of many copyright disputes because it makes it difficult to verify [rights]({{ 'rights/' | relative_url }}), establish licences, assess infringement claims, or build compensation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</span></span></span>
-
+One of the most contentious questions in AI music is not whether copyrighted recordings were used for training, but whether anyone outside the companies building the models can find out. Artists, labels, publishers and performers cannot meaningfully consent to, object to, or negotiate over the use of their work if they do not know whether it was included in a training dataset in the first place. The result is a transparency problem: large music-generation systems may depend on enormous collections of audio, yet the contents of those collections are often treated as confidential business information. This lack of visibility sits at the centre of many copyright disputes because it makes it difficult to verify [rights]({{ 'rights/' | relative_url }}), establish licences, assess infringement claims, or build compensation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1-dark.svg" | relative_url }}" alt="Transparency illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate is not simply about disclosure for its own sake. It concerns whether there can be a functioning market for [AI training]({{ 'ai-training/' | relative_url }}) licences, creator consent and copyright enforcement when the underlying training material remains hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukmusic.org/wp-content/uploads/2025/05/UK-Music-Copyright-and-Artificial-Intelligence-Consultation-Response-For-Submission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmusic.org">[UK Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmusic.org</span><span class="citation-popover-snippet">UK MusicCopyright and Artificial Intelligence ConsultationFebruary 25, 2025 — 30 May 2025 — Clear records of training data allow creators...</span><span class="citation-popover-meta">Published: February 25, 2025</span></span></span>
@@ -286,30 +285,22 @@ AI developers often argue that training datasets are commercially sensitive asse
 
 A recent example emerged in the copyright dispute involving Udio, where the company sought to keep information about the size of its training dataset out of the public record, arguing that disclosure could cause competitive harm. The dispute illustrates how training-data information is frequently treated as a trade secret rather than a public accountability issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/after-suno-udio-asks-court-to-seal-the-size-of-its-ai-training-data-in-sony-musics-copyright-case-also-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideAfter Suno, Udio asks court to seal the size of its AI training...1 day ago — After Suno, Udio asks court to sea...</span></span></span>
 
-The secrecy extends beyond court filings. Commercial music-generation systems have often declined to publish detailed lists of the recordings, songs or databases used to train their models. Analysts, researchers and rights organisations have repeatedly noted that some of the most prominent music AI services have not disclosed their training datasets, making independent verification difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPORoyalties in the age of AI: paying artists for AI-generated...Commercial models such as Suno and Udio have not disclosed their train...</span></span></span>
+The secrecy extends beyond court filings. Commercial music-generation systems have often declined to publish detailed lists of the recordings, songs or databases used to train their models. Analysts, researchers and rights organisations have repeatedly noted that some of the most prominent music AI services have not disclosed their training datasets, making independent verification difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Royalties in the age of AI: paying artists for AI-generated...Commercial models such as Suno and Udio have not disclosed their train...</span></span></span>
 
 From the companies' perspective, there are several reasons for caution:
 
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
-
 * Detailed dataset disclosure may reveal acquisition strategies and model-development techniques.
-* Large datasets may contain material gathered from numerous sources with complex ownership histories.
+* Large datasets may contain material gathered from numerous sources with complex [ownership]({{ 'ownership/' | relative_url }}) histories.
 * Public disclosure could increase legal exposure by making rights claims easier to pursue.
-* Maintaining secrecy can preserve bargaining power during licensing negotiations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</span></span></span>
-
-</div>
+* Maintaining secrecy can preserve bargaining power during [licensing]({{ 'licensing/' | relative_url }}) negotiations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</span></span></span>
 
 These arguments are not necessarily frivolous. Many technology firms genuinely regard training datasets as core intellectual property. However, the more valuable and influential AI music systems become, the harder it is to justify a situation where affected rightsholders cannot determine whether their work contributed to those systems at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentAI, copyright and the creative industries6 Mar 2026 — These must give creators and performers clear control over commercial...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aJgwGssVCNI" title="Diana of Kara-Kara 📚 | A Gripping Mystery by Edgar Wallace 🔍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aJgwGssVCNI" target="_blank" rel="noopener noreferrer">Diana of Kara-Kara 📚 | A Gripping Mystery by Edgar Wallace 🔍</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aJgwGssVCNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aJgwGssVCNI">Open on YouTube</a></p></div></div></div>
 
 ## Why rightsholders need audit trails
 
 The consent problem in music AI is fundamentally an information problem. Consent requires knowledge. A songwriter cannot license the use of a composition, and a label cannot negotiate terms for a [recording]({{ 'recording/' | relative_url }}), if neither knows whether the work was used.
 
-This issue has appeared repeatedly in disputes over AI training. When record companies sued Suno and Udio in 2024, the lawsuits focused on alleged unlicensed use of copyrighted recordings for model training. The broader controversy was intensified by the fact that the companies had not publicly disclosed the recordings on which their systems were trained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">RIAARecord Companies Bring Landmark Cases for...24 Jun 2024 — Record Companies Bring Landmark Cases for Responsible AI Against Suno and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The lawsuits, seeking up to $150,000 per infringed work, were filed in Massachusetts and New York. The labels argue that the AI generator...</span></span></span> Without audit trails, rightsholders face several practical obstacles:
+This issue has appeared repeatedly in disputes over AI training. When record companies sued Suno and Udio in 2024, the lawsuits focused on alleged unlicensed use of copyrighted recordings for model training. The broader controversy was intensified by the fact that the companies had not publicly disclosed the recordings on which their systems were trained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Record Companies Bring Landmark Cases for...24 Jun 2024 — Record Companies Bring Landmark Cases for Responsible AI Against Suno and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The lawsuits, seeking up to $150,000 per infringed work, were filed in Massachusetts and New York. The labels argue that the AI generator...</span></span></span> Without audit trails, rightsholders face several practical obstacles:
 
 **Verifying use.** A creator may suspect that a model was trained on their recordings but have no reliable method of proving it.
 
@@ -321,22 +312,18 @@ This issue has appeared repeatedly in disputes over AI training. When record com
 
 The problem affects independent musicians particularly strongly. Major labels may have the resources to investigate potential use of their catalogues, but individual artists often lack the legal and technical means to determine whether their recordings were included in large-scale datasets. The information asymmetry favours model developers because only they possess complete knowledge of the training process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ism.org/news/copyright-ai-consultation-ism-submission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ism.org">[Independent Society of Musicians]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ism.org</span><span class="citation-popover-title">Independent Society of Musicians Copyright &amp; AI consultation: ISM submission</span><span class="citation-popover-snippet">Independent Society of MusiciansCopyright &amp; AI consultation: ISM submissionFebruary 27, 2025 — 27 Feb 2025 — The ISM advocates for musici...</span><span class="citation-popover-meta">Published: February 27, 2025</span></span></span>
 
-Recent academic work suggests that technical auditing may become possible even without company cooperation. Researchers have demonstrated methods for "membership inference" against generative music models, attempting to determine whether a particular recording was likely included in training data. Such research remains experimental, but it reflects growing demand for independent verification tools when direct disclosure is unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.29202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAuditing Training Data in Generative Music Models via Black-Box Membership InferenceMay 28, 2026...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
-
+Recent academic work suggests that technical auditing may become possible even without company cooperation. Researchers have demonstrated methods for "membership inference" against generative music models, attempting to determine whether a particular recording was likely included in training data. Such research remains experimental, but it reflects growing demand for independent verification tools when direct disclosure is unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.29202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auditing Training Data in Generative Music Models via Black-Box Membership InferenceMay 28, 2026...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-2-dark.svg" | relative_url }}" alt="Transparency illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden cost of opacity
 
 Dataset secrecy creates risks beyond copyright litigation. It also undermines trust in AI music systems.
 
-When creators cannot identify the source material behind a model, rumours and speculation tend to fill the gap. Some musicians assume their catalogues were used without permission. Some users assume all models are trained on stolen music. Others assume that commercial systems must already be fully licensed. In many cases, none of these assumptions can be verified because the relevant information is unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">WIPORoyalties in the age of AI: paying artists for AI-generated...Commercial models such as Suno and Udio have not disclosed their train...</span></span></span>
+When creators cannot identify the source material behind a model, rumours and speculation tend to fill the gap. Some musicians assume their catalogues were used without permission. Some users assume all models are trained on stolen music. Others assume that commercial systems must already be fully licensed. In many cases, none of these assumptions can be verified because the relevant information is unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/[royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Royalties in the age of AI: paying artists for AI-generated...Commercial models such as Suno and Udio have not disclosed their train...</span></span></span>
 
 Opacity also complicates discussions about ethical AI. A company may claim that it respects artists' rights, but outsiders cannot independently assess that claim if training records remain inaccessible. Conversely, a company that has invested heavily in licensing may receive little public credit if it does not disclose meaningful information about its [data sources]({{ 'data-sources/' | relative_url }}). Transparency therefore affects not only enforcement but also credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">report on copyright and artificial intelligence</span><span class="citation-popover-snippet">18 Mar 2026 — Some countries have introduced transparency regulations that require AI developers to disclose sources of training data, wi...</span></span></span>
 
 The issue has become significant enough that policy debates in multiple jurisdictions now treat transparency as a separate governance question rather than merely a copyright side issue. Government consultations, parliamentary reviews and legal scholarship increasingly frame disclosure as a prerequisite for any workable system of consent and licensing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentAI, copyright and the creative industries6 Mar 2026 — These must give creators and performers clear control over commercial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BcV_y0_vGw0" title="Who REALLY Owns AI-Generated Music? The Debate That Could Destroy the Music Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BcV_y0_vGw0" target="_blank" rel="noopener noreferrer">Who REALLY Owns AI-Generated Music? The Debate That Could Destroy the Music Industry</a></p><p class="youtube-embed-meta">Channel: 30 Plus Years In</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BcV_y0_vGw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BcV_y0_vGw0">Open on YouTube</a></p></div></div></div>
 
 ## What disclosure could realistically look like
 
@@ -350,17 +337,12 @@ A third possibility is **auditable training logs**. Developers could maintain st
 
 Emerging regulation is beginning to test these ideas. The European AI Act includes transparency-related obligations for certain AI systems, while newer transparency laws and policy proposals in jurisdictions such as California and the United Kingdom have focused on requiring at least high-level disclosure of training data sources and copyright-relevant information. The precise scope remains contested, especially where companies argue that mandatory disclosure threatens trade secrets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/trade-secrets-training-data-transparency-act--pracin-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This includes details on dataset sources, size, types, intellectual property status, commercial arrangements, personal information involv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.ulster.ac.uk/ws/portalfiles/portal/217378593/jpae102.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-title">Ulster University Copyright and AI training data</span><span class="citation-popover-snippet">Ulster UniversityCopyright and AI training data - transparency to the rescue?Today — by A Buick · 2024 · Cited by 94 — Generative Artific...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dglaw.com/ai-legal-updates-californias-ai-training-data-transparency-law-takes-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dglaw.com">[Davis Gilbert LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dglaw.com</span><span class="citation-popover-title">ai legal updates californias ai training data transparency law takes effect</span><span class="citation-popover-snippet">Davis+Gilbert LLPCalifornia&#x27;s AI Training Data Transparency Law Takes EffectJan 23, 2026 — The TDTA requires developers of generative AI...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-3-dark.svg" | relative_url }}" alt="Transparency illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central tension
 
 The hidden dataset problem is ultimately a conflict between two legitimate interests. AI developers want to protect commercially valuable information about how their models are built. Rightsholders want enough visibility to exercise copyright, negotiate licences and grant or withhold consent.
 
 As music AI becomes more commercially important, the practical question is no longer whether transparency matters. It is how much transparency is necessary for creators to know when their work has been used, while still allowing companies to protect genuinely sensitive business information. The future shape of licensing, compensation and consent in music AI may depend less on the models themselves than on whether that balance can be achieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentAI, copyright and the creative industries6 Mar 2026 — These must give creators and performers clear control over commercial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXdVDhOGqoE" title="AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXdVDhOGqoE" target="_blank" rel="noopener noreferrer">AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED</a></p><p class="youtube-embed-meta">Channel: TED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXdVDhOGqoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXdVDhOGqoE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -758,163 +740,163 @@ As music AI becomes more commercially important, the practical question is no lo
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jiplp/article/20/3/182/7922541](https://academic.oup.com/jiplp/article/20/3/182/7922541)  
+   Link: <a href="https://academic.oup.com/jiplp/article/20/3/182/7922541" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jiplp/article/20/3/182/7922541</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCopyright and AI training data—transparency to the rescue?by A Buick · 2025 · Cited by 92 — AI developers to be required by l...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wipo.int  
-   Link: [https://www.wipo.int/en/web/wipo-magazine/articles/[royalties](https://www.wipo.int/en/web/wipo-magazine/articles/[royalties)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIPORoyalties in the age of AI: paying artists for AI-generated...Commercial models such as Suno and Udio have not disclosed their train...</p></details>
+   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/[royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/[royalties</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties in the age of AI: paying artists for AI-generated...Commercial models such as Suno and Udio have not disclosed their train...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf](https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf)  
+   Link: <a href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/267.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentAI, copyright and the creative industries6 Mar 2026 — These must give creators and performers clear control over commercial...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/trade-secrets-training-data-transparency-act--pracin-2026-05-18/](https://www.reuters.com/legal/legalindustry/trade-secrets-training-data-transparency-act--pracin-2026-05-18/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/trade-secrets-training-data-transparency-act--pracin-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/trade-secrets-training-data-transparency-act--pracin-2026-05-18/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes details on dataset sources, size, types, intellectual property status, commercial arrangements, personal information involv...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: report on copyright and artificial intelligence  
-   Link: [https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence](https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence)  
+   Link: <a href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2026 — Some countries have introduced transparency regulations that require AI developers to disclose sources of training data, wi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: riaa.com  
-   Link: [https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/](https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAARecord Companies Bring Landmark Cases for...24 Jun 2024 — Record Companies Bring Landmark Cases for Responsible AI Against Suno and...</p></details>
+   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Companies Bring Landmark Cases for...24 Jun 2024 — Record Companies Bring Landmark Cases for Responsible AI Against Suno and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement](https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement)  
+   Link: <a href="https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits, seeking up to $150,000 per infringed work, were filed in Massachusetts and New York. The labels argue that the AI generator...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.29202](https://arxiv.org/abs/2605.29202)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAuditing Training Data in Generative Music Models via Black-Box Membership InferenceMay 28, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.29202" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.29202</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditing Training Data in Generative Music Models via Black-Box Membership InferenceMay 28, 2026...</p></details>
    Published: May 28, 2026  
 
 9. <a id="endnote-9"></a>
    Source: dglaw.com  
    Title: ai legal updates californias ai training data transparency law takes effect  
-   Link: [https://www.dglaw.com/ai-legal-updates-californias-ai-training-data-transparency-law-takes-effect/](https://www.dglaw.com/ai-legal-updates-californias-ai-training-data-transparency-law-takes-effect/)  
+   Link: <a href="https://www.dglaw.com/ai-legal-updates-californias-ai-training-data-transparency-law-takes-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/ai-legal-updates-californias-ai-training-data-transparency-law-takes-effect/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis+Gilbert LLPCalifornia&#x27;s AI Training Data Transparency Law Takes EffectJan 23, 2026 — The TDTA requires developers of generative AI...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: copyright.gov  
    Title: Part 3: Generative AI Training pre-publication version  
-   Link: [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  
+   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2025 — This Part of the Copyright Office&#x27;s Report on Copyright and Artificial Intelligence addresses the use of copyrighted works...</p></details>
    Published: May 6, 2025  
 
 11. <a id="endnote-11"></a>
    Source: help.suno.com  
-   Link: [https://help.suno.com/en/articles/9709569](https://help.suno.com/en/articles/9709569)  
+   Link: <a href="https://help.suno.com/en/articles/9709569" target="_blank" rel="noopener noreferrer nofollow">https://help.suno.com/en/articles/9709569</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CA AB 2013 Disclosure1 Jan 2026 — Intended purpose: Suno uses the collected data to train its music generative AI models, which are inten...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: help.suno.com  
-   Link: [https://help.suno.com/en/articles/9710273](https://help.suno.com/en/articles/9710273)  
+   Link: <a href="https://help.suno.com/en/articles/9710273" target="_blank" rel="noopener noreferrer nofollow">https://help.suno.com/en/articles/9710273</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AB 2013 Disclosure (Text to Speech) - Knowledge BaseJan 1, 2026 — Dataset sources: Suno&#x27;s text-to-speech generative AI models (e.g., Bark...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: suno.com  
    Title: terms of service  
-   Link: [https://suno.com/terms-of-service](https://suno.com/terms-of-service)  
+   Link: <a href="https://suno.com/terms-of-service" target="_blank" rel="noopener noreferrer nofollow">https://suno.com/terms-of-service</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2026 — By using the Service, you consent to our collection, use and disclosure of personal data and other data as outlined therein...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: terms.law  
    Title: Can You Sell Suno AI Music?  
-   Link: [https://terms.law/ai-output-rights/suno/](https://terms.law/ai-output-rights/suno/)  
+   Link: <a href="https://terms.law/ai-output-rights/suno/" target="_blank" rel="noopener noreferrer nofollow">https://terms.law/ai-output-rights/suno/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Rights Guide...UMG, Sony Music, and Warner Music sued Suno in June 2024 for alleged copyright infringement in training data...</p></details>
    Published: June 2024  
 
 15. <a id="endnote-15"></a>
    Source: ukmusic.org  
-   Link: [https://www.ukmusic.org/wp-content/uploads/2025/05/UK-Music-Copyright-and-Artificial-Intelligence-Consultation-Response-For-Submission.pdf](https://www.ukmusic.org/wp-content/uploads/2025/05/UK-Music-Copyright-and-Artificial-Intelligence-Consultation-Response-For-Submission.pdf)  
+   Link: <a href="https://www.ukmusic.org/wp-content/uploads/2025/05/UK-Music-Copyright-and-Artificial-Intelligence-Consultation-Response-For-Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/wp-content/uploads/2025/05/UK-Music-Copyright-and-Artificial-Intelligence-Consultation-Response-For-Submission.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK MusicCopyright and Artificial Intelligence ConsultationFebruary 25, 2025 — 30 May 2025 — Clear records of training data allow creators...</p></details>
    Published: February 25, 2025  
 
 16. <a id="endnote-16"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/after-suno-udio-asks-court-to-seal-the-size-of-its-ai-training-data-in-sony-musics-copyright-case-also-citing-competitive-harm/](https://www.musicbusinessworldwide.com/after-suno-udio-asks-court-to-seal-the-size-of-its-ai-training-data-in-sony-musics-copyright-case-also-citing-competitive-harm/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/after-suno-udio-asks-court-to-seal-the-size-of-its-ai-training-data-in-sony-musics-copyright-case-also-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/after-suno-udio-asks-court-to-seal-the-size-of-its-ai-training-data-in-sony-musics-copyright-case-also-citing-competitive-harm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideAfter Suno, Udio asks court to seal the size of its AI training...1 day ago — After Suno, Udio asks court to sea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ism.org  
    Title: Independent Society of Musicians Copyright & AI consultation: ISM submission  
-   Link: [https://www.ism.org/news/copyright-ai-consultation-ism-submission/](https://www.ism.org/news/copyright-ai-consultation-ism-submission/)  
+   Link: <a href="https://www.ism.org/news/copyright-ai-consultation-ism-submission/" target="_blank" rel="noopener noreferrer nofollow">https://www.ism.org/news/copyright-ai-consultation-ism-submission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Society of MusiciansCopyright &amp; AI consultation: ISM submissionFebruary 27, 2025 — 27 Feb 2025 — The ISM advocates for musici...</p></details>
    Published: February 27, 2025  
 
 18. <a id="endnote-18"></a>
    Source: pure.ulster.ac.uk  
    Title: Ulster University Copyright and AI training data  
-   Link: [https://pure.ulster.ac.uk/ws/portalfiles/portal/217378593/jpae102.pdf](https://pure.ulster.ac.uk/ws/portalfiles/portal/217378593/jpae102.pdf)  
+   Link: <a href="https://pure.ulster.ac.uk/ws/portalfiles/portal/217378593/jpae102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.ulster.ac.uk/ws/portalfiles/portal/217378593/jpae102.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ulster UniversityCopyright and AI training data - transparency to the rescue?Today — by A Buick · 2024 · Cited by 94 — Generative Artific...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: musicbusinessworldwide.com  
-   Link: [https://www.musicbusinessworldwide.com/music-industry-backs-new-train-act-requiring-transparency-in-materials-used-to-train-ai/](https://www.musicbusinessworldwide.com/music-industry-backs-new-train-act-requiring-transparency-in-materials-used-to-train-ai/)  
+   Link: <a href="https://www.musicbusinessworldwide.com/music-industry-backs-new-train-act-requiring-transparency-in-materials-used-to-train-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/music-industry-backs-new-train-act-requiring-transparency-in-materials-used-to-train-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music industry backs new &#x27;TRAIN Act&#x27; requiring...Nov 26, 2024 — A proposed new US law that would require AI developers to disclose the m...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: starguardlaw.com  
-   Link: [https://starguardlaw.com/insights/articles/ai-training-data-copyright-musicians-artists](https://starguardlaw.com/insights/articles/ai-training-data-copyright-musicians-artists)  
+   Link: <a href="https://starguardlaw.com/insights/articles/ai-training-data-copyright-musicians-artists" target="_blank" rel="noopener noreferrer nofollow">https://starguardlaw.com/insights/articles/ai-training-data-copyright-musicians-artists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Training Data and Your Work7 days ago — Training datasets for music models included recordings whose rights belong to record labels, i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/radhikadirks_anthropic-ai-law-activity-7343688146804436992-rnFs](https://www.linkedin.com/posts/radhikadirks_anthropic-ai-law-activity-7343688146804436992-rnFs)  
+   Link: <a href="https://www.linkedin.com/posts/radhikadirks_anthropic-ai-law-activity-7343688146804436992-rnFs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/radhikadirks_anthropic-ai-law-activity-7343688146804436992-rnFs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI can legally use copyrighted books for trainingIt&#x27;s official: The first court ruling is here — AI companies CAN legally use millions of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/aimusicworld/posts/989261500308835/](https://www.facebook.com/groups/aimusicworld/posts/989261500308835/)  
+   Link: <a href="https://www.facebook.com/groups/aimusicworld/posts/989261500308835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aimusicworld/posts/989261500308835/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music companies face legal battles over training data...Major record labels (UMG, Sony, Warner) and publishers are suing AI music sta...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/understanding-ai-training-data-rights-in-music/](https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/understanding-ai-training-data-rights-in-music/)  
+   Link: <a href="https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/understanding-ai-training-data-rights-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/understanding-ai-training-data-rights-in-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding AI Training Data Rights in MusicUnderstanding AI training data rights in music means recognizing who owns the songs, [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: itsartlaw.org  
-   Link: [https://itsartlaw.org/art-law/generative-ai-and-transparency-of-databases-and-their-content-from-a-copyright-perspective/](https://itsartlaw.org/art-law/generative-ai-and-transparency-of-databases-and-their-content-from-a-copyright-perspective/)  
+   Link: <a href="https://itsartlaw.org/art-law/generative-ai-and-transparency-of-databases-and-their-content-from-a-copyright-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://itsartlaw.org/art-law/generative-ai-and-transparency-of-databases-and-their-content-from-a-copyright-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI and transparency of databases and their...21 May 2024 — From a copyright perspective, the principle of transparency has be...</p></details>
    Published: May 2024  
 
 25. <a id="endnote-25"></a>
    Source: completemusicupdate.com  
-   Link: [https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/](https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/)  
+   Link: <a href="https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First major ruling on AI and fair use goes against the copyright...25 Jun 2025 — A judge has ruled in a legal battle between a group of...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: axios.com  
    Title: Record labels sue two AI startups for copyright infringement Major U.S  
-   Link: [https://www.axios.com/2024/06/24/record-labels-sue-ai-startups-copyright-infringement](https://www.axios.com/2024/06/24/record-labels-sue-ai-startups-copyright-infringement)  
+   Link: <a href="https://www.axios.com/2024/06/24/record-labels-sue-ai-startups-copyright-infringement" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/06/24/record-labels-sue-ai-startups-copyright-infringement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>record labels have filed lawsuits against two AI music startups—Suno and Uncharted Labs (developer of Udio AI)—accusing them of mass copy...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: thelocal.dk  
-   Title: danish music rights group sues [ai music platform](&#123;&#123; 'platform-rules/' | relative_url &#125;&#125;) suno  
-   Link: [https://www.thelocal.dk/20251104/danish-music-rights-group-sues-ai-music-platform-suno](https://www.thelocal.dk/20251104/danish-music-rights-group-sues-ai-music-platform-suno)  
+   Title: danish music rights group sues ai music platform suno  
+   Link: <a href="https://www.thelocal.dk/20251104/danish-music-rights-group-sues-ai-music-platform-suno" target="_blank" rel="noopener noreferrer nofollow">https://www.thelocal.dk/20251104/danish-music-rights-group-sues-ai-music-platform-suno</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2025 — Danish music rights group Koda said on Tuesday that it was suing the American AI music platform Suno, accusing it of trainin...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/intellectual-property-rights-and-ai-generated-content-issues-in-human-authorship-fair-use-8c7ec9d6fdc3](https://medium.com/%40adnanmasood/intellectual-property-rights-and-ai-generated-content-issues-in-human-authorship-fair-use-8c7ec9d6fdc3)  
+   Link: <a href="https://medium.com/%40adnanmasood/intellectual-property-rights-and-ai-generated-content-issues-in-human-authorship-fair-use-8c7ec9d6fdc3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/intellectual-property-rights-and-ai-generated-content-issues-in-human-authorship-fair-use-8c7ec9d6fdc3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s our liability if the AI generates content that infringes...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: waterandmusic.com  
    Title: music ai content copyright detection deepfakes  
-   Link: [https://www.waterandmusic.com/music-ai-content-copyright-detection-deepfakes/](https://www.waterandmusic.com/music-ai-content-copyright-detection-deepfakes/)  
+   Link: <a href="https://www.waterandmusic.com/music-ai-content-copyright-detection-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/music-ai-content-copyright-detection-deepfakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How music AI content and copyright detection actually worksJul 2, 2024 — Some of the fastest-growing music AI startups, including Suno an...</p></details>

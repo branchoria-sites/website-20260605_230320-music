@@ -9,25 +9,25 @@ sibling_basenames:
 - music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a
 - music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a
 tags:
-- music
+- music-3-a01-be
 - recording
 - playback-memory
 keywords:
-- music
+- music-3-a01-be
 - recording
 - playback-memory
-affiliate_category: music
+affiliate_category: music-3-a01-be
 show_ads: true
 description: Listening to recordings reorganizes musical memory, associating songs with specific takes, room acoustics, and personal contexts.
 hero_summary: Listening to recordings reorganizes musical memory, associating songs with specific takes, room acoustics, and personal contexts.
 layout: default
 permalink: /playback-memory/
 sidebar_expanded_urls:
-- /music/
+- /music-3-a01-be/
 - /recording/
 nav_short_title: Playback Memory
 title: How Listening to Recordings Reshapes Musical Memory
-title_full: How Listening to Recordings Reshapes Musical Memory | Recording
+title_full: How Listening to Recordings Reshapes Musical Memory
 display_title_short: Playback Memory
 display_title: Playback Memory
 heading_title: How Listening to Recordings Reshapes Musical Memory
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Recording Changed What Music Is | Music
+parent_title: How Recording Changed What Music Is
 parent_permalink: /recording/
 parent_nav_short_title: Recording
 parent_heading_title: How Recording Changed What Music Is
 ancestor_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 breadcrumb_links:
 - basename: music_3a01be
   title: Music
-  permalink: /music/
+  permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Recordings Carried Performer Fame Across Distances
 up_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music
+  title: Recording | Music 3 A01 Be
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -265,7 +265,7 @@ next_link:
   permalink: /portable-players/
   short_title: Portable Players
   heading_title: How Portable Devices Made Music Personal Everywhere
-date: '2026-06-09 07:03:49 '
+date: '2026-06-11 23:33:18 '
 header:
   og_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_ef
 
 Recorded music changed more than where and when people heard music. It changed what they remembered. When listeners can replay the same performance hundreds of times, [memory]({{ 'memory/' | relative_url }}) becomes tied not only to a song but also to a specific recorded version, its sound quality, its acoustic space, and the circumstances in which it was heard. A live performance once existed primarily as a remembered event. [Recording]({{ 'recording/' | relative_url }}) transformed musical memory into something repeatedly reinforced, revised, and personalised through playback. Research on music and memory shows that recorded music is an unusually powerful cue for recalling emotions, places, relationships, and periods of life, helping explain why certain recordings can feel inseparable from personal history. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
 
-
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-dark.svg" | relative_url }}" alt="Playback Memory illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From Live Memory to Recorded Memory
 
@@ -285,7 +284,6 @@ Before recording technologies became widespread, listeners usually remembered mu
 Playback altered this relationship. A recording could be heard repeatedly until listeners internalised precise details: a particular vocal inflection, a guitar solo, a tempo choice, even a momentary studio noise. Over time, many listeners came to regard a specific recording as the song itself rather than one interpretation among many. Scholars of recorded performance have noted that recordings are not merely captured live events but distinct musical objects shaped by studio decisions, editing, microphone placement, and production techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
 
 This shift created a new kind of musical memory. Instead of remembering a composition abstractly, listeners often remember:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -296,23 +294,21 @@ This shift created a new kind of musical memory. Instead of remembering a compos
 
 </div>
 
-Repeated playback strengthens these details through continual exposure. Research on musical memory suggests that auditory patterns become deeply encoded through repeated listening, making familiar recordings remarkably durable in memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">PMC - NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zhoaU34HQxY" title="How music influences your memories - Dr Kelly Jakubowski - Bright Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer">How music influences your memories - Dr Kelly Jakubowski - Bright Talks</a></p><p class="youtube-embed-meta">Channel: Bright Ideas Gathering &middot; Views: 961 &middot; Uploaded: November 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zhoaU34HQxY">Open on YouTube</a></p></div></div></div>
+Repeated playback strengthens these details through continual exposure. Research on musical memory suggests that auditory patterns become deeply encoded through repeated listening, making familiar recordings remarkably durable in memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
 
 ### The Memory of a Room
 
 Recording also preserves acoustics. Listeners learn to recognise the sound of concert halls, studios, clubs, churches, or carefully engineered reverberation. A recording does not only store notes; it stores a sense of space.
 
-As a result, memories can become attached to the ambience of a recording. The echo surrounding a singer's voice, the closeness of a microphone, or the resonance of a performance venue become part of what listeners remember. When hearing the recording years later, they often recall not only the [music]({{ 'music/' | relative_url }}) but the entire sonic environment embedded within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
+As a result, memories can become attached to the ambience of a recording. The echo surrounding a singer's voice, the closeness of a microphone, or the resonance of a performance venue become part of what listeners remember. When hearing the recording years later, they often recall not only the music but the entire sonic environment embedded within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zhoaU34HQxY" title="How music influences your memories - Dr Kelly Jakubowski - Bright Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer">How music influences your memories - Dr Kelly Jakubowski - Bright Talks</a></p><p class="youtube-embed-meta">Channel: Bright Ideas Gathering &middot; Views: 961 &middot; Uploaded: November 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zhoaU34HQxY">Open on YouTube</a></p></div></div></div>
 
 ## Personal and Intimate Associations
 
 One of the most significant consequences of recorded playback is its ability to connect music to personal experience. Researchers describe these experiences as music-evoked autobiographical memories: memories of events from a person's life that are triggered by music, often involuntarily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
 
 A recording heard repeatedly during a particular period can become linked to:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -324,22 +320,19 @@ A recording heard repeatedly during a particular period can become linked to:
 
 </div>
 
-Because recordings remain stable while life changes, they often act as anchors for memory. Hearing the same track decades later can reactivate emotional and sensory details that seemed forgotten. Studies consistently find that music is especially effective at cueing autobiographical memories and can evoke vivid recollections across the lifespan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring the nature of music-evoked autobiographical</span><span class="citation-popover-snippet">PMCby M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</span></span></span>
+Because recordings remain stable while life changes, they often act as anchors for memory. Hearing the same track decades later can reactivate emotional and sensory details that seemed forgotten. Studies consistently find that music is especially effective at cueing autobiographical memories and can evoke vivid recollections across the lifespan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring the nature of music-evoked autobiographical</span><span class="citation-popover-snippet">by M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</span></span></span>
 
-Researchers have also found that many people possess a "self-defining" musical period, often linked to adolescence and early adulthood. Recordings encountered during these years tend to acquire exceptional emotional and autobiographical significance, helping shape identity and personal narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMusic-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</span></span></span>
-
+Researchers have also found that many people possess a "self-defining" musical period, often linked to adolescence and early adulthood. Recordings encountered during these years tend to acquire exceptional emotional and autobiographical significance, helping shape identity and personal narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-2-dark.svg" | relative_url }}" alt="Playback Memory illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Recordings Feel So Personal
 
 Unlike many other cultural objects, recorded music often accompanies everyday activities rather than demanding full [attention]({{ 'attention/' | relative_url }}). Songs play during commutes, celebrations, heartbreaks, study sessions, exercise routines, and family gatherings.
 
-Because of this, recordings frequently become woven into the [background]({{ 'background/' | relative_url }}) of lived experience. Scholars of media and memory have argued that personal music collections function similarly to photo albums or diaries, helping people preserve and revisit emotional episodes from their lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+Because of this, recordings frequently become woven into the [background]({{ 'background/' | relative_url }}) of lived experience. Scholars of media and memory have argued that personal music collections function similarly to photo [albums]({{ 'albums/' | relative_url }}) or diaries, helping people preserve and revisit emotional episodes from their lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
-The effect can be so strong that listeners sometimes avoid particular recordings because they trigger unwanted memories, while others return repeatedly to songs associated with cherished experiences. Psychological research suggests that the emotional intensity attached to both music and life events helps strengthen these long-term associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe self-defining period in autobiographical memory</span><span class="citation-popover-snippet">PMCby C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</span></span></span>
+The effect can be so strong that listeners sometimes avoid particular recordings because they trigger unwanted memories, while others return repeatedly to songs associated with cherished experiences. Psychological research suggests that the emotional intensity attached to both music and life events helps strengthen these long-term associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe self-defining period in autobiographical memory</span><span class="citation-popover-snippet">by C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</span></span></span>
 
-
-<img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-dark.svg" | relative_url }}" alt="Playback Memory illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Influence on Learning and Collecting
 
 Playback changed not only what listeners remembered but how they learned music.
@@ -347,7 +340,6 @@ Playback changed not only what listeners remembered but how they learned music.
 Before reliable recording, musicians often depended on notation, direct instruction, or repeated attendance at performances. Recordings introduced a new learning method: replay. A listener could hear the same phrase repeatedly, slowing the process of forgetting and increasing the accuracy of imitation.
 
 This had several consequences:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -362,20 +354,14 @@ The result was a more detailed and standardised form of musical memory. Students
 
 Collecting recordings reinforced this process. Building a library of records, tapes, CDs, or digital playlists created an external memory system. Collections organised musical experiences chronologically, emotionally, or socially. They allowed listeners to revisit specific periods of their lives through carefully preserved recordings, extending memory beyond the limits of recall alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6GI2vpCrbM" title="Neuroscientist Talks Music&#x27;s Effects on the Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer">Neuroscientist Talks Music&#x27;s Effects on the Brain</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6GI2vpCrbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6GI2vpCrbM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-dark.svg" | relative_url }}" alt="Playback Memory illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playback as a Tool for Reconstructing the Past
 
 Recorded music does more than retrieve memories; evidence suggests it can reshape them. Recent research indicates that music accompanying recollection may influence the emotional tone attached to remembered events. In other words, playback can participate in the ongoing reconstruction of personal memory rather than simply unlocking a fixed archive of the past. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatech.edu">[Georgia Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia TechMusic Can Change How You Feel About the PastDec 2, 2024 — But recent research my team and I published suggests music may do m...</span></span></span>
 
 This helps explain why the meaning of a recording can change over time. A song associated with one event may later acquire new associations through repeated listening in different circumstances. Memory remains dynamic, but the recording provides a stable reference point around which those changing interpretations accumulate.
 
-The ability of recordings to accompany memory across decades is one reason they occupy such a distinctive place in modern [culture]({{ 'culture/' | relative_url }}). Playback does not merely preserve music. It preserves opportunities for remembering, allowing listeners to revisit, reinterpret, and sometimes even remake parts of their personal histories through sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">PMC - NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5OWEEFg6fTY" title="How Is Music Stored On Vinyl Records?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5OWEEFg6fTY" target="_blank" rel="noopener noreferrer">How Is Music Stored On Vinyl Records?</a></p><p class="youtube-embed-meta">Channel: Seeker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5OWEEFg6fTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5OWEEFg6fTY">Open on YouTube</a></p></div></div></div>
-
+The ability of recordings to accompany memory across decades is one reason they occupy such a distinctive place in modern [culture]({{ 'culture/' | relative_url }}). Playback does not merely preserve music. It preserves opportunities for remembering, allowing listeners to revisit, reinterpret, and sometimes even remake parts of their personal histories through sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -774,117 +760,117 @@ The ability of recordings to accompany memory across decades is one reason they 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMusic, memory and emotion  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cmpcp.ac.uk  
-   Link: [https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf](https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf)  
+   Link: <a href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/6167197/psychology-behind-remembering-music/](https://time.com/6167197/psychology-behind-remembering-music/)  
+   Link: <a href="https://time.com/6167197/psychology-behind-remembering-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6167197/psychology-behind-remembering-music/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We spend significant amounts of time listening to music, making it easier to recall [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) and melodies. The Heardle app leverages this b...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring the nature of music-evoked autobiographical  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMusic-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe self-defining period in autobiographical memory  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: durham.ac.uk  
    Title: why does music bring back memories what the science says  
-   Link: [https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/](https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/)  
+   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0305735619888803](https://journals.sagepub.com/doi/10.1177/0305735619888803)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735619888803</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: warwick.ac.uk  
    Title: University of Warwick Popular Music between Personal and Collective Memory  
-   Link: [https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf](https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf)  
+   Link: <a href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</p></details>
    Published: January 8, 2015  
 
 10. <a id="endnote-10"></a>
    Source: gatech.edu  
    Title: music can change how you feel about past  
-   Link: [https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past](https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past)  
+   Link: <a href="https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow">https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia TechMusic Can Change How You Feel About the PastDec 2, 2024 — But recent research my team and I published suggests music may do m...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: musicscience.net  
    Title: Music-Evoked Autobiographical Memories  
-   Link: [https://musicscience.net/research/music-memory/meams/](https://musicscience.net/research/music-memory/meams/)  
+   Link: <a href="https://musicscience.net/research/music-memory/meams/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/meams/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Applied Research in Memory and Cognition...Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/](https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/)  
+   Link: <a href="https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human musical memory is surprisingly durableThis powerful connection between music and personal experiences is a real phenomenon known as...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: violinist.com  
-   Link: [https://www.violinist.com/discussion/archive/10519/](https://www.violinist.com/discussion/archive/10519/)  
+   Link: <a href="https://www.violinist.com/discussion/archive/10519/" target="_blank" rel="noopener noreferrer nofollow">https://www.violinist.com/discussion/archive/10519/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Performance vs RecordingWe know that recordings have the potential to be played perfectly, whereas with life performances, errors ar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: musicandmemory.org  
-   Link: [https://musicandmemory.org/resources/](https://musicandmemory.org/resources/)  
+   Link: <a href="https://musicandmemory.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://musicandmemory.org/resources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and the BrainBy using music as an external stimulus, we can activate pathways in the brain, helping to stimulate cognition, spark a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bulletproofmusician.com  
-   Link: [https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/](https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/)  
+   Link: <a href="https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/" target="_blank" rel="noopener noreferrer nofollow">https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence That Listening to a Recording Could Accelerate...17 Jan 2016 — As an advanced student, listening to a variety of recordings can...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: musicpsychology.co.uk  
-   Link: [https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/](https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/)  
+   Link: <a href="https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/</a>  
 
 17. <a id="endnote-17"></a>
    Source: osf.io  
-   Link: [https://osf.io/preprints/psyarxiv/tk4gh](https://osf.io/preprints/psyarxiv/tk4gh)  
+   Link: <a href="https://osf.io/preprints/psyarxiv/tk4gh" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/tk4gh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research has shown that music evokes strong emotional responses that persist across the lifespan and over time.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: amusictherapy.com  
    Title: this is why live music is more powerful than recorded music  
-   Link: [https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music](https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music)  
+   Link: <a href="https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music" target="_blank" rel="noopener noreferrer nofollow">https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Live Music is More Powerful than Recorded Music4 Mar 2018 — There are three main areas where I believe live music carries an advantag...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: durham-repository.worktribe.com  
    Title: music evoked autobiographical memories in everyday life  
-   Link: [https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life](https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life)  
+   Link: <a href="https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>worktribe.comMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2019 · Cited by 146 — These music-evoked autobiogra...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian Does a song conjure painful memories?  
-   Link: [https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists](https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists)  
+   Link: <a href="https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Try to rehabilitate it, say scientistsMany people associate specific songs with emotionally charged memories, both joyful and painful. Fo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nypost.com  
    Title: New York Post Music doesn't just evoke memories  
-   Link: [https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/](https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/)  
+   Link: <a href="https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the study, participants memorized neutral stories and later recalled them while listening to positive music, negative music, or silenc...</p></details>
